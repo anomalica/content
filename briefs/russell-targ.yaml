@@ -1,0 +1,1030 @@
+schema: anomalica/brief/1
+brief_hash: 47a9607f135bb636fd85b1455cf8fe3f793278ab6a2205c10d9a0a09be73d60e
+page:
+  kind: entity
+  node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+  node_type: person
+  title: Russell Targ
+  slug: russell-targ
+  claim_count: 23
+  claim_count_total: 23
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+  title: Harold E. Puthoff
+  node_type: person
+  slug: harold-e-puthoff
+  shared_claims: 19
+- node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+  title: SRI International
+  node_type: organisation
+  slug: sri-international
+  shared_claims: 15
+- node_id: 3459248f-19d9-4476-bac6-9687ede09aa4
+  title: Jane Katra
+  node_type: person
+  slug: jane-katra
+  shared_claims: 4
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 1
+- node_id: c8520928-93f3-4579-8259-dbe0aeeec7c3
+  title: Elisabeth Targ
+  node_type: person
+  slug: elisabeth-targ
+  shared_claims: 1
+- node_id: 7aeae7fe-4308-48f7-99db-0a7af8f54464
+  title: Elisabeth Targ's death (2002)
+  node_type: event
+  slug: elisabeth-targs-death-2002
+  shared_claims: 1
+- node_id: f82d2687-d617-4dfe-998a-0b419daa4cc8
+  title: Elisabeth Targ's husband
+  node_type: person
+  slug: elisabeth-targs-husband
+  shared_claims: 1
+- node_id: 101c26f5-00b3-4d25-9163-9b8140824acc
+  title: Ganzfeld procedure
+  node_type: topic
+  slug: ganzfeld-procedure
+  shared_claims: 1
+- node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+  title: Ingo Swann
+  node_type: person
+  slug: ingo-swann
+  shared_claims: 1
+- node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+  title: Joseph McMoneagle
+  node_type: person
+  slug: joseph-mcmoneagle
+  shared_claims: 1
+- node_id: 20590172-0bd0-4122-bf4b-16af0a491827
+  title: 'Miracles of Mind: Exploring Nonlocal Mind and Spiritual Healing (book by
+    Russell Targ and Jane Katra)'
+  node_type: document
+  slug: miracles-of-mind-exploring-nonlocal-mind-and-spiritual-healing-book-by-russell-targ-and-jane-katra
+  shared_claims: 1
+- node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+  title: National Security Agency (NSA)
+  node_type: organisation
+  slug: national-security-agency-nsa
+  shared_claims: 1
+- node_id: 5884a8ca-9d73-4fe8-a349-9f4a0158dc26
+  title: Outbounder Remote Viewing
+  node_type: topic
+  slug: outbounder-remote-viewing
+  shared_claims: 1
+- node_id: 183e6ba7-764f-4eaf-8c81-15715949dad8
+  title: Proceedings of the Institute of Electrical and Electronics Engineers (IEEE)
+  node_type: organisation
+  slug: proceedings-of-the-institute-of-electrical-and-electronics-engineers-ieee
+  shared_claims: 1
+- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+  title: Remote Viewing (RV)
+  node_type: topic
+  slug: remote-viewing-rv
+  shared_claims: 1
+- node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+  title: Stanford University
+  node_type: organisation
+  slug: stanford-university
+  shared_claims: 1
+- node_id: 25f7474b-76d5-4475-88dd-38b0bb6b390c
+  title: 'The Heart of the Mind: Using Our Mind to Transform Our Consciousness (book
+    by Russell Targ and Jane Katra)'
+  node_type: document
+  slug: the-heart-of-the-mind-using-our-mind-to-transform-our-consciousness-book-by-russell-targ-and-jane-katra
+  shared_claims: 1
+- node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+  title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+  node_type: organisation
+  slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+  shared_claims: 1
+- node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+  title: nonlocal consciousness
+  node_type: topic
+  slug: nonlocal-consciousness
+  shared_claims: 1
+claims:
+- claim_id: fadb57c8-ea4e-41aa-ac48-caede7a11946
+  claim_hash: aaaeeed961456d112cc763aaf965c6a6971b465f643d53fd96ea815424750762
+  content: According to Hal Puthoff and Russell Targ's report on SRI International's
+    remote viewing research, persons with no previous exposure to remote viewing concepts,
+    such as visiting government scientists and contract monitors, learned to perform
+    well under the experimental procedure developed at SRI.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
+      Historical Perspective and Recent Research'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch16:2166-2423
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: b38c3f0f-e758-4bc5-bbca-248464eca087
+  claim_hash: 016f11024d6c82b90246436da64c62ae3a63b1c5892e8f9e61c8ab9b3e2c0e33
+  content: According to Hal Puthoff and Russell Targ's report, subjects who trained
+    over a one-year period performed excellently under a variety of experimental conditions
+    at SRI International.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
+      Historical Perspective and Recent Research'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch16:2433-2541
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 8bef8daf-91e6-4f65-bc05-f65963c367d4
+  claim_hash: 07730619a62930aab1cefa26c649fff628d78721ae4725437c75686fadd22a7d
+  content: Hal Puthoff and Russell Targ's accumulated SRI International data indicated
+    that both specially selected and unselected persons could be assisted in developing
+    remote perceptual abilities up to a level of useful information transfer.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
+      Historical Perspective and Recent Research'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch16:2553-2734
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 259bd5d6-c58f-4903-b4db-0b09726fcd4a
+  claim_hash: c2417c8a0454cbcfb78656730ddc610515cc7faa63c6e7a496121e10a79614a5
+  content: Joseph McMoneagle considers that "perform well" in Hal Puthoff and Russell
+    Targ's SRI International report did not imply world-class remote viewing, but
+    rather the ability to display psychic functioning under controlled conditions,
+    achieving a better-than-chance result.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch16:3129-3267
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: f0f06ca1-2502-415c-bab2-b490d93768f7
+  claim_hash: 6f6e84f08f479cae23f7a749b5411cec2661625ee35ec4f65d50c0a79ea6c7d2
+  content: Most of the subjects Hal Puthoff and Russell Targ worked with at SRI International
+    displayed some degree of remote viewing talent from the outset.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch16:3847-3958
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 0a65b0eb-f7d0-467d-9cb8-a2daff7291b5
+  claim_hash: 2ea4d48eece78678892d52f730acde4421918697639b32edf59ca8663a2a3b39
+  content: Most of the subjects Hal Puthoff and Russell Targ worked with at SRI International
+    voluntarily chose to continue their involvement out of a strong personal interest
+    in remote viewing, a form of self-selection.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch16:3967-4096
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: ff15e2e2-e2fe-4ebb-b5a6-f5ef8f86394f
+  claim_hash: cf195452ad85ca57e5d999b6160e198e57dbc7f107ed5a7c3a5b2d6ba494bcfd
+  content: According to Hal Puthoff and Russell Targ's SRI International observations,
+    remote viewing subjects should have the ability to process information within
+    a high-stimulation environment, such as a Ganzfeld setting.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
+      Historical Perspective and Recent Research'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 101c26f5-00b3-4d25-9163-9b8140824acc
+    title: Ganzfeld procedure
+    slug: ganzfeld-procedure
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch16:4766-4877
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: ccfd7176-87e6-4942-b781-5f369a96f05f
+  claim_hash: 8b9cac9ba5d691d022f37db69b7f3ffb9f175507e548f9eb79ce3a7d2b583d54
+  content: According to Hal Puthoff and Russell Targ's SRI International observations,
+    remote viewing subjects should be self-selected.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
+      Historical Perspective and Recent Research'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch16:5174-5201
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: eb3f2c64-9796-44d2-8cea-83d479dc0b0b
+  claim_hash: 65cbb1726c7d2261644a89c169dc2529b7f9b0c7c60e1c49795b48a5d731ccac
+  content: According to Hal Puthoff and Russell Targ's SRI International observations,
+    remote viewing subjects should be able to learn through example.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
+      Historical Perspective and Recent Research'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch16:5212-5256
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 3b0883c9-abdb-4316-b7ca-510052fa2eae
+  claim_hash: ff6f1eb44304d41b76101443a265adcf049eb7b5487198cef286d10b74d506b2
+  content: According to Hal Puthoff and Russell Targ's SRI International observations,
+    remote viewing subjects should be open to the probability of paranormal information
+    transfer.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
+      Historical Perspective and Recent Research'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch16:5266-5338
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: c69809bc-489e-40b4-8f46-7db1038163ab
+  claim_hash: b01fd17177ee8eade863ca60b6f2b20307b7b57a6e77be954d5f5476bb4f6791
+  content: According to Hal Puthoff and Russell Targ's SRI International observations,
+    remote viewing subjects should be able to deal with public scrutiny, negative
+    reactions of society, ridicule, and failure.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
+      Historical Perspective and Recent Research'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch16:5349-5465
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 76cc37d6-70fe-4dae-a94b-0143271fd681
+  claim_hash: 325fe3566744004ac2c06f78ed2d925910b0c6e4cdf3398ebe71187dbc370050
+  content: According to Hal Puthoff and Russell Targ's SRI International observations,
+    remote viewing subjects should have an artistic talent capable of expressing their
+    perceptions, such as drawing or sketching.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
+      Historical Perspective and Recent Research'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch16:5475-5585
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: af067927-62ee-4e17-9d7f-ddc4b37e5c6f
+  claim_hash: 39d40ed13b7995bc2b142194bf3fda14af715ab94c88bd37018b5e06bcbb87df
+  content: According to Hal Puthoff and Russell Targ's SRI International observations,
+    remote viewing subjects should be capable of providing imaginative, out-of-the-box
+    solutions to problems.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
+      Historical Perspective and Recent Research'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch16:5699-5784
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 67107fc6-5be5-4e79-8145-06b5323e11ef
+  claim_hash: fa5c62c9b976628c0db4747db3aa313cec81d859a4d56303d17a255d664babbe
+  content: According to Hal Puthoff and Russell Targ's SRI International observations,
+    remote viewing subjects should demonstrate right-brain specialisation characteristics,
+    such as a flair for musical rhythm and melody or a higher creative sense for shape,
+    form, and texture.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
+      Historical Perspective and Recent Research'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch16:5795-5965
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 7d5fb69a-fa50-4faa-a48e-47a26438ecba
+  claim_hash: 4689eedba9132828a5eb2c29e03a86e6deb84ec1c78db80e935478a431acc9bc
+  content: According to Hal Puthoff and Russell Targ's SRI International observations,
+    remote viewing subjects should have a preference for reporting non-analytic data
+    over a need to produce function or name the target.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'A Perceptual Channel for Information Transfer over Kilometer Distances:
+      Historical Perspective and Recent Research'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch16:5975-6093
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 28ae29f3-6fce-459c-b88b-a56ed32a6fc8
+  claim_hash: a600cd5ab5ecd89310fbc75195d0ba880ff0d2e8c5067f8992b638810defd61c
+  content: The Outbounder Remote Viewing protocol is historically the baseline protocol
+    that brought notoriety to remote viewing following its publication in the Institute
+    of Electrical and Electronics Engineers (IEEE) journal by Hal Puthoff and Russell
+    Targ in 1976.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 183e6ba7-764f-4eaf-8c81-15715949dad8
+    title: Proceedings of the Institute of Electrical and Electronics Engineers (IEEE)
+    slug: proceedings-of-the-institute-of-electrical-and-electronics-engineers-ieee
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 5884a8ca-9d73-4fe8-a349-9f4a0158dc26
+    title: Outbounder Remote Viewing
+    slug: outbounder-remote-viewing
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  date: '1976'
+  date_end: null
+  location_in_record: ch17:4388-4541
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: f4cb33f4-fcae-4d9c-ac99-b5f27a536892
+  claim_hash: db72418f5e60be7dad8e399cfe4f063e886f3d3cc698bae7e5300308499f1136
+  content: Hal Puthoff and Russell Targ were directly responsible for the Cognitive
+    Sciences Laboratory's accomplishments during the early years, 1972 through 1986.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  date: '1972'
+  date_end: null
+  location_in_record: ch9:7692-7822
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 2d7129da-8ba7-4066-a2d9-a43d43721086
+  claim_hash: 92dec14c5b2fdce4e0d6434ae36eb32d599ae6d730797e0fac82cb444b9ba06d
+  content: Jane Katra coauthored two books on nonlocal consciousness and healing with
+    physicist Russell Targ, a pioneer in the development of the laser.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 20590172-0bd0-4122-bf4b-16af0a491827
+    title: 'Miracles of Mind: Exploring Nonlocal Mind and Spiritual Healing (book
+      by Russell Targ and Jane Katra)'
+    slug: miracles-of-mind-exploring-nonlocal-mind-and-spiritual-healing-book-by-russell-targ-and-jane-katra
+  - node_id: 25f7474b-76d5-4475-88dd-38b0bb6b390c
+    title: 'The Heart of the Mind: Using Our Mind to Transform Our Consciousness (book
+      by Russell Targ and Jane Katra)'
+    slug: the-heart-of-the-mind-using-our-mind-to-transform-our-consciousness-book-by-russell-targ-and-jane-katra
+  - node_id: 3459248f-19d9-4476-bac6-9687ede09aa4
+    title: Jane Katra
+    slug: jane-katra
+  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+    title: nonlocal consciousness
+    slug: nonlocal-consciousness
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  date: null
+  date_end: null
+  location_in_record: ch30:4544-4680
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: af850541-be4c-41f6-865e-b8e827479fbb
+  claim_hash: 081d032891f07e18780ac32be2b765c5de89593e52c95a15df4f13e14ed6c32a
+  content: Elisabeth Targ, a psychiatrist, was Jane Katra's close friend and Russell
+    Targ's daughter, and died in 2002.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3459248f-19d9-4476-bac6-9687ede09aa4
+    title: Jane Katra
+    slug: jane-katra
+  - node_id: 7aeae7fe-4308-48f7-99db-0a7af8f54464
+    title: Elisabeth Targ's death (2002)
+    slug: elisabeth-targs-death-2002
+  - node_id: c8520928-93f3-4579-8259-dbe0aeeec7c3
+    title: Elisabeth Targ
+    slug: elisabeth-targ
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  date: '2002'
+  date_end: null
+  location_in_record: ch30:4687-4766
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 38b2aa65-f941-4ad3-96a3-a53b7bd81e36
+  claim_hash: 3f45f4c824fe64fa1c112b533cff46487e1b27105437fda283cf3aed907bd37b
+  content: Elisabeth Targ's husband brought out Kate's letter while eating lunch with
+    Jane Katra and Russell Targ, and suggested Jane read it aloud.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 3459248f-19d9-4476-bac6-9687ede09aa4
+    title: Jane Katra
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jane Katra
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3459248f-19d9-4476-bac6-9687ede09aa4
+    title: Jane Katra
+    slug: jane-katra
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  - node_id: f82d2687-d617-4dfe-998a-0b419daa4cc8
+    title: Elisabeth Targ's husband
+    slug: elisabeth-targs-husband
+  date: null
+  date_end: null
+  location_in_record: ch30:7154-7291
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 93a8ee42-3453-4cfc-b937-e800c315d973
+  claim_hash: b7c580cd1dc32b270000d2fe922d4b0a13c9759f0554b8dc16f7e6b3f9f41847
+  content: After Jane Katra read the sequence of nonsense syllables aloud a few times,
+    Russell Targ recognised that the words were Russian, not nonsense.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+  provenance_chain:
+    origin_kind: speaker
+    origin: Russell Targ
+    relay:
+    - Jane Katra's account
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3459248f-19d9-4476-bac6-9687ede09aa4
+    title: Jane Katra
+    slug: jane-katra
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  date: null
+  date_end: null
+  location_in_record: ch30:7297-7446
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 3f74a70d-1e63-437a-9074-2c875c7ad747
+  claim_hash: 2c8a7a59cd3078d8eb85831b30719385d0c2d27906f75e9543b85b4d6c9d2808
+  content: Ingo Swann worked with Hal Puthoff and Russell Targ, two leading researchers
+    in the field of parapsychology.
+  original_excerpt: He soon began to work with Dr. Hal Puthoff and Russell Targ, two
+    of the leading researchers in the field of parapsychology.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+    title: Ingo Swann
+    slug: ingo-swann
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  date: null
+  date_end: null
+  location_in_record: 00:04:34.1-00:04:39.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 625a284f-b4d0-4b1e-a20c-70cf133e40cc
+  claim_hash: 9dbedf40688015961aae4468a0ce2baf00abf871f8c8304d28c59565747e022d
+  content: Harold Puthoff was a Stanford University researcher and an employee of
+    the National Security Agency when he and Russell Targ were approached by the Central
+    Intelligence Agency and told that Russia had a remote viewing programme.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+    title: National Security Agency (NSA)
+    slug: national-security-agency-nsa
+  - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+    title: Stanford University
+    slug: stanford-university
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    slug: russell-targ
+  date: null
+  date_end: null
+  location_in_record: ch11:25266-25447
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted

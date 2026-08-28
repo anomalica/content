@@ -1,0 +1,530 @@
+schema: anomalica/brief/1
+brief_hash: b85bef7b4672e23d0ba9cb5f067c9b88488351541b5ddc88e01d200fa61a153d
+page:
+  kind: entity
+  node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+  node_type: topic
+  title: Lucid Dreaming
+  slug: lucid-dreaming
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: d1e05233-43cd-4e3e-b9c3-d143478cd6a4
+  title: Dave Green
+  node_type: person
+  slug: dave-green
+  shared_claims: 4
+- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+  title: Chris Ramsay
+  node_type: person
+  slug: chris-ramsay
+  shared_claims: 3
+- node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+  title: Joseph McMoneagle
+  node_type: person
+  slug: joseph-mcmoneagle
+  shared_claims: 3
+- node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+  title: Out-of-Body Experience (OBE)
+  node_type: topic
+  slug: out-of-body-experience-obe
+  shared_claims: 3
+- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+  title: Remote Viewing (RV)
+  node_type: topic
+  slug: remote-viewing-rv
+  shared_claims: 3
+- node_id: 0834d5e1-f324-428c-9520-add8c8c5d532
+  title: Stephen LaBerge
+  node_type: person
+  slug: stephen-laberge
+  shared_claims: 3
+- node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+  title: Julia Mossbridge
+  node_type: person
+  slug: julia-mossbridge
+  shared_claims: 2
+- node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+  title: Precognitive Remote Viewing
+  node_type: topic
+  slug: precognitive-remote-viewing
+  shared_claims: 2
+- node_id: 344083bf-4d39-4eb0-a23c-61979a9ced10
+  title: Stanford University Sleep Research Center
+  node_type: organisation
+  slug: stanford-university-sleep-research-center
+  shared_claims: 1
+- node_id: e2e54c56-bb2e-404b-acde-395745fc950c
+  title: UK
+  node_type: place
+  slug: uk
+  shared_claims: 1
+- node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+  title: artificial intelligence (Artificial Intelligence (AI))
+  node_type: topic
+  slug: artificial-intelligence-artificial-intelligence-ai
+  shared_claims: 1
+claims:
+- claim_id: 1d739a49-a6f8-4527-99ba-0d9889ab90c0
+  claim_hash: b6aa6ca8dc3bf303309c371a7b6f7718734bf6313c2b33798b30871d4ff1d1ab
+  content: According to Stephen LaBerge of the Stanford University Sleep Research
+    Center, lucid dreaming is "being awake in your dreams."
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 0834d5e1-f324-428c-9520-add8c8c5d532
+    title: Stephen LaBerge
+  provenance_chain:
+    origin_kind: named
+    origin: Stephen LaBerge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0834d5e1-f324-428c-9520-add8c8c5d532
+    title: Stephen LaBerge
+    slug: stephen-laberge
+  - node_id: 344083bf-4d39-4eb0-a23c-61979a9ced10
+    title: Stanford University Sleep Research Center
+    slug: stanford-university-sleep-research-center
+  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+    title: Lucid Dreaming
+    slug: lucid-dreaming
+  date: null
+  date_end: null
+  location_in_record: ch25:13789-13908
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 57b366b6-29a3-4a34-b5e9-3a63a09d5462
+  claim_hash: 5e022acbca7a1072654fec79db64eca129d59ba76f323f540a66a0ba0ba4ae47
+  content: In the mid-1980s, Joseph McMoneagle participated in a number of experiments
+    with Stephen LaBerge in his sleep lab, in which McMoneagle was tasked with creating
+    a lucid dream and then, upon becoming lucid, performing a remote viewing of a
+    randomly designated target.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0834d5e1-f324-428c-9520-add8c8c5d532
+    title: Stephen LaBerge
+    slug: stephen-laberge
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+    title: Lucid Dreaming
+    slug: lucid-dreaming
+  date: '1985'
+  date_end: null
+  location_in_record: ch25:14440-14748
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 3aef118a-77f5-4fc8-a57a-def3617030f7
+  claim_hash: fed3ea077b77fb3e53bce791d04a10c4d089cb579349b44412b23c9cead800d5
+  content: Joseph McMoneagle's lucid dreaming and remote viewing experiments with
+    Stephen LaBerge were successful on a number of occasions.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0834d5e1-f324-428c-9520-add8c8c5d532
+    title: Stephen LaBerge
+    slug: stephen-laberge
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+    title: Lucid Dreaming
+    slug: lucid-dreaming
+  date: null
+  date_end: null
+  location_in_record: ch25:14756-14850
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 6a6dac8b-190b-429b-8520-91c3a731493e
+  claim_hash: 5c062c3f3ed6a79b628c569049365e00d5521e2abe027fa37639cb52a1cbf7c6
+  content: Joseph McMoneagle considers the lucid dream state, though difficult to
+    initiate and maintain, quite conducive to remote viewing, and believes the discipline
+    required to control it supports the discipline required for viewing.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+    title: Lucid Dreaming
+    slug: lucid-dreaming
+  date: null
+  date_end: null
+  location_in_record: ch25:14862-15099
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: c42fc401-988d-4fd2-be76-a49ef8d32c26
+  claim_hash: 30fa0210513ec41790c3288f5f5f99f53b67da527ca7f3870b112644c0ac9928
+  content: Chris Ramsay entered his first out-of-body experience by forcing his eyes
+    open inside a nightmare while aware it was a nightmare, having been in deep sleep.
+  original_excerpt: I was in deep sleep and then had a nightmare and then forced my
+    eyes open in the nightmare to like wake up because I was conscious that it was
+    a nightmare.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsay
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    slug: out-of-body-experience-obe
+  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+    title: Lucid Dreaming
+    slug: lucid-dreaming
+  date: null
+  date_end: null
+  location_in_record: 00:39:06.7-00:39:13.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 69dbd269-a71e-49e5-a62b-80eeb756b28f
+  claim_hash: fb013da864c9e5e37961f51d8e6e25e555238c075edae575e5f71fc568111a64
+  content: Chris Ramsay considers his out-of-body state objectively different from
+    a lucid dream, having woken from a lucid dream into it.
+  original_excerpt: It objectively didn't feel like a lucid dream. Like, I woke up
+    from a lucid dream into that, whatever that state was.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsay
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    slug: out-of-body-experience-obe
+  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+    title: Lucid Dreaming
+    slug: lucid-dreaming
+  date: null
+  date_end: null
+  location_in_record: 00:40:04.0-00:40:09.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: b7c4ea1c-1dab-476e-893a-4346f24d9af3
+  claim_hash: ff0939e1e600b8ad2bd36a63c448a4f37df8d47eaee1951e4d6ef913423cf3f1
+  content: Chris Ramsay began rolling out of his body from vivid or lucid dreams during
+    the night.
+  original_excerpt: And then it started happening where I would go into vivid dreams
+    or lucid dreaming, and I would roll out of a lucid dream out of my body.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsay
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    slug: out-of-body-experience-obe
+  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+    title: Lucid Dreaming
+    slug: lucid-dreaming
+  date: null
+  date_end: null
+  location_in_record: 00:43:35.3-00:43:42.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 282e223f-95ba-421d-9dda-cd7195e9f6d5
+  claim_hash: 8e5703363a60f8c8de214aed867efe0e159ba0eea3b94fc16c88d5c9a5ee0501
+  content: Dave Green is a lucid dreamer and artist in the UK who can lucid dream
+    practically at will.
+  original_excerpt: we recently worked with a lucid dreamer who is also an artist,
+    Dave Green in the UK ... And then he can lucid dream practically at will.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+    title: Lucid Dreaming
+    slug: lucid-dreaming
+  - node_id: d1e05233-43cd-4e3e-b9c3-d143478cd6a4
+    title: Dave Green
+    slug: dave-green
+  - node_id: e2e54c56-bb2e-404b-acde-395745fc950c
+    title: UK
+    slug: uk
+  date: null
+  date_end: null
+  location_in_record: 01:28:18.0-01:28:23.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: a93d96ff-7757-4d4b-8a07-04aad3cdc18c
+  claim_hash: b8cb8b9d47b418b6d47b0e8e7761e0320f5f060d4088bce0a248896a631db93e
+  content: Dave Green offers to make portraits for people by asking within a lucid
+    dream to be shown the person's portrait, which then appears over their face, and
+    sketching it after waking.
+  original_excerpt: He actually asks people, you know, would you like me to do a portrait
+    for you? ... He asks in his lucid dream, so here's the person, show me the portrait.
+    And it poses over their face the portrait. And then he goes back to sleep and
+    then the morning he wakes up and sketches it out.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: named
+    origin: Dave Green
+    relay:
+    - Julia Mossbridge
+  attribution_mode: unknown
+  node_refs:
+  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+    title: Lucid Dreaming
+    slug: lucid-dreaming
+  - node_id: d1e05233-43cd-4e3e-b9c3-d143478cd6a4
+    title: Dave Green
+    slug: dave-green
+  date: null
+  date_end: null
+  location_in_record: 01:28:23.6-01:28:44.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 89015a38-6be5-4d7e-9944-8fe0d95a1230
+  claim_hash: b6b64de90018ab8ac0eaa83448e737c72b9552069a954024daa0c13bfadc8a69
+  content: Julia Mossbridge's team ran a precognitive remote viewing experiment with
+    Dave Green in his lucid dreams.
+  original_excerpt: And so we thought, well, can we teach him to be a precognitive
+    remote viewer in his lucid dreams? And so we did that kind of experiment with
+    him.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+    title: Lucid Dreaming
+    slug: lucid-dreaming
+  - node_id: d1e05233-43cd-4e3e-b9c3-d143478cd6a4
+    title: Dave Green
+    slug: dave-green
+  date: null
+  date_end: null
+  location_in_record: 01:28:46.0-01:28:54.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 17b98e40-8ffc-46ba-ae0e-56d5a5b94486
+  claim_hash: b989f60647bf5cb2aebb6612281b2cdb8df7de99082d01079b7e84d36dcb45d2
+  content: In the lucid-dream precognitive remote viewing experiment with Dave Green,
+    human judges found little correspondence across 10 dreams except one striking
+    case, while five different artificial intelligence models found that same case
+    plus further correspondences that could then be analysed statistically.
+  original_excerpt: the human judges, they could not find really much correspondence,
+    except for one case which was really striking out of 10 dreams ... good ai judges
+    found that case we tried five different models found that same case but also found
+    all these other cases and correspondences and then we could do statistics on that
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (Artificial Intelligence (AI))
+    slug: artificial-intelligence-artificial-intelligence-ai
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+    title: Lucid Dreaming
+    slug: lucid-dreaming
+  - node_id: d1e05233-43cd-4e3e-b9c3-d143478cd6a4
+    title: Dave Green
+    slug: dave-green
+  date: null
+  date_end: null
+  location_in_record: 01:28:54.8-01:29:18.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null

@@ -1,0 +1,2856 @@
+schema: anomalica/brief/1
+brief_hash: 6432a515f949b265c41ac14c091c73894dde947ecce7ba9116511cd6342c8678
+page:
+  kind: entity
+  node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+  node_type: person
+  title: Walter Haut
+  slug: walter-haut
+  claim_count: 72
+  claim_count_total: 72
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 13
+- node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+  title: William Blanchard
+  node_type: person
+  slug: william-blanchard
+  shared_claims: 9
+- node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+  title: Don Schmitt
+  node_type: person
+  slug: don-schmitt
+  shared_claims: 7
+- node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+  title: Roswell incident (1947)
+  node_type: event
+  slug: roswell-incident-1947
+  shared_claims: 7
+- node_id: f888411e-b882-4f89-8275-350d19f6c52d
+  title: Jesse Marcel
+  node_type: person
+  slug: jesse-marcel
+  shared_claims: 5
+- node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+  title: USA, New Mexico, Roswell Army Air Force Base
+  node_type: place
+  slug: new-mexico-roswell-army-air-force-base-usa
+  shared_claims: 5
+- node_id: b396851f-a4bb-406a-9a7f-761ea902a164
+  title: Building 84 (B-29 hangar, Roswell Army Air Base)
+  node_type: object
+  slug: roswell-army-air-base-building-84-b-29-hangar
+  shared_claims: 4
+- node_id: 71809a0e-d463-48c9-b9ae-6ef4945c0ec8
+  title: Julie Shuster
+  node_type: person
+  slug: julie-shuster
+  shared_claims: 4
+- node_id: ac1d1ee5-756a-4a27-937b-a4664bed217d
+  title: Walter Haut affidavit (sworn 2002, released 2007)
+  node_type: document
+  slug: released-2007-walter-haut-affidavit-sworn-2002
+  shared_claims: 4
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 4
+- node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+  title: Anne Strieber
+  node_type: person
+  slug: anne-strieber
+  shared_claims: 3
+- node_id: 834b12de-6700-4560-ba40-5689478b6585
+  title: Thomas Carey
+  node_type: person
+  slug: thomas-carey
+  shared_claims: 3
+- node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+  title: Roger Ramey
+  node_type: person
+  slug: roger-ramey
+  shared_claims: 2
+- node_id: 19e35faf-a0e1-4b80-ac06-4f956711cbdf
+  title: Roswell Unidentified Flying Object (UFO) Museum
+  node_type: organisation
+  slug: roswell-unidentified-flying-object-ufo-museum
+  shared_claims: 2
+- node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+  title: USA, New Mexico
+  node_type: place
+  slug: new-mexico-usa
+  shared_claims: 2
+- node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
+  title: Air Materiel Command
+  node_type: organisation
+  slug: air-materiel-command
+  shared_claims: 1
+- node_id: b3f39800-6a2a-4679-8abe-a4c09a0786c1
+  title: In Plain Sight
+  node_type: document
+  slug: in-plain-sight
+  shared_claims: 1
+- node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
+  title: July 8, 1947 Roswell Army Air Field press release
+  node_type: document
+  slug: 1947-roswell-army-air-field-press-release-july-8
+  shared_claims: 1
+- node_id: 196f1242-9c8d-4f72-9f77-1ad2106268dc
+  title: KGFL (radio station)
+  node_type: organisation
+  slug: kgfl-radio-station
+  shared_claims: 1
+- node_id: 11b4d08d-a672-4915-8750-bb97c57e8d96
+  title: KSWS (radio station)
+  node_type: organisation
+  slug: ksws-radio-station
+  shared_claims: 1
+- node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+  title: Roswell Army Air Field
+  node_type: organisation
+  slug: roswell-army-air-field
+  shared_claims: 1
+- node_id: 4097132e-4e6a-44b8-9c94-da285f753b9c
+  title: Roswell Daily Record
+  node_type: organisation
+  slug: roswell-daily-record
+  shared_claims: 1
+- node_id: 25070ed2-0721-488d-ba6b-3adac918a006
+  title: Roswell Morning Dispatch
+  node_type: organisation
+  slug: roswell-morning-dispatch
+  shared_claims: 1
+- node_id: fd8b6541-d1f6-47ac-ab22-628a3613f682
+  title: USA, Ohio, Wright Field
+  node_type: place
+  slug: ohio-wright-field-usa
+  shared_claims: 1
+- node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+  title: USA, Texas, Fort Worth
+  node_type: place
+  slug: texas-fort-worth-usa
+  shared_claims: 1
+- node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+  title: United States Army
+  node_type: organisation
+  slug: united-states-army
+  shared_claims: 1
+- node_id: 00e0c704-f6aa-413d-a561-150cab083eae
+  title: Witness to Roswell
+  node_type: document
+  slug: witness-to-roswell
+  shared_claims: 1
+claims:
+- claim_id: df76553f-a07c-4161-a321-e7f9c21590bb
+  claim_hash: f3b7574ead315e57d3f8144e38afe4d6efef724a69a4aebc1148c693def156b0
+  content: The Roswell Army Air Field press release of July 8, 1947 was issued by
+    public relations officer Lieutenant Walter Haut, on order from the base commander.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
+    title: July 8, 1947 Roswell Army Air Field press release
+    slug: 1947-roswell-army-air-field-press-release-july-8
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+    title: Roswell Army Air Field
+    slug: roswell-army-air-field
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch14:14274-14372
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 4d0c03f2-5f51-4884-b6de-467411880fa9
+  claim_hash: d4883687fee157a9a954306a6b04946e5dff90359c7f5a5064e9bd4cd0a42305
+  content: At midday on 8 July 1947, Colonel William Blanchard ordered his base public
+    information officer Lieutenant Walter Haut to issue a press release announcing
+    that the US Army had recovered a flying disc.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch7:11681-11874
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 55ca4a47-6961-490c-9666-a5e171e5806b
+  claim_hash: 9bd5fa0ba39ea660c7ca4663e08775263d06f93bb8752f2f198e13b20c0ccf68
+  content: Former US Army public information officer Lieutenant Walter Haut testified
+    in a 2002 deathbed affidavit that he was taken out to a hangar by Colonel William
+    Blanchard to view recovered child-sized bodies with abnormally large heads, lying
+    under a tarpaulin at the base.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: named
+    origin: Walter Haut
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '2002'
+  date_end: null
+  location_in_record: ch7:17570-17864
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 4975eefe-669c-47ca-bc7c-ac006e2675b8
+  claim_hash: 829855b700e8776f9747efd434e18569a3918712e070e0628ecd83f87b02c08b
+  content: Walter Haut alleged that Colonel William Blanchard allowed him to see an
+    apparent alien craft in a hangar approximately 3.7 to 4.6 metres in length, slightly
+    less wide, about 1.8 metres high and more of an egg shape, with poor lighting
+    but a surface that appeared metallic.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: named
+    origin: Walter Haut
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '2002'
+  date_end: null
+  location_in_record: ch7:17911-18135
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b36edaf3-485b-4ead-baa3-c242b6e5987e
+  claim_hash: dd03b7f6277b555ed202e8a611996e483d31816a5d9a637c5197708ac5f94751
+  content: Walter Haut said he was convinced that what he personally observed at the
+    Roswell base was some type of craft and its crew from outer space.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: named
+    origin: Walter Haut
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '2002'
+  date_end: null
+  location_in_record: ch7:18146-18252
+  evidence:
+    score: null
+    independent_sources: 2
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: fbb5d4d6-9277-455b-aad9-17d756e29a83
+  claim_hash: 0def228e8d9311cfa96fd319e43822a9f46a59820ffade579d3d572e337619d7
+  content: Walter Haut alleged that Colonel William Blanchard's press release was
+    a ruse to divert public attention from the main recovery operation of the craft
+    from a different site.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: named
+    origin: Walter Haut
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '2002'
+  date_end: null
+  location_in_record: ch7:18262-18407
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 12197459-edd4-4596-bc09-7ba0e4009f19
+  claim_hash: 9663d2979d32123f4035a8ac933291eae18f40c9c8b9c13b2b52efb0d978ce65
+  content: Sceptics charged that Walter Haut might not have been in full possession
+    of his faculties so close to his own death and that the authors of Witness to
+    Roswell, Don Schmitt and Thomas Carey, actually wrote his dramatic affidavit.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: unnamed sceptics of the Walter Haut affidavit
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 00e0c704-f6aa-413d-a561-150cab083eae
+    title: Witness to Roswell
+    slug: witness-to-roswell
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  - node_id: 834b12de-6700-4560-ba40-5689478b6585
+    title: Thomas Carey
+    slug: thomas-carey
+  date: null
+  date_end: null
+  location_in_record: ch7:18414-18627
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9b29474e-c205-4dee-9813-93a2c64118f4
+  claim_hash: 192c9409eae13d3aaabdf04fca1f713837817613c92537c22d35b54c8d967452
+  content: Don Schmitt told the author of In Plain Sight that nobody worked on Walter
+    Haut or spent more time with him than Schmitt and Thomas Carey did, trying to
+    get him to open up.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+  provenance_chain:
+    origin_kind: named
+    origin: Don Schmitt
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  - node_id: 834b12de-6700-4560-ba40-5689478b6585
+    title: Thomas Carey
+    slug: thomas-carey
+  - node_id: b3f39800-6a2a-4679-8abe-a4c09a0786c1
+    title: In Plain Sight
+    slug: in-plain-sight
+  date: null
+  date_end: null
+  location_in_record: ch7:18639-18759
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 2cc93094-18ef-473e-b1ec-f34d2c68b429
+  claim_hash: 9cb9b24fefb6b2b2fce54e1f82f99e244213b2ffd64e910acb0fdc6d94078c0f
+  content: Don Schmitt acknowledged that he and Thomas Carey drafted what Walter Haut
+    told them into an affidavit, but said Haut was very clearly of sound mind and
+    approved every word.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+  provenance_chain:
+    origin_kind: named
+    origin: Don Schmitt
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  - node_id: 834b12de-6700-4560-ba40-5689478b6585
+    title: Thomas Carey
+    slug: thomas-carey
+  date: null
+  date_end: null
+  location_in_record: ch7:18765-18894
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: bffdd553-2575-49a9-a2be-ca39ed1b65d9
+  claim_hash: b4de2edee58f210d0ce6958d9730b17f8c85c2d99345296e8d855a3427672f9b
+  content: Don Schmitt said they prepared Walter Haut's statement based on all the
+    information Haut had provided them through the years, and that Haut read through
+    it with his daughter, a notary, and another witness present.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+  provenance_chain:
+    origin_kind: named
+    origin: Don Schmitt
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  date: null
+  date_end: null
+  location_in_record: ch7:18901-19107
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 98c8f72f-f20a-473b-b271-acae8a0ac460
+  claim_hash: f9d0be92421b50391249b6d249cf7a4202167e620582725df2de5ed44364b511
+  content: Don Schmitt said that, as Walter Haut's daughter wrote in a statement,
+    if Haut had disagreed with a word of the affidavit, he would never have signed
+    it.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+  provenance_chain:
+    origin_kind: named
+    origin: Walter Haut's daughter
+    relay:
+    - Don Schmitt
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  date: null
+  date_end: null
+  location_in_record: ch7:19116-19229
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 2d24a409-e9b8-4a21-828e-79ae40bc8d0d
+  claim_hash: cef0cbf4bd6a54f860a39aa203801b276bbb6c1836f4cdd56c1a0f13f7ab47c9
+  content: One problem with Walter Haut's posthumous affidavit was that he was not
+    around to answer further questions about it, and he had previously sworn an earlier
+    affidavit making no mention of recovered extra-terrestrials or a craft.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  date: null
+  date_end: null
+  location_in_record: ch7:19461-19694
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 84fe1d41-4b7d-4e85-bb1d-9f546d42fe43
+  claim_hash: 5344d60b739bc09954cd82c143c4643e3b3d71001634ebbec67f11e1297b9602
+  content: Walter Haut's daughter, Julie Shuster, witnessed his affidavit.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 71809a0e-d463-48c9-b9ae-6ef4945c0ec8
+    title: Julie Shuster
+    slug: julie-shuster
+  date: null
+  date_end: null
+  location_in_record: ch7:20333-20421
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 98734dcd-1df9-499e-a94e-0eb2e4935616
+  claim_hash: e100f801d57c0b45abbe4132a5fcf0009908a18b3bd96ef4c1adb00f11b89585
+  content: Julie Shuster was employed by the Roswell UFO Museum, a local tourism attraction
+    co-founded by her father Walter Haut.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 19e35faf-a0e1-4b80-ac06-4f956711cbdf
+    title: Roswell Unidentified Flying Object (UFO) Museum
+    slug: roswell-unidentified-flying-object-ufo-museum
+  - node_id: 71809a0e-d463-48c9-b9ae-6ef4945c0ec8
+    title: Julie Shuster
+    slug: julie-shuster
+  date: null
+  date_end: null
+  location_in_record: ch7:20391-20472
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 48996f14-7c9d-4b99-b750-d2e713dec406
+  claim_hash: 4ae6f9c39d9ffaeda24c4aa66c59e54ec7e1fa743b2cebd228305e7380f9369b
+  content: Critics suggested Julie Shuster had a financial incentive to promote the
+    extra-terrestrial explanation of the Roswell incident and that her dying father
+    Walter Haut was willing to go along with it.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unnamed critics
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 71809a0e-d463-48c9-b9ae-6ef4945c0ec8
+    title: Julie Shuster
+    slug: julie-shuster
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch7:20477-20619
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e381239e-ca37-4806-ab47-f7c433d60ef2
+  claim_hash: 8e31ece24493609c39c5f9713a86fcb39f8b254a0f9b396a3d45e72217a33e46
+  content: Don Schmitt considers the suggestion that Julie Shuster and Walter Haut
+    fabricated a UFO story for financial gain unfounded, saying Julie Shuster was
+    paid a nominal salary not much above minimum wage to run the Roswell UFO Museum.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+  provenance_chain:
+    origin_kind: speaker
+    origin: Don Schmitt
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 19e35faf-a0e1-4b80-ac06-4f956711cbdf
+    title: Roswell Unidentified Flying Object (UFO) Museum
+    slug: roswell-unidentified-flying-object-ufo-museum
+  - node_id: 71809a0e-d463-48c9-b9ae-6ef4945c0ec8
+    title: Julie Shuster
+    slug: julie-shuster
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  date: null
+  date_end: null
+  location_in_record: ch7:20836-21106
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: efe057f4-cbb5-42ca-8e91-1269733e8348
+  claim_hash: 4ba4a5e1e1b9dfdb27757be46ec04ff73b9b7dd805dce2a81fbde3bc0586ee50
+  content: Don Schmitt considers Walter Haut sincere and truthful in his affidavit
+    about the Roswell incident.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+  provenance_chain:
+    origin_kind: speaker
+    origin: Don Schmitt
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch7:21113-21195
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 0334f11a-1d91-413a-bf3a-2d8472734ed0
+  claim_hash: c8d7be55aef62a8e01f89eeb85ebb382e8b2a8fc9960c23d8cf342e999996e82
+  content: Walter Haut remained in Roswell after his retirement.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  date: null
+  date_end: null
+  location_in_record: ch11:1367-1435
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 07fc1176-d7a9-473a-a4dc-bcdc2347771d
+  claim_hash: 77c119f898e2f518ad2eb3e77a0f3a736d25aa9420ff8b480b2db3e5370e3e8b
+  content: Whitley Strieber and Anne Strieber met Walter Haut at his home and had
+    a fairly extensive conversation with him about his work as Roswell Army Air Force
+    Base press officer.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+    title: Anne Strieber
+    slug: anne-strieber
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+    title: USA, New Mexico, Roswell Army Air Force Base
+    slug: new-mexico-roswell-army-air-force-base-usa
+  date: null
+  date_end: null
+  location_in_record: ch11:1594-1703
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 5e4404fd-efe0-4fe9-903a-45c664468e0a
+  claim_hash: d1cc61ece21db817fa2c3df0eca65f12478a10beba939361ddae5dd01f230166
+  content: Walter Haut told Whitley Strieber and Anne Strieber that he had been surprised
+    when a lid had suddenly been put on the whole Roswell story.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  date: null
+  date_end: null
+  location_in_record: ch11:1716-1817
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: d06b35aa-d665-4975-bd39-8a98f3643588
+  claim_hash: 85bb3e9cf26e751d120183ae729d06e7003ffe32faeead45ecdd3f3a6596de0e
+  content: Walter Haut expressed disappointment that the greatest story of his life
+    had been spiked.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  date: null
+  date_end: null
+  location_in_record: ch11:1824-1898
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 1043044d-0ff2-4f1a-a419-b0fb40e1304f
+  claim_hash: 303d72bf22857cc16a38d64c78785d204860431f300d2bcdda1f78281b2adc3d
+  content: Walter Haut affirmed that Jesse Marcel's description of the debris found
+    in the desert thirty miles from Roswell was unusual.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: null
+  date_end: null
+  location_in_record: ch11:1908-2035
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 6fca7aac-1f84-4516-8359-30c2fabbf6bb
+  claim_hash: b074f9b6c4a6d94138c4891e48f914507b6bc9c9a94d42acf177750c3332a297
+  content: Walter Haut said it was his understanding that the Roswell debris had been
+    flown to the Air Materiel Command at Wright Field.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
+    title: Air Materiel Command
+    slug: air-materiel-command
+  - node_id: fd8b6541-d1f6-47ac-ab22-628a3613f682
+    title: USA, Ohio, Wright Field
+    slug: ohio-wright-field-usa
+  date: null
+  date_end: null
+  location_in_record: ch11:2048-2144
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: f5a968dd-017a-4ca7-a037-c984f668a96a
+  claim_hash: 51d7970e0d2f547c1b6690e0fe39a78243760bc96d7a5dbbd3a0f47806e3962e
+  content: When Whitley Strieber asked Walter Haut whether the remains of a kite or
+    weather balloon would have received the treatment given to the Roswell debris,
+    Walter Haut said no.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  date: null
+  date_end: null
+  location_in_record: ch11:2151-2269
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 0ce83969-109f-4b9c-ac94-e4909c082fb7
+  claim_hash: d8eae882644d4aa8bc3fa29d114677d5f98d164826a0653e0d6d4ac3c9f3a367
+  content: Walter Haut told Whitley Strieber that Jesse Marcel was one of the most
+    honest people he had ever known.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: null
+  date_end: null
+  location_in_record: ch11:2274-2398
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 10f52b79-5a18-434f-8853-25c90d5fec32
+  claim_hash: dd3746721196464b1228051753cd47b75fb8cf2132ebd8d922e0d0afecf2c11a
+  content: When asked about the existence of bodies at Roswell, Walter Haut became
+    evasive, which Whitley Strieber and Anne Strieber both later agreed suggested
+    he was trying not to lie but also not to tell the truth.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+    title: Anne Strieber
+    slug: anne-strieber
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  date: null
+  date_end: null
+  location_in_record: ch11:2406-2644
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 6347f10a-a363-402c-84d2-069da600c4e9
+  claim_hash: 1c5223b1e897fb2b05f70fc46054ca61e40d04eccb8d990975b564cafe422b2a
+  content: When Anne Strieber asked Walter Haut whether he couldn't talk about it,
+    he replied something like, if I couldn't tell you, then I wouldn't.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+    title: Anne Strieber
+    slug: anne-strieber
+  date: null
+  date_end: null
+  location_in_record: ch11:2798-2935
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 55ccbc7c-c5d5-4d2a-8976-5e4e766ddfb1
+  claim_hash: 94576d333ab14cc1fad38beaa75fe33d7cf9ed5a13e9d1ddca44c84166804dc9
+  content: Walter Haut died on 2005-12-15.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  date: '2005-12-15'
+  date_end: null
+  location_in_record: ch11:3064-3092
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 6ca9d812-d4c7-42e0-ac62-df5865e000e1
+  claim_hash: 04cbd7182e4e5b64b42fc1311b9dc746f98d9c97f6cefe372e7ef069f7ed1dfb
+  content: In 2007, Walter Haut's family released an affidavit that he had sworn and
+    sealed in 2002 in anticipation of death, with instructions that it be made public
+    after his passing.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: ac1d1ee5-756a-4a27-937b-a4664bed217d
+    title: Walter Haut affidavit (sworn 2002, released 2007)
+    slug: released-2007-walter-haut-affidavit-sworn-2002
+  date: '2007'
+  date_end: null
+  location_in_record: ch11:3183-3349
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: c05ada3a-30ae-4ac8-b7d5-60d3e39f66b5
+  claim_hash: e1915ec774aa78405dc50e23d3c2de94580b3aa77afcd7a00da4d918518ed931
+  content: Paragraph 13 of the Walter Haut affidavit states that when he entered the
+    B-29 hangar designated as Building 84, he was able to see a couple of bodies under
+    a canvas tarpaulin, with only the heads extending beyond the covering and no features
+    discernible.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: document
+    origin: Walter Haut
+    relay:
+    - Walter Haut affidavit (sworn 2002, released 2007)
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ac1d1ee5-756a-4a27-937b-a4664bed217d
+    title: Walter Haut affidavit (sworn 2002, released 2007)
+    slug: released-2007-walter-haut-affidavit-sworn-2002
+  - node_id: b396851f-a4bb-406a-9a7f-761ea902a164
+    title: Building 84 (B-29 hangar, Roswell Army Air Base)
+    slug: roswell-army-air-base-building-84-b-29-hangar
+  date: null
+  date_end: null
+  location_in_record: ch11:3539-3768
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: dfd6b639-5d94-4913-86bc-20fd2e0e02e8
+  claim_hash: 189e823c049ff596da806719219a83fdb0de7dd8f95ac14f1832b05cd26a088a
+  content: Only the heads of the bodies under the canvas tarpaulin in Building 84
+    extended beyond the covering, and Walter Haut could not make out any features.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch11:3688-3768
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 662a5f6b-6db8-4174-934e-878cfcc81d9e
+  claim_hash: b2721d483a3b912435175a8398c2f218d8fc24d695f4e0959817d3c69239d20b
+  content: The Walter Haut affidavit states that the heads of the bodies appeared
+    larger than normal and the contour of the canvas over the bodies suggested the
+    size of a 10-year-old child.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: document
+    origin: Walter Haut
+    relay:
+    - Walter Haut affidavit (sworn 2002, released 2007)
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ac1d1ee5-756a-4a27-937b-a4664bed217d
+    title: Walter Haut affidavit (sworn 2002, released 2007)
+    slug: released-2007-walter-haut-affidavit-sworn-2002
+  date: null
+  date_end: null
+  location_in_record: ch11:3778-3900
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 345b960b-ab2b-403b-93f1-3227b94937fc
+  claim_hash: 320520486e2b6b469f9757897769ad824f0ecf368063fde7e1768b954c2e28d8
+  content: The heads of the bodies Walter Haut observed appeared larger than normal,
+    and the contour of the canvas over the bodies suggested the size of a 10-year-old
+    child.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch11:3778-3900
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 644c76cd-8484-44b4-828e-04ff2f13cac2
+  claim_hash: 38df5320a11c89386311194e350ed8513fc3b60bbe1f784fc7aeb318a4bf7e16
+  content: The Walter Haut affidavit states that at a later date in William Blanchard's
+    office, Blanchard extended his arm about 1.2 metres above the floor to indicate
+    the height of the bodies.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: document
+    origin: Walter Haut
+    relay:
+    - Walter Haut affidavit (sworn 2002, released 2007)
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: ac1d1ee5-756a-4a27-937b-a4664bed217d
+    title: Walter Haut affidavit (sworn 2002, released 2007)
+    slug: released-2007-walter-haut-affidavit-sworn-2002
+  date: null
+  date_end: null
+  location_in_record: ch11:3907-4015
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: dffe5289-4d64-4503-9c79-e5f62434c8dc
+  claim_hash: 713252a247661c0fb1a27d8d20e1ce7ababeeec04737f95811e0cd68042acb11
+  content: At a later date in his office, William Blanchard indicated the height of
+    the recovered bodies by extending his arm about 1.2 metres above the floor.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  date: null
+  date_end: null
+  location_in_record: ch11:3907-4015
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: bcef3459-47f7-4344-8b8d-5a26a9f10616
+  claim_hash: 26be89b0790208e2a7e4160f8efad3391fbad5ce599f23fbc380d0757086ddd4
+  content: Whitley Strieber states that a height of about 150 centimetres would have
+    been the height of the beings that were coming around his cabin in the late 1980s,
+    and a little taller than what Walter Haut remembered.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  date: null
+  date_end: null
+  location_in_record: ch11:6577-6715
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 35cf7a9f-8436-423f-a870-ea1e0e3e89c7
+  claim_hash: b0faee70f18c0d016bd1cc27457d6b649b8fae6e0aea3ddb2f44f52129bb538e
+  content: Walter Haut's affidavit regarding the 1947 Roswell incident was dated and
+    signed on 2002-12-26.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Walter Haut affidavit (sworn 2002, released 2007)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: ac1d1ee5-756a-4a27-937b-a4664bed217d
+    title: Walter Haut affidavit (sworn 2002, released 2007)
+    slug: released-2007-walter-haut-affidavit-sworn-2002
+  date: '2002-12-26'
+  date_end: null
+  location_in_record: ch28:109-122
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 267876ad-8143-4153-88f2-c8d99c8da86a
+  claim_hash: 1ea614e8857b0fb72e6808d69e457575f3619d149aad5f785c4c5667fbe5eeee
+  content: On the morning of 1947-07-08, Walter Haut attended a regularly scheduled
+    staff meeting at Roswell Army Air Force Base at 7:30 a.m.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+    title: USA, New Mexico, Roswell Army Air Force Base
+    slug: new-mexico-roswell-army-air-force-base-usa
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:1137-1228
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 6b87785c-9914-4683-842a-192f19362454
+  claim_hash: b68cd0aeeaede8238d8fb35c74e725a44daee1aaa5b9ed84632d615ea2fd633e
+  content: The 1947-07-08 staff meeting at Roswell Army Air Force Base was attended
+    by William Blanchard, Jesse Marcel, Sheridan Cavitt, James I. Hopkins, Patrick
+    Saunders, Isadore Brown, and Ulysses S. Nero.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 085d3824-ddd8-49a0-891d-1fd008f6e704
+    title: Ulysses S. Nero
+    slug: ulysses-s-nero
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+    title: USA, New Mexico, Roswell Army Air Force Base
+    slug: new-mexico-roswell-army-air-force-base-usa
+  - node_id: c581a3e1-83fa-424c-840d-df874cfccebe
+    title: James I. Hopkins
+    slug: james-i-hopkins
+  - node_id: ce0b967f-b897-4754-aada-b48e03c4a84a
+    title: Patrick Saunders
+    slug: patrick-saunders
+  - node_id: d2b4890a-4999-4f45-9d1c-20e9393a88df
+    title: Isadore Brown
+    slug: isadore-brown
+  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+    title: Sheridan Cavitt
+    slug: sheridan-cavitt
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:1231-1486
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: d66a30a2-0753-4b64-b0eb-0a695454f097
+  claim_hash: e4c8b2066d3baf3ef3aaab6ed3d8f807a35147835728fb6a3fd94d5ddc2a69f6
+  content: Brig. Gen. Roger Ramey, William Blanchard's boss from Carswell Army Air
+    Field in Fort Worth, Texas, and his chief of staff Thomas J. DuBose also attended
+    the 1947-07-08 staff meeting at Roswell Army Air Force Base.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 011c9b9f-187c-4a38-a713-19a677937d85
+    title: Thomas J. DuBose
+    slug: thomas-j-dubose
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: 345841bf-f575-4c5a-a40a-e11c97cf443f
+    title: USA, Texas, Fort Worth, Carswell Army Air Field
+    slug: texas-fort-worth-carswell-army-air-field-usa
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:1464-1608
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: c2620eed-7d92-458e-b6b6-c3fb79aa25ad
+  claim_hash: c91893f2aff48ac93354c6a630fba7779c9ee34c2142821259736e49d8d3a0a9
+  content: At the 1947-07-08 staff meeting, Jesse Marcel and Sheridan Cavitt reported
+    on an extensive debris field in Lincoln County, approximately 120 kilometres northwest
+    of Roswell, New Mexico.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+    title: USA, New Mexico
+    slug: new-mexico-usa
+  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+    title: Sheridan Cavitt
+    slug: sheridan-cavitt
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:1620-1760
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: a799bc98-ece8-462d-8606-4b94309bb4ac
+  claim_hash: 4f86b983ee417436e8d4dda4879d5cdd562a014b951c680a8a4e3d10568a1aad
+  content: At the 1947-07-08 staff meeting, William Blanchard gave a preliminary briefing
+    about a second debris site approximately 65 kilometres north of Roswell, New Mexico.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+    title: USA, New Mexico
+    slug: new-mexico-usa
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:1769-1866
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 285e165e-4b17-4e34-92e2-77131d0c78c3
+  claim_hash: bab8540ee5eb146eebedd99061b9ee9842bb6dc198c1a1eec5cc8ba86fb679b4
+  content: Samples of unidentified crash debris were passed around the table at the
+    1947-07-08 staff meeting and were unlike any material Walter Haut had seen before.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:1872-1979
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: b1fa11c8-d913-42e2-9de4-3bfee7e590df
+  claim_hash: 781fc1564a9e4a867e7c11276605ca87784d68ffc9326799d30e1f4f14b6b895
+  content: The 1947 Roswell crash debris included pieces resembling metal foil, paper-thin
+    yet extremely strong, and pieces with unusual markings along their length.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:1985-2154
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 729934ac-df7a-480c-920a-eb7a700de266
+  claim_hash: 988a1a710008e4644bcfd76ccc57bf83a944ef05e478074be479cb4634512c03
+  content: Walter Haut was born on 1922-06-02.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  date: '1922-06-02'
+  date_end: null
+  location_in_record: ch28:212-234
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: c8206e5b-f736-43fc-b3b5-5dada63c5fe4
+  claim_hash: 6ad2216e1091b9b3fbb617377fffd00f4276ed392bfebfc889e9afd8fd166d88
+  content: No one at the 1947-07-08 staff meeting at Roswell Army Air Force Base was
+    able to identify the recovered crash debris.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+    title: USA, New Mexico, Roswell Army Air Force Base
+    slug: new-mexico-roswell-army-air-force-base-usa
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:2163-2201
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 15da72d9-09fe-47ce-b0f9-80e2aa0bae96
+  claim_hash: f00da8d81e3e6af83d01bab3610e72a7f1ba10de28e1e1d4baa0a3494408155d
+  content: Roger Ramey proposed a plan at the 1947-07-08 meeting, which Walter Haut
+    believes originated with Ramey's superiors at the Pentagon, to divert attention
+    from the more important debris site north of Roswell by acknowledging the other
+    location.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:2319-2509
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 8293d6b2-fdb5-4504-b97c-f4d5544e55c4
+  claim_hash: 17317da6673c7078239c791a510bdc7152e3b70fcb44c8270ed27839db272f48
+  content: At approximately 9:30 a.m. on 1947-07-08, William Blanchard phoned Walter
+    Haut's office and dictated a press release stating that the Roswell Army Air Force
+    Base had in its possession a flying disc recovered from a ranch northwest of Roswell,
+    with Jesse Marcel flying the material to higher headquarters.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:2659-2874
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 0864e17b-4fb4-49c6-8895-a5815b093be4
+  claim_hash: 49e8e43b80d27da3069abd61f62bf07ede08f54b0d4ad817d23a29902e5bac8b
+  content: Walter Haut was tasked with delivering the 1947 Roswell flying disc press
+    release to radio stations KGFL and KSWS and to the newspapers the Roswell Daily
+    Record and the Roswell Morning Dispatch.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 11b4d08d-a672-4915-8750-bb97c57e8d96
+    title: KSWS (radio station)
+    slug: ksws-radio-station
+  - node_id: 196f1242-9c8d-4f72-9f77-1ad2106268dc
+    title: KGFL (radio station)
+    slug: kgfl-radio-station
+  - node_id: 25070ed2-0721-488d-ba6b-3adac918a006
+    title: Roswell Morning Dispatch
+    slug: roswell-morning-dispatch
+  - node_id: 4097132e-4e6a-44b8-9c94-da285f753b9c
+    title: Roswell Daily Record
+    slug: roswell-daily-record
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:2888-3003
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 48566642-f128-4e3e-b6a5-74049ce7e252
+  claim_hash: b0cef39305bff2ece237906c22a5c57f15f0e6772a98035faa09720d9d18e649
+  content: After the 1947 Roswell flying disc press release reached the wire services,
+    Walter Haut's office was inundated with phone calls from around the world.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:3014-3119
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: fff6cfdb-c2d6-4199-81bc-f4eb57f23393
+  claim_hash: a0c0384c2c6053219f4794b45ca8fbe58d81e042be28ff71bbe7e501ddae3eaf
+  content: In July 1947, Walter Haut was stationed at Roswell Army Air Force Base
+    in Roswell, New Mexico, serving as the base Public Information Officer.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+    title: USA, New Mexico
+    slug: new-mexico-usa
+  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+    title: USA, New Mexico, Roswell Army Air Force Base
+    slug: new-mexico-roswell-army-air-force-base-usa
+  date: 1947-07
+  date_end: null
+  location_in_record: ch28:310-437
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: e22c1a70-8f17-44a5-8098-8c35778e4bd9
+  claim_hash: 6547a33915cb949ece7e5526718b582ab48468d53549e80ec40017c3e9ffd96c
+  content: William Blanchard suggested that Walter Haut go home and "hide out" after
+    the flying disc press release caused a flood of media inquiries.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:3162-3253
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 5bd43ee5-5e57-4abe-b53f-2a92628b5862
+  claim_hash: 16883d5b28a8aeb98578031a8615eaa1b88037a17c2ac79fbe1d039f6fe4aadd
+  content: Before Walter Haut left the base, William Blanchard personally took him
+    to Building 84, a B-29 hangar located on the east side of the tarmac at Roswell
+    Army Air Force Base.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: b396851f-a4bb-406a-9a7f-761ea902a164
+    title: Building 84 (B-29 hangar, Roswell Army Air Base)
+    slug: roswell-army-air-base-building-84-b-29-hangar
+  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+    title: USA, New Mexico, Roswell Army Air Force Base
+    slug: new-mexico-roswell-army-air-force-base-usa
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:3260-3381
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: c3eb0fa0-cf12-4667-bfd7-1ddefc624d56
+  claim_hash: 23d211332843ad3643b25b1baa85800d7dd59ff125f3a8bdbe5b3647e9d2801f
+  content: Walter Haut observed that Building 84 at Roswell Army Air Force Base was
+    under heavy guard both outside and inside when he first approached it in 1947.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: b396851f-a4bb-406a-9a7f-761ea902a164
+    title: Building 84 (B-29 hangar, Roswell Army Air Base)
+    slug: roswell-army-air-base-building-84-b-29-hangar
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:3389-3484
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: d8e2f767-c894-4755-9024-9b3add79867a
+  claim_hash: 6c5b7df3dc4f4101d6676f449127b8acd0acd152539eacbc0572387956b4192d
+  content: Inside Building 84, Walter Haut was permitted from a safe distance to observe
+    the object recently recovered north of Roswell.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: b396851f-a4bb-406a-9a7f-761ea902a164
+    title: Building 84 (B-29 hangar, Roswell Army Air Base)
+    slug: roswell-army-air-base-building-84-b-29-hangar
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:3492-3593
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 4e90feed-b3ed-4289-8dea-3f226881005c
+  claim_hash: 22718c39dd94529a3b057b6326257c0a351286e587cf7d216aeeccdf7b8ed2c4
+  content: The recovered object Walter Haut observed inside Building 84 was approximately
+    3.7 to 4.6 metres in length, slightly less in width, about 1.8 metres high, and
+    egg-shaped.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:3599-3692
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: dfee2cb7-2533-49de-a2ac-39872bfa5b13
+  claim_hash: 7a458406406042b29e995d03015ae0a47ab01836bdc3d751e34020f951da8e30
+  content: The lighting inside Building 84 was poor, but the surface of the recovered
+    object appeared metallic to Walter Haut.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:3699-3745
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 34ec65d0-e9ff-4ee3-bad7-dbd1b95c9cef
+  claim_hash: 7dee24c62e9176472994b38d38259589e7b2ede008ef28f1c69a688fed97f930
+  content: Walter Haut observed no windows, portholes, wings, tail section, or landing
+    gear visible on the recovered object inside Building 84.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:3755-3820
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 42011754-fe21-4b0a-a51a-b00b071e9f2b
+  claim_hash: 448a95e9cd7df64bc44e396ceb00f3808e2a95b0efb121d776a0f3060ec59478
+  content: From a distance inside Building 84, Walter Haut was able to see a couple
+    of bodies under a canvas tarpaulin.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: b396851f-a4bb-406a-9a7f-761ea902a164
+    title: Building 84 (B-29 hangar, Roswell Army Air Base)
+    slug: roswell-army-air-base-building-84-b-29-hangar
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:3830-3904
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: a47d7a9b-651d-479c-a0ab-56596602a64d
+  claim_hash: 28eefaf8d4dd9e1e877e5da7328a997fe562a2c1c5560dca5906cfaba17805c1
+  content: Walter Haut was informed of a temporary morgue set up to accommodate the
+    bodies recovered at Roswell in 1947.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: 1947-07
+  date_end: null
+  location_in_record: ch28:4251-4324
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 7eb8cbd9-2770-4694-a7ce-e0cdd6565ad7
+  claim_hash: 04ce592db257dd604686d3935719c7320807dc0745272859f853159f9b2489c6
+  content: Walter Haut was informed that the 1947 Roswell wreckage was not radioactive.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: 1947-07
+  date_end: null
+  location_in_record: ch28:4333-4381
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: df90eebc-f967-4025-99c1-4959e301ccf3
+  claim_hash: 849fcf1a0743a0bcf36cc4dfb14e93bd579a462955a5a66ad789d0145ca63004
+  content: Upon his return from Fort Worth, Jesse Marcel described to Walter Haut
+    taking pieces of the 1947 Roswell wreckage to Roger Ramey's office and, after
+    returning from a map room, finding the remains of a weather balloon and a radar
+    kite substituted in place of the original wreckage.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: named
+    origin: Jesse Marcel
+    relay:
+    - Jesse Marcel's account, described to Walter Haut
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+    title: USA, Texas, Fort Worth
+    slug: texas-fort-worth-usa
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: 1947-07
+  date_end: null
+  location_in_record: ch28:4396-4642
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 743de6d7-30d8-4604-a507-d0e9301a3dca
+  claim_hash: 0bcf8ab5e207fab7216ff27e386d61c6c7b1cfb76e471638103165de51eae013
+  content: Jesse Marcel was very upset over the substitution of the weather balloon
+    and radar kite for the original 1947 Roswell wreckage, and he and Walter Haut
+    would not discuss it again.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: 1947-07
+  date_end: null
+  location_in_record: ch28:4648-4714
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: d6970389-dbd1-4a32-a60f-6c33f644ced0
+  claim_hash: 8d3e36d7a1bdbdecec16350f4270d6d1649dfe0f4d327eaf2fc6c599045c724f
+  content: Walter Haut was allowed to make at least one visit to one of the 1947 Roswell
+    recovery sites during the military cleanup.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: 1947-07
+  date_end: null
+  location_in_record: ch28:4722-4817
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: a0d01afb-99c2-4c66-9e63-ec2cedb9a34b
+  claim_hash: 5d19805bb0feeb5e0fe9af85bc1b1f5af53c703ada4d7d759fabe4697adc0ae8
+  content: Walter Haut returned from a 1947 Roswell recovery site with some of the
+    wreckage, which he displayed in his office.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: 1947-07
+  date_end: null
+  location_in_record: ch28:4826-4907
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: c1be2187-ab8b-4a01-a5a3-1c665d9254d8
+  claim_hash: ea2c2d1609f5615fe1879cee911fd067c77569d1c4fea1d1a923d6578521d73c
+  content: Walter Haut was aware that two separate military teams returned to each
+    1947 Roswell recovery site months later for periodic searches for remaining evidence.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '1947'
+  date_end: null
+  location_in_record: ch28:4916-5026
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: dd693430-5ca1-4ba2-96bb-b628b3bfc9b2
+  claim_hash: 5a512858432b2cb2856a47aee31a67d6d8239d4cf37a7601806d01bedd5d10f2
+  content: Walter Haut was convinced that what he personally observed at Roswell in
+    1947 was some type of craft and its crew from outer space.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '1947'
+  date_end: null
+  location_in_record: ch28:5037-5131
+  evidence:
+    score: null
+    independent_sources: 2
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 85b764b5-33cc-45fb-a239-1f9181cc6924
+  claim_hash: e6a34a56f76c7ecc15834d204d39f3a41f8b24c13fb95f7ee5d1e5d9389d3820
+  content: Walter Haut affirmed he had not been paid or given anything of value to
+    make his 2002 sworn affidavit about the 1947 Roswell incident, and that it was
+    the truth to the best of his recollection.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: ac1d1ee5-756a-4a27-937b-a4664bed217d
+    title: Walter Haut affidavit (sworn 2002, released 2007)
+    slug: released-2007-walter-haut-affidavit-sworn-2002
+  date: '2002-12-26'
+  date_end: null
+  location_in_record: ch28:5139-5249
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 3b656d7b-000b-47a3-b668-bcba55e1e917
+  claim_hash: 304194750af32750fe7727abf12973f522ec219401caca6d02eb513ef2322b01
+  content: Walter Haut's affidavit specified that the statement was to remain sealed
+    and secured until the time of his death, at which point his surviving family would
+    determine its disposition.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: ac1d1ee5-756a-4a27-937b-a4664bed217d
+    title: Walter Haut affidavit (sworn 2002, released 2007)
+    slug: released-2007-walter-haut-affidavit-sworn-2002
+  date: '2002-12-26'
+  date_end: null
+  location_in_record: ch28:5264-5392
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 1f8b28dd-7852-41a4-965f-598e183af6a1
+  claim_hash: 6d268063bd29a9d0efb9ada01911dda8c7fe90a8698766bed602fd0e623b1068
+  content: On 1947-07-07, Walter Haut became aware that someone had reported the remains
+    of a downed vehicle by mid-morning after his return to duty at Roswell Army Air
+    Force Base.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+    title: USA, New Mexico, Roswell Army Air Force Base
+    slug: new-mexico-roswell-army-air-force-base-usa
+  date: '1947-07-07'
+  date_end: null
+  location_in_record: ch28:615-751
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: ced0c092-a6c8-49b9-b815-b43f61e67403
+  claim_hash: a8767257ac79272151a1e87a068db8d178ee3e04e868dfeaa451f3cf1cfcb4fb
+  content: Jesse Marcel, head of intelligence at Roswell Army Air Force Base, was
+    sent by base commander William Blanchard to investigate the reported downed vehicle
+    debris on 1947-07-07.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+    title: USA, New Mexico, Roswell Army Air Force Base
+    slug: new-mexico-roswell-army-air-force-base-usa
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: '1947-07-07'
+  date_end: null
+  location_in_record: ch28:754-875
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: f9e9cccb-34f1-4424-b2f2-798e1980a4fe
+  claim_hash: 14912c79b4867bfb983596094fecb422db1c103b14a641df530c66596efc6045
+  content: By late afternoon on 1947-07-07, additional civilian reports came in regarding
+    a second debris site just north of Roswell, New Mexico.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+    title: USA, New Mexico
+    slug: new-mexico-usa
+  date: '1947-07-07'
+  date_end: null
+  location_in_record: ch28:889-1022
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted

@@ -1,0 +1,315 @@
+schema: anomalica/brief/1
+brief_hash: faa875f547b77ba38bc27385289d2c6cdf2b57a4acba20a379c8bf543c23ccb8
+page:
+  kind: entity
+  node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
+  node_type: event
+  title: Watergate scandal
+  slug: watergate-scandal
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+  title: Assassination of John F. Kennedy
+  node_type: event
+  slug: assassination-of-john-f-kennedy
+  shared_claims: 3
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 3
+- node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
+  title: Gordon Novel
+  node_type: person
+  slug: gordon-novel
+  shared_claims: 2
+- node_id: 9969ac2f-845a-40cc-a6a2-7a2947a37feb
+  title: 1993 Waco siege
+  node_type: event
+  slug: 1993-waco-siege
+  shared_claims: 1
+- node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+  title: Daniel Sheehan
+  node_type: person
+  slug: daniel-sheehan
+  shared_claims: 1
+- node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+  title: E. H. Lamont
+  node_type: person
+  slug: e-h-lamont
+  shared_claims: 1
+- node_id: 5faf9fda-f4a6-422e-8be7-b783e756f230
+  title: Iran-Contra scandal
+  node_type: event
+  slug: iran-contra-scandal
+  shared_claims: 1
+- node_id: 1a508b53-3f3f-4c87-b4ba-6b7410ae8f59
+  title: Michael Jackson
+  node_type: person
+  slug: michael-jackson
+  shared_claims: 1
+- node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+  title: Roswell incident (1947)
+  node_type: event
+  slug: roswell-incident-1947
+  shared_claims: 1
+- node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+  title: Stanton Friedman
+  node_type: person
+  slug: stanton-friedman
+  shared_claims: 1
+- node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
+  title: Sur Novel
+  node_type: person
+  slug: sur-novel
+  shared_claims: 1
+claims:
+- claim_id: 9ae83eeb-6fd0-4d1e-b3d7-36e75caad027
+  claim_hash: 5402ef164b648990cb205b937ba8986e7b81770c347f645d9aca8650c7e522ec
+  content: E. Howard Hunt was a Central Intelligence Agency (CIA) operative involved
+    in the Watergate scandal and long-rumoured to have been a key player in the assassination
+    of John F. Kennedy.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
+    title: Watergate scandal
+    slug: watergate-scandal
+  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+    title: E. H. Lamont
+    slug: e-h-lamont
+  - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+    title: Assassination of John F. Kennedy
+    slug: assassination-of-john-f-kennedy
+  date: null
+  date_end: null
+  location_in_record: ch10:93001-93123
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: ef389901-1612-4a0d-8059-e788c8619bf9
+  claim_hash: 67f38d1da5ece76199e2e11e0b5784e44f58b44f9d452e5ba69019d5878d6577
+  content: Daniel Sheehan sued the perpetrators of Watergate in 1972.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
+    title: Watergate scandal
+    slug: watergate-scandal
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Daniel Sheehan
+    slug: daniel-sheehan
+  date: '1972'
+  date_end: null
+  location_in_record: ch11:16340-16383
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 014e9ab4-e169-46f5-9921-d2231ab0c866
+  claim_hash: 632891e05f5a3cad3ae541a0d41d30673e0f5db5bf8424cb9531bec5f249ae2d
+  content: Gordon Novel was a covert operator with strong Central Intelligence Agency
+    intelligence connections who repeatedly appeared in the background of dramatic
+    news events over decades, including the assassination of John F. Kennedy, Watergate,
+    Iran-Contra, Michael Jackson, and the aftermath of the Waco siege.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1a508b53-3f3f-4c87-b4ba-6b7410ae8f59
+    title: Michael Jackson
+    slug: michael-jackson
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 5faf9fda-f4a6-422e-8be7-b783e756f230
+    title: Iran-Contra scandal
+    slug: iran-contra-scandal
+  - node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
+    title: Gordon Novel
+    slug: gordon-novel
+  - node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
+    title: Watergate scandal
+    slug: watergate-scandal
+  - node_id: 9969ac2f-845a-40cc-a6a2-7a2947a37feb
+    title: 1993 Waco siege
+    slug: 1993-waco-siege
+  - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+    title: Assassination of John F. Kennedy
+    slug: assassination-of-john-f-kennedy
+  date: null
+  date_end: null
+  location_in_record: ch27:4322-4586
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 757847a6-3bc3-47f3-9a87-207f48601acc
+  claim_hash: cae7b29fea87df434cb4a49f054a06ee3c1cde92781b4cd185c9f12caa0d46db
+  content: Sur Novel recalled that his father Gordon Novel was involved with people
+    connected to Watergate and was politically connected with black operations before
+    those connections were cut off for conducting domestic operations the Central
+    Intelligence Agency was not tasked to do.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
+    title: Sur Novel
+  provenance_chain:
+    origin_kind: speaker
+    origin: Sur Novel
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
+    title: Sur Novel
+    slug: sur-novel
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
+    title: Gordon Novel
+    slug: gordon-novel
+  - node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
+    title: Watergate scandal
+    slug: watergate-scandal
+  - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+    title: Assassination of John F. Kennedy
+    slug: assassination-of-john-f-kennedy
+  date: null
+  date_end: null
+  location_in_record: ch27:6557-7082
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a5a692f0-ca60-4743-9599-71c4b3d33cec
+  claim_hash: f9fa5bf10f8d6ef96bfdeff8c9b0d841a9fc272c3cf6310e756b9bf011127b27
+  content: Stanton Friedman alleged a 'cosmic Watergate cover-up' of a recovered alien
+    spacecraft and alien bodies at Roswell.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+    title: Stanton Friedman
+  provenance_chain:
+    origin_kind: named
+    origin: Stanton Friedman
+    relay:
+    - Jesse Marcel
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
+    title: Watergate scandal
+    slug: watergate-scandal
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+    title: Stanton Friedman
+    slug: stanton-friedman
+  date: null
+  date_end: null
+  location_in_record: ch7:14325-14419
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 823390a9-bd3f-481b-93cf-73b1092ad619
+  claim_hash: 70673f0899bb0d82e349d9272c441b3a9a16ea3be9a5f937a307eb9ec041653c
+  content: During the period when the Watergate scandal and the Vietnam War were eroding
+    public trust in the US government, the US public began questioning government
+    institutions more than before.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the author of In Plain Sight
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
+    title: Watergate scandal
+    slug: watergate-scandal
+  date: null
+  date_end: null
+  location_in_record: ch7:23291-23508
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted

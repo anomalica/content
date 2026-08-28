@@ -1,0 +1,1758 @@
+schema: anomalica/brief/1
+brief_hash: 6a595dae98cb0c2d8c4600714d7c384d9b1104878787c48fe3b02b2079700dbc
+page:
+  kind: entity
+  node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+  node_type: person
+  title: L. Ron Hubbard
+  slug: l-ron-hubbard
+  claim_count: 40
+  claim_count_total: 40
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+  title: Jack Parsons
+  node_type: person
+  slug: jack-parsons
+  shared_claims: 24
+- node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+  title: Church of Scientology
+  node_type: organisation
+  slug: church-of-scientology
+  shared_claims: 11
+- node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+  title: Ordo Templi Orientis (OTO)
+  node_type: organisation
+  slug: ordo-templi-orientis-oto
+  shared_claims: 9
+- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+  title: United States Navy (USN)
+  node_type: organisation
+  slug: united-states-navy-usn
+  shared_claims: 6
+- node_id: 579d6aef-89d5-41b0-adf1-89dba0bb0920
+  title: Sara Northrup
+  node_type: person
+  slug: sara-northrup
+  shared_claims: 5
+- node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+  title: USA, California, Pasadena
+  node_type: place
+  slug: california-pasadena-usa
+  shared_claims: 4
+- node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+  title: Aleister Crowley
+  node_type: person
+  slug: aleister-crowley
+  shared_claims: 3
+- node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+  title: NASA Jet Propulsion Laboratory (JPL)
+  node_type: organisation
+  slug: nasa-jet-propulsion-laboratory-jpl
+  shared_claims: 3
+- node_id: 121b9978-8ddc-44fa-9334-c2de469ac340
+  title: Babalon Working
+  node_type: event
+  slug: babalon-working
+  shared_claims: 2
+- node_id: 5382e168-2890-4fe9-84b5-5d98146bd683
+  title: Diane Harrison
+  node_type: person
+  slug: diane-harrison
+  shared_claims: 2
+- node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+  title: Federation of American Scientists
+  node_type: organisation
+  slug: federation-of-american-scientists
+  shared_claims: 2
+- node_id: d9cee85a-e8f8-43b9-b1fd-6035daf6ce2c
+  title: Harpoon (sailing boat)
+  node_type: object
+  slug: harpoon-sailing-boat
+  shared_claims: 2
+- node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+  title: John Dee
+  node_type: person
+  slug: john-dee
+  shared_claims: 2
+- node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+  title: Office of Naval Intelligence
+  node_type: organisation
+  slug: office-of-naval-intelligence
+  shared_claims: 2
+- node_id: 8ecf450c-a590-42de-a98b-077d191c736e
+  title: Osiris
+  node_type: topic
+  slug: osiris
+  shared_claims: 2
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 2
+- node_id: 78128563-2ed5-494f-a7a0-e8d16343ae1d
+  title: Bartzabel
+  node_type: topic
+  slug: bartzabel
+  shared_claims: 1
+- node_id: 3ff75793-423c-4333-8402-d5c543074091
+  title: Bill Chalker
+  node_type: person
+  slug: bill-chalker
+  shared_claims: 1
+- node_id: cc81c235-c101-46bc-9b60-0d618973886f
+  title: Dark Mission (ebook)
+  node_type: document
+  slug: dark-mission-ebook
+  shared_claims: 1
+- node_id: fa0bad6e-9f34-4615-abff-5980ab4afa35
+  title: Elizabeth I
+  node_type: person
+  slug: elizabeth-i
+  shared_claims: 1
+- node_id: ddc2698d-14f2-4f13-8527-bc7eaadc4b1a
+  title: Enochian calls
+  node_type: topic
+  slug: enochian-calls
+  shared_claims: 1
+- node_id: fb6dbac7-b9cd-434e-ae33-67a89aa74031
+  title: Helen Parsons
+  node_type: person
+  slug: helen-parsons
+  shared_claims: 1
+- node_id: 354da422-ae2e-41c6-8eeb-b9830475a92d
+  title: Horus
+  node_type: topic
+  slug: horus
+  shared_claims: 1
+- node_id: 7efbd95a-4d5b-437b-9472-a93fd7712268
+  title: Mission Earth (science fiction series)
+  node_type: document
+  slug: mission-earth-science-fiction-series
+  shared_claims: 1
+- node_id: 8a07da49-18ec-4966-842b-35b6f8527a9b
+  title: October 4-5, 2001 Gundiah alien abduction case
+  node_type: event
+  slug: 2001-gundiah-alien-abduction-case-october-4-5
+  shared_claims: 1
+- node_id: f7ed2e8d-70e7-4545-b17d-444f3c688a59
+  title: Ordo Templi Orientis (O.T.O.)
+  node_type: topic
+  slug: ordo-templi-orientis-oto
+  shared_claims: 1
+- node_id: dd895f39-fb73-4b96-8d5c-6d5db30981a2
+  title: Scientology
+  node_type: organisation
+  slug: scientology
+  shared_claims: 1
+- node_id: 2ccec918-9f0b-4569-ba3f-ddd8c2eb6460
+  title: USA, California, Pasadena, 1003 Orange Grove Avenue
+  node_type: place
+  slug: california-pasadena-1003-orange-grove-avenue-usa
+  shared_claims: 1
+- node_id: 5d5aa4e3-7bc3-4206-97e9-86ceeb333478
+  title: USA, California, San Francisco
+  node_type: place
+  slug: california-san-francisco-usa
+  shared_claims: 1
+- node_id: 24ff0c2a-c89f-4075-8e94-ef68d37075e2
+  title: Whispering Winds (L. Ron Hubbard's US property)
+  node_type: place
+  slug: whispering-winds-l-ron-hubbards-us-property
+  shared_claims: 1
+claims:
+- claim_id: 67fdaf08-e23f-417f-acc3-bd110d99dfad
+  claim_hash: 4304cbdf4c85532329ba3aa874cbc63a746b94838695f0984fcd2d581e8c3613
+  content: L. Ron Hubbard founded Dianetics and, later, the Church of Scientology.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  date: null
+  date_end: null
+  location_in_record: ch13:10303-10379
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 2c586e2f-7861-4683-bf72-73c3affe2a70
+  claim_hash: 41e410e58c745225441eab8169be4f20cf7c49b0558453a15f5a6b485c889a92
+  content: Jack Parsons, who founded the Jet Propulsion Laboratory, is linked by Jacques
+    Vallée to the same process of extraterrestrial-superiority belief as L. Ron Hubbard,
+    who founded the Church of Scientology.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  date: null
+  date_end: null
+  location_in_record: ch13:694-802
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: ff37d091-7adf-4abc-9e47-5b97c8b981cc
+  claim_hash: 03a4022194be3d17a166df5032530985996474f6541e8052ee4624a0e23733a1
+  content: Two of the most ardent members of the Ordo Templi Orientis branch in Los
+    Angeles were Jack Parsons, a propulsion engineer, and L. Ron Hubbard, a science-fiction
+    writer.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: f7ed2e8d-70e7-4545-b17d-444f3c688a59
+    title: Ordo Templi Orientis (O.T.O.)
+    slug: ordo-templi-orientis-oto
+  date: null
+  date_end: null
+  location_in_record: ch13:9935-10049
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 568b822d-2718-4874-9ebf-af74b97d17d4
+  claim_hash: 8a6ac10f57123c96bd5bc54ee4d1dfc1a7b787cf24841f3cda242a02f602afef
+  content: In March 2003, Bill Chalker and Diane Harrison were contacted by an overseas
+    source who suggested the Gundiah saga had more to do with a misguided secret Scientology
+    "mission" to find a buried spaceship, as described in the Mission Earth science
+    fiction series by Scientology's founder, L. Ron Hubbard.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: anonymous
+    origin: an unnamed overseas person claiming intimate knowledge of the Gundiah
+      incident
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: 5382e168-2890-4fe9-84b5-5d98146bd683
+    title: Diane Harrison
+    slug: diane-harrison
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 7efbd95a-4d5b-437b-9472-a93fd7712268
+    title: Mission Earth (science fiction series)
+    slug: mission-earth-science-fiction-series
+  - node_id: 8a07da49-18ec-4966-842b-35b6f8527a9b
+    title: October 4-5, 2001 Gundiah alien abduction case
+    slug: 2001-gundiah-alien-abduction-case-october-4-5
+  - node_id: dd895f39-fb73-4b96-8d5c-6d5db30981a2
+    title: Scientology
+    slug: scientology
+  date: 2003-03
+  date_end: null
+  location_in_record: ch19:30396-30653
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: e28492f2-8e2c-453d-b88e-a56e1355b8f5
+  claim_hash: 6f3446b34d3391aa059c9c266ddaf63d77931c1313d86e705ee19dc7c0255643
+  content: Diane Harrison noted that L. Ron Hubbard lived out his last years on a
+    remote property in the United States that he called Whispering Winds, the same
+    name as the Gundiah property, and had described it as a quiet place, a perfect
+    place to hide.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 5382e168-2890-4fe9-84b5-5d98146bd683
+    title: Diane Harrison
+  provenance_chain:
+    origin_kind: speaker
+    origin: Diane Harrison
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 24ff0c2a-c89f-4075-8e94-ef68d37075e2
+    title: Whispering Winds (L. Ron Hubbard's US property)
+    slug: whispering-winds-l-ron-hubbards-us-property
+  - node_id: 5382e168-2890-4fe9-84b5-5d98146bd683
+    title: Diane Harrison
+    slug: diane-harrison
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8ed2a34c-d79d-4351-b403-a83293224ab4
+    title: Whispering Winds winery (Gundiah property)
+    slug: whispering-winds-winery-gundiah-property
+  date: null
+  date_end: null
+  location_in_record: ch19:31312-31548
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 83d9cd8d-277d-4250-897b-569a3ccd7b9d
+  claim_hash: 7bd6a1f1f66822f9e717a0a80610dd3afba45622fb6a473374f84112e59b6422
+  content: The magick practised by Jack Parsons and L. Ron Hubbard in Southern California
+    in the 1940s, as the Jet Propulsion Laboratory was born, had its roots in ancient
+    Egypt and involved the invocation of Osiris, Horus, and the rest of the Egyptian
+    pantheon.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 354da422-ae2e-41c6-8eeb-b9830475a92d
+    title: Horus
+    slug: horus
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8ecf450c-a590-42de-a98b-077d191c736e
+    title: Osiris
+    slug: osiris
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  date: null
+  date_end: null
+  location_in_record: ch12:122309-122544
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: ddab5ae8-7296-41f6-86dc-4278233fe0f3
+  claim_hash: 436ad4e977aa9f3660317fd1838370e3b35f604db188b7aa363623ff4e9da318
+  content: L. Ron Hubbard was Jack Parsons' partner in the so-called Babalon Working,
+    during a period when Hubbard was serving in naval intelligence during World War
+    II.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 121b9978-8ddc-44fa-9334-c2de469ac340
+    title: Babalon Working
+    slug: babalon-working
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+    title: Office of Naval Intelligence
+    slug: office-of-naval-intelligence
+  date: null
+  date_end: null
+  location_in_record: ch12:169229-169373
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: ead61858-187f-4be6-badf-20bf04939405
+  claim_hash: b5e9432f8643ef975c0e8e8f74d41af6739bcdf11a899ec619e9d8761393bb68
+  content: L. Ron Hubbard was a compatriot of Jack Parsons in many of these bizarre
+    occult rites, and later went on to form the Church of Scientology.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  date: null
+  date_end: null
+  location_in_record: ch12:74271-74408
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: f5b96007-dde9-4a04-b3ec-47d4d38c9c25
+  claim_hash: 175b36d0ec1e0b2c5bb8dfd4e4f8459672f1ff508e015b1c779fa6e0a593346b
+  content: L. Ron Hubbard came to Jack Parsons' Pasadena mansion in 1945.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  date: '1945'
+  date_end: null
+  location_in_record: ch12:82545-82592
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 4d9fb5e1-3ec0-41b4-9653-429cbdde2cc0
+  claim_hash: 60f92701db3f846028d5a1988f3c783ab088ea55ed7de3a7d0fcbf91165cb5ed
+  content: The Church of Scientology claims that L. Ron Hubbard was sent by the United
+    States Navy to infiltrate and break up a black magic cult operating in Los Angeles.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Church of Scientology
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  date: null
+  date_end: null
+  location_in_record: ch12:82693-82825
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 7976e772-4086-444e-93a7-413dbe7c7fca
+  claim_hash: 890aceae8c9fe25547002ab5cc34767e027f9ed33480aae7df55d34ae27dcbce
+  content: By 1946, Jack Parsons and L. Ron Hubbard had engaged in a variety of magical
+    workings, mostly sexual rituals designed to achieve short-term goals.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  date: '1946'
+  date_end: null
+  location_in_record: ch12:82994-83156
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: edcfc65a-9055-4497-bbc9-cbb088d31c48
+  claim_hash: 28243f9ac3b33be8551fa72a386e9c15b5edb9812cc0ff83181aadc2ee008540
+  content: Jack Parsons and L. Ron Hubbard decided to recreate a series of seances
+    performed by Dr. John Dee, the Royal Astrologer to Queen Elizabeth I in the sixteenth
+    century.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+    title: John Dee
+    slug: john-dee
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: fa0bad6e-9f34-4615-abff-5980ab4afa35
+    title: Elizabeth I
+    slug: elizabeth-i
+  date: null
+  date_end: null
+  location_in_record: ch12:83164-83323
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 7ba575ad-b976-42d9-9ea0-8d836365c53e
+  claim_hash: f75a064de3bf24b8b8348e5a4feeeb1037b11f718fbda5e0a4577e6d84f598b2
+  content: Jack Parsons and L. Ron Hubbard meditated in the California desert for
+    eleven days as part of an attempt to conjure an elemental spirit.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  date: null
+  date_end: null
+  location_in_record: ch12:83516-83671
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 48e9b8dc-b371-432d-bdf7-a52dd15d910c
+  claim_hash: 6cd6a7eba129b59953e0c904281b5c461f06888b324858dcdf5cd6a958575bb3
+  content: The rituals used by Jack Parsons and L. Ron Hubbard in the Babalon Working
+    employed the Enochian calls, or angelic language, of John Dee, and specifically
+    required calling the Egyptian god Osiris.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 121b9978-8ddc-44fa-9334-c2de469ac340
+    title: Babalon Working
+    slug: babalon-working
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+    title: John Dee
+    slug: john-dee
+  - node_id: 8ecf450c-a590-42de-a98b-077d191c736e
+    title: Osiris
+    slug: osiris
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: ddc2698d-14f2-4f13-8527-bc7eaadc4b1a
+    title: Enochian calls
+    slug: enochian-calls
+  date: null
+  date_end: null
+  location_in_record: ch12:85004-85165
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: b1910fc0-a024-4475-9600-de30f7988d2f
+  claim_hash: edfb5940c6b703e91df49a2cece51305ad5138f23ca91cfee66840ed26f6d8c3
+  content: Aleister Crowley became alarmed when he learned that L. Ron Hubbard and
+    Jack Parsons were attempting to produce a Moonchild.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Aleister Crowley
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+    title: Aleister Crowley
+    slug: aleister-crowley
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  date: null
+  date_end: null
+  location_in_record: ch12:87184-87403
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2f4fc32a-61fb-4b2a-b5a7-72ac171612c9
+  claim_hash: e90dca1a8fc691b3b82cdc6f3a3cb69cfe2b41eeb8aedee617f8c38eb4de605e
+  content: Aleister Crowley considered neither L. Ron Hubbard nor Jack Parsons experienced
+    enough in the methods and consequences of using his Thelemic sex magick to safely
+    raise a Moonchild.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Aleister Crowley
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+    title: Aleister Crowley
+    slug: aleister-crowley
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  date: null
+  date_end: null
+  location_in_record: ch12:87411-87643
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 4fe35bb8-7142-4606-bbf0-17216cfd1d55
+  claim_hash: bd826ca12e33a76419fba91c65314f29d4cc4159a011cb2ae35238af899663b7
+  content: L. Ron Hubbard absconded to New York with Jack Parsons' money and his wife
+    Sara Northrup, then fled to Florida with the boat, the woman, and the rest of
+    Parsons' cash.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 579d6aef-89d5-41b0-adf1-89dba0bb0920
+    title: Sara Northrup
+    slug: sara-northrup
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  date: null
+  date_end: null
+  location_in_record: ch12:88415-88602
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: e43e4108-1f95-4b0a-a3ff-2c39057f35f7
+  claim_hash: 99345c81bcc1d2142e696d5d2492944c6db0543872a25499bf0219af8cc84834
+  content: Jack Parsons summoned the Martian god Bartzabel in an attempt to conjure
+    a storm against L. Ron Hubbard and Sara Northrup while they were fleeing to Florida.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Jack Parsons
+    relay:
+    - correspondence to Aleister Crowley
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 579d6aef-89d5-41b0-adf1-89dba0bb0920
+    title: Sara Northrup
+    slug: sara-northrup
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 78128563-2ed5-494f-a7a0-e8d16343ae1d
+    title: Bartzabel
+    slug: bartzabel
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  date: null
+  date_end: null
+  location_in_record: ch12:88853-88950
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 5a18c054-e00e-4dda-b4f4-30030c5eb94f
+  claim_hash: 55fc56bf837598e05b1e2fc2add0e130ef03aa131e3b856ae9f9ba83ed43ff5a
+  content: L. Ron Hubbard and Sara Northrup encountered a fierce storm at sea and
+    were forced to return to Miami, where Jack Parsons had them arrested.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 579d6aef-89d5-41b0-adf1-89dba0bb0920
+    title: Sara Northrup
+    slug: sara-northrup
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  date: null
+  date_end: null
+  location_in_record: ch12:88958-89088
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 4bde6a83-7d48-437d-aedf-1ad63d0f6358
+  claim_hash: aaf670cd1a3b333ad5db6d3b93c926cc88f7cab02c092cd1485ce9ac5f892589
+  content: L. Ron Hubbard went on to marry Sara Northrup and eventually founded the
+    Church of Scientology.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 579d6aef-89d5-41b0-adf1-89dba0bb0920
+    title: Sara Northrup
+    slug: sara-northrup
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  date: null
+  date_end: null
+  location_in_record: ch12:89151-89216
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 6b36ea45-237d-4158-b88d-09ac34b727ff
+  claim_hash: 42948a6f1b3bc7859737e62ac80cb725028b685301e4fc400042d17c769cd537
+  content: Members of the Church of Scientology sought to correct what they viewed
+    as mischaracterisations in Dark Mission (ebook)'s section on L. Ron Hubbard and
+    Jack Parsons of the Jet Propulsion Laboratory (JPL).
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: named
+    origin: Church of Scientology
+    relay:
+    - Mike Bara
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: cc81c235-c101-46bc-9b60-0d618973886f
+    title: Dark Mission (ebook)
+    slug: dark-mission-ebook
+  date: null
+  date_end: null
+  location_in_record: ch5:17847-17986
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 6d7865d7-6307-4398-9e8d-760aada2de21
+  claim_hash: ee3e538888738a01be135a46e9b2014fa022f5f14896fe071bff7b0c5b4f0a78
+  content: The Church of Scientology argued that L. Ron Hubbard was sent to infiltrate
+    and disrupt the activities of Jack Parsons at 1003 Orange Grove Avenue rather
+    than being a willing participant in Parsons' pursuits within the Ordo Templi Orientis.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: named
+    origin: Church of Scientology
+    relay:
+    - Mike Bara
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2ccec918-9f0b-4569-ba3f-ddd8c2eb6460
+    title: USA, California, Pasadena, 1003 Orange Grove Avenue
+    slug: california-pasadena-1003-orange-grove-avenue-usa
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  date: null
+  date_end: null
+  location_in_record: ch5:18477-18825
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: f4c1e6f7-c1b0-4989-af61-a4cf9b704d0d
+  claim_hash: 564733b006193b0fe8317ec87d64e90e2ee069c561542b076277da5452d2f671
+  content: Documents provided by the Church of Scientology inclined Mike Bara to lean
+    toward the interpretation that L. Ron Hubbard was sent to infiltrate the Ordo
+    Templi Orientis rather than being a willing participant.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  date: null
+  date_end: null
+  location_in_record: ch5:18833-18986
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c89e1520-9f7c-4021-8d00-1765ae2e3156
+  claim_hash: 2a0451542762c8ba73881963e04beac52cc1fe0c8abf8d32f09433cc3982bfd8
+  content: L. Ron Hubbard was a United States Navy intelligence officer at least at
+    some point during his service career, as the Church of Scientology has claimed.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: named
+    origin: Church of Scientology
+    relay:
+    - Mike Bara
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  date: null
+  date_end: null
+  location_in_record: ch5:19035-19149
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a7d40d58-971f-4976-acc5-7854b1d217cf
+  claim_hash: 881d411cb4359c911b268af5d64e4f22a4c722454501fcf1b869449c41249bb1
+  content: L. Ron Hubbard was residing in the area and was still an active naval officer
+    at the time he was befriending Jack Parsons and infiltrating the Ordo Templi Orientis.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  date: null
+  date_end: null
+  location_in_record: ch5:19160-19299
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 88b90e27-d2b4-4514-b0c7-415dbc3901ef
+  claim_hash: 685de2213b7ddc669e26a0b238680ff8ae5a65ca9c591b8562e6a23fc4258732
+  content: In Mike Bara's assessment, L. Ron Hubbard would have been an ideal agent
+    for an infiltration operation against the Ordo Templi Orientis.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  date: null
+  date_end: null
+  location_in_record: ch5:19311-19362
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 8f949905-461e-448f-a600-c734e71317c6
+  claim_hash: e1c8da3741f51c57dd17e6ec07a2576d93e0009d10ed2dcb4b80035327421a77
+  content: The Ordo Templi Orientis headquarters in Pasadena was damaged for years
+    by L. Ron Hubbard's actions.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  date: null
+  date_end: null
+  location_in_record: ch5:19376-19446
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: d97744a4-9a0f-46b3-94e2-12c238729cbf
+  claim_hash: 346e53604848a82ae8f0c84a4fe1f0a04c596583487886b5bd9fa1f269eb59d7
+  content: The Ordo Templi Orientis was disrupted by L. Ron Hubbard's presence and
+    never fully recovered from the damage done to Jack Parsons.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  date: null
+  date_end: null
+  location_in_record: ch5:19458-19561
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 3285d470-0a62-4dbc-9bb5-b4c3ac293c64
+  claim_hash: 983c63434325bc01368ce1827ffaf8356a867f3f792e573329d0cafe5096a0b8
+  content: According to United States Navy documents, L. Ron Hubbard was assigned
+    to intelligence duties in July 1941.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: document
+    origin: United States Navy service documents for L. Ron Hubbard
+    relay:
+    - Mike Bara
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  date: 1941-07
+  date_end: null
+  location_in_record: ch5:19571-19670
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 69259146-3c29-4f27-afc1-06890b2b729d
+  claim_hash: 353732a126b5667a53f530a9bd17cf67ece7d5a1dabe14b88a4f54c87382669f
+  content: L. Ron Hubbard remained in the United States Navy reserves until October
+    1950, after his time in Pasadena.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: document
+    origin: L. Ron Hubbard's United States Navy service record
+    relay:
+    - Mike Bara
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  date: 1950-10
+  date_end: null
+  location_in_record: ch5:19676-19953
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: e7f61333-180c-4b36-b27c-514be45054e8
+  claim_hash: f4086c09c2d63e3b9fca39baf2cacd7ee649502c57409ce0cf12de52cc75172f
+  content: L. Ron Hubbard was officially listed as a patient at Oak Knoll Naval Hospital
+    in San Francisco until December 1945.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5d5aa4e3-7bc3-4206-97e9-86ceeb333478
+    title: USA, California, San Francisco
+    slug: california-san-francisco-usa
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  date: 1945-12
+  date_end: null
+  location_in_record: ch5:20839-20949
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 1ef13d14-5752-4ef4-8398-9f6ec7da7738
+  claim_hash: 0f591b08b2afd7d91ea38262bcf76e3fef4990abf8ab0fffd08b38d173c5a6e2
+  content: A telegram from L. Ron Hubbard to the United States Navy dated 1945-10-13
+    indicates he was staying in Hollywood, near Jack Parsons and the Ordo Templi Orientis
+    lodge in Pasadena.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: a telegram from L. Ron Hubbard to the United States Navy dated 1945-10-13
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  date: '1945-10-13'
+  date_end: null
+  location_in_record: ch5:20955-21087
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a4b1fb60-6fe5-4825-a010-66b554fd3c75
+  claim_hash: 5c253988831932df7cbb68132b32ff2600ae1d9804ba2889ba8a83da6e65da9f
+  content: Minutes from a Federation of American Scientists meeting on 1945-11-15
+    indicate that both L. Ron Hubbard and Jack Parsons attended and participated in
+    the meeting.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: minutes from a Federation of American Scientists meeting, 1945-11-15
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+    title: Federation of American Scientists
+    slug: federation-of-american-scientists
+  date: '1945-11-15'
+  date_end: null
+  location_in_record: ch5:21652-21838
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 02ec2ec3-1096-492b-ba40-bb55569a43c2
+  claim_hash: d857e5c439fc7cba23c864f1be4e59c0cf0f0137e38a0c8388251511b766f3f6
+  content: L. Ron Hubbard ended up in Florida with Sara Northrup, the sister of Jack
+    Parsons' wife Helen Parsons and Parsons' lover prior to Hubbard's involvement,
+    and a sailing boat named the Harpoon.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 579d6aef-89d5-41b0-adf1-89dba0bb0920
+    title: Sara Northrup
+    slug: sara-northrup
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: d9cee85a-e8f8-43b9-b1fd-6035daf6ce2c
+    title: Harpoon (sailing boat)
+    slug: harpoon-sailing-boat
+  - node_id: fb6dbac7-b9cd-434e-ae33-67a89aa74031
+    title: Helen Parsons
+    slug: helen-parsons
+  date: null
+  date_end: null
+  location_in_record: ch5:21864-22053
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2423a791-723b-4afb-9c15-c1117d298e24
+  claim_hash: b05f681944769896424d5ff1c28238806e65bba4c8620ca416d09487f9b19274
+  content: A Bill of Sale produced by the Church of Scientology shows that Jack Parsons
+    sold the sailing boat Harpoon to L. Ron Hubbard.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: a Bill of Sale produced by the Church of Scientology
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: d9cee85a-e8f8-43b9-b1fd-6035daf6ce2c
+    title: Harpoon (sailing boat)
+    slug: harpoon-sailing-boat
+  date: null
+  date_end: null
+  location_in_record: ch5:22063-22142
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 630b43e8-dd36-4538-8c53-5db1a973caa7
+  claim_hash: 9f2c4448c2a4a14948912fb7c4036bb7b6e18b018256d0721fec7f174abf3ee8
+  content: Richard C. Hoagland considers the premise that L. Ron Hubbard was an Office
+    of Naval Intelligence informant sent to infiltrate and destabilise the Ordo Templi
+    Orientis and Federation of American Scientists a plausible one, after reviewing
+    documentation supplied by the Church of Scientology.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  - node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+    title: Federation of American Scientists
+    slug: federation-of-american-scientists
+  - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+    title: Office of Naval Intelligence
+    slug: office-of-naval-intelligence
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch5:22842-22949
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 230cdd27-a46f-4a72-a346-6306166037f2
+  claim_hash: a9ba1e6960602f22f57c4c5ab5ba21256c3641d2075624bd3186756daa9be368
+  content: L. Ron Hubbard had an intelligence background.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  date: null
+  date_end: null
+  location_in_record: ch5:22954-22982
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a865d542-a532-4c03-b57e-bf83ed95415c
+  claim_hash: ba9b5c287918f8ebc26222691e88feb1b430e55b41d336991731cdc0e91e5224
+  content: L. Ron Hubbard attended one of the first university courses on nuclear
+    physics ever taught in the United States.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  date: null
+  date_end: null
+  location_in_record: ch5:23088-23183
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 1e75a06c-1766-4b67-82ac-399c975489de
+  claim_hash: 475daec173a9b09688bb2abad171583f3f88da821245a1dfaa829a38889847b7
+  content: Richard C. Hoagland now holds that the weight of the evidence supports
+    the Church of Scientology's version of events regarding L. Ron Hubbard's role
+    at the Ordo Templi Orientis temple in Pasadena over the less flattering alternative
+    account.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch5:23597-23730
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 89b8270c-54ab-4a51-8a92-3451f647b1ed
+  claim_hash: 6a4fae8e0934beabfd6fb07e74abb8a488132243f7650df5eb28186d6ed42d7d
+  content: Jack Parsons collaborated with Aleister Crowley and L. Ron Hubbard while
+    both launching rockets and engaging in provocative rituals in the Los Angeles
+    desert.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+    title: Aleister Crowley
+    slug: aleister-crowley
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  date: null
+  date_end: null
+  location_in_record: ch1:35097-35290
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted

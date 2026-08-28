@@ -1,0 +1,468 @@
+schema: anomalica/brief/1
+brief_hash: 00e8c72fc0e7a4c13ae014caa7a2f0a7ad0ce3096d2151e866732efc0704d199
+page:
+  kind: entity
+  node_id: eb844394-11fa-4223-ab75-374412b7be46
+  node_type: topic
+  title: ball lightning
+  slug: ball-lightning
+  claim_count: 10
+  claim_count_total: 10
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+  title: James MacDonald
+  node_type: person
+  slug: james-macdonald
+  shared_claims: 3
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 3
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 2
+- node_id: 9d8382f0-71d5-403b-a54c-b75b05fafe41
+  title: 1949 Hawthorn cigar-shaped object sighting
+  node_type: event
+  slug: 1949-hawthorn-cigar-shaped-object-sighting
+  shared_claims: 1
+- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+  title: David Charles Grusch
+  node_type: person
+  slug: david-charles-grusch
+  shared_claims: 1
+- node_id: 176bf904-ba3e-4641-9a8f-336401532900
+  title: James L. Tuck
+  node_type: person
+  slug: james-l-tuck
+  shared_claims: 1
+- node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+  title: Julia Mossbridge
+  node_type: person
+  slug: julia-mossbridge
+  shared_claims: 1
+- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+  title: Project Blue Book
+  node_type: project
+  slug: project-blue-book
+  shared_claims: 1
+- node_id: 98a821c3-2ba9-4e45-a28c-3219f2441543
+  title: blue jets (upper-atmospheric lightning)
+  node_type: topic
+  slug: blue-jets-upper-atmospheric-lightning
+  shared_claims: 1
+- node_id: e8cc9c2f-aa24-41c3-96a8-5d82a70cc3f6
+  title: sprites (upper-atmospheric lightning)
+  node_type: topic
+  slug: sprites-upper-atmospheric-lightning
+  shared_claims: 1
+- node_id: 78ede0c2-bff9-4e90-a9e3-f4ae02ac806c
+  title: surface-to-air missile
+  node_type: object
+  slug: surface-to-air-missile
+  shared_claims: 1
+- node_id: 55d8864f-5a54-49b4-b247-64670258220d
+  title: swamp gas
+  node_type: topic
+  slug: swamp-gas
+  shared_claims: 1
+claims:
+- claim_id: b3c4c741-34a2-476e-b531-fd694a7c9458
+  claim_hash: 43a56722fb0aab2b01c7c18882a88b878b6ff682268c48d015f9270126bed97f
+  content: A scientist in Washington proposed ball lightning as a possible base stimulus
+    for UFO (Unidentified Flying Object) sightings.
+  original_excerpt: A class in Washington has cited, has mentioned his theory of ball
+    lightning as a base stimulus.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+    title: Benjamin Simon
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a scientist in Washington
+    relay:
+    - Benjamin Simon
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: eb844394-11fa-4223-ab75-374412b7be46
+    title: ball lightning
+    slug: ball-lightning
+  date: null
+  date_end: null
+  location_in_record: 00:29:52.7-00:30:00.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
+    record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories
+      | Dr. Benjamin Simon Speaks
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
+    content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
+    friendly_name: null
+- claim_id: ca74f9da-92ad-4ae8-a519-797fc3ebe9cb
+  claim_hash: 543241ab62e8583b9daccb002fd2d73428cf8f58d3035b211b53e8be5d0618a8
+  content: James L. Tuck wrote a report on ball lightning.
+  original_excerpt: Mindful of your interesting report on ball lightning, I am enclosing
+    comments on same by a UFO believer, James M. McCampbell, in his UFOLOGY, 1976
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a correspondent of James L. Tuck who refers to him as "Jim"
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 176bf904-ba3e-4641-9a8f-336401532900
+    title: James L. Tuck
+    slug: james-l-tuck
+  - node_id: eb844394-11fa-4223-ab75-374412b7be46
+    title: ball lightning
+    slug: ball-lightning
+  date: '1970-11-28'
+  date_end: null
+  location_in_record: char:2014-2156
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8bc63227-ae23-4d8e-9821-4558e7678f40
+    record_title: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos,
+      1948-1951'
+    record_date: '1970-11-23'
+    record_reference: null
+    content_hash: sha256:324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572c75f51ec
+    friendly_name: 1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los
+- claim_id: f810694d-8760-4bb5-8031-85988b472229
+  claim_hash: e3b17bacbe57dbd9def3d8d9da3ad2fe04b389868c91746b0488347476d4dbe2
+  content: One reported case a few months earlier in 1996 involved a mysterious glowing
+    ball, possibly ball lightning, at 80 kilometres altitude moving upward at about
+    3000 kilometres per second.
+  original_excerpt: One reported case¹³ involved a mysterious glowing ball (ball lightning?)
+    80 km in altitude moving up at about 3000 km/sec observed a few months earlier
+    in 1996.
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+  provenance_chain:
+    origin_kind: document
+    origin: a cited report of a glowing ball observed in 1996
+    relay:
+    - Mark J. Carlotto's 2005 paper
+  attribution_mode: unknown
+  node_refs:
+  - node_id: eb844394-11fa-4223-ab75-374412b7be46
+    title: ball lightning
+    slug: ball-lightning
+  date: '1996'
+  date_end: null
+  location_in_record: char:25569-25775
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+    record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+    record_date: '2005'
+    record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+    content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+    friendly_name: null
+- claim_id: d0fa8104-280e-4a67-8fbe-622885ea90ab
+  claim_hash: 0b753fffe2e532defdd9721a9986fa6b04839086066add54847f12118b13832a
+  content: The object in the STS-80 video event F1 of 1996-12-02 is moving much too
+    fast to be a surface-to-air missile, with an estimated speed within the range
+    of blue jets, sprites, ball lightning and other previously documented phenomena.
+  original_excerpt: It is also moving much too fast – its estimated speed is within
+    the range of jets, sprites, ball lightning, and other previously documented phenomena.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mark J. Carlotto
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 78ede0c2-bff9-4e90-a9e3-f4ae02ac806c
+    title: surface-to-air missile
+    slug: surface-to-air-missile
+  - node_id: 98a821c3-2ba9-4e45-a28c-3219f2441543
+    title: blue jets (upper-atmospheric lightning)
+    slug: blue-jets-upper-atmospheric-lightning
+  - node_id: e8cc9c2f-aa24-41c3-96a8-5d82a70cc3f6
+    title: sprites (upper-atmospheric lightning)
+    slug: sprites-upper-atmospheric-lightning
+  - node_id: eb844394-11fa-4223-ab75-374412b7be46
+    title: ball lightning
+    slug: ball-lightning
+  date: '1996-12-02'
+  date_end: null
+  location_in_record: char:28148-28288
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+    record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+    record_date: '2005'
+    record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+    content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+    friendly_name: null
+- claim_id: 6ead1557-512f-487d-bb5d-23ba18f6d66e
+  claim_hash: 4a62471d8006ef25577c2620bf537ae68ae34469ab2e611d2d3a816e9df850b8
+  content: James E. McDonald considers the clear, non-thundery conditions reported
+    in the 1949 Hawthorn cigar-shaped object sighting to rule out plasmoids of the
+    ball lightning type.
+  original_excerpt: Yes, that rules out plasmoids of the ball lightning type.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+  provenance_chain:
+    origin_kind: speaker
+    origin: James E. McDonald
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    slug: james-macdonald
+  - node_id: 9d8382f0-71d5-403b-a54c-b75b05fafe41
+    title: 1949 Hawthorn cigar-shaped object sighting
+    slug: 1949-hawthorn-cigar-shaped-object-sighting
+  - node_id: eb844394-11fa-4223-ab75-374412b7be46
+    title: ball lightning
+    slug: ball-lightning
+  date: null
+  date_end: null
+  location_in_record: 00:03:07.0-00:03:10.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
+      His Investigative Tour (1967)
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+    friendly_name: null
+- claim_id: 9d0431ad-1ed7-41ac-97ca-ccff1f0b79f0
+  claim_hash: 916abc2b58fa67fdba7766af72690c8ff8a2ea0f3b076a87ce79e26046dda259
+  content: James E. McDonald considers that a soundless object hovering stationary
+    in conditions that do not imply ball lightning rules out meteors as an explanation.
+  original_excerpt: Soundless objects hovering stationary in conditions that do not
+    imply ball lightning, rule out meteors.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+  provenance_chain:
+    origin_kind: speaker
+    origin: James E. McDonald
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    slug: james-macdonald
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: eb844394-11fa-4223-ab75-374412b7be46
+    title: ball lightning
+    slug: ball-lightning
+  date: null
+  date_end: null
+  location_in_record: 00:03:49.6-00:03:56.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
+      His Investigative Tour (1967)
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+    friendly_name: null
+- claim_id: 4378f5bb-e3af-41c0-9665-8e2acb270ebc
+  claim_hash: 04e819112fb1e2fc697c1dd64bfd4843bfde69563af003dc306eada0edaed1b1
+  content: Some UFO reports are completely sincere misidentifications of planets,
+    ball lightning, fireballs, other luminous phenomena and even aircraft.
+  original_excerpt: there are completely sincere misidentifications of planets and
+    planets, and Balls, lightning, fireballs, luminous phenomena one time or another,
+    even aircraft and so on.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+  provenance_chain:
+    origin_kind: speaker
+    origin: James E. McDonald
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    slug: james-macdonald
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: eb844394-11fa-4223-ab75-374412b7be46
+    title: ball lightning
+    slug: ball-lightning
+  date: null
+  date_end: null
+  location_in_record: 00:35:27.9-00:35:42.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
+      His Investigative Tour (1967)
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+    friendly_name: null
+- claim_id: 72643398-85f4-45fe-9159-cb22f4ee54a9
+  claim_hash: b896b05684d00e8e82f30b182dc42dc13b6a6dc284a5e3da4e4a162f843cbff3
+  content: The United States government buried its serious interest in Unidentified
+    Aerial Phenomena behind the scenes while running Project Blue Book, which explained
+    the phenomenon away as prosaic causes such as ball lightning and swamp gas.
+  original_excerpt: the government had taken it seriously and kind of buried it behind
+    the scenes while engaging in activities like Project Blue Book, et cetera, explaining
+    away the phenomenon as something prosaic, ball lightning, you know, swamp gas
+    very famously, right? And, and of course, that wasn't true.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 55d8864f-5a54-49b4-b247-64670258220d
+    title: swamp gas
+    slug: swamp-gas
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: eb844394-11fa-4223-ab75-374412b7be46
+    title: ball lightning
+    slug: ball-lightning
+  date: null
+  date_end: null
+  location_in_record: 00:05:57.6-00:06:16.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null
+- claim_id: 7585820c-0c4d-41a9-ba1a-b5ef42a67e04
+  claim_hash: 45c4dd5cfdbe79a7a5d9a41c3cde7115e09192e38cd2fe64751503f69d66ec6b
+  content: The luminous orbs seen at a sensitive test range are not ball lightning
+    but a plasmoid type of intelligence.
+  original_excerpt: This isn't just a ball lightning here, but it's this, you know,
+    plasmoid type intelligence.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  - node_id: eb844394-11fa-4223-ab75-374412b7be46
+    title: ball lightning
+    slug: ball-lightning
+  date: null
+  date_end: null
+  location_in_record: 00:35:37.1-00:35:42.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null
+- claim_id: e969dbe4-c328-4d5d-876b-e4544e79a8fe
+  claim_hash: 57e2c96532256466e811a59de6e26b9642092a338a827d0868d35cbccb7d995a
+  content: Ball lightning occurred in Julia Mossbridge's childhood house, and her
+    theoretical physicist father responded that it was impossible and therefore had
+    not happened.
+  original_excerpt: there was ball lightning in our house and he would say, well,
+    that's impossible. So that didn't happen. It's like, well, it did happen.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: eb844394-11fa-4223-ab75-374412b7be46
+    title: ball lightning
+    slug: ball-lightning
+  date: null
+  date_end: null
+  location_in_record: 01:20:59.2-01:21:03.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null

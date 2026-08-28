@@ -1,0 +1,1177 @@
+schema: anomalica/brief/1
+brief_hash: 6373fb0b8dc82c96821b840ab3bbc5f1322c4489acb391db282d16abccbef070
+page:
+  kind: entity
+  node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+  node_type: organisation
+  title: Department of Homeland Security (DHS)
+  slug: department-of-homeland-security-dhs
+  claim_count: 27
+  claim_count_total: 27
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 4
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 4
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 3
+- node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+  title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+  node_type: project
+  slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  shared_claims: 3
+- node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+  title: All-domain Anomaly Resolution Office (AARO)
+  node_type: organisation
+  slug: all-domain-anomaly-resolution-office-aaro
+  shared_claims: 3
+- node_id: 73fd6d5c-d2b8-46e1-bfb9-c21b9712e560
+  title: Puerto Rico, Aguadilla
+  node_type: place
+  slug: aguadilla-puerto-rico
+  shared_claims: 3
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 3
+- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+  title: Advanced Aerospace Threat Identification Program (AATIP)
+  node_type: project
+  slug: advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 2
+- node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+  title: Defense Intelligence Agency (DIA)
+  node_type: organisation
+  slug: defense-intelligence-agency-dia
+  shared_claims: 2
+- node_id: 875cf48e-ae6f-4b00-8e75-6fb2ee9c062e
+  title: Intelligence Community (IC)
+  node_type: organisation
+  slug: intelligence-community-ic
+  shared_claims: 2
+- node_id: 84a785f9-5bfe-4444-bf6f-c06742f7644f
+  title: Allison Kruse
+  node_type: person
+  slug: allison-kruse
+  shared_claims: 1
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 1
+- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+  title: David Charles Grusch
+  node_type: person
+  slug: david-charles-grusch
+  shared_claims: 1
+- node_id: e002eed3-4e45-4049-af0b-600c1214e623
+  title: David Stinnett
+  node_type: person
+  slug: david-stinnett
+  shared_claims: 1
+- node_id: e3fc3ebb-8722-4b72-bfc3-3886b3bb167d
+  title: Department of Energy
+  node_type: organisation
+  slug: department-of-energy
+  shared_claims: 1
+- node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+  title: Donald Trump
+  node_type: person
+  slug: donald-trump
+  shared_claims: 1
+- node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+  title: Federal Bureau of Investigation (FBI)
+  node_type: organisation
+  slug: federal-bureau-of-investigation-fbi
+  shared_claims: 1
+- node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+  title: Legacy Program
+  node_type: project
+  slug: legacy-program
+  shared_claims: 1
+- node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
+  title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 National
+    Defense Authorization Act (NDAA))
+  node_type: document
+  slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-national-defense-authorization-act-ndaa
+  shared_claims: 1
+- node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+  title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+  node_type: organisation
+  slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+  shared_claims: 1
+- node_id: 86012e89-5cc0-4950-a4e1-c70b16dd4c9c
+  title: Robert Kennedy
+  node_type: person
+  slug: robert-kennedy
+  shared_claims: 1
+- node_id: f6627920-babb-4b85-83c0-f1a37b92d10f
+  title: Special Access Programs
+  node_type: matter
+  slug: special-access-programs
+  shared_claims: 1
+claims:
+- claim_id: b665bd43-2644-4c7d-96c2-5718d11ea355
+  claim_hash: 49656870a3b19c15df9fdce7adc4bb7895a81e4a487f27c290002a7dd9e4855d
+  content: David Stinnett observed the Department of Homeland Security (DHS) present
+    when he visited Allison Kruse's house, along with all kinds of other people visiting
+    and seeing orbs and other things in the skies above the woods near her house.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e002eed3-4e45-4049-af0b-600c1214e623
+    title: David Stinnett
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Stinnett
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: 84a785f9-5bfe-4444-bf6f-c06742f7644f
+    title: Allison Kruse
+    slug: allison-kruse
+  - node_id: e002eed3-4e45-4049-af0b-600c1214e623
+    title: David Stinnett
+    slug: david-stinnett
+  date: null
+  date_end: null
+  location_in_record: ch3:46253-46423
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: d058f296-0f9b-437d-aa6c-c3b05f621384
+  claim_hash: 473092dfd1e1491856d438b4b31ce58ba26485ccf7830e277d94e819b1da7738
+  content: A UAP was spotted near the airport in Aguadilla, Puerto Rico in 2004, and
+    was quickly tracked by a helicopter from the United States Department of Homeland
+    Security (DHS).
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: 73fd6d5c-d2b8-46e1-bfb9-c21b9712e560
+    title: Puerto Rico, Aguadilla
+    slug: aguadilla-puerto-rico
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '2004'
+  date_end: null
+  location_in_record: ch20:20405-20598
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: c2048fb8-ff4a-408a-aaab-6b83fc0b0cb1
+  claim_hash: 5859defba381c184510e4cfebbd51a9ca1da3f7ca9fa907f1fc6c7ccfc077b69
+  content: The UAP observed near Aguadilla, Puerto Rico appeared to detect that it
+    was being monitored by the pursuing United States Department of Homeland Security
+    (DHS) helicopter and then rapidly moved away.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '2004'
+  date_end: null
+  location_in_record: ch20:20785-20880
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 34cce20e-1547-47e2-8b3e-5ff722ba5616
+  claim_hash: 7d03d52589b6474d9a5e38b4285aed06e7d619c88e83926526090266ae0580f7
+  content: Lue Elizondo deemed the United States Department of Homeland Security (DHS)
+    video from Aguadilla, Puerto Rico too sensitive to select for release because
+    of its origin with a sister agency.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: 73fd6d5c-d2b8-46e1-bfb9-c21b9712e560
+    title: Puerto Rico, Aguadilla
+    slug: aguadilla-puerto-rico
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: ch27:3644-3745
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 86accb75-cf3c-4673-9547-5a1949c8bb5e
+  claim_hash: 6cb1c2d68785bbd2f2f6581378a757563a17b5bb1138e31dec2e2cd4c2b53c16
+  content: Even though the United States Department of Homeland Security (DHS) video
+    from Aguadilla, Puerto Rico had already leaked online, Lue Elizondo was not willing
+    to confirm it was a US government video without the DHS agreeing to that decision.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: 73fd6d5c-d2b8-46e1-bfb9-c21b9712e560
+    title: Puerto Rico, Aguadilla
+    slug: aguadilla-puerto-rico
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  date: null
+  date_end: null
+  location_in_record: ch27:3753-3882
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 6a85d80d-06cd-475c-91c5-66490a3bd7a0
+  claim_hash: 27a08d95bcb70c68cbb2eae7ccd2a8b110f419b7a4f7542e4fb217f466bd7110
+  content: Luis Elizondo worked for the Office of the Undersecretary of Defense for
+    Intelligence (OUSD(I)), focused on an information-sharing operation between the
+    Department of Defense, the Department of Homeland Security, and state, local,
+    and tribal law enforcement authorities.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+  date: null
+  date_end: null
+  location_in_record: ch9:1326-1548
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 4d1a24ed-c8be-4d09-a5fa-9dd24272674a
+  claim_hash: 6be2568de54525d44896806882ff59a2ac0b792c982ca6e221b8ded4a921367f
+  content: Luis Elizondo led classified investigations worldwide with partners including
+    the Federal Bureau of Investigation (FBI), the Central Intelligence Agency (CIA),
+    and the United States Department of Homeland Security (DHS).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+    title: Federal Bureau of Investigation (FBI)
+    slug: federal-bureau-of-investigation-fbi
+  date: null
+  date_end: null
+  location_in_record: ch9:719-912
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: c4e57e68-02ae-49d8-8d6d-bbe9c2f86f7b
+  claim_hash: f74ca9b466b14fe96bdcad473c4b38e45c954f936ca73d8581254c16745f4e4b
+  content: A Prospective Special Access Program (PSAP) was officially requested to
+    stand up the KONA BLUE program.
+  original_excerpt: Prospective Special Access Program (PSAP) was officially requested
+    to stand up this program, but it was eventually rejected by DHS leadership for
+    lacking merit.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  date: null
+  date_end: null
+  location_in_record: char:100225-100379
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 73a81550-6f3a-4147-920f-6e725091bd2b
+  claim_hash: 14cfc4d4ddce4791aa029975693ad3f3fed4e0e8aa3310ea9085f1b566a8da5d
+  content: The Prospective Special Access Program request to stand up KONA BLUE was
+    rejected by Department of Homeland Security (DHS) leadership for lacking merit.
+  original_excerpt: but it was eventually rejected by DHS leadership for lacking merit.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  date: null
+  date_end: null
+  location_in_record: char:100318-100379
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 301b9782-909f-4ddb-ad87-88d685f1c097
+  claim_hash: 141bb0a8988f21d24cf61c1041291f9343819e5025c9b1676c0e0854dab445ea
+  content: Advocates of the KONA BLUE program believed that creating the program under
+    the Department of Homeland Security (DHS) would allow all technology and knowledge
+    of alleged UAP programs to be moved under KONA BLUE.
+  original_excerpt: They believed that creating this program under DHS would allow
+    all of the technology and knowledge of these alleged programs to be moved under
+    the KONA BLUE program.
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: AARO case files
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  date: null
+  date_end: null
+  location_in_record: char:101010-101167
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 8f0eb21b-58fe-4933-8c07-412536e2e523
+  claim_hash: 1271a11161b5a001c073b1227371d3bd0e4c3e641ee0724d6946631de4bdf8ff
+  content: The KONA BLUE Special Access Program was never approved or stood up, and
+    no data or material was transferred to the Department of Homeland Security (DHS).
+  original_excerpt: The SAP was never approved or stood up, and no data or material
+    was transferred to DHS.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Senator Harry Reid Letter to Deputy Secretary of Defense William Lynn
+      III; Memorandum from James Clapper to the Deputy Secretary of Defense, 17 November
+      2009
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  date: null
+  date_end: null
+  location_in_record: char:102326-102409
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 2a867a89-5ae3-47e4-8844-4c2c06c4de9d
+  claim_hash: 5fdf0144f6b15c8e7de180809a064573db0b56d29b264c75493cf888fe7e5610
+  content: KONA BLUE was a UAP-related Prospective Special Access Program proposed
+    to the Department of Homeland Security and supported by individuals who believed
+    the United States Government was hiding off-world technology.
+  original_excerpt: One named program was a UAP-related Prospective Special Access
+    Program (PSAP) called KONA BLUE that was proposed to the Department of Homeland
+    Security (DHS) and supported by individuals who believed the USG was hiding off-world
+    technology.
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: All-Domain Anomaly Resolution Office (AARO)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  date: null
+  date_end: null
+  location_in_record: char:10934-11163
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: d34fdac7-a5f1-4875-bc75-4e1918c4a8fc
+  claim_hash: cab4463bda924067be0a2aae5fc9541b61d23fdc0ac70f16852d6772d79b059d
+  content: KONA BLUE was never approved by the Department of Homeland Security, and
+    its supporters never provided empirical evidence to support their claims.
+  original_excerpt: The program was never approved by DHS and its supporters never
+    provided empirical evidence to support their claims.
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: All-Domain Anomaly Resolution Office (AARO)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  date: null
+  date_end: null
+  location_in_record: char:11175-11283
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 2f08c4b1-a303-478c-976d-c997c5a0f454
+  claim_hash: 5d4ac985cf41331103d4a9e83fd21341f2fd339868d1b7630fe6781e9ffb1d44
+  content: Many of the individuals behind modern claims of a hidden United States
+    Government reverse-engineering programme were involved in or supportive of a cancelled
+    Defense Intelligence Agency programme and the subsequent but failed attempt to
+    reestablish this programme under the Department of Homeland Security, called KONA
+    BLUE.
+  original_excerpt: Many of these individuals were involved in or supportive of a
+    cancelled DIA program and the subsequent but failed attempt to reestablish this
+    program under DHS, called KONA BLUE.
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: All-Domain Anomaly Resolution Office (AARO)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  date: null
+  date_end: null
+  location_in_record: char:12156-12329
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 1e3a5df5-75b5-4809-aa29-a144e05eca67
+  claim_hash: 4da99df4221aed5e4b3ea444cbe475513d06728a7105ed3ec42a1cf13d92e9e9
+  content: After AAWSAP/AATIP was terminated, its supporters unsuccessfully attempted
+    to convince the Department of Homeland Security (DHS) to support a new version
+    of the effort dubbed KONA BLUE.
+  original_excerpt: After AAWSAP/AATIP was terminated, its supporters unsuccessfully
+    attempted to convince DHS to support a new version of this effort dubbed KONA
+    BLUE.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: null
+  date_end: null
+  location_in_record: char:63875-64018
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: d1763776-36ad-47a9-8b43-398f8243145f
+  claim_hash: 7739ce135fb51e6145415ee4f182d994a9c8353beb278909f1dba56c04e964f5
+  content: To meet the direction of Section 1673 of the National Defense Authorization
+    Act for Fiscal Year 2023, AARO sent guidance and requests to the Department of
+    Defense, Intelligence Community elements, the Department of Energy, and the Department
+    of Homeland Security to review and provide any nondisclosure agreements pertaining
+    to UAP.
+  original_excerpt: In the conduct of this review, and to meet the direction of Section
+    1673 of the NDAA for FY 2023, AARO sent guidance and requests to DoD, IC elements,
+    DOE, and DHS to review and provide any NDAs pertaining to UAP (or its previous
+    names).
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: All-Domain Anomaly Resolution Office (AARO)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 875cf48e-ae6f-4b00-8e75-6fb2ee9c062e
+    title: Intelligence Community (IC)
+    slug: intelligence-community-ic
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: e3fc3ebb-8722-4b72-bfc3-3886b3bb167d
+    title: Department of Energy
+    slug: department-of-energy
+  - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
+    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 National
+      Defense Authorization Act (NDAA))
+    slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-national-defense-authorization-act-ndaa
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    slug: all-domain-anomaly-resolution-office-aaro
+  date: null
+  date_end: null
+  location_in_record: char:86576-86806
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 47e2758a-1ab3-41b5-bca9-466f3392e6f7
+  claim_hash: c2b9b69966eafa154c119ff059662f0c29be0c2b80bc49bbe34f49c03a187053
+  content: AARO established a partnership with the Special Access Program Control
+    Offices for the Department of Defense, Intelligence Community, and Department
+    of Homeland Security to review programmes identified in interviews by name or
+    description to determine if the programmes correlated in time and location to
+    historic special access programmes or Controlled Access Programs.
+  original_excerpt: AARO established a partnership with the Special Access Program
+    Control Offices for the DoD, IC, and DHS to review programs identified in interviews
+    by name or description to determine if the programs correlated in time and location
+    to historic SAP or Controlled Access Programs (CAP).
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: All-Domain Anomaly Resolution Office (AARO)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: 875cf48e-ae6f-4b00-8e75-6fb2ee9c062e
+    title: Intelligence Community (IC)
+    slug: intelligence-community-ic
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    slug: all-domain-anomaly-resolution-office-aaro
+  - node_id: f6627920-babb-4b85-83c0-f1a37b92d10f
+    title: Special Access Programs
+    slug: special-access-programs
+  date: null
+  date_end: null
+  location_in_record: char:97632-97911
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 9fdfa9ac-03d5-457c-aa51-f5988d0b69ad
+  claim_hash: 4706e55fbc4fadfe37f652cc1423e52e140f60462db1279df8fe8f51ad25a384
+  content: KONA BLUE was brought to AARO's attention by interviewees who claimed it
+    was a sensitive Department of Homeland Security compartment created to cover up
+    the retrieval and exploitation of "non-human biologics."
+  original_excerpt: KONA BLUE was brought to AARO's attention by interviewees who
+    claimed that it was a sensitive DHS compartment to cover up the retrieval and
+    exploitation of "non-human biologics."
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: interviewees claiming KONA BLUE was a Department of Homeland Security
+      compartment covering up retrieval of non-human biologics
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    slug: all-domain-anomaly-resolution-office-aaro
+  date: null
+  date_end: null
+  location_in_record: char:98930-99097
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 02441cd6-574f-4a54-b3a4-e2dbe99d3e1f
+  claim_hash: a6cc2a44e075392afd4d2000d4e16f2c9a50849a4181a4248bba99fd335d69a2
+  content: When the Defense Intelligence Agency cancelled the Advanced Aerospace Weapons
+    System Application Program/Advanced Aerospace Threat Identification Program, its
+    supporters proposed to the Department of Homeland Security that they create and
+    fund a new version of the programme under a special access programme, codenamed
+    KONA BLUE.
+  original_excerpt: When DIA cancelled this program, its supporters proposed to DHS
+    that they create and fund a new version of AAWSAP/AATIP under a SAP. (AARO case
+    files) This proposal, codenamed KONA BLUE, would restart UAP investigations, paranormal
+    research (including alleged "huma
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: All-Domain Anomaly Resolution Office (AARO)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: null
+  date_end: null
+  location_in_record: char:99735-99987
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 9f3c6f9b-31b6-412b-bf81-fe4a32b3165c
+  claim_hash: 651d514a15a33f2701e499aebbf8d2e6a7b0783e409db88fdcfc978f28a3c7c0
+  content: Kona Blue was a Department of Homeland Security Prospective Special Access
+    Program (SAP) material transfer effort.
+  original_excerpt: You're talking about the Kona Blue, Department of Homeland Security
+    Prospective Special Access Material Transfer, correct?
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+    title: UAP Gerb
+  provenance_chain:
+    origin_kind: speaker
+    origin: UAP Gerb
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  date: null
+  date_end: null
+  location_in_record: 00:12:33.9-00:12:39.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: a54f18d0-28b0-4437-8b93-11ee669645bb
+  claim_hash: 019bf1755e792f06d9079708432b8acfaa127e2165b864b3e89e2d0f4efd372c
+  content: After the Kona Blue Special Access Program (SAP) effort at the Department
+    of Homeland Security (DHS) ended, Hal Puthoff and colleagues spent at least two
+    years developing comprehensive program plans for it.
+  original_excerpt: we ended up going to DHS. And now it's known that we're going
+    to do it at an SAP level called Kona Blue... We spent, well, for one thing, we
+    spent at least, I'd say, two years. We generated our program plans that would
+    go from the floor to the ceiling.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hal Puthoff
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  date: null
+  date_end: null
+  location_in_record: 00:14:24.7-00:14:47.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: b49d7058-c317-4b8c-b8d6-7a7a93ec2c80
+  claim_hash: e1af39669dedfb6b9964c1ec2ea1358b1590b4de506b25ab03f69027c6376e8b
+  content: There was tremendous enthusiasm for the Kona Blue Special Access Program
+    (SAP) from the Directorate of Science and Technology (DS&T) and security personnel
+    at the Department of Homeland Security (DHS).
+  original_excerpt: It was tremendous enthusiasm from their DDS&T, from their security
+    people. I mean, that was really going to be the winning program.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hal Puthoff
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  date: null
+  date_end: null
+  location_in_record: 00:14:47.9-00:14:56.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: a0de6c1e-f6a5-419c-9259-3bed121e8d3e
+  claim_hash: fa638c5e9b2bbd542c7bfcf80f29cd7975458fe1208fad48f0d9db97d1db6fe1
+  content: The Kona Blue Special Access Program (SAP) at the Department of Homeland
+    Security (DHS) ultimately failed after Hal Puthoff encountered pressure against
+    funding it from a couple of individuals he declined to name.
+  original_excerpt: at the very end, I ran into some... pressure against not funding
+    it by a couple of individuals, which I don't feel like a name.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hal Puthoff
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  date: null
+  date_end: null
+  location_in_record: 00:15:05.3-00:15:18.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: f0f081a0-81b6-4b0e-bd23-7c3a7a2f937c
+  claim_hash: 7877b02a87b36f24841454505cf86e848cf482b70f64320b98cfcd28329c972c
+  content: After the original Advanced Aerospace Weapon System Applications Program
+    (AAWSAP) was shut down, its former participants continued to collaborate on their
+    own funds to try to sell a UAP investigation programme elsewhere, using Kona Blue
+    as an example of such an effort at the Department of Homeland Security (DHS).
+  original_excerpt: we nonetheless continued to collaborate on our own funds or whatever.
+    to try to go out and sell this program somewhere else, with Kona Blue being the
+    example at DHS.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hal Puthoff
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: null
+  date_end: null
+  location_in_record: 00:25:21.7-00:25:33.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: 5f88a4da-3647-48fa-bf2b-e59bcd561284
+  claim_hash: 92c6da30a9e10d0efaf5a417fbc69864aaab3662a73fb44082424cb3bb6fe350
+  content: Hal Puthoff suggests going back to the United States Department of Homeland
+    Security (DHS) and asking to talk to the people involved in security there as
+    an unexplored avenue of investigation.
+  original_excerpt: How about going back to DHS and asking to talk to the people involved
+    in security there?
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hal Puthoff
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  date: null
+  date_end: null
+  location_in_record: 00:59:27.4-00:59:33.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: 985a5023-3786-4990-80a0-692010d1f18a
+  claim_hash: 7afaeafb57cf9c10266a734f697070a84a445bbd6cca056f3aa94dd0762c4716
+  content: United States Department of Homeland Security (DHS) government security
+    officers went searching for gatekeepers of the legacy program and found them,
+    but could not gain access because Kona Blue had not yet been turned into an approved
+    Special Access Program (SAP).
+  original_excerpt: The DHS government security officers who went searching for gatekeepers...
+    And they found them... But they couldn't get access because even to begin to get
+    access, you're going to have SAPs and Kona Blue had not yet been turned. It was
+    a PSAP, a proposed SAP. It had not made it across the goal line to become an SAP.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hal Puthoff
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+    title: Legacy Program
+    slug: legacy-program
+  date: null
+  date_end: null
+  location_in_record: 00:59:47.1-01:00:15.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: 60612f09-5336-4aa3-bf23-a2dd51b543e3
+  claim_hash: 617b65efca15bfa3f6618dfa1df4ed889d0f24dc590ecfd149d9c16e98871d37
+  content: David Grusch considers that the United States Department of Health and
+    Human Services and Robert F. Kennedy Jr. would play a big role in the public response
+    if Donald Trump releases all the Unidentified Aerial Phenomena information.
+  original_excerpt: I think HHS and Bobby Kennedy, assuming Trump releases all the
+    information is going to play a big role
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    slug: donald-trump
+  - node_id: 86012e89-5cc0-4950-a4e1-c70b16dd4c9c
+    title: Robert Kennedy
+    slug: robert-kennedy
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: 00:24:58.8-00:25:04.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null

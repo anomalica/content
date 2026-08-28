@@ -1,0 +1,523 @@
+schema: anomalica/brief/1
+brief_hash: 33e229a2bc74e0e54d37e82eccf509183c160c00755b2b105743f1d051bb1c11
+page:
+  kind: entity
+  node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
+  node_type: person
+  title: Jack Kasher
+  slug: jack-kasher
+  claim_count: 10
+  claim_count_total: 10
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 9
+- node_id: ced438f0-7eef-4314-babe-1817f40a6951
+  title: Space Shuttle Discovery
+  node_type: object
+  slug: space-shuttle-discovery
+  shared_claims: 5
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 4
+- node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+  title: Mark C. Carlotto
+  node_type: person
+  slug: mark-c-carlotto
+  shared_claims: 3
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 2
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 2
+- node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+  title: James E. Oberg
+  node_type: person
+  slug: james-e-oberg
+  shared_claims: 1
+- node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+  title: Maaneli "Max" Derakhshani
+  node_type: person
+  slug: maaneli-max-derakhshani
+  shared_claims: 1
+- node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+  title: Mike Bara
+  node_type: person
+  slug: mike-bara
+  shared_claims: 1
+- node_id: cc62731b-9dd3-4ce3-8d82-5337036f8e7d
+  title: STS-48
+  node_type: project
+  slug: sts-48
+  shared_claims: 1
+- node_id: 08e11144-52fa-48d1-9e87-a29b9253d02f
+  title: STS-48 video anomalous objects incident (1991-09)
+  node_type: event
+  slug: sts-48-video-anomalous-objects-incident-1991-09
+  shared_claims: 1
+claims:
+- claim_id: 6e4e6d59-505b-479a-abb2-87b9848944e1
+  claim_hash: 5b3a7b3c0f9a1e4a13950dbf17f84c6eb19a0d82a23865ad67e081dcf1d3c960
+  content: Jack Kasher produced five proofs that the objects seen in the STS-48 video
+    could not be ice particles disturbed by a thruster firing.
+  original_excerpt: Jack Kasher produced five proofs that the objects seen in the
+    video could not be ice particles disturbed by a thruster firing³.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+  provenance_chain:
+    origin_kind: named
+    origin: Jack Kasher
+    relay:
+    - Mark J. Carlotto
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 08e11144-52fa-48d1-9e87-a29b9253d02f
+    title: STS-48 video anomalous objects incident (1991-09)
+    slug: sts-48-video-anomalous-objects-incident-1991-09
+  - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
+    title: Jack Kasher
+    slug: jack-kasher
+  - node_id: cc62731b-9dd3-4ce3-8d82-5337036f8e7d
+    title: STS-48
+    slug: sts-48
+  date: null
+  date_end: null
+  location_in_record: char:3142-3261
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+    record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+    record_date: '2005'
+    record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+    content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+    friendly_name: null
+- claim_id: c57548f9-3bb4-4a7c-8a60-37a4f5df2cf9
+  claim_hash: fbc8a34b331ee917c0b5c9e36b0cb4281035617abaabc47ff5a0eabdfb29d300
+  content: In the STS-48 UAP incident footage, the main object, otherwise moving at
+    a constant speed, stops for half a second before darting off, as determined by
+    Dr. Jack Kasher.
+  original_excerpt: The main UAP, as we can see, that's moving along at a constant
+    speed, it actually stops for half a second, as determined by Dr. Jack Kasher,
+    before it darts off.
+  claim_type: measurement
+  attestation: second_hand
+  speaker:
+    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+  provenance_chain:
+    origin_kind: named
+    origin: Jack Kasher
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
+    title: Jack Kasher
+    slug: jack-kasher
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: 00:24:44.1-00:24:55.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null
+- claim_id: 3f7fc36e-66c5-46b3-b8cb-028f8553630f
+  claim_hash: 30eae6fd4e342872fd0a94be5216028699f28bf9c446c6455efde4b509be32e6
+  content: Jack Kasher's analysis of the STS-48 UAP incident footage showed that the
+    object's half-second stop before darting off does not fit the behaviour of an
+    ice particle.
+  original_excerpt: That doesn't fit the behavior of an ice particle as Kasher showed
+    extensively in his analysis of this footage.
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+  provenance_chain:
+    origin_kind: named
+    origin: Jack Kasher
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
+    title: Jack Kasher
+    slug: jack-kasher
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: 00:24:59.2-00:25:06.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null
+- claim_id: 0f63e416-be58-40c7-b227-5668e16084dc
+  claim_hash: 1374b02486db8a4b6b29b3c2b9b4bbac97681e2ecba3dd3f234d5d93646e87e0
+  content: James Oberg of National Aeronautics and Space Administration (NASA) has
+    had back-and-forth exchanges with Mark Carlotto and Jack Kasher regarding the
+    STS-48 UAP incident, but did not do so officially on behalf of NASA.
+  original_excerpt: There is one person from NASA, James Oberg, who has had some back
+    and forth with Dr. Carlotto, as well as my colleague, Jack Kasher, who also wrote
+    this really extensive study of the STS-48 video. But he seemed to do this basically
+    on his own. not necessarily officially on behalf of NASA.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+  provenance_chain:
+    origin_kind: speaker
+    origin: Maaneli "Max" Derakhshani
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
+    title: Jack Kasher
+    slug: jack-kasher
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+    slug: mark-c-carlotto
+  date: null
+  date_end: null
+  location_in_record: 00:32:50.5-00:33:12.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null
+- claim_id: 4a20a8f9-26a1-48d5-ba40-f64d04984070
+  claim_hash: b37770dd2831a092b399907257aed95c3872b2ade950cc87a08929f78df6ae7a
+  content: Jack Kasher, Mark Carlotto, Mike Barra, and Richard Hoagland have raised
+    anomalies or problems with National Aeronautics and Space Administration (NASA)'s
+    ice-debris explanation for the STS-48 UAP incident that Maaneli "Max" Derakhshani
+    has never seen satisfactorily explained by NASA or any NASA scientists or engineers.
+  original_excerpt: there are anomalies or problems with that explanation that have
+    been made very clear by Dr. Kasher, Dr. Carlotto, Mike Barra, Richard Hoagland.
+    in various places that I've never seen any satisfactory explanation for from NASA
+    or any NASA scientists or engineers.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+  provenance_chain:
+    origin_kind: speaker
+    origin: Maaneli "Max" Derakhshani
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
+    title: Jack Kasher
+    slug: jack-kasher
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+    slug: mark-c-carlotto
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: 00:33:28.6-00:33:46.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null
+- claim_id: 70322530-6927-4828-a56f-ff41013dce29
+  claim_hash: 186a781573c50d58b20cd5e9c2e8f06e4f41dc70e6da52a9452378356e8421ae
+  content: According to a chart of calculated accelerations produced by Jack Kasher,
+    if the main unidentified aerial phenomenon (UAP) of interest in the STS-48 UAP
+    incident was approximately 1.6 kilometres from Space Shuttle Discovery (STS-48),
+    the top acceleration was 10.5 g-forces.
+  original_excerpt: if the UAP was one mile away from the shuttle, the top acceleration
+    was 10 and a half g-forces
+  claim_type: measurement
+  attestation: second_hand
+  speaker:
+    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+  provenance_chain:
+    origin_kind: named
+    origin: Jack Kasher
+    relay:
+    - Maaneli "Max" Derakhshani
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
+    title: Jack Kasher
+    slug: jack-kasher
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: ced438f0-7eef-4314-babe-1817f40a6951
+    title: Space Shuttle Discovery
+    slug: space-shuttle-discovery
+  date: null
+  date_end: null
+  location_in_record: 00:35:36.5-00:35:43.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null
+- claim_id: 5a584f90-b4a9-424d-8b30-44628d4a30b6
+  claim_hash: 1fcf96963ef20f23e94a7b842f745bbd5d30f1c877e83e6f336288d850d5face
+  content: According to a chart of calculated accelerations produced by Jack Kasher,
+    if the main unidentified aerial phenomenon (UAP) of interest in the STS-48 UAP
+    incident was approximately 1.6 kilometres from Space Shuttle Discovery (STS-48),
+    the final velocity reached was approximately 400 kilometres per hour.
+  original_excerpt: final velocity of 250 miles per hour
+  claim_type: measurement
+  attestation: second_hand
+  speaker:
+    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+  provenance_chain:
+    origin_kind: named
+    origin: Jack Kasher
+    relay:
+    - Maaneli "Max" Derakhshani
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
+    title: Jack Kasher
+    slug: jack-kasher
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: ced438f0-7eef-4314-babe-1817f40a6951
+    title: Space Shuttle Discovery
+    slug: space-shuttle-discovery
+  date: null
+  date_end: null
+  location_in_record: 00:35:45.7-00:35:48.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null
+- claim_id: a078a4b6-fb22-42c0-ae42-bdc7938bb8c9
+  claim_hash: 249ad566a609c812d298c6d18eb5476aec8db0ae7f7de7a55c46c65e2063133e
+  content: According to a chart of calculated accelerations produced by Jack Kasher,
+    if the main unidentified aerial phenomenon (UAP) of interest in the STS-48 UAP
+    incident was at the horizon relative to Space Shuttle Discovery (STS-48), the
+    acceleration would have to be 18,000 g-forces.
+  original_excerpt: If it was at the horizon, then the acceleration would have to
+    be 18,000 g's
+  claim_type: measurement
+  attestation: second_hand
+  speaker:
+    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+  provenance_chain:
+    origin_kind: named
+    origin: Jack Kasher
+    relay:
+    - Maaneli "Max" Derakhshani
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
+    title: Jack Kasher
+    slug: jack-kasher
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: ced438f0-7eef-4314-babe-1817f40a6951
+    title: Space Shuttle Discovery
+    slug: space-shuttle-discovery
+  date: null
+  date_end: null
+  location_in_record: 00:35:50.4-00:35:55.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null
+- claim_id: 7a333d52-1f56-451f-a39e-a6ea4bb2cd68
+  claim_hash: 7b0809fd080855cc5c1b281efdb5624a06f0c93fa8d4665918b6446b27bba244
+  content: According to a chart of calculated accelerations produced by Jack Kasher,
+    if the main unidentified aerial phenomenon (UAP) of interest in the STS-48 UAP
+    incident was at the horizon relative to Space Shuttle Discovery (STS-48), the
+    final velocity reached was approximately 690,000 kilometres per hour.
+  original_excerpt: a final velocity of around 430,000 miles per hour
+  claim_type: measurement
+  attestation: second_hand
+  speaker:
+    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+  provenance_chain:
+    origin_kind: named
+    origin: Jack Kasher
+    relay:
+    - Maaneli "Max" Derakhshani
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
+    title: Jack Kasher
+    slug: jack-kasher
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: ced438f0-7eef-4314-babe-1817f40a6951
+    title: Space Shuttle Discovery
+    slug: space-shuttle-discovery
+  date: null
+  date_end: null
+  location_in_record: 00:35:56.2-00:36:00.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null
+- claim_id: f41d9f61-b1f1-4b0f-8fa0-a1bc7febf858
+  claim_hash: da1346fb08dae59184dcb1c49f2d51561e17367877c77280c181a49426d97a59
+  content: Maaneli "Max" Derakhshani argues that Mark Carlotto, Jack Kasher, and Richard
+    Hoagland have provided ample evidence that the main unidentified aerial phenomenon
+    (UAP) of interest in the STS-48 UAP incident was at least 160 kilometres or further
+    from Space Shuttle Discovery (STS-48).
+  original_excerpt: If you can answer that question and you can show that it's at
+    100 miles or further away from the shuttle, which I would argue that you can.
+    And I think Carlotto, Kasher and Hoagland and others have provided ample evidence
+    to that conclusion.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+  provenance_chain:
+    origin_kind: speaker
+    origin: Maaneli "Max" Derakhshani
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
+    title: Jack Kasher
+    slug: jack-kasher
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+    slug: maaneli-max-derakhshani
+  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+    slug: mark-c-carlotto
+  - node_id: ced438f0-7eef-4314-babe-1817f40a6951
+    title: Space Shuttle Discovery
+    slug: space-shuttle-discovery
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: 00:37:07.1-00:37:20.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null

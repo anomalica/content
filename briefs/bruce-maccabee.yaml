@@ -1,0 +1,289 @@
+schema: anomalica/brief/1
+brief_hash: dda4189e06fb904a43de6ade16910bc2b5bf3789ff436a5f6abdb30d4d5709e5
+page:
+  kind: entity
+  node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+  node_type: person
+  title: Bruce Maccabee
+  slug: bruce-maccabee
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+  title: Bill Clinton
+  node_type: person
+  slug: bill-clinton
+  shared_claims: 3
+- node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+  title: Ronald Pandolfi
+  node_type: person
+  slug: ronald-pandolfi
+  shared_claims: 2
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 2
+- node_id: e1efac10-b1f7-4eb4-86aa-20beb6665b14
+  title: April 24, 1949 Charles B. Moore balloon and unidentified object sighting
+  node_type: event
+  slug: 1949-charles-b-moore-balloon-and-unidentified-object-sighting-april-24
+  shared_claims: 1
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 1
+- node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+  title: Donald Menzel
+  node_type: person
+  slug: donald-menzel
+  shared_claims: 1
+- node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+  title: Federal Bureau of Investigation (FBI)
+  node_type: organisation
+  slug: federal-bureau-of-investigation-fbi
+  shared_claims: 1
+claims:
+- claim_id: d764fab1-39f3-46ca-a9c1-6538b4f89f38
+  claim_hash: 98a4db66259e7a7b8a087960d000c47fd09690001d954f72808b07a1b9a0346e
+  content: According to navy physicist Bruce Maccabee, Donald Menzel made critical
+    errors in comparing his own lensing theory with the data reported by observers
+    of the April 24, 1949 sighting.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+    title: Bruce Maccabee
+  provenance_chain:
+    origin_kind: named
+    origin: Bruce Maccabee
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+    title: Bruce Maccabee
+    slug: bruce-maccabee
+  - node_id: e1efac10-b1f7-4eb4-86aa-20beb6665b14
+    title: April 24, 1949 Charles B. Moore balloon and unidentified object sighting
+    slug: 1949-charles-b-moore-balloon-and-unidentified-object-sighting-april-24
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch14:28174-28322
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 45f64a78-a281-49dd-81d3-0981c32e74a5
+  claim_hash: 9825814be16a754ea77184af966ac9707049c237b2c1b26d935d57c66bc1b5b6
+  content: The angle at which the April 24, 1949 sighting took place was too great
+    to allow lensing, even under Donald Menzel's own hypothesis.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+    title: Bruce Maccabee
+  provenance_chain:
+    origin_kind: named
+    origin: Bruce Maccabee
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e1efac10-b1f7-4eb4-86aa-20beb6665b14
+    title: April 24, 1949 Charles B. Moore balloon and unidentified object sighting
+    slug: 1949-charles-b-moore-balloon-and-unidentified-object-sighting-april-24
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch14:28333-28449
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 1b8cf3b4-33dc-4f1b-b6e3-077b1d580dec
+  claim_hash: 3468eb4bb961beed0a260eaa2f295f4d4a3445960212c939d60ba84e955681a7
+  content: Ronald Pandolfi advised Bill Clinton that he should be briefed by Bruce
+    Maccabee, a longtime civilian UFO researcher who had written a book about UFOs
+    and the FBI.
+  original_excerpt: Ron Pandolfi told Clinton he should get briefed by a guy named
+    Bruce Maccabee who had written about a book about UFOs and the FBI was a longtime
+    civilian researcher.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michels
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+    title: Ronald Pandolfi
+    slug: ronald-pandolfi
+  - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+    title: Bruce Maccabee
+    slug: bruce-maccabee
+  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+    title: Bill Clinton
+    slug: bill-clinton
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+    title: Federal Bureau of Investigation (FBI)
+    slug: federal-bureau-of-investigation-fbi
+  date: null
+  date_end: null
+  location_in_record: 00:47:46.2-00:47:56.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 63d32f5f-d26e-4216-badd-0b4f1f215298
+  claim_hash: 28b8bc2246e7f6ffceb3d3a98e168b92700292d743951f82e7f2823501776789
+  content: Bruce Maccabee received a call from Ronald Pandolfi asking him to deliver
+    to Bill Clinton's science advisor the lecture he had once given to the CIA, and
+    was told the briefing was the following morning at eight o'clock, leaving almost
+    no time to prepare.
+  original_excerpt: So Bruce Maccabee relates the story. ... he gets a call from Pandolfi
+    basically saying, look, I need you to go in and give the lecture you gave to the
+    CIA once. I want you to give it to the science advisor. And he's like, well, I
+    need time to prepare ... And he's like, it's tomorrow eight in the morning.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: named
+    origin: Bruce Maccabee
+    relay:
+    - Bruce Maccabee's public retelling of the story
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+    title: Ronald Pandolfi
+    slug: ronald-pandolfi
+  - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+    title: Bruce Maccabee
+    slug: bruce-maccabee
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+    title: Bill Clinton
+    slug: bill-clinton
+  date: null
+  date_end: null
+  location_in_record: 00:49:25.2-00:49:44.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 411f00d0-29e7-43c0-8431-53e5b7ca59bd
+  claim_hash: 74564dd0c58125b5e1f3d11946c931dc3f6dbb73dce8eff6b9cf750b28cafeed
+  content: Bruce Maccabee is a Navy physicist who has done phenomenal UFO research,
+    in Jason Samosa's assessment.
+  original_excerpt: he's this Navy physicist, incredibly bright guy who's obviously
+    done phenomenal research.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jason Samosa
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+    title: Bruce Maccabee
+    slug: bruce-maccabee
+  date: null
+  date_end: null
+  location_in_record: 00:49:27.1-00:49:30.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 72f8b797-75a1-4490-9964-5e94afb073d1
+  claim_hash: a19b2d6d0ff22023a3ba9a80ca01a29cd4d63d37d4e9ea33e8d8b80b27060d1c
+  content: Bruce Maccabee is a Navy physicist who wrote the UFO briefing given for
+    Bill Clinton.
+  original_excerpt: '[note: Bruce Maccabee - Navy physicist who wrote the Clinton
+    UFO briefing]'
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: source record annotation
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+    title: Bruce Maccabee
+    slug: bruce-maccabee
+  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+    title: Bill Clinton
+    slug: bill-clinton
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  date: null
+  date_end: null
+  location_in_record: line 142
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

@@ -1,0 +1,272 @@
+schema: anomalica/brief/1
+brief_hash: 903d4bb00609c7ba2142523d90c987661a2af14709fb647d56bb293e5bfab2c6
+page:
+  kind: entity
+  node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
+  node_type: person
+  title: Gordon Creighton
+  slug: gordon-creighton
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+  title: Jacques Vallée
+  node_type: person
+  slug: jacques-vallee
+  shared_claims: 3
+- node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
+  title: Australian Flying Saucer Review
+  node_type: organisation
+  slug: australian-flying-saucer-review
+  shared_claims: 1
+- node_id: 515d17db-70be-409a-84e9-e99cbebbd243
+  title: C. Bowen
+  node_type: person
+  slug: c-bowen
+  shared_claims: 1
+- node_id: 1d4d9c76-dac3-45ae-b1e4-fd6bd2d814c6
+  title: China, Hubei, Song-Zi Xian
+  node_type: place
+  slug: hubei-song-zi-xian-china
+  shared_claims: 1
+- node_id: 17a19f04-2b61-4e79-ad2b-bb0509a15e21
+  title: Donald Hanlon
+  node_type: person
+  slug: donald-hanlon
+  shared_claims: 1
+- node_id: 02078575-6462-4874-ade3-beaacf18d46f
+  title: Jerome Clark
+  node_type: person
+  slug: jerome-clark
+  shared_claims: 1
+- node_id: 22df0786-7788-4823-9724-2321f761ce05
+  title: John Keel
+  node_type: person
+  slug: john-keel
+  shared_claims: 1
+- node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+  title: Jonathan Caplan
+  node_type: person
+  slug: jonathan-caplan
+  shared_claims: 1
+- node_id: 134433ac-c317-4826-9edd-5f732f74521c
+  title: United Kingdom, London
+  node_type: place
+  slug: london-united-kingdom
+  shared_claims: 1
+- node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+  title: Uri Geller
+  node_type: person
+  slug: uri-geller
+  shared_claims: 1
+claims:
+- claim_id: e799a2d1-e44c-4855-9e61-f0f92ce9874e
+  claim_hash: 9da12a98d082f5ed2923c5aadd3ee310030b0f4ec5f3c73c5086b68a3371b9bb
+  content: Gordon Creighton considers a Song-Zi Xian case greatly resembling many
+    cases he has translated over the years, particularly from Brazil, noting a similarity
+    in that victims recover consciousness and find themselves perched on inaccessible
+    high places and mountain peaks.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
+    title: Gordon Creighton
+  provenance_chain:
+    origin_kind: named
+    origin: Gordon Creighton
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1d4d9c76-dac3-45ae-b1e4-fd6bd2d814c6
+    title: China, Hubei, Song-Zi Xian
+    slug: hubei-song-zi-xian-china
+  - node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
+    title: Gordon Creighton
+    slug: gordon-creighton
+  date: null
+  date_end: null
+  location_in_record: ch23:49178-49553
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 1b2c3cd9-721d-47c3-a466-e87628a51a09
+  claim_hash: 4e7b33c22b6a8fe760d0090064bec0111c35888c56b59ba934ed673a9d725829
+  content: Jacques Vallee has verified observations made previously by Jerome Clark,
+    Donald Hanlon, Gordon Creighton, and John Keel, though he does not accept all
+    of their conclusions.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallee
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 02078575-6462-4874-ade3-beaacf18d46f
+    title: Jerome Clark
+    slug: jerome-clark
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 17a19f04-2b61-4e79-ad2b-bb0509a15e21
+    title: Donald Hanlon
+    slug: donald-hanlon
+  - node_id: 22df0786-7788-4823-9724-2321f761ce05
+    title: John Keel
+    slug: john-keel
+  - node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
+    title: Gordon Creighton
+    slug: gordon-creighton
+  date: null
+  date_end: null
+  location_in_record: ch13:12059-12301
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 5b7a2bb8-e127-4728-93ce-dbdc2609bfb5
+  claim_hash: a5918ff6abef4815d5a05a32d137cfb8458d7dbf96d85ab63fb671412ccb287a
+  content: Jacques Vallee discussed Uri Geller's abilities with Gordon Creighton while
+    driving through London in the winter of 1973.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallee
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 134433ac-c317-4826-9edd-5f732f74521c
+    title: United Kingdom, London
+    slug: london-united-kingdom
+  - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+    title: Uri Geller
+    slug: uri-geller
+  - node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
+    title: Gordon Creighton
+    slug: gordon-creighton
+  date: '1973'
+  date_end: null
+  location_in_record: ch18:332-467
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 0d7cd9ac-0862-4008-8b06-005e6aa71cbc
+  claim_hash: cc9025ac7011ca9c86d3f0050d471c11d25173e5c3d5acbb3c1aaeeacdf9a4f9
+  content: Gordon Creighton told Jacques Vallee that people mistakenly believe a myth
+    is an untruth, but that a myth is that which is truer than truth.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
+    title: Gordon Creighton
+  provenance_chain:
+    origin_kind: named
+    origin: Gordon Creighton
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
+    title: Gordon Creighton
+    slug: gordon-creighton
+  date: null
+  date_end: null
+  location_in_record: ch18:648-768
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 3766e357-e7b7-43cc-a4bd-f1a4624d9be0
+  claim_hash: 9f5ab91a568c4181cf84ed483ac461a058c23c583d5557c5daec32781ac07d32
+  content: Jonathan Caplan met Gordon Creighton and Charles Bowen, editors of Flying
+    Saucer Review, among other leading researchers of the time.
+  original_excerpt: I met through the editors who were Gordon Crichton, Charles Bowen,
+    many of the leading researchers at the time.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jonathan Caplan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 515d17db-70be-409a-84e9-e99cbebbd243
+    title: C. Bowen
+    slug: c-bowen
+  - node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
+    title: Gordon Creighton
+    slug: gordon-creighton
+  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+    slug: jonathan-caplan
+  - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
+    title: Australian Flying Saucer Review
+    slug: australian-flying-saucer-review
+  date: null
+  date_end: null
+  location_in_record: 00:03:12.7-00:03:20.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null

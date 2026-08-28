@@ -1,0 +1,226 @@
+schema: anomalica/brief/1
+brief_hash: c526c78599ce76b701567aaca2c628d5b54405a4b3c880bf1b6010030c238476
+page:
+  kind: entity
+  node_id: 6fad4a47-44e6-40ed-a769-8a9eb31109f3
+  node_type: person
+  title: Rogan, Joe
+  slug: joe-rogan
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+  title: DeLonge, Tom
+  node_type: person
+  slug: tom-delonge
+  shared_claims: 4
+- node_id: d845fa50-d350-42f9-920b-8afd9931f6f4
+  title: DeLonge Joe Rogan Interview
+  node_type: event
+  slug: delonge-joe-rogan-interview
+  shared_claims: 3
+- node_id: 4233eb6b-5bcd-4c38-abfb-d37791c3e0d2
+  title: The Joe Rogan Experience
+  node_type: organisation
+  slug: the-joe-rogan-experience
+  shared_claims: 2
+- node_id: 166c5533-41aa-4cb2-9d1e-4444732e5db8
+  title: Roswell UAP Crash
+  node_type: event
+  slug: roswell-uap-crash
+  shared_claims: 1
+- node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+  title: USA, Nevada, Area 51
+  node_type: place
+  slug: nevada-area-51-usa
+  shared_claims: 1
+claims:
+- claim_id: e0c96909-5d01-4187-a36a-1b018047e3bd
+  claim_hash: f915fc3fbd1be5fc2a672f09c7c6a286572df4e0c34051ddb3e7b2d9854fcd56
+  content: Tom DeLonge's role for the military is communication, because the military
+    does not have a way to make a movie or a book or go on a show.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: DeLonge, Tom
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6fad4a47-44e6-40ed-a769-8a9eb31109f3
+    title: Rogan, Joe
+    slug: joe-rogan
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: DeLonge, Tom
+    slug: tom-delonge
+  date: null
+  date_end: null
+  location_in_record: Line 65-67
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f70bd0a84
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  excerpt_withheld: unknown
+- claim_id: 305eacfe-0496-443d-8b8b-77928f26894c
+  claim_hash: 5085c371d6937206400d496f2b6277e8200289cb94708da6d499bf85d38618ee
+  content: David Fravor was joking with Joe Rogan about the Storm Area 51 event, considering
+    storming a military installation one of the worst and most stupid ideas possible.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6fad4a47-44e6-40ed-a769-8a9eb31109f3
+    title: Rogan, Joe
+    slug: joe-rogan
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: 03:14:24.5-03:14:36.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:14a67e8cc4370004b1c0165607d64b96778d88e61be0fd32a94da2e9bfabd0bc
+    friendly_name: 2020-09-08-web-david-fravor-ufos-aliens-fighter-jets-and-aerospace
+  excerpt_withheld: unknown
+- claim_id: bfa83904-4e1c-4a36-af32-8d894ecb65d4
+  claim_hash: 7088698d0e2d8137c94b084022b934eb43b64945fcaa028ff6e9e580b06f07b7
+  content: Tom DeLonge gave a 100-minute interview on The Joe Rogan Experience about
+    his secret meetings with defence and intelligence officials regarding UAPs.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4233eb6b-5bcd-4c38-abfb-d37791c3e0d2
+    title: The Joe Rogan Experience
+    slug: the-joe-rogan-experience
+  - node_id: 6fad4a47-44e6-40ed-a769-8a9eb31109f3
+    title: Rogan, Joe
+    slug: joe-rogan
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: DeLonge, Tom
+    slug: tom-delonge
+  - node_id: d845fa50-d350-42f9-920b-8afd9931f6f4
+    title: DeLonge Joe Rogan Interview
+    slug: delonge-joe-rogan-interview
+  date: null
+  date_end: null
+  location_in_record: Chapter 14, paragraph 1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 78049e33-fecc-422c-852b-d77a4c86524e
+  claim_hash: 869462b9b12a4a94ff261f4a02ed1e5727d7cecdba5fe15a07943f66fea9ec75
+  content: Tom DeLonge claimed to Joe Rogan that a UAP sample he saw lost mass when
+    radiated with terahertz frequencies, saying 'it resonates some kind of harmonic
+    and it gets lighter. And if you hit it with enough terahertz it'll float.'
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: DeLonge, Tom
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6fad4a47-44e6-40ed-a769-8a9eb31109f3
+    title: Rogan, Joe
+    slug: joe-rogan
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: DeLonge, Tom
+    slug: tom-delonge
+  - node_id: d845fa50-d350-42f9-920b-8afd9931f6f4
+    title: DeLonge Joe Rogan Interview
+    slug: delonge-joe-rogan-interview
+  date: 2017-10
+  date_end: null
+  location_in_record: Chapter 16, paragraph 10
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 31806ce8-523c-4765-9971-09c0a2491dfa
+  claim_hash: ae4e479013525082567fd978dbb5f6618779d16545da501ba5883237247ff425
+  content: Two weeks after the TTSA launch, Tom DeLonge did an interview with Joe
+    Rogan in which he claimed the US recovery of a crashed alien spacecraft was why
+    the US Air Force was created 90 days after the Roswell crash.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: DeLonge, Tom
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 166c5533-41aa-4cb2-9d1e-4444732e5db8
+    title: Roswell UAP Crash
+    slug: roswell-uap-crash
+  - node_id: 4233eb6b-5bcd-4c38-abfb-d37791c3e0d2
+    title: The Joe Rogan Experience
+    slug: the-joe-rogan-experience
+  - node_id: 6fad4a47-44e6-40ed-a769-8a9eb31109f3
+    title: Rogan, Joe
+    slug: joe-rogan
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: DeLonge, Tom
+    slug: tom-delonge
+  - node_id: d845fa50-d350-42f9-920b-8afd9931f6f4
+    title: DeLonge Joe Rogan Interview
+    slug: delonge-joe-rogan-interview
+  date: 2017-10
+  date_end: null
+  location_in_record: Chapter 16, paragraph 6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed

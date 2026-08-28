@@ -1,0 +1,262 @@
+schema: anomalica/brief/1
+brief_hash: 9f176237c0670ffa4a509efaccb653448c3c51508953bd880b99446aae147141
+page:
+  kind: entity
+  node_id: a4a9ae46-ade2-44ee-b1bc-f730476fe85b
+  node_type: person
+  title: Kelly, Colin
+  slug: colin-kelly
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: f64cc3b2-e1f5-4c0e-9dfa-623f78e6bc15
+  title: Westall UFO Sighting
+  node_type: event
+  slug: westall-ufo-sighting
+  shared_claims: 3
+- node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+  title: Clarke, Joy
+  node_type: person
+  slug: joy-clarke
+  shared_claims: 1
+- node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
+  title: Westall High School
+  node_type: place
+  slug: westall-high-school
+  shared_claims: 1
+claims:
+- claim_id: 9208f242-a133-4ab5-ab1b-83f2466bc76f
+  claim_hash: ef4675f5fb3fdb7b2ea2429085bfd673fe9388d5806e4618a0764d3a119b2590
+  content: Joy Clarke and Colin Kelly were interviewed by the author on site at Westall
+    High School on 16 November 2019 about the Westall UFO sighting.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
+    title: Westall High School
+    slug: westall-high-school
+  - node_id: a4a9ae46-ade2-44ee-b1bc-f730476fe85b
+    title: Kelly, Colin
+    slug: colin-kelly
+  - node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+    slug: joy-clarke
+  - node_id: f64cc3b2-e1f5-4c0e-9dfa-623f78e6bc15
+    title: Westall UFO Sighting
+    slug: westall-ufo-sighting
+  date: '2019-11-16'
+  date_end: null
+  location_in_record: Chapter 5, endnote 13
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: a4856234-d23d-4cf8-acf5-e2ea41fd8021
+  claim_hash: cc9a1515c91dfd6e487a4f51c56b4ae319047f4ba8c33e5449e4ecc440328e1c
+  content: 'Colin Kelly, aged thirteen, heard a slight whoosh and whirring sound and
+    then saw three craft at the Westall UFO Sighting: one larger and two slightly
+    smaller, approximately 5.5 metres across, silvery in colour, shaped like two inverted
+    saucers with a slight dome on top.'
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: a4a9ae46-ade2-44ee-b1bc-f730476fe85b
+    title: Kelly, Colin
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: a4a9ae46-ade2-44ee-b1bc-f730476fe85b
+    title: Kelly, Colin
+    slug: colin-kelly
+  - node_id: f64cc3b2-e1f5-4c0e-9dfa-623f78e6bc15
+    title: Westall UFO Sighting
+    slug: westall-ufo-sighting
+  date: '1966-04-06'
+  date_end: null
+  location_in_record: paragraph 3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 09223503-0742-4ba0-9368-fd305fffd45e
+  claim_hash: f50d1c39c5a4dd9357657ce5119a55761e6dbb78387148e0be1ceb8e81e42574
+  content: Colin Kelly also saw all three Westall craft turn on a 45-degree angle
+    and zoom off at great speed.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: a4a9ae46-ade2-44ee-b1bc-f730476fe85b
+    title: Kelly, Colin
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: a4a9ae46-ade2-44ee-b1bc-f730476fe85b
+    title: Kelly, Colin
+    slug: colin-kelly
+  - node_id: f64cc3b2-e1f5-4c0e-9dfa-623f78e6bc15
+    title: Westall UFO Sighting
+    slug: westall-ufo-sighting
+  date: '1966-04-06'
+  date_end: null
+  location_in_record: paragraph 7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 9151c7b3-bf24-4f80-95fb-f81d6b8aa37f
+  claim_hash: e559fb5466e535d2a94c221b892de0feccc37fab10b903648710eeb1e0444c08
+  content: Within 40 minutes of the Westall UFO sighting of 1966, Air Force and Army
+    personnel arrived at the scene.
+  original_excerpt: Within 40 minutes of the sighting, Air Force and Army personnel,
+    they're all looking at their trucks. They were there.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: a4a9ae46-ade2-44ee-b1bc-f730476fe85b
+    title: Kelly, Colin
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+    title: Westall Unidentified Flying Object (UFO) sighting 1966
+    slug: westall-unidentified-flying-object-ufo-sighting-1966
+  date: '1966'
+  date_end: null
+  location_in_record: 00:51:33.4-00:51:41.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b2026c879b2
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight
+- claim_id: ba4fd28c-90fc-4f20-a9f1-c75684b14d15
+  claim_hash: c5172cd270dc632fec98c6f132716c15562604841d8f974e30dbe102b180cf80
+  content: Colin Kelly saw uniformed military personnel positioned like sentry guards
+    stopping people from entering The Grange after the Westall UFO sighting of 1966.
+  original_excerpt: Yeah, I saw, yeah, and they actually, they had, it was like sentry
+    guards at different points, you know, like stopping people from going into the
+    Grange.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: a4a9ae46-ade2-44ee-b1bc-f730476fe85b
+    title: Kelly, Colin
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+    title: Westall Unidentified Flying Object (UFO) sighting 1966
+    slug: westall-unidentified-flying-object-ufo-sighting-1966
+  date: '1966'
+  date_end: null
+  location_in_record: 00:51:52.1-00:52:04.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b2026c879b2
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight
+- claim_id: 8a96ee6a-127c-45de-a0fd-305c319f9a6f
+  claim_hash: 1a2b37113af95fcf454174037509b4e2dc3c9ed8d6e2a647738f86cd8b570ab1
+  content: After the Westall UFO sighting of 1966, Colin Kelly later sneaked into
+    The Grange and saw a circular area of trampled grass with guards around it and
+    people inside with equipment.
+  original_excerpt: The circular area, look, you know, the trampled grass and there
+    were guards around it and there were people in there with equipment.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: a4a9ae46-ade2-44ee-b1bc-f730476fe85b
+    title: Kelly, Colin
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+    title: Westall Unidentified Flying Object (UFO) sighting 1966
+    slug: westall-unidentified-flying-object-ufo-sighting-1966
+  date: '1966'
+  date_end: null
+  location_in_record: 00:52:10.2-00:52:14.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b2026c879b2
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight
+- claim_id: 090d1c0f-fce2-4daa-882a-f4c188731f8c
+  claim_hash: e3bfbafd009b42a258738485e07f610e7b17dfd9217db213ab238666b6471618
+  content: The Westall UFO sighting of 1966 is the largest group UFO sighting in the
+    Southern Hemisphere, witnessed by over 200 people.
+  original_excerpt: This is the largest group sighting of a UFO. This is the largest
+    one in the Southern Hemisphere. And it's got a whole credibility because it's
+    not as if just one person saw it. There were over 200 people saw it.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: a4a9ae46-ade2-44ee-b1bc-f730476fe85b
+    title: Kelly, Colin
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+    title: Westall Unidentified Flying Object (UFO) sighting 1966
+    slug: westall-unidentified-flying-object-ufo-sighting-1966
+  date: '1966'
+  date_end: null
+  location_in_record: 00:56:23.1-00:56:35.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b2026c879b2
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight

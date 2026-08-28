@@ -1,0 +1,266 @@
+schema: anomalica/brief/1
+brief_hash: 483ea6250ce449f911e83d872f527eab37a3ca803d00270c99e639636b79a686
+page:
+  kind: entity
+  node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
+  node_type: organisation
+  title: Air Materiel Command
+  slug: air-materiel-command
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: fd8b6541-d1f6-47ac-ab22-628a3613f682
+  title: USA, Ohio, Wright Field
+  node_type: place
+  slug: ohio-wright-field-usa
+  shared_claims: 3
+- node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+  title: Arthur Exon
+  node_type: person
+  slug: arthur-exon
+  shared_claims: 2
+- node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+  title: Nathan Twining
+  node_type: person
+  slug: nathan-twining
+  shared_claims: 2
+- node_id: d19f9fb1-9cc7-4516-9ef0-18c1c600920e
+  title: September 23, 1947 Twining Memo
+  node_type: document
+  slug: 1947-twining-memo-september-23
+  shared_claims: 1
+- node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+  title: Walter Haut
+  node_type: person
+  slug: walter-haut
+  shared_claims: 1
+claims:
+- claim_id: 28689caa-3d16-4764-884c-bcfa2e367fe3
+  claim_hash: 7e175315f27b4b1a146bf016a59244ce5495e4695ee66ebce4b5c14197320a90
+  content: In July 1947, the Army Air Force set up a team headed by the Air Materiel
+    Command to investigate flying discs after realising they were not of Russian or
+    domestic origin.
+  original_excerpt: So the Army Air Force in those days set up a team headed by the
+    Air Material Command in July of 1947.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: unattributed
+    origin: historical reports
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
+    title: Air Materiel Command
+    slug: air-materiel-command
+  date: 1947-07
+  date_end: null
+  location_in_record: 00:11:07.6-00:11:15.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: c7733738-e5d3-4be1-8d2b-879fa38664f7
+  claim_hash: 5a50817c6260eb21d3401163d9fa21a040ebe7bf4995c83cd596d0ea558e4046
+  content: According to his son, General Nathan Twining privately said that bodies
+    were delivered by Air Materiel Command along with the debris recovered near Roswell.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Nathan Twining
+    relay:
+    - Nathan Twining's son
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+    title: Nathan Twining
+    slug: nathan-twining
+  - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
+    title: Air Materiel Command
+    slug: air-materiel-command
+  date: null
+  date_end: null
+  location_in_record: ch11:1075-1202
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 6fca7aac-1f84-4516-8359-30c2fabbf6bb
+  claim_hash: b074f9b6c4a6d94138c4891e48f914507b6bc9c9a94d42acf177750c3332a297
+  content: Walter Haut said it was his understanding that the Roswell debris had been
+    flown to the Air Materiel Command at Wright Field.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
+    title: Air Materiel Command
+    slug: air-materiel-command
+  - node_id: fd8b6541-d1f6-47ac-ab22-628a3613f682
+    title: USA, Ohio, Wright Field
+    slug: ohio-wright-field-usa
+  date: null
+  date_end: null
+  location_in_record: ch11:2048-2144
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: efefa49f-2a39-4aec-b069-1f3214e5646c
+  claim_hash: 9b9ae9ceb1e2e61302a6db1aa8f90a81a343b6572b36d22ecd6f0b64843428fc
+  content: In the September 23, 1947 Twining Memo, General Nathan Twining, then commanding
+    officer of the Air Materiel Command at Wright Field in Dayton, Ohio, describes
+    the objects' functionality as displaying extraordinary manoeuvrability and high
+    speed.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: document
+    origin: September 23, 1947 Twining Memo
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+    title: Nathan Twining
+    slug: nathan-twining
+  - node_id: d19f9fb1-9cc7-4516-9ef0-18c1c600920e
+    title: September 23, 1947 Twining Memo
+    slug: 1947-twining-memo-september-23
+  - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
+    title: Air Materiel Command
+    slug: air-materiel-command
+  - node_id: fd8b6541-d1f6-47ac-ab22-628a3613f682
+    title: USA, Ohio, Wright Field
+    slug: ohio-wright-field-usa
+  date: null
+  date_end: null
+  location_in_record: ch23:9872-10077
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: bae5df2b-358f-4d5a-8dff-2bac4e7b60d0
+  claim_hash: 98a3337e28b2cf0faa8ff37eb77eca995d56aa234d9ea9444b6129412b1b1312
+  content: Arthur Exon was involved with the Air Materiel Command at Wright Field,
+    Ohio, in July 1947.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+    title: Arthur Exon
+    slug: arthur-exon
+  - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
+    title: Air Materiel Command
+    slug: air-materiel-command
+  - node_id: fd8b6541-d1f6-47ac-ab22-628a3613f682
+    title: USA, Ohio, Wright Field
+    slug: ohio-wright-field-usa
+  date: 1947-07
+  date_end: null
+  location_in_record: ch8:9254-9405
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 30e99a55-1400-4abb-8b81-114fd0906ce9
+  claim_hash: 25549d149c02553e521fe4acedfccb88d444270dc79ac7181f7260749fa5f213
+  content: Arthur Exon was officially assigned to the Air Materiel Command in 1948.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+    title: Arthur Exon
+    slug: arthur-exon
+  - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
+    title: Air Materiel Command
+    slug: air-materiel-command
+  date: '1948'
+  date_end: null
+  location_in_record: ch8:9368-9405
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted

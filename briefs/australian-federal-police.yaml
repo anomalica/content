@@ -1,0 +1,267 @@
+schema: anomalica/brief/1
+brief_hash: adcfd3459bfd7f1c330b1c1972fdd52fd17fd19e7bd35932747c07ff1e9e7d86
+page:
+  kind: entity
+  node_id: 8020b0a5-5abd-41f0-a1f7-490082b605f1
+  node_type: organisation
+  title: Australian Federal Police
+  slug: australian-federal-police
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: 5f9331fe-03f8-42da-96ed-fda183d307d8
+  title: Farinaccio, Annie
+  node_type: person
+  slug: annie-farinaccio
+  shared_claims: 6
+- node_id: 9704b09c-bd9b-4985-8320-0b6fc7211fba
+  title: 1991 Exmouth Unidentified Flying Object (UFO) sighting (Annie Farinaccio)
+  node_type: event
+  slug: 1991-exmouth-unidentified-flying-object-ufo-sighting-annie-farinaccio
+  shared_claims: 3
+- node_id: 44b06604-38ac-40ca-a030-362476083dc7
+  title: Exmouth Annie Farinaccio Sighting
+  node_type: event
+  slug: exmouth-annie-farinaccio-sighting
+  shared_claims: 2
+- node_id: 97b53e68-f05e-4a52-980a-34f7e80ef1c6
+  title: Exmouth Farinaccio Military Interrogation
+  node_type: event
+  slug: exmouth-farinaccio-military-interrogation
+  shared_claims: 1
+- node_id: 8e57535a-aa15-4145-9d32-01f779b6031b
+  title: Harold Holt Naval Communications Station
+  node_type: place
+  slug: harold-holt-naval-communications-station
+  shared_claims: 1
+- node_id: 56387a42-30dd-4948-b20a-5199f69412a8
+  title: Northwest Cape
+  node_type: place
+  slug: northwest-cape
+  shared_claims: 1
+claims:
+- claim_id: e5e4da7f-f882-4092-a7da-6d267f534f19
+  claim_hash: 30420f5fdb009abf3b6950592b85a4907f117acf26728d862890a5b002ac993e
+  content: Annie Farinaccio, in company with two Australian Federal Police officers,
+    witnessed a UAP in 1991 near the then US-run Harold E. Holt Naval Communications
+    Station in North West Cape, Australia. She saw a craft with lights underside that
+    performed extreme manoeuvres and reached speeds far beyond acknowledged human
+    technology.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 44b06604-38ac-40ca-a030-362476083dc7
+    title: Exmouth Annie Farinaccio Sighting
+    slug: exmouth-annie-farinaccio-sighting
+  - node_id: 56387a42-30dd-4948-b20a-5199f69412a8
+    title: Northwest Cape
+    slug: northwest-cape
+  - node_id: 5f9331fe-03f8-42da-96ed-fda183d307d8
+    title: Farinaccio, Annie
+    slug: annie-farinaccio
+  - node_id: 8020b0a5-5abd-41f0-a1f7-490082b605f1
+    title: Australian Federal Police
+    slug: australian-federal-police
+  - node_id: 8e57535a-aa15-4145-9d32-01f779b6031b
+    title: Harold Holt Naval Communications Station
+    slug: harold-holt-naval-communications-station
+  date: '1991'
+  date_end: null
+  location_in_record: Photo Section caption 20
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 33a4790a-aee8-4e3f-8cab-ca103d7d3f40
+  claim_hash: cdf5218692077e03c4d90f7afc8fb20b396225f1bea891c95dffdb5f37d9bce1
+  content: One of the Australian police officers warned Annie Farinaccio to stop talking
+    during the interrogation, saying 'Please shut up . . . Shut up before you get
+    us all killed.'
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 5f9331fe-03f8-42da-96ed-fda183d307d8
+    title: Farinaccio, Annie
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5f9331fe-03f8-42da-96ed-fda183d307d8
+    title: Farinaccio, Annie
+    slug: annie-farinaccio
+  - node_id: 8020b0a5-5abd-41f0-a1f7-490082b605f1
+    title: Australian Federal Police
+    slug: australian-federal-police
+  - node_id: 97b53e68-f05e-4a52-980a-34f7e80ef1c6
+    title: Exmouth Farinaccio Military Interrogation
+    slug: exmouth-farinaccio-military-interrogation
+  date: 1991-12
+  date_end: null
+  location_in_record: Prologue
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 8ae5d123-f37c-4c85-8072-abcf681b8ed9
+  claim_hash: 457760cdf9d3125046b4d59672aa65a58d8919f95876dd7998e3580fead87ec5
+  content: The two Australian Federal Police officers told Annie Farinaccio the same
+    object had followed them the previous night.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 5f9331fe-03f8-42da-96ed-fda183d307d8
+    title: Farinaccio, Annie
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 44b06604-38ac-40ca-a030-362476083dc7
+    title: Exmouth Annie Farinaccio Sighting
+    slug: exmouth-annie-farinaccio-sighting
+  - node_id: 5f9331fe-03f8-42da-96ed-fda183d307d8
+    title: Farinaccio, Annie
+    slug: annie-farinaccio
+  - node_id: 8020b0a5-5abd-41f0-a1f7-490082b605f1
+    title: Australian Federal Police
+    slug: australian-federal-police
+  date: 1991-12
+  date_end: null
+  location_in_record: Prologue
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 9f365bb2-8c62-45b5-9868-c939204405ba
+  claim_hash: b8df2ac2f47e314d2a6f8bf91cddd61111759174107ecc1e85b14739d5fa083f
+  content: In the car during Annie Farinaccio's 1991 Exmouth encounter were Annie
+    and two officers from the Australian Federal Police.
+  original_excerpt: In the car that night in 1991 were Annie and two officers from
+    the Australian Federal Police.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5f9331fe-03f8-42da-96ed-fda183d307d8
+    title: Farinaccio, Annie
+    slug: annie-farinaccio
+  - node_id: 8020b0a5-5abd-41f0-a1f7-490082b605f1
+    title: Australian Federal Police
+    slug: australian-federal-police
+  - node_id: 9704b09c-bd9b-4985-8320-0b6fc7211fba
+    title: 1991 Exmouth Unidentified Flying Object (UFO) sighting (Annie Farinaccio)
+    slug: 1991-exmouth-unidentified-flying-object-ufo-sighting-annie-farinaccio
+  date: '1991'
+  date_end: null
+  location_in_record: 00:24:22.2-00:24:30.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b2026c879b2
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight
+- claim_id: 90fad59d-f61b-4240-b187-54814bdae367
+  claim_hash: b0f6293c2f29f7cb754952a1cae4446779e447ee87415fd7b1b9c12073a0123d
+  content: The two Australian Federal Police officers who had been with Annie Farinaccio
+    were also hauled in for questioning following the 1991 Exmouth encounter.
+  original_excerpt: also hauled in for questioning were the two men who'd been with
+    Annie that night.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5f9331fe-03f8-42da-96ed-fda183d307d8
+    title: Farinaccio, Annie
+    slug: annie-farinaccio
+  - node_id: 8020b0a5-5abd-41f0-a1f7-490082b605f1
+    title: Australian Federal Police
+    slug: australian-federal-police
+  - node_id: 9704b09c-bd9b-4985-8320-0b6fc7211fba
+    title: 1991 Exmouth Unidentified Flying Object (UFO) sighting (Annie Farinaccio)
+    slug: 1991-exmouth-unidentified-flying-object-ufo-sighting-annie-farinaccio
+  date: null
+  date_end: null
+  location_in_record: 00:26:50.7-00:27:07.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b2026c879b2
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight
+- claim_id: d34da9ae-2867-4a15-8914-52226468d3ca
+  claim_hash: 65291743f2a4106d463e90a3669eb4b0cda2602ad75da2c585cbe83e71edae95
+  content: Annie Farinaccio and the two Australian Federal Police officers were cross-examined
+    and interrogated by Americans at the Exmouth base in the days following the 1991
+    incident.
+  original_excerpt: those police officers and her were cross-examined, interrogated
+    by American people in the base in the days following the incident.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5f9331fe-03f8-42da-96ed-fda183d307d8
+    title: Farinaccio, Annie
+    slug: annie-farinaccio
+  - node_id: 8020b0a5-5abd-41f0-a1f7-490082b605f1
+    title: Australian Federal Police
+    slug: australian-federal-police
+  - node_id: 9704b09c-bd9b-4985-8320-0b6fc7211fba
+    title: 1991 Exmouth Unidentified Flying Object (UFO) sighting (Annie Farinaccio)
+    slug: 1991-exmouth-unidentified-flying-object-ufo-sighting-annie-farinaccio
+  date: null
+  date_end: null
+  location_in_record: 00:26:58.3-00:27:07.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b2026c879b2
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight

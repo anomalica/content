@@ -1,0 +1,750 @@
+schema: anomalica/brief/1
+brief_hash: 8980d26485f9794eab693d485cde30a8346bd48eaecea0bae9bb9868bad332b0
+page:
+  kind: entity
+  node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+  node_type: project
+  title: Manhattan Project
+  slug: manhattan-project
+  claim_count: 18
+  claim_count_total: 18
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
+  title: USA, New Mexico, White Sands Missile Range
+  node_type: place
+  slug: new-mexico-white-sands-missile-range-usa
+  shared_claims: 2
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 2
+- node_id: be164183-f1cf-461d-be1d-53fc0b830a84
+  title: 1947 Roswell Unidentified Aerial Phenomena (UAP) crash
+  node_type: event
+  slug: 1947-roswell-unidentified-aerial-phenomena-uap-crash
+  shared_claims: 1
+- node_id: 1874dd82-5a6e-4fa4-9e6e-ecb5e72f0fe6
+  title: 1949 Los Alamos classified conference on unexplained sightings over nuclear
+    sites
+  node_type: event
+  slug: 1949-los-alamos-classified-conference-on-unexplained-sightings-over-nuclear-sites
+  shared_claims: 1
+- node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+  title: Albert Einstein
+  node_type: person
+  slug: albert-einstein
+  shared_claims: 1
+- node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+  title: Church of Scientology
+  node_type: organisation
+  slug: church-of-scientology
+  shared_claims: 1
+- node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+  title: Federation of American Scientists
+  node_type: organisation
+  slug: federation-of-american-scientists
+  shared_claims: 1
+- node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+  title: J. Robert Oppenheimer
+  node_type: person
+  slug: j-robert-oppenheimer
+  shared_claims: 1
+- node_id: c935b569-2654-4e60-8cd9-2dc7982b1b23
+  title: Leslie R. Groves
+  node_type: person
+  slug: leslie-r-groves
+  shared_claims: 1
+- node_id: beec6cab-42fa-41fd-b69a-68e19df1289f
+  title: Office of Scientific Research and Development
+  node_type: organisation
+  slug: office-of-scientific-research-and-development
+  shared_claims: 1
+- node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+  title: Tim Burchett
+  node_type: person
+  slug: tim-burchett
+  shared_claims: 1
+- node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+  title: USA, New Mexico, Los Alamos
+  node_type: place
+  slug: new-mexico-los-alamos-usa
+  shared_claims: 1
+- node_id: 0a3ba5fa-1e41-4252-a6d8-e7910d1c5dcd
+  title: USA, New York City, Manhattan
+  node_type: place
+  slug: new-york-city-manhattan-usa
+  shared_claims: 1
+- node_id: a316cbb9-b90f-422a-9329-9be7414bda65
+  title: USA, Tennessee, Oak Ridge
+  node_type: place
+  slug: tennessee-oak-ridge-usa
+  shared_claims: 1
+- node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+  title: United States Department of War
+  node_type: organisation
+  slug: united-states-department-of-war
+  shared_claims: 1
+- node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+  title: Vannevar Bush
+  node_type: person
+  slug: vannevar-bush
+  shared_claims: 1
+claims:
+- claim_id: 0a367026-8ec5-4cb1-939c-2d317389121f
+  claim_hash: 2749ca9e552ba46096b34ec98211deeb02fe032d3658ab32d04fe606a757aaa6
+  content: Vannevar Bush was director of the Office of Scientific Research and Development,
+    which oversaw the Manhattan Project.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    slug: vannevar-bush
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  - node_id: beec6cab-42fa-41fd-b69a-68e19df1289f
+    title: Office of Scientific Research and Development
+    slug: office-of-scientific-research-and-development
+  date: null
+  date_end: null
+  location_in_record: ch12:66615-66710
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 23c47feb-7214-4c6f-afc3-a45df43a8bdc
+  claim_hash: 53ce1dda0e04c808910e9f464c9af58ea2b03ae12997d2fe0e6637790c1f5158
+  content: The Federation of American Scientists was a left-wing group of disaffected
+    Manhattan Project veterans dismayed at the military uses of atomic weapons.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Church of Scientology
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  - node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+    title: Federation of American Scientists
+    slug: federation-of-american-scientists
+  date: null
+  date_end: null
+  location_in_record: ch5:21480-21643
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: cb8920bd-8c29-43bc-b3c3-c937a8695d9b
+  claim_hash: f95b407b28124adcb1ed36248f4ce9bfda7471a0a7a44e8fa80b34bdc64dbc5b
+  content: Five years before the 1947 Roswell UAP crash, the United States Department
+    of War hid the Manhattan Project, the successful US mission to build the world's
+    first atomic bomb, using multiple secret facilities in multiple US locations staffed
+    by thousands of American workers.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+    title: United States Department of War
+    slug: united-states-department-of-war
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  - node_id: be164183-f1cf-461d-be1d-53fc0b830a84
+    title: 1947 Roswell Unidentified Aerial Phenomena (UAP) crash
+    slug: 1947-roswell-unidentified-aerial-phenomena-uap-crash
+  date: null
+  date_end: null
+  location_in_record: ch12:17680-17936
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 9168201c-d609-48f4-a5f5-d6e490791771
+  claim_hash: 899d856abf03f8028236f72c7a2b5a536c516570b7aeda497a05e00c0e2d7975
+  content: There were enemy spies inside the Manhattan Project.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  date: null
+  date_end: null
+  location_in_record: ch12:17967-18025
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: e04a3727-9905-4571-9dc0-94b580f6d00b
+  claim_hash: 91c11a6591a956996882a395f21ddb6e20ddf69649de1db59c4233e1ebfb69f0
+  content: In 2013, at the White Sands missile test range in New Mexico, scientists
+    and researchers testing a classified device saw several mysterious and luminous
+    orbs moving over a nearby ridge.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
+    title: USA, New Mexico, White Sands Missile Range
+    slug: new-mexico-white-sands-missile-range-usa
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  date: '2013'
+  date_end: null
+  location_in_record: ch20:101-466
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 858ba5bf-04b4-49f0-85aa-f535e8cdc2c7
+  claim_hash: 450b3465735fbc1fd8870ff954b8f1560e819b0bf0b3dbb34575799c0fe890dc
+  content: The White Sands Missile Range in New Mexico is the same location where
+    the Manhattan Project constructed the components for the atomic bomb during World
+    War II.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
+    title: USA, New Mexico, White Sands Missile Range
+    slug: new-mexico-white-sands-missile-range-usa
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  date: null
+  date_end: null
+  location_in_record: ch20:161-317
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 2e97523b-a010-417a-bd63-4147c6f5cc66
+  claim_hash: bfe2bbcb48c5d2d59ec06543434002f13d3eefb874c8a8fab2c9cc2fa5285f41
+  content: The Manhattan Project unlocked the secrets of the atom with devastating
+    and miraculous effect.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  date: null
+  date_end: null
+  location_in_record: ch24:23287-23374
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
+  claim_hash: b0a1fd8b5912e166ef5b80aee17f8411051d0b24ad1ecb639e6ffcf557a38a70
+  content: Tim Burchett's congressional district in Tennessee was near Oak Ridge,
+    home to the nation's uranium stockpile, a former World War II Manhattan Project
+    'Secret City,' and the site of numerous UAP sightings.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+    title: Tim Burchett
+    slug: tim-burchett
+  - node_id: a316cbb9-b90f-422a-9329-9be7414bda65
+    title: USA, Tennessee, Oak Ridge
+    slug: tennessee-oak-ridge-usa
+  date: null
+  date_end: null
+  location_in_record: ch31:12918-13101
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: b0e5fea8-5bea-478c-aff6-331c6e82f028
+  claim_hash: 617c04b40876016e3cf192ea8093eb861bb1cab94ca2bd53dd36133be398fb9c
+  content: The Manhattan Project began in August 1942 as the U.S. effort to build
+    an atomic bomb.
+  original_excerpt: '### Manhattan Project (August 1942)
+
+
+    The U.S. effort to build an atomic bomb, the Manhattan Project'
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  date: 1942-08
+  date_end: null
+  location_in_record: char:118024-118112
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: abe8e5f4-61f1-4971-8070-42d6b574a8c0
+  claim_hash: 442f661e001784df46a52c05c05088dfdd5c828071fdd94a2ff92bb55a534d65
+  content: The Manhattan Project was named after the location of its initial offices
+    in the Manhattan Engineer District at 270 Broadway, Manhattan, New York City.
+  original_excerpt: was named after the location of its initial offices in what became
+    known as the Manhattan Engineer District at 270 Broadway, Manhattan, New York
+    City.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0a3ba5fa-1e41-4252-a6d8-e7910d1c5dcd
+    title: USA, New York City, Manhattan
+    slug: new-york-city-manhattan-usa
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  date: null
+  date_end: null
+  location_in_record: char:118121-118266
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 47ad4da9-e380-4f47-b6a8-2e69c8e83849
+  claim_hash: edfe8484edf79f43aed72e8c7581dcfb7233a05bcc36462dbdb3e72957bb7a17
+  content: General Leslie R. Groves, head of the Manhattan Project, followed the custom
+    of naming the U.S. Army Corps of Engineers' districts after the city in which
+    they were located.
+  original_excerpt: General Leslie R. Groves, head of the project, followed the custom
+    of naming the U.S. Army Corps of Engineers' districts after the city in which
+    they were located.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  - node_id: c935b569-2654-4e60-8cd9-2dc7982b1b23
+    title: Leslie R. Groves
+    slug: leslie-r-groves
+  date: null
+  date_end: null
+  location_in_record: char:118272-118427
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 0c316991-ddd6-4950-b698-02264f239552
+  claim_hash: 103f9f8a9b4f558faacb2418b5f8f72d6df4b0d74a9a889b91592717851095d8
+  content: The secrecy surrounding the Manhattan Project and the establishment of
+    several other national laboratories, such as Los Alamos National Laboratories,
+    Lawrence Livermore National Laboratory, Sandia National Laboratories, Pacific
+    Northwest National Laboratory, and Oak Ridge National Laboratory, probably contributed
+    to the spike in reported UAP.
+  original_excerpt: The secrecy surrounding the Manhattan Project and the establishment
+    of several other national laboratories, such as Los Alamos National Laboratories,
+    Lawrence Livermore National Laboratory, Sandia National Laboratories, Pacific
+    Northwest National Laboratory, and Oak Ridge National Laboratory to support this
+    effort probably contributed to the spike in reported UAP.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  date: null
+  date_end: null
+  location_in_record: char:118704-119066
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 0a792575-5504-4ba0-bc70-c34a9f625a32
+  claim_hash: 1caac4d6009abf233fb169238ac0c6228597ba3646af0261db697c6727ecc794
+  content: The United States Government started the Manhattan Project in 1942.
+  original_excerpt: the USG started the Manhattan Project in 1942
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: All-Domain Anomaly Resolution Office (AARO)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  date: '1942'
+  date_end: null
+  location_in_record: char:16132-16173
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 48e90f8e-9f4b-4b88-a403-31a546ed9c5d
+  claim_hash: 522191524bdf433b73fd9629fc0040ee73a0377d13b6dfacf261955470979395
+  content: The Manhattan Project operated in secrecy and led to the establishment
+    of several secret cities across the United States to support the development of
+    the nuclear bomb.
+  original_excerpt: This program operated in secrecy and led to the establishment
+    of several "secret cities" across the United States to support the development
+    of the nuclear bomb.
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: All-Domain Anomaly Resolution Office (AARO)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  date: null
+  date_end: null
+  location_in_record: char:16179-16335
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 4c3c671f-0fff-41aa-b2b5-855a1dd7e8fc
+  claim_hash: d935af98a9e6a3808663503afca9f36317e07a71b2c8042cbf636423e1671da2
+  content: J. Robert Oppenheimer was part of the Manhattan Project, in which the world's
+    leading physicists secretly worked together to create the atomic bomb.
+  original_excerpt: we all know Oppenheimer was part of the Manhattan Project where,
+    you know, secretly the world's best physicists got together to create the atomic
+    bomb.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  date: null
+  date_end: null
+  location_in_record: 00:10:26.5-00:10:35.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: cd177844-d475-44c5-a5f6-f4746eed1015
+  claim_hash: 95e95dee727a2ed2ab8c0376730a4b70a10bf7b61bfefd8744d03e7d18ab68d1
+  content: Chris Ramsey considers that Albert Einstein's refusal to be part of the
+    Manhattan Project probably signalled to the US government that Einstein could
+    not be trusted.
+  original_excerpt: Albert Einstein's refusal to be part of the Manhattan Project
+    probably signaled to the US government that he could not be trusted.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: 00:36:12.3-00:36:20.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: e87f6e51-c388-4f26-a160-f98a45842434
+  claim_hash: 5f0c992c28a1a4f991fbab61be241dbd5e480ffe69bac6d0d77bc7558f2a2109
+  content: The Manhattan Project was translated into what could be called a follow-on
+    effort after World War II.
+  original_excerpt: once the Manhattan Project was kind of translated onto what you
+    could call the Manhattan Project 2.0
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+    title: UAP Gerb
+  provenance_chain:
+    origin_kind: speaker
+    origin: UAP Gerb
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  date: null
+  date_end: null
+  location_in_record: 00:56:29.6-00:56:33.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: ec36506f-4715-4398-ac9b-00f3dba02351
+  claim_hash: 0b0925dd83a617ea7f9fff953b9ef25a3e689f576ca66b34118ebf78fbc04abc
+  content: In 1949, a classified conference was convened at Los Alamos, New Mexico,
+    home of the Manhattan Project, to address a wave of unexplained sightings over
+    America's nuclear weapon sites.
+  original_excerpt: Then in 1949, a classified conference was convened at Los Alamos,
+    home of the Manhattan Project, to address a wave of unexplained sightings over
+    America's nuclear weapon sites.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+    title: Phil McGraw
+  provenance_chain:
+    origin_kind: speaker
+    origin: Phil McGraw
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1874dd82-5a6e-4fa4-9e6e-ecb5e72f0fe6
+    title: 1949 Los Alamos classified conference on unexplained sightings over nuclear
+      sites
+    slug: 1949-los-alamos-classified-conference-on-unexplained-sightings-over-nuclear-sites
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+    title: USA, New Mexico, Los Alamos
+    slug: new-mexico-los-alamos-usa
+  date: '1949'
+  date_end: null
+  location_in_record: 00:13:17.9-00:13:30.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+    record_title: Dr. Phil read the UAP files before the public, here's what he found
+      | Reality Check
+    record_date: '2026-07-21'
+    record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+    content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+    friendly_name: null

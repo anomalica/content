@@ -1,0 +1,300 @@
+schema: anomalica/brief/1
+brief_hash: 6869ae0a980c863e571af0968b888731f2b395ac231f9ba6ab7f9d3810e9b0c6
+page:
+  kind: entity
+  node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
+  node_type: organisation
+  title: National Academy of Sciences
+  slug: national-academy-of-sciences
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+  title: Condon Report
+  node_type: document
+  slug: condon-report
+  shared_claims: 4
+- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+  title: Project Blue Book
+  node_type: project
+  slug: project-blue-book
+  shared_claims: 2
+- node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+  title: All-domain Anomaly Resolution Office (AARO)
+  node_type: organisation
+  slug: all-domain-anomaly-resolution-office-aaro
+  shared_claims: 1
+- node_id: 498754fb-7980-482c-b877-57fbe17e1889
+  title: All-domain Anomaly Resolution Office (AARO) Historical Record Report (HR2)
+  node_type: project
+  slug: all-domain-anomaly-resolution-office-aaro-historical-record-report-hr2
+  shared_claims: 1
+- node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+  title: J. Allen Hynek
+  node_type: person
+  slug: j-allen-hynek
+  shared_claims: 1
+- node_id: 4233cbe6-29ce-483e-9e97-041d8263797d
+  title: National Academy of Sciences Assessment of the Condon Report
+  node_type: project
+  slug: national-academy-of-sciences-assessment-of-the-condon-report
+  shared_claims: 1
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 1
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 1
+claims:
+- claim_id: d2717a63-0623-4ea7-bc1f-4b5bf682a771
+  claim_hash: e4a4a2bf3aefddf080a12c7461f474af83aa0168503312b4903fe48282c93c32
+  content: The Condon Report was reviewed and approved by the National Academy of
+    Sciences in 1969.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+    title: Condon Report
+    slug: condon-report
+  - node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
+    title: National Academy of Sciences
+    slug: national-academy-of-sciences
+  date: '1969'
+  date_end: null
+  location_in_record: ch6:6105-6265
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 1f5d60f5-3f23-4591-a921-bfdf7700a3f2
+  claim_hash: 9443ab6968b1a345ae663aaf9ea3300b5e1fe8e9293164fad4bf7c13cec8e463
+  content: Approval of the Condon Report by the National Academy of Sciences left
+    the field of Unidentified Flying Object (UFO) research open to charlatans and
+    hoaxers.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+    title: Condon Report
+    slug: condon-report
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
+    title: National Academy of Sciences
+    slug: national-academy-of-sciences
+  date: null
+  date_end: null
+  location_in_record: ch6:6187-6265
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 67082648-7c49-4de9-bbed-97007f8d9890
+  claim_hash: b011f002f23d2f7ab400a3b0500ad65c20ad3d2c98545faeaf4bd055ca1af380
+  content: In November 1968, the United States National Academy of Sciences reviewed
+    and endorsed the conclusions of the Condon Report.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+    title: Condon Report
+    slug: condon-report
+  - node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
+    title: National Academy of Sciences
+    slug: national-academy-of-sciences
+  date: 1968-11
+  date_end: null
+  location_in_record: ch10:23438-23572
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 2ac2dc54-68ed-426d-ad24-45df5a69edc9
+  claim_hash: c1a6e09f27608f0f724b7e6db0af1c70f2ecb1e489293e531e64f733bf59b89d
+  content: One line of effort for the AARO Historical Record Report (HR2) was to partner
+    with the United States National Archives on locating Unidentified Aerial Phenomena
+    (UAP) data, refining requests based on new leads derived from historical interviews
+    and open-source and classified research.
+  original_excerpt: Partner with the U.S. National Archives on locating UAP data,
+    refining requests based on the discovery of new leads derived from historical
+    interviews, as well as open-source and classified research.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: All-Domain Anomaly Resolution Office (AARO)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 498754fb-7980-482c-b877-57fbe17e1889
+    title: All-domain Anomaly Resolution Office (AARO) Historical Record Report (HR2)
+    slug: all-domain-anomaly-resolution-office-aaro-historical-record-report-hr2
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
+    title: National Academy of Sciences
+    slug: national-academy-of-sciences
+  date: null
+  date_end: null
+  location_in_record: char:22672-22864
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 84446458-da85-4387-9fb6-4288e8fb0821
+  claim_hash: 0b630ed8b402a3a7755d5dfa7199a9a27dc0b15828410791d623675cd4cd9a53
+  content: The All-Domain Anomaly Resolution Office (AARO) partnered with the United
+    States National Archives to examine the records from the United States Air Force's
+    Project BLUE BOOK, which spanned from 1947 to 1969.
+  original_excerpt: AARO partnered with the U.S. National Archives to examine the
+    records from the USAF's Project BLUE BOOK, which spanned from 1947 to 1969.
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: All-Domain Anomaly Resolution Office (AARO)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
+    title: National Academy of Sciences
+    slug: national-academy-of-sciences
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    slug: all-domain-anomaly-resolution-office-aaro
+  date: null
+  date_end: null
+  location_in_record: char:45410-45542
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 43c0d16a-0321-4689-8f27-edc439bd870b
+  claim_hash: 00cd43ae08117feacec129a150103e511bf7b8646565edd6d3e374f223ec8d5c
+  content: After the Condon Report was criticised by some scientists, including Project
+    BLUE BOOK's Dr. J. Allen Hynek, a panel of the National Academy of Sciences (NAS)
+    was tasked in late 1968 to examine the rigour, methodology, and conclusions of
+    the Condon Report.
+  original_excerpt: After the Condon Report was criticized by some scientists - including
+    Project BLUE BOOK's Dr. Hynek - a panel of the National Academy of Sciences (NAS)
+    was tasked in late 1968 to examine the rigor, methodology, and conclusions of
+    the Condon Report.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4233cbe6-29ce-483e-9e97-041d8263797d
+    title: National Academy of Sciences Assessment of the Condon Report
+    slug: national-academy-of-sciences-assessment-of-the-condon-report
+  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+    title: Condon Report
+    slug: condon-report
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+    slug: j-allen-hynek
+  - node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
+    title: National Academy of Sciences
+    slug: national-academy-of-sciences
+  date: '1968'
+  date_end: null
+  location_in_record: char:51999-52240
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

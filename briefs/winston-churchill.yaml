@@ -1,0 +1,272 @@
+schema: anomalica/brief/1
+brief_hash: 4a7bdf4e7968b4acac6487e910f8b6f2443568ef2cc830a8c1e1f6aea6da786f
+page:
+  kind: entity
+  node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
+  node_type: person
+  title: Winston Churchill
+  slug: winston-churchill
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+  title: Franklin D. Roosevelt
+  node_type: person
+  slug: franklin-d-roosevelt
+  shared_claims: 3
+- node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+  title: Joseph Stalin
+  node_type: person
+  slug: joseph-stalin
+  shared_claims: 2
+- node_id: 96b642e6-02a9-4e45-a3fc-bb061b47f56e
+  title: London Controlling Section (LCS)
+  node_type: organisation
+  slug: london-controlling-section-lcs
+  shared_claims: 2
+- node_id: 08a0520e-bf78-480f-b6ac-9cbb8021f20f
+  title: 1943 Tehran Conference
+  node_type: event
+  slug: 1943-tehran-conference
+  shared_claims: 1
+- node_id: fd98c5b1-c5f0-4c2c-a619-58e2035654e8
+  title: A Bodyguard of Lies
+  node_type: document
+  slug: a-bodyguard-of-lies
+  shared_claims: 1
+- node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+  title: Dwight D. Eisenhower
+  node_type: person
+  slug: dwight-d-eisenhower
+  shared_claims: 1
+- node_id: 2f2f008a-15f4-412c-b697-2496cccd2798
+  title: Joint Intelligence Objectives Agency (JIOA)
+  node_type: organisation
+  slug: joint-intelligence-objectives-agency-jioa
+  shared_claims: 1
+- node_id: 01ac6d11-095a-456f-9e5a-31bbf7be74d0
+  title: Linda Hunt
+  node_type: person
+  slug: linda-hunt
+  shared_claims: 1
+- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+  title: United States Congress
+  node_type: organisation
+  slug: united-states-congress
+  shared_claims: 1
+- node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+  title: Vannevar Bush
+  node_type: person
+  slug: vannevar-bush
+  shared_claims: 1
+claims:
+- claim_id: 50a935ff-e2a6-42f7-a1b0-746d1e2ac42b
+  claim_hash: d975f5b0e00d488e8622203a287c3d92f166236f21b840eaeebfc1571149082d
+  content: 'The title of Anthony Brown''s book A Bodyguard of Lies comes from a remark
+    made by Winston Churchill at the Teheran Conference to Franklin D. Roosevelt and
+    Joseph Stalin: "In wartime, truth is so precious that she should always be attended
+    by a bodyguard of lies."'
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Winston Churchill
+    relay:
+    - A Bodyguard of Lies
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 08a0520e-bf78-480f-b6ac-9cbb8021f20f
+    title: 1943 Tehran Conference
+    slug: 1943-tehran-conference
+  - node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
+    title: Winston Churchill
+    slug: winston-churchill
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    slug: franklin-d-roosevelt
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    slug: joseph-stalin
+  - node_id: fd98c5b1-c5f0-4c2c-a619-58e2035654e8
+    title: A Bodyguard of Lies
+    slug: a-bodyguard-of-lies
+  date: '1943'
+  date_end: null
+  location_in_record: ch13:18891-19089
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 5c5c00b4-c071-488f-a861-7aa5314bed0c
+  claim_hash: 41e7df9f2bc6b5985819a35670a8cf9bb36e14efed98e42bc6a7ae60947cfb46
+  content: The London Controlling Section (LCS) was set up by Winston Churchill within
+    his personal headquarters and was skilled in the weaponry of "Special Means."
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
+    title: Winston Churchill
+    slug: winston-churchill
+  - node_id: 96b642e6-02a9-4e45-a3fc-bb061b47f56e
+    title: London Controlling Section (LCS)
+    slug: london-controlling-section-lcs
+  date: null
+  date_end: null
+  location_in_record: ch13:19097-19268
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: b7942d85-da22-421a-9099-baa6f053942e
+  claim_hash: 71262827db85159b0d13b57ebab57f1907370d3c0abd24f466a7fe781e86a828
+  content: During World War II, the activities of the London Controlling Section (LCS)
+    were known only to Winston Churchill, Franklin D. Roosevelt, Dwight D. Eisenhower,
+    and a handful of high officials, bypassing Congress and Parliament.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
+    title: Winston Churchill
+    slug: winston-churchill
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    slug: franklin-d-roosevelt
+  - node_id: 96b642e6-02a9-4e45-a3fc-bb061b47f56e
+    title: London Controlling Section (LCS)
+    slug: london-controlling-section-lcs
+  - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+    title: Dwight D. Eisenhower
+    slug: dwight-d-eisenhower
+  date: null
+  date_end: null
+  location_in_record: ch13:29827-30009
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: cdcc5b68-415b-4ca2-bd5d-ed6e59ea3a12
+  claim_hash: d9e7831420582bc60c377d4d29da8881626aa83768cfd7c139386ea6e1b3b49e
+  content: Winston Churchill said, 'One hides a truth most effectively between two
+    lies.'
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
+    title: Winston Churchill
+  provenance_chain:
+    origin_kind: speaker
+    origin: Churchill, Winston
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
+    title: Winston Churchill
+    slug: winston-churchill
+  date: null
+  date_end: null
+  location_in_record: ch17:8376-8530
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 6b5bc520-6122-4f98-b77a-d8eb5416fcc0
+  claim_hash: 1b0093c41d908a5c0b325c245c8e33214d4d8e7d0a38bb76db7117b6bedceb67
+  content: When certain Nazi rocket scientists were deemed too unimportant to be brought
+    to the United States by a military panel, Vannevar Bush intervened with a scathing
+    letter to the Joint Intelligence Objectives Agency criticising the military for
+    not knowing elementary information on Germans as well known in scientific circles
+    as Churchill, Stalin and Roosevelt were in political circles.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Linda Hunt
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 01ac6d11-095a-456f-9e5a-31bbf7be74d0
+    title: Linda Hunt
+    slug: linda-hunt
+  - node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
+    title: Winston Churchill
+    slug: winston-churchill
+  - node_id: 2f2f008a-15f4-412c-b697-2496cccd2798
+    title: Joint Intelligence Objectives Agency (JIOA)
+    slug: joint-intelligence-objectives-agency-jioa
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    slug: vannevar-bush
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    slug: franklin-d-roosevelt
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    slug: joseph-stalin
+  date: null
+  date_end: null
+  location_in_record: ch12:67640-68040
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted

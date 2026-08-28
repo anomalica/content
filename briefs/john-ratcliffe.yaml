@@ -1,0 +1,272 @@
+schema: anomalica/brief/1
+brief_hash: fbd14815b7dfbab371b4fa7c171827d6804ae72d28a25b6b2f2131b2b674b9cd
+page:
+  kind: entity
+  node_id: dc0235a2-0ab6-4244-9ebb-c3ef7b149484
+  node_type: person
+  title: Ratcliffe, John
+  slug: john-ratcliffe
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+  title: Office of the Director of National Intelligence (ODNI)
+  node_type: organisation
+  slug: office-of-the-director-of-national-intelligence-odni
+  shared_claims: 3
+- node_id: c586d8fe-4b68-497b-919d-c707c4e0d0fd
+  title: Unidentified Anomalous Phenomena
+  node_type: concept
+  slug: unidentified-anomalous-phenomena
+  shared_claims: 2
+- node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 2
+- node_id: 898c410a-7789-4762-b6dd-1139ced89658
+  title: Carter, Jimmy
+  node_type: person
+  slug: jimmy-carter
+  shared_claims: 1
+- node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+  title: Clinton, Hillary
+  node_type: person
+  slug: hillary-clinton
+  shared_claims: 1
+- node_id: a77966af-a350-432e-8fbc-2ca59029820b
+  title: Fox News
+  node_type: organisation
+  slug: fox-news
+  shared_claims: 1
+- node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+  title: National Security Council
+  node_type: organisation
+  slug: national-security-council
+  shared_claims: 1
+- node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+  title: Obama, Barack
+  node_type: person
+  slug: barack-obama
+  shared_claims: 1
+- node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+  title: Rubio, Marco
+  node_type: person
+  slug: marco-rubio
+  shared_claims: 1
+- node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+  title: Schumer, Chuck
+  node_type: person
+  slug: chuck-schumer
+  shared_claims: 1
+- node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+  title: Trump, Donald
+  node_type: person
+  slug: donald-trump
+  shared_claims: 1
+claims:
+- claim_id: b510a4bc-cd7a-4c4f-bd77-21365169d450
+  claim_hash: 1012b4e31d6c663022768dfae3faea2a1cb2ac21e1a3276d14040cf3621c0792
+  content: The interest in UAP has been ingrained in the minds of US national leaders
+    from Jimmy Carter to Barack Obama, Hillary Clinton to Donald Trump, Marco Rubio
+    to Chuck Schumer, and John Ratcliffe to National Security Council officials.
+  original_excerpt: ingrained in even the minds of our Nation's leaders from Jimmy
+    Carter to Barack Obama, Hillary Clinton to Donald Trump, Marco Rubio to Chuck
+    Schumer, John Ratcliffe to National Security Council officials.
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Luna, Anna Paulina
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+    title: Schumer, Chuck
+    slug: chuck-schumer
+  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+    title: Clinton, Hillary
+    slug: hillary-clinton
+  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Obama, Barack
+    slug: barack-obama
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Trump, Donald
+    slug: donald-trump
+  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+    title: Carter, Jimmy
+    slug: jimmy-carter
+  - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+    title: Rubio, Marco
+    slug: marco-rubio
+  - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+    title: National Security Council
+    slug: national-security-council
+  - node_id: dc0235a2-0ab6-4244-9ebb-c3ef7b149484
+    title: Ratcliffe, John
+    slug: john-ratcliffe
+  date: null
+  date_end: null
+  location_in_record: page 4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: a3d92a5d-6ec6-4edd-a17f-dd7f68e169e6
+  claim_hash: 07cddaaef5bca28e7d0f3a7d567773b23b5ec40711dbce49d9b6e6a945d6ad7f
+  content: In an interview with Fox News, former Director of National Intelligence
+    John Ratcliffe confirmed the US Government is aware of a lot more sightings of
+    UAP that have not been made public.
+  original_excerpt: In an interview with Fox News, recent former Director of National
+    Intelligence John Ratcliffe confirmed the U.S. Government is aware a lot more
+    sightings of UAPs and that they have not made that information public.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: d9d1a305-5d69-4cc4-b7ef-bb743ba9d8be
+    title: Moskowitz, Jared
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: a77966af-a350-432e-8fbc-2ca59029820b
+    title: Fox News
+    slug: fox-news
+  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+    title: Office of the Director of National Intelligence (ODNI)
+    slug: office-of-the-director-of-national-intelligence-odni
+  - node_id: dc0235a2-0ab6-4244-9ebb-c3ef7b149484
+    title: Ratcliffe, John
+    slug: john-ratcliffe
+  date: null
+  date_end: null
+  location_in_record: page 8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: ae3f12c8-bd35-4159-a755-1f0b6fe89529
+  claim_hash: 7dfe01e9961bd2ebb2a7387a2a3a6274226ced9062896f48dd04c4459bb4d668
+  content: John Ratcliffe, former Director of National Intelligence, stated that there
+    are a lot more UAP sightings than have been made public, including objects seen
+    by Navy or Air Force pilots and picked up by satellite imagery that engage in
+    actions difficult to explain.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: dc0235a2-0ab6-4244-9ebb-c3ef7b149484
+    title: Ratcliffe, John
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+    title: Office of the Director of National Intelligence (ODNI)
+    slug: office-of-the-director-of-national-intelligence-odni
+  - node_id: c586d8fe-4b68-497b-919d-c707c4e0d0fd
+    title: Unidentified Anomalous Phenomena
+    slug: unidentified-anomalous-phenomena
+  - node_id: dc0235a2-0ab6-4244-9ebb-c3ef7b149484
+    title: Ratcliffe, John
+    slug: john-ratcliffe
+  date: null
+  date_end: null
+  location_in_record: Appendix, Statements section
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: 84277242-7306-4ee0-9f3b-79faa0b0f5f5
+  claim_hash: 92d82729d23889fee1d4dfe14f9b6e6f6484cfd8f7c6d8b14d0436f19d18a211
+  content: John Ratcliffe stated that UAP sightings have occurred all over the world,
+    that there are more than have been made public, and that it would be healthy for
+    as much of this information to get out as possible.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: dc0235a2-0ab6-4244-9ebb-c3ef7b149484
+    title: Ratcliffe, John
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c586d8fe-4b68-497b-919d-c707c4e0d0fd
+    title: Unidentified Anomalous Phenomena
+    slug: unidentified-anomalous-phenomena
+  - node_id: dc0235a2-0ab6-4244-9ebb-c3ef7b149484
+    title: Ratcliffe, John
+    slug: john-ratcliffe
+  date: null
+  date_end: null
+  location_in_record: Appendix, Statements section
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: 5eaf368e-357b-4f73-b676-4ca1dadfd7c5
+  claim_hash: b7612210f1992d9363e2041ce0738dc38fd7f59326a8174220ecf8acb001d681
+  content: John Ratcliffe is identified as former Director of National Intelligence.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+    title: Office of the Director of National Intelligence (ODNI)
+    slug: office-of-the-director-of-national-intelligence-odni
+  - node_id: dc0235a2-0ab6-4244-9ebb-c3ef7b149484
+    title: Ratcliffe, John
+    slug: john-ratcliffe
+  date: null
+  date_end: null
+  location_in_record: Appendix, Statements section
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed

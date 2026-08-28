@@ -1,0 +1,1290 @@
+schema: anomalica/brief/1
+brief_hash: a10ff48293604e714e5bbb6d0a2208536560fea438fabc032180c1bd78d61b8c
+page:
+  kind: entity
+  node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+  node_type: person
+  title: Alan Shepard
+  slug: alan-shepard
+  claim_count: 31
+  claim_count_total: 31
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
+  title: cosmic ray visual phenomena (light flashes)
+  node_type: topic
+  slug: cosmic-ray-visual-phenomena-light-flashes
+  shared_claims: 12
+- node_id: 59476464-a679-46ce-9247-b0adcb287762
+  title: Edgar Mitchell
+  node_type: person
+  slug: edgar-mitchell
+  shared_claims: 8
+- node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+  title: Apollo 14
+  node_type: project
+  slug: apollo-14
+  shared_claims: 6
+- node_id: 9a18cdbe-82db-438a-b8e3-b6d7ac9f8fb4
+  title: Alan Shepard fake golf shot photograph (Moon Shot)
+  node_type: document
+  slug: alan-shepard-fake-golf-shot-photograph-moon-shot
+  shared_claims: 4
+- node_id: d538b2d3-df5e-4278-8b99-f4eb3d3b1921
+  title: Apollo 14
+  node_type: event
+  slug: apollo-14
+  shared_claims: 4
+- node_id: 5994d3a9-ed93-4a00-8267-33e05e34aafb
+  title: AS14-66-9301 "Mitchell Under Glass" (Apollo 14 photograph)
+  node_type: document
+  slug: as14-66-9301-mitchell-under-glass-apollo-14-photograph
+  shared_claims: 3
+- node_id: 3a7e1825-7201-437c-84d9-760774404040
+  title: Moon Shot (book)
+  node_type: document
+  slug: moon-shot-book
+  shared_claims: 3
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 3
+- node_id: 0810d173-c9d7-4b6e-85c5-816faa0fbae9
+  title: Antares (Apollo 14 Lunar Module)
+  node_type: object
+  slug: antares-apollo-14-lunar-module
+  shared_claims: 2
+- node_id: 685367bb-a13b-42f9-b706-613e8517e1ee
+  title: Apollo 14 landing, 1971
+  node_type: event
+  slug: 1971-apollo-14-landing
+  shared_claims: 2
+- node_id: c7c6c7da-5558-4a8c-acd3-2b4798c34ae7
+  title: Fra Mauro (Apollo 14 landing site)
+  node_type: place
+  slug: fra-mauro-apollo-14-landing-site
+  shared_claims: 2
+- node_id: 088f5a23-522d-4ba6-9d7a-23f612d86c80
+  title: Freedom 7
+  node_type: object
+  slug: freedom-7
+  shared_claims: 2
+- node_id: 7e4edd95-b997-4638-9360-165f4ce49150
+  title: Freedom 7 sub-orbital flight, 1961-05-05
+  node_type: event
+  slug: 1961-05-05-freedom-7-sub-orbital-flight
+  shared_claims: 2
+- node_id: c661e205-9d5f-4c0b-bafc-450bbbd07288
+  title: Neil Armstrong
+  node_type: person
+  slug: neil-armstrong
+  shared_claims: 2
+- node_id: dceb162a-1889-47c6-b692-9d88a6490680
+  title: AS14-66-9279 (Apollo 14 photograph)
+  node_type: document
+  slug: as14-66-9279-apollo-14-photograph
+  shared_claims: 1
+- node_id: 4056024b-6788-453b-a270-7b9890087c91
+  title: Buzz Aldrin
+  node_type: person
+  slug: buzz-aldrin
+  shared_claims: 1
+- node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+  title: Ken Johnston
+  node_type: person
+  slug: ken-johnston
+  shared_claims: 1
+- node_id: 437ce294-3b6f-4dfe-9abe-0b6847fb5687
+  title: Ken Johnston Collection
+  node_type: document
+  slug: ken-johnston-collection
+  shared_claims: 1
+claims:
+- claim_id: 233be431-dc1a-4c89-981e-dd8534f892ef
+  claim_hash: d534342b42bfa90388322d7d840fb84bb7c1f3be3da1feb0382c1875f9e9d02b
+  content: Alan Shepard hit famous low-velocity golf shots on the Moon.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  date: null
+  date_end: null
+  location_in_record: ch11:149156-149211
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: e2496a0a-8a1e-42e7-b641-d643f1051a6d
+  claim_hash: 06e15e7895a12f419cd7a12c6eaeb3890471a87f3d75d478f3eefab12b6ad0f4
+  content: One notable frame from Ken Johnston's Apollo 14 collection is known as
+    "Mitchell Under Glass" (AS14-66-9301), showing astronaut Edgar Mitchell deploying
+    the TV camera just north of the Apollo 14 landing site, taken by Commander Alan
+    Shepard early in EVA-1.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 5994d3a9-ed93-4a00-8267-33e05e34aafb
+    title: AS14-66-9301 "Mitchell Under Glass" (Apollo 14 photograph)
+    slug: as14-66-9301-mitchell-under-glass-apollo-14-photograph
+  - node_id: c7c6c7da-5558-4a8c-acd3-2b4798c34ae7
+    title: Fra Mauro (Apollo 14 landing site)
+    slug: fra-mauro-apollo-14-landing-site
+  date: null
+  date_end: null
+  location_in_record: ch11:95067-95367
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2b69683e-9e42-495b-b884-d695e62361d1
+  claim_hash: 246bbe36d8dab64526a001975e36370414ed33c644b7f8a97784263c9c69a936
+  content: There have been persistent rumours that Neil Armstrong and Alan Shepard
+    were also Freemasons, though this has never been confirmed.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unnamed persistent rumour
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: c661e205-9d5f-4c0b-bafc-450bbbd07288
+    title: Neil Armstrong
+    slug: neil-armstrong
+  date: null
+  date_end: null
+  location_in_record: ch12:117569-117681
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c71114cb-d74c-4805-99a9-43394b33f18e
+  claim_hash: 5650e85a4bf0f65a20025b732650616c7a95322e6258f2ebf5d0b8a368186510
+  content: Richard C. Hoagland speculated that Neil Armstrong and Buzz Aldrin may
+    have been pre-selected for the Apollo 11 mission for the same reasons he believed
+    applied to Alan Shepard and America's first manned sub-orbital flight in 1961.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 088f5a23-522d-4ba6-9d7a-23f612d86c80
+    title: Freedom 7
+    slug: freedom-7
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  - node_id: 7e4edd95-b997-4638-9360-165f4ce49150
+    title: Freedom 7 sub-orbital flight, 1961-05-05
+    slug: 1961-05-05-freedom-7-sub-orbital-flight
+  - node_id: c661e205-9d5f-4c0b-bafc-450bbbd07288
+    title: Neil Armstrong
+    slug: neil-armstrong
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch12:29667-29846
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 62ae6524-70ec-44cf-bc5d-8b1d71c6b43e
+  claim_hash: 96dede9c77c3b1798827484da4ec1a07dc09fb1c0a048e469474f79de5ee5830
+  content: Alan Shepard took the Apollo 14 landing site panorama held in the Ken Johnston
+    Collection.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 437ce294-3b6f-4dfe-9abe-0b6847fb5687
+    title: Ken Johnston Collection
+    slug: ken-johnston-collection
+  - node_id: c7c6c7da-5558-4a8c-acd3-2b4798c34ae7
+    title: Fra Mauro (Apollo 14 landing site)
+    slug: fra-mauro-apollo-14-landing-site
+  date: null
+  date_end: null
+  location_in_record: ch14:46264-46354
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: accc0991-0574-4238-b766-b19efbea1514
+  claim_hash: aa047bdd0a40e1c39e6ba9acac6809fb1cee7b04c528e417b8647e2ae34faae3
+  content: Alan Shepard had a curious inner-ear problem that took him off flight status
+    for six years, from 1964 following his 1961 sub-orbital Freedom 7 flight until
+    he was reinstated in 1969.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 088f5a23-522d-4ba6-9d7a-23f612d86c80
+    title: Freedom 7
+    slug: freedom-7
+  - node_id: 7e4edd95-b997-4638-9360-165f4ce49150
+    title: Freedom 7 sub-orbital flight, 1961-05-05
+    slug: 1961-05-05-freedom-7-sub-orbital-flight
+  date: '1964'
+  date_end: null
+  location_in_record: ch19:34227-34446
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c45e53aa-b1bf-4fd7-8228-ca0408a0d814
+  claim_hash: da5d6a67b61702da2b7f817d7cd4c9f9af8642bdc8af5d42e2bca624464ee6bd
+  content: Alan Shepard underwent a secret and then-innovative inner-ear surgical
+    procedure that allowed him to command Apollo 14 to the Moon in 1971.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 685367bb-a13b-42f9-b706-613e8517e1ee
+    title: Apollo 14 landing, 1971
+    slug: 1971-apollo-14-landing
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: '1971'
+  date_end: null
+  location_in_record: ch19:34452-34583
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: d7a03f8c-b796-4237-9c59-a16e5f9e7d78
+  claim_hash: d94fd42fe147bb81ec11d9e240b9683861dec3525b6e34abd0d40c2510ac5659
+  content: During the last extra-vehicular activity of Apollo 14, Alan Shepard surprised
+    NASA and the nation on live television by taking the first golf shot on the Moon.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 685367bb-a13b-42f9-b706-613e8517e1ee
+    title: Apollo 14 landing, 1971
+    slug: 1971-apollo-14-landing
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: '1971-02-05'
+  date_end: null
+  location_in_record: ch19:34590-34807
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 0160d752-53a1-4121-87d7-f6d5288ec0d1
+  claim_hash: 9de739942fb2d26c757781c85c8afb3342c199d95abc910913d9fd4d841a9a19
+  content: Richard C. Hoagland found a deliberately faked photograph in the middle
+    of Alan Shepard's own account of his journey to the Moon in the photographic section
+    of Moon Shot.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 3a7e1825-7201-437c-84d9-760774404040
+    title: Moon Shot (book)
+    slug: moon-shot-book
+  - node_id: 9a18cdbe-82db-438a-b8e3-b6d7ac9f8fb4
+    title: Alan Shepard fake golf shot photograph (Moon Shot)
+    slug: alan-shepard-fake-golf-shot-photograph-moon-shot
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch19:35488-35787
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: e9bf340f-dc5d-4c26-804b-bac10119d765
+  claim_hash: 1557b6b509c051fb99f30d1274e9a458891b85391c7a4c8354363b52d943e07c
+  content: Only two Apollo 14 astronauts, Alan Shepard and Edgar Mitchell, landed
+    on the Moon, and each had one Hasselblad camera.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: ch19:36190-36332
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 16f24297-18aa-4260-8446-766ada69d340
+  claim_hash: 1add524879937ffbc67651e05349c925efad440fe289db9245ea02f3039d5f84
+  content: The golf shot photograph published as a two-page spread in Alan Shepard's
+    Moon Shot shows both Shepard and Edgar Mitchell simultaneously in the same image,
+    which no single Hasselblad camera could have captured.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 3a7e1825-7201-437c-84d9-760774404040
+    title: Moon Shot (book)
+    slug: moon-shot-book
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 9a18cdbe-82db-438a-b8e3-b6d7ac9f8fb4
+    title: Alan Shepard fake golf shot photograph (Moon Shot)
+    slug: alan-shepard-fake-golf-shot-photograph-moon-shot
+  date: null
+  date_end: null
+  location_in_record: ch19:36340-36568
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2aaa09b3-55dd-4b26-86f9-311caaa19463
+  claim_hash: 06ab99be140dd38666dad0af427d566907ddb4331718ee7097ff80ad7164f485
+  content: Edgar Mitchell erected a colour television camera at the Apollo 14 landing
+    site two days before Alan Shepard's golf shot, and it broadcast a running sequence
+    of images to Earth in parallel with Shepard's live radio transmission.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 0810d173-c9d7-4b6e-85c5-816faa0fbae9
+    title: Antares (Apollo 14 Lunar Module)
+    slug: antares-apollo-14-lunar-module
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: '1971-02-05'
+  date_end: null
+  location_in_record: ch19:36582-36965
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 61287fc3-812c-4c3d-8045-4a0a4dd70685
+  claim_hash: f61fc51ee377b2c832f4aed6ea38cd94d3c96d56187e27ba6009717037ab85cb
+  content: Alan Shepard boasted during his live radio transmission of the Apollo 14
+    golf shot that the ball "went miles and miles."
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+  provenance_chain:
+    origin_kind: speaker
+    origin: Alan Shepard
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: '1971-02-05'
+  date_end: null
+  location_in_record: ch19:36976-37014
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: eeb29cf0-429d-4a93-90b8-f64519fec291
+  claim_hash: 6a07d83a57f5764f7c78157a549536fbc1e44447a507ee066d15d2c790d47f49
+  content: Richard C. Hoagland found that in the faked golf shot photograph in Moon
+    Shot, the flag pointed the opposite direction and Alan Shepard's body position
+    differed from the real event.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 9a18cdbe-82db-438a-b8e3-b6d7ac9f8fb4
+    title: Alan Shepard fake golf shot photograph (Moon Shot)
+    slug: alan-shepard-fake-golf-shot-photograph-moon-shot
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch19:37241-37363
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 83e3e30b-fe6e-4481-8925-19e8273ad710
+  claim_hash: f3a3c46d5610405cb8254041c579e8b119e3463cb9bbd09f80ada094d013f46c
+  content: AS14-66-9301, known as "Mitchell under glass," is a real Apollo 14 photograph
+    taken by Alan Shepard of Edgar Mitchell setting up the television camera at the
+    beginning of their first lunar extra-vehicular activity.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 5994d3a9-ed93-4a00-8267-33e05e34aafb
+    title: AS14-66-9301 "Mitchell Under Glass" (Apollo 14 photograph)
+    slug: as14-66-9301-mitchell-under-glass-apollo-14-photograph
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: '1971-02-05'
+  date_end: null
+  location_in_record: ch19:39378-39574
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 1e961c77-172b-43d3-bb47-0b4b8b560577
+  claim_hash: 4f506b1821dc8d9c9ba8dbcfab4c0b0f97c3b5754cd342bfd6425d713653b2ba
+  content: A faked centrefold image in Alan Shepard's book Moon Shot copies and reverses
+    portions of the Apollo 14 Lunar Module Antares, adding astronauts, a golf ball,
+    TV antenna, shadows and flag as cutouts from other Apollo 14 imagery, with the
+    flag pointing in the opposite direction from the actual Hasselblad photograph
+    and live television downlink.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 0810d173-c9d7-4b6e-85c5-816faa0fbae9
+    title: Antares (Apollo 14 Lunar Module)
+    slug: antares-apollo-14-lunar-module
+  - node_id: 3a7e1825-7201-437c-84d9-760774404040
+    title: Moon Shot (book)
+    slug: moon-shot-book
+  - node_id: 9a18cdbe-82db-438a-b8e3-b6d7ac9f8fb4
+    title: Alan Shepard fake golf shot photograph (Moon Shot)
+    slug: alan-shepard-fake-golf-shot-photograph-moon-shot
+  date: null
+  date_end: null
+  location_in_record: ch19:88846-89219
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 442cdfb3-15d5-4dbd-bca6-98a4175370e3
+  claim_hash: 1d3ba3fe63b7af9a7dce57e296558cfd04e6d08409f6165a3ceb83efbc092e53
+  content: Apollo 14 photograph AS14-66-9279, taken by Alan Shepard while standing
+    on the east side of the Lunar Module, contains major elements of the same scattered-light
+    geometry seen on Ken Johnston's version of photograph AS14-66-9301.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 5994d3a9-ed93-4a00-8267-33e05e34aafb
+    title: AS14-66-9301 "Mitchell Under Glass" (Apollo 14 photograph)
+    slug: as14-66-9301-mitchell-under-glass-apollo-14-photograph
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  - node_id: dceb162a-1889-47c6-b692-9d88a6490680
+    title: AS14-66-9279 (Apollo 14 photograph)
+    slug: as14-66-9279-apollo-14-photograph
+  date: null
+  date_end: null
+  location_in_record: ch20:14434-14715
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: d8cbe084-f2a0-4939-9404-a2aa8d27afc1
+  claim_hash: 88f921e8afeffd6209ae7b0c891d1f2d59594c3d93ff9830837970fb9aa1fbe1
+  content: Alan Shepard felt that, during the period when the crew were doing a quantitative
+    report of the light flashes, the flashes he observed appeared generally random
+    in direction, without a consistent correlated pattern.
+  original_excerpt: in my case i couldn't really correlate a pattern out of it yeah
+    i would think that the time period in which we tried to report them street by
+    street flash by flash was representative and it was my feeling that it was generally
+    random during that time period
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+  provenance_chain:
+    origin_kind: speaker
+    origin: Alan Shepard
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
+    title: cosmic ray visual phenomena (light flashes)
+    slug: cosmic-ray-visual-phenomena-light-flashes
+  date: null
+  date_end: null
+  location_in_record: 00:00:39.1-00:00:56.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6c2c9257-56a8-485e-b55a-75829cc449c2
+    record_title: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1014110
+    content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
+    friendly_name: null
+- claim_id: 24951f03-3a85-41df-b32e-cd48a08ace2c
+  claim_hash: a1f695278d318f76fd09e53b3a250bf722d36b7040ee960b7827e75be18f9bcc
+  content: Alan Shepard never observed two light-flash streaks occurring simultaneously.
+  original_excerpt: I never did see two simultaneously either.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+  provenance_chain:
+    origin_kind: speaker
+    origin: Alan Shepard
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
+    title: cosmic ray visual phenomena (light flashes)
+    slug: cosmic-ray-visual-phenomena-light-flashes
+  date: null
+  date_end: null
+  location_in_record: 00:02:46.1-00:02:48.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6c2c9257-56a8-485e-b55a-75829cc449c2
+    record_title: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1014110
+    content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
+    friendly_name: null
+- claim_id: 59cc4e9f-0392-4d86-ac99-8fd37cd090df
+  claim_hash: e57d8795bbc334358b338b62fe4a3f7f557078834d375dac84b3b0e7a2be3d2b
+  content: Alan Shepard noted that despite the window shades being in place, light
+    could seep in around their edges when the spacecraft rolled so that the sun struck
+    some of the windows.
+  original_excerpt: Even though we had the window shades on, when we'd roll around
+    so the sun would hit some of the windows, there'd be some light seepage around.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+  provenance_chain:
+    origin_kind: speaker
+    origin: Alan Shepard
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: d538b2d3-df5e-4278-8b99-f4eb3d3b1921
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: 00:07:09.2-00:07:14.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6c2c9257-56a8-485e-b55a-75829cc449c2
+    record_title: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1014110
+    content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
+    friendly_name: null
+- claim_id: 5cd10da0-769a-4b35-93e1-20eebb18f86a
+  claim_hash: 4b264b78fede10037ff90c1911c4202c35cc4296b67894785a432957398d0671
+  content: Alan Shepard generally kept his eyes open during the light-flash observation
+    period, except when avoiding sunlight seepage.
+  original_excerpt: During that time, at least I made the technique to keep my eyes
+    closed, open otherwise... generally speaking, eyes were open.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+  provenance_chain:
+    origin_kind: speaker
+    origin: Alan Shepard
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
+    title: cosmic ray visual phenomena (light flashes)
+    slug: cosmic-ray-visual-phenomena-light-flashes
+  date: null
+  date_end: null
+  location_in_record: 00:07:17.4-00:07:23.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6c2c9257-56a8-485e-b55a-75829cc449c2
+    record_title: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1014110
+    content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
+    friendly_name: null
+- claim_id: 618d7c9f-a58a-49be-a580-8b1dc64a999c
+  claim_hash: 8160fbe4396f9268cbba1308d7f35ab941638fc3888d6953d84c7c8083a2b10b
+  content: The Apollo 14 crew closed their eyes when Edgar Mitchell turned on his
+    flashlight during the light-flash observation sessions.
+  original_excerpt: we closed our eyes when Ed flipped his flashlight on.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+  provenance_chain:
+    origin_kind: speaker
+    origin: Alan Shepard
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
+    title: cosmic ray visual phenomena (light flashes)
+    slug: cosmic-ray-visual-phenomena-light-flashes
+  - node_id: d538b2d3-df5e-4278-8b99-f4eb3d3b1921
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: 00:07:23.1-00:07:25.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6c2c9257-56a8-485e-b55a-75829cc449c2
+    record_title: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1014110
+    content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
+    friendly_name: null
+- claim_id: c2506235-d73b-4fb5-bce9-8f701e942c67
+  claim_hash: 2f1a83abe02ab0929737a79b07dfd0a66096cefbce9b5f93d64f0b92546c22c0
+  content: Alan Shepard reported 10 light flashes in his right eye and 4 in his left
+    eye during Apollo 14.
+  original_excerpt: Al, you had 10 right and 4 left
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: the debriefing session interviewer, summarising tally of crew reports
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
+    title: cosmic ray visual phenomena (light flashes)
+    slug: cosmic-ray-visual-phenomena-light-flashes
+  - node_id: d538b2d3-df5e-4278-8b99-f4eb3d3b1921
+    title: Apollo 14
+    slug: apollo-14
+  date: 1971-02
+  date_end: null
+  location_in_record: 00:09:05.9-00:09:07.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6c2c9257-56a8-485e-b55a-75829cc449c2
+    record_title: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1014110
+    content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
+    friendly_name: null
+- claim_id: 0380c85a-c8c2-47e8-81ce-5e0444bcff4c
+  claim_hash: 1c37f414a7a04d808e2b962ffb12f34db038de4d85d3069ed5cb43b8847e9a53
+  content: In one instance during Apollo 14, Edgar Mitchell reported a light flash
+    at the same time that Alan Shepard reported a flash in his right eye.
+  original_excerpt: Ed, you said flash, and then Al, you said simultaneous with him,
+    I had a flash in the whole right eye.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: the debriefing session interviewer, reviewing mission audio tapes
+    relay:
+    - mission audio tapes
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
+    title: cosmic ray visual phenomena (light flashes)
+    slug: cosmic-ray-visual-phenomena-light-flashes
+  - node_id: d538b2d3-df5e-4278-8b99-f4eb3d3b1921
+    title: Apollo 14
+    slug: apollo-14
+  date: 1971-02
+  date_end: null
+  location_in_record: 00:09:52.1-00:09:57.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6c2c9257-56a8-485e-b55a-75829cc449c2
+    record_title: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1014110
+    content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
+    friendly_name: null
+- claim_id: 85497976-3544-47be-a989-e4a9f2fff837
+  claim_hash: 3241ed5dcd7438af234fca4a894a9bae70d14b1f3526275283a594c107fbdece
+  content: Alan Shepard considered the simultaneous light-flash reports with Edgar
+    Mitchell to have occurred within a fraction of a second of each other.
+  original_excerpt: certainly within a fraction of a second, I think it was simultaneous.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+  provenance_chain:
+    origin_kind: speaker
+    origin: Alan Shepard
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
+    title: cosmic ray visual phenomena (light flashes)
+    slug: cosmic-ray-visual-phenomena-light-flashes
+  date: null
+  date_end: null
+  location_in_record: 00:10:09.7-00:10:12.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6c2c9257-56a8-485e-b55a-75829cc449c2
+    record_title: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1014110
+    content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
+    friendly_name: null
+- claim_id: a88e9f30-5dca-4dd5-956e-281af4ce2f56
+  claim_hash: 65378ce5afb4637a4beb426dc56ca229753545dfa98475e870c10add20c47ad9
+  content: Alan Shepard did not notice a halo effect following the light flashes he
+    observed.
+  original_excerpt: I haven't really noticed a halo effect myself.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+  provenance_chain:
+    origin_kind: speaker
+    origin: Alan Shepard
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
+    title: cosmic ray visual phenomena (light flashes)
+    slug: cosmic-ray-visual-phenomena-light-flashes
+  date: null
+  date_end: null
+  location_in_record: 00:11:04.7-00:11:07.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6c2c9257-56a8-485e-b55a-75829cc449c2
+    record_title: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1014110
+    content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
+    friendly_name: null
+- claim_id: 33a23a49-fc99-4f9f-a271-8b5885f245dc
+  claim_hash: aedf2d64dd0ce046a8ac4ea25b7e89feada2ad41d993e72c54dc059f8a7bbd02
+  content: Alan Shepard did not notice a preferred orientation for the direction of
+    the light flashes he observed.
+  original_excerpt: I didn't notice any preferred orientation.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+  provenance_chain:
+    origin_kind: speaker
+    origin: Alan Shepard
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
+    title: cosmic ray visual phenomena (light flashes)
+    slug: cosmic-ray-visual-phenomena-light-flashes
+  date: null
+  date_end: null
+  location_in_record: 00:15:43.1-00:15:45.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6c2c9257-56a8-485e-b55a-75829cc449c2
+    record_title: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1014110
+    content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
+    friendly_name: null
+- claim_id: 48648d32-1411-4577-b990-9c896be84939
+  claim_hash: eb2153b3e7c582d3f2518f81d67912d8be0d632b5dccf095900d6d57ba68ccdf
+  content: Alan Shepard estimated his horizontal peripheral field of view as roughly
+    50 to 160 degrees.
+  original_excerpt: if you're talking about a horizontal peripheral field as being
+    somewhere in the vicinity of 50 to 160 degrees
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+  provenance_chain:
+    origin_kind: speaker
+    origin: Alan Shepard
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  date: null
+  date_end: null
+  location_in_record: 00:15:55.2-00:16:02.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6c2c9257-56a8-485e-b55a-75829cc449c2
+    record_title: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1014110
+    content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
+    friendly_name: null
+- claim_id: e9b4550e-e04f-4ab6-8794-a6e7db6776f1
+  claim_hash: 388dfd041981b4e2d198fd66bbaa4c91fc87dfcd6be17637421a0e3d35fbdca6
+  content: Alan Shepard observed that some light flashes spanned as much as 50 to
+    60 degrees of his peripheral field of view.
+  original_excerpt: in some cases the light flashes would go across as much as 50
+    or 60 degrees of that.
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+  provenance_chain:
+    origin_kind: speaker
+    origin: Alan Shepard
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
+    title: cosmic ray visual phenomena (light flashes)
+    slug: cosmic-ray-visual-phenomena-light-flashes
+  date: null
+  date_end: null
+  location_in_record: 00:16:04.5-00:16:09.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6c2c9257-56a8-485e-b55a-75829cc449c2
+    record_title: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1014110
+    content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
+    friendly_name: null
+- claim_id: defb876b-ea98-42f2-b47c-70829469e98a
+  claim_hash: a29d040a179ad05343e1cb5482f3a7c5d83662f33c78adb0aa5a452f36589172
+  content: In some cases, Alan Shepard observed a light flash appearing broken in
+    the centre, giving the impression of two dots, one immediately following the other.
+  original_excerpt: In some cases I had the feeling it was two dots one immediately
+    following the other, giving the impression of right to left, or top to bottom,
+    or bottom to top, or left to right.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+  provenance_chain:
+    origin_kind: speaker
+    origin: Alan Shepard
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
+    title: cosmic ray visual phenomena (light flashes)
+    slug: cosmic-ray-visual-phenomena-light-flashes
+  date: null
+  date_end: null
+  location_in_record: 00:16:16.2-00:16:25.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6c2c9257-56a8-485e-b55a-75829cc449c2
+    record_title: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1014110
+    content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
+    friendly_name: null
+- claim_id: 83f33e96-7607-4576-8ede-90821747d7ee
+  claim_hash: 25a48de3b4a35ae083e6fd2bb85be237f801be682be18768082b41532c5b1123
+  content: Alan Shepard considered that setting aside a definite period of time for
+    observation was necessary, since without doing so the presence of other distracting
+    thoughts made the light-flash phenomenon too random to quantify.
+  original_excerpt: I think that's the way you really have to go is to take a definite
+    period, set it aside and do it because otherwise it's so random and so many other
+    things going through your mind that It's the only way you can't even quantitate
+    it.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+  provenance_chain:
+    origin_kind: speaker
+    origin: Alan Shepard
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 9ee2562c-f395-4def-a61a-d950cf28ef2b
+    title: cosmic ray visual phenomena (light flashes)
+    slug: cosmic-ray-visual-phenomena-light-flashes
+  date: null
+  date_end: null
+  location_in_record: 00:20:11.8-00:20:25.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6c2c9257-56a8-485e-b55a-75829cc449c2
+    record_title: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1014110
+    content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
+    friendly_name: null

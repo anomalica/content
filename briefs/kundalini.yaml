@@ -1,0 +1,552 @@
+schema: anomalica/brief/1
+brief_hash: b0004bb267325318ab0b92800aedd5c62a05195616649f207251872c00efddbd
+page:
+  kind: entity
+  node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+  node_type: topic
+  title: kundalini
+  slug: kundalini
+  claim_count: 14
+  claim_count_total: 14
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 047074f4-1bb1-4d7d-9ffd-e74fd73e314d
+  title: neurotheology
+  node_type: topic
+  slug: neurotheology
+  shared_claims: 3
+- node_id: 32a4643f-279d-47b5-bc60-9f56c9cf2fce
+  title: 1988 contact experience of Raven Dana at Strieber's cabin
+  node_type: event
+  slug: 1988-contact-experience-of-raven-dana-at-striebers-cabin
+  shared_claims: 2
+- node_id: 76286f9e-6c30-4be8-9469-5b14dd5d15bd
+  title: Raven Dana
+  node_type: person
+  slug: raven-dana
+  shared_claims: 2
+- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+  title: Chris Ramsay
+  node_type: person
+  slug: chris-ramsay
+  shared_claims: 1
+- node_id: 39d9c9ab-e809-448d-8a72-19424c6c371f
+  title: Eye of Horus (Egyptian symbol)
+  node_type: topic
+  slug: eye-of-horus-egyptian-symbol
+  shared_claims: 1
+- node_id: d1f8175d-e37a-4046-ac6e-d871df7e045d
+  title: Organ Kundabuffer
+  node_type: topic
+  slug: organ-kundabuffer
+  shared_claims: 1
+- node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+  title: Out-of-Body Experience (OBE)
+  node_type: topic
+  slug: out-of-body-experience-obe
+  shared_claims: 1
+- node_id: b2b0beb7-fc3a-483b-bdb0-ef49fa68f3fa
+  title: functional magnetic resonance imaging (fMRI)
+  node_type: topic
+  slug: functional-magnetic-resonance-imaging-fmri
+  shared_claims: 1
+- node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+  title: levitation
+  node_type: topic
+  slug: levitation
+  shared_claims: 1
+claims:
+- claim_id: 7d452aa8-222f-47d0-a357-9f8a869c3b51
+  claim_hash: f67bed02ad3668b0afdb61ebf9db00fb3c62315cb39b87c35882419e78ec9549
+  content: Some advanced meditators studied by neurotheology have reported kundalini
+    awakenings while being observed in a functional magnetic resonance imaging (fMRI)
+    scanner.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 047074f4-1bb1-4d7d-9ffd-e74fd73e314d
+    title: neurotheology
+    slug: neurotheology
+  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+    title: kundalini
+    slug: kundalini
+  - node_id: b2b0beb7-fc3a-483b-bdb0-ef49fa68f3fa
+    title: functional magnetic resonance imaging (fMRI)
+    slug: functional-magnetic-resonance-imaging-fmri
+  date: null
+  date_end: null
+  location_in_record: ch21:20936-21066
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: a69a052a-2665-46ae-b825-5dc45f63e318
+  claim_hash: 8c70a41178014853767c5bff1f6816a47b539cd3569186e19a25fa34088450d1
+  content: During kundalini awakenings observed by neurotheology researchers, frontal
+    cortex activity associated with increased awareness is observed.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 047074f4-1bb1-4d7d-9ffd-e74fd73e314d
+    title: neurotheology
+    slug: neurotheology
+  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+    title: kundalini
+    slug: kundalini
+  date: null
+  date_end: null
+  location_in_record: ch21:21075-21189
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: c6df40b0-22ee-423c-910b-c36129906ce8
+  claim_hash: 12671e02083a12ddb67ff9510e41080bab893ecee20dfbfc25aba547d7d0ceec
+  content: During kundalini awakenings observed by neurotheology researchers, an increase
+    in temporal lobe activity is observed, probably associated with emotional intensity.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 047074f4-1bb1-4d7d-9ffd-e74fd73e314d
+    title: neurotheology
+    slug: neurotheology
+  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+    title: kundalini
+    slug: kundalini
+  date: null
+  date_end: null
+  location_in_record: ch21:21160-21243
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 65759468-537c-4f22-8fce-5594376dabeb
+  claim_hash: 6be3ea824999f913ed5b2a55c7e3c8f20b99260d75935b17304d8e97abf3184d
+  content: During observed kundalini awakenings, alpha and theta wave patterns change,
+    with occasional spikes in gamma waves during episodes of acute awareness.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+    title: kundalini
+    slug: kundalini
+  date: null
+  date_end: null
+  location_in_record: ch21:21254-21369
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: f5951253-c838-4d64-9b2e-165c0f21301f
+  claim_hash: 73047201bb49f033b46cb976f99dc94ca69929e277d97635261f8c8519bd74dd
+  content: Studies of advanced meditators have noted dopamine and serotonin changes,
+    as well as endorphin floods that trigger euphoria.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+    title: kundalini
+    slug: kundalini
+  date: null
+  date_end: null
+  location_in_record: ch21:21484-21594
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 075f84e7-b701-4aad-926f-d84ee5b2709d
+  claim_hash: 4cce8b754c5bc69a33f683d120b8e9c2fbd818453d4215cb866fbfa25ed7199b
+  content: When kundalini is activated, the practitioner feels energy moving up the
+    spine.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+    title: kundalini
+    slug: kundalini
+  date: null
+  date_end: null
+  location_in_record: ch21:21605-21678
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 7218eed6-5b66-46dd-8105-855cd25f104e
+  claim_hash: 0a7328383f76eb00c9fa634cdacd422a2501c0791a662b30033723f4f932b92d
+  content: Some practitioners of kundalini activation report perceiving themselves
+    to be floating, though there is no unquestionable photographic evidence of this.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+    title: kundalini
+    slug: kundalini
+  - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+    title: levitation
+    slug: levitation
+  date: null
+  date_end: null
+  location_in_record: ch21:21685-21817
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: adc5e93b-91b7-4905-a3b7-368d327f7683
+  claim_hash: cda8308270ed460e1c34d97bca218039a6a73a13fe947e0dde793049363d21dd
+  content: The Hindu tradition of kundalini describes it as an energy coiled at the
+    base of the spine that, with persistent effort at transcending ego and surrendering
+    to higher powers, may uncoil and rise up the spine.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+    title: kundalini
+    slug: kundalini
+  date: null
+  date_end: null
+  location_in_record: ch23:12489-12704
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 30d7c1b7-cebb-429e-ab85-4e62beb7927a
+  claim_hash: b03d6f38ce7283b3690b998ca879d49c74eb5e0d15efe9a7fb57d5edc67f8c54
+  content: Whitley Strieber has personally experienced the rising of kundalini and
+    considers the phenomenon real.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+    title: kundalini
+    slug: kundalini
+  date: null
+  date_end: null
+  location_in_record: ch23:12711-12771
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 19ce354b-a141-4939-9b03-ee0366b26ec7
+  claim_hash: e30feb1e4c553f75f9be294b8d82c3ad3d86d089d9ccf183c10afc57d82a19b7
+  content: Whitley Strieber describes the rising of kundalini as a fearsome unfolding
+    of a ferocious yet incredibly sweet and poignant vibration in one's own body.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+    title: kundalini
+    slug: kundalini
+  date: null
+  date_end: null
+  location_in_record: ch23:12777-12920
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: bc7f7a21-ddfe-41ad-b635-387f03a7f7a8
+  claim_hash: 42aa0a9a2dd1434e42740b66f4319a1decc80653499d51f138e9c158a8ab3796
+  content: Whitley Strieber describes kundalini as feeling like electricity, sometimes
+    mild, other times intense.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+    title: kundalini
+    slug: kundalini
+  date: null
+  date_end: null
+  location_in_record: ch23:13345-13407
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: f7970150-1940-436e-944b-d706ff4eff65
+  claim_hash: 093ffdb777e0cac74870b49e5ba417ae1d642c78afc2de4c9c06bd8545f954f0
+  content: Whitley Strieber interprets the appearance of the Eye of Horus during Raven
+    Dana's 1988 contact experience as complementing the flow of kundalini energy and
+    suggesting the end of Organ Kundabuffer, representing the healing of psychological
+    injury from a long-ago stellar explosion.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32a4643f-279d-47b5-bc60-9f56c9cf2fce
+    title: 1988 contact experience of Raven Dana at Strieber's cabin
+    slug: 1988-contact-experience-of-raven-dana-at-striebers-cabin
+  - node_id: 39d9c9ab-e809-448d-8a72-19424c6c371f
+    title: Eye of Horus (Egyptian symbol)
+    slug: eye-of-horus-egyptian-symbol
+  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+    title: kundalini
+    slug: kundalini
+  - node_id: 76286f9e-6c30-4be8-9469-5b14dd5d15bd
+    title: Raven Dana
+    slug: raven-dana
+  - node_id: d1f8175d-e37a-4046-ac6e-d871df7e045d
+    title: Organ Kundabuffer
+    slug: organ-kundabuffer
+  date: null
+  date_end: null
+  location_in_record: ch24:10234-10509
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 666d0b20-e2ea-416b-a4d0-123ea0b57392
+  claim_hash: 3766f8d7dbc301a925dc43af9e65ab44aafbf25ab6f8183f33c74fe723dcc88d
+  content: During the 1988 contact experience, the being took Raven Dana's hand and
+    sent an energy she identified as kundalini coursing through her body.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: named
+    origin: Raven Dana
+    relay:
+    - relayed to Whitley Strieber
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32a4643f-279d-47b5-bc60-9f56c9cf2fce
+    title: 1988 contact experience of Raven Dana at Strieber's cabin
+    slug: 1988-contact-experience-of-raven-dana-at-striebers-cabin
+  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+    title: kundalini
+    slug: kundalini
+  - node_id: 76286f9e-6c30-4be8-9469-5b14dd5d15bd
+    title: Raven Dana
+    slug: raven-dana
+  date: '1988'
+  date_end: null
+  location_in_record: ch24:9573-9675
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 16c28331-1806-447e-a855-f24b1d82f635
+  claim_hash: e1288f8ddedf2e17aebbd004b930e1e7f9389adc2a13e6295187524124b81de1
+  content: Chris Ramsay regards roughly three months of daily meditation as the amount
+    of time needed to reach the Kundalini or out-of-body experience.
+  original_excerpt: I guess that much time to achieve like this Kundalini or this
+    like experience.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsay
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 6a9e0d65-59c4-4bd5-8e2e-931a159fc96f
+    title: kundalini
+    slug: kundalini
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    slug: out-of-body-experience-obe
+  date: null
+  date_end: null
+  location_in_record: 00:46:09.9-00:46:12.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null

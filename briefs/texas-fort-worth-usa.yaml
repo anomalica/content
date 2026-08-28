@@ -1,0 +1,301 @@
+schema: anomalica/brief/1
+brief_hash: af32cf0900c7085b90320e5ec3c9b09a9d41075fc0df90994306a36980c960b8
+page:
+  kind: entity
+  node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+  node_type: place
+  title: USA, Texas, Fort Worth
+  slug: texas-fort-worth-usa
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: f888411e-b882-4f89-8275-350d19f6c52d
+  title: Jesse Marcel
+  node_type: person
+  slug: jesse-marcel
+  shared_claims: 4
+- node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+  title: Roger Ramey
+  node_type: person
+  slug: roger-ramey
+  shared_claims: 3
+- node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+  title: French Air Force
+  node_type: organisation
+  slug: french-air-force
+  shared_claims: 2
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 1
+- node_id: 2bba065c-2cf1-4ffb-ba51-8a37c4c5f703
+  title: Derrel Sims
+  node_type: person
+  slug: derrel-sims
+  shared_claims: 1
+- node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+  title: Sheridan Cavitt
+  node_type: person
+  slug: sheridan-cavitt
+  shared_claims: 1
+- node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+  title: Walter Haut
+  node_type: person
+  slug: walter-haut
+  shared_claims: 1
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 1
+- node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+  title: William Blanchard
+  node_type: person
+  slug: william-blanchard
+  shared_claims: 1
+claims:
+- claim_id: 04a38574-6219-415c-a957-d2f060722a11
+  claim_hash: a0b82c4ace0f42d77b67fd0ff3b21fb93908472e42e2df201f78584bd56362b5
+  content: Derrel Sims, known as 'The UFO Hunter', ran a Houston, Texas-based UFO
+    abduction group during 1992 and 1993.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2bba065c-2cf1-4ffb-ba51-8a37c4c5f703
+    title: Derrel Sims
+    slug: derrel-sims
+  - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+    title: USA, Texas, Fort Worth
+    slug: texas-fort-worth-usa
+  date: '1992'
+  date_end: null
+  location_in_record: ch18:2971-3109
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 03b6b8e7-ae53-43a9-94d2-1857107e9621
+  claim_hash: 7619dde4512ece86ff5c7aec233a143c1d42983790799223a9c09a5d62066429
+  content: Whitley Strieber recalled his father taking him to a slaughterhouse in
+    Fort Worth, Texas, where he heard the rumble of panic, saw the bucking backs of
+    the steers, and the creamy whites of their eyes.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+    title: USA, Texas, Fort Worth
+    slug: texas-fort-worth-usa
+  date: null
+  date_end: null
+  location_in_record: ch11:31788-31962
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 9d4cfb27-68da-4cb1-a3b4-01e881ed1656
+  claim_hash: 18eca91b655175c38e1b14f5afe862c381416b4b6c88f2905f2b06b1e2d60f9d
+  content: In July 1947, US Air Force intelligence officer Jesse Marcel posed with
+    the remains of a weather balloon at the 8th Air Force headquarters in Fort Worth,
+    Texas.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+    title: USA, Texas, Fort Worth
+    slug: texas-fort-worth-usa
+  - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+    title: French Air Force
+    slug: french-air-force
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: 1947-07
+  date_end: null
+  location_in_record: ch37:95-254
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 285961e3-90e2-4268-b4d3-a4e3229366a0
+  claim_hash: 8193baaf7ba0b71048c33d4af2a57297c66a8f1f4f0a4ca6e0d08b01b629e5ed
+  content: When Jesse Marcel and Sheridan Cavitt brought their debris back to the
+    Roswell base, their commanding officer Colonel William Blanchard sent Marcel on
+    a flight to take the debris to the 8th Air Force headquarters in Fort Worth, Texas,
+    to meet Brigadier General Roger Ramey.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+    title: USA, Texas, Fort Worth
+    slug: texas-fort-worth-usa
+  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+    title: Sheridan Cavitt
+    slug: sheridan-cavitt
+  - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+    title: French Air Force
+    slug: french-air-force
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch7:11422-11674
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f18e83d3-03fe-48d1-883c-baf75ccfe321
+  claim_hash: 7a8587b8357404112dac55d85e821d32ca4422dbb33d5c813f4085d8d42fe9b4
+  content: General Roger Ramey's office had changed its mind by the time Jesse Marcel
+    arrived in Fort Worth, Texas, later on 8 July 1947.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+    title: USA, Texas, Fort Worth
+    slug: texas-fort-worth-usa
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch7:13034-13138
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: df90eebc-f967-4025-99c1-4959e301ccf3
+  claim_hash: 849fcf1a0743a0bcf36cc4dfb14e93bd579a462955a5a66ad789d0145ca63004
+  content: Upon his return from Fort Worth, Jesse Marcel described to Walter Haut
+    taking pieces of the 1947 Roswell wreckage to Roger Ramey's office and, after
+    returning from a map room, finding the remains of a weather balloon and a radar
+    kite substituted in place of the original wreckage.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: named
+    origin: Jesse Marcel
+    relay:
+    - Jesse Marcel's account, described to Walter Haut
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+    title: USA, Texas, Fort Worth
+    slug: texas-fort-worth-usa
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: 1947-07
+  date_end: null
+  location_in_record: ch28:4396-4642
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted

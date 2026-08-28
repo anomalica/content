@@ -1,0 +1,1929 @@
+schema: anomalica/brief/1
+brief_hash: cc14175f254c36fdad2e6a562c941bff04a3247599f8b9b064ea32a2e1df2f70
+page:
+  kind: entity
+  node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+  node_type: person
+  title: Gene Cernan
+  slug: gene-cernan
+  claim_count: 46
+  claim_count_total: 46
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+  title: Jack Schmitt
+  node_type: person
+  slug: jack-schmitt
+  shared_claims: 15
+- node_id: c277ac56-9215-43d1-9d52-16a21e1d10e9
+  title: Steno (crater, Taurus-Littrow)
+  node_type: place
+  slug: taurus-littrow-steno-crater
+  shared_claims: 11
+- node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+  title: Apollo 17 landing site, Taurus-Littrow
+  node_type: place
+  slug: taurus-littrow-apollo-17-landing-site
+  shared_claims: 8
+- node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
+  title: South Massif (Taurus-Littrow)
+  node_type: place
+  slug: south-massif-taurus-littrow
+  shared_claims: 8
+- node_id: 96590da4-51a0-43ce-be74-8f090d97061a
+  title: Moon, Shorty Crater
+  node_type: place
+  slug: shorty-crater-moon
+  shared_claims: 7
+- node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+  title: Project Apollo
+  node_type: project
+  slug: project-apollo
+  shared_claims: 5
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 5
+- node_id: 3f4db305-d170-4441-b886-f788cd891180
+  title: Apollo 17 orbital debris sighting, December 7, 1972
+  node_type: event
+  slug: december-7-1972-apollo-17-orbital-debris-sighting
+  shared_claims: 4
+- node_id: 16d9a460-6b83-4620-a885-0c2d4996a474
+  title: Cernan silent protest at 2004 National Aeronautics and Space Administration
+    (NASA) announcement
+  node_type: event
+  slug: cernan-silent-protest-at-2004-national-aeronautics-and-space-administration-nasa-announcement
+  shared_claims: 3
+- node_id: 9297ab28-9f3a-4739-9764-631b50fb9ba8
+  title: Challenger (Apollo 17 Lunar Module)
+  node_type: object
+  slug: challenger-apollo-17-lunar-module
+  shared_claims: 3
+- node_id: 8b2b9baa-5a1a-4309-8973-c0f08cc74ab4
+  title: AS17-134-20426 (Apollo 17 photograph)
+  node_type: document
+  slug: as17-134-20426-apollo-17-photograph
+  shared_claims: 2
+- node_id: 4db15afb-7020-478b-b74b-8d3d3864f609
+  title: Ballet Crater
+  node_type: place
+  slug: ballet-crater
+  shared_claims: 2
+- node_id: dfde2fca-f30a-4a18-ae21-c98401ea2028
+  title: Data's Head (Shorty Crater anomaly)
+  node_type: object
+  slug: datas-head-shorty-crater-anomaly
+  shared_claims: 2
+- node_id: b700ed0f-c9a8-4832-8295-f5d5eb2fa085
+  title: Ancient lunar dome hypothesis
+  node_type: topic
+  slug: ancient-lunar-dome-hypothesis
+  shared_claims: 1
+- node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+  title: Apollo 11
+  node_type: project
+  slug: apollo-11
+  shared_claims: 1
+- node_id: 6ff0f05d-379f-46da-92f8-333df739189b
+  title: Apollo 17 landing, 1972-12-11
+  node_type: event
+  slug: 1972-12-11-apollo-17-landing
+  shared_claims: 1
+- node_id: 88f8be0a-5a58-4755-a0a7-0ae04af747c5
+  title: Apollo Lunar Surface Experiments Package (ALSEP)
+  node_type: object
+  slug: apollo-lunar-surface-experiments-package-alsep
+  shared_claims: 1
+- node_id: 4056024b-6788-453b-a270-7b9890087c91
+  title: Buzz Aldrin
+  node_type: person
+  slug: buzz-aldrin
+  shared_claims: 1
+- node_id: e01de697-3c95-4955-a612-ebe34c4d1864
+  title: Camelot (crater, Taurus-Littrow)
+  node_type: place
+  slug: taurus-littrow-camelot-crater
+  shared_claims: 1
+- node_id: dbae2b35-630b-4481-a45a-368e6752b3fb
+  title: Chapel Bell experiment (Apollo 17)
+  node_type: object
+  slug: chapel-bell-experiment-apollo-17
+  shared_claims: 1
+- node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+  title: George W. Bush
+  node_type: person
+  slug: george-w-bush
+  shared_claims: 1
+- node_id: 9ac53ca8-b55d-458d-8d24-fe12a83b2181
+  title: Isis (crater, Taurus-Littrow)
+  node_type: place
+  slug: taurus-littrow-isis-crater
+  shared_claims: 1
+- node_id: 6501e7d6-a4b3-4b88-b890-29c66ca64f41
+  title: Jacqueline Kennedy
+  node_type: person
+  slug: jacqueline-kennedy
+  shared_claims: 1
+- node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+  title: John Fitzgerald Kennedy
+  node_type: person
+  slug: john-fitzgerald-kennedy
+  shared_claims: 1
+- node_id: a2d9081a-3930-494c-be14-37ebb4c33640
+  title: Lincoln Scarp
+  node_type: place
+  slug: lincoln-scarp
+  shared_claims: 1
+- node_id: b4a5b840-72a5-4bc1-9ead-9287940b3e89
+  title: Mare Serenitatis
+  node_type: place
+  slug: mare-serenitatis
+  shared_claims: 1
+- node_id: c661e205-9d5f-4c0b-bafc-450bbbd07288
+  title: Neil Armstrong
+  node_type: person
+  slug: neil-armstrong
+  shared_claims: 1
+- node_id: 39dc28f2-3c82-4013-affb-dffb104d0712
+  title: Snoopy (Apollo 10 Lunar Module)
+  node_type: object
+  slug: snoopy-apollo-10-lunar-module
+  shared_claims: 1
+- node_id: c9963801-6309-4edd-a803-5fd357dbcaf9
+  title: Vision for Space Exploration
+  node_type: project
+  slug: vision-for-space-exploration
+  shared_claims: 1
+claims:
+- claim_id: 87bd05dd-4e46-4c6b-b04e-fdad61aa2269
+  claim_hash: c6ad5b7320f55dadb0056cbe5355d3119164b1b451ea424516355457c68b4986
+  content: The original Hasselblad image catalogued as AS17-134-20426 was taken by
+    Apollo 17 Commander Gene Cernan at the Apollo 17 Taurus-Littrow lunar landing
+    site, looking west.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 8b2b9baa-5a1a-4309-8973-c0f08cc74ab4
+    title: AS17-134-20426 (Apollo 17 photograph)
+    slug: as17-134-20426-apollo-17-photograph
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    slug: taurus-littrow-apollo-17-landing-site
+  date: null
+  date_end: null
+  location_in_record: ch11:112708-112846
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 028c6ea7-ce09-4c92-afff-a75b6fb3a081
+  claim_hash: 46582e318ffc971dbf75197c7ac12f7654f790a54640eb46931dd236650294d8
+  content: Richard C. Hoagland interprets what Gene Cernan captured in image AS17-134-20426
+    as backscattered reflection of a refractive sunrise on the Moon, produced by hundreds
+    of miles of shattered glass and rebar suspended in the remains of a lunar dome
+    arching over Mare Serenitatis directly behind Cernan.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 8b2b9baa-5a1a-4309-8973-c0f08cc74ab4
+    title: AS17-134-20426 (Apollo 17 photograph)
+    slug: as17-134-20426-apollo-17-photograph
+  - node_id: b4a5b840-72a5-4bc1-9ead-9287940b3e89
+    title: Mare Serenitatis
+    slug: mare-serenitatis
+  - node_id: b700ed0f-c9a8-4832-8295-f5d5eb2fa085
+    title: Ancient lunar dome hypothesis
+    slug: ancient-lunar-dome-hypothesis
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch11:113350-113659
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: d780b87f-e4ff-4c85-a95f-b26639f3180f
+  claim_hash: 85fef56016dd97244596e156009dd4408d1ebc53db1481c9a5da56b2276a62f0
+  content: During the close approach of Apollo 10's Snoopy to the lunar surface, Lunar
+    Module Pilot Gene Cernan commented, "Man, we's getting down among them."
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Gene Cernan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 39dc28f2-3c82-4013-affb-dffb104d0712
+    title: Snoopy (Apollo 10 Lunar Module)
+    slug: snoopy-apollo-10-lunar-module
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  date: null
+  date_end: null
+  location_in_record: ch12:27338-27431
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 4e281b3d-9193-44d0-a3bb-dc48d0504263
+  claim_hash: 4da0406033d32086e70afb5370fc365a7ba57c1ec4dedcd859aef16f2f7beeee
+  content: Gene Cernan photographed Jack Schmitt holding a lunar sample collecting
+    rake during the Apollo 17 mission.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    slug: taurus-littrow-apollo-17-landing-site
+  date: null
+  date_end: null
+  location_in_record: ch14:47408-47522
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: ac0e1884-3bbd-4636-9d8f-e35a2d04b943
+  claim_hash: 373d3cd28c1d8bc32a0a8ff43eee96079d4cad72f0348bca3756cc3140dd6ac2
+  content: During his January 2004 speech announcing the Vision for Space Exploration,
+    George W. Bush acknowledged Gene Cernan, the Commander of Project Apollo 17, as
+    the last man to have set foot upon another world.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+    title: George W. Bush
+    slug: george-w-bush
+  - node_id: c9963801-6309-4edd-a803-5fd357dbcaf9
+    title: Vision for Space Exploration
+    slug: vision-for-space-exploration
+  date: '2004-01-14'
+  date_end: null
+  location_in_record: ch19:22795-22947
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: e164f2e7-b3aa-481c-aa46-1824e431f106
+  claim_hash: 95156a18745feb89cb119979f754397b25446723f2477d724185d758f15502fd
+  content: At the January 2004 Vision for Space Exploration announcement, Gene Cernan
+    refused to acknowledge George W. Bush's gesture and scowled as his own words were
+    quoted.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 16d9a460-6b83-4620-a885-0c2d4996a474
+    title: Cernan silent protest at 2004 National Aeronautics and Space Administration
+      (NASA) announcement
+    slug: cernan-silent-protest-at-2004-national-aeronautics-and-space-administration-nasa-announcement
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  date: '2004-01-14'
+  date_end: null
+  location_in_record: ch19:23197-23361
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: f642cc96-324b-4ef7-a012-4bedbfc15a51
+  claim_hash: 57097327e1158a4be0db8e7f2447e6cda815f2de7c790cd6d8fd35dc51cf400d
+  content: At the January 2004 Vision for Space Exploration announcement, an unidentified
+    astronaut seated next to Gene Cernan gave Cernan a stern look.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 16d9a460-6b83-4620-a885-0c2d4996a474
+    title: Cernan silent protest at 2004 National Aeronautics and Space Administration
+      (NASA) announcement
+    slug: cernan-silent-protest-at-2004-national-aeronautics-and-space-administration-nasa-announcement
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  date: '2004-01-14'
+  date_end: null
+  location_in_record: ch19:23369-23461
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: ca90bd2b-6928-4acf-9fd3-9b38b3bd82a7
+  claim_hash: a8778a19cb741aa21a9f50182542e53520693274599c789dfec7f08ea98a9ed5
+  content: Richard C. Hoagland considers Gene Cernan's non-reaction to George W. Bush's
+    acknowledgement rude and inappropriate etiquette given that Cernan was invited
+    at NASA and the White House's behest.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch19:23466-23661
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 195be83b-2b4f-44b6-9cf7-02da56c0f81d
+  claim_hash: ad65c9f7ed9d5aff43a7ec4df075c9fc5ef4eae64c13f58fe9e59dc19b5c45fd
+  content: Richard C. Hoagland suspects that Gene Cernan's silent protest at the 2004
+    announcement stemmed from something more than a political disagreement with George
+    W. Bush, possibly connected to the Apollo 17 mission and Cernan's role in it.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 16d9a460-6b83-4620-a885-0c2d4996a474
+    title: Cernan silent protest at 2004 National Aeronautics and Space Administration
+      (NASA) announcement
+    slug: cernan-silent-protest-at-2004-national-aeronautics-and-space-administration-nasa-announcement
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch19:24166-24405
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 8916b46d-4e65-46e7-a9f6-e4f9c965dc4b
+  claim_hash: 8ccaef1e7f7360fb728943127456b27a1dc4453d1e4e7e84f17a8e03b8eeec38
+  content: Richard C. Hoagland considers Buzz Aldrin and Neil Armstrong more logical
+    choices than Gene Cernan to represent the Apollo past at the 2004 announcement,
+    since they had participated in similar NASA events, were better known to the public,
+    and had delivered generous and memorable remarks.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+    title: Apollo 11
+    slug: apollo-11
+  - node_id: c661e205-9d5f-4c0b-bafc-450bbbd07288
+    title: Neil Armstrong
+    slug: neil-armstrong
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch19:24528-24789
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c52558cf-8b1c-4dc4-b2d1-0fe13a4cec7d
+  claim_hash: 441010118517a00f72fd69c4fcb70bda64e59981dda045c602302e47cb29b76a
+  content: After George W. Bush's 2004 announcement, Gene Cernan said only, "I've
+    been waiting for this day for thirty-one years."
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Gene Cernan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  date: '2004-01-14'
+  date_end: null
+  location_in_record: ch19:25549-25664
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: f254db6a-48dd-4364-98c9-cadbfc2fd58a
+  claim_hash: dc07467c6ad708e2db5f27815ec291ee9ef9fde80bad94acd6cd7798380521dd
+  content: The Apollo 17 landing at Taurus-Littrow was by far the riskiest Apollo
+    landing, requiring Gene Cernan to set the lunar module Challenger down among mountains
+    between approximately 2,000 and 2,500 metres tall on a valley floor littered with
+    large craters.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    slug: taurus-littrow-apollo-17-landing-site
+  - node_id: 9297ab28-9f3a-4739-9764-631b50fb9ba8
+    title: Challenger (Apollo 17 Lunar Module)
+    slug: challenger-apollo-17-lunar-module
+  date: null
+  date_end: null
+  location_in_record: ch19:42822-43044
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c610bda8-2a04-491a-85be-525ec08eb12e
+  claim_hash: 2d816426f5aac75f4d160527364621a17663482b4c2328ee99ab0958dd8347a2
+  content: Gene Cernan guided the lunar module Challenger to a landing at the outer
+    edge of the Taurus-Littrow landing ellipse on 1972-12-11 at 19:54:57 UTC.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 6ff0f05d-379f-46da-92f8-333df739189b
+    title: Apollo 17 landing, 1972-12-11
+    slug: 1972-12-11-apollo-17-landing
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    slug: taurus-littrow-apollo-17-landing-site
+  - node_id: 9297ab28-9f3a-4739-9764-631b50fb9ba8
+    title: Challenger (Apollo 17 Lunar Module)
+    slug: challenger-apollo-17-lunar-module
+  date: '1972-12-11'
+  date_end: null
+  location_in_record: ch19:46510-46781
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 7c19b02a-5a59-4833-92d6-ddbd3338e001
+  claim_hash: 1c4e75c6f77853e575a6876b9c47104df4aaadc611d290b88ecf03d62363c42f
+  content: Gene Cernan landed the Challenger near Camelot crater, echoing the Camelot
+    theme that Jacqueline Kennedy had given to President John F. Kennedy's administration
+    after his death.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 6501e7d6-a4b3-4b88-b890-29c66ca64f41
+    title: Jacqueline Kennedy
+    slug: jacqueline-kennedy
+  - node_id: 9297ab28-9f3a-4739-9764-631b50fb9ba8
+    title: Challenger (Apollo 17 Lunar Module)
+    slug: challenger-apollo-17-lunar-module
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    slug: john-fitzgerald-kennedy
+  - node_id: e01de697-3c95-4955-a612-ebe34c4d1864
+    title: Camelot (crater, Taurus-Littrow)
+    slug: taurus-littrow-camelot-crater
+  date: null
+  date_end: null
+  location_in_record: ch19:46905-47180
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 751410ec-ad94-441e-906e-13323866228e
+  claim_hash: 9dcdf237ed7ca1b3d88384d046f4fc841435b6b83a3d9c8b651b67a17fb0339b
+  content: Mission Commander Gene Cernan named the crater Isis, which was also located
+    near the Apollo 17 landing site.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 9ac53ca8-b55d-458d-8d24-fe12a83b2181
+    title: Isis (crater, Taurus-Littrow)
+    slug: taurus-littrow-isis-crater
+  date: null
+  date_end: null
+  location_in_record: ch19:47424-47491
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 367f16ff-1c2b-4bb9-adea-dddbdba79028
+  claim_hash: 798920ba216e6ad14431d03e64a4de342b7a439be613def2b0535c18cc9bb339
+  content: Jack Schmitt and Gene Cernan had a schedule for Apollo 17 that called for
+    unpacking the Lunar Rover, emplacing seismometers and explosive charges at key
+    points within the Taurus-Littrow Valley, and traversing nearly 39 kilometres in
+    total.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    slug: taurus-littrow-apollo-17-landing-site
+  date: null
+  date_end: null
+  location_in_record: ch19:47813-48050
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 49df2949-31d7-43b6-8a74-790b8141541d
+  claim_hash: 7416d5990706e93127d53dc48ba89f0ba8a6012911297fbf31907a317a944c55
+  content: Jack Schmitt and Gene Cernan were tasked with deploying a classified experiment
+    called Chapel Bell, about which virtually nothing has been revealed.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  - node_id: dbae2b35-630b-4481-a45a-368e6752b3fb
+    title: Chapel Bell experiment (Apollo 17)
+    slug: chapel-bell-experiment-apollo-17
+  date: null
+  date_end: null
+  location_in_record: ch19:48057-48204
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c15fa20d-212a-483b-be39-b4ba70836333
+  claim_hash: 1219e8baebbec25a7abea6ce63a29f54cbfdaf2bc19186c09a0b6f4f928d90f0
+  content: After unpacking and deploying the Rover and Apollo Lunar Surface Experiments
+    Package (ALSEP) instrument packages along with the American flag, Jack Schmitt
+    and Gene Cernan headed to their first geology station, the nearby crater Steno.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  - node_id: 88f8be0a-5a58-4755-a0a7-0ae04af747c5
+    title: Apollo Lunar Surface Experiments Package (ALSEP)
+    slug: apollo-lunar-surface-experiments-package-alsep
+  - node_id: c277ac56-9215-43d1-9d52-16a21e1d10e9
+    title: Steno (crater, Taurus-Littrow)
+    slug: taurus-littrow-steno-crater
+  date: null
+  date_end: null
+  location_in_record: ch19:48215-48395
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2a6fcaca-0acf-4727-8c3c-54a0e29fef7f
+  claim_hash: 6f7103bffee0fee0380e134a139e593c76986a7597e92240afbb7b71debc6c40
+  content: EVA-2 of Apollo 17 called for Gene Cernan and Jack Schmitt to head directly
+    for the South Massif and a crater named Nansen, then visit locations on the Lincoln
+    Scarp and stop at Shorty Crater.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
+    title: South Massif (Taurus-Littrow)
+    slug: south-massif-taurus-littrow
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  - node_id: 96590da4-51a0-43ce-be74-8f090d97061a
+    title: Moon, Shorty Crater
+    slug: shorty-crater-moon
+  - node_id: a2d9081a-3930-494c-be14-37ebb4c33640
+    title: Lincoln Scarp
+    slug: lincoln-scarp
+  - node_id: c277ac56-9215-43d1-9d52-16a21e1d10e9
+    title: Steno (crater, Taurus-Littrow)
+    slug: taurus-littrow-steno-crater
+  date: null
+  date_end: null
+  location_in_record: ch19:48574-48818
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: e4b78772-7474-4d00-a524-3ef97236a60d
+  claim_hash: 70ece533846c9383cb2e86076862974ab5ea7fe6eccaea0dee2066d5f9171a9c
+  content: Gene Cernan and Jack Schmitt would have been able to see anything unusual
+    about the South Massif from Geology Station 2 at the base of the massif atop Nansen,
+    or on the way up or back from the station.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
+    title: South Massif (Taurus-Littrow)
+    slug: south-massif-taurus-littrow
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  - node_id: c277ac56-9215-43d1-9d52-16a21e1d10e9
+    title: Steno (crater, Taurus-Littrow)
+    slug: taurus-littrow-steno-crater
+  date: null
+  date_end: null
+  location_in_record: ch19:51083-51319
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: f9258591-7e9d-4a78-94b1-e9b63f151473
+  claim_hash: 4f1683843be6cf35b2d4b7de560adf5f11e83f82cb1a4962da60180c522fe5d5
+  content: As Gene Cernan and Jack Schmitt neared the South Massif, Cernan noted a
+    curious linear geometry on the surface of the massif and asked Schmitt if he could
+    see impressed lineations going from the lower left upward to the right on the
+    dark area of the South Massif.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Gene Cernan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
+    title: South Massif (Taurus-Littrow)
+    slug: south-massif-taurus-littrow
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  date: null
+  date_end: null
+  location_in_record: ch19:52743-52965
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2d8c2a47-f03f-41bd-a606-2c2a36d19648
+  claim_hash: e53358ee3445d21c180fcb27408794f3ddbe22d107b80bb3c4d584dd7a0787be
+  content: Gene Cernan and Jack Schmitt, during Apollo 17 EVA-2, discussed linear
+    wrinkle-like features on the South Massif, with Schmitt calling them crenulations
+    similar to something he had seen from orbit at the edge of the shadows.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jack Schmitt
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
+    title: South Massif (Taurus-Littrow)
+    slug: south-massif-taurus-littrow
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  date: null
+  date_end: null
+  location_in_record: ch19:53155-53406
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: dceeea10-43c6-4bbf-83d2-23202b4842c7
+  claim_hash: 36b263fdbbddd4c6994a3e344c65e6f0badacc766c054029203e01121abfe0f5
+  content: As the Apollo 17 astronauts headed for the east slope of Nansen, they at
+    first could not see down into Nansen and Gene Cernan had to drive left (east)
+    to approach the overhanging shelf from that side.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: c277ac56-9215-43d1-9d52-16a21e1d10e9
+    title: Steno (crater, Taurus-Littrow)
+    slug: taurus-littrow-steno-crater
+  date: null
+  date_end: null
+  location_in_record: ch19:56728-56968
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: b7740264-89e5-4e64-bf28-e928899e105d
+  claim_hash: caa55c86b62130faa81be683726a2fc3dde8908d3651e1df052304ae29b97948
+  content: When the Apollo 17 astronauts got their first look down into Nansen, Gene
+    Cernan parked the rover on the shelf facing north so that the television cameras
+    could not see directly into the opening at the base of the South Massif.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
+    title: South Massif (Taurus-Littrow)
+    slug: south-massif-taurus-littrow
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: c277ac56-9215-43d1-9d52-16a21e1d10e9
+    title: Steno (crater, Taurus-Littrow)
+    slug: taurus-littrow-steno-crater
+  date: null
+  date_end: null
+  location_in_record: ch19:57347-57575
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 11eb7031-6f13-471b-8a7e-584680ba7e89
+  claim_hash: c22f5644f26b2076c2d848c0cc8747eaf8aed3940ce1085db4dc30bdef1369ad
+  content: Gene Cernan and Jack Schmitt could see directly into Nansen despite the
+    rover's parked position blocking the television camera's view.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  - node_id: c277ac56-9215-43d1-9d52-16a21e1d10e9
+    title: Steno (crater, Taurus-Littrow)
+    slug: taurus-littrow-steno-crater
+  date: null
+  date_end: null
+  location_in_record: ch19:57583-57638
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 0d9eaf8b-952a-4cf3-ba54-e130e8c9c631
+  claim_hash: f9726776e014e09d0f459d19e0a888173e87a2e43de61aed6bc520ad6ab81d20
+  content: Near the end of the Nansen station, Gene Cernan, off camera, said he had
+    some good pictures of Nansen but was not sure he really believed it all.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Gene Cernan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: c277ac56-9215-43d1-9d52-16a21e1d10e9
+    title: Steno (crater, Taurus-Littrow)
+    slug: taurus-littrow-steno-crater
+  date: null
+  date_end: null
+  location_in_record: ch19:58459-58612
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: ee0c9e78-dde5-41d8-b4a8-03b54275d5b3
+  claim_hash: 9ff740595d6198930b4ca3099b172eb897a07545985428ac0749297e7ee164b8
+  content: Jack Schmitt told mission control that he and Gene Cernan had not had a
+    chance to look around any more than mission control had heard.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jack Schmitt
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  date: null
+  date_end: null
+  location_in_record: ch19:58730-58811
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 45cd06fd-af27-4fa5-8a0a-9a926759c611
+  claim_hash: 8807fdacaea40f256a2a363f74b937c5ba6901ade81b57128769f5bd6216bcec
+  content: Gene Cernan and Jack Schmitt drove to station 2A, a few hundred metres
+    back down the slope from the lip of Nansen, from which they could have had a vantage
+    point looking directly into the hole leading into the South Massif.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
+    title: South Massif (Taurus-Littrow)
+    slug: south-massif-taurus-littrow
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  - node_id: c277ac56-9215-43d1-9d52-16a21e1d10e9
+    title: Steno (crater, Taurus-Littrow)
+    slug: taurus-littrow-steno-crater
+  date: null
+  date_end: null
+  location_in_record: ch19:59195-59456
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 26ac5aa2-7570-4969-a74b-3dd11bfaae98
+  claim_hash: 9b59db79c4ad4aeb4c05a15b94b1c26e9e449250dc8fd07283a4274eeec3f5f9
+  content: At station 2A, Gene Cernan turned the rover in a circle so that Jack Schmitt
+    could take a panoramic view of the area and the valley below.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    slug: taurus-littrow-apollo-17-landing-site
+  date: null
+  date_end: null
+  location_in_record: ch19:59658-59782
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: aabb48b7-f61c-4a8b-9812-ba504bfa80ff
+  claim_hash: 6f4554cca028149e8758a849bc44d0ea07d35f3d918cca0997471978ea0f502a
+  content: At mission time 143:50:27, Cernan told Schmitt to keep photographing, saying
+    "Start taking. Take the whole thing."
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Gene Cernan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  date: null
+  date_end: null
+  location_in_record: ch19:60015-60064
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 076d27c8-d48d-4202-8220-82c1fde5e083
+  claim_hash: 2bd48dce70f111137f3a9b3cabfcfcdab33dc25bae8843bd3e45569f76542162
+  content: At mission time 143:50:54, Gene Cernan described the area near Nansen crater
+    as "a mysterious looking place."
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Gene Cernan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: c277ac56-9215-43d1-9d52-16a21e1d10e9
+    title: Steno (crater, Taurus-Littrow)
+    slug: taurus-littrow-steno-crater
+  date: '1972-12-11'
+  date_end: null
+  location_in_record: ch19:60075-60158
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 24c66929-4b37-4575-94bc-8ada35c14024
+  claim_hash: 7a4514614a6d05580d70509e8d3fdbe254c59c0e933d56de0a20d10712b55479
+  content: Gene Cernan parked the lunar rover up over the lip of Nansen crater so
+    that television cameras could not see directly into the crater's opening.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: c277ac56-9215-43d1-9d52-16a21e1d10e9
+    title: Steno (crater, Taurus-Littrow)
+    slug: taurus-littrow-steno-crater
+  date: '1972-12-11'
+  date_end: null
+  location_in_record: ch19:61322-61489
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 25a04c68-74b8-483a-b3f8-c2ecd6c1fbea
+  claim_hash: cd6bde8c32458f07aec452218a04e5fccfe846f41e200c2056f6c2b0b2d0a932
+  content: Gene Cernan described the Taurus-Littrow area as a "mysterious place" and
+    "unbelievable".
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Gene Cernan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    slug: taurus-littrow-apollo-17-landing-site
+  date: '1972-12-11'
+  date_end: null
+  location_in_record: ch19:61624-61696
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: f8191caf-d32a-4026-bda2-e648c8837954
+  claim_hash: f0c7d0c095a432b72ed0110fab02ad015750f3d9ca5fe2848a6cf1441835fb31
+  content: Gene Cernan and Jack Schmitt joked about cutting out certain parts of photographs
+    that should have shown what lay beneath the shadowed overhang of Nansen crater.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  - node_id: c277ac56-9215-43d1-9d52-16a21e1d10e9
+    title: Steno (crater, Taurus-Littrow)
+    slug: taurus-littrow-steno-crater
+  date: '1972-12-11'
+  date_end: null
+  location_in_record: ch19:61900-62079
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 680c7212-dc34-4b92-8890-6304cdef996d
+  claim_hash: 01a280f6c7f2417a0d7da178df97cdac302cee86494c656386da894b022910af
+  content: Along the way to Shorty Crater, Jack Schmitt and Gene Cernan stopped at
+    another small crater, later named Ballet Crater, to take samples.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
+    title: South Massif (Taurus-Littrow)
+    slug: south-massif-taurus-littrow
+  - node_id: 4db15afb-7020-478b-b74b-8d3d3864f609
+    title: Ballet Crater
+    slug: ballet-crater
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  - node_id: 96590da4-51a0-43ce-be74-8f090d97061a
+    title: Moon, Shorty Crater
+    slug: shorty-crater-moon
+  date: '1972-12-11'
+  date_end: null
+  location_in_record: ch19:63463-63681
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 37f8b74a-6e05-4baf-86dc-a0932bfc9b11
+  claim_hash: 465ca63b33a8456e8e2510d950550622eee22700faf6fb7d6e2fbff0b93c4792
+  content: At mission time 145:26:42, Gene Cernan confirmed he could see the orange
+    soil at Shorty crater, saying "I can see it from here!"
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Gene Cernan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 96590da4-51a0-43ce-be74-8f090d97061a
+    title: Moon, Shorty Crater
+    slug: shorty-crater-moon
+  date: '1972-12-11'
+  date_end: null
+  location_in_record: ch19:66054-66119
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 0014a9cd-d485-4ec9-a98d-c29cffde689d
+  claim_hash: c1765da13e488d90daffcab3f395045efc6ba641609031ab730642c6ff7629c9
+  content: Richard C. Hoagland observed that some of Gene Cernan's photographs of
+    Shorty crater show "strange objects" that do not resemble the fractured volcanic
+    rocks expected around a major impact crater, instead resembling broken metallic
+    machinery and shattered glass.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 96590da4-51a0-43ce-be74-8f090d97061a
+    title: Moon, Shorty Crater
+    slug: shorty-crater-moon
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch19:66756-67023
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 961acf14-c9fc-4bd2-bd5b-2de870fd2c2c
+  claim_hash: 2b337182cc4489a797dd44e7c77f40c5ed8f98cacdc99a2783f4187dd7c8696f
+  content: Composite images from other frames taken by Gene Cernan at Shorty crater
+    showed that the Data's Head object had two eye sockets, a forehead, brow ridges,
+    a nose with nostrils, and twin cheekbones, with the lower jaw missing.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 96590da4-51a0-43ce-be74-8f090d97061a
+    title: Moon, Shorty Crater
+    slug: shorty-crater-moon
+  - node_id: dfde2fca-f30a-4a18-ae21-c98401ea2028
+    title: Data's Head (Shorty Crater anomaly)
+    slug: datas-head-shorty-crater-anomaly
+  date: null
+  date_end: null
+  location_in_record: ch19:69930-70163
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 652f471b-7a13-4cf9-9dc0-13ac9d6c1321
+  claim_hash: aa152b949a0ff43b7ee2968d2200c8dbd4b36ea50c535e6d088e22947cfec56b
+  content: The Apollo 17 mission transcripts show that Gene Cernan and Jack Schmitt
+    were rushed at the Shorty crater station because of time lost earlier at Ballet
+    Crater.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Apollo Lunar Surface Journal (LSJ)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4db15afb-7020-478b-b74b-8d3d3864f609
+    title: Ballet Crater
+    slug: ballet-crater
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  - node_id: 96590da4-51a0-43ce-be74-8f090d97061a
+    title: Moon, Shorty Crater
+    slug: shorty-crater-moon
+  date: null
+  date_end: null
+  location_in_record: ch19:70779-70921
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 89fc3ad7-25e3-48d1-98cd-48b876d73408
+  claim_hash: 0bd6006ced3b59e581968e03732d2f89e0ad72075ac29659bb18af509ff5d122
+  content: None of the published photographic surface panoramas from the Apollo 17
+    mission reflected the odd geometric "lineations" that Jack Schmitt and Gene Cernan
+    described seeing on their approach to the South Massif.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
+    title: South Massif (Taurus-Littrow)
+    slug: south-massif-taurus-littrow
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  date: null
+  date_end: null
+  location_in_record: ch19:73290-73453
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 8f92c2b3-d834-4a30-af3a-68eb6f734952
+  claim_hash: 2fb5bc5d7272b5ee1a548d23084337c5e0954aeccda2271fd2c44d76a6eee201
+  content: The upper right pane of the October 2005 Hubble-derived image release contained
+    a portion of one of Gene Cernan's photographic panoramas at Shorty crater, one
+    of the same frames that contained the cropped-out images of the Data's Head object.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 96590da4-51a0-43ce-be74-8f090d97061a
+    title: Moon, Shorty Crater
+    slug: shorty-crater-moon
+  - node_id: dfde2fca-f30a-4a18-ae21-c98401ea2028
+    title: Data's Head (Shorty Crater anomaly)
+    slug: datas-head-shorty-crater-anomaly
+  date: 2005-10
+  date_end: null
+  location_in_record: ch19:75551-75708
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 4bf26590-2e73-4ee9-8a2f-25437ea3e8f4
+  claim_hash: 52e982bc180e204209ab2bd90aed782ac23bc4946d9d5ad1be442413e84d9980
+  content: Gene Cernan, on first seeing the Taurus-Littrow landscape during the Apollo
+    17 mission, said "Man, you talk about a mysterious looking place!"
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+  provenance_chain:
+    origin_kind: named
+    origin: Gene Cernan
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    slug: taurus-littrow-apollo-17-landing-site
+  date: null
+  date_end: null
+  location_in_record: ch20:20984-21153
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 633cf739-1359-4a56-b0d5-ce0b1fe97daa
+  claim_hash: 5446c577814af4e1c604cbb1b3da1ba891de0bd5e37d3982179f51be475a8be0
+  content: During the Apollo 17 orbital debris sighting, December 7, 1972, Gene Cernan's
+    impression was that the particles were flat, flake-like fragments.
+  original_excerpt: my impression is that they are flat, flake-like particles
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Cernan, Gene
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3f4db305-d170-4441-b886-f788cd891180
+    title: Apollo 17 orbital debris sighting, December 7, 1972
+    slug: december-7-1972-apollo-17-orbital-debris-sighting
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  date: '1972-12-07'
+  date_end: null
+  location_in_record: 00:04:15.7-00:04:20.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9eacc81-e1ff-4d48-b016-b1c5158aba0b
+    record_title: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1007872
+    content_hash: sha256:5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa28547357
+    friendly_name: 2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972.v2
+- claim_id: 93a73ddf-b0eb-431c-bbcd-d7b7b11a28b3
+  claim_hash: a59a6f58b777d9319811dad5515d11feff5408766e8861d2cb65e6c3b1c74038
+  content: During the Apollo 17 orbital debris sighting, December 7, 1972, Gene Cernan
+    estimated that some of the flake-like fragments were approximately 15 centimetres
+    across.
+  original_excerpt: some maybe six inches across
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Cernan, Gene
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3f4db305-d170-4441-b886-f788cd891180
+    title: Apollo 17 orbital debris sighting, December 7, 1972
+    slug: december-7-1972-apollo-17-orbital-debris-sighting
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  date: '1972-12-07'
+  date_end: null
+  location_in_record: 00:04:20.8-00:04:22.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9eacc81-e1ff-4d48-b016-b1c5158aba0b
+    record_title: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1007872
+    content_hash: sha256:5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa28547357
+    friendly_name: 2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972.v2
+- claim_id: 625af919-e5d4-46b4-bab8-32165194e78b
+  claim_hash: c69b3c3391861b70c1ceda4efa39e549f7e76462940724a2d1d471e14382afc8
+  content: During the Apollo 17 orbital debris sighting, December 7, 1972, Gene Cernan
+    observed that most of the fragments appeared to be twinkling.
+  original_excerpt: most of them seem to be twinkling
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Cernan, Gene
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3f4db305-d170-4441-b886-f788cd891180
+    title: Apollo 17 orbital debris sighting, December 7, 1972
+    slug: december-7-1972-apollo-17-orbital-debris-sighting
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  date: '1972-12-07'
+  date_end: null
+  location_in_record: 00:04:28.3-00:04:31.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9eacc81-e1ff-4d48-b016-b1c5158aba0b
+    record_title: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1007872
+    content_hash: sha256:5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa28547357
+    friendly_name: 2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972.v2
+- claim_id: 16041247-2fca-4e94-bed6-7f5e92010f2d
+  claim_hash: 5d0ad416e240a2317f5d9e9f5a52b90273e63b5e1574d7109a0390427bbacda0
+  content: During the Apollo 17 orbital debris sighting, December 7, 1972, Gene Cernan
+    observed that the fragments seemed for the most part to be moving away from the
+    spacecraft.
+  original_excerpt: I think for the most part they're all moving away from us
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Cernan, Gene
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3f4db305-d170-4441-b886-f788cd891180
+    title: Apollo 17 orbital debris sighting, December 7, 1972
+    slug: december-7-1972-apollo-17-orbital-debris-sighting
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  date: '1972-12-07'
+  date_end: null
+  location_in_record: 00:04:33.1-00:04:35.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9eacc81-e1ff-4d48-b016-b1c5158aba0b
+    record_title: NASA-UAP-D009, Apollo 17 Audio Excerpt, December 7, 1972
+    record_date: '2026-07-11'
+    record_reference: https://www.dvidshub.net/video/1007872
+    content_hash: sha256:5d0f5e1ee03fcb55f104ee30fcaa0677b3b839d495457e745f01a6aa28547357
+    friendly_name: 2026-07-11-audio-nasa-uap-d009-apollo-17-audio-excerpt-december-7-1972.v2

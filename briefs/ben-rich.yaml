@@ -1,0 +1,855 @@
+schema: anomalica/brief/1
+brief_hash: cc2c24c8dfa154c73c6827c7039e864fb7016eaa1049d95cc9ee0ddecf47a602
+page:
+  kind: entity
+  node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+  node_type: person
+  title: Ben Rich
+  slug: ben-rich
+  claim_count: 19
+  claim_count_total: 19
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: d1f770a7-2688-4c16-91f8-268d7da12f0d
+  title: 1993-03 Ben Rich UCLA address
+  node_type: event
+  slug: 1993-03-ben-rich-ucla-address
+  shared_claims: 5
+- node_id: 1e26e008-5bfb-4497-a0ce-42cb86d075ae
+  title: Jan Harzan
+  node_type: person
+  slug: jan-harzan
+  shared_claims: 4
+- node_id: 1f9473da-fe19-4e6d-a719-4c325e193f14
+  title: John Andrews
+  node_type: person
+  slug: john-andrews
+  shared_claims: 3
+- node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+  title: Lockheed Martin Skunk Works
+  node_type: organisation
+  slug: lockheed-martin-skunk-works
+  shared_claims: 3
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 3
+- node_id: 2efd6a92-26e1-40e3-838e-9abe34c5aca2
+  title: 1986-07 Ben Rich letter to John Andrews
+  node_type: document
+  slug: 1986-07-ben-rich-letter-to-john-andrews
+  shared_claims: 2
+- node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
+  title: Jim Goodall
+  node_type: person
+  slug: jim-goodall
+  shared_claims: 2
+- node_id: 66b3aa90-36ac-4795-94f4-cf4f3916081d
+  title: Caroline Group
+  node_type: organisation
+  slug: caroline-group
+  shared_claims: 1
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 1
+- node_id: 95f26306-d457-4b86-8b8e-c83e0906740c
+  title: China
+  node_type: place
+  slug: china
+  shared_claims: 1
+- node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+  title: Lockheed Martin
+  node_type: organisation
+  slug: lockheed-martin
+  shared_claims: 1
+- node_id: fed91b6d-10d2-4259-a80f-ad4de5874d3e
+  title: Maynard Consortium
+  node_type: organisation
+  slug: maynard-consortium
+  shared_claims: 1
+- node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+  title: Ross Coulthart
+  node_type: person
+  slug: ross-coulthart
+  shared_claims: 1
+- node_id: 6861382a-014b-46d2-802b-30d1aba6dd2c
+  title: Russia
+  node_type: place
+  slug: russia
+  shared_claims: 1
+- node_id: beb9eb48-6799-4f9b-a465-6fccb65370bd
+  title: Secret Machines
+  node_type: document
+  slug: secret-machines
+  shared_claims: 1
+- node_id: 7c27e5a0-3812-4a38-a9ba-9038056db1c4
+  title: T.L. Keller
+  node_type: person
+  slug: tl-keller
+  shared_claims: 1
+- node_id: af546fa9-0800-49a2-864f-17d19144d8d0
+  title: Testor Corporation
+  node_type: organisation
+  slug: testor-corporation
+  shared_claims: 1
+- node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
+  title: Thomas Townsend Brown
+  node_type: person
+  slug: thomas-townsend-brown
+  shared_claims: 1
+- node_id: 97a0c7de-8956-46e6-bd44-7d4242dabb8c
+  title: USA, California, University of California Los Angeles
+  node_type: place
+  slug: california-university-of-california-los-angeles-usa
+  shared_claims: 1
+claims:
+- claim_id: 4120858f-cd4d-4d65-a101-095ff0d14ef6
+  claim_hash: 302fca339f3e2606ca8e355c3554c34169a0bc7a12d43bcf8664a6d55d2dede4
+  content: Jim Goodall befriended engineer Ben Rich, the former Director of Lockheed
+    Martin's Skunk Works, the pseudonym for Lockheed Martin's secretive Advanced Developments
+    Projects division where many of America's most advanced aircraft have been designed.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    slug: lockheed-martin-skunk-works
+  - node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
+    title: Jim Goodall
+    slug: jim-goodall
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: null
+  date_end: null
+  location_in_record: ch13:13431-13709
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 2af451f2-6080-4b71-8d7c-946f7bb866da
+  claim_hash: 3b3e44c542953f1c68c694adc1e4e1b6e7d67322951050ac1849f2659816958c
+  content: Ben Rich died in 1995 and had been notorious for dropping mischievous hints
+    that the United States had achieved a huge technological breakthrough that was
+    still being kept under wraps.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: '1995'
+  date_end: null
+  location_in_record: ch13:13720-13896
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 315c7144-d26f-4905-98a5-72d0b9269a3a
+  claim_hash: d1e6e1fd53129ac1cc8a1b86938bd282654ebd5910824d804cb2e37e73ac4dd3
+  content: 'Ben Rich''s last comment to Jim Goodall before he died was: ''Jim, we
+    have things out in the desert that are 50 years beyond what you can comprehend.
+    Not what you think we can make in 50 years but what you can comprehend. And if
+    you''ve seen movies like Star Trek and Star Wars, we''ve been there, done that
+    or decided it wasn''t worth the effort.'''
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
+    title: Jim Goodall
+  provenance_chain:
+    origin_kind: named
+    origin: Ben Rich
+    relay:
+    - Jim Goodall
+  attribution_mode: unknown
+  node_refs:
+  - node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
+    title: Jim Goodall
+    slug: jim-goodall
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: null
+  date_end: null
+  location_in_record: ch13:13905-14290
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9428a5da-66ed-4afc-b24f-d813bc3ffb45
+  claim_hash: ad6361281179efef352787ec50d476186eefc2d36b801362c99d0cd87ac48ea0
+  content: Ben Rich gave an address in March 1993 to a small group of alumni at the
+    University of California Los Angeles engineering school.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Jim Goodall
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 97a0c7de-8956-46e6-bd44-7d4242dabb8c
+    title: USA, California, University of California Los Angeles
+    slug: california-university-of-california-los-angeles-usa
+  - node_id: d1f770a7-2688-4c16-91f8-268d7da12f0d
+    title: 1993-03 Ben Rich UCLA address
+    slug: 1993-03-ben-rich-ucla-address
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: 1993-03
+  date_end: null
+  location_in_record: ch13:14645-14789
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ca76d230-1abf-4304-a27c-60bcad6e7e68
+  claim_hash: 20f4f770c3d2ac3d51eeb6a71d0033c8c25ddfd82d636189869abfeadd845fbb
+  content: Engineer Jan Harzan and aerospace engineer T.L. Keller, who were among
+    the group at the March 1993 Ben Rich UCLA address, attested that Rich admitted
+    the US had figured out how to do interstellar travel, and, without explanation,
+    said there was an error in the equations.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Ben Rich
+    relay:
+    - Jan Harzan and T.L. Keller
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1e26e008-5bfb-4497-a0ce-42cb86d075ae
+    title: Jan Harzan
+    slug: jan-harzan
+  - node_id: 7c27e5a0-3812-4a38-a9ba-9038056db1c4
+    title: T.L. Keller
+    slug: tl-keller
+  - node_id: d1f770a7-2688-4c16-91f8-268d7da12f0d
+    title: 1993-03 Ben Rich UCLA address
+    slug: 1993-03-ben-rich-ucla-address
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: null
+  date_end: null
+  location_in_record: ch13:14798-15043
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 2bb3a5c6-8dbb-4106-9fdb-74198213019a
+  claim_hash: 91bbbcafdd1cec59fed7b19fd584be05f5eca4203e1ae4bb72ad82f666cfefe7
+  content: Jan Harzan described that when Ben Rich ended his talk at the March 1993
+    UCLA address, he showed a slide portraying a black disc zipping off into space.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 1e26e008-5bfb-4497-a0ce-42cb86d075ae
+    title: Jan Harzan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jan Harzan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1e26e008-5bfb-4497-a0ce-42cb86d075ae
+    title: Jan Harzan
+    slug: jan-harzan
+  - node_id: d1f770a7-2688-4c16-91f8-268d7da12f0d
+    title: 1993-03 Ben Rich UCLA address
+    slug: 1993-03-ben-rich-ucla-address
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: null
+  date_end: null
+  location_in_record: ch13:15055-15165
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6c598f0f-5132-4941-adb9-f8758f138cc9
+  claim_hash: c5a77c4ab5d15e7b28bb91938a2901621606f37056d0f7d61cdc097f7eef9001
+  content: Ben Rich's final words to the packed auditorium at the March 1993 UCLA
+    address were, 'We've discovered what it is, and we now have the technology to
+    travel to the stars' - meaning to take extra-terrestrials home.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 1e26e008-5bfb-4497-a0ce-42cb86d075ae
+    title: Jan Harzan
+  provenance_chain:
+    origin_kind: named
+    origin: Ben Rich
+    relay:
+    - Jan Harzan
+  attribution_mode: unknown
+  node_refs:
+  - node_id: d1f770a7-2688-4c16-91f8-268d7da12f0d
+    title: 1993-03 Ben Rich UCLA address
+    slug: 1993-03-ben-rich-ucla-address
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: null
+  date_end: null
+  location_in_record: ch13:15181-15355
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ec70ee4e-3ba2-4605-a1f8-9042e0280d2e
+  claim_hash: 87ebae4443c50fd73c8cb9db0aaf0dc8f3298448b75f057caea7a6d3f29f732c
+  content: Jan Harzan asked Ben Rich once or twice how it works, and Rich didn't really
+    want to go there.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 1e26e008-5bfb-4497-a0ce-42cb86d075ae
+    title: Jan Harzan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jan Harzan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1e26e008-5bfb-4497-a0ce-42cb86d075ae
+    title: Jan Harzan
+    slug: jan-harzan
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: null
+  date_end: null
+  location_in_record: ch13:15361-15439
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 614a3e7d-84fc-4e60-8038-378286cd3e73
+  claim_hash: b9fc30320259a4a7599293f1d36df26cadf3a4c21544362552b0c7204aa7c38d
+  content: After the March 1993 UCLA address, Jan Harzan followed Ben Rich, introduced
+    himself, and asked him how the technology worked; Rich responded by asking 'How
+    does ESP work?' and then said 'That's how it works' when Harzan answered 'all
+    points in space and time are connected'.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 1e26e008-5bfb-4497-a0ce-42cb86d075ae
+    title: Jan Harzan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jan Harzan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1e26e008-5bfb-4497-a0ce-42cb86d075ae
+    title: Jan Harzan
+    slug: jan-harzan
+  - node_id: d1f770a7-2688-4c16-91f8-268d7da12f0d
+    title: 1993-03 Ben Rich UCLA address
+    slug: 1993-03-ben-rich-ucla-address
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: null
+  date_end: null
+  location_in_record: ch13:15646-16170
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 8d7546d8-dfb6-4b20-8341-a2143a84596d
+  claim_hash: ef4c459fb64a3c9efa96cee6219066ad31b7d7dfd846cd14d167a9f0a369043b
+  content: Ross Coulthart suggests believers in the extra-terrestrial explanation
+    for UAPs may have been too credulous in taking Ben Rich literally, since the United
+    States might want its strategic rivals Russia and China to think it has an edge
+    with such advanced technology, so Rich may have been spreading disinformation
+    through a prominent aerospace journalist.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6861382a-014b-46d2-802b-30d1aba6dd2c
+    title: Russia
+    slug: russia
+  - node_id: 95f26306-d457-4b86-8b8e-c83e0906740c
+    title: China
+    slug: china
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    slug: ross-coulthart
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: null
+  date_end: null
+  location_in_record: ch13:16180-16546
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 152eb8c3-6026-455f-b74e-0b815e769bb0
+  claim_hash: 8ec43285f3f13582ea502c0573f91389e1c7ba01b074d92daecb530163927ed6
+  content: Ben Rich dropped a similarly mischievous comment to Testor Corporation
+    stealth aircraft model-kit designer John Andrews.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f9473da-fe19-4e6d-a719-4c325e193f14
+    title: John Andrews
+    slug: john-andrews
+  - node_id: af546fa9-0800-49a2-864f-17d19144d8d0
+    title: Testor Corporation
+    slug: testor-corporation
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: null
+  date_end: null
+  location_in_record: ch13:16558-16724
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 515b95e9-2a29-48cf-8ba1-294ec28523a2
+  claim_hash: 4b5306bf545aa0540b9e41726ac12092d1b77e1f37e29fe51fc8e465552faa7d
+  content: In July 1986, John Andrews wrote to Ben Rich asking him to clarify whether
+    he believed in both man-made UFOs and extra-terrestrial UFOs.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: July 1986 Ben Rich letter to John Andrews
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f9473da-fe19-4e6d-a719-4c325e193f14
+    title: John Andrews
+    slug: john-andrews
+  - node_id: 2efd6a92-26e1-40e3-838e-9abe34c5aca2
+    title: 1986-07 Ben Rich letter to John Andrews
+    slug: 1986-07-ben-rich-letter-to-john-andrews
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: 1986-07
+  date_end: null
+  location_in_record: ch13:16811-16943
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6464fcfd-370a-4229-b423-4a22593014d3
+  claim_hash: fe68b3362f975fb4c35918fd322e824467dd6fb1a3c9bbba088c10f9ab87c9a9
+  content: Ben Rich replied to John Andrews in a July 1986 letter saying, 'Dear John,
+    Yes, I'm a believer in both categories. I feel everything is possible. Many of
+    our man-made UFOs are Un Funded Opportunities.'
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+  provenance_chain:
+    origin_kind: document
+    origin: July 1986 Ben Rich letter to John Andrews
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f9473da-fe19-4e6d-a719-4c325e193f14
+    title: John Andrews
+    slug: john-andrews
+  - node_id: 2efd6a92-26e1-40e3-838e-9abe34c5aca2
+    title: 1986-07 Ben Rich letter to John Andrews
+    slug: 1986-07-ben-rich-letter-to-john-andrews
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: 1986-07
+  date_end: null
+  location_in_record: ch13:16951-17132
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 69d5ae61-f507-4705-9906-660e60181526
+  claim_hash: b9bec2c3947b15bce883e0dfd6b8719bc087fb69aff7265a5aa991e28a62b7f4
+  content: Ben Rich was president of Lockheed Martin Skunk Works in the 1990s and
+    was responsible for modern stealth aircraft.
+  original_excerpt: Ben Rich also, who is the, you know, Skunk Works guy, you know,
+    in the 90s, president of Skunk Works, who is responsible for, you know, the SR-71
+    and, or sorry, he was responsible for modern stealth aircraft.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration by Jesse Michels
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    slug: lockheed-martin-skunk-works
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: null
+  date_end: null
+  location_in_record: 01:17:26.5-01:17:38.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 1502e9b9-d483-4cc4-8aa9-609ee78309c9
+  claim_hash: 0b5aeac1a0b524b29ef7f671c3fb475665f0a98bc1f0b7917fe2d84941095f1b
+  content: Ben Rich wrote about an international corporate board of directors that
+    deals with the UFO issue.
+  original_excerpt: He writes about an international corporate board of directors
+    that deals with the UFO issue.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: named
+    origin: Ben Rich
+    relay:
+    - Jesse Michels's reading
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: null
+  date_end: null
+  location_in_record: 01:17:39.9-01:17:45.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 11a06a18-5a89-4063-967d-81b3e835a1a8
+  claim_hash: 6acf715790ddaac77dde6c8acbb7fc5c54c885d25fe0e11d1c1506b6a90432da
+  content: The Maynard Consortium of Sekret Machines is described very similarly to
+    the international corporate board Ben Rich wrote about and to the Caroline Group
+    encountered by Thomas Townsend Brown.
+  original_excerpt: And so, and then you have Sekret Machines, the Maynard consortium,
+    which is described very similarly to those two things.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michels
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 66b3aa90-36ac-4795-94f4-cf4f3916081d
+    title: Caroline Group
+    slug: caroline-group
+  - node_id: beb9eb48-6799-4f9b-a465-6fccb65370bd
+    title: Secret Machines
+    slug: secret-machines
+  - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
+    title: Thomas Townsend Brown
+    slug: thomas-townsend-brown
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  - node_id: fed91b6d-10d2-4259-a80f-ad4de5874d3e
+    title: Maynard Consortium
+    slug: maynard-consortium
+  date: null
+  date_end: null
+  location_in_record: 01:17:57.0-01:18:02.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 0e79c146-5af5-4b7a-9c2a-0a50d2dc3b1b
+  claim_hash: 4bfc8977eea2f69c661fe2d143688bc437c25d86e2d9490a52e0303ae595197f
+  content: Ben Rich, late in his life, spoke about UFOs and lamented that the UFO
+    issue was governed by an international corporate board, hoping instead that it
+    would be brought under the umbrella of the American intelligence and aerospace
+    world, according to Jesse Michels.
+  original_excerpt: Ben Rich was saying, well, he was saying at the end of his life,
+    he was talking about UFOs and he was lamenting the fact that the UFO issue was
+    governed by this international corporate board and was hoping that it would be
+    taken under the kind of umbrella of, you know, American Intel and aerospace world
+    more.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: named
+    origin: Ben Rich
+    relay:
+    - Jesse Michels
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: null
+  date_end: null
+  location_in_record: 01:50:40.2-01:50:59.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 1173b646-497b-4827-b785-24d56242530a
+  claim_hash: 0d38ab1b6c0bdb24be2b18fe96c29c6127f32bff8e00cfd81a6d765e46fee7f1
+  content: Ben Rich was at the tip of the spear in building reconnaissance aircraft
+    for the Central Intelligence Agency and advanced American defence technology,
+    in Jesse Michels's characterisation.
+  original_excerpt: you hear a guy who's at the tip of the spear when it comes to
+    building recon planes for the CIA and, you know, very advanced American defense
+    tech
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michels
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    slug: lockheed-martin-skunk-works
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: null
+  date_end: null
+  location_in_record: 01:51:02.0-01:51:11.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 775ba5c8-944a-4a54-a83b-7beeabd8a247
+  claim_hash: 6c446225348b28eae9d9134a28b89309e04f120876309a98e12e4457f0e6d4f4
+  content: Ben Rich said there was something international above him that governed
+    the UFO issue, according to Jesse Michels.
+  original_excerpt: And he's saying that there's something international above him
+    that governs the UFO issue.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: named
+    origin: Ben Rich
+    relay:
+    - Jesse Michels
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: null
+  date_end: null
+  location_in_record: 01:51:11.6-01:51:17.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

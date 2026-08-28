@@ -1,0 +1,547 @@
+schema: anomalica/brief/1
+brief_hash: c9338aaf4c857bd338ecc117dbe8791666408fde2315ba89c2f89d887192f103
+page:
+  kind: entity
+  node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+  node_type: topic
+  title: sleep paralysis
+  slug: sleep-paralysis
+  claim_count: 12
+  claim_count_total: 12
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+  title: Peter Khoury
+  node_type: person
+  slug: peter-khoury
+  shared_claims: 5
+- node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+  title: Ronald Siegel
+  node_type: person
+  slug: ronald-siegel
+  shared_claims: 4
+- node_id: 3ff75793-423c-4333-8402-d5c543074091
+  title: Bill Chalker
+  node_type: person
+  slug: bill-chalker
+  shared_claims: 3
+- node_id: 027d3340-be40-4241-9e1f-153b9bea8c62
+  title: John O'Neill
+  node_type: person
+  slug: john-oneill
+  shared_claims: 3
+- node_id: 6f1d7102-1298-4638-ab0e-e4a1523d0e25
+  title: hypnagogic imagery
+  node_type: topic
+  slug: hypnagogic-imagery
+  shared_claims: 2
+- node_id: 496a6b87-409a-48ae-a59a-2a2fbfa48c07
+  title: hypnopompic hallucination
+  node_type: topic
+  slug: hypnopompic-hallucination
+  shared_claims: 2
+- node_id: a66d3909-374c-40ae-b3e5-97762c0f5eb1
+  title: Australian Skeptics
+  node_type: organisation
+  slug: australian-skeptics
+  shared_claims: 1
+- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+  title: Chris Ramsay
+  node_type: person
+  slug: chris-ramsay
+  shared_claims: 1
+- node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+  title: Erik Nanstiel
+  node_type: person
+  slug: erik-nanstiel
+  shared_claims: 1
+- node_id: 530511b4-8f58-40fa-927a-2c2aef39d54b
+  title: Erik Nanstiel 1994 grey encounter
+  node_type: event
+  slug: erik-nanstiel-1994-grey-encounter
+  shared_claims: 1
+- node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+  title: alien abduction
+  node_type: topic
+  slug: alien-abduction
+  shared_claims: 1
+claims:
+- claim_id: 8180101d-c7f1-4b61-859e-50db51c0c959
+  claim_hash: 0654e68619dd5706c58382a5c6f0691bc6a5a4c7ef0ee27f4da9638f748995c6
+  content: John O'Neill, a member of Australian Skeptics, argued that sleep paralysis
+    could explain Peter Khoury's paralysis, hallucination could explain his experience
+    with extraterrestrials, falling asleep could explain his missing time, and the
+    puncture wound and scab could be from a pimple, insect bite, or similar cause.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 027d3340-be40-4241-9e1f-153b9bea8c62
+    title: John O'Neill
+  provenance_chain:
+    origin_kind: speaker
+    origin: John O'Neill
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 027d3340-be40-4241-9e1f-153b9bea8c62
+    title: John O'Neill
+    slug: john-oneill
+  - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+    title: sleep paralysis
+    slug: sleep-paralysis
+  - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+    slug: peter-khoury
+  - node_id: a66d3909-374c-40ae-b3e5-97762c0f5eb1
+    title: Australian Skeptics
+    slug: australian-skeptics
+  date: null
+  date_end: null
+  location_in_record: ch8:17206-17574
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 8b3947f9-f792-4dc4-bd94-e5303a4a4fae
+  claim_hash: 3a2ecb80d9905c9531715659aa3e3af4030496e135d670f0701bcd4261421c4f
+  content: John O'Neill accepted that Peter Khoury's experience was genuine, having
+    had a sleep paralysis episode himself involving a vague sense of another entity
+    in the room without seeing what it was.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 027d3340-be40-4241-9e1f-153b9bea8c62
+    title: John O'Neill
+  provenance_chain:
+    origin_kind: speaker
+    origin: John O'Neill
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 027d3340-be40-4241-9e1f-153b9bea8c62
+    title: John O'Neill
+    slug: john-oneill
+  - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+    title: sleep paralysis
+    slug: sleep-paralysis
+  - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+    slug: peter-khoury
+  date: null
+  date_end: null
+  location_in_record: ch8:17586-17856
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 9c4c1862-2906-4b39-80c1-01fd95e5dc82
+  claim_hash: f49705b2fbf335c3e6804c63b245a3c961130ee36d4139152214ef5de1991f45
+  content: Bill Chalker considers John O'Neill's vague sleep-paralysis description
+    to fall far short of the detailed and ordered description Peter Khoury gives of
+    his own experience.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 027d3340-be40-4241-9e1f-153b9bea8c62
+    title: John O'Neill
+    slug: john-oneill
+  - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+    title: sleep paralysis
+    slug: sleep-paralysis
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+    slug: peter-khoury
+  date: null
+  date_end: null
+  location_in_record: ch8:17866-17972
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: fc21cbf0-c210-49b8-aade-6a1bdd6061aa
+  claim_hash: bcab05e95633c0d516978d3f3645f033ac7c55bac262505a408d952dc00c78bb
+  content: Bill Chalker considers that Peter Khoury was not asleep nor in the hypnagogic
+    state during his encounter, and that his experience had an ordered, consciously
+    recollected sequence unlike vague sensory fragments of fractured sleep.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+    title: sleep paralysis
+    slug: sleep-paralysis
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: 6f1d7102-1298-4638-ab0e-e4a1523d0e25
+    title: hypnagogic imagery
+    slug: hypnagogic-imagery
+  - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+    slug: peter-khoury
+  date: null
+  date_end: null
+  location_in_record: ch8:18068-18319
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: aab07d62-5512-4511-aa9d-82f3501c0102
+  claim_hash: 224ecd684fb30a108f1044ca77130fe9990cc1e7af2a4ef364630cf16421ac55
+  content: Bill Chalker considers that the physical marks on Peter Khoury, including
+    the head injury from the needle and the biopsy-like mark on his leg, cannot be
+    accounted for as a classic sleep paralysis episode or hypnagogic imagery.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+    title: sleep paralysis
+    slug: sleep-paralysis
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: 6f1d7102-1298-4638-ab0e-e4a1523d0e25
+    title: hypnagogic imagery
+    slug: hypnagogic-imagery
+  - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+    slug: peter-khoury
+  date: null
+  date_end: null
+  location_in_record: ch8:18394-18697
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 581b36ae-a6a2-46bf-9441-a861b86f78ff
+  claim_hash: ca1f48abf9faf32f72e3b1804fab812c13711358af520ad9968a9e47a32e5cbc
+  content: Ronald Siegel experienced his own sleep paralysis episode involving a sensation
+    of weight on his chest and a "murky presence" with a "dusty odor" that approached
+    his bed and communicated in a manner like English spoken backward.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+    title: Ronald Siegel
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ronald Siegel
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+    title: sleep paralysis
+    slug: sleep-paralysis
+  - node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+    title: Ronald Siegel
+    slug: ronald-siegel
+  date: null
+  date_end: null
+  location_in_record: ch8:19063-19312
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 02e81fa6-f49e-4cd1-b6e7-35413cf8ef72
+  claim_hash: afd580f72374ec2d975018356f28a5c31f68f3c7433175420b95159799537212
+  content: Ronald Siegel described the presence in his sleep paralysis episode as
+    straddling his body and folding itself along the curve of his back, with a texture
+    of sexual intoxication and terror in the room.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+    title: Ronald Siegel
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ronald Siegel
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+    title: sleep paralysis
+    slug: sleep-paralysis
+  - node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+    title: Ronald Siegel
+    slug: ronald-siegel
+  date: null
+  date_end: null
+  location_in_record: ch8:19323-19473
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 7b52d724-3f69-4b3a-8029-7fee5e8817b7
+  claim_hash: 3dbe7cc6e14fdae0e5bf1b668b344b4d446d2b0ec4101c09a526ee7b4b96a5b3
+  content: Ronald Siegel began to slip into unconsciousness during his sleep paralysis
+    episode, but the voice stopped and he sensed the presence slowly leave the room.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+    title: Ronald Siegel
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ronald Siegel
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+    title: sleep paralysis
+    slug: sleep-paralysis
+  - node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+    title: Ronald Siegel
+    slug: ronald-siegel
+  date: null
+  date_end: null
+  location_in_record: ch8:19480-19607
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 088e8530-887d-4885-98e2-8cacb02e4435
+  claim_hash: 7e5ace7f3a6adfeb8ff9dde2f57c647e8e597c5ae0dc2e45f2e70249060fa784
+  content: Ronald Siegel concluded that his episode was the product of sleep paralysis
+    and hypnopompic hallucination, mediated by his own images, thoughts, fantasies,
+    memories, and dreams.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+    title: Ronald Siegel
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ronald Siegel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+    title: sleep paralysis
+    slug: sleep-paralysis
+  - node_id: 496a6b87-409a-48ae-a59a-2a2fbfa48c07
+    title: hypnopompic hallucination
+    slug: hypnopompic-hallucination
+  - node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+    title: Ronald Siegel
+    slug: ronald-siegel
+  date: null
+  date_end: null
+  location_in_record: ch8:19614-19836
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: d11a52ae-c58b-4747-ae4e-c89769c2ea7f
+  claim_hash: b4a328590df0266dc975f7194974afda7206f8657018a2955a5c12f63bfee822
+  content: A very broad cross-section of the population experiences sleep paralysis
+    and hypnopompic hallucination phenomena, and these experiences are not due to
+    psychological problems.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+    title: sleep paralysis
+    slug: sleep-paralysis
+  - node_id: 496a6b87-409a-48ae-a59a-2a2fbfa48c07
+    title: hypnopompic hallucination
+    slug: hypnopompic-hallucination
+  date: null
+  date_end: null
+  location_in_record: ch8:19845-19976
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 1964d216-f882-4fdf-935f-a94fbb88672b
+  claim_hash: 57b3c19ef5a7f9513751e4fde93e2c55ff627f2d73dc48706a3aae1b2f23ad4d
+  content: During his 1994 grey encounter at about 06:30, Erik Nanstiel became conscious
+    within his sleep in a lucid dream state, found he could not open his eyes or move
+    his body, and later wondered whether it could have been sleep paralysis as it
+    fit the symptoms.
+  original_excerpt: maybe 6.30 in the morning... I had become conscious in my sleep.
+    So it was a lucid dream state... And I couldn't open my eyes... I tried to move
+    my body. I couldn't move my body... was it, it was like, could that have been
+    sleep paralysis? I mean, it kind of fits the symptoms
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+    slug: erik-nanstiel
+  - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+    title: sleep paralysis
+    slug: sleep-paralysis
+  - node_id: 530511b4-8f58-40fa-927a-2c2aef39d54b
+    title: Erik Nanstiel 1994 grey encounter
+    slug: erik-nanstiel-1994-grey-encounter
+  date: '1994-08-20'
+  date_end: null
+  location_in_record: 00:32:13.5-00:33:04.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+    record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik
+      Nanstiel | DEBRIEFED ep. 85'
+    record_date: '2026-04-24'
+    record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+    content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+    friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+- claim_id: 388cea29-a282-4323-9887-20c5c6ab2035
+  claim_hash: 12e8a24fb55d44fa8fb4e97009127fda8c9c96a67fdd9c8808ea75b1f1b753a9
+  content: The symptoms of sleep paralysis (occurring at night, being awake, paralysed,
+    and feeling real) resemble alien abduction experiences, making it a fair assumption
+    for some cases.
+  original_excerpt: there are similarities to draw lines between sleep paralysis,
+    especially with it's at night, you're up, you're paralyzed, it feels real. Like
+    all of these are symptoms of sleep paralysis
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+    title: sleep paralysis
+    slug: sleep-paralysis
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: alien abduction
+    slug: alien-abduction
+  date: null
+  date_end: null
+  location_in_record: 02:27:58.4-02:28:12.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+    record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik
+      Nanstiel | DEBRIEFED ep. 85'
+    record_date: '2026-04-24'
+    record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+    content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+    friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2

@@ -1,0 +1,1160 @@
+schema: anomalica/brief/1
+brief_hash: 6790481cd78887cb6fe68adad5383891411823242869a8e8a24fb8cd9f105582
+page:
+  kind: entity
+  node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+  node_type: organisation
+  title: The Monroe Institute
+  slug: the-monroe-institute
+  claim_count: 28
+  claim_count_total: 28
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+  title: Robert Monroe
+  node_type: person
+  slug: robert-monroe
+  shared_claims: 7
+- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+  title: Chris Ramsay
+  node_type: person
+  slug: chris-ramsay
+  shared_claims: 4
+- node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+  title: Joseph McMoneagle
+  node_type: person
+  slug: joseph-mcmoneagle
+  shared_claims: 4
+- node_id: 252d3fc0-1833-465a-b8b5-954936455fc3
+  title: Gateway Experience (Monroe Institute program)
+  node_type: project
+  slug: gateway-experience-monroe-institute-program
+  shared_claims: 3
+- node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+  title: Out-of-Body Experience (OBE)
+  node_type: topic
+  slug: out-of-body-experience-obe
+  shared_claims: 3
+- node_id: c761ff90-2223-4a39-b0be-4dfd719f36d7
+  title: Monroe Institute Explorer Team
+  node_type: project
+  slug: monroe-institute-explorer-team
+  shared_claims: 2
+- node_id: b04d3560-eb7f-4aca-a163-dc7075f12f12
+  title: Nelson Delis
+  node_type: person
+  slug: nelson-delis
+  shared_claims: 2
+- node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
+  title: The Stargate Project
+  node_type: project
+  slug: the-stargate-project
+  shared_claims: 2
+- node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+  title: Ed Dames
+  node_type: person
+  slug: ed-dames
+  shared_claims: 1
+- node_id: d58563c2-081b-4dcb-b3e2-8b7f64c5b446
+  title: Gateway Voyage seminar
+  node_type: event
+  slug: gateway-voyage-seminar
+  shared_claims: 1
+- node_id: c3e9bb65-7e60-4ffd-a7b8-dc49ba4d39ae
+  title: Graham Nichols
+  node_type: person
+  slug: graham-nichols
+  shared_claims: 1
+- node_id: f50e4ab1-4b2a-4800-bf62-08b65a58c0c4
+  title: Hemi-Sync
+  node_type: topic
+  slug: hemi-sync
+  shared_claims: 1
+- node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+  title: Jesse Mitchells
+  node_type: person
+  slug: jesse-mitchells
+  shared_claims: 1
+- node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+  title: Julia Mossbridge
+  node_type: person
+  slug: julia-mossbridge
+  shared_claims: 1
+- node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+  title: Project STARGATE
+  node_type: project
+  slug: project-stargate
+  shared_claims: 1
+- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+  title: Remote Viewing (RV)
+  node_type: topic
+  slug: remote-viewing-rv
+  shared_claims: 1
+- node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+  title: USA, Maryland, Fort Meade
+  node_type: place
+  slug: maryland-fort-meade-usa
+  shared_claims: 1
+- node_id: 35e27546-8144-4397-b67e-8e851620904a
+  title: USA, Virginia, Nelliesford
+  node_type: place
+  slug: virginia-nelliesford-usa
+  shared_claims: 1
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 1
+claims:
+- claim_id: a65a29f4-2a39-4e68-bf7d-c23b534bb304
+  claim_hash: ee502aa5b0372bdb164e19050a3d7bce28917eaddcaef2657b25305c67406f92
+  content: In the fall of 1983, Joseph McMoneagle attended a Gateway Voyage seminar
+    at the Monroe Institute in Virginia and afterward asked Robert Monroe for help
+    controlling his Out-of-Body Experiences.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  - node_id: d58563c2-081b-4dcb-b3e2-8b7f64c5b446
+    title: Gateway Voyage seminar
+    slug: gateway-voyage-seminar
+  date: '1983'
+  date_end: null
+  location_in_record: ch25:16413-16546
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 552fdbba-5552-42dc-a737-ef8a72edc346
+  claim_hash: f98f5a5b6d3acd313a1bd6a7dddd0a5a3d33d9f04b10ddfb5c347ea516f8740b
+  content: Robert Monroe is the founder and executive director of the Monroe Institute.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: ch2:444-499
+  evidence:
+    score: null
+    independent_sources: 2
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: d0d6b83a-bc5f-41ec-b392-c66f54b6a245
+  claim_hash: 4e6a3e210d42ea5b0bc7efb17a274303fb8fc69a752a3c1d6e6e55018b67ef7e
+  content: The Monroe Institute is internationally known for its work on the effects
+    of sound wave forms on human behaviour.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: ch2:510-589
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: e635f2f3-9217-41f8-8755-377a9d570f9a
+  claim_hash: 52fad751d56fa4098bc06c680c1d3afa4e71abc1fb70018ed14b5a494694ae45
+  content: Robert Monroe plays an active part in the work of the Monroe Institute.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: ch2:803-861
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: caa04f53-9987-462a-b0a4-18d7b391a9e3
+  claim_hash: 0a38bc6d73a49a98b01f2b227477af141d76b6d4800b775a5820a13e52692cdc
+  content: A research facility, the Monroe Institute, was formed and became active
+    in 1972.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: '1972'
+  date_end: null
+  location_in_record: ch7:4626-4683
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 412c3941-84ba-401e-b50a-dd0f94871cb2
+  claim_hash: d414e8997871babbcad084468a86d3f661e1612549591a2f4c4191702d6d42e0
+  content: The Monroe Institute's work has attracted the interest and co-operation
+    of physicists, psychologists, biochemists, engineers, educators, psychiatrists,
+    corporate presidents, and statisticians, many of whom serve on its board of advisers.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: ch7:4690-4895
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 2ec427b5-087e-49f1-83d7-74fc346206f4
+  claim_hash: a28f2f1f01c7277569d95949d2e95bc5150beb3e5f8880e8e48618eaf24ce6dd
+  content: The Monroe Institute received over eleven thousand pieces of mail by the
+    time this foreword was written.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: ch7:4905-4995
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 7b15ec5e-e001-427c-b1f1-7a36e9dbd8d3
+  claim_hash: 7333f5ac0111ffbb80d0c8cd6125399ae3f8f199d9bd613e3db0d0afa2faf9ba
+  content: Over seven hundred people had participated in the Monroe Institute's research
+    and experimental training programme by the time this foreword was written.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: ch7:5123-5210
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 2242037a-5429-4671-bbf3-6d9d56151e84
+  claim_hash: 626803400ef8e759567ef0ab22bdd5e3a5a5d0d00d81b9cecb36e16d08ef9830
+  content: The Monroe Institute Explorer Team had six members.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  - node_id: c761ff90-2223-4a39-b0be-4dfd719f36d7
+    title: Monroe Institute Explorer Team
+    slug: monroe-institute-explorer-team
+  date: null
+  date_end: null
+  location_in_record: ch7:5219-5251
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 8998d5f5-2296-46ec-9b83-8024b14835e5
+  claim_hash: 5a8f2b64a9223437d0d4a91c882dca3b68021e6f2d360cf70399807b4935e1e2
+  content: Around fifty more people were waiting for the Monroe Institute's facility
+    to complete their final indoctrination at the time this foreword was written.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: ch7:5260-5371
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 91ecf65c-8cf2-406a-98ad-d340b45ac8c8
+  claim_hash: 48fe8bca11126903940a7bfbf01d3dd4af0bbc68325cf50791eaa850b2fd3b47
+  content: Training programmes at the Monroe Institute may qualify for college and
+    university level credit.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: ch7:5511-5610
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: b3cd50e8-6b4f-40f8-b5ca-3182b5567021
+  claim_hash: 2e4eed6c5c22ef4b280c63b374b66c12572f4b2de65967687423572358bd4ca7
+  content: The Monroe Institute Explorer Team of six members was bringing back data
+    faster than the Monroe Institute could process it.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  - node_id: c761ff90-2223-4a39-b0be-4dfd719f36d7
+    title: Monroe Institute Explorer Team
+    slug: monroe-institute-explorer-team
+  date: null
+  date_end: null
+  location_in_record: ch7:5629-5755
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 41f89d54-ed22-4bae-8511-601c81902457
+  claim_hash: 7b20338dd882108bb4f1c5a240de81c78a1d33b2588f31d86f5d97853938d4ed
+  content: Ed Dames used Bob Monroe's program on altered states and out-of-body experiences
+    to evaluate potential recruits for Project Stargate.
+  original_excerpt: One thing that we did use, and I especially as an operations officer,
+    to evaluate potential recruits for the program was the Bob Monroe's program developing
+    altered states and out-of-bodies.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ed Dames
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+    slug: ed-dames
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: 00:37:42.6-00:37:55.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 355e889c-1821-47af-a08f-484a9c83c15a
+  claim_hash: 5116220a230919d5282189c7cc652fcb1f8ca863fcd75744576d0b60876cbf0f
+  content: Joseph McMoneagle, referred to as remote viewer number 001, lived in Nelliesford,
+    Virginia, the same location as the Monroe Institute.
+  original_excerpt: And not by coincidence, also the location of Joe McMoneagle, remote
+    viewer number 001. It was time to head to Nelliesford, Virginia.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narrator
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 35e27546-8144-4397-b67e-8e851620904a
+    title: USA, Virginia, Nelliesford
+    slug: virginia-nelliesford-usa
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: 00:38:12.1-00:38:19.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 9bf1cfc0-9edd-459a-ab30-837e8c57a7f6
+  claim_hash: c055f860f632fc295656a6565da4ed0d56bf268bdea930cae1ec01474eb8174e
+  content: Nelson Delis signed up for a Gateway Experience program at the Monroe Institute
+    after the narrator.
+  original_excerpt: Nelson decided to sign up for the following Gateway program after
+    me, which we'll talk about more on an upcoming podcast.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 252d3fc0-1833-465a-b8b5-954936455fc3
+    title: Gateway Experience (Monroe Institute program)
+    slug: gateway-experience-monroe-institute-program
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  - node_id: b04d3560-eb7f-4aca-a163-dc7075f12f12
+    title: Nelson Delis
+    slug: nelson-delis
+  date: null
+  date_end: null
+  location_in_record: 00:22:14.7-00:22:20.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9d72a455-1dcf-44ac-8093-2fe566032264
+    record_title: I LEFT MY BODY - The Gateway Experience (Part 3)
+    record_date: '2024-08-24'
+    record_reference: https://www.youtube.com/watch?v=GRqPnRcfMIY
+    content_hash: sha256:4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972be64eb926
+    friendly_name: null
+- claim_id: d7dedc4e-2979-4bda-9d4b-ceac02765000
+  claim_hash: 596e38b92c9a8d04f3b61e606965e8c7217b5409bb94b54a0685a687a544e28f
+  content: On August 7th at 5:35 a.m., Graham Nichols got up, returned to bed, put
+    on headphones, and opened the Expand app, a Monroe Institute app featuring binaural
+    beats and Monroe sound science technology.
+  original_excerpt: August 7th, 5.35 a.m., I get up to go to the bathroom, come back
+    into bed... I put the headphones on, and I open my Expand app, which is the app
+    from Monroe Institute that has, you know, the sort of binaural beats and this
+    Monroe sound science.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c3e9bb65-7e60-4ffd-a7b8-dc49ba4d39ae
+    title: Graham Nichols
+  provenance_chain:
+    origin_kind: speaker
+    origin: Graham Nichols
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  - node_id: c3e9bb65-7e60-4ffd-a7b8-dc49ba4d39ae
+    title: Graham Nichols
+    slug: graham-nichols
+  date: '2024-08-07'
+  date_end: null
+  location_in_record: 00:30:17.2-00:30:34.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9d72a455-1dcf-44ac-8093-2fe566032264
+    record_title: I LEFT MY BODY - The Gateway Experience (Part 3)
+    record_date: '2024-08-24'
+    record_reference: https://www.youtube.com/watch?v=GRqPnRcfMIY
+    content_hash: sha256:4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972be64eb926
+    friendly_name: null
+- claim_id: a456562a-a393-429f-a496-cc9d4596615a
+  claim_hash: c571f618bccef5d7258b5d9f037435896b34b928f7a42188b45126011e6cbfbe
+  content: Nelson Delis performed a take-home exercise from the Monroe Institute's
+    Gateway Experience program, a 45-minute guided meditation.
+  original_excerpt: I should do one of the... exercises I got from, it was like a
+    take home exercise from the Monroe Institute, the Gateway Experience. It's basically
+    a 45 minute guided meditation.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: b04d3560-eb7f-4aca-a163-dc7075f12f12
+    title: Nelson Delis
+  provenance_chain:
+    origin_kind: speaker
+    origin: Nelson Delis
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 252d3fc0-1833-465a-b8b5-954936455fc3
+    title: Gateway Experience (Monroe Institute program)
+    slug: gateway-experience-monroe-institute-program
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  - node_id: b04d3560-eb7f-4aca-a163-dc7075f12f12
+    title: Nelson Delis
+    slug: nelson-delis
+  date: null
+  date_end: null
+  location_in_record: 00:30:44.0-00:30:53.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9d72a455-1dcf-44ac-8093-2fe566032264
+    record_title: I LEFT MY BODY - The Gateway Experience (Part 3)
+    record_date: '2024-08-24'
+    record_reference: https://www.youtube.com/watch?v=GRqPnRcfMIY
+    content_hash: sha256:4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972be64eb926
+    friendly_name: null
+- claim_id: 1d451c78-1e40-42be-99c9-9b4421e1e7fd
+  claim_hash: 02fa50e3984ae03710556c44165e5363a3d15ead76dfb87fd4a6c5c54de3ad73
+  content: An individual underwent one week of intensive training under the guidance
+    of Monroe Institute instructors as part of an evaluation of the Gateway process.
+  original_excerpt: Over the course of one week, I underwent intensive training under
+    the guidance of the Monroe Institute instructors.
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: an intelligence evaluation report of the Gateway process
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 252d3fc0-1833-465a-b8b5-954936455fc3
+    title: Gateway Experience (Monroe Institute program)
+    slug: gateway-experience-monroe-institute-program
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: 00:36:05.6-00:36:10.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9d72a455-1dcf-44ac-8093-2fe566032264
+    record_title: I LEFT MY BODY - The Gateway Experience (Part 3)
+    record_date: '2024-08-24'
+    record_reference: https://www.youtube.com/watch?v=GRqPnRcfMIY
+    content_hash: sha256:4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972be64eb926
+    friendly_name: null
+- claim_id: e160bb2e-5b7b-4dd9-8448-00a315ebd421
+  claim_hash: 692fbbdd16c5167fa8da2965e379bb2e2c837f079bccf5ba892a31eeff0979f9
+  content: Jesse Michaels attended the Monroe Institute prior to 2024-11-13.
+  original_excerpt: Ever since I got back from the Monroe Institute, take this as
+    you will, but 11-11 has been showing up once a day at least
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michaels
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    slug: jesse-mitchells
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: 00:02:03.6-00:02:10.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+    record_title: UAPs in Washington - I wasn't supposed to be there..
+    record_date: '2024-11-24'
+    record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+    content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+    friendly_name: null
+- claim_id: 15d5d728-94ca-4807-ab25-b9fc6888228a
+  claim_hash: 1db68671430c2ce95f488ac83740b5fcf3d7e99d5e0699ed8fe3405883b05675
+  content: Whitley Strieber never met Robert Monroe, but attended a gateway programme
+    at The Monroe Institute many years before 2026.
+  original_excerpt: I wish I could say I met Bob Monroe, Robert Monroe. briefly at
+    the gateway I went to many years ago.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: 00:24:42.1-00:24:51.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
+      | Reality Check Rewind
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+    friendly_name: null
+- claim_id: 70b7e131-7d94-4e02-b95f-08921d759bc2
+  claim_hash: 3b549c8f24be26e02185433605e3ac38107347617c25ac06084824bbaa0bbe5e
+  content: Robert Monroe is the founder of The Monroe Institute.
+  original_excerpt: Bob Munro is the founder of the Munro Institute
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration by Ross Coulthart
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: 00:24:54.1-00:24:57.2
+  evidence:
+    score: null
+    independent_sources: 2
+  provenance:
+    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
+      | Reality Check Rewind
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+    friendly_name: null
+- claim_id: 5fe4b355-8cdd-4959-b145-492f74e71924
+  claim_hash: 7e15374546539df3bf3889138d51b919841031c5150ddb421cfc7b6de241803a
+  content: The Monroe Institute championed the idea of using a particular type of
+    Hemi-Sync meditation to connect with something else.
+  original_excerpt: which championed the idea of using a particular type of hemisync
+    meditation to connect with something else
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration by Ross Coulthart
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  - node_id: f50e4ab1-4b2a-4800-bf62-08b65a58c0c4
+    title: Hemi-Sync
+    slug: hemi-sync
+  date: null
+  date_end: null
+  location_in_record: 00:24:58.3-00:25:07.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
+      | Reality Check Rewind
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+    friendly_name: null
+- claim_id: 0f4a901c-ff04-445e-b2c4-eb99dabb4884
+  claim_hash: 5c8c0f669be47ff52b0e9405d9a772239ae9acd30bbe3810a3ce97fabb667862
+  content: Julia Mossbridge considers that the Monroe Institute does great things
+    in helping people and that its work can be very healing.
+  original_excerpt: And I know that the Monroe Institute does great things with helping
+    people. It can be very healing.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: 00:35:46.5-00:35:52.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: ce74fe32-8a20-4699-99d9-97af5cb78cb8
+  claim_hash: bf72d1b51aeac6a0dae98edb32d5fe79889910e26f8b3da9e512c25533d2447a
+  content: Chris Ramsay's first out-of-body experiences happened at his home, not
+    at the Monroe Institute.
+  original_excerpt: 'Julia Mossbridge: were you at Monroe? Chris Ramsay: nope i was
+    at home and i''d never heard about this stuff before'
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsay
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    slug: out-of-body-experience-obe
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: 00:38:55.7-00:38:59.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 6d6628a4-30a2-48f0-9505-950ee2722661
+  claim_hash: 82ae7715d66ddb36bfbabd63d92c052c291b2b8b17d520b371f9b4edc1c31f09
+  content: Joseph McMoneagle was sent on weekend retreats to the Monroe Institute
+    during his time on the Stargate Project to test whether leaving his body would
+    make remote viewing sessions more accurate.
+  original_excerpt: I remembered a conversation I had with Joe McMoneagle, Joseph
+    McMoneagle. during the time that he was at Stargate, that they had sent him, you
+    know, on weekend retreats to the Monroe Institute to see if he can leave his body
+    and to see if that would be more conducive for a more accurate remote viewing
+    session.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: named
+    origin: Joseph McMoneagle
+    relay:
+    - a conversation with Chris Ramsay
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    slug: out-of-body-experience-obe
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  - node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
+    title: The Stargate Project
+    slug: the-stargate-project
+  date: null
+  date_end: null
+  location_in_record: 00:41:29.5-00:41:46.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 23dd5ec0-79c7-4414-9e3f-276f88b19a65
+  claim_hash: 97280fa7d8cbb557e0e3858011b19c3ab8a059fdf658a7a9343b18ccfec70e36
+  content: Joseph McMoneagle travelled from Fort Meade to the Monroe Institute at
+    weekends for out-of-body training during the Stargate Project.
+  original_excerpt: And so he would do this over the weekends, right? From Fort Meade
+    and go there.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: named
+    origin: Joseph McMoneagle
+    relay:
+    - a conversation with Chris Ramsay
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  - node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
+    title: The Stargate Project
+    slug: the-stargate-project
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: 00:41:47.5-00:41:49.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: c20b0f60-16f0-4be5-a301-b9ea8c696251
+  claim_hash: 18ff96b11d309fa7eff8853cb1a32d1c9856cfcc9d9f6e54ba9c7044d394313d
+  content: During his out-of-body experience Chris Ramsay could not push his hand
+    through the window as taught at the Monroe Institute, so he moved to open the
+    window instead.
+  original_excerpt: so I was trying to go through the window and I couldn't get my
+    hand through the window. Like they taught me in Monroe. ... And then I went to
+    go open the window in the out of body state.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsay
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    slug: out-of-body-experience-obe
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: 02:05:08.5-02:05:19.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: d75cb72f-dd3e-420e-9cf9-4cf958ce1a32
+  claim_hash: 6aa1c9dd1c50d7ef08a2c9ba20123d0f6706cc964aca28147f996a78665ded37
+  content: At the Monroe Institute, Chris Ramsay heard a talk about meditating on
+    past trauma, going back to a traumatic event or one with an unwanted outcome,
+    making the other decision and living out the different outcome, from which participants
+    would feel better.
+  original_excerpt: when i was at Monroe there was a brief uh talk because they they'd
+    also mentioned something uh along the lines of you know, meditating on your past
+    trauma, going back, healing yourself. One thing they would do is have you go back
+    to this, like, whether it's traumatic or whether it was just an event you would
+    rather have a different outcome to and live the different outcome.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsay
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: 02:29:36.1-02:29:58.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null

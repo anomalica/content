@@ -1,0 +1,290 @@
+schema: anomalica/brief/1
+brief_hash: 7458565b807e1fa337e94aec0548d52c034dd55dc996819b451a7a9736f35015
+page:
+  kind: entity
+  node_id: 7aed4677-7814-4963-9610-13d46bd97440
+  node_type: person
+  title: Fidel Castro
+  slug: fidel-castro
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 2f2a8882-079b-429e-9aaf-37d1fdc53cee
+  title: Luis D. Elizondo III (father)
+  node_type: person
+  slug: luis-d-elizondo-iii-father
+  shared_claims: 4
+- node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
+  title: Bay of Pigs Invasion 1961
+  node_type: event
+  slug: bay-of-pigs-invasion-1961
+  shared_claims: 2
+- node_id: 80cba131-c480-415b-9ed6-956f04104f73
+  title: Brigade 2506
+  node_type: organisation
+  slug: brigade-2506
+  shared_claims: 1
+- node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+  title: Cuba
+  node_type: place
+  slug: cuba
+  shared_claims: 1
+- node_id: 077af7a3-0641-40d7-bfed-f8b97d1effdb
+  title: Fulgencio Batista
+  node_type: person
+  slug: fulgencio-batista
+  shared_claims: 1
+- node_id: 801a638a-adaa-4f68-8045-9b526041640b
+  title: Havana Military Academy
+  node_type: organisation
+  slug: havana-military-academy
+  shared_claims: 1
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 1
+- node_id: d0de16db-976b-4b09-9da0-6079f971742c
+  title: Marita Lorenz
+  node_type: person
+  slug: marita-lorenz
+  shared_claims: 1
+claims:
+- claim_id: 1676b1e1-5962-4eb6-80e8-93f9d1aa50d1
+  claim_hash: 992401e3544a321c7340a9a577f905679bfca884a67c07c554cb4253fbb0484b
+  content: Luis D. Elizondo III fought with Fidel Castro against the Cuban dictator
+    Fulgencio Batista in his youth.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 077af7a3-0641-40d7-bfed-f8b97d1effdb
+    title: Fulgencio Batista
+    slug: fulgencio-batista
+  - node_id: 2f2a8882-079b-429e-9aaf-37d1fdc53cee
+    title: Luis D. Elizondo III (father)
+    slug: luis-d-elizondo-iii-father
+  - node_id: 7aed4677-7814-4963-9610-13d46bd97440
+    title: Fidel Castro
+    slug: fidel-castro
+  date: null
+  date_end: null
+  location_in_record: ch11:5726-5839
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: ca010f77-b403-497b-be93-5705da8f9853
+  claim_hash: 55552eb658872783fe784422ef69cebc056d19481855841d68c8410fbbe6092a
+  content: Luis D. Elizondo III attended the Havana Military Academy, which Fidel
+    Castro's son Fidelito had also attended.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2f2a8882-079b-429e-9aaf-37d1fdc53cee
+    title: Luis D. Elizondo III (father)
+    slug: luis-d-elizondo-iii-father
+  - node_id: 7aed4677-7814-4963-9610-13d46bd97440
+    title: Fidel Castro
+    slug: fidel-castro
+  - node_id: 801a638a-adaa-4f68-8045-9b526041640b
+    title: Havana Military Academy
+    slug: havana-military-academy
+  date: null
+  date_end: null
+  location_in_record: ch11:5848-5928
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 0db65cfa-f920-41a8-9169-ede0e2f5ff5b
+  claim_hash: 22b2731ca15ca898e4e105f8099d847b9adfb53ef51a7d61d3f8402e7ec4e31f
+  content: After Fidel Castro aligned with the Russians and declared himself president
+    for life, Luis D. Elizondo III joined the resistance and ultimately Brigade 2506,
+    and participated in the US-led Bay of Pigs Invasion.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2f2a8882-079b-429e-9aaf-37d1fdc53cee
+    title: Luis D. Elizondo III (father)
+    slug: luis-d-elizondo-iii-father
+  - node_id: 7aed4677-7814-4963-9610-13d46bd97440
+    title: Fidel Castro
+    slug: fidel-castro
+  - node_id: 80cba131-c480-415b-9ed6-956f04104f73
+    title: Brigade 2506
+    slug: brigade-2506
+  - node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
+    title: Bay of Pigs Invasion 1961
+    slug: bay-of-pigs-invasion-1961
+  date: '1961'
+  date_end: null
+  location_in_record: ch11:6048-6267
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: b20e37a7-c4bc-4f3d-8f31-d7d397baf36b
+  claim_hash: a352b9aa30d1db722684f76ed37f6c4c596b2b7732252aac5923d6035bb7640e
+  content: Luis D. Elizondo III spent two years in Fidel Castro's prisons as a consequence
+    of his role in the Bay of Pigs Invasion.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2f2a8882-079b-429e-9aaf-37d1fdc53cee
+    title: Luis D. Elizondo III (father)
+    slug: luis-d-elizondo-iii-father
+  - node_id: 7aed4677-7814-4963-9610-13d46bd97440
+    title: Fidel Castro
+    slug: fidel-castro
+  - node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
+    title: Bay of Pigs Invasion 1961
+    slug: bay-of-pigs-invasion-1961
+  date: null
+  date_end: null
+  location_in_record: ch11:6273-6430
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 1902d0f1-cfe8-493d-be7f-95c2565d454e
+  claim_hash: 3749fd8d5fde7a8aeaddaf431ae0beb5af52b6f60579ab59e601a8c86699fc78
+  content: Luis Elizondo's father told him that he had once lived in Fidel Castro's
+    prisons in Cuba.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: named
+    origin: Luis Elizondo's father
+    relay:
+    - Lue Elizondo
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+    title: Cuba
+    slug: cuba
+  - node_id: 7aed4677-7814-4963-9610-13d46bd97440
+    title: Fidel Castro
+    slug: fidel-castro
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  date: null
+  date_end: null
+  location_in_record: ch28:16194-16239
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 929bda3b-4cfa-4264-a26c-8ab2eec01624
+  claim_hash: 8f86952fba45b8d5c25b15d2db950a87b1f872965895058503e3c0170f0159c1
+  content: Marita Lorenz was the former mistress of Fidel Castro.
+  original_excerpt: a lady called Marita Lorenz, who was the former mistress of Fidel
+    Castro
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7aed4677-7814-4963-9610-13d46bd97440
+    title: Fidel Castro
+    slug: fidel-castro
+  - node_id: d0de16db-976b-4b09-9da0-6079f971742c
+    title: Marita Lorenz
+    slug: marita-lorenz
+  date: null
+  date_end: null
+  location_in_record: 00:52:21.4-00:52:25.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null

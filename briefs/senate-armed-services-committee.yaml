@@ -1,0 +1,555 @@
+schema: anomalica/brief/1
+brief_hash: 33cb885d65a8c52605aba797e464eb54b8aae6b7062401751b1075a3b32d709b
+page:
+  kind: entity
+  node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+  node_type: organisation
+  title: Senate Armed Services Committee
+  slug: senate-armed-services-committee
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+  title: US Senate Select Committee on Intelligence
+  node_type: organisation
+  slug: us-senate-select-committee-on-intelligence
+  shared_claims: 4
+- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+  title: Christopher K. Mellon
+  node_type: person
+  slug: christopher-k-mellon
+  shared_claims: 2
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 2
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 2
+- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+  title: United States Congress
+  node_type: organisation
+  slug: united-states-congress
+  shared_claims: 2
+- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+  title: United States Navy (USN)
+  node_type: organisation
+  slug: united-states-navy-usn
+  shared_claims: 2
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 1
+- node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+  title: Barry Goldwater
+  node_type: person
+  slug: barry-goldwater
+  shared_claims: 1
+- node_id: c6b4eb8e-321f-49d2-a627-29b365603977
+  title: Bill Nelson
+  node_type: person
+  slug: bill-nelson
+  shared_claims: 1
+- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+  title: Eric Davis
+  node_type: person
+  slug: eric-davis
+  shared_claims: 1
+- node_id: a44d0359-4812-4979-8801-eb7f75f786f3
+  title: FY2024 National Defense Authorization Act
+  node_type: document
+  slug: fy2024-national-defense-authorization-act
+  shared_claims: 1
+- node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+  title: Joe Biden
+  node_type: person
+  slug: joe-biden
+  shared_claims: 1
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 1
+- node_id: 70355193-4371-46f6-8c0f-6e66a60d261b
+  title: Richard Russell
+  node_type: person
+  slug: richard-russell
+  shared_claims: 1
+- node_id: c7965e59-a337-48a9-be72-5ecf730cfa24
+  title: Russia, Trans-Caucasus
+  node_type: place
+  slug: trans-caucasus-russia
+  shared_claims: 1
+- node_id: 9c05e5aa-adcc-4988-ac84-7d062a159a23
+  title: Strom Thurmond
+  node_type: person
+  slug: strom-thurmond
+  shared_claims: 1
+- node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+  title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+  node_type: document
+  slug: unidentified-aerial-phenomena-uap-disclosure-act
+  shared_claims: 1
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 1
+claims:
+- claim_id: 154b7a76-e207-4667-801f-1bdde5b26c61
+  claim_hash: ad4db02b0a977ae6c4fa3f48100d665eb34df859c220c2fdd132b05825531639
+  content: Strom Thurmond was the chairman of the United States Senate Armed Services
+    Committee.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    slug: senate-armed-services-committee
+  - node_id: 9c05e5aa-adcc-4988-ac84-7d062a159a23
+    title: Strom Thurmond
+    slug: strom-thurmond
+  date: null
+  date_end: null
+  location_in_record: ch25:22212-22289
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 8b72cc0d-2659-420d-ae47-138a2023f3f3
+  claim_hash: 79c8c7e7b1a93f86255235c9b6e97286a8e279eb09308465bef7ba7195f540fa
+  content: Barry Goldwater served on the United States Senate Armed Services Committee,
+    the Aeronautical and Space Sciences Committee, and was a former chairman of the
+    Senate Intelligence Committee.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+    title: US Senate Select Committee on Intelligence
+    slug: us-senate-select-committee-on-intelligence
+  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+    slug: barry-goldwater
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    slug: senate-armed-services-committee
+  date: null
+  date_end: null
+  location_in_record: ch27:19147-19327
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 23a7ff59-6c44-443e-9020-c4d3877ad18e
+  claim_hash: a263a64ecad81e19dc1d9d25e3045b314aa57fe2ab20d0a3e467b4b6914b0845
+  content: In 1955, during a visit to the Soviet Union, United States Senator Richard
+    Russell, head of the Senate Armed Services Committee, looked out of his train
+    window in the Trans-Caucasus region and saw a disc-shaped object slowly ascending
+    vertically, with its outer surface revolving slowly and two lights visible on
+    top.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 70355193-4371-46f6-8c0f-6e66a60d261b
+    title: Richard Russell
+  provenance_chain:
+    origin_kind: named
+    origin: Richard Russell
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 70355193-4371-46f6-8c0f-6e66a60d261b
+    title: Richard Russell
+    slug: richard-russell
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    slug: senate-armed-services-committee
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c7965e59-a337-48a9-be72-5ecf730cfa24
+    title: Russia, Trans-Caucasus
+    slug: trans-caucasus-russia
+  date: '1955'
+  date_end: null
+  location_in_record: ch9:765-957
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ba82812a-2d1c-479b-9249-60187dbf5494
+  claim_hash: 68be1ba4c8e0ffd20a92f41044622987032937457781bb6cff3f8205c777b8c6
+  content: The first briefing Christopher Mellon facilitated on retrievals of unexplained
+    objects was provided to staff members of the Senate Armed Services Committee on
+    2019-10-21, and to staff members of the Senate Select Committee on Intelligence
+    two days later.
+  original_excerpt: The first briefing he facilitated on retrievals of unexplained
+    objects was provided to staff members of the Senate Armed Services Committee on
+    Oct. 21, 2019, and to staff members of the Senate Intelligence Committee two days
+    later, as reported by The New York Times.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The New York Times
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+    title: US Senate Select Committee on Intelligence
+    slug: us-senate-select-committee-on-intelligence
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    slug: senate-armed-services-committee
+  date: '2019-10-21'
+  date_end: null
+  location_in_record: char:16413-16649
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+- claim_id: 8a89e117-678f-49f7-8c52-672a96cd2e99
+  claim_hash: 9bffce4180a52276e4635ad8b7cfb3f55a94e0f85887935b9bd050bec6d5f3f8
+  content: Eric Davis briefed Department of Defense (DoD) agencies and staff members
+    from both the Senate Armed Services Committee and the Senate Select Committee
+    on Intelligence on the government's possession of off-world vehicles.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+    title: US Senate Select Committee on Intelligence
+    slug: us-senate-select-committee-on-intelligence
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    slug: senate-armed-services-committee
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  date: null
+  date_end: null
+  location_in_record: ch12:12697-12864
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 4bd1a106-7164-402c-a625-ab24ffd3c681
+  claim_hash: dcc265f359ad401db23d26bf9c622c9532ce74bc2f21f935882368a938e85613
+  content: The first step of Luis Elizondo, Christopher Mellon, and Jay Stratton's
+    congressional strategy was to engage key professional staff on the Senate Select
+    Committee on Intelligence (SSCI) and the US Senate Armed Services Committee (SASC),
+    as well as members of Congress.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+    title: US Senate Select Committee on Intelligence
+    slug: us-senate-select-committee-on-intelligence
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    slug: senate-armed-services-committee
+  date: null
+  date_end: null
+  location_in_record: ch31:1700-1896
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 5aba7d86-9521-43b0-a60a-d630a136c44b
+  claim_hash: 05012e950b32113ce846d8f9203c410fe9fd62add8c5111b9d4980fc1a6aefa6
+  content: On 2022-12-15, the US Senate approved the National Defense Authorization
+    Act (NDAA) with the UAP language and sent it to Joe Biden to sign.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+    title: Joe Biden
+    slug: joe-biden
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    slug: senate-armed-services-committee
+  - node_id: a44d0359-4812-4979-8801-eb7f75f786f3
+    title: FY2024 National Defense Authorization Act
+    slug: fy2024-national-defense-authorization-act
+  date: '2022-12-15'
+  date_end: null
+  location_in_record: ch31:42359-42456
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 7d40db6d-8e3c-4f0a-858f-ac5da73d6ba7
+  claim_hash: 250bb7b496d0b3be1df153ebe2db1fe7ec70fd42b877be9f35971d86f0c68c15
+  content: Throughout the fall of 2023, Senate leadership requested Luis Elizondo's
+    help in clarifying facts as they sharpened the language of the UAP Disclosure
+    Act.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    slug: senate-armed-services-committee
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: '2023'
+  date_end: null
+  location_in_record: ch32:6163-6329
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: bfd13895-7c75-49a5-9b7b-3cf9a8031531
+  claim_hash: 5ad60f67f9c61a9e79f4d05aee2532bab7b4cde45e1a4f8a826c8c84353e58f1
+  content: Bill Nelson, the director of the National Aeronautics and Space Administration
+    (NASA), was formerly a member of the US Senate Armed Services Committee at the
+    time Christopher Mellon arranged for Navy aviators to brief its members and staff.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+  provenance_chain:
+    origin_kind: speaker
+    origin: Christopher Mellon
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    slug: senate-armed-services-committee
+  - node_id: c6b4eb8e-321f-49d2-a627-29b365603977
+    title: Bill Nelson
+    slug: bill-nelson
+  date: null
+  date_end: null
+  location_in_record: ch6:22445-22618
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 238e88cf-c964-4dd1-9e52-67b97d0a4894
+  claim_hash: c93c27fdde63f2849d4d564dcb2c888a0c190d6bb01d21da5aeb20c7d260f101
+  content: Christopher Mellon arranged for United States Navy aviators to brief members
+    and staff of the US Senate Armed Services Committee.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+  provenance_chain:
+    origin_kind: speaker
+    origin: Christopher Mellon
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    slug: senate-armed-services-committee
+  date: null
+  date_end: null
+  location_in_record: ch6:22535-22618
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: a87f59c7-919f-43ec-af10-599d7c5785f7
+  claim_hash: 3dd33765b520d09596f0f82f828fcbf52ea9ca5884dbd9e29f9207f1e423c2a2
+  content: Christopher Mellon considers the briefings by Navy aviators to the US Senate
+    Armed Services Committee the seminal event that legitimised the Unidentified Aerial
+    Phenomena (UAP) issue for the United States Congress and later the National Aeronautics
+    and Space Administration (NASA).
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+  provenance_chain:
+    origin_kind: speaker
+    origin: Christopher Mellon
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    slug: senate-armed-services-committee
+  date: null
+  date_end: null
+  location_in_record: ch6:22625-22735
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted

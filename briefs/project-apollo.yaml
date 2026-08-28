@@ -1,0 +1,1516 @@
+schema: anomalica/brief/1
+brief_hash: 192e5c1be30b6920deb337a2d4c26896ca8c8f87502cb523eb74a646f6d240ea
+page:
+  kind: entity
+  node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+  node_type: project
+  title: Project Apollo
+  slug: project-apollo
+  claim_count: 35
+  claim_count_total: 35
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 10
+- node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+  title: Apollo 17 landing site, Taurus-Littrow
+  node_type: place
+  slug: taurus-littrow-apollo-17-landing-site
+  shared_claims: 6
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 6
+- node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+  title: Gene Cernan
+  node_type: person
+  slug: gene-cernan
+  shared_claims: 5
+- node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+  title: Keith Laney
+  node_type: person
+  slug: keith-laney
+  shared_claims: 3
+- node_id: c183ea9f-110a-4a30-b828-09513bd51598
+  title: Mons Vitruvius
+  node_type: place
+  slug: mons-vitruvius
+  shared_claims: 3
+- node_id: c277ac56-9215-43d1-9d52-16a21e1d10e9
+  title: Steno (crater, Taurus-Littrow)
+  node_type: place
+  slug: taurus-littrow-steno-crater
+  shared_claims: 3
+- node_id: 9297ab28-9f3a-4739-9764-631b50fb9ba8
+  title: Challenger (Apollo 17 Lunar Module)
+  node_type: object
+  slug: challenger-apollo-17-lunar-module
+  shared_claims: 2
+- node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+  title: Jack Schmitt
+  node_type: person
+  slug: jack-schmitt
+  shared_claims: 2
+- node_id: 4c66d918-c18c-4a0e-92c1-71aeb1e3c397
+  title: Project Gemini
+  node_type: project
+  slug: project-gemini
+  shared_claims: 2
+- node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+  title: Project Mercury
+  node_type: project
+  slug: project-mercury
+  shared_claims: 2
+- node_id: d3cbac97-e4da-4a45-b804-5839568e8bd8
+  title: Sinus Medii
+  node_type: place
+  slug: sinus-medii
+  shared_claims: 2
+- node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
+  title: South Massif (Taurus-Littrow)
+  node_type: place
+  slug: south-massif-taurus-littrow
+  shared_claims: 2
+- node_id: 78fa60ab-5317-4b20-8b60-b63e4c02db8a
+  title: Steve Troy
+  node_type: person
+  slug: steve-troy
+  shared_claims: 2
+- node_id: 03ab2996-fb98-41cf-ad3c-70718f85afe3
+  title: Ukert
+  node_type: place
+  slug: ukert
+  shared_claims: 2
+- node_id: b59eb3a1-02fe-4e39-9158-3c58f7e401c2
+  title: AS10-30-4421 (Apollo 10 photograph)
+  node_type: document
+  slug: as10-30-4421-apollo-10-photograph
+  shared_claims: 1
+- node_id: 5994d3a9-ed93-4a00-8267-33e05e34aafb
+  title: AS14-66-9301 "Mitchell Under Glass" (Apollo 14 photograph)
+  node_type: document
+  slug: as14-66-9301-mitchell-under-glass-apollo-14-photograph
+  shared_claims: 1
+- node_id: 439db8f0-59d3-4b3f-aeda-94b96ad1a8b6
+  title: Apollo 18
+  node_type: project
+  slug: apollo-18
+  shared_claims: 1
+- node_id: f5d2aede-1eaa-44ed-afb5-3257a9ad2b99
+  title: Apollo Lunar Surface Journal (LSJ)
+  node_type: document
+  slug: apollo-lunar-surface-journal-lsj
+  shared_claims: 1
+- node_id: 16d9a460-6b83-4620-a885-0c2d4996a474
+  title: Cernan silent protest at 2004 National Aeronautics and Space Administration
+    (NASA) announcement
+  node_type: event
+  slug: cernan-silent-protest-at-2004-national-aeronautics-and-space-administration-nasa-announcement
+  shared_claims: 1
+- node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+  title: George W. Bush
+  node_type: person
+  slug: george-w-bush
+  shared_claims: 1
+- node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+  title: Ken Johnston
+  node_type: person
+  slug: ken-johnston
+  shared_claims: 1
+- node_id: 6d58c7e1-1f70-41e1-9a75-aba9310651d5
+  title: Lunar Orbiter 2
+  node_type: object
+  slug: lunar-orbiter-2
+  shared_claims: 1
+- node_id: e008aef7-b18d-4042-9186-7821d48c7f15
+  title: Mare Crisium
+  node_type: place
+  slug: mare-crisium
+  shared_claims: 1
+- node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
+  title: Mars Pathfinder
+  node_type: object
+  slug: mars-pathfinder
+  shared_claims: 1
+- node_id: 2c273c4f-6856-40f9-82fd-3412709f165e
+  title: National Aeronautics and Space Administration (NASA) Johnson Space Center
+  node_type: place
+  slug: national-aeronautics-and-space-administration-nasa-johnson-space-center
+  shared_claims: 1
+- node_id: 5457851b-2399-4fc9-a320-39a0403ac6ef
+  title: National Space Science Data Center (NSSDC)
+  node_type: organisation
+  slug: national-space-science-data-center-nssdc
+  shared_claims: 1
+- node_id: b192289d-63d3-4852-bb71-8e52e5471322
+  title: Pinpoint for Science (National Aeronautics and Space Administration (NASA)
+    film)
+  node_type: document
+  slug: pinpoint-for-science-national-aeronautics-and-space-administration-nasa-film
+  shared_claims: 1
+- node_id: 84569307-cc03-42d7-b004-fb9c2a204c6e
+  title: The Tower/Cube (lunar object)
+  node_type: object
+  slug: the-towercube-lunar-object
+  shared_claims: 1
+- node_id: c9963801-6309-4edd-a803-5fd357dbcaf9
+  title: Vision for Space Exploration
+  node_type: project
+  slug: vision-for-space-exploration
+  shared_claims: 1
+claims:
+- claim_id: adec54ca-6f36-40dd-8a10-07c439285d99
+  claim_hash: f660046af72933b9a71a9d8929d7630061c15520553548d7b53b2f8b36dabd22
+  content: Richard C. Hoagland identified the Apollo 10 photograph frame number he
+    was studying and sought to acquire, from sources outside the National Aeronautics
+    and Space Administration (NASA), Apollo 10 photographic maps and other data pertaining
+    to the image.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch11:10625-10820
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: e6ef1223-76c7-446a-b15c-fa90cc96b3d8
+  claim_hash: 554095ff5f637301be186e2a78abf4f0343be2271255593a24b54add7c7ed5f8
+  content: One of Richard C. Hoagland's colleagues had saved original documents from
+    the Apollo missions from over a quarter of a century earlier, and sent copies
+    of the Apollo 10 maps and documentation to Hoagland.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch11:10866-11079
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 11f8589f-fe35-448a-b4a3-d992b9066efc
+  claim_hash: e29fb5f818926525e7ca6eb916da82a71929816ed29bd180d23ab4fe30283f79
+  content: The Apollo 10 footprint maps indicated that someone had wanted the Apollo
+    10 astronauts to extensively photograph the entire Sinus Medii/Ukert region of
+    the Moon.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ab2996-fb98-41cf-ad3c-70718f85afe3
+    title: Ukert
+    slug: ukert
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: d3cbac97-e4da-4a45-b804-5839568e8bd8
+    title: Sinus Medii
+    slug: sinus-medii
+  date: null
+  date_end: null
+  location_in_record: ch11:11104-11348
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 960277ba-0c08-4840-b1d6-2fb5b9714f0c
+  claim_hash: 4c598e794f93aa94fe4243bf26e277ede6fb4c0bdd08b74a665e0f9882831d1e
+  content: Ken Johnston found a newly posted image on the Apollo Lunar Surface Journal
+    website, taken from the Apollo 17 Lunar Module looking down on the Taurus-Littrow
+    Valley landing site just before the Apollo 17 landing, that confirmed the prismatic
+    colours of the Moon.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ken Johnston
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    slug: taurus-littrow-apollo-17-landing-site
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  - node_id: f5d2aede-1eaa-44ed-afb5-3257a9ad2b99
+    title: Apollo Lunar Surface Journal (LSJ)
+    slug: apollo-lunar-surface-journal-lsj
+  date: null
+  date_end: null
+  location_in_record: ch11:120967-121228
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c6a20d53-7c25-4dc1-ac53-de698bce920e
+  claim_hash: 2280c441ebd19e884ff31db932ae65d9641de049cc4d80778f3eafac5e6694f7
+  content: A screen capture from the Apollo 12 film 'Pinpoint for Science' and a section
+    of Apollo 14 photograph AS14-66-9301 show the same inclined buttresses from two
+    landing sites separated by approximately 196 kilometres.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: caption narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5994d3a9-ed93-4a00-8267-33e05e34aafb
+    title: AS14-66-9301 "Mitchell Under Glass" (Apollo 14 photograph)
+    slug: as14-66-9301-mitchell-under-glass-apollo-14-photograph
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: b192289d-63d3-4852-bb71-8e52e5471322
+    title: Pinpoint for Science (National Aeronautics and Space Administration (NASA)
+      film)
+    slug: pinpoint-for-science-national-aeronautics-and-space-administration-nasa-film
+  date: null
+  date_end: null
+  location_in_record: ch11:166017-166207
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 20bb0205-cb90-4b52-9d47-e951de90d915
+  claim_hash: 53681dea706690662fb6612fb8c26d83b609362a5de4e377d2ada13ca569d9ac
+  content: Richard C. Hoagland ordered the entire 70mm hand-held photographic sequence
+    taken by the Apollo 10 crew across Ukert in May 1969, from an inside NASA source,
+    the National Space Science Data Center (NSSDC), and directly through the National
+    Aeronautics and Space Administration (NASA)'s Johnson Space Center.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ab2996-fb98-41cf-ad3c-70718f85afe3
+    title: Ukert
+    slug: ukert
+  - node_id: 2c273c4f-6856-40f9-82fd-3412709f165e
+    title: National Aeronautics and Space Administration (NASA) Johnson Space Center
+    slug: national-aeronautics-and-space-administration-nasa-johnson-space-center
+  - node_id: 5457851b-2399-4fc9-a320-39a0403ac6ef
+    title: National Space Science Data Center (NSSDC)
+    slug: national-space-science-data-center-nssdc
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: 1969-05
+  date_end: null
+  location_in_record: ch11:18604-18849
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c526b2a7-bab2-432e-907a-436710416893
+  claim_hash: 701f70f8a940d463e497caf7e50cb1ed5df89e3728713001c1d7ea53b4180eb3
+  content: Analysis of Apollo 10 images AS10-32-4854, AS10-32-4855 and AS10-32-4856
+    of the western Sinus Medii region confirmed the presence of the Tower/Cube from
+    a mission completely different from Lunar Orbiter.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6d58c7e1-1f70-41e1-9a75-aba9310651d5
+    title: Lunar Orbiter 2
+    slug: lunar-orbiter-2
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: 84569307-cc03-42d7-b004-fb9c2a204c6e
+    title: The Tower/Cube (lunar object)
+    slug: the-towercube-lunar-object
+  - node_id: d3cbac97-e4da-4a45-b804-5839568e8bd8
+    title: Sinus Medii
+    slug: sinus-medii
+  date: null
+  date_end: null
+  location_in_record: ch11:39709-39945
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 4f323948-33dc-4f2a-8f2b-3fb97412bb7e
+  claim_hash: 9a22394b83208afc74c5903d5744c404ec5bec914672e77a94b760678ef126bd
+  content: Richard C. Hoagland used a 486 personal computer, a 1600 dpi scanner, and
+    contemporary digital photo-processing software to analyse old National Aeronautics
+    and Space Administration (NASA) photos and negatives, beginning with Apollo 10
+    and the unmanned Lunar Orbiter and Surveyor programmes.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch11:5863-6252
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 47021e14-fb50-40b4-b1a7-bed7b41e0547
+  claim_hash: 780adb3060b3102eb2e421f7702fa8333bbbdcfb9612b42c8e44a874baccb022
+  content: 'In We Found Alien Bases on the Moon, one lunar image stood out to Richard
+    C. Hoagland: three reproductions at various magnifications of a single hand-held
+    Apollo 10 orbital frame acquired by an astronaut during the Apollo 10 mission.'
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: 8aab3971-0ff4-4e85-ab5a-3122c548c66b
+    title: We Found Alien Bases on the Moon (book)
+    slug: we-found-alien-bases-on-the-moon-book
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch11:8544-8860
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: ee7bfbf6-07c8-46a6-b4bd-295157902549
+  claim_hash: 35e10a428e70aea02f518fd66a9d3233d94fe957a9b6308f76f633f4d4876bde
+  content: Frame AS10-30-4421 was part of a photographic sequence taken as the Apollo
+    10 Command/Service Module travelled right to left along its orbital path across
+    the southern shore of Mare Crisium.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Steve Troy
+    relay:
+    - Richard C. Hoagland
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: b59eb3a1-02fe-4e39-9158-3c58f7e401c2
+    title: AS10-30-4421 (Apollo 10 photograph)
+    slug: as10-30-4421-apollo-10-photograph
+  - node_id: e008aef7-b18d-4042-9186-7821d48c7f15
+    title: Mare Crisium
+    slug: mare-crisium
+  date: null
+  date_end: null
+  location_in_record: ch11:89389-89597
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: ac0e1884-3bbd-4636-9d8f-e35a2d04b943
+  claim_hash: 373d3cd28c1d8bc32a0a8ff43eee96079d4cad72f0348bca3756cc3140dd6ac2
+  content: During his January 2004 speech announcing the Vision for Space Exploration,
+    George W. Bush acknowledged Gene Cernan, the Commander of Project Apollo 17, as
+    the last man to have set foot upon another world.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+    title: George W. Bush
+    slug: george-w-bush
+  - node_id: c9963801-6309-4edd-a803-5fd357dbcaf9
+    title: Vision for Space Exploration
+    slug: vision-for-space-exploration
+  date: '2004-01-14'
+  date_end: null
+  location_in_record: ch19:22795-22947
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 195be83b-2b4f-44b6-9cf7-02da56c0f81d
+  claim_hash: ad65c9f7ed9d5aff43a7ec4df075c9fc5ef4eae64c13f58fe9e59dc19b5c45fd
+  content: Richard C. Hoagland suspects that Gene Cernan's silent protest at the 2004
+    announcement stemmed from something more than a political disagreement with George
+    W. Bush, possibly connected to the Apollo 17 mission and Cernan's role in it.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 16d9a460-6b83-4620-a885-0c2d4996a474
+    title: Cernan silent protest at 2004 National Aeronautics and Space Administration
+      (NASA) announcement
+    slug: cernan-silent-protest-at-2004-national-aeronautics-and-space-administration-nasa-announcement
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch19:24166-24405
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: cee627e5-e888-4290-ad87-73c754ad30f9
+  claim_hash: ad7ccb62ce335c825cf6d86aac8b2782d5b41d2dd100042a0f625142c5a97160
+  content: Keith Laney and Steve Troy, associates of Richard C. Hoagland, had been
+    studying Apollo 17 data for some time.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 78fa60ab-5317-4b20-8b60-b63e4c02db8a
+    title: Steve Troy
+    slug: steve-troy
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+    title: Keith Laney
+    slug: keith-laney
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch19:42084-42179
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 748f60b7-6fb4-481e-86c6-938d9f1dea96
+  claim_hash: a3d52ca343a6f526bcf3bc5624a84d6d125ed34b23ff05f39d750c7f09882da2
+  content: Keith Laney and Steve Troy conducted extensive photographic studies of
+    the Apollo 17 mission to Taurus-Littrow, obtaining many early generation negatives.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 78fa60ab-5317-4b20-8b60-b63e4c02db8a
+    title: Steve Troy
+    slug: steve-troy
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+    title: Keith Laney
+    slug: keith-laney
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    slug: taurus-littrow-apollo-17-landing-site
+  date: null
+  date_end: null
+  location_in_record: ch19:42317-42452
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: bd2fd516-d526-467b-865b-9a3626ec180f
+  claim_hash: f72344321ebf51c292d379b3acfc7cbd861b23f79c97f0526bc4950ef3c2dcfe
+  content: In 1998, Richard C. Hoagland's original assessment of the Apollo 17 mission
+    found the landing site's location to be extremely dangerous.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: '1998'
+  date_end: null
+  location_in_record: ch19:42542-42695
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: ac6cd0fd-e673-4889-abbd-ad21c816f4bb
+  claim_hash: e8431e462f4d117022af7cc0b4ff7e251a21995e9b707f33073861abf7f5999a
+  content: The Apollo 17 target landing ellipse was positioned at 19.5 degrees north
+    by 31 degrees east, in a narrow valley amongst the Taurus-Littrow highlands.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    slug: taurus-littrow-apollo-17-landing-site
+  date: null
+  date_end: null
+  location_in_record: ch19:42701-42811
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: f254db6a-48dd-4364-98c9-cadbfc2fd58a
+  claim_hash: dc07467c6ad708e2db5f27815ec291ee9ef9fde80bad94acd6cd7798380521dd
+  content: The Apollo 17 landing at Taurus-Littrow was by far the riskiest Apollo
+    landing, requiring Gene Cernan to set the lunar module Challenger down among mountains
+    between approximately 2,000 and 2,500 metres tall on a valley floor littered with
+    large craters.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    slug: taurus-littrow-apollo-17-landing-site
+  - node_id: 9297ab28-9f3a-4739-9764-631b50fb9ba8
+    title: Challenger (Apollo 17 Lunar Module)
+    slug: challenger-apollo-17-lunar-module
+  date: null
+  date_end: null
+  location_in_record: ch19:42822-43044
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: db57a952-c568-4881-8c20-126bfb93d9f7
+  claim_hash: aa9b1b55ada146c02ed41cd0371a3bc23efd21abd97994603508ef842b6d371c
+  content: Richard C. Hoagland, after looking at the Apollo 17 landing site images
+    from Lunar Orbiter, wondered what could be so significant about the site that
+    NASA (National Aeronautics and Space Administration) would attempt such a hazardous
+    landing.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch19:43675-43878
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 723cb321-970c-4c6c-b1ae-7cac9befbee9
+  claim_hash: fc0c0703f25e459d92d06d8cf6f1801634b5e3c4f6cd226066694a59ec39b51a
+  content: The Apollo 17 landing ellipse at 19.5 degrees is close to, but not exactly
+    at, a 19.5 degrees by 33 degrees tetrahedral location similar to the Mars Pathfinder
+    landing site selection, differing by roughly 64 kilometres in latitude and 2 degrees
+    in longitude.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    slug: taurus-littrow-apollo-17-landing-site
+  - node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
+    title: Mars Pathfinder
+    slug: mars-pathfinder
+  date: null
+  date_end: null
+  location_in_record: ch19:43962-44224
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: db4a3251-fec6-42bb-9c31-b5836cf191b1
+  claim_hash: 19262977cff0a07ae966b52bfb6800b9915f797c0c527a88b0b723a2ab854a57
+  content: Keith Laney identified a massive, hexagonal mountain located almost in
+    the centre of the Apollo 17 landing ellipse, later officially named the South
+    Massif.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+    title: Keith Laney
+  provenance_chain:
+    origin_kind: speaker
+    origin: Keith Laney
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
+    title: South Massif (Taurus-Littrow)
+    slug: south-massif-taurus-littrow
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+    title: Keith Laney
+    slug: keith-laney
+  date: null
+  date_end: null
+  location_in_record: ch19:44281-44710
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 7428e4d5-8a02-4349-99ba-b27d25bd58ef
+  claim_hash: f2e7a4c028741fdc007a17c70e2f332b56d04affe1e8fc12e8d7c250bfa3da36
+  content: The Extra Vehicular Activity (EVA) plans for Apollo 17 were the most extensive
+    ever attempted for an Apollo mission.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  date: null
+  date_end: null
+  location_in_record: ch19:47500-47610
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 7ca4dbe9-4fe0-465b-b6df-85453b042f76
+  claim_hash: b6372d300209bc27aa0a7f6fd34c7ec458470be2b4a1a2d79826480615bb8476
+  content: NASA's (National Aeronautics and Space Administration) science lobby arranged
+    for geologist Jack Schmitt to be reassigned to Apollo 17 after his previously
+    assigned mission, Apollo 18, was abruptly cancelled.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 439db8f0-59d3-4b3f-aeda-94b96ad1a8b6
+    title: Apollo 18
+    slug: apollo-18
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  date: null
+  date_end: null
+  location_in_record: ch19:47619-47803
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 367f16ff-1c2b-4bb9-adea-dddbdba79028
+  claim_hash: 798920ba216e6ad14431d03e64a4de342b7a439be613def2b0535c18cc9bb339
+  content: Jack Schmitt and Gene Cernan had a schedule for Apollo 17 that called for
+    unpacking the Lunar Rover, emplacing seismometers and explosive charges at key
+    points within the Taurus-Littrow Valley, and traversing nearly 39 kilometres in
+    total.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 73f74c1c-e259-413c-a5d3-1c0a566dea49
+    title: Jack Schmitt
+    slug: jack-schmitt
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    slug: taurus-littrow-apollo-17-landing-site
+  date: null
+  date_end: null
+  location_in_record: ch19:47813-48050
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2d72881a-99ea-4d4f-91f5-a3ae3f0ab481
+  claim_hash: 4c84bc349a681e062b8a84da94a0650aa15d4cfa50c911ec42b155eaaabf8551
+  content: After taking samples at Steno crater, the Apollo 17 crew returned to the
+    Lunar Module Challenger and rested before day two of the mission.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: 9297ab28-9f3a-4739-9764-631b50fb9ba8
+    title: Challenger (Apollo 17 Lunar Module)
+    slug: challenger-apollo-17-lunar-module
+  - node_id: c277ac56-9215-43d1-9d52-16a21e1d10e9
+    title: Steno (crater, Taurus-Littrow)
+    slug: taurus-littrow-steno-crater
+  date: null
+  date_end: null
+  location_in_record: ch19:48402-48564
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 38f53516-8010-4ffa-9232-a9c2c3615376
+  claim_hash: 44e2fce769c8ef26644fa57c626d173d1c8848714b309926d5a2e10a9829ba6e
+  content: Richard C. Hoagland considers the only viable alternative explanation for
+    the layering on the massifs to be that it is a surface manifestation of heavily
+    eroded, repeating, artificial three-dimensional cell-like constructions, exposed
+    and re-eroded by continual meteorite bombardment.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
+    title: South Massif (Taurus-Littrow)
+    slug: south-massif-taurus-littrow
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch19:55859-56269
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: dceeea10-43c6-4bbf-83d2-23202b4842c7
+  claim_hash: 36b263fdbbddd4c6994a3e344c65e6f0badacc766c054029203e01121abfe0f5
+  content: As the Apollo 17 astronauts headed for the east slope of Nansen, they at
+    first could not see down into Nansen and Gene Cernan had to drive left (east)
+    to approach the overhanging shelf from that side.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+    title: Gene Cernan
+    slug: gene-cernan
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: c277ac56-9215-43d1-9d52-16a21e1d10e9
+    title: Steno (crater, Taurus-Littrow)
+    slug: taurus-littrow-steno-crater
+  date: null
+  date_end: null
+  location_in_record: ch19:56728-56968
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 0a7efa31-caba-4518-ac4e-6f599dac4e0a
+  claim_hash: 5d107dd4cfb1f335be8c8d3ab0b7b5fd28f93707326bb382778957d4ec57cbac
+  content: There are no official photographs showing the Apollo 17 traverse to geology
+    station two.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  date: null
+  date_end: null
+  location_in_record: ch19:57227-57338
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 9ba99fad-a908-4cf0-acee-9af40b06b9be
+  claim_hash: 954f3e17fc59470a5a72c9e58f3995793914cfd5fd13c67b31e6fd494c4ea15e
+  content: The Apollo 17 astronauts were completely out of sight of the camera for
+    most of the next twenty minutes at the Nansen shelf, and were out of sight of
+    the camera for fully 85 percent of the entire sixty-four minute visit to the upper
+    shelf of Nansen.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: c277ac56-9215-43d1-9d52-16a21e1d10e9
+    title: Steno (crater, Taurus-Littrow)
+    slug: taurus-littrow-steno-crater
+  date: null
+  date_end: null
+  location_in_record: ch19:57907-58126
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 63585705-5ab0-4aba-9250-55a8aa98628d
+  claim_hash: 11337ebbd87f4412d5bca41edae6ed9af7bed3706479e6cfd39fabe753c18af6
+  content: Richard C. Hoagland considers a comparison of Apollo 17 lunar surface footage
+    from the original 1972 NASA transmission and a 2005 rebroadcast to show distinct
+    "honeycombing" on a small background feature known on NASA maps as Mons Vitruvius,
+    visible in the enhanced 2005 version of the original broadcast.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: c183ea9f-110a-4a30-b828-09513bd51598
+    title: Mons Vitruvius
+    slug: mons-vitruvius
+  date: '1972'
+  date_end: null
+  location_in_record: ch19:92302-92567
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 3369124e-6b84-43a8-bf8b-ffaf79b42ae4
+  claim_hash: e325fad7b265faf816dc23f51450e47506827cd502c3f7b1a67ede7fad9f48b6
+  content: A Hasselblad photographic image of the Mons Vitruvius formation, taken
+    by Apollo 17 astronauts from the Lunar Rover, shows a reflective geometric "waffle"
+    surface pattern and fuzzy detail on top, which Richard C. Hoagland considers indicative
+    of designed, eroding glass.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: c183ea9f-110a-4a30-b828-09513bd51598
+    title: Mons Vitruvius
+    slug: mons-vitruvius
+  date: null
+  date_end: null
+  location_in_record: ch19:92613-92870
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a203bb03-4257-44ba-8f92-8f9eb94497b2
+  claim_hash: ffe5ae289aa3ef5722136e59dae89df2ff96aadd7e9b941d1aee0d0a5b5ebcc8
+  content: A metallic tube-like object visible in the foreground of the Apollo 17
+    Mons Vitruvius photograph is the counterweight for the Lunar Rover's high-gain
+    antenna.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  - node_id: c183ea9f-110a-4a30-b828-09513bd51598
+    title: Mons Vitruvius
+    slug: mons-vitruvius
+  date: null
+  date_end: null
+  location_in_record: ch19:92877-92960
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 883d2bcf-408f-43b8-b2f4-4a730a848002
+  claim_hash: 3606b1ae8508eeebd881d5402cfc2ca941a4e6c4c0051f8950cb8a820daf425b
+  content: The Apollo Program was abruptly terminated with Apollo 17.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  date: null
+  date_end: null
+  location_in_record: ch7:14955-15017
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 4c644bda-1587-4ba3-af43-099cbfbacd9c
+  claim_hash: b3879d55cf572f233a4c2049ff8b5b3d0d2ca3da496a04d6112d10ae3c428116
+  content: The Gemini programme was a United States human spaceflight programme that
+    took place between the Mercury and Apollo programmes.
+  original_excerpt: The Gemini program was a U.S. human spaceflight program that took
+    place between the Mercury and Apollo programs.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+    title: Project Mercury
+    slug: project-mercury
+  - node_id: 4c66d918-c18c-4a0e-92c1-71aeb1e3c397
+    title: Project Gemini
+    slug: project-gemini
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  date: null
+  date_end: null
+  location_in_record: char:128684-128787
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: e741b1cb-7e7c-4ae5-a0e5-9c06478052ef
+  claim_hash: 234173eaeafcec6e396329a7962dc374c28479365a8e1f4fef10724fdda79f13
+  content: Project Apollo was a NASA human spaceflight programme conducted after Project
+    Mercury and Project Gemini.
+  original_excerpt: Project Apollo was a NASA human spaceflight program conducted
+    after Project Mercury and Project Gemini.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
+    title: Project Mercury
+    slug: project-mercury
+  - node_id: 4c66d918-c18c-4a0e-92c1-71aeb1e3c397
+    title: Project Gemini
+    slug: project-gemini
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  date: null
+  date_end: null
+  location_in_record: char:129287-129383
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: c7d6f550-7d84-444f-b4e0-6a85e51ffac8
+  claim_hash: 93a5927df975423f1a9668a34829143bce46a4d83828c568188a408c2b2ea4fa
+  content: Project Apollo totalled 14 missions, 11 spaceflights, and 12 astronauts
+    walking on the moon.
+  original_excerpt: Project Apollo totaled 14 missions, 11 spaceflights, and 12 astronauts
+    walking on the moon.
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
+    title: Project Apollo
+    slug: project-apollo
+  date: null
+  date_end: null
+  location_in_record: char:129566-129652
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

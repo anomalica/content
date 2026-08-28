@@ -1,0 +1,152 @@
+schema: anomalica/brief/1
+brief_hash: 8491b9e455b7ff390efc11fc14f69f5159cec5b493dc40d77717d74be1b81932
+page:
+  kind: entity
+  node_id: b4c4bfba-9aef-4734-b02b-73ee052621ec
+  node_type: organisation
+  title: EarthTech International
+  slug: earthtech-international
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: 509687be-58ae-4f33-97df-507649cfa528
+  title: Puthoff, Harold E.
+  node_type: person
+  slug: harold-e-puthoff
+  shared_claims: 3
+- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+  title: Davis, Eric
+  node_type: person
+  slug: eric-davis
+  shared_claims: 2
+- node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+  title: Elizondo, Luis
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 1
+- node_id: a5b3971d-48da-4c25-b3a4-3a3e274a2449
+  title: Securities and Exchange Commission (SEC)
+  node_type: organisation
+  slug: securities-and-exchange-commission-sec
+  shared_claims: 1
+- node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+  title: To the Stars Academy of Arts and Science (TTSA)
+  node_type: organisation
+  slug: to-the-stars-academy-of-arts-and-science-ttsa
+  shared_claims: 1
+claims:
+- claim_id: c31a8888-9cf9-400e-b2cc-8926047df637
+  claim_hash: 9292fc8e991a1b7e5fe8f3af5bf9ebd4bc181c96f456ed3694b1abc721bb5768
+  content: A 2018 TTSA SEC disclosure revealed that TTSA had retained Hal Puthoff's
+    EarthTech International to prepare plans on materials analysis and beamed energy
+    propulsion launch systems.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 509687be-58ae-4f33-97df-507649cfa528
+    title: Puthoff, Harold E.
+    slug: harold-e-puthoff
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  - node_id: a5b3971d-48da-4c25-b3a4-3a3e274a2449
+    title: Securities and Exchange Commission (SEC)
+    slug: securities-and-exchange-commission-sec
+  - node_id: b4c4bfba-9aef-4734-b02b-73ee052621ec
+    title: EarthTech International
+    slug: earthtech-international
+  date: '2018'
+  date_end: null
+  location_in_record: Chapter 18, paragraph 19
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 19c44c0a-a8e7-4ef4-942f-d7448f7c6c55
+  claim_hash: 4c780ed2278d1f517a8eb6aff9e9b82de403cb06b62bc62d3cf54d9b33cab4e0
+  content: Eric Davis consulted with a number of aerospace and defense contractors
+    including EarthTech International, the company founded by Harold Puthoff.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 509687be-58ae-4f33-97df-507649cfa528
+    title: Puthoff, Harold E.
+    slug: harold-e-puthoff
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Davis, Eric
+    slug: eric-davis
+  - node_id: b4c4bfba-9aef-4734-b02b-73ee052621ec
+    title: EarthTech International
+    slug: earthtech-international
+  date: null
+  date_end: null
+  location_in_record: Chapter 4, paragraph 12
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: 7d2513d1-453e-4fb1-a167-f5f21da16c89
+  claim_hash: daa370f3dd54d0b4db5bf60e0d42ea75275235151e04cb356cca1b2bcb659f28
+  content: Luis Elizondo was photographed with Harold Puthoff and Eric Davis at EarthTech
+    International headquarters.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 509687be-58ae-4f33-97df-507649cfa528
+    title: Puthoff, Harold E.
+    slug: harold-e-puthoff
+  - node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+    slug: luis-elizondo
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Davis, Eric
+    slug: eric-davis
+  - node_id: b4c4bfba-9aef-4734-b02b-73ee052621ec
+    title: EarthTech International
+    slug: earthtech-international
+  date: null
+  date_end: null
+  location_in_record: Photo Section, caption 14
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed

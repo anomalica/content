@@ -1,0 +1,301 @@
+schema: anomalica/brief/1
+brief_hash: 8b8df4695d9f91a52882c4b669c5567716e974d2df01465f57ad6af907fde417
+page:
+  kind: entity
+  node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+  node_type: person
+  title: Sheridan Cavitt
+  slug: sheridan-cavitt
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: f888411e-b882-4f89-8275-350d19f6c52d
+  title: Jesse Marcel
+  node_type: person
+  slug: jesse-marcel
+  shared_claims: 5
+- node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+  title: William Blanchard
+  node_type: person
+  slug: william-blanchard
+  shared_claims: 3
+- node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+  title: French Air Force
+  node_type: organisation
+  slug: french-air-force
+  shared_claims: 1
+- node_id: d2b4890a-4999-4f45-9d1c-20e9393a88df
+  title: Isadore Brown
+  node_type: person
+  slug: isadore-brown
+  shared_claims: 1
+- node_id: c581a3e1-83fa-424c-840d-df874cfccebe
+  title: James I. Hopkins
+  node_type: person
+  slug: james-i-hopkins
+  shared_claims: 1
+- node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
+  title: Mac Brazel
+  node_type: person
+  slug: mac-brazel
+  shared_claims: 1
+- node_id: ce0b967f-b897-4754-aada-b48e03c4a84a
+  title: Patrick Saunders
+  node_type: person
+  slug: patrick-saunders
+  shared_claims: 1
+- node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+  title: Roger Ramey
+  node_type: person
+  slug: roger-ramey
+  shared_claims: 1
+- node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+  title: Roswell incident (1947)
+  node_type: event
+  slug: roswell-incident-1947
+  shared_claims: 1
+- node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+  title: USA, New Mexico
+  node_type: place
+  slug: new-mexico-usa
+  shared_claims: 1
+- node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+  title: USA, New Mexico, Roswell Army Air Force Base
+  node_type: place
+  slug: new-mexico-roswell-army-air-force-base-usa
+  shared_claims: 1
+- node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+  title: USA, Texas, Fort Worth
+  node_type: place
+  slug: texas-fort-worth-usa
+  shared_claims: 1
+- node_id: 085d3824-ddd8-49a0-891d-1fd008f6e704
+  title: Ulysses S. Nero
+  node_type: person
+  slug: ulysses-s-nero
+  shared_claims: 1
+claims:
+- claim_id: d7d74af6-56ff-46f6-9133-e441b52da13e
+  claim_hash: 7cdc983b8bfbd9db353e31cebcb9d2e72a14a3d1d2b372b793f54b370fd5acf7
+  content: Roswell ranch foreman Mac Brazel took army intelligence officers Major
+    Jesse Marcel and Captain Sheridan Cavitt out to the crash site.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
+    title: Mac Brazel
+    slug: mac-brazel
+  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+    title: Sheridan Cavitt
+    slug: sheridan-cavitt
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: 1947-07
+  date_end: null
+  location_in_record: ch7:10572-10739
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 285961e3-90e2-4268-b4d3-a4e3229366a0
+  claim_hash: 8193baaf7ba0b71048c33d4af2a57297c66a8f1f4f0a4ca6e0d08b01b629e5ed
+  content: When Jesse Marcel and Sheridan Cavitt brought their debris back to the
+    Roswell base, their commanding officer Colonel William Blanchard sent Marcel on
+    a flight to take the debris to the 8th Air Force headquarters in Fort Worth, Texas,
+    to meet Brigadier General Roger Ramey.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+    title: USA, Texas, Fort Worth
+    slug: texas-fort-worth-usa
+  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+    title: Sheridan Cavitt
+    slug: sheridan-cavitt
+  - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+    title: French Air Force
+    slug: french-air-force
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch7:11422-11674
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d25679ca-4390-489b-ab9c-f0c7e43ae7be
+  claim_hash: 92b89a13549a4a781b71fb4d4b133f9909b366169f50b0cb0a074d9e3209ac74
+  content: It has never been satisfactorily explained why Roswell commanding officer
+    Colonel William Blanchard so quickly concluded that what had crashed was a 'flying
+    disc' when supposedly all he was shown at the base by Jesse Marcel and Sheridan
+    Cavitt were small pieces of debris.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+    title: Sheridan Cavitt
+    slug: sheridan-cavitt
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: null
+  date_end: null
+  location_in_record: ch7:15799-16050
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6b87785c-9914-4683-842a-192f19362454
+  claim_hash: b68cd0aeeaede8238d8fb35c74e725a44daee1aaa5b9ed84632d615ea2fd633e
+  content: The 1947-07-08 staff meeting at Roswell Army Air Force Base was attended
+    by William Blanchard, Jesse Marcel, Sheridan Cavitt, James I. Hopkins, Patrick
+    Saunders, Isadore Brown, and Ulysses S. Nero.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 085d3824-ddd8-49a0-891d-1fd008f6e704
+    title: Ulysses S. Nero
+    slug: ulysses-s-nero
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+    title: USA, New Mexico, Roswell Army Air Force Base
+    slug: new-mexico-roswell-army-air-force-base-usa
+  - node_id: c581a3e1-83fa-424c-840d-df874cfccebe
+    title: James I. Hopkins
+    slug: james-i-hopkins
+  - node_id: ce0b967f-b897-4754-aada-b48e03c4a84a
+    title: Patrick Saunders
+    slug: patrick-saunders
+  - node_id: d2b4890a-4999-4f45-9d1c-20e9393a88df
+    title: Isadore Brown
+    slug: isadore-brown
+  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+    title: Sheridan Cavitt
+    slug: sheridan-cavitt
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:1231-1486
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: c2620eed-7d92-458e-b6b6-c3fb79aa25ad
+  claim_hash: c91893f2aff48ac93354c6a630fba7779c9ee34c2142821259736e49d8d3a0a9
+  content: At the 1947-07-08 staff meeting, Jesse Marcel and Sheridan Cavitt reported
+    on an extensive debris field in Lincoln County, approximately 120 kilometres northwest
+    of Roswell, New Mexico.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+    title: USA, New Mexico
+    slug: new-mexico-usa
+  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+    title: Sheridan Cavitt
+    slug: sheridan-cavitt
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:1620-1760
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted

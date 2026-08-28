@@ -1,0 +1,385 @@
+schema: anomalica/brief/1
+brief_hash: aa63761d29b2bed45a3f0be6a2910d720834dd397cdde0a728c0b3a4b8cf2e09
+page:
+  kind: entity
+  node_id: dea35210-38f0-4797-8438-84a5a9f42661
+  node_type: person
+  title: Allen Dulles
+  slug: allen-dulles
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: d889d0f2-6025-463f-abde-a238988e925f
+  title: William Donovan
+  node_type: person
+  slug: william-donovan
+  shared_claims: 2
+- node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+  title: World War II
+  node_type: event
+  slug: world-war-ii
+  shared_claims: 2
+- node_id: b749abd8-d5e9-43cb-98cc-74f2c87a8032
+  title: Advanced Contact Group meeting at Holloman Air Force Base, 1953-06
+  node_type: event
+  slug: 1953-06-advanced-contact-group-meeting-at-holloman-air-force-base
+  shared_claims: 1
+- node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+  title: Charlie Hickson
+  node_type: person
+  slug: charlie-hickson
+  shared_claims: 1
+- node_id: 6f1d5f64-164c-408c-b80e-8e7c1bef866c
+  title: James Lay
+  node_type: person
+  slug: james-lay
+  shared_claims: 1
+- node_id: d60d84cb-b177-4c7d-9e89-5bb39f5397fc
+  title: John Warner IV
+  node_type: person
+  slug: john-warner-iv
+  shared_claims: 1
+- node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+  title: Jonathan Caplan
+  node_type: person
+  slug: jonathan-caplan
+  shared_claims: 1
+- node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
+  title: Office of Strategic Services (OSS)
+  node_type: organisation
+  slug: office-of-strategic-services-oss
+  shared_claims: 1
+- node_id: c6260730-daaa-425f-94a4-6d74920fb46b
+  title: Paul Mellon
+  node_type: person
+  slug: paul-mellon
+  shared_claims: 1
+- node_id: 5b0650e4-d077-4cd0-aa09-0eacec20f22a
+  title: Richard Drain
+  node_type: person
+  slug: richard-drain
+  shared_claims: 1
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 1
+- node_id: 0549df67-486d-4503-bc65-1996c2bffee5
+  title: Warren Commission
+  node_type: project
+  slug: warren-commission
+  shared_claims: 1
+- node_id: 7ddd5068-c6d5-475e-893a-bcf182ee126f
+  title: William Stephenson
+  node_type: person
+  slug: william-stephenson
+  shared_claims: 1
+- node_id: 7699ee6b-266c-42ed-95b2-3b4430fd2af9
+  title: World Commerce Corporation
+  node_type: organisation
+  slug: world-commerce-corporation
+  shared_claims: 1
+- node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+  title: crash retrieval and reverse engineering
+  node_type: topic
+  slug: crash-retrieval-and-reverse-engineering
+  shared_claims: 1
+claims:
+- claim_id: 3f85ddf9-d956-4fa4-ba2d-ac28ccfe387a
+  claim_hash: a5735f1931b57d0e4a55f09e8627680bc19c123eac4ba6ede1c35016d81c1fc4
+  content: Jonathan Caplan believes the secrecy imposed by Richard Drain in his letter
+    to James Lay confirms that the Advanced Contact Group meeting at Holloman was
+    either a meeting or plans for a contact meeting to be kept under strict wraps,
+    and that Allen Dulles had also been consulted regarding the security of the meeting
+    and film.
+  original_excerpt: i do believe that this document because of the secrecy that was
+    being imposed by drain in the letter to ley is confirming that this was either
+    a meeting or plans for a contact meeting which was to be kept under very strict
+    wraps and that Alan Dulles had been consulted as well regarding the security of
+    the contact group meeting and film and that it simply was not to be released.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jonathan Caplan
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5b0650e4-d077-4cd0-aa09-0eacec20f22a
+    title: Richard Drain
+    slug: richard-drain
+  - node_id: 6f1d5f64-164c-408c-b80e-8e7c1bef866c
+    title: James Lay
+    slug: james-lay
+  - node_id: b749abd8-d5e9-43cb-98cc-74f2c87a8032
+    title: Advanced Contact Group meeting at Holloman Air Force Base, 1953-06
+    slug: 1953-06-advanced-contact-group-meeting-at-holloman-air-force-base
+  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+    slug: jonathan-caplan
+  - node_id: dea35210-38f0-4797-8438-84a5a9f42661
+    title: Allen Dulles
+    slug: allen-dulles
+  date: null
+  date_end: null
+  location_in_record: 00:48:48.1-00:49:17.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: 5bafd510-6dfa-46c6-bd72-874d57505674
+  claim_hash: df241a3ea5e9f8af1c8f3a3922c7588684487b6d7b200c226d3f4885349f1503
+  content: Some congressional committees have been extremely dissatisfied with Allen
+    Dulles's performance in relation to the Warren Commission.
+  original_excerpt: some of them have been extremely dissatisfied with Alan Dulles'
+    performance in relation to the Warren Commission.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jonathan Caplan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0549df67-486d-4503-bc65-1996c2bffee5
+    title: Warren Commission
+    slug: warren-commission
+  - node_id: dea35210-38f0-4797-8438-84a5a9f42661
+    title: Allen Dulles
+    slug: allen-dulles
+  date: null
+  date_end: null
+  location_in_record: 00:56:38.1-00:56:44.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: 58175e44-fd69-46d8-98aa-b06e429da474
+  claim_hash: e54dae45626cdc833ecf4369611bdba1420664fd103290b8ff06dc6eb9f798fc
+  content: In an apocryphal account, John Warner IV recounted that over a third martini
+    Paul Mellon told him he and Allen Dulles had been on a technology retrieval operation
+    in Nazi Germany around 1944 or 1945, standing atop a huge saucer-like UFO in Czechoslovakia.
+  original_excerpt: I think you even have an apocryphal story where Paul Mellon ...
+    And he talks about, he said he's on his third martini with Paul Mellon. And Paul
+    Mellon tells him that he and Allen Dulles were on this like, you know, tech retrieval
+    operation deep in, you know, post-World War II, you know, Nazi Germany, or maybe
+    it was like '44, '45. And they're saying that they're standing atop this huge
+    saucer-like UFO in Czechoslova
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: named
+    origin: Paul Mellon
+    relay:
+    - John Warner IV
+    - Jesse Michels
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+    title: crash retrieval and reverse engineering
+    slug: crash-retrieval-and-reverse-engineering
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: c6260730-daaa-425f-94a4-6d74920fb46b
+    title: Paul Mellon
+    slug: paul-mellon
+  - node_id: d60d84cb-b177-4c7d-9e89-5bb39f5397fc
+    title: John Warner IV
+    slug: john-warner-iv
+  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+    title: World War II
+    slug: world-war-ii
+  - node_id: dea35210-38f0-4797-8438-84a5a9f42661
+    title: Allen Dulles
+    slug: allen-dulles
+  date: null
+  date_end: null
+  location_in_record: 01:13:32.6-01:14:03.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 4390e984-6ef2-4d37-97fe-2b511d5807b1
+  claim_hash: 29ab7e7aa7757fb2ab7a7cb5657c9fbcc06e758fdbe078d3f8962a5877c64d09
+  content: Allen Dulles helped with Nazi financing while based in Switzerland during
+    World War II.
+  original_excerpt: And then Dulles was, you know, helping out with, you know, some
+    Nazi financing. ... Hanging out in Switzerland.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration by Jesse Michels
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+    title: World War II
+    slug: world-war-ii
+  - node_id: dea35210-38f0-4797-8438-84a5a9f42661
+    title: Allen Dulles
+    slug: allen-dulles
+  date: null
+  date_end: null
+  location_in_record: 01:21:19.2-01:21:23.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 08f71056-0e4a-4cfd-ab11-5c991a76b24f
+  claim_hash: 19f8077645896681c28568721c12aa0b5e2a7820bfe05f93954c71d255ccced4
+  content: Allen Dulles was connected to nearly every German Nazi titan of industry.
+  original_excerpt: He was connected to nearly every single like German Nazi titan
+    of industry.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration by Jason Samosa
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: dea35210-38f0-4797-8438-84a5a9f42661
+    title: Allen Dulles
+    slug: allen-dulles
+  date: null
+  date_end: null
+  location_in_record: 01:21:29.8-01:21:33.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 93d82b13-c15c-425a-965b-2f898f49ae16
+  claim_hash: 45d81a0838d82eefc836b90e3e4ccb089b29bb3ad3d4ff0053e91f9ee8ce8bfd
+  content: The Office of Strategic Services was run by William Donovan, together with
+    Allen Dulles; Donovan was also a Wall Street lawyer.
+  original_excerpt: So you've got the Office of Strategic Services, which is run by
+    Donovan. with Dulles, Donovan's also a Wall Street lawyer.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration by Jason Samosa
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
+    title: Office of Strategic Services (OSS)
+    slug: office-of-strategic-services-oss
+  - node_id: d889d0f2-6025-463f-abde-a238988e925f
+    title: William Donovan
+    slug: william-donovan
+  - node_id: dea35210-38f0-4797-8438-84a5a9f42661
+    title: Allen Dulles
+    slug: allen-dulles
+  date: null
+  date_end: null
+  location_in_record: 01:22:56.3-01:23:02.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 765fa90e-5e01-4fc7-9233-1ccf142dcd37
+  claim_hash: abab747b6c89187924be71fa2b620066bcf88bfd828f786cf33c74eb837b2fe1
+  content: The board of the World Commerce Corporation included William Donovan, William
+    Stephenson and Charles Hambro, with Allen Dulles serving as legal counsel.
+  original_excerpt: Donovan, Stephenson, Hambrose, you've got Dulles doing the legal
+    counsel.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration by Jason Samosa
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+    title: Charlie Hickson
+    slug: charlie-hickson
+  - node_id: 7699ee6b-266c-42ed-95b2-3b4430fd2af9
+    title: World Commerce Corporation
+    slug: world-commerce-corporation
+  - node_id: 7ddd5068-c6d5-475e-893a-bcf182ee126f
+    title: William Stephenson
+    slug: william-stephenson
+  - node_id: d889d0f2-6025-463f-abde-a238988e925f
+    title: William Donovan
+    slug: william-donovan
+  - node_id: dea35210-38f0-4797-8438-84a5a9f42661
+    title: Allen Dulles
+    slug: allen-dulles
+  date: null
+  date_end: null
+  location_in_record: 01:24:43.0-01:24:47.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

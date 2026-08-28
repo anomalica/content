@@ -1,0 +1,779 @@
+schema: anomalica/brief/1
+brief_hash: cf9604193a9eab9dd7625d5029e1a5d80cda54dd804a3d1489c6616fbe59fecf
+page:
+  kind: entity
+  node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+  node_type: organisation
+  title: Massachusetts Institute of Technology (MIT)
+  slug: massachusetts-institute-of-technology-mit
+  claim_count: 15
+  claim_count_total: 15
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 2bc3bf7b-ee67-4374-98bd-1e5d8f77c6ad
+  title: Abduction Study Conference at Massachusetts Institute of Technology (MIT),
+    1992-06
+  node_type: event
+  slug: 1992-06-abduction-study-conference-at-massachusetts-institute-of-technology-mit
+  shared_claims: 2
+- node_id: 59476464-a679-46ce-9247-b0adcb287762
+  title: Edgar Mitchell
+  node_type: person
+  slug: edgar-mitchell
+  shared_claims: 2
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 2
+- node_id: 5a9015f2-9153-4ea8-8de1-8c92959bb2bc
+  title: Apple Inc.
+  node_type: organisation
+  slug: apple-inc
+  shared_claims: 1
+- node_id: 5400858e-d87e-4985-8d00-5d6e3aa73607
+  title: Bruce DePalma
+  node_type: person
+  slug: bruce-depalma
+  shared_claims: 1
+- node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+  title: California Institute of Technology (Caltech)
+  node_type: organisation
+  slug: california-institute-of-technology-caltech
+  shared_claims: 1
+- node_id: bc46ab37-0b38-4fcb-9ce2-2ba47642005f
+  title: Carnegie Mellon University
+  node_type: organisation
+  slug: carnegie-mellon-university
+  shared_claims: 1
+- node_id: c9e262ab-e817-4429-a91c-d526b8251825
+  title: Chris Sato
+  node_type: person
+  slug: chris-sato
+  shared_claims: 1
+- node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+  title: Craig McPherson
+  node_type: person
+  slug: craig-mcpherson
+  shared_claims: 1
+- node_id: cb6ab55f-1a6e-4e3a-b70d-72b64614f520
+  title: Curtis H. Barker
+  node_type: person
+  slug: curtis-h-barker
+  shared_claims: 1
+- node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+  title: Cydonia
+  node_type: place
+  slug: cydonia
+  shared_claims: 1
+- node_id: c09e3558-1732-4676-a218-d67d285d98ef
+  title: David Fravor
+  node_type: person
+  slug: david-fravor
+  shared_claims: 1
+- node_id: 70cc51f9-0a91-4e4f-ac90-8a8cafa28238
+  title: David Pritchard
+  node_type: person
+  slug: david-pritchard
+  shared_claims: 1
+- node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+  title: Donald Menzel
+  node_type: person
+  slug: donald-menzel
+  shared_claims: 1
+- node_id: a8b10a6d-0ccb-4b48-98ab-ca7a7a147fde
+  title: Georgia Institute of Technology (Georgia Tech)
+  node_type: organisation
+  slug: georgia-institute-of-technology-georgia-tech
+  shared_claims: 1
+- node_id: 418dfc9e-c118-4678-bb45-4229409cea2e
+  title: Gilbert Levin
+  node_type: person
+  slug: gilbert-levin
+  shared_claims: 1
+- node_id: 81999e13-93e8-4815-8b1a-7f5b14f67464
+  title: Guy Consolmagno
+  node_type: person
+  slug: guy-consolmagno
+  shared_claims: 1
+- node_id: cc91972e-872a-4329-a0bd-485931c3c896
+  title: Jack C. Oppenheimer
+  node_type: person
+  slug: jack-c-oppenheimer
+  shared_claims: 1
+- node_id: 7eaac853-d863-4210-af67-e165485c02e9
+  title: Lex Fridman
+  node_type: person
+  slug: lex-fridman
+  shared_claims: 1
+- node_id: 2d895ba6-53e7-40bb-abef-0be59be4eea3
+  title: Margaret Mead
+  node_type: person
+  slug: margaret-mead
+  shared_claims: 1
+- node_id: 7a2bb9c7-c65e-47c2-91da-8caebb3f1c90
+  title: Naval Postgraduate School
+  node_type: organisation
+  slug: naval-postgraduate-school
+  shared_claims: 1
+- node_id: 1cd8dee1-e4e8-49dc-a0a9-25a3c7e4e40e
+  title: Proposed Studies on the Implications of Peaceful Space Activities for Human
+    Affairs (Brookings Report)
+  node_type: document
+  slug: proposed-studies-on-the-implications-of-peaceful-space-activities-for-human-affairs-brookings-report
+  shared_claims: 1
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 1
+- node_id: b1892df4-feca-4f62-a146-592f5997621c
+  title: Richard Price
+  node_type: person
+  slug: richard-price
+  shared_claims: 1
+- node_id: 3f4bdd61-7ebe-4811-bdff-a59c500373d5
+  title: Richard Price's penile implant case
+  node_type: event
+  slug: richard-prices-penile-implant-case
+  shared_claims: 1
+- node_id: c725eeac-de34-4804-a85d-399ecacdaecc
+  title: Ron Levin
+  node_type: person
+  slug: ron-levin
+  shared_claims: 1
+- node_id: ab298ffd-fe03-4a47-8d46-7e16bb1585bb
+  title: Sara Seager
+  node_type: person
+  slug: sara-seager
+  shared_claims: 1
+- node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+  title: Stanford University
+  node_type: organisation
+  slug: stanford-university
+  shared_claims: 1
+- node_id: 1b7f7388-4e9c-4830-8d37-3df0f3e5597f
+  title: Thomas Bearden
+  node_type: person
+  slug: thomas-bearden
+  shared_claims: 1
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 1
+claims:
+- claim_id: 430f80ae-ba00-41b8-b360-9eadc60c4192
+  claim_hash: 88e7f8af10a0c1c981b12577175852a08b245b55862723d58f9edc10871f3f6a
+  content: One of the more interesting implant studies was reported at the Abduction
+    Study Conference held at the Massachusetts Institute of Technology (MIT) during
+    June 1992.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2bc3bf7b-ee67-4374-98bd-1e5d8f77c6ad
+    title: Abduction Study Conference at Massachusetts Institute of Technology (MIT),
+      1992-06
+    slug: 1992-06-abduction-study-conference-at-massachusetts-institute-of-technology-mit
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  date: 1992-06
+  date_end: null
+  location_in_record: ch18:10589-10761
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 0038f7f3-69c9-4abc-bde2-9c2a2af5904e
+  claim_hash: 10088d47d7d29247c341774402a9a7c5af197b025d8b018d70482837c8162fff
+  content: At the Abduction Study Conference at MIT in June 1992, MIT physicist Dr.
+    David Pritchard described his efforts at identifying a small foreign item that
+    emerged from the penis of New York State abductee Richard Price.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2bc3bf7b-ee67-4374-98bd-1e5d8f77c6ad
+    title: Abduction Study Conference at Massachusetts Institute of Technology (MIT),
+      1992-06
+    slug: 1992-06-abduction-study-conference-at-massachusetts-institute-of-technology-mit
+  - node_id: 3f4bdd61-7ebe-4811-bdff-a59c500373d5
+    title: Richard Price's penile implant case
+    slug: richard-prices-penile-implant-case
+  - node_id: 70cc51f9-0a91-4e4f-ac90-8a8cafa28238
+    title: David Pritchard
+    slug: david-pritchard
+  - node_id: b1892df4-feca-4f62-a146-592f5997621c
+    title: Richard Price
+    slug: richard-price
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  date: 1992-06
+  date_end: null
+  location_in_record: ch18:10768-10976
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 1de3c8bf-81e5-47e4-b273-aa1a94328218
+  claim_hash: b5f984fc5c046d7706b0fccc839b84128f1150d0f5cf74b6dd9b4843ce5390f1
+  content: Dr Craig McPherson attended Massachusetts Institute of Technology (MIT).
+  original_excerpt: Dr McPherson attended Penn State University, the University of
+    Pennsylvania and MIT.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+    title: Craig McPherson
+    slug: craig-mcpherson
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  date: null
+  date_end: null
+  location_in_record: char:2578-2658
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+    record_title: Project Serpo
+    record_date: '2007-06-20'
+    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+    friendly_name: null
+- claim_id: d38d4761-5cfc-4ccf-916e-55329f593739
+  claim_hash: d25388bd65e6f5b81bbc62689a1edbfd524f51ac00606309a1a8447d42a9eaf5
+  content: Contributors to the Brookings Report included Curtis H. Barker of the Massachusetts
+    Institute of Technology (MIT), Jack C. Oppenheimer of National Aeronautics and
+    Space Administration (NASA), and anthropologist Margaret Mead.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Proposed Studies on the Implications of Peaceful Space Activities for
+      Human Affairs (Brookings Report)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1cd8dee1-e4e8-49dc-a0a9-25a3c7e4e40e
+    title: Proposed Studies on the Implications of Peaceful Space Activities for Human
+      Affairs (Brookings Report)
+    slug: proposed-studies-on-the-implications-of-peaceful-space-activities-for-human-affairs-brookings-report
+  - node_id: 2d895ba6-53e7-40bb-abef-0be59be4eea3
+    title: Margaret Mead
+    slug: margaret-mead
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  - node_id: cb6ab55f-1a6e-4e3a-b70d-72b64614f520
+    title: Curtis H. Barker
+    slug: curtis-h-barker
+  - node_id: cc91972e-872a-4329-a0bd-485931c3c896
+    title: Jack C. Oppenheimer
+    slug: jack-c-oppenheimer
+  date: null
+  date_end: null
+  location_in_record: ch10:52545-52690
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2e83dc0b-e772-4ca2-916b-9df6c2492a19
+  claim_hash: 0ba742b0cc64bd677c746ce8eb48d001e8ccb76e239312a25837bbd75f04bbe2
+  content: In Vannevar Bush's 1950 testimony on behalf of Donald Menzel in loyalty
+    hearings, Bush stated he first knew Menzel in either 1934 or 1935 while engaged
+    in designing and building the differential analyzer at the Massachusetts Institute
+    of Technology, where Bush was then Vice President and Dean of Engineering.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+  provenance_chain:
+    origin_kind: speaker
+    origin: Vannevar Bush
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    slug: vannevar-bush
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: '1950'
+  date_end: null
+  location_in_record: ch12:68768-68963
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 7690e020-75f8-4d26-81ec-6d8525767792
+  claim_hash: 7c7765bd6529e92fee8fea8a9811c89e455c52e515eeaa34034d58ea124159d7
+  content: Ron Levin, Gilbert Levin's son, is a physicist at the Massachusetts Institute
+    of Technology (MIT).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 418dfc9e-c118-4678-bb45-4229409cea2e
+    title: Gilbert Levin
+    slug: gilbert-levin
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  - node_id: c725eeac-de34-4804-a85d-399ecacdaecc
+    title: Ron Levin
+    slug: ron-levin
+  date: null
+  date_end: null
+  location_in_record: ch18:15603-15649
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 3a7795b8-deee-4fd3-8535-e12412539e49
+  claim_hash: 398861044d8c594f9a0dee8deb665603677f5bec4697ad6f51c07b271377bd5e
+  content: Richard C. Hoagland made new connections between the geometry of Cydonia
+    and the historical treatment of hyperspatial physics, encountering independent
+    researchers including Bruce DePalma, an M.I.T. physicist, and Thomas Bearden,
+    a nuclear engineer and physicist who had worked on the U.S. Army's scalar weapons
+    programmes.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1b7f7388-4e9c-4830-8d37-3df0f3e5597f
+    title: Thomas Bearden
+    slug: thomas-bearden
+  - node_id: 5400858e-d87e-4985-8d00-5d6e3aa73607
+    title: Bruce DePalma
+    slug: bruce-depalma
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    slug: cydonia
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch9:33848-34327
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: ee2c7de1-d8b5-4f96-b56c-8c9c535aab9b
+  claim_hash: 1d8a912977d8af6a495ccff61639062c8895b53c30b621015747401ca6c61e7a
+  content: Sara Seager, an astrophysicist at the Massachusetts Institute of Technology
+    (MIT), cautioned that not knowing the origin of an object does not mean that it
+    is from another planet or galaxy.
+  original_excerpt: While not addressing the merits of the program, Sara Seager, an
+    astrophysicist at M.I.T., cautioned that not knowing the origin of an object does
+    not mean that it is from another planet or galaxy.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: ab298ffd-fe03-4a47-8d46-7e16bb1585bb
+    title: Sara Seager
+  provenance_chain:
+    origin_kind: speaker
+    origin: Seager, Sara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ab298ffd-fe03-4a47-8d46-7e16bb1585bb
+    title: Sara Seager
+    slug: sara-seager
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  date: null
+  date_end: null
+  location_in_record: char:3705-3894
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: d582d423-3526-4809-a543-b3dcaa109cfc
+  claim_hash: 28c985d8556597eef3799963b0d90ffc3f88e7ea7073086ef9adef436e8c20a9
+  content: Edgar Mitchell earned a PhD in aeronautics and astronautics from the Massachusetts
+    Institute of Technology (MIT).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  date: null
+  date_end: null
+  location_in_record: ch6:28474-28573
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: b1285c2d-949b-4bbc-b701-57f4b809b2da
+  claim_hash: 1147dd327390b2b6d24ed78a2b255f8c6578505f979b4f7ecd128b72273598f5
+  content: Guy Consolmagno is an American Jesuit with degrees from the Massachusetts
+    Institute of Technology (MIT) and the University of Arizona.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2857f17e-454a-472d-a73a-b616686f7964
+    title: University of Arizona Press
+    slug: university-of-arizona-press
+  - node_id: 81999e13-93e8-4815-8b1a-7f5b14f67464
+    title: Guy Consolmagno
+    slug: guy-consolmagno
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  date: null
+  date_end: null
+  location_in_record: ch7:24020-24089
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 970e5052-ce31-4a50-a2aa-f8d308bb8522
+  claim_hash: 4fa07451a0e3892ec7b168e0ea2bd25692ef33637020b0e560592605848e0640
+  content: Chris Sato works at Apple Inc. in a high-up position and is a graduate
+    of the Massachusetts Institute of Technology (MIT).
+  original_excerpt: He's, works at Apple, pretty high up, MIT grad.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5a9015f2-9153-4ea8-8de1-8c92959bb2bc
+    title: Apple Inc.
+    slug: apple-inc
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  - node_id: c9e262ab-e817-4429-a91c-d526b8251825
+    title: Chris Sato
+    slug: chris-sato
+  date: null
+  date_end: null
+  location_in_record: 00:29:27.4-00:29:31.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: 5ef72f30-9a79-4f13-b97c-ffa5b1537ba9
+  claim_hash: 0705ea4876c03eb400035027bf095a35a4bd43617088e27a391197586db333fa
+  content: Lex Fridman's podcast listeners include faculty at Massachusetts Institute
+    of Technology (MIT) and other major universities.
+  original_excerpt: I think the people who listen to this include, you know, fellow
+    faculty at MIT and major universities.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 7eaac853-d863-4210-af67-e165485c02e9
+    title: Lex Fridman
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lex Fridman
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7eaac853-d863-4210-af67-e165485c02e9
+    title: Lex Fridman
+    slug: lex-fridman
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  date: null
+  date_end: null
+  location_in_record: 01:49:27.2-01:49:35.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: e24fc0b9-c93f-4edc-9169-d03a9047ecc0
+  claim_hash: 158621c1e45bb6fccb03bf28a91d4dc17fb2f5884870a0180a87ce2f249a4362
+  content: David Fravor considers Massachusetts Institute of Technology (MIT), California
+    Institute of Technology (Caltech), Stanford University, Georgia Institute of Technology
+    (Georgia Tech), Virginia Polytechnic Institute and State University (Virginia
+    Tech), Carnegie Mellon University, and Naval Postgraduate School to be among the
+    top-tier universities from which leading-edge technology research typically emerges.
+  original_excerpt: So you've got MIT, you've got Caltech, you've got Stanford, Georgia
+    Tech, Virginia Tech, Carnegie Mellon, I'm just naming schools, Naval Postgraduate
+    School is another one.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+    title: Stanford University
+    slug: stanford-university
+  - node_id: 7a2bb9c7-c65e-47c2-91da-8caebb3f1c90
+    title: Naval Postgraduate School
+    slug: naval-postgraduate-school
+  - node_id: a8b10a6d-0ccb-4b48-98ab-ca7a7a147fde
+    title: Georgia Institute of Technology (Georgia Tech)
+    slug: georgia-institute-of-technology-georgia-tech
+  - node_id: bc46ab37-0b38-4fcb-9ce2-2ba47642005f
+    title: Carnegie Mellon University
+    slug: carnegie-mellon-university
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  - node_id: c9c99b36-9b95-4a71-b0c4-38b2219e7401
+    title: Virginia Polytechnic Institute and State University (Virginia Tech)
+    slug: virginia-polytechnic-institute-and-state-university-virginia-tech
+  - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+    title: California Institute of Technology (Caltech)
+    slug: california-institute-of-technology-caltech
+  date: null
+  date_end: null
+  location_in_record: 02:14:16.5-02:14:25.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: ae9adecc-9b7a-4535-a962-fd341cc0dd63
+  claim_hash: 6d23bdd1ffe91388ade6fcdfd34fa7c6f93bf71aa58508356af00155ac238423
+  content: Edgar Mitchell was an engineer trained at the Massachusetts Institute of
+    Technology (MIT).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  date: null
+  date_end: null
+  location_in_record: ch12:8135-8201
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: c8cfe656-51b4-46c6-8e9b-b881301ce8f2
+  claim_hash: e3c2d2558574966176995c66a0a855d319dd82ab6a62d4c593a97d10dc89e9db
+  content: US government research facilities associated with the Department of Defense,
+    NASA, and the Massachusetts Institute of Technology gave the concept of warp drive
+    serious consideration.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
+    title: warp drive
+    slug: warp-drive
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  date: null
+  date_end: null
+  location_in_record: ch22:3230-3371
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted

@@ -1,0 +1,749 @@
+schema: anomalica/brief/1
+brief_hash: 4373ff01760951ec0757576f85c7bb4ed28a6cdfae0387fed4a7cdced1424309
+page:
+  kind: entity
+  node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+  node_type: topic
+  title: Nordic alien (type)
+  slug: nordic-alien-type
+  claim_count: 16
+  claim_count_total: 16
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 3ff75793-423c-4333-8402-d5c543074091
+  title: Bill Chalker
+  node_type: person
+  slug: bill-chalker
+  shared_claims: 4
+- node_id: f83a8407-1a6a-4888-a7c4-446036783342
+  title: 1975 Travis Walton abduction case
+  node_type: event
+  slug: 1975-travis-walton-abduction-case
+  shared_claims: 2
+- node_id: cb958233-a2b2-4a92-8b80-0515220ca256
+  title: Wazungu (African term for white-skinned aliens)
+  node_type: topic
+  slug: wazungu-african-term-for-white-skinned-aliens
+  shared_claims: 2
+- node_id: 94d1bd0d-1d47-4b5a-b133-517ce3f3b541
+  title: 1968 Villa Carlos Paz, Argentina Nordic entity encounter with Maria Elodia
+    Pretzel
+  node_type: event
+  slug: argentina-nordic-entity-encounter-with-maria-elodia-pretzel-1968-villa-carlos-paz
+  shared_claims: 1
+- node_id: 731dce84-b894-4195-b4c1-697a2fbdb408
+  title: 1970 Imjarvi, Finland close encounter of Aarno Heinonen and Esko Vijo
+  node_type: event
+  slug: finland-close-encounter-of-aarno-heinonen-and-esko-vijo-1970-imjarvi
+  shared_claims: 1
+- node_id: d8eff876-8c53-4926-8589-a157c40eb089
+  title: 1994 discovery of Xinjiang Taklimakan mummies
+  node_type: event
+  slug: 1994-discovery-of-xinjiang-taklimakan-mummies
+  shared_claims: 1
+- node_id: fc5dd26e-63d0-47c9-86ae-b11bf1e9c5e3
+  title: Alvin Guerra
+  node_type: person
+  slug: alvin-guerra
+  shared_claims: 1
+- node_id: a430a7e8-4ef0-4b9d-b8aa-f701493c1c5f
+  title: Argentina, Villa Carlos Paz
+  node_type: place
+  slug: villa-carlos-paz-argentina
+  shared_claims: 1
+- node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+  title: Budd Hopkins
+  node_type: person
+  slug: budd-hopkins
+  shared_claims: 1
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 1
+- node_id: 3273c059-0835-4596-a5dd-b855dea25555
+  title: Credo Mutwa
+  node_type: person
+  slug: credo-mutwa
+  shared_claims: 1
+- node_id: a384e65a-f90f-4829-9bc0-cd87e84a56cf
+  title: Jason Reza Jorjani
+  node_type: person
+  slug: jason-reza-jorjani
+  shared_claims: 1
+- node_id: 0e4e60d0-a5df-461d-ac29-486f8eff8c50
+  title: Jason Reza Jorjani interview on American Alchemy, 2025-11
+  node_type: event
+  slug: 2025-11-jason-reza-jorjani-interview-on-american-alchemy
+  shared_claims: 1
+- node_id: ad189a95-f5f6-4b84-b705-9a2f3e45e308
+  title: Maria Elodia Pretzel
+  node_type: person
+  slug: maria-elodia-pretzel
+  shared_claims: 1
+- node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+  title: Peter Khoury
+  node_type: person
+  slug: peter-khoury
+  shared_claims: 1
+- node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
+  title: Peter Khoury alien abduction case
+  node_type: event
+  slug: peter-khoury-alien-abduction-case
+  shared_claims: 1
+- node_id: 3b435acc-79b0-4de8-9179-5b8ecd7df406
+  title: Richard Thompson
+  node_type: person
+  slug: richard-thompson
+  shared_claims: 1
+- node_id: d91e2df7-b885-41ab-952d-002373550f99
+  title: Travis Walton
+  node_type: person
+  slug: travis-walton
+  shared_claims: 1
+- node_id: 1b9339d2-39f0-4a42-8691-8b80b6958982
+  title: Tuatha de Danann
+  node_type: topic
+  slug: tuatha-de-danann
+  shared_claims: 1
+- node_id: 3409962d-a771-431d-9097-801c7d842f22
+  title: USA, Colorado, Rocky Mountains
+  node_type: place
+  slug: colorado-rocky-mountains-usa
+  shared_claims: 1
+- node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+  title: Vicki Klein
+  node_type: person
+  slug: vicki-klein
+  shared_claims: 1
+- node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
+  title: gray alien stereotype
+  node_type: topic
+  slug: gray-alien-stereotype
+  shared_claims: 1
+- node_id: 46a284ea-0a1b-4828-8e2a-bfcc470ac208
+  title: solid light phenomenon (UFO)
+  node_type: topic
+  slug: solid-light-phenomenon-ufo
+  shared_claims: 1
+claims:
+- claim_id: 7ebed348-b570-48d3-8340-22522adefc2f
+  claim_hash: 614dbd8bfe11d3bead24e7f39386311a663b8cb0ba95bfaab7d773fe2ac1e2ba
+  content: Richard Thompson draws parallels between the Vedic female Devas (goddesses)
+    and UFO entities, particularly Nordic-type aliens.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 3b435acc-79b0-4de8-9179-5b8ecd7df406
+    title: Richard Thompson
+  provenance_chain:
+    origin_kind: named
+    origin: Richard Thompson
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3b435acc-79b0-4de8-9179-5b8ecd7df406
+    title: Richard Thompson
+    slug: richard-thompson
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    slug: nordic-alien-type
+  date: null
+  date_end: null
+  location_in_record: ch12:20744-20868
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 9b24f858-bc98-41d7-907b-9de816a24aaa
+  claim_hash: ea37e1ee071115076224fad36feff095611969f4a761845c460be0f6c0e91b2a
+  content: Alvin Guerra described being rewarded for his cooperation with a sexual
+    encounter with the tall, blue-eyed, blond-haired Nordic commander of the UFO.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: fc5dd26e-63d0-47c9-86ae-b11bf1e9c5e3
+    title: Alvin Guerra
+  provenance_chain:
+    origin_kind: named
+    origin: Alvin Guerra
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    slug: nordic-alien-type
+  - node_id: fc5dd26e-63d0-47c9-86ae-b11bf1e9c5e3
+    title: Alvin Guerra
+    slug: alvin-guerra
+  date: null
+  date_end: null
+  location_in_record: ch15:19597-19719
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 55b9e1c4-d59d-4560-bf18-495175f3e744
+  claim_hash: dfea7ed02e4251db4229290dd7e2ce64daf07f141c34bc914c070cfe402a6a2f
+  content: Tall Nordic-type beings with hair have been reported frequently in abduction
+    cases, most notably in the Travis Walton case of 1975.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    slug: nordic-alien-type
+  - node_id: f83a8407-1a6a-4888-a7c4-446036783342
+    title: 1975 Travis Walton abduction case
+    slug: 1975-travis-walton-abduction-case
+  date: null
+  date_end: null
+  location_in_record: ch15:9687-9810
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: d8bd1127-1abd-428c-9dee-947ed98caa3a
+  claim_hash: 0a5690093f340b9ad08f6fcd3186f9b9e500b0b241e46d5d314789e72496b8f4
+  content: The two disparate entity types were said to claim they are one people;
+    the tall blonde one resembling the Nordic race, and the dog-faced one having pointed
+    ears, eyes with large pupils and no iris or white, a longish flattened nose, thin
+    mouth, dressed in a blue-grey tunic with tight banded collar and oval shoes.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    slug: nordic-alien-type
+  date: null
+  date_end: null
+  location_in_record: ch16:18639-18952
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 447d0e8d-4573-418b-9986-46625fb4f064
+  claim_hash: 6fe56575c250caaffce121ceda0265efc9ffa2fa8f73009575121be1a9afe039
+  content: Bill Chalker considers Vicki Klein's account to share several features
+    identical to those heralded as a breakthrough for understanding the alien abduction
+    agenda by Budd Hopkins in 1987, including humanoid beings of the Nordic type involved
+    in a genetic programme using painful ova removal, a room housing bred babies,
+    and weak babies responding to human bonding.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+    title: Budd Hopkins
+    slug: budd-hopkins
+  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+    title: Vicki Klein
+    slug: vicki-klein
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    slug: nordic-alien-type
+  date: null
+  date_end: null
+  location_in_record: ch16:19051-19503
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 32992201-e75a-470b-bdc0-4dfe8b34e3e0
+  claim_hash: 9364d54413b7cf2c8c334955a962103fa5ec5c167a50daeb2c2fe66e0d66f1ec
+  content: Credo Mutwa describes these alien beings as tall, athletically built, with
+    slightly slanting blue eyes, high cheekbones, golden hair, and long musician-like
+    fingers.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 3273c059-0835-4596-a5dd-b855dea25555
+    title: Credo Mutwa
+  provenance_chain:
+    origin_kind: speaker
+    origin: Credo Mutwa
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3273c059-0835-4596-a5dd-b855dea25555
+    title: Credo Mutwa
+    slug: credo-mutwa
+  - node_id: cb958233-a2b2-4a92-8b80-0515220ca256
+    title: Wazungu (African term for white-skinned aliens)
+    slug: wazungu-african-term-for-white-skinned-aliens
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    slug: nordic-alien-type
+  date: null
+  date_end: null
+  location_in_record: ch17:31326-31633
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 2cf10648-c212-448f-bdb1-bd2121198def
+  claim_hash: f9b63d1e24737e3925585458c89a3e161648f349406806adc636c0f3e719afd6
+  content: Bill Chalker considers Credo Mutwa's Wazungu account to be describing the
+    Nordic type beings extensively reported in UFO literature.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: cb958233-a2b2-4a92-8b80-0515220ca256
+    title: Wazungu (African term for white-skinned aliens)
+    slug: wazungu-african-term-for-white-skinned-aliens
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    slug: nordic-alien-type
+  date: null
+  date_end: null
+  location_in_record: ch17:32950-33057
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: a713c2cb-d131-47ad-bf14-ab8d9e30b110
+  claim_hash: da9fab0e7a66543e930e3d140198ff8c0d2d4528115928731576377db51b4104
+  content: Nordic-type beings appear in the abduction accounts of Peter Khoury in
+    1992 and Travis Walton in 1975.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+    slug: peter-khoury
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    slug: nordic-alien-type
+  - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
+    title: Peter Khoury alien abduction case
+    slug: peter-khoury-alien-abduction-case
+  - node_id: d91e2df7-b885-41ab-952d-002373550f99
+    title: Travis Walton
+    slug: travis-walton
+  - node_id: f83a8407-1a6a-4888-a7c4-446036783342
+    title: 1975 Travis Walton abduction case
+    slug: 1975-travis-walton-abduction-case
+  date: null
+  date_end: null
+  location_in_record: ch17:33070-33190
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 34abe91c-b6d9-4566-a258-068adb880e11
+  claim_hash: e15bc97075d25e421793415c2f983086129a82ec654d17c3dfb509a4627a7ea8
+  content: Nordic-type aliens are most conspicuous in contactee accounts describing
+    largely benevolent interactions with humanlike beings.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    slug: nordic-alien-type
+  date: null
+  date_end: null
+  location_in_record: ch17:33200-33338
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 2c5ad927-ad1d-431f-ac85-2eaa7dab9592
+  claim_hash: 397cdb80d143af88ef2f956c13069ba9f2d1ffd6c8d12574fb08214877b7c138
+  content: The 1970 Imjarvi close encounter case featured a Nordic female entity with
+    a hand 'ball' artefact and suggestions of controlling implants.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Aarno Heinonen and Esko Vijo
+    relay:
+    - Bill Chalker
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 731dce84-b894-4195-b4c1-697a2fbdb408
+    title: 1970 Imjarvi, Finland close encounter of Aarno Heinonen and Esko Vijo
+    slug: finland-close-encounter-of-aarno-heinonen-and-esko-vijo-1970-imjarvi
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    slug: nordic-alien-type
+  date: null
+  date_end: null
+  location_in_record: ch17:33776-33913
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 4fc92029-9d7d-4e23-83e5-e3ed3183b8f9
+  claim_hash: 46f3e735429b1bce8e7e73b6c6395a81722d284bf85ef0b267756550aa950705
+  content: In 1968 at Villa Carlos Paz, Argentina, a Nordic entity with a ball manipulating
+    solid light confronted witness Maria Elodia Pretzel, causing her to slowly fall
+    backwards and rise again at least twice.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Maria Elodia Pretzel
+    relay:
+    - Bill Chalker
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 46a284ea-0a1b-4828-8e2a-bfcc470ac208
+    title: solid light phenomenon (UFO)
+    slug: solid-light-phenomenon-ufo
+  - node_id: 94d1bd0d-1d47-4b5a-b133-517ce3f3b541
+    title: 1968 Villa Carlos Paz, Argentina Nordic entity encounter with Maria Elodia
+      Pretzel
+    slug: argentina-nordic-entity-encounter-with-maria-elodia-pretzel-1968-villa-carlos-paz
+  - node_id: a430a7e8-4ef0-4b9d-b8aa-f701493c1c5f
+    title: Argentina, Villa Carlos Paz
+    slug: villa-carlos-paz-argentina
+  - node_id: ad189a95-f5f6-4b84-b705-9a2f3e45e308
+    title: Maria Elodia Pretzel
+    slug: maria-elodia-pretzel
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    slug: nordic-alien-type
+  date: '1968'
+  date_end: null
+  location_in_record: ch17:33928-34239
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 0c063271-9473-481b-a898-42b1ae5b0c3f
+  claim_hash: e2b8cefec34d67ab7da2c68755bdcf12929c7e8bcbb1a15c9d33a97e97504575
+  content: Bill Chalker does not suggest the Xinjiang Taklimakan mummies are related
+    to the Nordic-type beings often reported in alien abduction stories, considering
+    such a possibility only assessable once a complete DNA profile of the mummies
+    and consistent DNA profiles from a significant number of abduction cases are available.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    slug: nordic-alien-type
+  - node_id: d8eff876-8c53-4926-8589-a157c40eb089
+    title: 1994 discovery of Xinjiang Taklimakan mummies
+    slug: 1994-discovery-of-xinjiang-taklimakan-mummies
+  date: null
+  date_end: null
+  location_in_record: ch20:2134-2478
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 7e116f5e-7573-435e-93e0-46b0c18a57c1
+  claim_hash: 981fbe353bd4005b0f85e1dc73bb95d737a435cd6706a12eed9f17aba4100657
+  content: Bill Chalker considers that the Tuatha de Danann tradition and fairy folklore
+    both feature tall, often long-haired, blue-eyed attractive beings with striking
+    abilities and resources (the "Tuatha" and the "Nordics"), as well as diminutive
+    beings often intent on entrapment and abduction (the "fairies" and the "grays").
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 12c6029d-316e-47d6-a0f8-6a2527bfd14a
+    title: gray alien stereotype
+    slug: gray-alien-stereotype
+  - node_id: 1b9339d2-39f0-4a42-8691-8b80b6958982
+    title: Tuatha de Danann
+    slug: tuatha-de-danann
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    slug: nordic-alien-type
+  date: null
+  date_end: null
+  location_in_record: ch20:29109-29344
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: d5165563-8893-4491-ba4d-7854d779a4f0
+  claim_hash: 713cef6d7dd930da1f460d4b51876cb5f117f2e0613b244bd723346923e76d1b
+  content: Jason Reza Jorjani, in his November 2025 American Alchemy interview, said
+    the Central Intelligence Agency's alleged access to consumer DNA databases is
+    used to screen for genetic markers of Nordic alien beings said to live on Earth.
+  original_excerpt: And what they're doing, supposedly, is screening for genetic markers,
+    particularly for those pesky Nordic beings, alien beings that allegedly reside
+    here on the planet with us.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: named
+    origin: Jason Reza Jorjani
+    relay:
+    - Ross Coulthart
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0e4e60d0-a5df-461d-ac29-486f8eff8c50
+    title: Jason Reza Jorjani interview on American Alchemy, 2025-11
+    slug: 2025-11-jason-reza-jorjani-interview-on-american-alchemy
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: a384e65a-f90f-4829-9bc0-cd87e84a56cf
+    title: Jason Reza Jorjani
+    slug: jason-reza-jorjani
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    slug: nordic-alien-type
+  date: null
+  date_end: null
+  location_in_record: 00:03:09.8-00:03:22.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+    friendly_name: null
+- claim_id: 7461a2e7-ee82-4580-bb85-fc0459cb3d37
+  claim_hash: 88493334e4ae2ea020fa74193034f80f958e612a6dcb8c66621e71368c0355e5
+  content: Nordic aliens are described as tall, blonde and blue-eyed beings living
+    discreetly among humans.
+  original_excerpt: Nordics, if you don't know what they are, are tall, blonde, blue
+    eyed. No, I'm not guilty. Beings living discreetly.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: unattributed
+    origin: Ross Coulthart's narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    slug: nordic-alien-type
+  date: null
+  date_end: null
+  location_in_record: 00:03:53.4-00:04:00.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+    friendly_name: null
+- claim_id: 11c0685e-2a27-4666-a22a-3e542f16b7fd
+  claim_hash: 0eb84b22e559f477a21d95702a92e8b598bffa5cc8b4782e5bddb1b48fd61e31
+  content: Nordic aliens are said to favour living in the Rocky Mountains in Colorado.
+  original_excerpt: Apparently they love living in the Rockies up in Colorado.
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unspecified accounts relayed by Ross Coulthart
+    relay:
+    - Ross Coulthart
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3409962d-a771-431d-9097-801c7d842f22
+    title: USA, Colorado, Rocky Mountains
+    slug: colorado-rocky-mountains-usa
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    slug: nordic-alien-type
+  date: null
+  date_end: null
+  location_in_record: 00:04:01.4-00:04:04.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+    friendly_name: null

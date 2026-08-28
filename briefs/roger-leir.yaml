@@ -1,0 +1,822 @@
+schema: anomalica/brief/1
+brief_hash: dc79f59bdebfa8dd71fd1f77fba299daceb52798ea0e4b454a84136cab3903f3
+page:
+  kind: entity
+  node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+  node_type: person
+  title: Roger Leir
+  slug: roger-leir
+  claim_count: 19
+  claim_count_total: 19
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 5
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 3
+- node_id: 05c993d3-ff62-4822-a7fe-91cba59c0215
+  title: Brazil
+  node_type: organisation
+  slug: brazil
+  shared_claims: 2
+- node_id: 43169747-27fd-4577-8bcf-9c914dd33469
+  title: New Mexico Tech
+  node_type: organisation
+  slug: new-mexico-tech
+  shared_claims: 2
+- node_id: 16326490-45cc-47c3-bf56-993e00effaaa
+  title: 1996 death of Officer Marco Eli Cherese
+  node_type: event
+  slug: 1996-death-of-officer-marco-eli-cherese
+  shared_claims: 1
+- node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
+  title: 2000-09 Gary Lowrey alien claw discovery
+  node_type: event
+  slug: 2000-09-gary-lowrey-alien-claw-discovery
+  shared_claims: 1
+- node_id: 363dcb03-8b6e-455a-95e0-9b53302d5b86
+  title: August 19, 1995 Roger Leir first implant removal surgery
+  node_type: event
+  slug: 1995-roger-leir-first-implant-removal-surgery-august-19
+  shared_claims: 1
+- node_id: 3ff75793-423c-4333-8402-d5c543074091
+  title: Bill Chalker
+  node_type: person
+  slug: bill-chalker
+  shared_claims: 1
+- node_id: b0974e63-0c84-49e4-917c-dc8d5733fd2c
+  title: Brazil, Varginha
+  node_type: place
+  slug: varginha-brazil
+  shared_claims: 1
+- node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+  title: Colm Kelleher
+  node_type: person
+  slug: colm-kelleher
+  shared_claims: 1
+- node_id: c890336a-3653-4ae6-b343-fb750bdc4fbf
+  title: Gary Lowrey
+  node_type: person
+  slug: gary-lowrey
+  shared_claims: 1
+- node_id: d902448f-47c1-41d7-afcb-54d33f3435d5
+  title: Gary Lowrey family alien visitation case
+  node_type: event
+  slug: gary-lowrey-family-alien-visitation-case
+  shared_claims: 1
+- node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+  title: John Mack
+  node_type: person
+  slug: john-mack
+  shared_claims: 1
+- node_id: ce20531b-5adf-4751-935b-bae00d6ace07
+  title: Marco Eli Cherese
+  node_type: person
+  slug: marco-eli-cherese
+  shared_claims: 1
+- node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+  title: National Institute for Discovery Science
+  node_type: organisation
+  slug: national-institute-for-discovery-science
+  shared_claims: 1
+- node_id: 36b0cfb6-f2c8-4740-b2a0-a5ba35c671ae
+  title: Patricia (Roger Leir implant patient)
+  node_type: person
+  slug: patricia-roger-leir-implant-patient
+  shared_claims: 1
+- node_id: 3baab1d6-e9c6-4122-b362-514531a3b702
+  title: Paul (Roger Leir implant patient)
+  node_type: person
+  slug: paul-roger-leir-implant-patient
+  shared_claims: 1
+- node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+  title: USA, New Mexico, Socorro
+  node_type: place
+  slug: new-mexico-socorro-usa
+  shared_claims: 1
+- node_id: 4526ce68-1612-4360-b7d3-60539ccdb10c
+  title: Valquira Silva
+  node_type: person
+  slug: valquira-silva
+  shared_claims: 1
+claims:
+- claim_id: 25d4c29d-7b85-4981-b93d-9234dcd5df57
+  claim_hash: 4e1df2087ccd2ddb2d37b7370636e51499d2ec146cffe08c81340fa285e6c31f
+  content: The meteoritic-origin correlations for Roger Leir's implants are tentative
+    and based on technical interpretations from meteorite data, a long way from confirming
+    intelligent extraterrestrial sources.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: null
+  date_end: null
+  location_in_record: ch18:10123-10305
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 2cb86611-b9af-4990-8f84-3d037573b87c
+  claim_hash: 06b0ad4b9e302e812ab32ef102cc65c05b82a24addf7a4a8ad5d3a8c708db9cc
+  content: The New Mexico Tech analysis offered a more prosaic origin for Roger Leir's
+    implants, such as a stone subjected to calcification due to embedding inside a
+    person's body.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 43169747-27fd-4577-8bcf-9c914dd33469
+    title: New Mexico Tech
+    slug: new-mexico-tech
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: null
+  date_end: null
+  location_in_record: ch18:10315-10501
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 7ccd8905-be5e-4908-9ae1-03f57edb7d1d
+  claim_hash: ad4e994318d1a127f62c75735444e811915e43c7fe26131f1487fc9887d809e8
+  content: Colm Kelleher, after consultation with Roger Leir, who had already made
+    extensive enquiries into the Gary Lowrey case, felt the claw sample could be a
+    good candidate for DNA study.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Colm Kelleher
+    relay:
+    - Bill Chalker
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
+    title: 2000-09 Gary Lowrey alien claw discovery
+    slug: 2000-09-gary-lowrey-alien-claw-discovery
+  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+    title: Colm Kelleher
+    slug: colm-kelleher
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: null
+  date_end: null
+  location_in_record: ch18:26436-26599
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 72d85dd3-192a-4002-9399-417198061f31
+  claim_hash: 00e76979db972f6bc4ceb34a1ebdb1d10d14c52fdb01998d5a12fc2914f6bea5
+  content: Since the mid-1990s, California podiatric physician and surgeon Dr. Roger
+    Leir has facilitated the surgical removal of a number of alleged alien implants
+    and has had them analysed.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: null
+  date_end: null
+  location_in_record: ch18:8850-9114
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: d6d7da9e-aa69-4a8a-a989-e53cace830e3
+  claim_hash: ac66704b28236352ae27ce51bc27f298f7f2dcc4e3374c39b9c684e88755105e
+  content: Roger Leir's first implant removal occurred on August 19, 1995, when medically
+    supervised surgical procedures isolated three objects from two abductees known
+    as Patricia and Paul.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 363dcb03-8b6e-455a-95e0-9b53302d5b86
+    title: August 19, 1995 Roger Leir first implant removal surgery
+    slug: 1995-roger-leir-first-implant-removal-surgery-august-19
+  - node_id: 36b0cfb6-f2c8-4740-b2a0-a5ba35c671ae
+    title: Patricia (Roger Leir implant patient)
+    slug: patricia-roger-leir-implant-patient
+  - node_id: 3baab1d6-e9c6-4122-b362-514531a3b702
+    title: Paul (Roger Leir implant patient)
+    slug: paul-roger-leir-implant-patient
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: '1995-08-19'
+  date_end: null
+  location_in_record: ch18:9125-9303
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 671ef9bf-d8cf-4c90-8758-90d0dbe86e4f
+  claim_hash: 4c2e7efb7cedfb1186119fda80952e9f086f3fb3b4e9cb0e894df11f0b9aff78
+  content: Roger Leir has described about a dozen surgical implant removals since
+    his first in 1995.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: null
+  date_end: null
+  location_in_record: ch18:9483-9557
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 0b19e62e-6636-4bae-b7a5-04564bcd729d
+  claim_hash: da70fec53dd35eda8a5a66ec696e438ef81585d5d623a3e571ac795b31b5399c
+  content: The National Institute for Discovery Science (NIDS), which supported Roger
+    Leir's work, was able to conduct physical analyses of the implants through a laboratory
+    at New Mexico Tech, an engineering university in Socorro, New Mexico, including
+    X-ray energy-dispersive spectroscopy and X-ray diffraction work.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 43169747-27fd-4577-8bcf-9c914dd33469
+    title: New Mexico Tech
+    slug: new-mexico-tech
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+    title: USA, New Mexico, Socorro
+    slug: new-mexico-socorro-usa
+  date: null
+  date_end: null
+  location_in_record: ch18:9568-9872
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 845e3d45-9651-46a3-bb71-fe55155b4beb
+  claim_hash: 0057b6a4de52f5ea6ec4369003d173e22d6202e2488b6ea8ac8a1861d0037e78
+  content: Roger Leir's first three implant removals showed compositional results
+    and isotopic ratios that lend support to the idea that the implant materials may
+    be of meteoritic origin.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: null
+  date_end: null
+  location_in_record: ch18:9879-10114
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 5251dc86-baf4-4f5f-a57a-e914fc5cd572
+  claim_hash: 3896c3626f6e44b46bdd8e76e7e1d8e1df5ded21c0f69bf69b68b561d77b191c
+  content: Gary Lowrey's alleged experiences were investigated by a number of parties,
+    including Roger Leir.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: footnote 135
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c890336a-3653-4ae6-b343-fb750bdc4fbf
+    title: Gary Lowrey
+    slug: gary-lowrey
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  - node_id: d902448f-47c1-41d7-afcb-54d33f3435d5
+    title: Gary Lowrey family alien visitation case
+    slug: gary-lowrey-family-alien-visitation-case
+  date: null
+  date_end: null
+  location_in_record: ch23:43073-43166
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 86da6a1a-e1aa-4a0f-8f98-652e5ce80e80
+  claim_hash: ad360700c3d3ae19d50ee7d662db102e5fb69c1579e998d7db1361c10f9132a2
+  content: Roger Leir interviewed Valquira Silva, who described seeing a short, crouching,
+    motionless creature that was horrible looking, brown in colour, with oily skin
+    and a large head.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: third_hand
+  speaker:
+    node_id: 4526ce68-1612-4360-b7d3-60539ccdb10c
+    title: Valquira Silva
+  provenance_chain:
+    origin_kind: speaker
+    origin: Valquira Silva
+    relay:
+    - Roger Leir's interview
+    - Whitley Strieber
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4526ce68-1612-4360-b7d3-60539ccdb10c
+    title: Valquira Silva
+    slug: valquira-silva
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: null
+  date_end: null
+  location_in_record: ch13:11396-11592
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 8634ede7-d56a-43dc-a951-9dcd2f8c0828
+  claim_hash: 59f6e3126b2dfa3a33799aeb613bbaafc92bb7693421b3cbd15ca0325d4cfb87
+  content: When Roger Leir was in Brazil in 2002, he attempted to interview Officer
+    Cherese's wife, but she would only confirm that her husband had died in the hospital
+    and would not give further details.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: named
+    origin: Roger Leir
+    relay:
+    - Whitley Strieber
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 05c993d3-ff62-4822-a7fe-91cba59c0215
+    title: Brazil
+    slug: brazil
+  - node_id: 16326490-45cc-47c3-bf56-993e00effaaa
+    title: 1996 death of Officer Marco Eli Cherese
+    slug: 1996-death-of-officer-marco-eli-cherese
+  - node_id: ce20531b-5adf-4751-935b-bae00d6ace07
+    title: Marco Eli Cherese
+    slug: marco-eli-cherese
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: '2002'
+  date_end: null
+  location_in_record: ch13:13637-13811
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 0ae77544-e36a-46ab-833b-c4c8940eb40b
+  claim_hash: b0a6a948a0ca59526e2d73c41b9047dbfb2737a9e64db3081a97910aa1ee36ed
+  content: 'Roger Leir noticed a change in attitude of the medical personnel he interviewed:
+    they first claimed to be thirdhand witnesses, but as they talked it became clear
+    they were actually firsthand witnesses and participants.'
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: named
+    origin: Roger Leir
+    relay:
+    - Whitley Strieber
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: null
+  date_end: null
+  location_in_record: ch13:15829-16072
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 06000d9d-f25a-466a-b037-bca730d23ae3
+  claim_hash: f1c12106c95bc3cef0170254494bce3d4aa7ea7917287f47ba5c6e060dd2be5e
+  content: One of the medical personnel interviewed by Roger Leir about the 1996 Varginha
+    UFO incident said that none of the medical staff wanted to look into the creature's
+    eyes and refrained from doing so.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be one of the medical personnel who treated the creature
+      recovered in the 1996 Varginha UFO incident
+    relay:
+    - an interview with Roger Leir
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: null
+  date_end: null
+  location_in_record: ch13:21647-21823
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: ac5745be-d309-472a-9c2a-f328b4c9ad99
+  claim_hash: e38525bb4d25ab1b0c4b140151bb5c5b8279d50a42b48e2271723fc3a8db3e3a
+  content: The doctor was reticent to tell Roger Leir everything that was in the thought
+    grams he received during the 1996 Varginha UFO incident, but was willing to describe
+    what the creature told him about human beings.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be a doctor who treated the creature recovered in
+      the 1996 Varginha UFO incident
+    relay:
+    - an interview with Roger Leir
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: null
+  date_end: null
+  location_in_record: ch13:23347-23497
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 19331b2c-7286-4a4f-a980-ed5cefc0b522
+  claim_hash: c5af8b6a48fa630165e5c01a084ba4ab3ae524cfd5bb5f29c65a28b20e6f1d6d
+  content: Like John Mack, Roger Leir's license to practise medicine was challenged,
+    and he had to deal with a nuisance lawsuit that caused his practice to decline.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+    title: John Mack
+    slug: john-mack
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: null
+  date_end: null
+  location_in_record: ch13:8022-8128
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: f3a5200d-13e0-4f54-9f6e-6e0b5055a9df
+  claim_hash: 265d95a1815b55890bf3701eeabab1f53c80e4c7533641b67d195d897e7463d2
+  content: Whitley Strieber knew Roger Leir well, and when Leir first heard of the
+    Varginha case in 2002 he called Strieber and asked him to travel to Brazil with
+    him, but Strieber's schedule did not permit it.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 05c993d3-ff62-4822-a7fe-91cba59c0215
+    title: Brazil
+    slug: brazil
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: '2002'
+  date_end: null
+  location_in_record: ch13:8191-8353
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 296b5b87-01a3-4eeb-b973-6955a9a0cdd8
+  claim_hash: 4a21e1415d7e55335786fac4b3eaabf946da826f899b1bc46f7ef9832769af43
+  content: While in Varginha, Roger Leir called Whitley Strieber to tell him he had
+    just conducted what he thought was one of the most amazing interviews ever done
+    in the history of UFO research.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: named
+    origin: Roger Leir
+    relay:
+    - a phone call to Whitley Strieber
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: b0974e63-0c84-49e4-917c-dc8d5733fd2c
+    title: Brazil, Varginha
+    slug: varginha-brazil
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: null
+  date_end: null
+  location_in_record: ch13:8406-8571
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 442f994c-c10f-4978-b4e4-d7fa74070c96
+  claim_hash: ac0f356f2a25ef054bca30f1a807e96090c23f1a6792257e181ee6fda4767ddc
+  content: Whitley Strieber considers Roger Leir's Varginha interview to stand as
+    one of the most amazing interviews ever done anywhere, on any subject.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: null
+  date_end: null
+  location_in_record: ch13:8581-8689
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 71c7bdde-346c-4e8a-ac1d-194ed243bd3a
+  claim_hash: b7c2b17d5c44770a68b5c5739acc4aa1b38465caad2933092d821ac4e0f3ea60
+  content: Whitley Strieber never doubted Roger Leir's truthfulness when Leir told
+    him the Varginha story.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  date: null
+  date_end: null
+  location_in_record: ch13:9259-9345
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted

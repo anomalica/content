@@ -1,0 +1,227 @@
+schema: anomalica/brief/1
+brief_hash: a8c1a6e65873c6ad694ac2d9091a16694af3e0c12cb0d0c151cc0dae2e1385a9
+page:
+  kind: entity
+  node_id: eda54301-3c14-4718-9989-68844a2838fd
+  node_type: person
+  title: General James Doolittle
+  slug: general-james-doolittle
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+  title: Major Murphy
+  node_type: person
+  slug: major-murphy
+  shared_claims: 2
+- node_id: c0a9785a-6fca-40fb-b3e6-2b4c26e894a3
+  title: 1946 Swedish Ghost Rockets
+  node_type: event
+  slug: 1946-swedish-ghost-rockets
+  shared_claims: 1
+- node_id: 2a033be0-83e4-4892-93b3-dd0d5829aa1a
+  title: 1946-1947 European ghost rocket wave
+  node_type: event
+  slug: 1946-1947-european-ghost-rocket-wave
+  shared_claims: 1
+- node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+  title: Kenneth Arnold
+  node_type: person
+  slug: kenneth-arnold
+  shared_claims: 1
+- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+  title: Project Blue Book
+  node_type: project
+  slug: project-blue-book
+  shared_claims: 1
+- node_id: 9a9b3804-9945-4895-9a47-71a9fcc1a9b5
+  title: Shell Corporation
+  node_type: organisation
+  slug: shell-corporation
+  shared_claims: 1
+- node_id: a2487f3f-f131-46b9-ad0d-c27082cad986
+  title: Sweden
+  node_type: place
+  slug: sweden
+  shared_claims: 1
+- node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+  title: The Pentagon
+  node_type: organisation
+  slug: the-pentagon
+  shared_claims: 1
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 1
+claims:
+- claim_id: 3c75dcfc-9ee7-4ee2-bef3-f9545254ecbb
+  claim_hash: 8383df6d993af21e4b2a8271d31798ae6d82fd4e6438267a5128e7eee3a52e33
+  content: James Doolittle was sent, along with other members of the armed forces
+    along with Britain and France, to go into Russia and examine Russian missile sites
+    in connection with the 1946-1947 ghost rocket wave.
+  original_excerpt: we sent General Doolittle over there with other members of the
+    armed forces along with Britain and France to actually go into Russia and examine
+    their missile sites.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: unattributed
+    origin: historical reports
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2a033be0-83e4-4892-93b3-dd0d5829aa1a
+    title: 1946-1947 European ghost rocket wave
+    slug: 1946-1947-european-ghost-rocket-wave
+  - node_id: eda54301-3c14-4718-9989-68844a2838fd
+    title: General James Doolittle
+    slug: general-james-doolittle
+  date: null
+  date_end: null
+  location_in_record: 00:05:04.7-00:05:14.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 1063bca7-34b0-48cc-aec3-d5aaffa669c4
+  claim_hash: 7a5bebb81d6dcab5dfb28e8317c8911868ed3ee10798f22ec11734e267a5c96f
+  content: General James Doolittle was sent to Sweden by the United States in 1946,
+    apparently under cover of the Shell Corporation, to investigate the "ghost rockets"
+    with the Swedish authorities.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9a9b3804-9945-4895-9a47-71a9fcc1a9b5
+    title: Shell Corporation
+    slug: shell-corporation
+  - node_id: a2487f3f-f131-46b9-ad0d-c27082cad986
+    title: Sweden
+    slug: sweden
+  - node_id: c0a9785a-6fca-40fb-b3e6-2b4c26e894a3
+    title: 1946 Swedish Ghost Rockets
+    slug: 1946-swedish-ghost-rockets
+  - node_id: eda54301-3c14-4718-9989-68844a2838fd
+    title: General James Doolittle
+    slug: general-james-doolittle
+  date: '1946'
+  date_end: null
+  location_in_record: ch11:54023-54213
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 205b7915-e34b-42a4-b68b-546fdd0bf778
+  claim_hash: 727092aeef9ef89eb426139c083f12823e56638aee509988bdeced8f92e6fa68
+  content: Major Murphy said General James Doolittle's conclusions from his 1946 investigation
+    in Sweden have never been revealed.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+    title: Major Murphy
+  provenance_chain:
+    origin_kind: speaker
+    origin: Major Murphy
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+    title: The Pentagon
+    slug: the-pentagon
+  - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+    title: Major Murphy
+    slug: major-murphy
+  - node_id: eda54301-3c14-4718-9989-68844a2838fd
+    title: General James Doolittle
+    slug: general-james-doolittle
+  date: null
+  date_end: null
+  location_in_record: ch11:54252-54376
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 39e50285-c66b-464c-a675-c8b2d223eb78
+  claim_hash: 0bce839b4fa6e75045fbc84d1cc935b1cd7fe2c634c83db48ed6dac018a40f6f
+  content: Major Murphy said General James Doolittle's involvement in the 1946 Sweden
+    investigation meant considerable interest among the top brass, a year before the
+    Kenneth Arnold sighting and several years before the creation of Project Blue
+    Book, noting the Air Force did not even exist in 1946.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+    title: Major Murphy
+  provenance_chain:
+    origin_kind: speaker
+    origin: Major Murphy
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+    title: Major Murphy
+    slug: major-murphy
+  - node_id: eda54301-3c14-4718-9989-68844a2838fd
+    title: General James Doolittle
+    slug: general-james-doolittle
+  date: '1946'
+  date_end: null
+  location_in_record: ch11:54501-54649
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted

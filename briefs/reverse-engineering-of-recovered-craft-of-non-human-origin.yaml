@@ -1,0 +1,934 @@
+schema: anomalica/brief/1
+brief_hash: faaba5c41c07a7afae1698e6afee0e60f590f7c1c53e99f79d37c42abe89e355
+page:
+  kind: entity
+  node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+  node_type: topic
+  title: Reverse engineering of recovered craft of non-human origin
+  slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  claim_count: 23
+  claim_count_total: 23
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+  title: Grusch, David Charles
+  node_type: person
+  slug: david-charles-grusch
+  shared_claims: 10
+- node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+  title: Non-Human Intelligence
+  node_type: topic
+  slug: non-human-intelligence
+  shared_claims: 6
+- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+  title: United States Congress
+  node_type: organisation
+  slug: united-states-congress
+  shared_claims: 6
+- node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
+  title: Grey, Jonathan
+  node_type: person
+  slug: jonathan-grey
+  shared_claims: 4
+- node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 4
+- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+  title: Mellon, Christopher K.
+  node_type: person
+  slug: christopher-k-mellon
+  shared_claims: 3
+- node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+  title: Nolan, Garry
+  node_type: person
+  slug: garry-nolan
+  shared_claims: 2
+- node_id: b4b91a18-1e00-434d-a88a-d6bd58950248
+  title: David Grusch 2023 Congressional testimony on Unidentified Anomalous Phenomena
+    (UAP)
+  node_type: document
+  slug: david-grusch-2023-congressional-testimony-on-unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+- node_id: f4ef4f38-6d19-4805-a720-3f03dff67602
+  title: Grusch, David
+  node_type: person
+  slug: david-grusch
+  shared_claims: 1
+- node_id: 25a71281-35a6-4636-ada3-b0d727672634
+  title: National Defense Authorization Act for Fiscal Year 2023
+  node_type: document
+  slug: national-defense-authorization-act-for-fiscal-year-2023
+  shared_claims: 1
+- node_id: e8254481-2ee6-4d24-861d-4aaa5f258693
+  title: Nell, Karl E.
+  node_type: person
+  slug: karl-e-nell
+  shared_claims: 1
+- node_id: f8f7643c-fe27-4547-8761-440b36e78097
+  title: Office of the Intelligence Community Inspector General (ICIG)
+  node_type: organisation
+  slug: office-of-the-intelligence-community-inspector-general-icig
+  shared_claims: 1
+- node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+  title: Senate Armed Services Committee
+  node_type: organisation
+  slug: senate-armed-services-committee
+  shared_claims: 1
+- node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+  title: US Senate Select Committee on Intelligence
+  node_type: organisation
+  slug: us-senate-select-committee-on-intelligence
+  shared_claims: 1
+claims:
+- claim_id: 3e2a5dc6-ab8a-428e-af74-053a24567fbe
+  claim_hash: 71ea1660a667dae0bdc9a2b7d360e07be7dd36c37d27dda9ddb7acdee9177b69
+  content: The existence of complex historical programmes involving the coordinated
+    retrieval and study of exotic materials, dating back to the early 20th century,
+    should no longer remain a secret.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
+    title: Grey, Jonathan
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
+    title: Grey, Jonathan
+    slug: jonathan-grey
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  date: null
+  date_end: null
+  location_in_record: line 104
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: e0804fd3-20f4-40bf-9812-0fbeeb804192
+  claim_hash: 0059671f31079c0d70acd0cfbb1ff794ce47a499e9e1b1c9837ed4afab42aba3
+  content: The majority of retrieved foreign exotic materials have a prosaic terrestrial
+    explanation and origin, but not all, and any number higher than zero in the non-prosaic
+    category represents a significant statistical percentage.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
+    title: Grey, Jonathan
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
+    title: Grey, Jonathan
+    slug: jonathan-grey
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  date: null
+  date_end: null
+  location_in_record: line 104
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: 03b95594-a2bd-429f-8b7b-7c0a7498b705
+  claim_hash: 0cffd692d98b5a119520e287211d8f469c51b818e3acd5121b69dda8b8f3a100
+  content: Christopher Mellon has been instrumental in arranging classified briefings
+    for members of Congress and other officials about UAP, which include references
+    to exotic retrieved materials.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Mellon, Christopher K.
+    slug: christopher-k-mellon
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  date: null
+  date_end: null
+  location_in_record: line 114
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: efeaa4e9-2ece-4a31-8edd-8795fd7d8798
+  claim_hash: 3e68679c2a79fc770b26f24214908033790cbfce59ec9758c235f12d22c670bf
+  content: The first briefing Christopher Mellon facilitated on retrievals of unexplained
+    objects was provided to staff members of the Senate Armed Services Committee on
+    2019-10-21, and to staff members of the Senate Intelligence Committee two days
+    later.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+    title: US Senate Select Committee on Intelligence
+    slug: us-senate-select-committee-on-intelligence
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Mellon, Christopher K.
+    slug: christopher-k-mellon
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    slug: senate-armed-services-committee
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  date: '2019-10-21'
+  date_end: null
+  location_in_record: line 114
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: 17aaa392-8955-46b9-a761-0b17871cd57c
+  claim_hash: e2197fa7007f4f0e2160daf8a23c5d4457021311061977675c656be486d6f430
+  content: The National Defense Authorization Act for FY2023 asks for reporting on
+    material retrieval, material analysis, reverse engineering, research, and development
+    involving unidentified anomalous phenomena currently and going back decades.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 25a71281-35a6-4636-ada3-b0d727672634
+    title: National Defense Authorization Act for Fiscal Year 2023
+    slug: national-defense-authorization-act-for-fiscal-year-2023
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  date: null
+  date_end: null
+  location_in_record: line 128
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: 3452cafb-48a4-4715-b40e-b66e56732e2f
+  claim_hash: a7d35e124626d5b28e36920bd7db7e39f16b8a19a5215b1e4327c29efc6ba70d
+  content: Garry Nolan has previously applied some of his laboratory technologies
+    to the analysis of exotic materials, publishing the first peer-reviewed paper
+    examining such materials.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+    title: Nolan, Garry
+    slug: garry-nolan
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  date: null
+  date_end: null
+  location_in_record: line 130
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: 2aaca183-03a8-4099-afaa-65112c5ccda4
+  claim_hash: c7d1fbcde7f47331048a0103b5320ca6aea5a0d67f5bdb65fc17487e49bc59ff
+  content: Studying even small samples of purported anomalous material could lead
+    to currently inconceivable benefits for humanity, potentially representing hundreds
+    of technology revolutions and being more transformative than the microprocessor.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+    title: Nolan, Garry
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+    title: Nolan, Garry
+    slug: garry-nolan
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  date: null
+  date_end: null
+  location_in_record: line 138
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: 5be056d3-b1f4-4b83-b895-3c48e6bcb913
+  claim_hash: 5525f5d32aa3e3a8148ee6efa034f4bcea075c58751a514e178ba8777e99c8a8
+  content: Potential technological advancements may be gleaned from non-human intelligence/UAP
+    retrievals by any sufficiently advanced nation and then used to wage asymmetrical
+    warfare, so some secrecy must remain.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
+    title: Grey, Jonathan
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
+    title: Grey, Jonathan
+    slug: jonathan-grey
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  date: null
+  date_end: null
+  location_in_record: line 146
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: af3563f1-bfcd-4de5-8b4a-075363274b3d
+  claim_hash: 40d5aa769555ae9508f77f5b9206b43a89c6f17a67fdde8ba410c134139170a1
+  content: It is dangerous for the eighty-year arms race over recovered non-human
+    technology to continue in secrecy because it further inhibits the world populace
+    from being prepared for an unexpected, non-human intelligence contact scenario.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: line 150
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: 332cd731-eefc-4e49-a399-56a2a5931466
+  claim_hash: 52636042f0a5024a44c35a58469bd14e801c70bca9669567de93e685bb97065c
+  content: Analysis determined that the retrieved objects are of exotic origin (non-human
+    intelligence, whether extraterrestrial or unknown origin) based on the vehicle
+    morphologies, material science testing, and the possession of unique atomic arrangements
+    and radiological signatures.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: line 19
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: f96be0a2-3c25-4c67-a105-025d087ac530
+  claim_hash: e80dc43c6c49cd4970de8cd4701189b1001d9c724a8bf291a1ebe2b60655d3a7
+  content: Recoveries of partial fragments through and up to intact vehicles of non-human
+    origin have been made for decades through to the present day by the United States
+    government, its allies, and defence contractors.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: line 19
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: e3c4f6df-1db5-4d7c-b06a-4217c1806b44
+  claim_hash: 10eb99766ec0eb9813247d4d02029f1c91e10b1f15f0aaa922fde859498dcd59
+  content: The recovered material that David Charles Grusch reported to Congress and
+    the Intelligence Community Inspector General includes intact and partially intact
+    vehicles, not of prosaic origins or identities.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+    slug: david-charles-grusch
+  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+    title: Office of the Intelligence Community Inspector General (ICIG)
+    slug: office-of-the-intelligence-community-inspector-general-icig
+  date: null
+  date_end: null
+  location_in_record: line 23
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: c210e285-8e0e-4241-b8ce-f848f3e8accf
+  claim_hash: 950a2384de681b771ca277cbf9c3b2104917ae85295fd3ddb7f40871871d7bc1
+  content: A number of well-placed current and former officials shared detailed information
+    with Christopher Mellon regarding the alleged craft-retrieval programme, including
+    insights into the history, governing documents, and the location where a craft
+    was allegedly abandoned and recovered.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Mellon, Christopher K.
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Mellon, Christopher K.
+    slug: christopher-k-mellon
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  date: null
+  date_end: null
+  location_in_record: line 37
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: f9c41345-7e8a-4114-959c-6e104a743c00
+  claim_hash: d214bbb5927e19344c20afda1b8327485370aac85eb553101c49e86bd75cda25
+  content: Retrievals of craft of non-human origin are not limited to the United States
+    but are a global phenomenon, and a global solution continues to elude us.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
+    title: Grey, Jonathan
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
+    title: Grey, Jonathan
+    slug: jonathan-grey
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  date: null
+  date_end: null
+  location_in_record: line 43
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: c61ebaf2-8990-48b2-987a-245b92fe1aa8
+  claim_hash: 968d4afe373b07097e07b21e19971b88f10aedd23ee0ab87d072e7dd8ec528dc
+  content: There has been a decades-long, publicly unknown Cold War for recovered
+    and exploited physical material, a competition with near-peer adversaries to identify
+    UAP crashes and landings and retrieve the material for exploitation and reverse
+    engineering to garner asymmetric national defence advantages.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: line 59
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: 5a440478-821a-4a2f-8cdb-2905ba5403a9
+  claim_hash: 687ebf58cb67782ed6ca1e4408dcba3a190e78e9617c07753ba50d1bc618a2af
+  content: Beginning in 2022, David Charles Grusch provided Congress with hours of
+    recorded classified information transcribed into hundreds of pages which included
+    specific data about the materials recovery programme.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+    slug: david-charles-grusch
+  date: '2022'
+  date_end: null
+  location_in_record: line 61
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: c9c5e87b-d23c-43b1-8ee7-df1bb281e318
+  claim_hash: 9249f42c8fe65147070fc53225274d9981ccce625d9999ca85b733e21e8b5de6
+  content: Congress has not been provided with any physical materials related to wreckage
+    or other non-human objects.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  date: null
+  date_end: null
+  location_in_record: line 61
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: 555bb95d-feb7-484b-8faa-9c16dc5c9c1d
+  claim_hash: 3adc0be9226facaefece2d0d37c1ec2b9fd852246fbccfee98de097e7a3a7463
+  content: David Charles Grusch's investigation was centred on extensive interviews
+    with high-level intelligence officials, some of whom are directly involved with
+    the programme.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: line 63
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: 7dedfc13-040b-45c0-8ea2-171c30d43092
+  claim_hash: 3805f1010c8e2b32ec3abc1763143ef4c7be12265a38f862b10423c9d623a4a9
+  content: The craft recovery operations are ongoing at various levels of activity,
+    and David Charles Grusch knows the specific individuals, current and former, who
+    are involved.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: line 65
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: 9c3f67f8-d724-43ee-9694-a50dea31f799
+  claim_hash: 8eeb5324159cf45d5d6291b5985112a08fdee8168dcc27d7a919b34f0ceb7942
+  content: Associates who vouched for David Charles Grusch said his information was
+    highly sensitive, providing evidence that materials from objects of non-human
+    origin are in the possession of highly secret black programmes.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: line 69
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: 4b53f7d7-0f17-4197-a793-6a5ca3138629
+  claim_hash: 337921a2d2011f1bd985517d7edfde92dd1abb1d350ea5ec2a874469c167ffdb
+  content: The assertion concerning the existence of a terrestrial arms race occurring
+    sub-rosa over the past eighty years focused on reverse engineering technologies
+    of unknown origin is fundamentally correct, as is the realisation that at least
+    some of these technologies of unknown origin derive from non-human intelligence.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: e8254481-2ee6-4d24-861d-4aaa5f258693
+    title: Nell, Karl E.
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+    slug: david-charles-grusch
+  - node_id: e8254481-2ee6-4d24-861d-4aaa5f258693
+    title: Nell, Karl E.
+    slug: karl-e-nell
+  date: null
+  date_end: null
+  location_in_record: line 73
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: b4dc6e6f-f48b-407b-839a-9e489ad530e0
+  claim_hash: 6d8718116bfdf6e2473f0f461c3f1da60ed62398b6b7cdb49699d9d9fb7e1b1e
+  content: Other intelligence officials, both active and retired, with knowledge of
+    the covert craft-retrieval programmes through their work in various agencies,
+    have independently provided similar corroborating information, both on and off
+    the record.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  date: null
+  date_end: null
+  location_in_record: line 9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: 3fd3c6c2-9236-455f-9949-14574d0e58bd
+  claim_hash: 9e9fc8649784533668bef3d7fb8efc02f2aacf985a73ef82f0370e4a852d409e
+  content: In his 2023 Congressional testimony, David Grusch alleged that elements
+    of the U.S. government had illegally concealed programmes tied to the recovery
+    and reverse engineering of craft of unknown, non-human origin.
+  original_excerpt: and illegally concealed programs tied to the recovery and reverse
+    engineering of craft of unknown, non-human origin
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: f4ef4f38-6d19-4805-a720-3f03dff67602
+    title: Grusch, David
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  - node_id: b4b91a18-1e00-434d-a88a-d6bd58950248
+    title: David Grusch 2023 Congressional testimony on Unidentified Anomalous Phenomena
+      (UAP)
+    slug: david-grusch-2023-congressional-testimony-on-unidentified-anomalous-phenomena-uap
+  - node_id: f4ef4f38-6d19-4805-a720-3f03dff67602
+    title: Grusch, David
+    slug: david-grusch
+  date: '2023'
+  date_end: null
+  location_in_record: paragraph 3 (line 9)
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
+    record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch
+      as Special Advisor
+    record_date: '2025-03-27'
+    record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
+    content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
+    friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david

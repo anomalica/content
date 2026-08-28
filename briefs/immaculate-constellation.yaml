@@ -1,0 +1,1147 @@
+schema: anomalica/brief/1
+brief_hash: a626d1acb8b6394bbf22526c29eecfdde07a293c39a2d063217669aa5d0ba7a2
+page:
+  kind: entity
+  node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+  node_type: project
+  title: Immaculate Constellation
+  slug: immaculate-constellation
+  claim_count: 28
+  claim_count_total: 28
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+  title: Michael Shellenberger
+  node_type: person
+  slug: michael-shellenberger
+  shared_claims: 4
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 4
+- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+  title: United States Congress
+  node_type: organisation
+  slug: united-states-congress
+  shared_claims: 4
+- node_id: e1014d56-f0d9-46ef-b2cd-e24a45f2f8ed
+  title: F-22 Raptor
+  node_type: object
+  slug: f-22-raptor
+  shared_claims: 2
+- node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+  title: National Security Council
+  node_type: organisation
+  slug: national-security-council
+  shared_claims: 2
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 2
+- node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
+  title: 2024 United States congressional hearing on UAPs (13 November)
+  node_type: event
+  slug: 2024-united-states-congressional-hearing-on-uaps-13-november
+  shared_claims: 1
+- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+  title: Advanced Aerospace Threat Identification Program (AATIP)
+  node_type: project
+  slug: advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 1
+- node_id: af72e20b-8fd0-4015-b443-c6da1bae5065
+  title: Alien Reproduction Vehicle (ARV)
+  node_type: topic
+  slug: alien-reproduction-vehicle-arv
+  shared_claims: 1
+- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+  title: Chris Ramsay
+  node_type: person
+  slug: chris-ramsay
+  shared_claims: 1
+- node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+  title: David Grush
+  node_type: person
+  slug: david-grush
+  shared_claims: 1
+- node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+  title: National Geospatial-Intelligence Agency (NGA)
+  node_type: organisation
+  slug: national-geospatial-intelligence-agency-nga
+  shared_claims: 1
+- node_id: 516cc520-b1f2-41de-a248-b7b4376bfa6e
+  title: November 13, 2024 congressional hearing on Unidentified Aerial Phenomena
+    (UAP)
+  node_type: event
+  slug: 2024-congressional-hearing-on-unidentified-aerial-phenomena-uap-november-13
+  shared_claims: 1
+- node_id: b9f1e9f5-3f87-4ae1-8444-c97a5897a335
+  title: Public
+  node_type: organisation
+  slug: public
+  shared_claims: 1
+- node_id: acde03ee-7227-486d-854c-9673dd837619
+  title: USA, Ohio, Wright-Patterson Air Force Base
+  node_type: place
+  slug: ohio-wright-patterson-air-force-base-usa
+  shared_claims: 1
+- node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
+  title: unacknowledged special access program (Unacknowledged Special Access Program
+    (USAP))
+  node_type: topic
+  slug: unacknowledged-special-access-program-unacknowledged-special-access-program-usap
+  shared_claims: 1
+claims:
+- claim_id: 45a90ef3-1c1a-4dd0-afa2-1cad1f798581
+  claim_hash: bc9c03f6f22be8756998ea5895ca3bbe86bcfd459092c375c4d7df55a3cad9de
+  content: Michael Schellenberger was told that revealing the name Immaculate Constellation
+    would probably result in him being placed under surveillance.
+  original_excerpt: I also was told that if we revealed the name that we would probably
+    get under surveillance.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Schellenberger
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+    slug: michael-shellenberger
+  date: null
+  date_end: null
+  location_in_record: 00:00:31.1-00:00:35.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 661f0385-1662-4765-954e-e6b7878a3a47
+  claim_hash: 078fe226698ded66dcaec1c5cfba657e13ef85a6e4642aa93757ec127a94f516
+  content: A top-secret parent program called Immaculate Constellation was recently
+    divulged in the news.
+  original_excerpt: the divulgence of a apparently top-secret parent program called
+    Immaculate Constellation.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  date: null
+  date_end: null
+  location_in_record: 00:01:31.2-00:01:40.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 94ff7dd4-74f6-4bb7-90a6-816dd01d1a6e
+  claim_hash: a8996b47104a6f3e308283b7fa8b97312a728802dfba3736f2a69e4fcc5a00ae
+  content: Michael Schellenberger's Immaculate Constellation piece is about a new
+    whistleblower who is either a government employee or a government contractor,
+    who has written a report.
+  original_excerpt: Today's piece is about a new whistleblower. who has come forward
+    and has written a report. And this is somebody that is either in government or
+    is a government contractor.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+  provenance_chain:
+    origin_kind: named
+    origin: an anonymous whistleblower interviewed by Michael Schellenberger
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+    slug: michael-shellenberger
+  date: null
+  date_end: null
+  location_in_record: 00:01:59.6-00:02:10.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: daaa1bf4-6b82-4f99-b079-a3d7d836fd4a
+  claim_hash: 524f34d29ef98c8ae421c7306128a9fb012fdb75986dbe5dd6690a51d2e6705d
+  content: The Immaculate Constellation whistleblower wrote a report and provided
+    it to members of the United States Congress.
+  original_excerpt: They have written a report and provided it to members of Congress.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+  provenance_chain:
+    origin_kind: named
+    origin: an anonymous whistleblower interviewed by Michael Schellenberger
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  date: null
+  date_end: null
+  location_in_record: 00:02:17.5-00:02:20.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 4c95df5a-a713-459c-afb0-2a616b3074f0
+  claim_hash: aaf5d54c19ad681a5651a2774bc6737a6f3c64771e8b1f7c55d605f2ab07031a
+  content: The Immaculate Constellation whistleblower's report claims that the United
+    States Department of Defense (Pentagon) is illegally withholding information from
+    the United States Congress about a secret UAP program.
+  original_excerpt: And in that report, they claim that the Pentagon is illegally
+    withholding information from Congress about a secret UAP program.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+  provenance_chain:
+    origin_kind: named
+    origin: an anonymous whistleblower interviewed by Michael Schellenberger
+    relay:
+    - Michael Schellenberger
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  date: null
+  date_end: null
+  location_in_record: 00:02:21.6-00:02:31.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 5c008153-2eba-4248-9392-a4f9c44d8d79
+  claim_hash: c1217907bafa01fc6281f19f507b6ece82683ccf1d93b6466682aa6205043b54
+  content: The secret UAP program described by the whistleblower is called Immaculate
+    Constellation and is considered a parent program of other, subordinate programs.
+  original_excerpt: And that secret UAP program is considered a parent program of
+    other programs, but it's called Immaculate Constellation.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+  provenance_chain:
+    origin_kind: named
+    origin: an anonymous whistleblower interviewed by Michael Schellenberger
+    relay:
+    - Michael Schellenberger
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  date: null
+  date_end: null
+  location_in_record: 00:02:32.3-00:02:38.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 81da8e55-2465-4fe4-a092-b0bd5f504d29
+  claim_hash: d9cc060d800ece18af7243cdff518a4e6e1937e5411970e9dcf1aba8878b1ade
+  content: Michael Schellenberger had the name Immaculate Constellation confirmed
+    by a second source.
+  original_excerpt: I had it confirmed by a second source that this is the name.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Schellenberger
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+    slug: michael-shellenberger
+  date: null
+  date_end: null
+  location_in_record: 00:02:39.8-00:02:44.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 1bb955ec-4520-4be5-ba0c-965b3c104969
+  claim_hash: 12e832d5cd4af45bf5116b51ef3e65e0f085b51137404abe530de6f024ec4547
+  content: Michael Schellenberger published an in-depth report on Immaculate Constellation
+    on 2024-10-09 on his platform Public.
+  original_excerpt: He published an in-depth report on October 9th, 2024 on his platform
+    Public.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: b9f1e9f5-3f87-4ae1-8444-c97a5897a335
+    title: Public
+    slug: public
+  - node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+    slug: michael-shellenberger
+  date: '2024-10-09'
+  date_end: null
+  location_in_record: 00:02:50.5-00:02:55.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 2fc57eb4-1ade-4132-a737-c7999bd01c82
+  claim_hash: 808889b19980add235f441de0a787697e9447fd8193dfffcc0714ae27960fccb
+  content: Michael Schellenberger's report states that Immaculate Constellation handles
+    classified materials related to UAP encounters.
+  original_excerpt: His report highlighted that this program handles classified materials
+    related to UAP encounters and operates under an unacknowledged special access
+    program, USAP.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: document
+    origin: Michael Schellenberger's report on Public
+    relay:
+    - Michael Schellenberger
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  date: null
+  date_end: null
+  location_in_record: 00:02:55.8-00:03:07.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 2da7bea5-cea2-47b0-9df5-8cc3ba96bcb3
+  claim_hash: f993f664ae9dbaf10f97e69b0c6bfc767443a3b79d90b6938e368446b5af7021
+  content: Immaculate Constellation operates under an unacknowledged special access
+    program (USAP), according to Michael Schellenberger's report.
+  original_excerpt: and operates under an unacknowledged special access program, USAP.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: document
+    origin: Michael Schellenberger's report on Public
+    relay:
+    - Michael Schellenberger
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
+    title: unacknowledged special access program (Unacknowledged Special Access Program
+      (USAP))
+    slug: unacknowledged-special-access-program-unacknowledged-special-access-program-usap
+  date: null
+  date_end: null
+  location_in_record: 00:03:02.0-00:03:07.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 3a9c317f-b789-428f-8adb-3a38231ea08f
+  claim_hash: f928180a88a683bfbc317c0d84a92f8ac5b370174d7ba160308caf85fcab831f
+  content: Immaculate Constellation was reportedly initiated in 2017, following the
+    United States Department of Defense (Pentagon)'s admission of the Advanced Aerospace
+    Threat Identification Program (AATIP).
+  original_excerpt: The program was reportedly initiated in 2017 following the Pentagon's
+    admission of the AATIP program.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: document
+    origin: Michael Schellenberger's report on Public
+    relay:
+    - Michael Schellenberger
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  date: '2017'
+  date_end: null
+  location_in_record: 00:03:08.0-00:03:13.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 3570a877-bda5-43c1-80b4-42a283134d59
+  claim_hash: 5ca97beb09f67b92f45bf50ca22b1008cbae3883247810ed7ec50e97f1a72c14
+  content: Chris Ramsey has not been shown the whistleblower report that Michael Schellenberger's
+    Immaculate Constellation piece is based on.
+  original_excerpt: Obviously, I've not been subjected to this document,
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  date: null
+  date_end: null
+  location_in_record: 00:03:14.5-00:03:16.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: a1e74a4d-d92d-4836-88a1-d789b2a628bf
+  claim_hash: d3a504ec046bb24a9d79f4ec3ce7fc076a9a2d9b811659e28823805377a30712
+  content: The identity of the Immaculate Constellation whistleblower is not yet known,
+    and Chris Ramsey speculates the whistleblower might be revealed at the November
+    13, 2024 congressional hearing on UAP.
+  original_excerpt: whose name we do not yet know and who my guess might show up in
+    the upcoming November 13th congressional hearing about UAPs,
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: 516cc520-b1f2-41de-a248-b7b4376bfa6e
+    title: November 13, 2024 congressional hearing on Unidentified Aerial Phenomena
+      (UAP)
+    slug: 2024-congressional-hearing-on-unidentified-aerial-phenomena-uap-november-13
+  date: null
+  date_end: null
+  location_in_record: 00:03:22.9-00:03:29.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: c0a75204-29a0-411e-8667-ad595d9b6fdf
+  claim_hash: f7ade272adcdf90215fea0a72a628ab095b797dfc289f2b0ddf3ad3f7589cbd1
+  content: According to Michael Schellenberger's report, the special access program
+    Immaculate Constellation tracks, retrieves and archives data on UFO sightings
+    and encounters.
+  original_excerpt: But he says that this special access program tracks, retrieves
+    and archives data on UFO sightings and encounters.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: document
+    origin: Michael Schellenberger's report on Public
+    relay:
+    - Michael Schellenberger
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  date: null
+  date_end: null
+  location_in_record: 00:03:31.0-00:03:36.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 3453c90b-9f56-47b1-a56c-372210a089e7
+  claim_hash: b32b58d4401217bed0b4ac0e0d4a88d095487800b4ad5a0e821bf921ea7b0e5e
+  content: An unnamed whistleblower reported an incident involving orbs swarming an
+    F-22 Raptor jet, as one of the notable cases documented by Immaculate Constellation.
+  original_excerpt: Number one, orbs swarming an F-22 jet.
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: named
+    origin: an anonymous whistleblower interviewed by Michael Schellenberger
+    relay:
+    - Michael Schellenberger
+    - Chris Ramsey
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: e1014d56-f0d9-46ef-b2cd-e24a45f2f8ed
+    title: F-22 Raptor
+    slug: f-22-raptor
+  date: null
+  date_end: null
+  location_in_record: 00:03:42.7-00:03:45.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: e29010b8-0fea-4b49-8acb-d0fe4ac5df6c
+  claim_hash: 29a948d552c3d0ab58c18ef5f50755721549f47f631c8f7a80b9b93182f00ef2
+  content: According to a whistleblower report, an F-22 Raptor disengaged from its
+    zone, apparently prompted by an orb encounter.
+  original_excerpt: So apparently it prompted this F-22 to disengage from its zone?
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: named
+    origin: an anonymous whistleblower interviewed by Michael Schellenberger
+    relay:
+    - Michael Schellenberger
+    - Chris Ramsey
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: e1014d56-f0d9-46ef-b2cd-e24a45f2f8ed
+    title: F-22 Raptor
+    slug: f-22-raptor
+  date: null
+  date_end: null
+  location_in_record: 00:04:32.9-00:04:36.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: e5a877c6-fdcb-424d-b783-45aca7d1beb3
+  claim_hash: d91a53e8e8e2d6b38e32d96582c1ec277efc9163277d8d5977b82248e787001c
+  content: A Navy pilot witnessed an orange-red sphere descending rapidly from high
+    altitude, in an incident reported as part of the Immaculate Constellation documentation.
+  original_excerpt: This incident describes a Navy pilot who witnessed an orange-red
+    sphere descending rapidly from high altitude.
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: named
+    origin: an anonymous whistleblower interviewed by Michael Schellenberger
+    relay:
+    - Michael Schellenberger
+    - Chris Ramsey
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  date: null
+  date_end: null
+  location_in_record: 00:04:40.3-00:04:46.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: b322947b-13d2-42e4-a56a-0a5c2a925ae2
+  claim_hash: 805274ba9633682930f1557faea148834e69a9ce5ef84151fb94c2b75dfcf58b
+  content: The term Alien Reproduction Vehicle (ARV) is one of the topics mentioned
+    in the whistleblower document underlying Immaculate Constellation.
+  original_excerpt: One of the other notable things that this document mentions, apparently,
+    is ARVs.
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: named
+    origin: an anonymous whistleblower interviewed by Michael Schellenberger
+    relay:
+    - Michael Schellenberger
+    - Chris Ramsey
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: af72e20b-8fd0-4015-b443-c6da1bae5065
+    title: Alien Reproduction Vehicle (ARV)
+    slug: alien-reproduction-vehicle-arv
+  date: null
+  date_end: null
+  location_in_record: 00:05:45.9-00:05:51.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 9f19bce2-6b1a-44d2-af68-ba7f3da92de3
+  claim_hash: c23c1ca02861a8e04cda75af5b0ea58340f87ced90f19ce1a99f65df7809b07b
+  content: Immaculate Constellation reportedly contains a robust collection of imagery,
+    including infrared, forward-looking infrared (FLIR) camera footage, full-motion
+    video (FMV), and other surveillance footage documenting UAP encounters.
+  original_excerpt: The program reportedly contains a robust collection of imagery,
+    including infrared, forward-looking infrared, so FLIR cameras, full-motion video,
+    FMVs, and other types of surveillance footage documenting these UAP encounters.
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: named
+    origin: an anonymous whistleblower interviewed by Michael Schellenberger
+    relay:
+    - Michael Schellenberger
+    - Chris Ramsey
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  date: null
+  date_end: null
+  location_in_record: 00:07:51.0-00:08:04.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: a3b7adb7-87e7-4923-9868-8aaf47cbeaff
+  claim_hash: 904de4e934d7d568679abb9a1f7c5e6c3a4ddd5dcd0b8936023ce632f24b69a7
+  content: According to Google Trends, the search term "Immaculate Constellation"
+    was searched only a few times before, in June 2023, near USA, Ohio, Wright-Patterson
+    Air Force Base.
+  original_excerpt: it was only ever searched, apparently, according to Google Trends,
+    a few times before in June of 2023 near... You guessed it, Wright-Patterson Air
+    Force Base in Ohio.
+  claim_type: measurement
+  attestation: second_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: document
+    origin: Google Trends data
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: acde03ee-7227-486d-854c-9673dd837619
+    title: USA, Ohio, Wright-Patterson Air Force Base
+    slug: ohio-wright-patterson-air-force-base-usa
+  date: 2023-06
+  date_end: null
+  location_in_record: 00:08:14.3-00:08:27.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 0b5a2142-4273-4ac4-849a-fe5e0c6ff3b1
+  claim_hash: 1dd432ddcce83af0f6555150fcea570bd66a8f744fea428953b39c9db873b9cc
+  content: David Grush never mentioned Immaculate Constellation.
+  original_excerpt: Although David Grush never mentioned Immaculate Constellation,
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+    title: David Grush
+    slug: david-grush
+  date: null
+  date_end: null
+  location_in_record: 00:08:37.3-00:08:40.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 426b61a1-f046-49e7-b7f9-be016260ae03
+  claim_hash: 2112c8d69c1ee8cefea14ca691c23b2bffae3065f4c466fe78a9f9d6f9ca40bb
+  content: Chris Ramsey believes that Google Trends data on searches for "Immaculate
+    Constellation" has since been deleted.
+  original_excerpt: And I do believe that since then, that Google Trends has been
+    deleted. Correct me if I'm wrong, but I do think that that happened.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  date: null
+  date_end: null
+  location_in_record: 00:08:53.3-00:09:00.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: eb204f81-feac-452c-87d8-566d5d0c20ba
+  claim_hash: 834d3e25d97ce18ac31b32c086992f3782ce43cb6e74d4a9e5c1edfb02c2c581
+  content: Members of the United States Congress received the Immaculate Constellation
+    document only minutes before the 2024 United States congressional hearing on UAPs
+    (13 November), leaving them no time to review it.
+  original_excerpt: the folks in Congress apparently received the Immaculate Constellation
+    docs. minutes before the hearing, so they did not have time to review it.
+  claim_type: hearsay
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narrator
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
+    title: 2024 United States congressional hearing on UAPs (13 November)
+    slug: 2024-united-states-congressional-hearing-on-uaps-13-november
+  date: '2024-11-13'
+  date_end: null
+  location_in_record: 00:13:35.8-00:13:47.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+    record_title: UAPs in Washington - I wasn't supposed to be there..
+    record_date: '2024-11-24'
+    record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+    content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+    friendly_name: null
+- claim_id: fd85e1d8-7d79-41bb-8a35-5906aaa2a001
+  claim_hash: f9c7b71ec4bcf34a4260ffb03b4e89b57276d6aa162698dd4db8929e37b379fe
+  content: The Immaculate Constellation document does not contain any content about
+    hybridisation.
+  original_excerpt: there's nothing in here that talks about hybridization.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narrator
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  date: null
+  date_end: null
+  location_in_record: 00:13:48.0-00:13:50.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+    record_title: UAPs in Washington - I wasn't supposed to be there..
+    record_date: '2024-11-24'
+    record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+    content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+    friendly_name: null
+- claim_id: 56e2a900-5cc8-4861-b0a4-dd85ee076981
+  claim_hash: e3ee8c3cc52dd95f08e0558067bba75e0e6251a700b2b5d706a06d8761480572
+  content: There seems to be a beautiful data set for Avi Loeb's council alleged to
+    be from a National Security Council activity called Immaculate Constellation,
+    established in 2017.
+  original_excerpt: This would be what some whistleblowers and others have alleged
+    is a National Security Council activity called Immaculate Constellation that was
+    established in 2017.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+    title: UAP Gerb
+  provenance_chain:
+    origin_kind: named
+    origin: unnamed whistleblowers and others
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+    title: National Security Council
+    slug: national-security-council
+  date: null
+  date_end: null
+  location_in_record: 00:51:47.5-00:51:54.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: 718ba446-7534-4338-9271-dd408444d57b
+  claim_hash: 46b58918fb8930f11522c4e0101a85aed59b1601c8c0da3aebe64668469bc79b
+  content: Immaculate Constellation was mentioned in the United States Congress.
+  original_excerpt: That was mentioned in the Congress.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+    title: Avi Loeb
+  provenance_chain:
+    origin_kind: speaker
+    origin: Avi Loeb
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  date: null
+  date_end: null
+  location_in_record: 00:51:54.8-00:51:56.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: 39052f6b-54da-4662-b726-c6b92929b9b7
+  claim_hash: caadadb24649304121a1c746b10c0d570b6c4e32c59423fe44112cefd9b23d64
+  content: UAP Gerb believes the Immaculate Constellation activity of the National
+    Security Council serves as a repository for high-quality imagery intelligence
+    and signals intelligence of both non-human technical vehicles and reproduction
+    vehicles.
+  original_excerpt: this activity out of the National Security Council, again, is
+    a basically catcher's mitt for a trove of very high quality imagery intelligence,
+    signals intelligence of both non-human technical vehicles and reproduction vehicles,
+    meaning our copycat vehicles of these systems
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+    title: UAP Gerb
+  provenance_chain:
+    origin_kind: speaker
+    origin: UAP Gerb
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+    title: National Security Council
+    slug: national-security-council
+  date: null
+  date_end: null
+  location_in_record: 00:52:00.8-00:52:18.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: b13eaf4c-af73-4282-86b4-ccab074f524c
+  claim_hash: 10d360470cc4f93ca7c0e0779d6eaf10be3002d3ed5c24816d074e8a0992d6b5
+  content: UAP Gerb states that the Immaculate Constellation data would be held in
+    the National Geospatial-Intelligence Agency (NGA).
+  original_excerpt: This data, of course, would be held in the National Geospatial
+    Intelligence Agency.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+    title: UAP Gerb
+  provenance_chain:
+    origin_kind: speaker
+    origin: UAP Gerb
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+    title: National Geospatial-Intelligence Agency (NGA)
+    slug: national-geospatial-intelligence-agency-nga
+  date: null
+  date_end: null
+  location_in_record: 00:52:19.0-00:52:22.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null

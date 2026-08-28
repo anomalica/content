@@ -1,0 +1,504 @@
+schema: anomalica/brief/1
+brief_hash: 871d8eb4627830ed50be21c88df6ea6b26c5ee3af95b435e57f8ca2115cf6542
+page:
+  kind: entity
+  node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+  node_type: person
+  title: Clarke, Joy
+  slug: joy-clarke
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: f64cc3b2-e1f5-4c0e-9dfa-623f78e6bc15
+  title: Westall UFO Sighting
+  node_type: event
+  slug: westall-ufo-sighting
+  shared_claims: 9
+- node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 3
+- node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
+  title: Westall High School
+  node_type: place
+  slug: westall-high-school
+  shared_claims: 3
+- node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+  title: Westall Unidentified Flying Object (UFO) sighting 1966
+  node_type: event
+  slug: westall-unidentified-flying-object-ufo-sighting-1966
+  shared_claims: 3
+- node_id: 9722a454-aafc-4a55-a830-0980c8695468
+  title: The Grange Westall
+  node_type: place
+  slug: the-grange-westall
+  shared_claims: 2
+- node_id: a4a9ae46-ade2-44ee-b1bc-f730476fe85b
+  title: Kelly, Colin
+  node_type: person
+  slug: colin-kelly
+  shared_claims: 1
+claims:
+- claim_id: 9208f242-a133-4ab5-ab1b-83f2466bc76f
+  claim_hash: ef4675f5fb3fdb7b2ea2429085bfd673fe9388d5806e4618a0764d3a119b2590
+  content: Joy Clarke and Colin Kelly were interviewed by the author on site at Westall
+    High School on 16 November 2019 about the Westall UFO sighting.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
+    title: Westall High School
+    slug: westall-high-school
+  - node_id: a4a9ae46-ade2-44ee-b1bc-f730476fe85b
+    title: Kelly, Colin
+    slug: colin-kelly
+  - node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+    slug: joy-clarke
+  - node_id: f64cc3b2-e1f5-4c0e-9dfa-623f78e6bc15
+    title: Westall UFO Sighting
+    slug: westall-ufo-sighting
+  date: '2019-11-16'
+  date_end: null
+  location_in_record: Chapter 5, endnote 13
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 9f88bf0c-5d6b-4636-a167-ef93e2903848
+  claim_hash: 4ed47de4ac403d16b55b9c0c2fdd43b62bcc9898b4a5e1e967e15f352c02e5ce
+  content: Joy Clarke, aged 12 at the time, stood in a circle of flattened grass where
+    she and multiple witnesses from Westall High School saw an alien craft land in
+    'The Grange' in April 1966.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
+    title: Westall High School
+    slug: westall-high-school
+  - node_id: 9722a454-aafc-4a55-a830-0980c8695468
+    title: The Grange Westall
+    slug: the-grange-westall
+  - node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+    slug: joy-clarke
+  - node_id: f64cc3b2-e1f5-4c0e-9dfa-623f78e6bc15
+    title: Westall UFO Sighting
+    slug: westall-ufo-sighting
+  date: 1966-04
+  date_end: null
+  location_in_record: Photo Section caption 6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: f9df8d14-f10f-4784-8afb-29912ff83f17
+  claim_hash: 9879d70c5834188c835bdf54019e9b5635c7c408be073bc9a73c95020f3757d0
+  content: Joy Clarke was a twelve-year-old schoolgirl at Westall High School in Melbourne,
+    Australia, when the Westall UAP sighting occurred on 6 April 1966.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
+    title: Westall High School
+    slug: westall-high-school
+  - node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+    slug: joy-clarke
+  - node_id: f64cc3b2-e1f5-4c0e-9dfa-623f78e6bc15
+    title: Westall UFO Sighting
+    slug: westall-ufo-sighting
+  date: '1966-04-06'
+  date_end: null
+  location_in_record: paragraph 1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 5eefca9c-238c-4f8b-a91a-2cb685377e50
+  claim_hash: 584169fe11bad4a9e4c818767dc0340cf78252fa46aa3a3ef316927999943284
+  content: More than 100 children and adult teachers saw several hovering UAPs at
+    the Westall UFO Sighting on 6 April 1966.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
+    title: Westall High School
+    slug: westall-high-school
+  - node_id: f64cc3b2-e1f5-4c0e-9dfa-623f78e6bc15
+    title: Westall UFO Sighting
+    slug: westall-ufo-sighting
+  date: '1966-04-06'
+  date_end: null
+  location_in_record: paragraph 2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: eb4fdcda-c2cd-499f-94e2-90eec62edff5
+  claim_hash: efb3edc89e16fb673518e2b2842744aa4653792a583eb6596065f2144e795ec0
+  content: Joy Clarke saw objects that looked like two metallic silvery saucers with
+    their rims against each other at the Westall UFO Sighting.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+    slug: joy-clarke
+  - node_id: f64cc3b2-e1f5-4c0e-9dfa-623f78e6bc15
+    title: Westall UFO Sighting
+    slug: westall-ufo-sighting
+  date: '1966-04-06'
+  date_end: null
+  location_in_record: paragraph 2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: ba38c520-9712-427e-b270-e04debe8f64f
+  claim_hash: b8162bc536fd87f57282a784d4cf4fd79cff842cb2514c62ebaf786fab9b4a52
+  content: The Westall UAP craft appeared to evade light aircraft that were chasing
+    them; when the aircraft came near, the saucers moved almost instantaneously.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+    slug: joy-clarke
+  - node_id: f64cc3b2-e1f5-4c0e-9dfa-623f78e6bc15
+    title: Westall UFO Sighting
+    slug: westall-ufo-sighting
+  date: '1966-04-06'
+  date_end: null
+  location_in_record: paragraph 6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 7b8d98b2-4208-4a70-9e87-8fa7b607a310
+  claim_hash: 11ff58f8d396e45282040eef068c2206b9d48127de30a13edbb0c3855a93fb14
+  content: Joy Clarke described the Westall craft's movement as fluid and extremely
+    fast, appearing to jump positions in seconds.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+    slug: joy-clarke
+  - node_id: f64cc3b2-e1f5-4c0e-9dfa-623f78e6bc15
+    title: Westall UFO Sighting
+    slug: westall-ufo-sighting
+  date: '1966-04-06'
+  date_end: null
+  location_in_record: paragraph 6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 76c9b723-dd76-4faa-b20f-0c3988f07df1
+  claim_hash: 53037f081f6861c2c0aa26fad67b6fe67812293b38e83c67864aed528960b3ff
+  content: All three Westall craft turned on their axis at 45 degrees and disappeared
+    into the horizon silently.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+    slug: joy-clarke
+  - node_id: f64cc3b2-e1f5-4c0e-9dfa-623f78e6bc15
+    title: Westall UFO Sighting
+    slug: westall-ufo-sighting
+  date: '1966-04-06'
+  date_end: null
+  location_in_record: paragraph 6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 4f10f152-9b75-40eb-bf13-d2d9cf88d137
+  claim_hash: 50870d187d323af0e76d67cbde52e7fec4c2ea388ec9225294bb5e66d24131c5
+  content: Joy Clarke and a friend saw military and police activity and a large flattened
+    circle in the grass at The Grange after the Westall sighting.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9722a454-aafc-4a55-a830-0980c8695468
+    title: The Grange Westall
+    slug: the-grange-westall
+  - node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+    slug: joy-clarke
+  - node_id: f64cc3b2-e1f5-4c0e-9dfa-623f78e6bc15
+    title: Westall UFO Sighting
+    slug: westall-ufo-sighting
+  date: '1966-04-06'
+  date_end: null
+  location_in_record: paragraph 8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: e1f42410-ab24-456f-968f-2cac58adf59f
+  claim_hash: 018a9493930ad682fba2d5290a57b30183f3d16c0c9b7372b6e503efda197731
+  content: Joy Clarke believed some of the military personnel at Westall were American,
+    and there were also unknown men in black suits sitting quietly at the end of the
+    assembly hall.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+    slug: joy-clarke
+  - node_id: f64cc3b2-e1f5-4c0e-9dfa-623f78e6bc15
+    title: Westall UFO Sighting
+    slug: westall-ufo-sighting
+  date: '1966-04-06'
+  date_end: null
+  location_in_record: paragraph 9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: caeeb0ec-0662-47ae-96db-51f6cbee3f6d
+  claim_hash: 260d11247b7fc54e85be390dda02c7e024750227ee8763efd819f9619617c167
+  content: Joy Clarke ran out into the school oval and saw the objects in the sky,
+    standing transfixed, during the Westall sighting.
+  original_excerpt: The bell went and I can remember running out into the oval looking
+    into the sky and seeing these things and just standing there absolutely transfixed.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+    title: Westall Unidentified Flying Object (UFO) sighting 1966
+    slug: westall-unidentified-flying-object-ufo-sighting-1966
+  - node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+    slug: joy-clarke
+  date: null
+  date_end: null
+  location_in_record: 00:46:58.0-00:47:03.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b2026c879b2
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight
+- claim_id: 4c1d3855-f1a2-4956-be74-3d2ca06337a9
+  claim_hash: 92228f7e17f38f2bc6bceebbc6dbf9330f0008e080533ff11ad9159cf0dcedcf
+  content: Joy Clarke had never seen anything like the Westall object before in her
+    life and has not seen anything like it since.
+  original_excerpt: Never seen anything like it before in my life, haven't seen anything
+    like it since.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+    title: Westall Unidentified Flying Object (UFO) sighting 1966
+    slug: westall-unidentified-flying-object-ufo-sighting-1966
+  - node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+    slug: joy-clarke
+  date: null
+  date_end: null
+  location_in_record: 00:47:27.2-00:47:32.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b2026c879b2
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight
+- claim_id: 32b4c8f0-8d57-4179-9c5a-a91efaae4e1e
+  claim_hash: 561c6dc4e0d5b6a5ba443b431af01402dd9519c7c6ca47c850dc91f5346a75e9
+  content: Joy Clarke described the Westall object's movement as incredible, going
+    straight up, side, up, down, all over the place, with a hump on top like a silvery
+    thing with little lights around it.
+  original_excerpt: The movement was incredible, straight up, side, up, down, all
+    over the place.... It's sort of like a hump on the top. It's like a silvery thing,
+    like this, and it had like little lights around it.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+    title: Westall Unidentified Flying Object (UFO) sighting 1966
+    slug: westall-unidentified-flying-object-ufo-sighting-1966
+  - node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Clarke, Joy
+    slug: joy-clarke
+  date: null
+  date_end: null
+  location_in_record: 00:48:14.6-00:48:22.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b2026c879b2
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight

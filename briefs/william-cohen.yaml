@@ -1,0 +1,219 @@
+schema: anomalica/brief/1
+brief_hash: bfa2f2147f97ae4057e4b41a9b7e367e9ee6e68de0cf3b9cb786132138018051
+page:
+  kind: entity
+  node_id: 761237eb-5739-4888-b403-f4fd515e941c
+  node_type: person
+  title: William Cohen
+  slug: william-cohen
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+  title: Christopher K. Mellon
+  node_type: person
+  slug: christopher-k-mellon
+  shared_claims: 5
+- node_id: f8ca3a54-32bf-492a-aac9-585dd8d647d0
+  title: US Capitol
+  node_type: object
+  slug: us-capitol
+  shared_claims: 1
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 1
+- node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+  title: United States Pentagon
+  node_type: place
+  slug: united-states-pentagon
+  shared_claims: 1
+claims:
+- claim_id: 1d5a163c-c095-4f4b-95a8-e6ca6d05f1a3
+  claim_hash: 38a27dd6c66f080be550f35ea1cad425232907db226b4c323a89e8b5a7230c19
+  content: Christopher Mellon had previously worked as a legislative assistant for
+    US Senator William Cohen, who later became Defence Secretary.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: 761237eb-5739-4888-b403-f4fd515e941c
+    title: William Cohen
+    slug: william-cohen
+  date: null
+  date_end: null
+  location_in_record: ch13:7765-7875
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: cd381e01-1602-40d7-8117-030246ae9b3b
+  claim_hash: 316a3f26375851f5f938c11275756d8ea85e2f8c17a96adce14820268cdd199e
+  content: In 1997, Christopher Mellon followed William Cohen into the Pentagon as
+    a member of the new Defence Secretary's transition team.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: 761237eb-5739-4888-b403-f4fd515e941c
+    title: William Cohen
+    slug: william-cohen
+  - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+    title: United States Pentagon
+    slug: united-states-pentagon
+  date: '1997'
+  date_end: null
+  location_in_record: ch13:8774-8881
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d5dc00ca-e86e-4668-8ee8-841c57c4100e
+  claim_hash: 2f5096fc2c9ddc892f89a8ba5f63100e78d2af9b997f5ef777dea4b6781951ee
+  content: While William Cohen was a US Senator, Christopher Mellon was his closest
+    advisor on Capitol Hill.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: 761237eb-5739-4888-b403-f4fd515e941c
+    title: William Cohen
+    slug: william-cohen
+  - node_id: f8ca3a54-32bf-492a-aac9-585dd8d647d0
+    title: US Capitol
+    slug: us-capitol
+  date: null
+  date_end: null
+  location_in_record: ch26:1012-1087
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 94b55145-fa86-4907-b2e3-6b78e008f958
+  claim_hash: e12eceb8027c78713fbe2e633cdb085ca207a279db7861a96e51f1059de3bfbb
+  content: When William Cohen became Secretary of Defense, he brought Christopher
+    Mellon with him to serve as one of his trusted principals on his new staff.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: 761237eb-5739-4888-b403-f4fd515e941c
+    title: William Cohen
+    slug: william-cohen
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  date: null
+  date_end: null
+  location_in_record: ch26:1095-1215
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 4e857cc0-aae4-4afd-b6ae-ac5338b03a12
+  claim_hash: b3889d666fe956a98cdad2c6f52ae49a226ccca7509e2dad2665fd3a99fe0e5e
+  content: Christopher Mellon previously served as a senior staffer for Senator William
+    Cohen.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: 761237eb-5739-4888-b403-f4fd515e941c
+    title: William Cohen
+    slug: william-cohen
+  date: null
+  date_end: null
+  location_in_record: ch31:6603-6711
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted

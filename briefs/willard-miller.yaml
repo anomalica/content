@@ -1,0 +1,2147 @@
+schema: anomalica/brief/1
+brief_hash: 939794cf7d16bea6d12e88b2b32286786695494e144fa8b6e06fa0380a46b6f5
+page:
+  kind: entity
+  node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+  node_type: person
+  title: Willard Miller
+  slug: willard-miller
+  claim_count: 47
+  claim_count_total: 47
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+  title: Thomas Wilson
+  node_type: person
+  slug: thomas-wilson
+  shared_claims: 28
+- node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+  title: Steven Greer
+  node_type: person
+  slug: steven-greer
+  shared_claims: 12
+- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+  title: Eric Davis
+  node_type: person
+  slug: eric-davis
+  shared_claims: 9
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 7
+- node_id: 59476464-a679-46ce-9247-b0adcb287762
+  title: Edgar Mitchell
+  node_type: person
+  slug: edgar-mitchell
+  shared_claims: 6
+- node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+  title: Defense Intelligence Agency (DIA)
+  node_type: organisation
+  slug: defense-intelligence-agency-dia
+  shared_claims: 4
+- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+  title: Harold E. Puthoff
+  node_type: person
+  slug: harold-e-puthoff
+  shared_claims: 4
+- node_id: 93df8d48-8068-409a-a198-27e923af6cde
+  title: Majestic 12 (MJ-12)
+  node_type: project
+  slug: majestic-12-mj-12
+  shared_claims: 3
+- node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+  title: Oke Shannon
+  node_type: person
+  slug: oke-shannon
+  shared_claims: 3
+- node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
+  title: Patrick Hughes
+  node_type: person
+  slug: patrick-hughes
+  shared_claims: 3
+- node_id: 9e4fb640-6fed-4ec9-ba7c-72858f99a342
+  title: Senior Review Group
+  node_type: organisation
+  slug: senior-review-group
+  shared_claims: 3
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 3
+- node_id: 01c9b273-76b2-49f5-9051-010be7e2a0e5
+  title: 1997-04 Pentagon briefing by Greer, Miller and Mitchell
+  node_type: event
+  slug: miller-and-mitchell-1997-04-pentagon-briefing-by-greer
+  shared_claims: 2
+- node_id: 953f6232-9902-437f-ad4c-add4fd080043
+  title: Leslie Kean
+  node_type: person
+  slug: leslie-kean
+  shared_claims: 2
+- node_id: 11432bdc-8b19-431e-8a9c-dd49bd3b3d52
+  title: Shari Adamiak
+  node_type: person
+  slug: shari-adamiak
+  shared_claims: 2
+- node_id: 885a50ed-1c16-4c97-aa8a-5fad14b157aa
+  title: Steven Lovekin
+  node_type: person
+  slug: steven-lovekin
+  shared_claims: 2
+- node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+  title: The Admiral Wilson Memo
+  node_type: document
+  slug: the-admiral-wilson-memo
+  shared_claims: 2
+- node_id: a8f63349-37e4-46b1-8f69-e46dd0a2c37f
+  title: The Boston Globe
+  node_type: organisation
+  slug: the-boston-globe
+  shared_claims: 2
+- node_id: 9830e672-892f-440b-a2dd-0844dfa8c1e0
+  title: Thomas Wilson's 1997-06 investigation into the special-access reverse-engineering
+    program
+  node_type: event
+  slug: thomas-wilsons-1997-06-investigation-into-the-special-access-reverse-engineering-program
+  shared_claims: 2
+- node_id: 3a3063a2-fb89-4eaf-8879-8c7c5ba6c7de
+  title: UFO crash retrieval
+  node_type: topic
+  slug: ufo-crash-retrieval
+  shared_claims: 2
+- node_id: d7e4feb6-b868-4952-8eda-9302e1683dc4
+  title: USA, Florida, Tallahassee
+  node_type: place
+  slug: florida-tallahassee-usa
+  shared_claims: 2
+- node_id: 29ad02b7-4634-48bc-acf6-6b81b6a281e3
+  title: USA, Virginia, The Pentagon
+  node_type: place
+  slug: virginia-the-pentagon-usa
+  shared_claims: 2
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 2
+- node_id: 2a9177f5-6f60-4cf2-90b4-9e5da21fac0c
+  title: Will Miller letter to Eric Davis, 2002-04-25
+  node_type: document
+  slug: 2002-04-25-will-miller-letter-to-eric-davis
+  shared_claims: 2
+- node_id: cede6ffc-2f3c-4c01-be52-c2d489318bb2
+  title: 1947 Roswell incident
+  node_type: event
+  slug: 1947-roswell-incident
+  shared_claims: 1
+- node_id: af72e20b-8fd0-4015-b443-c6da1bae5065
+  title: Alien Reproduction Vehicle (ARV)
+  node_type: topic
+  slug: alien-reproduction-vehicle-arv
+  shared_claims: 1
+- node_id: 2bc5c3bd-ce9e-481d-9e00-e42ab1aabf65
+  title: Bob Beckwith
+  node_type: person
+  slug: bob-beckwith
+  shared_claims: 1
+- node_id: d5dc8c59-917f-4011-ac9c-a38b55551355
+  title: Boston Globe articles on UFOs by Leslie Kean
+  node_type: document
+  slug: boston-globe-articles-on-ufos-by-leslie-kean
+  shared_claims: 1
+- node_id: ec339458-25c6-4335-85a1-ca339e46f8f8
+  title: F-117 Nighthawk
+  node_type: object
+  slug: f-117-nighthawk
+  shared_claims: 1
+- node_id: 06f38038-9b38-40df-8eac-d934fdc6c7b9
+  title: Joe Zucharro
+  node_type: person
+  slug: joe-zucharro
+  shared_claims: 1
+claims:
+- claim_id: d71e5a62-174f-413b-9eb7-ae31f6fb11b6
+  claim_hash: 99f22063b248d4e2bd3c8376e48b543b4cf9d498ab7be476eb3dddf59f39296d
+  content: The subject discussed between Oke Shannon and Will Miller related to a
+    Boston Globe story by Leslie Kean, the UFO topic, crashed and retrieved UFO craft
+    and bodies, and a Majestic 12 (MJ-12) -like UFO organisation or cabal.
+  original_excerpt: 'Re: Boston Globe Story - L. Kean. Yep, UFO topic - crashed/retrieved
+    UFO craft/bodies, etc. MJ-12 like UFO organization (or cabal).'
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: named
+    origin: Oke Shannon
+    relay:
+    - Oke Shannon's account to Thomas Wilson
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+    title: Oke Shannon
+    slug: oke-shannon
+  - node_id: 3a3063a2-fb89-4eaf-8879-8c7c5ba6c7de
+    title: UFO crash retrieval
+    slug: ufo-crash-retrieval
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    slug: majestic-12-mj-12
+  - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+    slug: leslie-kean
+  - node_id: a8f63349-37e4-46b1-8f69-e46dd0a2c37f
+    title: The Boston Globe
+    slug: the-boston-globe
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:1063-1183
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 0f2d1479-b28c-4be4-bd72-41b1d5340be1
+  claim_hash: dfea4cf8818b429a95d9a8372d6f36a8edf1d909b3156008ea13a3a51c54f694
+  content: After parting with Will Miller, about a week later, Thomas Wilson made
+    calls, knocked on a few doors, and talked to people, continuing on and off for
+    about 45 days.
+  original_excerpt: 'TW: After parting with Miller (week later, he thinks) - I made
+    calls, knocked on a few doors, talked to people - went on for 45 days (thereabouts)
+    on and off'
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 9830e672-892f-440b-a2dd-0844dfa8c1e0
+    title: Thomas Wilson's 1997-06 investigation into the special-access reverse-engineering
+      program
+    slug: thomas-wilsons-1997-06-investigation-into-the-special-access-reverse-engineering-program
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:11209-11359
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 3df64293-e6b6-484f-aa25-a4d074b69359
+  claim_hash: f8f132c59a9f46cfc56883abead8515d4df75b108453125353993e6c2cb22873
+  content: Steven Greer, Will Miller and Edgar D. Mitchell gave a talk in a Pentagon
+    conference room, with Admiral Mike Crawford and General Patrick Hughes present,
+    in April 1997.
+  original_excerpt: 'TW: Confirmed Greer/Miller/Mitchell gave talk in Pentagon Conference
+    room. Adm. Mike Crawford, Gen. Pat Hughes (Hughes his boss) were present (others
+    too.) Date April ''97.'
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 01c9b273-76b2-49f5-9051-010be7e2a0e5
+    title: 1997-04 Pentagon briefing by Greer, Miller and Mitchell
+    slug: miller-and-mitchell-1997-04-pentagon-briefing-by-greer
+  - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
+    title: Patrick Hughes
+    slug: patrick-hughes
+  - node_id: 29ad02b7-4634-48bc-acf6-6b81b6a281e3
+    title: USA, Virginia, The Pentagon
+    slug: virginia-the-pentagon-usa
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 9f83df76-868f-4f36-b57e-7174c2ca6b3e
+    title: Mike Crawford
+    slug: mike-crawford
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+    slug: steven-greer
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: 1997-04
+  date_end: null
+  location_in_record: char:1217-1381
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: fc4bd834-e0b6-4596-b0df-d2d4f30718d7
+  claim_hash: 2d20148feed9e523a3577c74d30798bd4d62f8fecd893d3d2d83fcdef87ca7fb
+  content: After the April 1997 Pentagon briefing group broke up, Will Miller and
+    Thomas Wilson talked privately for two hours about UFOs, Majestic 12 (MJ-12),
+    the 1947 Roswell UFO incident, and crashed UFOs and alien bodies.
+  original_excerpt: After group broke up, Miller/Wilson talked (privately) 2 hours
+    on UFOs, MJ-12, Roswell, crashed UFOs/alien bodies, etc.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 01c9b273-76b2-49f5-9051-010be7e2a0e5
+    title: 1997-04 Pentagon briefing by Greer, Miller and Mitchell
+    slug: miller-and-mitchell-1997-04-pentagon-briefing-by-greer
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    slug: majestic-12-mj-12
+  - node_id: cede6ffc-2f3c-4c01-be52-c2d489318bb2
+    title: 1947 Roswell incident
+    slug: 1947-roswell-incident
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: 1997-04
+  date_end: null
+  location_in_record: char:1412-1527
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 7d7ef1af-968e-4f7d-8e41-0ec3ab05e161
+  claim_hash: cc4eb9d0efa30901c5ea0797ec0942003f524a2887bcd4895e209e5486a8c5d9
+  content: Thomas Wilson said he was intrigued and knew about intelligence on US military
+    and intelligence UFO close encounters and foreign government encounters, having
+    seen records, and told this to Will Miller.
+  original_excerpt: TW intrigued - knew about intelligence on US mil/intell UFO close
+    encounters - and foreign gov't encounters. Seen records. Told Miller.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:1532-1660
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 7e453fb5-de9c-4569-8caf-e3413a2627ce
+  claim_hash: 340906720f1714e0fc1cb4a7e0ccb90f2c3b35b3c49eb86c976c2bdbcbe2f0ec
+  content: Thomas Wilson confirmed he called Will Miller around late June 1997 and
+    told him that Miller was right that a Majestic 12 (MJ-12)-like UFO organisation
+    exists.
+  original_excerpt: Confirmed he called Miller ca. late June '97 and told that he/Miller
+    was right - there is such an organization in existence.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    slug: majestic-12-mj-12
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: 1997-06
+  date_end: null
+  location_in_record: char:1738-1852
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 0e52a0d4-f650-43cb-a474-13ef7fe6d17f
+  claim_hash: 09dbdec9b56c5966d2ffa02f84b4896b25292fc48fb4cda7c49ba1ed9e0932c2
+  content: Thomas Wilson said he found information and talked to people during his
+    investigation, but did not name everyone he spoke to, when asked what he told
+    Will Miller.
+  original_excerpt: 'TW: I found it, where I looked, who I talked to but did not name
+    every one - that''s it.'
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:1916-1996
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 26012c8b-7fa8-4112-986a-28a99b86c8ff
+  claim_hash: 91f45f49342e95dfab009eff3a2f666bb640f251168a35628c1e5329588c72ef
+  content: Eric W. Davis showed Thomas Wilson a letter from Will Miller to Davis dated
+    2002-04-25 for evaluation.
+  original_excerpt: 'EWD: I show Miller letter (to me, EWD) dated 4/25/02 - please
+    evaluate.'
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+  provenance_chain:
+    origin_kind: speaker
+    origin: Eric W. Davis
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2a9177f5-6f60-4cf2-90b4-9e5da21fac0c
+    title: Will Miller letter to Eric Davis, 2002-04-25
+    slug: 2002-04-25-will-miller-letter-to-eric-davis
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: '2002-04-25'
+  date_end: null
+  location_in_record: char:2006-2063
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: f5293487-4dbd-43e8-8235-846c7ef7b0fc
+  claim_hash: 28adcee403d5799bef0c2494dbaebbd774ab40f3c3384cdeb2e550e0be89aada
+  content: Thomas Wilson said he did not tell Will Miller everything, and that Miller
+    knows what Wilson did in the Pentagon records group search but no more.
+  original_excerpt: 'TW: (laughs) Didn''t tell Miller EVERYTHING! Miller knows what
+    I did in Pentagon Records Group search but no more.'
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 29ad02b7-4634-48bc-acf6-6b81b6a281e3
+    title: USA, Virginia, The Pentagon
+    slug: virginia-the-pentagon-usa
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:2079-2182
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: d90895bd-bcbf-4c42-bebe-789f0e649e52
+  claim_hash: d468d60df8069ea841a4cd6ab6834f6bc4039015f789b237dd522b263250620f
+  content: Thomas Wilson considers that Will Miller can make a good educated guess
+    about which contractors have alien hardware.
+  original_excerpt: Miller can make good educated guess on who (contractors) has alien
+    hardware.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:2188-2255
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: d51ad4a3-e752-4f4e-b487-3462b8af9b78
+  claim_hash: c3a0d7c3be1c1784dc09221f7a7f1a2b9349f8efbbbd635d2fbe1d0d7492614d
+  content: Will Miller and Steven Greer said Thomas Wilson nearly "got busted" over
+    his investigation into the reverse-engineering program.
+  original_excerpt: 'EWD: Miller and Greer said you nearly got busted.'
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+  provenance_chain:
+    origin_kind: named
+    origin: Will Miller and Steven Greer
+    relay:
+    - Eric W. Davis
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 9830e672-892f-440b-a2dd-0844dfa8c1e0
+    title: Thomas Wilson's 1997-06 investigation into the special-access reverse-engineering
+      program
+    slug: thomas-wilsons-1997-06-investigation-into-the-special-access-reverse-engineering-program
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+    slug: steven-greer
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:21991-22028
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: d1f3d976-9ff0-4e77-8033-90c748bcf11f
+  claim_hash: c0c53ff4577a046ef4d1aa12d7254608f1083bcd17491ecb363420d5673212ab
+  content: The chairman of the Senior Review Group told Thomas Wilson, via Will Miller,
+    that if he did not follow their suggestion to drop the matter he would not see
+    promotion to Director of the Defense Intelligence Agency (DIA).
+  original_excerpt: Told Miller Senior Review Group chairman said if I didn't follow
+    their suggestion that I would not see Director DIA promotion
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: named
+    origin: the chairman of the Senior Review Group
+    relay:
+    - Thomas Wilson
+    - Will Miller
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 9e4fb640-6fed-4ec9-ba7c-72858f99a342
+    title: Senior Review Group
+    slug: senior-review-group
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:22059-22175
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: cf6366a4-16a7-406b-8491-916251a62227
+  claim_hash: 8d4a328fb2f813677d25c0c6d44637b7b4d3603674ca9e16a977c5538b63a334
+  content: The chairman of the Senior Review Group threatened Thomas Wilson with early
+    retirement if he did not follow their suggestion to drop the matter.
+  original_excerpt: get early retirement
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: named
+    origin: the chairman of the Senior Review Group
+    relay:
+    - Thomas Wilson
+    - Will Miller
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 9e4fb640-6fed-4ec9-ba7c-72858f99a342
+    title: Senior Review Group
+    slug: senior-review-group
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:22186-22196
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 165dddb1-ecf0-4e9e-b3d9-27295d7e0f89
+  claim_hash: 0303966fd11f3f728c2c7a1103e9264ee2f532fab241f8629cda71755a18b9bd
+  content: The chairman of the Senior Review Group threatened Thomas Wilson with losing
+    one or two stars (a reduction in rank) if he did not follow their suggestion to
+    drop the matter.
+  original_excerpt: lose 1 or 2 stars along the way
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: named
+    origin: the chairman of the Senior Review Group
+    relay:
+    - Thomas Wilson
+    - Will Miller
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 9e4fb640-6fed-4ec9-ba7c-72858f99a342
+    title: Senior Review Group
+    slug: senior-review-group
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:22208-22236
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 31a45f1a-bf83-4167-a163-1d732dc94892
+  claim_hash: 462eac067a043722522b6ba6dd5d01708c0b78f23940896ad3c639e2c005ccc6
+  content: Thomas Wilson said he does not pay Will Miller, and remarked that Miller
+    sounds hard up given he pays for a nice Florida home and private beach privilege.
+  original_excerpt: Do not pay Miller - sounds hard up to pay for nice Florida home
+    and private beach privilege - (laughs)!
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: d7e4feb6-b868-4952-8eda-9302e1683dc4
+    title: USA, Florida, Tallahassee
+    slug: florida-tallahassee-usa
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:2265-2360
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 4951fe0e-6978-42d2-b3f5-d8e42ad8c091
+  claim_hash: 2329f1395873da4f360f8b069b6cabde09314be969d37b5f7c86993c682ac0f0
+  content: Thomas Wilson said Will Miller can give good advice on which defence companies
+    to look at, and that is all Miller knows.
+  original_excerpt: 'TW: Miller can give good advice on which defense companies to
+    look at - that''s all he knows.'
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:2374-2456
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 80f1e65a-c6ac-41c3-b481-7fb8fe69e182
+  claim_hash: fccc7a2487f0296467cd05daac038e50077323a231ce249314c8230f0164728f
+  content: Will Miller apologised to Eric W. Davis and Hal Puthoff for not responding
+    sooner, citing the "fog of war", current business activity, and losing Davis's
+    new e-mail address as contributing causes.
+  original_excerpt: I must apologize to you and Hal for not getting back with you
+    sooner. The "fog of war", current business activity, and losing your new e-mail
+    address all contributed to the delay, which I regret.
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+  provenance_chain:
+    origin_kind: document
+    origin: Will Miller letter to Eric Davis, 25 April 2002
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2a9177f5-6f60-4cf2-90b4-9e5da21fac0c
+    title: Will Miller letter to Eric Davis, 2002-04-25
+    slug: 2002-04-25-will-miller-letter-to-eric-davis
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:3159-3347
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: d71bc675-739d-47e5-bb39-c7805b500f39
+  claim_hash: 91012ae8fa4971aab4c6c1e5ede179b0aa5671bf0fd947025254d44f47917822
+  content: Will Miller asked whether Eric W. Davis and/or Hal Puthoff would be interested
+    in meeting Bob Beckwith in Tallahassee, Florida on the evening of 30 May.
+  original_excerpt: First, I must ask if you and/or Hal would be interested in meeting
+    Mr. Bob Beckwith in Tallahassee, FL the evening of May 30th.
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+  provenance_chain:
+    origin_kind: document
+    origin: Will Miller letter to Eric Davis, 25 April 2002
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2bc5c3bd-ce9e-481d-9e00-e42ab1aabf65
+    title: Bob Beckwith
+    slug: bob-beckwith
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: d7e4feb6-b868-4952-8eda-9302e1683dc4
+    title: USA, Florida, Tallahassee
+    slug: florida-tallahassee-usa
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:3356-3478
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 2033b5cb-15de-4ade-96c5-55abec84aa08
+  claim_hash: 7c7261814728e0dc19e19f8c7eabce8a128c9a4be739c5696c449e863d4d3ea1
+  content: Bob Beckwith was invited to meet with the head of the Florida Academy of
+    Sciences and the Director of the National High Magnetic Field Laboratory for a
+    roundtable discussion of his Force Model of the Universe and his planned experiments
+    in levitation, teleportation, and time travel.
+  original_excerpt: Bob has been invited to meet with the head of the Florida Academy
+    of Sciences and the Director of the High Magnetic Field Laboratory for a roundtable
+    discussion of his (Mr. Beckwith's) Force Model of the Universe, and his planned
+    experiments in LTT (levitation, teleportation, and time travel), among other subjects.
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+  provenance_chain:
+    origin_kind: document
+    origin: Will Miller letter to Eric Davis, 25 April 2002
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0cdcbe39-4079-4d7b-bbe3-90e73ffc9b15
+    title: National High Magnetic Field Laboratory
+    slug: national-high-magnetic-field-laboratory
+  - node_id: 2bc5c3bd-ce9e-481d-9e00-e42ab1aabf65
+    title: Bob Beckwith
+    slug: bob-beckwith
+  - node_id: ab544eda-7196-4628-ba29-6ed5730abe7a
+    title: Florida Academy of Sciences
+    slug: florida-academy-of-sciences
+  date: null
+  date_end: null
+  location_in_record: char:3484-3791
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 27dc18f0-c35d-41a8-bb8a-628d118bba6d
+  claim_hash: b8e3788ec9fb60c47a52c88e85ea88d380ca4cd04b00b6367b3355d6da08c4e7
+  content: Will Miller offered to assist Eric W. Davis and Hal Puthoff with their
+    ongoing research into UFO crash retrievals and the entities within or outside
+    government involved in that business, subject to caveats.
+  original_excerpt: I would be willing to assist you and Hal with your ongoing research
+    into UFO crash retrievals and the entities within the government (or outside of
+    it) that are involved in that business, with the following caveats.
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+  provenance_chain:
+    origin_kind: document
+    origin: Will Miller letter to Eric Davis, 25 April 2002
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3a3063a2-fb89-4eaf-8879-8c7c5ba6c7de
+    title: UFO crash retrieval
+    slug: ufo-crash-retrieval
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:3984-4191
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: d04441ba-6292-498e-9d6e-1b33b1eb84b2
+  claim_hash: 9b6ab1eb063631530705a263059572a728fed31550346e9438d9b80e7bd6c8d1
+  content: Will Miller required that there be no mention or association of his name
+    with Eric W. Davis's and Hal Puthoff's work or investigation, stating he had nothing
+    to gain from such association and possibly much to lose.
+  original_excerpt: First, there must be absolutely NO mention or association of my
+    name with your work or investigation. I have absolutely nothing to gain from such
+    association at this time, and possibly much to lose.
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+  provenance_chain:
+    origin_kind: document
+    origin: Will Miller letter to Eric Davis, 25 April 2002
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:4201-4394
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: beb43a1a-db33-441b-8449-832d6f0d5d17
+  claim_hash: 329e5ff64420a0fec0a77b9660fa99c4f8e639ad384f214722a4f07b728a4b74
+  content: Will Miller's standard rate for putting together materials, references,
+    or contact lists was $180 per straight-time hour, and he expected the initial
+    work to take less than eight hours.
+  original_excerpt: I would charge you only for the actual time I spend in putting
+    together materials, references, or contact lists for you to pursue. I would expect
+    that time to be minimal, since that initial information would not take long to
+    put together (probably less than 8 hours). My standard rate for such work is $180
+    per straight-time hour.
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+  provenance_chain:
+    origin_kind: document
+    origin: Will Miller letter to Eric Davis, 25 April 2002
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:4409-4734
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: f46e5a2c-ca2a-4391-a11a-58c41cc4dc9b
+  claim_hash: 2052f28cc8f1ee5e98c1f2e03ad1cc9b816c7e3316d180675d934a6574627f95
+  content: Will Miller previously held a Top Secret (TS) clearance with access to
+    Sensitive Compartmented Information (SCI) and other special clearances for other
+    programmes, but no longer works in the classified realm and does not currently
+    hold those clearances.
+  original_excerpt: Although I have held a Top Secret (TS) clearance with access to
+    Special Compartmented Information (SCI), and other "special" clearances for "other"
+    programs, I currently do not work in the classified realm, nor do I hold those
+    clearances.
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+  provenance_chain:
+    origin_kind: document
+    origin: Will Miller letter to Eric Davis, 25 April 2002
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:4834-5085
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 0f935c79-b8f5-4507-a1f9-91f1c14f5cc1
+  claim_hash: 79b81fe3613a4ac52220661776f64acdc8c32a4a295d4d5f494041525d719447
+  content: Will Miller offered to provide particulars on a "special team" involved
+    as a secondary mission with recovering crashed "craft", including the previously
+    classified F-117 Nighthawk, along with its parent sponsoring entity and two key
+    officers.
+  original_excerpt: Particulars on a "special team" involved (as a secondary mission)
+    with recovering crashed "craft" including, but not limited to, the previously
+    classified F-117 Stealth Fighter. This team or its successors, its parent sponsoring
+    entity, and its two key officers may provide some of the information that you
+    seek.
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+  provenance_chain:
+    origin_kind: document
+    origin: Will Miller letter to Eric Davis, 25 April 2002
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  - node_id: ec339458-25c6-4335-85a1-ca339e46f8f8
+    title: F-117 Nighthawk
+    slug: f-117-nighthawk
+  date: null
+  date_end: null
+  location_in_record: char:5493-5800
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: be3d69de-51e6-448c-bd5f-1ddeaed25965
+  claim_hash: f8f3f15b8975fa6760e3cd77c27f209f36faf8c5dfd4413b25ccc55df300fe26
+  content: Will Miller offered to provide the name and last known location of a senior
+    officer he believed had first-hand knowledge of US government alien reproduction
+    vehicles (ARVs) at Area 51 and associated locations.
+  original_excerpt: The name and last location of a senior officer who I believe had
+    first-hand knowledge U.S. government alien reproduction vehicles (ARVs) at Area-51
+    and associated locations.
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+  provenance_chain:
+    origin_kind: document
+    origin: Will Miller letter to Eric Davis, 25 April 2002
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: af72e20b-8fd0-4015-b443-c6da1bae5065
+    title: Alien Reproduction Vehicle (ARV)
+    slug: alien-reproduction-vehicle-arv
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:5810-5973
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: aa19e904-0347-4fd5-8008-b577741eb985
+  claim_hash: fb06f9057a29b6c79f25bee8dec830b6c1b4ab7709992a3b1eb172313799d995
+  content: Will Miller offered to provide the name and current location of a retired
+    senior flag-rank officer he believed was directly involved in government interaction
+    with a significant UFO event on the east coast of the United States, with direct
+    knowledge of US government involvement.
+  original_excerpt: The name and current location of a retired senior (Flag-rank)
+    officer who I believe was directly involved in government interaction with a significant
+    UFO event on the east coast of the U.S., and I believe has, by virtue of his former
+    leadership position, high military rank, and control of significant military forces,
+    direct knowledge of USG involvement in this business.
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+  provenance_chain:
+    origin_kind: document
+    origin: Will Miller letter to Eric Davis, 25 April 2002
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:5988-6352
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: f180801f-58a0-453c-bfd9-dff01761037a
+  claim_hash: da808c635b16af92de847e7166e1f3005b5d326f0e484e834da6cf962fed8a27
+  content: Will Miller offered to provide a list of civilian government contractors
+    who, by virtue of their classified work, current capabilities, clearances, specialised
+    personnel and geographic areas, most likely have current involvement in and knowledge
+    of US government work in alien-derived technologies, crashes, landings, and associated
+    events.
+  original_excerpt: A list of civilian government contractors who, by virtue of their
+    past and current highly classified work, current capabilities, clearances, specialized
+    personnel, and geographic areas of concern, most likely have current involvement
+    in and knowledge of USG work in alien-derived technologies, crashes, landing,
+    and associated events.
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+  provenance_chain:
+    origin_kind: document
+    origin: Will Miller letter to Eric Davis, 25 April 2002
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:6366-6693
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: cf8dfeaa-2b9c-412b-ac8c-51ea40c808fe
+  claim_hash: 5b483beedae842d0e8de28ec74cfb98781b78af06727fae6ad69f97dccf7f0ac
+  content: Will Miller was trying to locate a company in Las Vegas, Nevada called
+    "1Mark, Inc." that had manufactured a specialised disabling pepper spray for the
+    military and law enforcement, and its vice-president, Joe Zucharro.
+  original_excerpt: 'Finally, I have a request: I am trying to locate a company in
+    Las Vegas, NV which some years ago manufactured a specialized disabling "pepper
+    spray" for the military and law enforcement. The company was called "1Mark, Inc."
+    (2300 W. Sahara Ave. Ste. 500) and I knew its V.P., a Mr. Joe Zucharro.'
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+  provenance_chain:
+    origin_kind: document
+    origin: Will Miller letter to Eric Davis, 25 April 2002
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 06f38038-9b38-40df-8eac-d934fdc6c7b9
+    title: Joe Zucharro
+    slug: joe-zucharro
+  - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+    title: USA, Nevada, Las Vegas
+    slug: nevada-las-vegas-usa
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:6765-7051
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 52c5c388-dfac-4d1c-8ae6-148bdca55d60
+  claim_hash: 7af0de847dbb422b0bbf6765c06307ee46759ecf48bc61921771ae96b3212c1a
+  content: Oke Shannon argued that Eric W. Davis would not talk to the press or to
+    UFO or other such groups, had no media connections, and would not talk to Will
+    Miller, Steven Greer, or related people, having no vested interest in publicity,
+    money, fame, or notoriety.
+  original_excerpt: 'TW: I (EWD) wouldn''t talk to press, to groups (UFO or other
+    such), no media connections, not talk to Miller or Greer or related folks - no
+    vested interest in publicity/money/fame/notoriety, etc.'
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: named
+    origin: Oke Shannon
+    relay:
+    - Oke Shannon's argument relayed by Thomas Wilson
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+    title: Oke Shannon
+    slug: oke-shannon
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+    slug: steven-greer
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:8894-9080
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 33b0402e-38e2-4600-83bd-82d58633a6d1
+  claim_hash: 0098f0eb12fc8481af9dd85b471c75ee59dfe754b00059333927c8edd6d3b1c6
+  content: Thomas Wilson was very angry about Will Miller, showing a tense facial
+    expression and angry voice.
+  original_excerpt: 'TW: Very furious - very angry about Miller (facial expression
+    tense, angry voice)'
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+  provenance_chain:
+    origin_kind: speaker
+    origin: Eric W. Davis
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:9358-9429
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 3ddc8db7-a6dd-42ba-8547-313e76df4702
+  claim_hash: 8516b16db0ae579452d20304926d632815e20bfc182d345844eaf53c4de884a5
+  content: Oke Shannon spoke to Thomas Wilson for two hours in an attempt to convince
+    him to talk to Eric W. Davis about what Shannon had told Will Miller around June
+    1997 and April 1997.
+  original_excerpt: 'TW: Oke talked 2 hours, wanted to convince to talk to me (EWD)
+    about what he told Will Miller ca. June ''97 and April ''97.'
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay:
+    - Oke Shannon's account to Thomas Wilson
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+    title: Oke Shannon
+    slug: oke-shannon
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:941-1055
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 12562420-45b9-4777-9916-02d408cd9c84
+  claim_hash: b043f148a249193a15d9925fa17df74d6d09091fdd74b093a5d441dd555a64fe
+  content: Thomas Wilson considers that Will Miller violated personal and professional
+    trust, especially among intelligence colleagues and Navy officers, and violated
+    the Navy camaraderie and brotherhood among officers.
+  original_excerpt: '- Violated personal and professional trust - especially among
+    intelligence colleagues/Navy officers
+
+    - There''s Navy camaraderie among officers - brotherhood'
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:9438-9580
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 60bdf326-c23d-4319-b016-e78a06211b34
+  claim_hash: 4421b27c96b6dc8377b09a654f3a779e70955613af09d4fbcb7d09b04537d617
+  content: Will Miller told Steven Greer about his conversation with Thomas Wilson.
+  original_excerpt: 'TW: Miller told Greer their conversation'
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+    slug: steven-greer
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:9668-9692
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 1e2d3bd5-de5d-4672-81fe-49ee6e97541b
+  claim_hash: 38bdb3f494b7329014a4ae04d59868c10d89f6298c407b051c6dfa3a8af547f7
+  content: Will Miller told Edgar D. Mitchell about the conversation with Thomas Wilson,
+    and Mitchell only told Eric W. Davis about it in 1999.
+  original_excerpt: (EWD note - Miller told Ed Mitchell who only told me in 1999)
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+  provenance_chain:
+    origin_kind: speaker
+    origin: Eric W. Davis
+    relay:
+    - Edgar D. Mitchell's account to Eric W. Davis
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: '1999'
+  date_end: null
+  location_in_record: char:9748-9803
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: f667379a-0653-48c9-a3ba-3b807a133b4d
+  claim_hash: 1a6888f216b2ec412253f7a6e386fe42f95a8fbda00de57a927aede3c62e40bf
+  content: Will Miller talked to Leslie Kean, and Boston Globe articles about UFOs
+    subsequently came out that referenced Thomas Wilson.
+  original_excerpt: 'TW: Then he talks to Kean and Boston Globe articles came out
+
+    - Not sure what he told Kean, but articles referenced me (TW)'
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+    slug: leslie-kean
+  - node_id: a8f63349-37e4-46b1-8f69-e46dd0a2c37f
+    title: The Boston Globe
+    slug: the-boston-globe
+  - node_id: d5dc8c59-917f-4011-ac9c-a38b55551355
+    title: Boston Globe articles on UFOs by Leslie Kean
+    slug: boston-globe-articles-on-ufos-by-leslie-kean
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:9814-9929
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: d71594d4-6b32-4c72-a87a-5f04d66bcfcb
+  claim_hash: c2b39e928880b7f5b493d34f2dcaafb7aaf397cc1ec8212b4d2a0dac85c9e666
+  content: The alleged UAP-UFO cover-up laid out by Steven Greer, Edgar Mitchell and
+    Willard Miller is supposedly so secret that even the second-highest official in
+    the Defense Intelligence Agency was not permitted to know about it.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Steven Greer
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+    slug: steven-greer
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: ch14:13442-13714
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d09d1a48-1cf6-4b76-b20f-2782eefe340a
+  claim_hash: 008e7c12fa6245dc285e69ec7b574dcb16f60ccca155c87053af52c4cd418ecf
+  content: Steven Greer, Willard Miller and Edgar Mitchell presented Admiral Thomas
+    Wilson with what they were convinced was strong witness evidence to support their
+    belief that the US government was covering up alien visitations to Earth, recovered
+    spacecraft and alien bodies, and technological breakthroughs derived from those
+    discoveries.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Steven Greer, Willard Miller, Edgar Mitchell
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+    slug: steven-greer
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: '1997-04-10'
+  date_end: null
+  location_in_record: ch14:14003-14350
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ade03666-fb02-471b-91e5-44b987726c58
+  claim_hash: b8da72d4b86567e3ef7d818e629017fb261c8ba539a5dbaf26e844872c7dc9e7
+  content: Retired Navy Commander Willard Miller supported Steven Greer's account
+    of Admiral Thomas Wilson's frustration at the April 1997 Pentagon briefing.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+  provenance_chain:
+    origin_kind: speaker
+    origin: Willard Miller
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+    slug: steven-greer
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: ch14:15145-15234
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 029cf75f-82ce-49d6-a5ab-6143ef4334fa
+  claim_hash: ef381c864fa85dbdf8715ebbfb05f8fcb60c0a6561425efc3d4425e01953761d
+  content: Willard Miller claimed that just before they left the April 1997 meeting,
+    an aide to Admiral Thomas Wilson made the admission that the UAP conspiracy theory
+    called Majestic MJ-12 was actually real.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+  provenance_chain:
+    origin_kind: named
+    origin: Willard Miller
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: '1997-04-10'
+  date_end: null
+  location_in_record: ch14:15247-15454
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
+  claim_hash: 43728ccd07a1c16572a00ca8edf9d7c5c0a7afc421aa0505f1c0d439eb22236e
+  content: In 1998, Steven Greer was invited back to the Defense Intelligence Agency,
+    again with Commander Willard Miller, to brief the then Director, Admiral Thomas
+    Wilson's immediate superior, Lieutenant General Patrick Hughes, on UFOs.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
+    title: Patrick Hughes
+    slug: patrick-hughes
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+    slug: steven-greer
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: '1998'
+  date_end: null
+  location_in_record: ch14:18395-18635
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5b4654a8-6c9e-452e-b44b-63ff8fe007e7
+  claim_hash: aff2804c7aa4205ec689b0102c98a09f3667f43befe1045ccaba9b3d1c355ad1
+  content: Admiral Tom Wilson's Defense Intelligence Agency boss, General Patrick
+    Hughes, invited Steven Greer and Willard Miller back to talk about UAPs months
+    after the April 1997 Pentagon meeting.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
+    title: Patrick Hughes
+    slug: patrick-hughes
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+    slug: steven-greer
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: ch14:23223-23369
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 105688f2-9437-443c-8f5f-5666f6d5996e
+  claim_hash: 220fad5f40fda385ab137f0124d0b5fe23f64031212f86b694dc985224011759
+  content: Shari Adamiak, Steven Lovekin, Edgar Mitchell and Willard Miller backed
+    Steven Greer's account of the 1997 Pentagon meeting.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 11432bdc-8b19-431e-8a9c-dd49bd3b3d52
+    title: Shari Adamiak
+    slug: shari-adamiak
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 885a50ed-1c16-4c97-aa8a-5fad14b157aa
+    title: Steven Lovekin
+    slug: steven-lovekin
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+    slug: steven-greer
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: ch14:23846-23991
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: bde442ba-8fc2-4571-b187-9f9bfa4db840
+  claim_hash: 3c46d7c036230245dae557855729920832ee7f20c3825bf51811a5da93663438
+  content: Recently retired US Naval Reserve Lieutenant Commander Willard Miller,
+    another attendee of the April 1997 Pentagon briefing, served on the operations
+    staff of the US Atlantic Command and at NORAD Space Command with Top Secret security
+    clearances.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+    title: North American Aerospace Defense Command (NORAD)
+    slug: north-american-aerospace-defense-command-norad
+  - node_id: 7c8f095b-bb35-4459-b507-0289a699ce98
+    title: United States Atlantic Command
+    slug: united-states-atlantic-command
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: ch14:9471-9677
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3c5a1c3c-1117-46f5-b7af-522b3e5231df
+  claim_hash: b4cc63643c55b258fd1d0fcb2420c5ddb4c8b4f145f1cf118edc4318227f2f8d
+  content: Willard Miller had previously served as a navy reservist on Admiral Thomas
+    Wilson's staff.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: ch14:9689-9759
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d0e2eefe-7e4f-4153-b53a-70c6c872ed02
+  claim_hash: 35dbdf96a50647a52d1b519004c7863208cdab70ee73f792b0c1f0e9fdaf355d
+  content: Admiral Thomas Wilson agreed to be briefed about UFOs by Steven Greer and
+    Willard Miller because he was one of the senior military officers whom Miller
+    said was denied knowledge of a secret so-called 'Big Secret'.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Willard Miller
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+    slug: steven-greer
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: ch14:9766-9964
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 639a998b-ebb3-4e2b-b359-116efbb4a6a5
+  claim_hash: 71d3c2371c5522043b86c975673682b8118ae7ade64c37f1d578fcf9c2b6b900
+  content: Tom Wilson, his former Defence Department colleagues, and Willard Miller
+    all cast doubt on the authenticity of the Admiral Wilson Memo (EWD Notes).
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+    title: The Admiral Wilson Memo
+    slug: the-admiral-wilson-memo
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: ch26:24177-24303
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3428b898-7fe7-4880-94d3-ddc3656646a9
+  claim_hash: 48d3657488f5d15e365c287c1dcf62ca180f06130ea9d39482a4cee41e072893
+  content: The Admiral Wilson memorandum, on its face, supports what Steven Greer,
+    Edgar Mitchell, Willard Miller, Steven Lovekin and Shari Adamiak each said they
+    were told by Tom Wilson at their April 1997 Pentagon meeting about a supposed
+    UAP cover-up.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 11432bdc-8b19-431e-8a9c-dd49bd3b3d52
+    title: Shari Adamiak
+    slug: shari-adamiak
+  - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+    title: The Admiral Wilson Memo
+    slug: the-admiral-wilson-memo
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 885a50ed-1c16-4c97-aa8a-5fad14b157aa
+    title: Steven Lovekin
+    slug: steven-lovekin
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+    slug: steven-greer
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: '1997-04-10'
+  date_end: null
+  location_in_record: ch26:2846-3151
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted

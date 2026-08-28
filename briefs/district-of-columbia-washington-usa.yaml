@@ -1,0 +1,2027 @@
+schema: anomalica/brief/1
+brief_hash: e2e977123a86a680fe5b3bec9c45bbe33627d01360aa6d166f97b3677e1f4999
+page:
+  kind: entity
+  node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+  node_type: place
+  title: USA, District of Columbia, Washington
+  slug: district-of-columbia-washington-usa
+  claim_count: 46
+  claim_count_total: 46
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 9
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 6
+- node_id: 62136055-e8e7-4269-b624-9cee709b51cf
+  title: Going Within
+  node_type: document
+  slug: going-within
+  shared_claims: 4
+- node_id: c15dfad3-798d-4293-bff3-8db89a8b57c4
+  title: Harborview Medical Center
+  node_type: organisation
+  slug: harborview-medical-center
+  shared_claims: 4
+- node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+  title: Shirley MacLaine
+  node_type: person
+  slug: shirley-maclaine
+  shared_claims: 4
+- node_id: e9ec8062-a1f2-498c-b930-2490afa4185e
+  title: Kimberly Clark Sharp
+  node_type: person
+  slug: kimberly-clark-sharp
+  shared_claims: 3
+- node_id: 7d618f64-556b-469c-b75e-3a7b103bdb81
+  title: Maria
+  node_type: person
+  slug: maria
+  shared_claims: 3
+- node_id: b396a2fd-f1e1-4356-941a-5dc6b2379925
+  title: National Press Club
+  node_type: place
+  slug: national-press-club
+  shared_claims: 3
+- node_id: 86d529a9-c010-4226-9d3a-a0736144ceec
+  title: Claiborne Pell
+  node_type: person
+  slug: claiborne-pell
+  shared_claims: 2
+- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+  title: Jacques Vallée
+  node_type: person
+  slug: jacques-vallee
+  shared_claims: 2
+- node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+  title: Ken Johnston
+  node_type: person
+  slug: ken-johnston
+  shared_claims: 2
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 2
+- node_id: 7cf30d3b-0060-4aca-aab3-c91874d779d6
+  title: National Press Club press conference, Washington DC, 1996-03-21
+  node_type: event
+  slug: washington-dc-1996-03-21-national-press-club-press-conference
+  shared_claims: 2
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 2
+- node_id: 40d18355-b10b-4329-80ae-38f03e36ad2d
+  title: 1944 Normandy landings
+  node_type: event
+  slug: 1944-normandy-landings
+  shared_claims: 1
+- node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
+  title: 2017 To The Stars Academy of Arts & Sciences launch event
+  node_type: event
+  slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
+  shared_claims: 1
+- node_id: c2b748b1-4e3b-47a0-b48c-a4f6bbb2087f
+  title: Alex Cook
+  node_type: person
+  slug: alex-cook
+  shared_claims: 1
+- node_id: 4e2f7d4e-e34c-46b1-ac8a-24b5c34c0165
+  title: Behind the Flying Saucers
+  node_type: document
+  slug: behind-the-flying-saucers
+  shared_claims: 1
+- node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+  title: Budd Hopkins
+  node_type: person
+  slug: budd-hopkins
+  shared_claims: 1
+- node_id: e972a252-ed0d-4560-b0e5-b5193cede2d5
+  title: Business Plot
+  node_type: event
+  slug: business-plot
+  shared_claims: 1
+- node_id: 4056024b-6788-453b-a270-7b9890087c91
+  title: Buzz Aldrin
+  node_type: person
+  slug: buzz-aldrin
+  shared_claims: 1
+- node_id: 58fec0aa-60f1-424f-a896-4fab810b562f
+  title: Center for American Progress
+  node_type: organisation
+  slug: center-for-american-progress
+  shared_claims: 1
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 1
+- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+  title: Christopher K. Mellon
+  node_type: person
+  slug: christopher-k-mellon
+  shared_claims: 1
+- node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+  title: Cydonia
+  node_type: place
+  slug: cydonia
+  shared_claims: 1
+- node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+  title: Daniel Sheehan
+  node_type: person
+  slug: daniel-sheehan
+  shared_claims: 1
+- node_id: cc81c235-c101-46bc-9b60-0d618973886f
+  title: Dark Mission (ebook)
+  node_type: document
+  slug: dark-mission-ebook
+  shared_claims: 1
+- node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
+  title: Defense Advanced Research Projects Agency (DARPA)
+  node_type: organisation
+  slug: defense-advanced-research-projects-agency-darpa
+  shared_claims: 1
+- node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+  title: Federal Aviation Administration (FAA)
+  node_type: organisation
+  slug: federal-aviation-administration-faa
+  shared_claims: 1
+- node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+  title: Federal Bureau of Investigation (FBI)
+  node_type: organisation
+  slug: federal-bureau-of-investigation-fbi
+  shared_claims: 1
+claims:
+- claim_id: 302e3e46-644d-443e-b884-a5ba576fd72d
+  claim_hash: 9a9673d38e52be7408444a78a82b02c73f5a8574b91d6fda7dd3e8ce828e11b5
+  content: At the Office of the Chief of Military History in Washington, DC, the card
+    index had no reference to the cover operations for the Normandy landing.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Anthony Brown
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 40d18355-b10b-4329-80ae-38f03e36ad2d
+    title: 1944 Normandy landings
+    slug: 1944-normandy-landings
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:27951-28086
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: a7486281-cb30-4b10-92fe-0e1bad1def24
+  claim_hash: 74779716e519bc41c77f6ebdd35cecb75295d430cec8b90f406aa9c048131128
+  content: Jacques Vallée became a computer scientist leading a research group working
+    under contract with the Advanced Research Projects Agency (ARPA), which brought
+    him to Washington several times a year.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
+    title: Defense Advanced Research Projects Agency (DARPA)
+    slug: defense-advanced-research-projects-agency-darpa
+  date: null
+  date_end: null
+  location_in_record: ch4:10958-11157
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: c3e7ee77-ddb7-4c93-a0a4-dedd5db2774e
+  claim_hash: 675570d378a6431ff98455e6537381baa3fc96e5de7c9c09fcf25399b4eb1c39
+  content: Jacques Vallée entered the New Executive Office Building near the White
+    House in Washington DC for a meeting about UFOs at the office of the President's
+    Science Adviser.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 348bd4f3-7698-4ae8-881a-5be8bc74f2dd
+    title: New Executive Office Building
+    slug: new-executive-office-building
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  date: null
+  date_end: null
+  location_in_record: ch4:762-951
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 989272df-682e-4440-b560-346a39e4096c
+  claim_hash: 2173e4c2042404c3ac77b79e71692fefbcd0da95cec8652f684f315054c1ae50
+  content: The Washington policy at the time was to claim that 98 per cent of all
+    UFO sightings had been explained by the United States Air Force.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  date: null
+  date_end: null
+  location_in_record: ch4:9984-10138
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 5004c4a3-e1fa-43aa-b916-a0e1f5673f87
+  claim_hash: cd0260ab4fe29a79a00eb6facf54d0856afbb3f3ab781051c3f295cd95a3a1e8
+  content: During the early 1990s, Sally (Budd Hopkins abductee) was working in Washington,
+    D.C., and sharing an apartment with Hannah (Sally's roommate).
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Sally (Budd Hopkins abductee)
+    relay:
+    - Budd Hopkins
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0a69219c-3b8c-4824-adb9-4f0d7bda13bd
+    title: Hannah (Sally's roommate)
+    slug: hannah-sallys-roommate
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: ee504fb8-15ee-4206-bf0f-204d64fe8f24
+    title: Sally (Budd Hopkins abductee)
+    slug: sally-budd-hopkins-abductee
+  date: '1990'
+  date_end: null
+  location_in_record: ch15:25418-25534
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: f90406bd-56dc-4f0c-9f33-f103f91c24d3
+  claim_hash: 1363f92579c61142659cc4dc6ed6137212500aef45c3e0ce2d50d5625e1cf471
+  content: In early 1990, Richard C. Hoagland began an educational project called
+    the U.S.S. Dunbar at Dunbar Senior High School in Washington, DC.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5c68f24e-3789-4d6e-925c-def676dc00c6
+    title: USA, District of Columbia, Dunbar Senior High School
+    slug: district-of-columbia-dunbar-senior-high-school-usa
+  - node_id: 9b42c06f-0a41-4f13-bc8a-a81867e9dad0
+    title: USS Dunbar (educational project)
+    slug: uss-dunbar-educational-project
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: '1990'
+  date_end: null
+  location_in_record: ch10:10586-10692
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 504df08b-5f21-4bcd-9ea0-10921ff3eae7
+  claim_hash: 3e141fd28fa0eaf4f026d88fb8bff46f98986ee4498f64eb9cde98257d51f654
+  content: Richard C. Hoagland scheduled a press conference at the National Press
+    Club in Washington, D.C. for the day Mars Observer was scheduled to achieve orbit
+    around Mars.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
+    title: Mars Observer
+    slug: mars-observer
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: b396a2fd-f1e1-4356-941a-5dc6b2379925
+    title: National Press Club
+    slug: national-press-club
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch10:38176-38389
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: d1e4413b-f015-49e5-acc4-85fd123c8c82
+  claim_hash: 927cca031f411c166eddb6fccbeccf5bbcc9a7c1e259f8d809d9e5a36dfe93cd
+  content: Sergei Khrushchev, in a 1997 interview given after his presentation at
+    a NASA conference in Washington, DC, commemorating the fortieth anniversary of
+    Sputnik, said his father Nikita Khrushchev decided in early November 1963 to accept
+    John F. Kennedy's cooperation offer, having initially ignored it.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+    title: Sergei Khrushchev
+  provenance_chain:
+    origin_kind: speaker
+    origin: Sergei Khrushchev
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+    title: Sergei Khrushchev
+    slug: sergei-khrushchev
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    slug: john-fitzgerald-kennedy
+  - node_id: c8e2f6fb-4a7e-497b-a1ee-d3061e6e450e
+    title: Sputnik (satellite)
+    slug: sputnik-satellite
+  date: '1997'
+  date_end: null
+  location_in_record: ch10:72903-73207
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 6e0239dd-1d1f-4451-a1d7-68b4d6fa87fa
+  claim_hash: 0723045089beaf07a4fc1b6de969829df576d441f12fc36c50d8ce487d41aaea
+  content: On 1990-12-13, less than three weeks before the scheduled air date, Lynn
+    Bondurant called Richard C. Hoagland with news that the Hoagland's Mars PBS series
+    had been pulled and that Hoagland was to report to NASA Headquarters in Washington,
+    DC immediately with all tapes, scripts and graphics.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 42ce80ea-3ca5-47e2-91c5-58ca47839fdc
+    title: Lynn Bondurant
+    slug: lynn-bondurant
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  - node_id: f156ac43-44e7-4d32-b2d6-34c95d1406c0
+    title: Hoagland's Mars (Public Broadcasting Service (PBS) miniseries)
+    slug: hoaglands-mars-public-broadcasting-service-pbs-miniseries
+  - node_id: f619cd85-59ee-46af-bd41-d3c57d08a603
+    title: USA, District of Columbia, National Aeronautics and Space Administration
+      (NASA) Headquarters
+    slug: district-of-columbia-national-aeronautics-and-space-administration-nasa-headquarters-usa
+  date: '1990-12-13'
+  date_end: null
+  location_in_record: ch10:9789-10198
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 7464b282-631a-4936-9aa0-1fa1e31c404c
+  claim_hash: ac8065024474dc22839886c075c3ae584608fba63ea3e9d49a766bc0fb4e8f11
+  content: Richard C. Hoagland scheduled a press conference at the National Press
+    Club in Washington, DC for March 1996 to present the accumulating lunar dome evidence.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7cf30d3b-0060-4aca-aab3-c91874d779d6
+    title: National Press Club press conference, Washington DC, 1996-03-21
+    slug: washington-dc-1996-03-21-national-press-club-press-conference
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: b396a2fd-f1e1-4356-941a-5dc6b2379925
+    title: National Press Club
+    slug: national-press-club
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: 1996-03
+  date_end: null
+  location_in_record: ch11:133147-133234
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: f8581beb-e751-4a91-9512-6a80f6c01873
+  claim_hash: 866879905a6ddb96daa7434c952dbdd3d620ede656330d42168c49fe81b408e0
+  content: The final three presenters at the March 1996 National Press Club press
+    conference were Ken Johnston, architect Robert Fiertek, and Alex Cook, a student
+    from Bellingham, Washington whom Richard C. Hoagland had flown to Washington DC
+    for the event.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7cf30d3b-0060-4aca-aab3-c91874d779d6
+    title: National Press Club press conference, Washington DC, 1996-03-21
+    slug: washington-dc-1996-03-21-national-press-club-press-conference
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  - node_id: c2b748b1-4e3b-47a0-b48c-a4f6bbb2087f
+    title: Alex Cook
+    slug: alex-cook
+  - node_id: d95df259-9406-40f7-8457-aae5432c9790
+    title: Robert Fiertek
+    slug: robert-fiertek
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: 1996-03
+  date_end: null
+  location_in_record: ch11:135550-135747
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 47510bb8-d26e-490f-9e31-1490442e4bdc
+  claim_hash: db7431acf1e355079f14997b32bceb68de454f61b63bbc075c7448224d5405d1
+  content: During the autumn of 1992, the anonymous industrialist would call Richard
+    C. Hoagland unannounced from his conference room in the company of visiting colonels
+    or generals from Washington DC, while they watched the NASA-Cydonia and United
+    Nations video presentations, so the visitors could ask questions about the Cydonia
+    investigation.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to have extensive NASA and military contacts
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    slug: cydonia
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: '1992'
+  date_end: null
+  location_in_record: ch11:13768-14148
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 4573c14d-fc66-4887-8c2e-2ce932d86bc0
+  claim_hash: 1061290363e39cbffc4cd246d632dc2213dfa659e88f2a8995cbc634892529d9
+  content: Richard C. Hoagland considers the destruction of the Apollo lunar photograph
+    archive by official National Aeronautics and Space Administration (NASA) order
+    to be evidence of a deliberate cover-up of extraterrestrial artefacts originating
+    from NASA headquarters in Washington.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch11:84309-84438
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c1288bbf-c4a7-49b9-903c-5c36cbe8a543
+  claim_hash: e19f5c3a03bac9880fdd935aeff82defaf9876ad879591952cd4ad4df1e57c13
+  content: Richard C. Hoagland determined from NASA (National Aeronautics and Space
+    Administration) and Congressional records that John F. Kennedy moved to the Apollo
+    announcement section of his 1961-05-25 speech at approximately 12:50pm local daylight
+    time in Washington DC.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay:
+    - National Aeronautics and Space Administration (NASA) and Congressional records
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4d94d590-5dde-4d26-b604-77c201475f05
+    title: Kennedy Joint Session of Congress speech, 1961-05-25
+    slug: 1961-05-25-kennedy-joint-session-of-congress-speech
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch12:49092-49295
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 010f3ea6-cd58-435e-9dfd-30195248a69e
+  claim_hash: a66e5110f41d4e113dcd7b884298ffd309a037a1589737123b54ba088bf172c1
+  content: Upon returning from the Moon, Buzz Aldrin personally delivered the Masonic
+    apron and Southern Jurisdiction flag to Luther A. Smith, then Sovereign Grand
+    Commander of the Southern Jurisdiction of the Ancient and Accepted Scottish Rite,
+    at the temple in Washington DC, in a solemn ceremony.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d86b537-9d9e-43e6-a442-674f3bc00e58
+    title: Luther A. Smith
+    slug: luther-a-smith
+  - node_id: 2e06c01a-b053-4096-8332-73e342ca67b4
+    title: Southern Jurisdiction, Scottish Rite
+    slug: scottish-rite-southern-jurisdiction
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: eba1346f-a0f7-4817-8d10-70449ba5f1bd
+    title: Scottish Rite Temple, Washington DC
+    slug: washington-dc-scottish-rite-temple
+  date: null
+  date_end: null
+  location_in_record: ch12:64375-64607
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 8c231b28-5cfc-4967-bc4d-fc9d59552433
+  claim_hash: cd3aeaef1a0f56cd3d29edbb805ebef702a08ed09282a3661976e25a1c345a5e
+  content: Marjorie Cameron resigned her position as secretary to the Chairman of
+    the United States Joint Chiefs of Staff in Washington DC in 1946 before moving
+    to Jack Parsons' Pasadena mansion.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95535ea3-01ed-41d1-bbfc-df71eb0e89a1
+    title: Joint Chiefs of Staff
+    slug: joint-chiefs-of-staff
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: d2e71755-8b24-4ea0-ba28-54f5a6726a66
+    title: Marjorie Cameron
+    slug: marjorie-cameron
+  date: '1946'
+  date_end: null
+  location_in_record: ch12:83821-84012
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2e74035b-73cd-4b7a-b349-e07548ea3b06
+  claim_hash: 9dc316f4b9c5163164b359fc005e489954b32f91e5d98343b5a6c6ffba63f5e7
+  content: Russian media outlets showed tremendous enthusiasm for Dark Mission (ebook)
+    after the National Press Club press conference, Washington DC, October 2007.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8fdb41d6-4a8f-42d0-b077-962820a39d5b
+    title: National Press Club press conference, Washington DC, 2007-10
+    slug: washington-dc-2007-10-national-press-club-press-conference
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  - node_id: b396a2fd-f1e1-4356-941a-5dc6b2379925
+    title: National Press Club
+    slug: national-press-club
+  - node_id: cc81c235-c101-46bc-9b60-0d618973886f
+    title: Dark Mission (ebook)
+    slug: dark-mission-ebook
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: 2007-10
+  date_end: null
+  location_in_record: ch5:3522-3748
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: e293a9ea-22c5-4b5e-9b9e-28313ad42a36
+  claim_hash: d8e2abc5681070a975d5fccaf1ac0239db4229566c8cbebf2b850aa34dd22549
+  content: Joseph McMoneagle acted as a direct consultant to the Commanding General
+    of the United States Army Intelligence and Security Command (INSCOM) in Washington
+    D.C.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: c1600865-8948-4db7-a584-699851452cb6
+    title: United States Army Intelligence and Security Command (INSCOM)
+    slug: united-states-army-intelligence-and-security-command-inscom
+  date: null
+  date_end: null
+  location_in_record: ch4:2224-2359
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 58a3d59f-ee90-47a1-896a-242d9cb0692b
+  claim_hash: c6a4a49ba2131c4c6fac32930d28301a6cbca876dde41ee1f96bf594937667e0
+  content: In 1977-04, a middle-aged Mexican migrant worker named Maria came to Seattle
+    to visit friends, suffered a massive heart attack upon arrival, and was admitted
+    through the Harborview emergency room to the coronary care unit.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e9ec8062-a1f2-498c-b930-2490afa4185e
+    title: Kimberly Clark Sharp
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kimberly Clark Sharp
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7d618f64-556b-469c-b75e-3a7b103bdb81
+    title: Maria
+    slug: maria
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: c15dfad3-798d-4293-bff3-8db89a8b57c4
+    title: Harborview Medical Center
+    slug: harborview-medical-center
+  date: 1977-04
+  date_end: null
+  location_in_record: ch15:1212-1472
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: da050590-b4e1-4cd7-8ee2-18e5f5cb8881
+  claim_hash: 15c760d25207dce9ede2f7834b74c9603bc897c63f860f6feed6fcb98b0b9e74
+  content: Kimberly Clark Sharp was a pioneer in the fields of critical care and coronary
+    care social work during her ten years at Harborview Medical Center in Seattle,
+    Washington.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: c15dfad3-798d-4293-bff3-8db89a8b57c4
+    title: Harborview Medical Center
+    slug: harborview-medical-center
+  - node_id: e9ec8062-a1f2-498c-b930-2490afa4185e
+    title: Kimberly Clark Sharp
+    slug: kimberly-clark-sharp
+  date: null
+  date_end: null
+  location_in_record: ch15:189-330
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: d9ef87b7-f889-4785-b104-f32aee926c8f
+  claim_hash: 041634dd2196c630346714f86f9686bbda93f247f3b43dc26711ea8b9aa5af5c
+  content: In 1977, Kimberly Clark Sharp was a young social worker employed at Harborview
+    Medical Center in Seattle, a large trauma centre with a busy coronary care unit
+    and medical intensive care unit.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e9ec8062-a1f2-498c-b930-2490afa4185e
+    title: Kimberly Clark Sharp
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kimberly Clark Sharp
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: c15dfad3-798d-4293-bff3-8db89a8b57c4
+    title: Harborview Medical Center
+    slug: harborview-medical-center
+  - node_id: e9ec8062-a1f2-498c-b930-2490afa4185e
+    title: Kimberly Clark Sharp
+    slug: kimberly-clark-sharp
+  date: '1977'
+  date_end: null
+  location_in_record: ch15:949-1115
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 63a430ca-2d1f-4bfc-81bd-6cb971f0dbd7
+  claim_hash: 82d9bd9ad4b1bc927bcb78fa1ca065dfddf3f153a7f34f1c0851026d6295557a
+  content: Pim van Lommel considers the veridical out-of-body experience of Maria
+    in Seattle to provide the strongest evidence for the existence of consciousness
+    outside and separate from the body.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+    title: Pim van Lommel
+  provenance_chain:
+    origin_kind: speaker
+    origin: Pim van Lommel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
+    title: veridical out-of-body perception
+    slug: veridical-out-of-body-perception
+  - node_id: 7d618f64-556b-469c-b75e-3a7b103bdb81
+    title: Maria
+    slug: maria
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    slug: out-of-body-experience-obe
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  date: null
+  date_end: null
+  location_in_record: ch18:15527-15705
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: a55ffe5a-6314-4e13-88ef-9008d9fa8a3f
+  claim_hash: 3d850b4d36bab36af959be24dd8e4b0fc886a196df93e3ed88acf1392a85b90c
+  content: At the Harborview Medical Center in Seattle, Washington, social worker
+    Kimberly Clark Sharp discovered a tennis shoe on a ledge as requested by her patient
+    Maria.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e9ec8062-a1f2-498c-b930-2490afa4185e
+    title: Kimberly Clark Sharp
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kimberly Clark Sharp
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 054adb6a-2c86-4d01-8999-e96edd2dd4b1
+    title: Maria's tennis shoe (Harborview ledge, 1977)
+    slug: 1977-marias-tennis-shoe-harborview-ledge
+  - node_id: 7d618f64-556b-469c-b75e-3a7b103bdb81
+    title: Maria
+    slug: maria
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: c15dfad3-798d-4293-bff3-8db89a8b57c4
+    title: Harborview Medical Center
+    slug: harborview-medical-center
+  - node_id: e9ec8062-a1f2-498c-b930-2490afa4185e
+    title: Kimberly Clark Sharp
+    slug: kimberly-clark-sharp
+  date: null
+  date_end: null
+  location_in_record: ch21:4364-4521
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: a680d3de-2c29-4450-a857-53fee5decf1a
+  claim_hash: e2f4dac981bf80628314569ea4c9f0340dc82426263b24a4d827646e7be7107c
+  content: Daniel Sheehan was General Counsel for the US National Jesuit Headquarters
+    in Washington DC at the time he was asked by Marcia Smith to help.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2362b25b-e09b-469c-a38e-fbcc69386ba0
+    title: United States National Jesuit Headquarters
+    slug: united-states-national-jesuit-headquarters
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Daniel Sheehan
+    slug: daniel-sheehan
+  date: null
+  date_end: null
+  location_in_record: ch11:16053-16230
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: cc3fb47c-85f3-4281-aac1-4824e59b2a65
+  claim_hash: af5615f474dbb0d2e67a378b22794e20f313487d49fb46ec2ee403a41a987ce4
+  content: After the 1986 Japan Airlines Flight 1628 UAP sighting, a meeting was held
+    at the Federal Aviation Administration's Washington office in which Central Intelligence
+    Agency agents confiscated all the radar evidence.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: John Callahan
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+    title: Federal Aviation Administration (FAA)
+    slug: federal-aviation-administration-faa
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: ch12:14534-14803
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: af29f31b-3b75-452d-a162-81356fcbd668
+  claim_hash: 8016fd0481c87934548aba92eef20cd6a554b20122e60f74cace36fdb565a073
+  content: For a decade from 1988 to 1998, Charles Richard 'Dick' D'Amato served first
+    as chief counsel then as minority counsel for the Senate Appropriations Committee
+    in Washington DC under Senator Robert Byrd.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 392444cc-6103-4c81-9cb7-0198efa8c3f7
+    title: Robert Byrd
+    slug: robert-byrd
+  - node_id: 6b218c85-53fe-4838-ac4d-7bcbb32c6caa
+    title: United States Senate Appropriations Committee
+    slug: united-states-senate-appropriations-committee
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  date: '1988'
+  date_end: null
+  location_in_record: ch13:32731-32940
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 83c001d4-c605-46ed-acfd-2f62fa8c8999
+  claim_hash: f1609f2438a6c2a6a75f39dff8ebcbc82bb52280fdba70f7d6ae369195139758
+  content: Christopher Mellon was a staffer to the United States Senate Select Committee
+    on Intelligence in Washington DC.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+    title: US Senate Select Committee on Intelligence
+    slug: us-senate-select-committee-on-intelligence
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:7678-7761
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
+  claim_hash: 1c0c1b4622e2eac373a2c01aa2be82f2c7586c2cbdb7a735277527e89cceb39f
+  content: On entering the White House in 1993, both Bill Clinton and Hillary Clinton
+    took a strong interest in UAPs.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+    title: Hillary Clinton
+    slug: hillary-clinton
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  date: '1993'
+  date_end: null
+  location_in_record: ch14:1424-1540
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ad53c3a8-daf2-4a4b-a0d1-56c772e9b4fb
+  claim_hash: 5b959b8ed1e11bed51ea4c515779cdd2d079fc5201e5f6ad8dfcf814c15f66b2
+  content: On 2017-10-11, Tom DeLonge took to a stage in Seattle, Washington to officially
+    announce, as president and CEO, the formation of To The Stars Academy of Arts
+    & Sciences (TTSA).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  - node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
+    title: 2017 To The Stars Academy of Arts & Sciences launch event
+    slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  date: '2017-10-11'
+  date_end: null
+  location_in_record: ch21:123-283
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 73bd4b36-456d-4244-a492-d64f58851790
+  claim_hash: 6473545d7477c0ccc5802dc46516bd8e73d711404b6d7190cf3c74318131a799
+  content: The surviving Roswell alien was allegedly placed onboard a US Air Force
+    transport aircraft on a flight to Washington DC, and the plane disappeared during
+    the flight with all aboard, including the alien, in mysterious circumstances.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: third_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be the grandson of a US Army veteran who took part
+      in a Roswell retrieval team
+    relay:
+    - the grandfather's diary
+    - letters from the anonymous army sergeant 'A Friend' to Art Bell
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch23:2032-2250
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 01049525-027c-4d44-9bc8-e3d9033752e4
+  claim_hash: bdb767d5a4df4baa9d873420155b17adf2760e14adb4ebf460edce04a130640d
+  content: Ross Coulthart finds it hard to believe that such a preposterous secret
+    could be kept inside the leak-prone and gossipy bureaucracy of Washington, but
+    considers that if the Admiral Wilson Memo (EWD Notes) is a hoax, it is an extremely
+    clever one.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+    title: The Admiral Wilson Memo
+    slug: the-admiral-wilson-memo
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  date: null
+  date_end: null
+  location_in_record: ch26:24455-24738
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6c0ba0f4-48cb-4435-b61c-579d72f91e4e
+  claim_hash: e13569038ba2b7c6c9ee5303bed4298cd22c76b01af007274a17100d95a4f9ce
+  content: Three days after the 1952 Salem Lights sighting, Washington DC was buzzed
+    by unknown objects in a massive Unidentified Aerial Phenomena (UAP) flap.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '1952-07-19'
+  date_end: null
+  location_in_record: ch37:1039-1145
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 81697f7d-8545-4d1e-8a38-632f67d8c68b
+  claim_hash: bdf187800b34c48ad8f7b9a1cd55963f9ca8fa34ec48c3c68e341d7a6494ecbd
+  content: In May 1947, Rear Admiral Roscoe Hillenkoetter was settling into his new
+    job as Director of Central Intelligence in Washington DC.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+    title: Roscoe Hillenkoetter
+    slug: roscoe-hillenkoetter
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  date: 1947-05
+  date_end: null
+  location_in_record: ch7:5036-5323
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: bc2e1826-05db-4e8e-8331-ddd0120b5193
+  claim_hash: c308242721dbe04dfdf0b3307e6b6596d483d0728b0a6d467412ac810d311f48
+  content: 'J. Allen Hynek said two schools of thought dominated the air force''s
+    approach to UAP investigations: one that they should be taken seriously as probable
+    extra-terrestrial craft, and a debunking view eventually embraced by top officials
+    in Washington DC.'
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+  provenance_chain:
+    origin_kind: speaker
+    origin: J. Allen Hynek
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+    slug: j-allen-hynek
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  date: null
+  date_end: null
+  location_in_record: ch8:12205-12466
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9c47ce30-b15e-4d0e-ad48-6ddefc27335d
+  claim_hash: 9dfc5a70cf4fa5dd47d73143dea7223357170c353e03cf60d5dada3c7ab39e64
+  content: In July 1952, two pilots witnessed a flat and round flying saucer-shaped
+    object hovering over the Atomic Energy Commission's Hanford nuclear bomb factory
+    in Richland, Washington.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: two unnamed pilots
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+    title: United States Atomic Energy Commission
+    slug: united-states-atomic-energy-commission
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: 1952-07
+  date_end: null
+  location_in_record: ch8:15524-15636
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 01d78fe1-10aa-48a3-b233-02528480725a
+  claim_hash: d0beb874404c962a42e40cd8a3d383c4ce3d9780d07c31137901f16c096a6af7
+  content: On 19 July 1952, radar operators at Washington DC's National Airport detected
+    a large formation of UAPs near Andrews Air Force Base.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: unnamed radar operators at Washington DC's National Airport
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '1952-07-19'
+  date_end: null
+  location_in_record: ch8:16090-16237
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: df9fe004-6339-4395-8cda-281472f55962
+  claim_hash: f355fe8ef3f00b322a6d4959bdc7e1946afa2fff15bda4275e059eefdbe1cda1
+  content: Pilots flying over Washington DC during the 1952 UFO flap saw the objects
+    as orange lights, hovering over the White House and the Capitol building.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: unnamed pilots flying over Washington DC
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '1952-07-19'
+  date_end: null
+  location_in_record: ch8:16623-16767
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f7d040b7-1d02-4486-880f-22856253f8c1
+  claim_hash: 3c65fe4d356b08f254c712ef90248bdda2eadfc219d3d048ede00a8c64dda64f
+  content: Exactly one week after the first sighting, on 26 July 1952, a dozen UAPs
+    were again tracked on radar and seen by pilots flying slowly over Washington DC.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: unnamed radar operators and pilots over Washington DC
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '1952-07-26'
+  date_end: null
+  location_in_record: ch8:16934-17029
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: bda76c77-8f53-4fae-969b-f4f841e94a4c
+  claim_hash: 2f14b42c4ce98f34e02d9e70d2d31e5da9ed5da341cb62a7edac2e0f80ed3522
+  content: Guy Hottel was the head of the FBI's Washington DC field office at the
+    time he wrote the 1950 memo.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 19a378eb-9e49-4fbf-957e-8c7080da2ad4
+    title: Guy Hottel
+    slug: guy-hottel
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+    title: Federal Bureau of Investigation (FBI)
+    slug: federal-bureau-of-investigation-fbi
+  date: null
+  date_end: null
+  location_in_record: ch8:4509-4585
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 099197f5-dd40-48bb-8c25-0dcf0ed011e3
+  claim_hash: 0148448c5b5725b76503f230de4ebc20e56f62b59bf7deecb9da6daafe84b796
+  content: While at a conference in Washington DC in September 1950, Wilbert Smith
+    read the newly published book Behind the Flying Saucers by Frank Scully.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2f8cffec-0159-478d-b8e3-20129f4e29f6
+    title: Frank Scully
+    slug: frank-scully
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  - node_id: 4e2f7d4e-e34c-46b1-ac8a-24b5c34c0165
+    title: Behind the Flying Saucers
+    slug: behind-the-flying-saucers
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  date: 1950-09
+  date_end: null
+  location_in_record: ch8:6764-6898
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 4d408db9-1336-4123-b042-a613a70280df
+  claim_hash: 4e3f12552187a603036a6423f8abeabafbe83c1945e553ce7bcaf218bfba1bdd
+  content: Many of the people in the leaked John Podesta email correspondence were
+    connected to the Center for American Progress, John Podesta's liberal think tank
+    in Washington DC.
+  original_excerpt: A lot of these people are connected to the Center for American
+    Progress, which is Podesta's sort of big liberal think tank in DC.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jason Samosa
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    slug: john-podesta
+  - node_id: 58fec0aa-60f1-424f-a896-4fab810b562f
+    title: Center for American Progress
+    slug: center-for-american-progress
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: ef2bb79d-43f0-4dd8-8a98-f100f3269e92
+    title: Podesta email leak correspondence with Tom DeLonge
+    slug: podesta-email-leak-correspondence-with-tom-delonge
+  date: null
+  date_end: null
+  location_in_record: 00:40:35.1-00:40:41.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 7925a7a6-44ea-44c4-98b5-d6d24c9b3da7
+  claim_hash: 97a745302ff4bda79ad9e04477bd5d4ac2572c299246b04f2ed7947e385ee18c
+  content: The Business Plot involved approaching a general to raise an army of about
+    500,000 people to march on Washington and forcibly remove the president from office.
+  original_excerpt: They're going to raise an army of like 500,000 people in March
+    to Washington and forcefully remove the president from office.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration by Jason Samosa
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8103e54b-3c46-43a4-b5e0-93a7437f9436
+    title: Smedley Butler
+    slug: smedley-butler
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: e972a252-ed0d-4560-b0e5-b5193cede2d5
+    title: Business Plot
+    slug: business-plot
+  date: null
+  date_end: null
+  location_in_record: 01:20:54.6-01:21:00.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 9b3d708c-f50a-4ef6-b3de-e048d7203187
+  claim_hash: b7b499ae9e45c9e492f209edab989b9189d5d8bf29b4278d7c9e9ec346df8baa
+  content: In her book Going Within, Shirley MacLaine describes being in a government
+    office in Washington DC with Claiborne Pell.
+  original_excerpt: she was writing about being in some government office in DC, and
+    she's with Claiborne Pell.
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: document
+    origin: Going Within by Shirley MacLaine
+    relay:
+    - Jesse Michels's girlfriend
+    - Jesse Michels
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
+    title: Going Within
+    slug: going-within
+  - node_id: 86d529a9-c010-4226-9d3a-a0736144ceec
+    title: Claiborne Pell
+    slug: claiborne-pell
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+    title: Shirley MacLaine
+    slug: shirley-maclaine
+  date: null
+  date_end: null
+  location_in_record: 02:01:06.5-02:01:13.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: c0cdc7ac-ec66-4824-9754-1dda596628ef
+  claim_hash: 3f8921568f524b099eff75290ab8c90363af144211325357e4173922b487b19c
+  content: Budd Hopkins was present at the Washington DC meeting described by Shirley
+    MacLaine in Going Within.
+  original_excerpt: Senator Pell and the Budd Hopkins is there as well.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: document
+    origin: Going Within by Shirley MacLaine
+    relay:
+    - Jesse Michels
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
+    title: Going Within
+    slug: going-within
+  - node_id: 86d529a9-c010-4226-9d3a-a0736144ceec
+    title: Claiborne Pell
+    slug: claiborne-pell
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+    title: Budd Hopkins
+    slug: budd-hopkins
+  - node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+    title: Shirley MacLaine
+    slug: shirley-maclaine
+  date: null
+  date_end: null
+  location_in_record: 02:01:26.6-02:01:31.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: ef4a09d0-8187-4dd0-844f-8cb32c0bd023
+  claim_hash: fb9fa3191a43816fc01b339ed326ab9cbca3429ba7c30b48e64e1cf447efc93a
+  content: An experiencer present at the Washington DC meeting described in Shirley
+    MacLaine's Going Within claimed she was part of an alien hybrid programme and
+    that her foetus went missing three months into the pregnancy, according to Jesse
+    Michels.
+  original_excerpt: And I think has an experiencer there who she claims that like
+    she was, you know, there was part of some alien hybrid program or whatever. And
+    her fetus went missing three months in.
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be an alien abduction experiencer
+    relay:
+    - Going Within by Shirley MacLaine
+    - Jesse Michels
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+    title: human-alien hybridization
+    slug: human-alien-hybridization
+  - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
+    title: Going Within
+    slug: going-within
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: alien abduction
+    slug: alien-abduction
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+    title: Shirley MacLaine
+    slug: shirley-maclaine
+  date: null
+  date_end: null
+  location_in_record: 02:01:31.6-02:01:41.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 043c6f2a-dd3b-42bc-baab-0c09a657a666
+  claim_hash: d72b658889548f589d1486b23e9f74efd0ee1229fdb5bd17ff92907b5ef55a11
+  content: Hans-Adam II, the Prince of Liechtenstein, was present at the Washington
+    DC meeting described in Shirley MacLaine's Going Within.
+  original_excerpt: and then the Royal Prince of Lichtenstein is there as well. And
+    she's just writing about this casually
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: document
+    origin: Going Within by Shirley MacLaine
+    relay:
+    - Jesse Michels
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1b706134-940a-4110-809b-ae3c42dcc2f4
+    title: Hans-Adam II
+    slug: hans-adam-ii
+  - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
+    title: Going Within
+    slug: going-within
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+    title: Shirley MacLaine
+    slug: shirley-maclaine
+  date: null
+  date_end: null
+  location_in_record: 02:01:48.8-02:01:52.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

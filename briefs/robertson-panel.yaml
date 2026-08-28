@@ -1,0 +1,1481 @@
+schema: anomalica/brief/1
+brief_hash: b610ff910c94a183c0b8e83f37d35964572d8632ce70633188b4e840cf3731b5
+page:
+  kind: entity
+  node_id: e0a197e9-f299-4903-ac82-5593e0915802
+  node_type: project
+  title: Robertson Panel
+  slug: robertson-panel
+  claim_count: 38
+  claim_count_total: 38
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 8
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 4
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 4
+- node_id: 0f5987a4-fef4-4129-b22a-9d1f6aead1b8
+  title: The Durant Report
+  node_type: document
+  slug: the-durant-report
+  shared_claims: 3
+- node_id: 5d90653b-2c22-4c9e-9b76-02f6dce6eb37
+  title: Frederick Durant
+  node_type: person
+  slug: frederick-durant
+  shared_claims: 2
+- node_id: b7c1e8f7-c923-452c-ba71-8c3e99bc0a76
+  title: H. Marshall Chadwell
+  node_type: person
+  slug: h-marshall-chadwell
+  shared_claims: 2
+- node_id: 3af35a20-e487-47ea-b902-58c9b67c64dc
+  title: Howard Robertson
+  node_type: person
+  slug: howard-robertson
+  shared_claims: 2
+- node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+  title: J. Allen Hynek
+  node_type: person
+  slug: j-allen-hynek
+  shared_claims: 2
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 2
+- node_id: 7b205c4a-aec5-40c3-b791-720527a39e42
+  title: 1953 Central Intelligence Agency (CIA) Robertson Panel convening
+  node_type: event
+  slug: 1953-central-intelligence-agency-cia-robertson-panel-convening
+  shared_claims: 1
+- node_id: cd5e3a70-ab04-438a-ba1d-0b83890a5e65
+  title: 1953-01 Robertson Panel report
+  node_type: document
+  slug: 1953-01-robertson-panel-report
+  shared_claims: 1
+- node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+  title: California Institute of Technology (Caltech)
+  node_type: organisation
+  slug: california-institute-of-technology-caltech
+  shared_claims: 1
+- node_id: cab16e2c-5b94-4cfa-866e-d5c0a3c8c891
+  title: Central Intelligence Agency (CIA) Office of Scientific Intelligence (OSI)
+  node_type: organisation
+  slug: central-intelligence-agency-cia-office-of-scientific-intelligence-osi
+  shared_claims: 1
+- node_id: e6e3c28c-8f5f-4ca5-9dc9-18e1ec26ebae
+  title: H.P. Robertson
+  node_type: person
+  slug: hp-robertson
+  shared_claims: 1
+- node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+  title: National Security Council
+  node_type: organisation
+  slug: national-security-council
+  shared_claims: 1
+- node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+  title: Phil McGraw
+  node_type: person
+  slug: phil-mcgraw
+  shared_claims: 1
+- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+  title: Project Blue Book
+  node_type: project
+  slug: project-blue-book
+  shared_claims: 1
+- node_id: 5b0650e4-d077-4cd0-aa09-0eacec20f22a
+  title: Richard Drain
+  node_type: person
+  slug: richard-drain
+  shared_claims: 1
+- node_id: 07b81ab2-023c-4f1c-9fd5-33b909011055
+  title: Walt Disney Company
+  node_type: organisation
+  slug: walt-disney-company
+  shared_claims: 1
+- node_id: e243dc50-3c86-4cf2-a9b2-961c7ef0b29e
+  title: Walter Bedell Smith
+  node_type: person
+  slug: walter-bedell-smith
+  shared_claims: 1
+- node_id: 8c9052fb-28d4-4be8-b6dd-994776a779a8
+  title: perception management (Unidentified Flying Object (UFO) information control)
+  node_type: topic
+  slug: perception-management-unidentified-flying-object-ufo-information-control
+  shared_claims: 1
+claims:
+- claim_id: 924f1852-0130-4a15-96e1-dd0f84c41c79
+  claim_hash: b29f99f4d74274a09b641ba54d561525246c2166ff4d1fea0aecae4673b51474
+  content: In 1953 the National Security Council at the White House asked Howard P.
+    Robertson, a scientist, to conduct what became known as the Robertson Panel, which
+    was classified top secret.
+  original_excerpt: In 1953, again, when the debunking policy was established, the
+    National Security Council at the White House asked H.P. Robertson, a very famous
+    scientist at that time, to conduct what has come to known as the Robertson Panel.
+    And it was classified top secret.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: speaker
+    origin: Raymond Fowler
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3af35a20-e487-47ea-b902-58c9b67c64dc
+    title: Howard Robertson
+    slug: howard-robertson
+  - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+    title: National Security Council
+    slug: national-security-council
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: '1953'
+  date_end: null
+  location_in_record: 00:27:02.5-00:27:24.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: e3745a5e-3f58-48e3-b76c-0bf194b6872f
+  claim_hash: 83a68225228bed1eca58e8c0f4a899b9bdf8513754c35844ed7d74d48bfdd3c4
+  content: A recently declassified CIA/USAF panel on UFOs that met in 1953 recommended
+    monitoring the activities of civilian UFO groups.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: declassified CIA/USAF panel report (Robertson Panel)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: '1953'
+  date_end: null
+  location_in_record: ch13:7950-8099
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: bc7d8dff-0342-4a6b-acda-4d875b90249c
+  claim_hash: 16fbd87fb374e1751bd2ed2a1870b985d9690cea83dbc115669e465e3bed7056
+  content: The Robertson Panel's report stated that the "Civilian Flying Saucer Investigators"
+    of Los Angeles and the "Aerial Phenomena Research Organization" of Wisconsin should
+    be watched because of their great influence on mass thinking should widespread
+    sightings occur, and noted the apparent irresponsibility and possible use of such
+    groups for subversive purposes.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Robertson Panel report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: '1953'
+  date_end: null
+  location_in_record: ch13:8108-8543
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: ff11ce0e-5e6c-4e0e-b991-521929b387cf
+  claim_hash: 4d4efdb7f426ed854d2ebc05a6cf6f12ae9e3b8bcf4423b50cbb4ce38ea931f2
+  content: 'The 1953 Robertson Panel recommended a project of perception management
+    termed "training and debunking": a mass-media education campaign, enacted with
+    the help of academics and media moguls, to control public knowledge about UFOs.'
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Durant Report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 8c9052fb-28d4-4be8-b6dd-994776a779a8
+    title: perception management (Unidentified Flying Object (UFO) information control)
+    slug: perception-management-unidentified-flying-object-ufo-information-control
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: ch2:10087-10302
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 7ce5b8f6-b155-4a78-bef5-b08ddb11f066
+  claim_hash: 838d6fc38d2a72c14d1e84f540f0bb1731b2154034b54c115b1454e4143dcf04
+  content: The Durant Report is an account of the proceedings of the 1953 Robertson
+    Panel, a US government committee convened to study UFOs.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Durant Report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0f5987a4-fef4-4129-b22a-9d1f6aead1b8
+    title: The Durant Report
+    slug: the-durant-report
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: ch2:9786-9982
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 9b667f00-5980-42bb-ad2f-8bb62e1e4202
+  claim_hash: d30822f09564deb22451d98037b8ffe064c18ee7246df407e9e37106963b2366
+  content: The 1953 Robertson Panel concluded that UFOs in and of themselves did not
+    represent a security risk.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Durant Report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: ch2:9988-10081
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 49798ad2-88fd-4fce-a9eb-88f00b1f925c
+  claim_hash: ab1902430df7a4ca515d86de9fdc42af8c491ecf8037332815fc142dac8cb333
+  content: The 1953 Robertson Panel, which was the impetus for Project Blue Book,
+    suggested a media campaign to manage public perception of UFO phenomena.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: ch4:13235-13368
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: efe9e5a9-6cc0-4894-9434-d9377c72efdb
+  claim_hash: e1ca1ac03110510cc8b6a65d7ac07c30394e8064d283b22f84e2329d8a9e8bb9
+  content: The Robertson Panel report recommended the use of documentary-style techniques
+    and authoritative experts to help mold public perceptions of UFO phenomena.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: the Robertson Panel report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: ch4:13379-13671
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 79565119-9d29-4127-8aa3-1ea51888e870
+  claim_hash: 4354e5c9f910b4aaccfe50a3eb220e0dff546984e04816d467a6d306e529a3a9
+  content: In December 1952, the US government enlisted physicist Dr Howard Robertson
+    to convene a panel of distinguished scientists, which became known as the Robertson
+    Panel.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3af35a20-e487-47ea-b902-58c9b67c64dc
+    title: Howard Robertson
+    slug: howard-robertson
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: 1952-12
+  date_end: null
+  location_in_record: ch8:17712-17886
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ef7e3239-404a-4e96-be47-59e46446ae2a
+  claim_hash: ab478260c4d4d11796834b0a0e3ca87ad258b99c9a73757067cf459ac2f5edee
+  content: The Robertson Panel was commissioned by CIA director Walter Bedell Smith.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  - node_id: e243dc50-3c86-4cf2-a9b2-961c7ef0b29e
+    title: Walter Bedell Smith
+    slug: walter-bedell-smith
+  date: null
+  date_end: null
+  location_in_record: ch8:17892-18003
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a78e12cb-3a7c-4520-a492-2fd08ad9e29f
+  claim_hash: 544e4e3199813b239c0a090a7d67adfcf498ee122ae871f612d8b29d4184657f
+  content: The sightings of UAPs raised serious national security concerns and were
+    'of such nature that they are not attributable to natural phenomenon or known
+    types of aerial vehicles'.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: an unnamed advisor to Walter Bedell Smith
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: ch8:18153-18320
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 2a986b38-6dc6-4301-852b-7de5c1b847e1
+  claim_hash: 6c10cf12b41b362f3b26783e318ecf7a082f0b85daa7cfd94f6302bd3652aa0f
+  content: J. Allen Hynek concluded that the Robertson Panel's primary role was to
+    debunk all UAP sightings and put control of investigations back with the air force.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+  provenance_chain:
+    origin_kind: speaker
+    origin: J. Allen Hynek
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+    slug: j-allen-hynek
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: ch8:18334-18547
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 91550b36-d328-42e3-bbd1-0da8adf50751
+  claim_hash: a021e4e565e32ba0d52a31523b815f6aa00918f54eaf22ef07c7fe116ee5668c
+  content: J. Allen Hynek wrote that in convening the panel, the CIA was fearful not
+    of UFOs, but of UFO reports.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+  provenance_chain:
+    origin_kind: speaker
+    origin: J. Allen Hynek
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+    slug: j-allen-hynek
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: ch8:18630-18723
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: dfe421b5-ab80-4e83-b271-04abaaa3540d
+  claim_hash: 0a413cad961aa3a432a03a9d0e55d7e95deac3fa3cdfa241bf583f900e783328
+  content: In its January 1953 report, the Robertson Panel asserted the UAPs were
+    no threat to national security.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: January 1953 Robertson Panel report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: cd5e3a70-ab04-438a-ba1d-0b83890a5e65
+    title: 1953-01 Robertson Panel report
+    slug: 1953-01-robertson-panel-report
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: 1953-01
+  date_end: null
+  location_in_record: ch8:18736-18819
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 0a660063-37f0-4ec7-a64c-50b64f61f649
+  claim_hash: dae3e8cf2a6c8344a74fdbc9b4b58113623af0089722f1fac901ee5c2658237a
+  content: The CIA's Robertson Panel, in 1953, claimed to fear that US air defence
+    communications might be overwhelmed by UAP reports.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Robertson Panel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: '1953'
+  date_end: null
+  location_in_record: ch6:3178-3253
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 2d061fd0-f4d7-4098-b998-e47d758c2907
+  claim_hash: 70e5560107b57718e6843ba7c1f688064ac7376daf106d43535afbc017ca7cd7
+  content: The CIA's Robertson Panel advised the United States Air Force to enlist
+    the Walt Disney Company and the mass media in a campaign to debunk UAP.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Robertson Panel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 07b81ab2-023c-4f1c-9fd5-33b909011055
+    title: Walt Disney Company
+    slug: walt-disney-company
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: '1953'
+  date_end: null
+  location_in_record: ch6:3262-3378
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 9083ba55-0eab-4364-9da7-e56bc79de800
+  claim_hash: 6fe86310f5d5d1ce44ea24f9b1726965cadf38e1c852fcf0130568853cd6ff5a
+  content: H. Marshall Chadwell's concerns about and interest in the topic of UFOs
+    led to the establishment of the Robertson Panel.
+  original_excerpt: His concerns about and interest in the topic led to the establishment
+    of the Robertson Panel.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: b7c1e8f7-c923-452c-ba71-8c3e99bc0a76
+    title: H. Marshall Chadwell
+    slug: h-marshall-chadwell
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: char:38784-38871
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: a9c2df91-93c8-4f2a-a0e9-c895a7f45557
+  claim_hash: 2e8ca3be3064d4dd1856794de6afe9ab362be760aada1deb68c77690c9a0aaf2
+  content: H. Marshall Chadwell clandestinely sponsored the establishment of a UFO
+    scientific review panel led by California Institute of Technology physicist H.P.
+    Robertson.
+  original_excerpt: H. Marshall Chadwell clandestinely sponsored the establishment
+    of a UFO scientific review panel led by California Institute of Technology physicist,
+    H.P. Robertson.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: b7c1e8f7-c923-452c-ba71-8c3e99bc0a76
+    title: H. Marshall Chadwell
+    slug: h-marshall-chadwell
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  - node_id: e6e3c28c-8f5f-4ca5-9dc9-18e1ec26ebae
+    title: H.P. Robertson
+    slug: hp-robertson
+  - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+    title: California Institute of Technology (Caltech)
+    slug: california-institute-of-technology-caltech
+  date: 1953-01
+  date_end: null
+  location_in_record: char:38935-39089
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: cf449dec-70dc-4727-8578-e1e4f41e6ccf
+  claim_hash: 2f0870326dbf0bd90df4a93fcaf674e6186e1ab3c3ce7913924e277a8eec13b8
+  content: The establishment of the Robertson Panel followed a recommendation from
+    the CIA's Intelligence Advisory Committee to enlist scientists to review and appraise
+    the available UFO evidence in light of pertinent scientific theories.
+  original_excerpt: This action followed a recommendation from CIA's Intelligence
+    Advisory Committee to enlist the services of selected "scientists to review and
+    appraise the available evidence in light of pertinent scientific theories."
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Robertson Panel Report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: char:39100-39307
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 939d7b32-32f0-438c-ba03-bd80158c0452
+  claim_hash: e46dbfe2fa5991104c11987957eb96ef5ebdc64bd600b6bfc3cdc44545b35dac
+  content: The Robertson Panel panellists had expertise in a range of fields, including
+    nuclear physics, high-energy physics, radar, electronics, and geophysics.
+  original_excerpt: The panelists had expertise in a range of fields, including nuclear
+    physics, high-energy physics, radar, electronics, and geophysics.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: char:39414-39536
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: d8e243b2-5468-44bb-b552-e1d269594279
+  claim_hash: 765c50b2eb7e697af95d69182a70e9367c3b8ae12ab6d9420bfe887671b5d309
+  content: The Robertson Panel reviewed all USAF data and concluded that most UFO
+    reports had ordinary explanations.
+  original_excerpt: The panel reviewed all USAF data and concluded that most reports
+    had ordinary explanations.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Robertson Panel Report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: char:39808-39886
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 926af9c9-1ad3-4a0e-bfd7-4902af36adf1
+  claim_hash: b28f290b9ba811cb40a275a286ef79e60e1dca82804479fd5d7194fb5896eb24
+  content: The Robertson Panel unanimously concluded that there was no evidence of
+    a direct threat to U.S. national security from UFO sightings.
+  original_excerpt: The panel unanimously concluded that there was no evidence of
+    a direct threat to U.S. national secur
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Robertson Panel Report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: char:39900-39986
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 44830cfb-8a4e-4e29-b7b9-fa0ef49a39d6
+  claim_hash: 28bc98df748b56e936e9175d028b4ece5118adac8459438edd49aca55dd429f1
+  content: The Robertson Panel found no evidence of a threat to security from UFOs
+    and no evidence that they were of extraterrestrial origin.
+  original_excerpt: ity from UFOs or that they were of extraterrestrial origin.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: The Robertson Panel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: char:40004-40052
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 0bcade0a-1321-480b-915c-14ce9bad6b40
+  claim_hash: 00be3dcee7819dc38866747bc126221c0f6bd57c3b4773ea1893a0726311095e
+  content: The Robertson Panel was concerned with the outbreak of mass hysteria over
+    UFOs and how the Soviets could exploit it.
+  original_excerpt: The panel was, however, concerned with the outbreak of mass hysteria
+    and how the Soviets could exploit it.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: The Robertson Panel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: char:40063-40166
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 313caf55-0f47-4d67-b47a-c908512232f5
+  claim_hash: e18136e4277de66bcd1aa387657cddd9f3910cb5c0bc092a7344fa2dc908b7b7
+  content: The Robertson Panel recommended that the United States Government use various
+    channels to debunk UFO reports.
+  original_excerpt: They recommended the USG use various channels to debunk UFO reports
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: The Robertson Panel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: char:40170-40230
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 8d2864d3-a47a-48f5-9229-190e1d281055
+  claim_hash: 3c53491a5b2f366950a01fd988da650220bd856857ea07019fb3d7ac0458f90f
+  content: The Robertson Panel suggested monitoring domestic UFO enthusiast organisations.
+  original_excerpt: suggested monitoring domestic UFO enthusiast organizations
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: The Robertson Panel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: char:40242-40287
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: de93aff1-403b-4363-9603-a94737e7dfc7
+  claim_hash: 284fd4ba65a4e67691ecf6899f8c7147d2b387d760ba36af9b074cdfd1ef8bc0
+  content: The Robertson Panel discussed the complete lack of recovery of any physical
+    hardware resulting from unexplained UFO sightings, which contributed to its assessment
+    that the reported UFOs were neither a foreign threat nor of extraterrestrial origin.
+  original_excerpt: The Robertson Panel discussed the complete lack of the recovery
+    of any "hardware" resulting from "unexplained UFO sightings" which contributed
+    to its assessment that the reported UFOs were neither a foreign threat nor of
+    extraterrestrial origin.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: The Robertson Panel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: char:40524-40762
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 307de6d9-40d6-4917-8603-de18023e104f
+  claim_hash: 40a7366a23d412d44a3d179fb1a582dd977da51bc9bcda8a5b000b9cd5668224
+  content: Central Intelligence Agency officer Frederick Durant drafted a report for
+    the CIA's Assistant Director of the CIA Office of Scientific Intelligence (OSI)
+    on the Robertson Panel's work and findings.
+  original_excerpt: CIA officer Frederick Durant drafted a report for CIA's Assistant
+    Director of OSI on the Robertson Panel's work and findings.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Durant Report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 5d90653b-2c22-4c9e-9b76-02f6dce6eb37
+    title: Frederick Durant
+    slug: frederick-durant
+  - node_id: cab16e2c-5b94-4cfa-866e-d5c0a3c8c891
+    title: Central Intelligence Agency (CIA) Office of Scientific Intelligence (OSI)
+    slug: central-intelligence-agency-cia-office-of-scientific-intelligence-osi
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: 1953-02
+  date_end: null
+  location_in_record: char:40834-40950
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 75d13cc2-fcf2-4bb7-ad80-adf0000d7bdc
+  claim_hash: 73b4dc0ae8790c44d0d2d3c10847607707a5c265ac2da7c970cd2472e5b62ae6
+  content: Frederick Durant's memorandum provided a brief history of the Robertson
+    Panel and an unofficial supplement with comments and suggestions from members
+    that were not included in the final report.
+  original_excerpt: Durant's memorandum provided a brief history of the panel and
+    an unofficial supplement that provided comments and suggestions from members which
+    they had not included in the final report.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Durant Report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0f5987a4-fef4-4129-b22a-9d1f6aead1b8
+    title: The Durant Report
+    slug: the-durant-report
+  - node_id: 5d90653b-2c22-4c9e-9b76-02f6dce6eb37
+    title: Frederick Durant
+    slug: frederick-durant
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: 1953-02
+  date_end: null
+  location_in_record: char:40960-41140
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 8bdd7f28-52ad-4ca7-ad11-736f132333b3
+  claim_hash: 5a1a1dfea8abd7e5a4faaa029026e6b1af077bbeba62dcc4cf76eadc0375d1d9
+  content: The Durant Report offered no distinct or separate findings of note and
+    mostly summarised the findings of the Robertson Panel.
+  original_excerpt: The report offered no distinct or separate findings of note and
+    mostly summarized the findings of the Robertson Panel.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Durant Report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0f5987a4-fef4-4129-b22a-9d1f6aead1b8
+    title: The Durant Report
+    slug: the-durant-report
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: char:41415-41527
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 9f691f60-0b21-40de-95dc-a24170459d0e
+  claim_hash: 45520ab4922f324f4e5cff1658a9600bd7fbb559807e83d8326bfa3030930788
+  content: The Central Intelligence Agency (CIA)-sponsored Robertson Panel proposed
+    engaging in an active "training" and "debunking" effort using various public media
+    tools to steer the public away from reporting UFOs.
+  original_excerpt: There was at least one USG proposal - by the CIA-sponsored Robertson
+    Panel - to engage in an active "training" and "debunking" effort using various
+    public media tools to steer the public away from reporting UFOs.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Robertson Panel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: 1953-01
+  date_end: null
+  location_in_record: char:77231-77438
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 1bcddc59-0cca-4c70-a28c-634e32476107
+  claim_hash: 74d6cc09da38a7009bb522ef41629905047be9649e681e01ef5c7df5f528099e
+  content: The Robertson Panel's debunking proposal reasoned that it did not believe
+    UFOs were foreign technological threats or of extraterrestrial origin, but viewed
+    the persistent flood of reports as cluttering and bogging down government processes.
+  original_excerpt: The proposal reasoned that it did not believe UFOs were foreign
+    technological threats or of extraterrestrial origin; rather, it viewed the persistent
+    flood of reports as cluttering and bogging down government processes
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Robertson Panel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: char:77444-77653
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 8a73cb11-faa8-421c-bb28-7f779f2fe02d
+  claim_hash: 743ce2ea90bf0f88b1c16e90b9820f3cc4db50bc8403afbbf18b8ddfd8ed802c
+  content: The Robertson Panel's proposal expressed concern that the persistent flood
+    of UFO reports could create "mass hysteria" to the benefit of the Soviet Union.
+  original_excerpt: expressing the concern that such reports could create "mass hysteria"
+    to the benefit of the Soviet Union
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Robertson Panel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: char:77664-77763
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: aa2ad173-9e00-4e29-84a6-c6396e6f1d21
+  claim_hash: caef1a5f428443b1a756e8f8713df019fe5aaa8f56b24e964c2df5dcca52802c
+  content: Richard Drain played a principal role in the 1953 policy decision, made
+    after the 1953 Robertson Panel, to debunk UFOs and use stigma, ridicule and taboo
+    to disengage public interest in the subject.
+  original_excerpt: He's very prominently featured in the coverage from the 1953 decision
+    after the Robertson panel. to essentially debunk UFOs, like he played a principal
+    role in the decision, the policy decision, to essentially play down the UFO subject
+    and to use stigma and ridicule and taboo to try to disengage public interest,
+    to stop the public from looking at the UFO subject.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5b0650e4-d077-4cd0-aa09-0eacec20f22a
+    title: Richard Drain
+    slug: richard-drain
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: '1953'
+  date_end: null
+  location_in_record: 00:39:14.5-00:39:41.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
+  claim_hash: 56b929aea07b6b5ac86f2114bd574cc7b898a089a4d891aeb675fa3c5fad2f8a
+  content: In 1953, the Central Intelligence Agency's Robertson Panel of scientists
+    convened and recommended a public education campaign built on publicising already-debunked
+    UFO cases while saying nothing about unexplained ones.
+  original_excerpt: So 1953, the CIA's Robertson panel of scientists convened and
+    recommended a public education campaign built on one strategy, publicize the cases
+    that have already been debunked and say nothing about the ones that haven't.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+    title: Phil McGraw
+  provenance_chain:
+    origin_kind: speaker
+    origin: Phil McGraw
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 7b205c4a-aec5-40c3-b791-720527a39e42
+    title: 1953 Central Intelligence Agency (CIA) Robertson Panel convening
+    slug: 1953-central-intelligence-agency-cia-robertson-panel-convening
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: '1953'
+  date_end: null
+  location_in_record: 00:14:01.2-00:14:17.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+    record_title: Dr. Phil read the UAP files before the public, here's what he found
+      | Reality Check
+    record_date: '2026-07-21'
+    record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+    content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+    friendly_name: null
+- claim_id: 62d388f9-45cb-4882-95cb-6b6841cfe3d1
+  claim_hash: 287cefb86b9fb2f08bbd2813eebc0147960ace1ab3d7b19b53ee687c10c9eff5
+  content: Phil McGraw considers that the United States government's method of operation
+    has been to hide Unidentified Aerial Phenomena information from the country going
+    back as far as 1947.
+  original_excerpt: I guess the MO has been to hide this from the country going back
+    as far as 1947, the Robertson panel
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+    title: Phil McGraw
+  provenance_chain:
+    origin_kind: speaker
+    origin: Phil McGraw
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+    title: Phil McGraw
+    slug: phil-mcgraw
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: 00:04:26.4-00:04:35.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null
+- claim_id: e14a798a-8145-4aa6-866c-8c46653b3ae9
+  claim_hash: 6f198b20ee34d45b5c496e146ac9fe0a9ff08617f77a82b6fa429bf91beaf67c
+  content: The Robertson Panel took place in 1953.
+  original_excerpt: you're right in the 1953 Robertson panel
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: '1953'
+  date_end: null
+  location_in_record: 00:05:23.9-00:05:25.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null
+- claim_id: f7f7e9d5-e377-4568-87ba-e1ec4aa2489c
+  claim_hash: bff029713faf779395be090e3d1ddaa74c9758e8c16a02e58ccb694abbc454e6
+  content: The 1953 Robertson Panel changed the tone of official handling of Unidentified
+    Aerial Phenomena and developed a systematic ridicule process while the United
+    States government secretly took the subject very seriously.
+  original_excerpt: the 1953 Robertson panel kind of changed the tone and developed
+    a systematic ridicule process while the government was secretly taking this very
+    seriously
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    slug: robertson-panel
+  date: null
+  date_end: null
+  location_in_record: 00:05:24.5-00:05:32.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null

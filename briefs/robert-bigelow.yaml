@@ -1,0 +1,3148 @@
+schema: anomalica/brief/1
+brief_hash: 72cacd7f14d3b3f1f722b57a1f67a12c4093230723b3ffb5df13fe6cec1a0cdc
+page:
+  kind: entity
+  node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+  node_type: person
+  title: Robert Bigelow
+  slug: robert-bigelow
+  claim_count: 80
+  claim_count_total: 80
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+  title: National Institute for Discovery Science
+  node_type: organisation
+  slug: national-institute-for-discovery-science
+  shared_claims: 17
+- node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+  title: Harry Reid
+  node_type: person
+  slug: harry-reid
+  shared_claims: 8
+- node_id: a0931369-67de-42b5-a58c-e687698c9999
+  title: Skinwalker Ranch
+  node_type: place
+  slug: skinwalker-ranch
+  shared_claims: 8
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 7
+- node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+  title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+  node_type: project
+  slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  shared_claims: 6
+- node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+  title: Bigelow Aerospace
+  node_type: organisation
+  slug: bigelow-aerospace
+  shared_claims: 6
+- node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+  title: Defense Intelligence Agency (DIA)
+  node_type: organisation
+  slug: defense-intelligence-agency-dia
+  shared_claims: 6
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 6
+- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+  title: Advanced Aerospace Threat Identification Program (AATIP)
+  node_type: project
+  slug: advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 5
+- node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+  title: Bigelow Aerospace Advanced Space Studies, LLC
+  node_type: organisation
+  slug: llc-bigelow-aerospace-advanced-space-studies
+  shared_claims: 4
+- node_id: 59476464-a679-46ce-9247-b0adcb287762
+  title: Edgar Mitchell
+  node_type: person
+  slug: edgar-mitchell
+  shared_claims: 4
+- node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+  title: USA, Nevada, Las Vegas
+  node_type: place
+  slug: nevada-las-vegas-usa
+  shared_claims: 4
+- node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+  title: Donald Trump
+  node_type: person
+  slug: donald-trump
+  shared_claims: 3
+- node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+  title: USA, Utah, Skinwalker Ranch
+  node_type: place
+  slug: utah-skinwalker-ranch-usa
+  shared_claims: 3
+- node_id: 5bb7db4b-73e2-42c7-9f93-6454343f11eb
+  title: 60 Minutes
+  node_type: organisation
+  slug: 60-minutes
+  shared_claims: 2
+- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+  title: Eric Davis
+  node_type: person
+  slug: eric-davis
+  shared_claims: 2
+- node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+  title: George Knapp
+  node_type: person
+  slug: george-knapp
+  shared_claims: 2
+- node_id: 1fb3a970-12d1-41bc-96ef-659ca169eb4b
+  title: Lara Logan
+  node_type: person
+  slug: lara-logan
+  shared_claims: 2
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 2
+- node_id: 8a353027-f56e-40b4-ab37-955ba5490ea4
+  title: 1996 Bigelow purchase of Skinwalker Ranch
+  node_type: event
+  slug: 1996-bigelow-purchase-of-skinwalker-ranch
+  shared_claims: 1
+- node_id: 939b5129-502c-404d-93d0-abb6ce6cbf68
+  title: Ben Mezrich
+  node_type: person
+  slug: ben-mezrich
+  shared_claims: 1
+- node_id: 163dff88-13fa-4235-9cbf-eb7fab5e5f5d
+  title: Budget Suites of America
+  node_type: organisation
+  slug: budget-suites-of-america
+  shared_claims: 1
+- node_id: a1923e9e-f70b-4f6b-bde4-556bcb1469ac
+  title: Chuck Zukowski
+  node_type: person
+  slug: chuck-zukowski
+  shared_claims: 1
+- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+  title: David Charles Grusch
+  node_type: person
+  slug: david-charles-grusch
+  shared_claims: 1
+- node_id: e843b0ea-7362-4daa-8784-ae10f7af05f2
+  title: Douglas Kurth
+  node_type: person
+  slug: douglas-kurth
+  shared_claims: 1
+- node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+  title: Federal Aviation Administration (FAA)
+  node_type: organisation
+  slug: federal-aviation-administration-faa
+  shared_claims: 1
+- node_id: 9572e35c-4c76-475d-8e16-c9c8230de3f6
+  title: Gulfstream V
+  node_type: object
+  slug: gulfstream-v
+  shared_claims: 1
+- node_id: 08611824-5503-4da4-9d57-7dea3183327c
+  title: John F. Schuessler
+  node_type: person
+  slug: john-f-schuessler
+  shared_claims: 1
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 1
+- node_id: 308f34b4-6251-45c8-9257-e74b6b50b805
+  title: Tubular Bells
+  node_type: document
+  slug: tubular-bells
+  shared_claims: 1
+claims:
+- claim_id: 543f9f7f-615c-4e37-9622-857cb58f9a14
+  claim_hash: a0a6eb087c9e1661d4c4cbd3f97a3374dcfea308622e98bc4a49611f468c834e
+  content: The other person George Knapp met in 1989 related to the UFO mystery was
+    billionaire businessman Robert Bigelow, who owned real estate and hotel properties
+    in multiple states.
+  original_excerpt: The other person I met in 1989 related to the UFO mystery was
+    a billionaire businessman named Robert Bigelow, who owned vast real estate and
+    hotel properties in multiple states.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: speaker
+    origin: George Knapp
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    slug: george-knapp
+  date: '1989'
+  date_end: null
+  location_in_record: char:3359-3529
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+    record_title: Statement to Congress
+    record_date: null
+    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+    friendly_name: undated-pdf-statement-to-congress
+- claim_id: e870733a-7007-4f34-8fc4-253edf169c06
+  claim_hash: f0cfd0303d8ba21e7bf5c43deb8f6c751b8c0a92991f43e7a37bc8ff19636ee3
+  content: Robert Bigelow began funding private UFO investigations as well as the
+    work of UFO organisations.
+  original_excerpt: Bigelow began funding private UFO investigations as well the work
+    of UFO organizations UFO.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: speaker
+    origin: George Knapp
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  date: null
+  date_end: null
+  location_in_record: char:3537-3624
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+    record_title: Statement to Congress
+    record_date: null
+    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+    friendly_name: undated-pdf-statement-to-congress
+- claim_id: 0e09290a-07f1-47ce-b6dd-60fbd2a11eb2
+  claim_hash: c6a961cbbb1e3e57a954a028effdf5addf43855c4077541ccbaf87519c830f3b
+  content: Robert Bigelow has spent more of his own money on UFO investigations, tens
+    of millions of dollars, than any person in the history of the world.
+  original_excerpt: To date, he has spent more of his own money on UFO investigations
+    than any person in the history of the world - tens of millions of dollars.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: speaker
+    origin: George Knapp
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  date: null
+  date_end: null
+  location_in_record: char:3629-3761
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+    record_title: Statement to Congress
+    record_date: null
+    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+    friendly_name: undated-pdf-statement-to-congress
+- claim_id: 5aed1c88-2c4a-4001-bd78-15d158e22b9f
+  claim_hash: 4c4b849d298abe9f1d7406a33dc8c923969bcd4410bbc6d869b10ee8f2bdc096
+  content: In 1996, Robert Bigelow created his own research organisation, the National
+    Institute for Discovery Science.
+  original_excerpt: In 1996, Bigelow created his own research organization, the National
+    Institute for Discovery Science
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: speaker
+    origin: George Knapp
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: '1996'
+  date_end: null
+  location_in_record: char:3770-3863
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+    record_title: Statement to Congress
+    record_date: null
+    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+    friendly_name: undated-pdf-statement-to-congress
+- claim_id: 091269bb-ce73-4706-ac1f-3a06a224d0d7
+  claim_hash: efae06af15ce0bba9daa51abf2de851a02f2e22bb05c481206d21102e652f907
+  content: One of the topics of interest to Harry Reid, Robert Bigelow, and the National
+    Institute for Discovery Science was Russia's ongoing interest in UFOs.
+  original_excerpt: One of the topics that was of interest to Reid, Bigelow, and NIDS
+    was Russia's ongoing interest in UFOs.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: speaker
+    origin: George Knapp
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: null
+  date_end: null
+  location_in_record: char:4806-4905
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+    record_title: Statement to Congress
+    record_date: null
+    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+    friendly_name: undated-pdf-statement-to-congress
+- claim_id: d314c627-a752-43d3-a286-835241ddff40
+  claim_hash: dca974af1ac3bdcba9033c37bb4ea0a1f1c63fcc8adb72a60417bab75cd6c73f
+  content: The contract for the Advanced Aerospace Weapon System Applications Program
+    was awarded to a subsidiary of Bigelow Aerospace, owned by Robert Bigelow.
+  original_excerpt: The contract for AAWSAP was awarded to a subsidiary of Bigelow
+    Aerospace, owned by Robert Bigelow.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: speaker
+    origin: George Knapp
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: null
+  date_end: null
+  location_in_record: char:9970-10060
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+    record_title: Statement to Congress
+    record_date: null
+    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+    friendly_name: undated-pdf-statement-to-congress
+- claim_id: 72a7d536-cde7-463d-abda-0328ba2cbdce
+  claim_hash: 80cd95fd7ca3900d2543aa98d88cad14c26c0765e10e5f45eabe8b03181b8caf
+  content: Robert Bigelow said internationally, the United States is the most backward
+    country in the world on the UFO issue.
+  original_excerpt: “Internationally, we are the most backward country in the world
+    on this issue,” Mr. Bigelow said in an interview.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bigelow, Robert
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  date: null
+  date_end: null
+  location_in_record: char:10712-10814
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: b2983ec7-b50b-4967-9867-5a5243b5c25c
+  claim_hash: b30b7e56666378e253a8e83543be2a2cd6b99e34380a27404fbfb65a19b345ab
+  content: Robert Bigelow said American scientists are scared of being ostracised
+    and American media is scared of the stigma regarding the UFO issue.
+  original_excerpt: “Our scientists are scared of being ostracized, and our media
+    is scared of the stigma.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bigelow, Robert
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  date: null
+  date_end: null
+  location_in_record: char:10826-10904
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 7c46ff0e-8f98-4bf0-a83e-f7cd9c338b1d
+  claim_hash: cbecce0260bf059cdca47c036095b4eb89f9ccc4926de3ca108cdaacecd2f24d
+  content: Robert Bigelow said China and Russia are much more open on the UFO issue
+    and work on it with huge organisations within their countries.
+  original_excerpt: China and Russia are much more open and work on this with huge
+    organizations within their countries.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bigelow, Robert
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  date: null
+  date_end: null
+  location_in_record: char:10912-11002
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 7febde5c-7c9a-4bf0-a67d-bb1e6619a670
+  claim_hash: eaefcb32f0c0325417cfffec0015680f0e7ff9acfff7d2c6f94fcf74a8fe73bb
+  content: Robert Bigelow said smaller countries like Belgium, France, England, and
+    South American countries like Chile are more open on the UFO issue, being proactive
+    and willing to discuss the topic rather than held back by a juvenile taboo.
+  original_excerpt: Smaller countries like Belgium, France, England and South American
+    countries like Chile are more open, too. They are proactive and willing to discuss
+    this topic, rather than being held back by a juvenile taboo.”
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bigelow, Robert
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  date: null
+  date_end: null
+  location_in_record: char:11013-11217
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 13146c89-f9d8-4175-8bc7-3f8c990e9f9c
+  claim_hash: 67096f4f0cec2b8920c8a291d4879f975d44cc12c5f34562b1456ac6401b7173
+  content: Most of the Advanced Aerospace Threat Identification Program (AATIP) money
+    went to an aerospace research company run by Robert Bigelow, a billionaire entrepreneur
+    and longtime friend of Harry Reid.
+  original_excerpt: Most of the money went to an aerospace research company run by
+    a billionaire entrepreneur and longtime friend of Mr. Reid’s, Robert Bigelow,
+    who is currently working with NASA to produce expandable craft for humans to use
+    in space.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: null
+  date_end: null
+  location_in_record: char:1825-2120
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 5c885f37-91a3-4079-8007-075a2e5d4389
+  claim_hash: 1a64382364fc20a07604bd02ab5fb9c9dc75f2bb4128feff84e4239086fe4459
+  content: Robert Bigelow is currently working with the National Aeronautics and Space
+    Administration (NASA) to produce expandable craft for humans to use in space.
+  original_excerpt: who is currently working with NASA to produce expandable craft
+    for humans to use in space
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  date: null
+  date_end: null
+  location_in_record: char:2095-2179
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 9a7624f2-1206-41b1-9089-bbb3ac1c01a2
+  claim_hash: 65871e6fbdba4b489dc625a9b0e4c93061c1a3453e454054b97c1fcb5912b76c
+  content: Robert Bigelow believes unidentified flying objects (UFOs) have visited
+    Earth.
+  original_excerpt: On CBS’s “60 Minutes” in May, Mr. Bigelow said he was “absolutely
+    convinced” that aliens exist and that U.F.O.s have visited Earth.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bigelow, Robert
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  date: null
+  date_end: null
+  location_in_record: char:2187-2298
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 26124b69-4650-4204-b372-691609239afc
+  claim_hash: 308866f839030cee649f33940475e839c9fc04eaec3e92243944d422c2691905
+  content: Working with Robert Bigelow's Las Vegas-based company, the Advanced Aerospace
+    Threat Identification Program (AATIP) produced documents that describe sightings
+    of aircraft that seemed to move at very high velocities with no visible signs
+    of propulsion.
+  original_excerpt: Working with Mr. Bigelow’s Las Vegas-based company, the program
+    produced documents that describe sightings of aircraft that seemed to move at
+    very high velocities with no visible signs of propulsion, or that hovered with
+    no apparent means of lift.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+    title: USA, Nevada, Las Vegas
+    slug: nevada-las-vegas-usa
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  date: null
+  date_end: null
+  location_in_record: char:2574-2816
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: ce8eff2d-30cb-4e3f-910c-6759c01a83e1
+  claim_hash: 09e0910034965a8671dfe75274cbbbe36203d1ce701c40a2a2fe1b4cc3fc48b7
+  content: Harry Reid said his interest in UFOs came from Robert Bigelow.
+  original_excerpt: Mr. Reid said his interest in U.F.O.s came from Mr. Bigelow.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+  provenance_chain:
+    origin_kind: speaker
+    origin: Reid, Harry
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: null
+  date_end: null
+  location_in_record: char:7093-7145
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: a6c7ba7e-cdb3-40a8-bf26-c41e0a219be3
+  claim_hash: 1637e8eb9ce0013f30c534d7a9daa69e48822739604fc0b78a98efb4761a91f9
+  content: Harry Reid said that in 2007 Robert Bigelow told him an official with the
+    Defense Intelligence Agency (DIA) had approached Bigelow wanting to visit Bigelow's
+    ranch in Utah, where he conducted research.
+  original_excerpt: In 2007, Mr. Reid said in the interview, Mr. Bigelow told him
+    that an official with the Defense Intelligence Agency had approached him wanting
+    to visit Mr. Bigelow’s ranch in Utah, where he conducted research.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+  provenance_chain:
+    origin_kind: named
+    origin: Bigelow, Robert
+    relay:
+    - an interview with Harry Reid
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: 7ff8bce5-e389-47de-ad40-637c36a14d53
+    title: USA, Utah
+    slug: utah-usa
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: '2007'
+  date_end: null
+  location_in_record: char:7154-7354
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: ffb017f9-6b4d-410b-b830-ba613d4b2533
+  claim_hash: 5037ffbf5cdb101e6c2b16186d650106d6590735e44c6f9188abc29e338d0443
+  content: Harry Reid said he met with Defense Intelligence Agency (DIA) officials
+    shortly after his meeting with Robert Bigelow and learned that they wanted to
+    start a research program on UFOs.
+  original_excerpt: Mr. Reid said he met with agency officials shortly after his meeting
+    with Mr. Bigelow and learned that they wanted to start a research program on U.F.O.s.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+  provenance_chain:
+    origin_kind: speaker
+    origin: Reid, Harry
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: null
+  date_end: null
+  location_in_record: char:7365-7517
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 2a1c80fa-d06f-4a26-a52b-031fae1b808f
+  claim_hash: a5a9c1bf03aa6b36dcdeb2efcdeb73c613c0566105090ced74854bdeccda53bb
+  content: The Advanced Aerospace Threat Identification Program (AATIP) funding went
+    to Robert Bigelow's company, Bigelow Aerospace, which hired subcontractors and
+    solicited research for the program.
+  original_excerpt: The funding went to Mr. Bigelow’s company, Bigelow Aerospace,
+    which hired subcontractors and solicited research for the program.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  date: null
+  date_end: null
+  location_in_record: char:9233-9353
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 94b6de85-512f-4359-9da1-d796a1895ec9
+  claim_hash: 74b0ac8ebd17681410f606155fbbac11288c4d0494d9e77fd4ee47801bf8d744
+  content: Under Robert Bigelow's direction, Bigelow Aerospace modified buildings
+    in Las Vegas for the storage of metal alloys and other materials that Luis Elizondo
+    and Advanced Aerospace Threat Identification Program (AATIP) contractors said
+    had been recovered from unidentified aerial phenomena.
+  original_excerpt: Under Mr. Bigelow’s direction, the company modified buildings
+    in Las Vegas for the storage of metal alloys and other materials that Mr. Elizondo
+    and program contractors said had been recovered from unidentified aerial phenomena.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Elizondo, Luis, and Advanced Aerospace Threat Identification Program contractors
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+    title: USA, Nevada, Las Vegas
+    slug: nevada-las-vegas-usa
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  date: null
+  date_end: null
+  location_in_record: char:9363-9581
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 92b5d7d5-086a-4c70-ae85-cfd2da2225f6
+  claim_hash: a105e9cbc574c9b4d7861e7411d4530e0ebf1f115e10b77e56cd870eca57f023
+  content: Robert Bigelow, when asked if he feared people might think he was crazy
+    for admitting he believed in extraterrestrials, said he did not care because it
+    would not change the reality of what he knows.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Bigelow
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  date: null
+  date_end: null
+  location_in_record: ch3:25328-25420
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: f60a097b-1c0b-4280-a8c0-cfef0017d988
+  claim_hash: cc979eb97a23a84a8eb8e653d3455d1e15bb3185739428f3fb6c11327cb0849b
+  content: Robert Bigelow founded Bigelow Aerospace, a company specialising in manufactured
+    space equipment, mostly with his own funding in 1998.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  date: '1998'
+  date_end: null
+  location_in_record: char:11705-11816
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 25e457c0-3181-4e49-9000-7d2c44e9bf72
+  claim_hash: 4918f07a2e4bce7e5f405cbfbddb668522a84e0bf560c7578361c98dc52fa92c
+  content: None of the scientists brought in by Robert Bigelow to study the Skinwalker
+    Ranch phenomenon were UFO believers by background.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  date: null
+  date_end: null
+  location_in_record: ch15:12141-12244
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5181a9dd-4c77-4edb-94bb-6691e65a40b5
+  claim_hash: 04d66ee5237d3261f643fb1040626ff62ec7f497fc060e3e6b97a128f43e9110
+  content: The scope of Robert Bigelow's private National Institute for Discovery
+    Science investigations went beyond Skinwalker Ranch and much of what NIDS uncovered
+    remains confidential.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:18104-18232
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 58282492-15cb-4dd8-895f-f6eea80bb0b1
+  claim_hash: 4ed1cf13088a90cdcdfe4a85612077a31d40ece0c27f3a57d6012669d6109f9f
+  content: The documents obtained from the Edgar Mitchell archive shed light on the
+    extensive early work done in the late 1990s by Robert Bigelow's NIDS investigators
+    into both UFOs and cattle mutilations.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: documents from the Edgar Mitchell archive
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:18371-18501
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9d08c98d-8100-4893-a12e-efb1204490f2
+  claim_hash: 41f0543b7b143be8e084a6be694a60d130f28451e4ee037b865e2786bdfd09c4
+  content: Edgar Mitchell was long a proponent of research into UAPs and served on
+    the science advisory board of the National Institute for Discovery Science, retaining
+    some of the confidential NIDS research reports from Skinwalker and other areas
+    visited by the Bigelow-funded investigation team.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:18514-18748
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b91f1cd0-6f01-425e-8e41-6426a0579cb6
+  claim_hash: 5f062ff59ff73bbe75ead1d5aaf4fe699a18bf01c9be9d7bebeb85d715782406
+  content: After reading the National Institute for Discovery Science files, it became
+    clear that Robert Bigelow's investigators suspected the US government was up to
+    something in the hills around Dulce, New Mexico.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: National Institute for Discovery Science (NIDS) files
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 35f45839-edcf-4b99-8ba7-b9ec5b94bced
+    title: USA, New Mexico, Dulce
+    slug: new-mexico-dulce-usa
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:25408-25537
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: be608b6d-4237-4a45-8b29-17cf5a49076e
+  claim_hash: a050e316f219b8a0645920e4c0b310e9a31aec336458acc4881e664d31ed7661
+  content: Robert Bigelow's National Institute for Discovery Science team conducted
+    investigations across the United States from 1995 to 2004, most of which remain
+    confidential.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration (In Plain Sight)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: '1995'
+  date_end: null
+  location_in_record: ch15:27308-27457
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 0842837a-8084-40dc-a4c2-f112e778c1c5
+  claim_hash: bc699f1f6f7c71463727475a4f7435f0148d0f6fc4272bded2b424faa46ec030
+  content: Robert Bigelow is a space industry entrepreneur who believes UAP are real
+    craft.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Bigelow
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  date: null
+  date_end: null
+  location_in_record: ch15:27471-27548
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 76c31464-649e-4c7b-9f6a-9fac418b2fe2
+  claim_hash: d5c6f8b4f0b769f1a866a39d3b9be32add28d9bd6423d9ceb7cff896bca7f6d8
+  content: Robert Bigelow founded Bigelow Aerospace, a space technology company based
+    in Las Vegas, Nevada, in 1998.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration (In Plain Sight)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+    title: USA, Nevada, Las Vegas
+    slug: nevada-las-vegas-usa
+  date: '1998'
+  date_end: null
+  location_in_record: ch15:27880-27993
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 2294683e-f56f-4687-b719-6bd1d9d1b378
+  claim_hash: 0576ce8c3b0d8c5166e5367e3d24dbd4d66454daf50304b0b6aa0179a5f6b071
+  content: While doing his cattle mutilation investigation in the 1990s, Chuck Zukowski
+    realised there was another well-resourced team of investigators covertly probing
+    the same mystery, who were employees of billionaire businessman Robert Bigelow.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: a1923e9e-f70b-4f6b-bde4-556bcb1469ac
+    title: Chuck Zukowski
+  provenance_chain:
+    origin_kind: named
+    origin: Chuck Zukowski
+    relay:
+    - Ben Mezrich
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: a1923e9e-f70b-4f6b-bde4-556bcb1469ac
+    title: Chuck Zukowski
+    slug: chuck-zukowski
+  date: null
+  date_end: null
+  location_in_record: ch15:7800-8027
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 54a8dbcd-bee8-4943-a4f3-52f81f8ecffd
+  claim_hash: bb6a6e76bfe951d008271f9ffc3a40dd7ca34139bef5d8a0673fcccf389f7a6a
+  content: Ben Mezrich said Robert Bigelow's team had been investigating UFOs for
+    the past 20 years.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 939b5129-502c-404d-93d0-abb6ce6cbf68
+    title: Ben Mezrich
+  provenance_chain:
+    origin_kind: named
+    origin: Ben Mezrich
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 939b5129-502c-404d-93d0-abb6ce6cbf68
+    title: Ben Mezrich
+    slug: ben-mezrich
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  date: null
+  date_end: null
+  location_in_record: ch15:8037-8114
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 20d443ff-3424-4b5f-ae49-ac877da927c7
+  claim_hash: c0f8c4a990a62e0206f5d4aa3e97a4eb9601b43ffd1697a22912930e7f7a88c1
+  content: Federal Aviation Administration manuals specifically advised civilian pilots
+    to report UAPs to Robert Bigelow, not to the Federal Aviation Administration.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: United States Federal Aviation Administration (FAA)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+    title: Federal Aviation Administration (FAA)
+    slug: federal-aviation-administration-faa
+  date: null
+  date_end: null
+  location_in_record: ch15:8121-8270
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: fb973458-1f06-465d-9b99-184b1288bd36
+  claim_hash: 08b47d7a9c32507e728f831104e30dbe1c7dae2df027b230b8caad127a91a7a5
+  content: Robert Bigelow made his fortune through a hotel chain business named Budget
+    Suites of America.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 163dff88-13fa-4235-9cbf-eb7fab5e5f5d
+    title: Budget Suites of America
+    slug: budget-suites-of-america
+  date: null
+  date_end: null
+  location_in_record: ch15:8276-8427
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: daf1800e-183a-4baa-991e-af32f21bbd35
+  claim_hash: 445ac231401e885d55f8d17cd790ce0374ec6e2bb7e625974397f82c59cb63b3
+  content: In 1995, Robert Bigelow self-funded the creation of the National Institute
+    for Discovery Science.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: '1995'
+  date_end: null
+  location_in_record: ch15:8436-8607
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9362202d-2cfb-4103-a00d-c6515fe38b50
+  claim_hash: db1b75e9da1857f3927169a114ddaae35b7b5901ebaae4030d3825680964f2b5
+  content: Robert Bigelow paid 200,000 US dollars to buy Skinwalker Ranch in 1996.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 8a353027-f56e-40b4-ab37-955ba5490ea4
+    title: 1996 Bigelow purchase of Skinwalker Ranch
+    slug: 1996-bigelow-purchase-of-skinwalker-ranch
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  date: '1996'
+  date_end: null
+  location_in_record: ch15:8613-8732
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 968bbb9d-9262-4f9b-ab55-0560eeb9dd5d
+  claim_hash: 6c2993885a8e0541b49a1e70676079f49bbf7d022e06be99436df6ed5c3985c0
+  content: Robert Bigelow funded full-time surveillance of Skinwalker Ranch as part
+    of the National Institute for Discovery Science, ordering an investigation into
+    the extraordinary paranormal claims.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:8738-8873
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 173a406c-abae-40b6-b34c-eed7d5a602a3
+  claim_hash: 171272b85af44297d96836df6f00dbeb7dfc61c03a803743efc05305128c81ae
+  content: Eric Davis started working for Robert Bigelow's National Institute for
+    Discovery Science in July 1996.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: 1996-07
+  date_end: null
+  location_in_record: ch15:9194-9283
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 881ea1b3-5b20-4994-84e6-542156785f19
+  claim_hash: b0df9194753aeb9f9631752f4925de52e7d146d161104f2e483dc2c7cf47752f
+  content: The Bigelow team's Advanced Aerospace Weapons Systems Applications Program
+    (AAWSAP) investigations began in late 2008 and reportedly ended in 2012.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: '2008'
+  date_end: null
+  location_in_record: ch17:19605-19682
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5ae48f16-cd05-4c87-b6c7-8b4946d69f8e
+  claim_hash: 2b6e7b5c71addde92ae96b5de1756bc00897a73ac49a0406ebf3be9bf23ecfa1
+  content: Most of the Bigelow Advanced Aerospace Weapons Systems Applications Program
+    (AAWSAP) team were terminated by mid-2010.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: '2010'
+  date_end: null
+  location_in_record: ch17:19862-19910
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 498880d7-d2c2-4514-8143-828329e289dd
+  claim_hash: f7e9c41ae0b8625d6558c53534151113fdac13241dcf07e8f0838f8a57d0bcee
+  content: Robert Bigelow sent Harry Reid the letter from the senior Defense Intelligence
+    Agency physicist.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: null
+  date_end: null
+  location_in_record: ch17:2105-2231
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c4f3e639-3868-41f2-be1b-6a10455f03d7
+  claim_hash: eb3d30256bb3853c1be207de5a19fdc3d52a28ce0a4c206ee59a33892c0abb69
+  content: Harry Reid did not name the Defense Intelligence Agency scientist but said
+    he visited Robert Bigelow's Skinwalker Ranch, presumably around 2007-2008, and
+    that what the scientist saw there convinced him it was a real phenomenon needing
+    investigation.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+  provenance_chain:
+    origin_kind: speaker
+    origin: Harry Reid
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: '2007'
+  date_end: null
+  location_in_record: ch17:2242-2446
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 1ffde043-e53b-4446-884d-6bc289deeee6
+  claim_hash: 460ee8be8ff308857fffd5232a9858c1a45dcf17130f4ec04471e8539b159024
+  content: Robert Bigelow said the Defense Intelligence Agency scientist told him
+    that what shocked him at Skinwalker Ranch was an incident where a three-dimensional
+    object suddenly materialised in front of him, resembling the triangular metallic
+    'bent bell' cover art on the front of the Mike Oldfield album Tubular Bells.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a senior Defense Intelligence Agency scientist
+    relay:
+    - told to Robert Bigelow
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 308f34b4-6251-45c8-9257-e74b6b50b805
+    title: Tubular Bells
+    slug: tubular-bells
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  date: null
+  date_end: null
+  location_in_record: ch17:2460-2873
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7201f205-c587-409e-baf3-a92002347e74
+  claim_hash: 5625d51176a2e056be90c8d82b58fd4ed8a7a0df59f0abb3bbbb189e14faba97
+  content: Much of the Pentagon funding for the UAP investigation went to Robert Bigelow's
+    company, Bigelow Aerospace Advanced Space Studies (BAASS).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+    title: United States Pentagon
+    slug: united-states-pentagon
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    slug: llc-bigelow-aerospace-advanced-space-studies
+  date: null
+  date_end: null
+  location_in_record: ch17:5141-5246
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: efdd0682-4b33-49e0-941b-2a6dae5438de
+  claim_hash: da1c6bd4f336e49ec9e45c815d0f3c78921bbe30270fc93e721c6aff4cd04a3f
+  content: Robert Bigelow hired several of the same scientists who had served on his
+    private decade-long National Institute for Discovery Science investigations to
+    work on the Bigelow Aerospace Advanced Space Studies program.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    slug: llc-bigelow-aerospace-advanced-space-studies
+  date: null
+  date_end: null
+  location_in_record: ch17:5254-5409
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3db593a6-458c-4c9b-a60a-1f51eceabf32
+  claim_hash: b479f99861f2fb46342eab29463b7b503503002c5d9e4eecddf82a97be78edac
+  content: Robert Bigelow holds the view that alien intelligences have been visiting
+    Earth for a long time.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Bigelow
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  date: null
+  date_end: null
+  location_in_record: ch17:5425-5583
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9f481f7b-d230-4458-8926-676e1491b2e7
+  claim_hash: 95d2b736b2a933d4af1e8e47a720735fcff3e91a533974fe0d00a802753c9181
+  content: Robert Bigelow has described his grandparents having a close encounter
+    with a UAP that filled the windscreen of their car before taking off at a right
+    angle and shooting away into the distance.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Bigelow
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  date: null
+  date_end: null
+  location_in_record: ch17:5589-5769
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
+  claim_hash: a964f695eaffd8d992da30c26fd56cc95adabea244e4b16e46a3b4440ea65aa6
+  content: An alien logo is painted on the exterior of Robert Bigelow's Bigelow Aerospace
+    building in Las Vegas.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+    title: USA, Nevada, Las Vegas
+    slug: nevada-las-vegas-usa
+  date: null
+  date_end: null
+  location_in_record: ch17:5779-5906
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f85ce769-914c-48df-95c9-51fc0d0601d1
+  claim_hash: 55cbfe7b6842f3fa58e2f80cad5388193ff2fb31b11f69bad267168420bfd42e
+  content: Robert Bigelow told CBS 60 Minutes correspondent Lara Logan that he was
+    'absolutely convinced' aliens exist.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Bigelow
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 1fb3a970-12d1-41bc-96ef-659ca169eb4b
+    title: Lara Logan
+    slug: lara-logan
+  - node_id: 5bb7db4b-73e2-42c7-9f93-6454343f11eb
+    title: 60 Minutes
+    slug: 60-minutes
+  date: null
+  date_end: null
+  location_in_record: ch17:5913-6063
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 536365a0-a65a-49a0-9fbd-6ec570f44916
+  claim_hash: 53234f9033e045541936432282c22576ae81cc4da1eb6ca0f114e83158b59620
+  content: Robert Bigelow believes there has been and is an existing extra-terrestrial
+    (ET) presence on Earth.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Bigelow
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  date: null
+  date_end: null
+  location_in_record: ch17:6142-6352
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f070d6e5-4aea-4774-9b4c-e8fd45e6a3c1
+  claim_hash: 045263c2f546d713e2235887ead5807c7bcea8087ed60ede8fd1cc876ab24b0f
+  content: Robert Bigelow says he probably spent more as an individual on researching
+    an extra-terrestrial presence than anybody else in the United States has ever
+    spent on the subject.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Bigelow
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  date: null
+  date_end: null
+  location_in_record: ch17:6251-6352
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e7110a77-07a1-433e-a284-0ce6fe2c953d
+  claim_hash: d917b9dc12083336f180eb24c3948e33bdd277ba294f227214f8669373862b5d
+  content: Lara Logan asked Robert Bigelow whether he imagined that space travel would
+    encounter other forms of intelligent life, to which Bigelow responded that one
+    does not have to go anywhere to find it, and when pressed on where exactly, said
+    it is just like right under people's noses.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Bigelow
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 1fb3a970-12d1-41bc-96ef-659ca169eb4b
+    title: Lara Logan
+    slug: lara-logan
+  date: null
+  date_end: null
+  location_in_record: ch17:6745-7014
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 75ad25e2-3f42-48cf-8106-dbc6fb33f8c3
+  claim_hash: 8744351ea9a27938cd943a7045344be4f5478a38aa37edce8d22eb414aaf07c2
+  content: Robert Bigelow is notoriously media shy, with the CBS 60 Minutes interview
+    a notable exception.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 5bb7db4b-73e2-42c7-9f93-6454343f11eb
+    title: 60 Minutes
+    slug: 60-minutes
+  date: null
+  date_end: null
+  location_in_record: ch17:7325-7396
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6ac9d9ae-51cd-4b51-8785-60ea01507837
+  claim_hash: 9e19eef782564ffc76289bd8eaae7b0f89718abacbfcd0fb38e32ba19ba36bb1
+  content: Robert Bigelow hired Douglas Kurth in 2007.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: e843b0ea-7362-4daa-8784-ae10f7af05f2
+    title: Douglas Kurth
+    slug: douglas-kurth
+  date: '2007'
+  date_end: null
+  location_in_record: ch17:7530-7641
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5c11d497-62fe-4f2a-8972-6b85217c5632
+  claim_hash: a0b9566bd624c8f52993d627d8b2f2d57a4cc441c03f53204e2f40e0dd44664a
+  content: An invitation to tender for the Advanced Aerospace Weapons Systems Applications
+    Program (AAWSAP) contract was issued by the Defense Intelligence Agency in August
+    2008 and Robert Bigelow was the sole bidder, securing $10 million funding for
+    the first year with a five-year option.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: 2008-08
+  date_end: null
+  location_in_record: ch17:8347-8563
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c70e90d8-e612-4fdb-a6aa-df19f5132340
+  claim_hash: ee444d9f41cf4c2620c054a4a9202ff3f1f0c7112d72ec8e8d856133107ce522
+  content: Robert Bigelow has been outspoken in the past that he believes extra-terrestrials
+    frequently travel to Earth.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Bigelow
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  date: null
+  date_end: null
+  location_in_record: ch21:20282-20427
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 8b9a0dbc-7978-47de-ba78-35427c03740e
+  claim_hash: 8451d2e1fb9f8ad403e1b1aa900d533214eff99c032fecdf529cdd6fd538c196
+  content: Edgar Mitchell sat on the National Institute for Discovery Science's science
+    advisory board while it conducted still-secret research for Robert Bigelow.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch25:14912-15142
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 149a8e9c-307a-47b2-a7e9-767832f7ecc1
+  claim_hash: 21c08fe5c636c81a7e509cfaf2a5baf4fa4cfc3c029420ac14f2ac07295b1e5e
+  content: Robert Bigelow invited Edgar Mitchell to serve on the advisory board of
+    his National Institute for Discovery Science research organisation.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch25:5021-5183
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5223e9c6-0bc6-4c49-9d07-08cc7828ced1
+  claim_hash: b8c3e759c0c52607da63c5af01594ac514a712b4db4bf2e3d66eb9e4c5bfcb0b
+  content: Eric Davis worked for Robert Bigelow's National Institute for Discovery
+    Science (NIDS).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch26:5049-5126
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 90b27c48-92ff-429b-a0c6-6ebf84fa1430
+  claim_hash: 596c939a4d7ba36b8e58a525fcfc6eeba7cea3ec1a4b28e1e7e2137022675a5c
+  content: Robert Bigelow founded the National Institute for Discovery Science and
+    once owned Skinwalker Ranch, the site of multiple UAP sightings.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch37:7546-7665
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 0201cb46-cf65-432f-a523-bfc954b27a76
+  claim_hash: 9192f0c70a7f277f4e84b39a08369b939b998d9ea12f53ac348ad127778a2d7e
+  content: The National Institute for Discovery Science (NIDS), Robert Bigelow's research
+    organisation, studied Unidentified Aerial Phenomena (UAP) and the paranormal during
+    the 1990s.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch10:1387-1514
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 48ab67bf-2318-4db8-b4f3-6a8adcd0b356
+  claim_hash: 49578a1930f171e060fcbcdc2545576832c1118945d712b5c22f32d92e256fcb
+  content: Harry Reid counted Robert Bigelow among his friends.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: null
+  date_end: null
+  location_in_record: ch10:1521-1562
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 963896c5-b9ab-441f-a74a-b9134507125a
+  claim_hash: 3f01b019878a66ddd10385977fd6bac7924aac02b58ab2f8625a2ccd3a397621
+  content: Robert Bigelow's firm Bigelow Aerospace Advanced Space Studies (BAASS)
+    was the prime contractor for the programme Lue Elizondo joined.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    slug: llc-bigelow-aerospace-advanced-space-studies
+  date: null
+  date_end: null
+  location_in_record: ch10:1575-1687
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: cefd7837-a3de-45c6-a441-52bdf370fff2
+  claim_hash: 924e7b25cff4229ed8bcb112c92c53e92fe757ad92111792c14ef957e6d3f250
+  content: The lead contractor flew in on his private Gulfstream V jet to attend the
+    programme dinner in Roslyn, Virginia.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 2cde86ce-9c0c-454d-bd4b-20ac288fd34d
+    title: USA, Virginia, Roslyn
+    slug: virginia-roslyn-usa
+  - node_id: 9572e35c-4c76-475d-8e16-c9c8230de3f6
+    title: Gulfstream V
+    slug: gulfstream-v
+  date: null
+  date_end: null
+  location_in_record: ch10:422-491
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: fd4ca358-feb3-4a21-acc9-c7d67a11613a
+  claim_hash: df5928379c88a4d103df3d5eaaee827ea79f84d43fe719e7b517ab2836ce287b
+  content: Robert Bigelow's team planned to compile a database listing every factoid
+    of the Brazil Unidentified Aerial Phenomena (UAP) events so it could be searched
+    instantly and scanned for commonalities.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  date: null
+  date_end: null
+  location_in_record: ch10:4922-5072
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 90e09345-5f82-4b26-81cb-4d3f1671b536
+  claim_hash: 213afafeb07d96e6437a87d0db343b1a5ddde9d1ac97c0d4707e46a7a8b9c0e3
+  content: Robert Bigelow is a billionaire hotelier, developer, and aerospace magnate.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  date: null
+  date_end: null
+  location_in_record: ch10:767-848
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 3ef402f0-76e2-43d6-95e1-aab3e2565444
+  claim_hash: 8aa5e6482ce3a8e7cf14d8887f4bb5ac6064d7302cdbed89608a7be6888aa346
+  content: Robert Bigelow was the lead contractor on the programme that Lue Elizondo
+    joined.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  date: null
+  date_end: null
+  location_in_record: ch10:852-890
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: e05be000-f0c5-4ca7-984a-6c7624d0ebb9
+  claim_hash: bbcf7da8910ad20ca3e4ee4d55da5ab4b7b95d0e686ae440f07908a4d64b2d1a
+  content: Robert Bigelow was the contractor running the investigation at Skinwalker
+    Ranch, Utah.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+    title: USA, Utah, Skinwalker Ranch
+    slug: utah-skinwalker-ranch-usa
+  date: null
+  date_end: null
+  location_in_record: ch12:1029-1081
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 6cacba5e-41e4-476b-975d-4e613627a6c7
+  claim_hash: ebc6399acbf2c62c1e332570096f0d9f9c11187072e3820521cf0a78b40ceda2
+  content: Robert Bigelow bought the Skinwalker Ranch land in the mid-1990s so his
+    scientists could study unusual occurrences long associated with the property.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+    title: USA, Utah, Skinwalker Ranch
+    slug: utah-skinwalker-ranch-usa
+  date: null
+  date_end: null
+  location_in_record: ch12:1099-1228
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 70f2b459-68d3-4b27-b0da-bb9d78d67724
+  claim_hash: eb19c4f0f36ab5040cbdeb13e669e40d5847c1901901a23ba3560d741b4bc431
+  content: Bigelow Aerospace Advanced Space Studies (BAASS) was owned by Robert Bigelow.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    slug: llc-bigelow-aerospace-advanced-space-studies
+  date: null
+  date_end: null
+  location_in_record: ch16:12347-12455
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: c36588bd-c126-467d-ab6b-a860c625a1f5
+  claim_hash: a43e1b493f16d9b771ef40ceeff9f63d89222d3e405885f4f01618372ab587d6
+  content: Robert Bigelow owned Skinwalker Ranch at the time of the Advanced Aerospace
+    Weapons System Application Program (AAWSAP).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+    title: USA, Utah, Skinwalker Ranch
+    slug: utah-skinwalker-ranch-usa
+  date: null
+  date_end: null
+  location_in_record: ch16:12464-12514
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 8a65f78b-d019-4499-af0f-a6a81f1c4f09
+  claim_hash: a49cec634c22353e00d8cd0560bdef435c6c6f76a3900a898f7e6f99690a3b44
+  content: Robert Bigelow spent much of his own money funding some of the costs of
+    the Advanced Aerospace Weapons System Application Program (AAWSAP).
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: null
+  date_end: null
+  location_in_record: ch16:12600-12662
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: d481722a-d6fb-4768-9d9a-a3a174bea5d9
+  claim_hash: cdb766455ab5639ea9c22f2138bd30905deaaaab2120fab39842a2fdd4a5a717
+  content: William "Will" Livingston served as a medical advisor to the Advanced Aerospace
+    Weapons System Application Program (AAWSAP)/Advanced Aerospace Threat Identification
+    Program (AATIP) and Robert Bigelow's National Institute for Discovery Science
+    (NIDS).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  - node_id: bfdc8095-3798-4086-bafa-9b4709c3c2b0
+    title: William Livingston
+    slug: william-livingston
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: null
+  date_end: null
+  location_in_record: ch16:25278-25341
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: c1a5d263-d400-4ac9-96e5-9c21895fdb44
+  claim_hash: 6c6acda4ecd35c4df76a2cb05db8f4aa71f354ceee23a1778cda8b6c56061112
+  content: John F. Schuessler, one of the early Bigelow researchers, collected examples
+    of civilian biological effects from UAP encounters dating back to 1950.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 08611824-5503-4da4-9d57-7dea3183327c
+    title: John F. Schuessler
+    slug: john-f-schuessler
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  date: null
+  date_end: null
+  location_in_record: ch18:6149-6265
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 42bcc4eb-ce4c-4369-b1c1-be59ae9e4d43
+  claim_hash: d3c4fae9663ba64a07d2d357e25b5d102cdcdcd060ad314819f9e27acb157ebd
+  content: Robert Bigelow is a billionaire and Trump donor whose interest in UAP spans
+    several decades.
+  original_excerpt: billionaire and Trump donor Robert Bigelow, whose interest in
+    UAPs spans several decades
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    slug: donald-trump
+  date: null
+  date_end: null
+  location_in_record: char:3380-3461
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+    record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
+      Their Push
+    record_date: '2026-08-19'
+    record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+    content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+    friendly_name: null
+- claim_id: bc7830d4-d77f-4a44-96b1-5b00fbccd8a3
+  claim_hash: 17b054d05c1316be9237e47730f6feb78af23a9e0a11cd72d3945731a87ff573
+  content: In February 2026, Robert Bigelow advised Donald Trump on how he might address
+    the nation regarding the UAP issue.
+  original_excerpt: Two weeks ago, Bigelow said that in February he advised President
+    Trump on how he might address the nation regarding the issue.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Bigelow
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    slug: donald-trump
+  date: 2026-02
+  date_end: null
+  location_in_record: char:3470-3591
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+    record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
+      Their Push
+    record_date: '2026-08-19'
+    record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+    content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+    friendly_name: null
+- claim_id: 55444cbe-815c-46f1-bb4b-7d0ec37641f1
+  claim_hash: a998091c3baeca827f89470821f5b9f691072d21b2bd867e6fd40abc48dd1b63
+  content: Robert Bigelow emphasised that the disclosure process, starting with confirmation,
+    is a big deal, and that it is important for the President of the United States
+    to say that non-human intelligence is real and here, in order to eliminate the
+    other nonsense that has been going on for 80 years.
+  original_excerpt: “I was emphasizing that the disclosure process, starting with
+    confirmation, is a big deal. That, you know, it really is important for somebody
+    like the President of the United States to say, ‘yeah, they’re real, they’re here.
+    And eliminate all the other nonsense, all the noise that’s been going on for 80
+    years,’”
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Bigelow
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  date: null
+  date_end: null
+  location_in_record: char:3603-3908
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+    record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
+      Their Push
+    record_date: '2026-08-19'
+    record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+    content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+    friendly_name: null
+- claim_id: 71cd7853-0a05-4752-8ee0-60f1871b0d47
+  claim_hash: 21673699a7d6929d783ef86ed273e2df64b4e6acb470b440e01543ba005a6700
+  content: Robert Bigelow suggested Donald Trump say that a non-human, intelligent
+    presence has been on Earth for a very long time, using spacecraft with performances
+    completely beyond human capabilities and human physics.
+  original_excerpt: '“This, this is what I want you to say, Mr President: ‘A non-human,
+    intelligent presence has been on Earth for a very long time, using spacecraft
+    and with performances completely beyond our capabilities and our human physics.’
+    And that’s it, to say nothing else. That’s it, that’s all. Because what this is,
+    is disclosure. And it’s actually confirmation.”'
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Bigelow
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    slug: donald-trump
+  date: null
+  date_end: null
+  location_in_record: char:3988-4327
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+    record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
+      Their Push
+    record_date: '2026-08-19'
+    record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+    content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+    friendly_name: null
+- claim_id: a752c754-60cd-440e-a91f-475a8b430c39
+  claim_hash: 9004b6b1422b2dbc74b27337a39dbac11a8858dd3a83b6f03b81cc55dd5fa126
+  content: In the latest episode of his podcast with George Knapp, Robert Bigelow
+    took a more cautious stance on UAP disclosure than David Grusch, emphasising the
+    need to protect secrecy.
+  original_excerpt: in the latest episode he appeared to take a more cautious stance
+    on disclosure than Grusch, emphasising the need to protect secrecy
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    slug: george-knapp
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: char:4450-4574
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+    record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
+      Their Push
+    record_date: '2026-08-19'
+    record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+    content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+    friendly_name: null
+- claim_id: 2985f007-c32c-4316-9c36-f386e9d5d224
+  claim_hash: 55033009e05d41df5fc538b4f1218e70a683fd71000e9caa236423a94172e8e6
+  content: Robert Bigelow considers it necessary for companies allegedly involved
+    in reverse-engineering non-human technology to maintain their secrecy at all costs,
+    because the United States is in competition with China and Russia on the same
+    technology, and China and Russia do not have the same concerns about secrecy.
+  original_excerpt: “The companies need more money. They need more scientists involved,
+    but they have to maintain their secrecy at all costs because we are in competition
+    with China and Russia on the exact same thing [non-human technology], and they
+    don't have the concerns about secrecy that we do.”
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Bigelow
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  date: null
+  date_end: null
+  location_in_record: char:4758-5033
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+    record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
+      Their Push
+    record_date: '2026-08-19'
+    record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+    content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+    friendly_name: null
+- claim_id: 09042fa3-d8fd-4370-8b8e-4114443c3aec
+  claim_hash: 371c72d9559e38ba96a71dfda6f5a4fec1c4da6f3f525b40a7ca074258789511
+  content: Robert Bigelow believes UAP disclosure needs to be a truthful, step-by-step,
+    partial process, engaging the gatekeepers as one of the country's most important
+    assets, in a way that creates a new era of partnership that has not existed in
+    80 years.
+  original_excerpt: “It needs to be a process, a step-by-step, partial process delivery.
+    It needs to be truthful, and we need to engage, find ways to engage one of the
+    most important assets that this country has - it’s the gatekeepers- and do it
+    in a way that is really a great new era of partnership that has never existed
+    for 80 years.”
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Bigelow
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  date: null
+  date_end: null
+  location_in_record: char:5108-5418
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+    record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
+      Their Push
+    record_date: '2026-08-19'
+    record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+    content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+    friendly_name: null

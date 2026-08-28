@@ -1,0 +1,910 @@
+schema: anomalica/brief/1
+brief_hash: 2ccb391a25712d7fe480acb729e97971153c115e00a98e9e42abb2a375311fee
+page:
+  kind: entity
+  node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+  node_type: person
+  title: Kenneth Arnold
+  slug: kenneth-arnold
+  claim_count: 22
+  claim_count_total: 22
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 87be216c-2fde-4e95-9755-8c97df856b06
+  title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
+  node_type: event
+  slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
+  shared_claims: 8
+- node_id: dcff1e40-6e40-4bc8-b49f-85d18a6f720d
+  title: USA, Washington, Mount Rainier
+  node_type: place
+  slug: washington-mount-rainier-usa
+  shared_claims: 7
+- node_id: 7b77da52-2f83-41cc-a4d3-3fec757f76fa
+  title: 1947 Mount Rainier sighting
+  node_type: event
+  slug: 1947-mount-rainier-sighting
+  shared_claims: 6
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 2
+- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+  title: Project Blue Book
+  node_type: project
+  slug: project-blue-book
+  shared_claims: 2
+- node_id: be164183-f1cf-461d-be1d-53fc0b830a84
+  title: 1947 Roswell Unidentified Aerial Phenomena (UAP) crash
+  node_type: event
+  slug: 1947-roswell-unidentified-aerial-phenomena-uap-crash
+  shared_claims: 1
+- node_id: eda54301-3c14-4718-9989-68844a2838fd
+  title: General James Doolittle
+  node_type: person
+  slug: general-james-doolittle
+  shared_claims: 1
+- node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+  title: Major Murphy
+  node_type: person
+  slug: major-murphy
+  shared_claims: 1
+- node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+  title: Project GRUDGE
+  node_type: project
+  slug: project-grudge
+  shared_claims: 1
+- node_id: cc888145-58ee-42f5-b3c9-7a90e71ae117
+  title: Project SAUCER
+  node_type: project
+  slug: project-saucer
+  shared_claims: 1
+- node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+  title: Roswell Unidentified Flying Object (UFO) crash
+  node_type: event
+  slug: roswell-unidentified-flying-object-ufo-crash
+  shared_claims: 1
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 1
+claims:
+- claim_id: 51e6f6f3-e492-4b53-8d24-6eafbfedf4d4
+  claim_hash: dfe1c8ffcf4e13b391d42fc31ad32ab0b7494b60cdfbcc0f1f9c93e0abefe40b
+  content: It was not until 1947 that the press in the United States picked up on
+    UFO sightings, when Kenneth Arnold, a respected mountain pilot, sighted nine flat
+    shiny disks over Mount Rainier, Washington, on 1947-06-24.
+  original_excerpt: It wasn't until 1947 that the press in this country picked up
+    on them, and that's when a gentleman named Kenneth Arnold A respected mountain
+    pilot sighted nine flat shiny disks over Mount Rainier, Washington, on June 24,
+    1947.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: unattributed
+    origin: historical reports
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
+    title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
+    slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
+  - node_id: dcff1e40-6e40-4bc8-b49f-85d18a6f720d
+    title: USA, Washington, Mount Rainier
+    slug: washington-mount-rainier-usa
+  date: '1947-06-24'
+  date_end: null
+  location_in_record: 00:05:39.2-00:05:52.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 39e50285-c66b-464c-a675-c8b2d223eb78
+  claim_hash: 0bce839b4fa6e75045fbc84d1cc935b1cd7fe2c634c83db48ed6dac018a40f6f
+  content: Major Murphy said General James Doolittle's involvement in the 1946 Sweden
+    investigation meant considerable interest among the top brass, a year before the
+    Kenneth Arnold sighting and several years before the creation of Project Blue
+    Book, noting the Air Force did not even exist in 1946.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+    title: Major Murphy
+  provenance_chain:
+    origin_kind: speaker
+    origin: Major Murphy
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+    title: Major Murphy
+    slug: major-murphy
+  - node_id: eda54301-3c14-4718-9989-68844a2838fd
+    title: General James Doolittle
+    slug: general-james-doolittle
+  date: '1946'
+  date_end: null
+  location_in_record: ch11:54501-54649
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 0bb146cf-7ea7-4d36-b2d5-4774e9fa33da
+  claim_hash: b2083c8879fb8a99dd30124a1a34cd595f2bc315d40291ce88ee66e6b5847b15
+  content: Scholars of the history of the flying saucer usually date its emergence
+    to the beginning of the Cold War and Kenneth Arnold's 1947 sighting of nine flat,
+    saucerlike discs over Mount Rainier.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
+    title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
+    slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
+  - node_id: dcff1e40-6e40-4bc8-b49f-85d18a6f720d
+    title: USA, Washington, Mount Rainier
+    slug: washington-mount-rainier-usa
+  date: '1947'
+  date_end: null
+  location_in_record: char:33707-33902
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: e2c49e97-893e-4c67-9ec1-e9cf7de380af
+  claim_hash: 223d912167baa08baa0e1cc72a5f8b0dc75a99bd97185aab1cebf105e0453ef1
+  content: On 24 June 1947, businessman Kenneth Arnold had his sighting of what became
+    known in the press as 'flying saucers'.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+  provenance_chain:
+    origin_kind: named
+    origin: Kenneth Arnold
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
+    title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
+    slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
+  date: '1947-06-24'
+  date_end: null
+  location_in_record: ch7:5874-6000
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 79f7538f-d978-48c0-a237-a76adfe2786b
+  claim_hash: e2e498a67cacada57da5bad5b87a0aa684d7cd203ee93382e4eb338da3e9c620
+  content: Kenneth Arnold was a private pilot who took a plane up to search for a
+    downed US military transport aircraft in the hope of winning a $5000 reward.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+  provenance_chain:
+    origin_kind: named
+    origin: Kenneth Arnold
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
+    title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
+    slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
+  - node_id: dcff1e40-6e40-4bc8-b49f-85d18a6f720d
+    title: USA, Washington, Mount Rainier
+    slug: washington-mount-rainier-usa
+  date: '1947-06-24'
+  date_end: null
+  location_in_record: ch7:6010-6247
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: edda2fc9-6a32-4540-bde0-c62668b0ae4a
+  claim_hash: 3a8994c0816b03e2ec8c8d79cca0e56b8c51b4e0bb0ba3bd05d6bb38ea462e84
+  content: Kenneth Arnold first saw a brilliant flashing light in the distance during
+    his 1947 flight near Mount Rainier, which he was worried might be another plane.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+  provenance_chain:
+    origin_kind: named
+    origin: Kenneth Arnold
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
+    title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
+    slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
+  date: '1947-06-24'
+  date_end: null
+  location_in_record: ch7:6256-6402
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d19e940e-d680-4693-a524-c91a27f1567c
+  claim_hash: 22685f70dc261d328d2e75c830bb1e515812eac6b496093d53ce339dc01cb8a9
+  content: Kenneth Arnold noticed a series of bright flashes north of Mount Rainier
+    from a distance of 30 to 40 kilometres.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+  provenance_chain:
+    origin_kind: named
+    origin: Kenneth Arnold
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: dcff1e40-6e40-4bc8-b49f-85d18a6f720d
+    title: USA, Washington, Mount Rainier
+    slug: washington-mount-rainier-usa
+  date: '1947-06-24'
+  date_end: null
+  location_in_record: ch7:6409-6516
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b48c3f84-5b68-4615-bf63-b09da5870e95
+  claim_hash: 6edd19fc2035ec6acd37c16fc04f31d5fd3b7c9880590387abc5cf28d5e47cd2
+  content: Kenneth Arnold watched the objects fly towards Mount Rainier and pass in
+    front of its snow-covered slopes.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+  provenance_chain:
+    origin_kind: named
+    origin: Kenneth Arnold
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: dcff1e40-6e40-4bc8-b49f-85d18a6f720d
+    title: USA, Washington, Mount Rainier
+    slug: washington-mount-rainier-usa
+  date: '1947-06-24'
+  date_end: null
+  location_in_record: ch7:6525-6626
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c4d1177b-6f78-4423-b78e-8282c2c38291
+  claim_hash: 7432f508ec0ce528cb1e237cc029e0c21f77b5d9a8d602293b3a5200d1a6ad18
+  content: Kenneth Arnold described the shape of the objects he saw as convex, with
+    one object shaped differently as crescent-shaped.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+  provenance_chain:
+    origin_kind: named
+    origin: Kenneth Arnold
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  date: '1947-06-24'
+  date_end: null
+  location_in_record: ch7:6634-6709
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3e15c754-c0b8-44f2-a84e-f26fbcece129
+  claim_hash: c2a46aa2d7d5cc6ce9bb2c5a0a12abf49acb4ee4969fe04341593ef0a3536ca5
+  content: Kenneth Arnold was experienced in approximating the speed of distant objects
+    as a pilot.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  date: null
+  date_end: null
+  location_in_record: ch7:6717-6790
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 54cdc885-76f1-47ba-a1f6-983ec96ac491
+  claim_hash: 26d9e2af31a854a6885f156fa111ba60a79e5e6e6d273618cefa4e4a0e08850a
+  content: Kenneth Arnold estimated the speed of the objects as they tracked across
+    the breadth of Mount Rainier at approximately 2700 kilometres per hour.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: second_hand
+  speaker:
+    node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+  provenance_chain:
+    origin_kind: named
+    origin: Kenneth Arnold
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: dcff1e40-6e40-4bc8-b49f-85d18a6f720d
+    title: USA, Washington, Mount Rainier
+    slug: washington-mount-rainier-usa
+  date: '1947-06-24'
+  date_end: null
+  location_in_record: ch7:6717-6929
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f14cba03-5b02-422b-8b43-c1d566982d92
+  claim_hash: c4bccdd7d751aeeec4bd9241809b1c669dcea9ff55eb1d1b71c1d9c039763462
+  content: After Kenneth Arnold's 1947 UAP sighting, which occurred a couple of weeks
+    before the Roswell crashes, he and his family allegedly had balls of light appear
+    in their home.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: be164183-f1cf-461d-be1d-53fc0b830a84
+    title: 1947 Roswell Unidentified Aerial Phenomena (UAP) crash
+    slug: 1947-roswell-unidentified-aerial-phenomena-uap-crash
+  date: null
+  date_end: null
+  location_in_record: ch14:3473-3644
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 72dc9b60-6c7e-483f-9b98-9eb2e2bd59cf
+  claim_hash: bd75f010306f824c92cb6581b4cddc86d1dcc3997327ade9c1c639f6b4a1a38a
+  content: Segments of the American public have been interested in the UAP/UFO topic
+    since the term "flying saucer" emerged after Kenneth Arnold's 1947 sighting.
+  original_excerpt: Segments of the American public have been interested in this topic
+    since the term "flying saucer" emerged after Arnold's sighting in 1947
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 7b77da52-2f83-41cc-a4d3-3fec757f76fa
+    title: 1947 Mount Rainier sighting
+    slug: 1947-mount-rainier-sighting
+  date: '1947'
+  date_end: null
+  location_in_record: char:109781-109914
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 3cc5f6c4-8956-46ff-9f64-ff653bb88a94
+  claim_hash: b6c1c6271fc446ba4febe16935b9d0741acb2f8a41eb559df013e5b32436f04b
+  content: Project SAUCER investigated the account provided by private pilot Kenneth
+    Arnold.
+  original_excerpt: Project SAUCER investigated one of the first well-known accounts
+    provided by a private pilot, Kenneth Arnold.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: cc888145-58ee-42f5-b3c9-7a90e71ae117
+    title: Project SAUCER
+    slug: project-saucer
+  date: null
+  date_end: null
+  location_in_record: char:25994-26096
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: e77dc0ef-10b3-40e6-a50a-6f31acf510ce
+  claim_hash: 152eb73e69f217ef56ab02df3e3a9472ea231cf5b73ed3d35a0aeefb7451358b
+  content: Kenneth Arnold claimed that on 1947-06-23, while flying near Mount Rainier,
+    Washington, he saw nine large circular objects flying in formation that periodically
+    flipped.
+  original_excerpt: The pilot claimed that on June 23, 1947, while flying near Mount
+    Rainier, Washington, he saw nine, large circular objects flying in a formation,
+    objects that periodically flipped and were traveling at 1,700 miles per hour.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kenneth Arnold
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 7b77da52-2f83-41cc-a4d3-3fec757f76fa
+    title: 1947 Mount Rainier sighting
+    slug: 1947-mount-rainier-sighting
+  - node_id: dcff1e40-6e40-4bc8-b49f-85d18a6f720d
+    title: USA, Washington, Mount Rainier
+    slug: washington-mount-rainier-usa
+  date: '1947-06-23'
+  date_end: null
+  location_in_record: char:26104-26321
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 69d6fed5-eeda-4d5b-8e7f-45bc3939b807
+  claim_hash: 7206393252d03e1aed435cbbb791846809c3e092280df7790b6129dededa8553
+  content: Kenneth Arnold claimed the nine circular objects he observed near Mount
+    Rainier were travelling at approximately 2,700 kilometres per hour.
+  original_excerpt: objects that periodically flipped and were traveling at 1,700
+    miles per hour.
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kenneth Arnold
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 7b77da52-2f83-41cc-a4d3-3fec757f76fa
+    title: 1947 Mount Rainier sighting
+    slug: 1947-mount-rainier-sighting
+  date: '1947-06-23'
+  date_end: null
+  location_in_record: char:26249-26321
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 7878e11d-8aa7-4233-bc1c-c9c20bb791ac
+  claim_hash: e9bfcd73c4036eed4d709043fd78a7b7f1dfa7386a9f5b7ebcd6026b1eebabec
+  content: Kenneth Arnold compared the flight characteristics of the objects he observed
+    to the "tail of a Chinese kite."
+  original_excerpt: He also compared the flight characteristics as the "tail of a
+    Chinese kite."
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kenneth Arnold
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 7b77da52-2f83-41cc-a4d3-3fec757f76fa
+    title: 1947 Mount Rainier sighting
+    slug: 1947-mount-rainier-sighting
+  date: '1947-06-23'
+  date_end: null
+  location_in_record: char:26327-26397
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 5e2629b2-fee8-4ff7-81d1-d3c6c0e66645
+  claim_hash: a4c8689cb27a25e53410c3f191a02692b17832cf7b92ec16f212f8f97efc296c
+  content: Kenneth Arnold described the shape of the objects he observed as "saucer-like
+    aircraft."
+  original_excerpt: Arnold described their shape as "saucer-like aircraft."
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kenneth Arnold
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 7b77da52-2f83-41cc-a4d3-3fec757f76fa
+    title: 1947 Mount Rainier sighting
+    slug: 1947-mount-rainier-sighting
+  date: '1947-06-23'
+  date_end: null
+  location_in_record: char:26666-26711
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 37328d83-7957-4064-8003-3ef2d921bd87
+  claim_hash: 94a06ddbbbbddd1621024f55dc1877268a84588e40440d55b56e0a99df1e37e4
+  content: Kenneth Arnold's account of the 1947 Mount Rainier sighting was picked
+    up by several media outlets, and the term "flying saucer" emerged from it.
+  original_excerpt: His account was picked up by several media outlets, and the term
+    "flying saucer" emerged.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 7b77da52-2f83-41cc-a4d3-3fec757f76fa
+    title: 1947 Mount Rainier sighting
+    slug: 1947-mount-rainier-sighting
+  date: null
+  date_end: null
+  location_in_record: char:26722-26803
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: b2daf98a-8ed2-41e7-8a24-3e488b0a9ca9
+  claim_hash: 8fbfa4dbf5e3d88eb28622043b7ae041eaa8aac361fc40dfb1d6bbb1de8e013e
+  content: Chris Ramsey believes the 1947 Kenneth Arnold UFO sighting also occurred
+    in June 1947.
+  original_excerpt: I believe in June was also the sightings from none other than
+    Kenneth Arnold
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
+    title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
+    slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
+  date: null
+  date_end: null
+  location_in_record: 00:01:24.7-00:01:28.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: c9804a50-8c02-48cc-8652-d9d1bdb23fbf
+  claim_hash: b3e68a98fb20db1c694a03165f09ba0d695a1bdbccfc6c71e2771c732c34afb5
+  content: When later asked by a reporter to describe how the objects flew, Kenneth
+    Arnold said their motion was like saucers skipping over water.
+  original_excerpt: Later, when asked by a reporter to describe how they flew, Arnold
+    said their motion was like saucers skipping over water.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+  provenance_chain:
+    origin_kind: named
+    origin: Kenneth Arnold
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
+    title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
+    slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
+  date: null
+  date_end: null
+  location_in_record: 00:01:33.8-00:01:40.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 5cf33c62-1a47-4179-af3f-1dd976071aae
+  claim_hash: 2140d93eba944b666455220195ecd84d1452ce2948e0132305b9ee9a4666430d
+  content: Chris Ramsey states that the Roswell crash and the sighting by Kenneth
+    Arnold, followed by the Aztec crash, prompted government and military interest
+    in UFOs, leading to the formation of Project Grudge, which later turned into Project
+    Blue Book.
+  original_excerpt: seeing something or hearing something as alarming as a UFO crash
+    in Roswell and the sightings of Kenneth Arnold, and then subsequently the crash
+    at Aztec... They formed Project Grudge, which turned into Project Blue Book.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+    title: Roswell Unidentified Flying Object (UFO) crash
+    slug: roswell-unidentified-flying-object-ufo-crash
+  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+    title: Project GRUDGE
+    slug: project-grudge
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
+    title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
+    slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: 00:37:22.6-00:37:42.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null

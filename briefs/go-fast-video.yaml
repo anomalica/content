@@ -1,0 +1,1141 @@
+schema: anomalica/brief/1
+brief_hash: c3b6e9f67c0164d687dab2110caa40772b31ddff1f2aba1e9ed3f494cabef25d
+page:
+  kind: entity
+  node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+  node_type: document
+  title: Go-Fast Video
+  slug: go-fast-video
+  claim_count: 25
+  claim_count_total: 25
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: e57005b4-b10f-49a9-872f-61f00312b820
+  title: Gimbal video
+  node_type: document
+  slug: gimbal-video
+  shared_claims: 12
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 5
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 5
+- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+  title: United States Navy (USN)
+  node_type: organisation
+  slug: united-states-navy-usn
+  shared_claims: 5
+- node_id: 55991bcf-937b-46da-9858-2b733307190b
+  title: Tic Tac
+  node_type: object
+  slug: tic-tac
+  shared_claims: 4
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 2
+- node_id: b9bf4e86-7ab0-4cb4-b53c-8cf60140d42e
+  title: Department of Defense (DoD) Form 1910
+  node_type: document
+  slug: department-of-defense-dod-form-1910
+  shared_claims: 2
+- node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+  title: To the Stars Academy of Arts and Science (TTSA)
+  node_type: organisation
+  slug: to-the-stars-academy-of-arts-and-science-ttsa
+  shared_claims: 2
+- node_id: 27dfae91-c0b0-4a61-bf69-a941cd82eb94
+  title: '''Department of Defense (DoD) Threat Scenario'' briefing slide'
+  node_type: document
+  slug: department-of-defense-dod-threat-scenario-briefing-slide
+  shared_claims: 1
+- node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+  title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+  node_type: event
+  slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+  shared_claims: 1
+- node_id: 719c3dd3-db51-4c5d-90ef-94a932b385e2
+  title: Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod
+  node_type: object
+  slug: advanced-targeting-forward-looking-infrared-atflir-targeting-pod
+  shared_claims: 1
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 1
+- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+  title: Christopher K. Mellon
+  node_type: person
+  slug: christopher-k-mellon
+  shared_claims: 1
+- node_id: c09e3558-1732-4676-a218-d67d285d98ef
+  title: David Fravor
+  node_type: person
+  slug: david-fravor
+  shared_claims: 1
+- node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
+  title: Defense Office of Prepublication and Security Review
+  node_type: organisation
+  slug: defense-office-of-prepublication-and-security-review
+  shared_claims: 1
+- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+  title: Eric Davis
+  node_type: person
+  slug: eric-davis
+  shared_claims: 1
+- node_id: 225c66f3-5c29-4780-819c-59b78a852e50
+  title: FA-18 Super Hornet
+  node_type: object
+  slug: fa-18-super-hornet
+  shared_claims: 1
+- node_id: a7973345-5e89-4f49-b7f3-a1fdad2f8b9c
+  title: Joseph Gradisher
+  node_type: person
+  slug: joseph-gradisher
+  shared_claims: 1
+- node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+  title: National Security Agency (NSA)
+  node_type: organisation
+  slug: national-security-agency-nsa
+  shared_claims: 1
+- node_id: 91bf8fa5-d894-4840-b3a2-8955d43c11c3
+  title: OPLAN Interloper
+  node_type: matter
+  slug: oplan-interloper
+  shared_claims: 1
+- node_id: 0c371d78-e3a5-4aa2-940c-141c5daf9b27
+  title: Piper Cub
+  node_type: object
+  slug: piper-cub
+  shared_claims: 1
+- node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+  title: The New York Times
+  node_type: organisation
+  slug: the-new-york-times
+  shared_claims: 1
+- node_id: d3255a2f-a651-4e85-b4b6-d5507cc85588
+  title: USA, Washington, Whidbey Island
+  node_type: place
+  slug: washington-whidbey-island-usa
+  shared_claims: 1
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 1
+- node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
+  title: Washington Post
+  node_type: organisation
+  slug: washington-post
+  shared_claims: 1
+claims:
+- claim_id: f815a724-ee3f-4953-9002-b60344a25361
+  claim_hash: 718689431570c0bac2f54b3e4cd877a40a6bab210accfe7adcbdd043e06b3bc2
+  content: David Fravor personally knows the pilot who filmed both the Go Fast video
+    and the Gimbal video.
+  original_excerpt: No, because what Mick West doesn't see is so when they take, because
+    I've talked to the one of them actually I work with, so I know him, I know I talk
+    to him all the time.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+    title: Gimbal video
+    slug: gimbal-video
+  date: null
+  date_end: null
+  location_in_record: 02:44:31.0-02:44:39.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: b2e659c8-6e64-441a-9772-b459f70d6dea
+  claim_hash: 2f5aa7ee88f8483c8b186a44d02f5088706d7c68e6219073861e7e5fb6ebf0dd
+  content: The Go Fast video and the Gimbal video were shot by the same person.
+  original_excerpt: The go fast and the gimbal were shot by the same person, okay?
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+    title: Gimbal video
+    slug: gimbal-video
+  date: null
+  date_end: null
+  location_in_record: 02:44:47.9-02:44:50.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: 82e0ea9f-a24a-40d2-bdb8-79dec45ee3ad
+  claim_hash: e296ee1596e043094d1f3aea0ad98567b0e631c30b08a639ecd63bec20404b91
+  content: At least 60 people saw the unidentified objects associated with the Gimbal
+    and Go Fast videos on radar off the coast near Whidbey Island.
+  original_excerpt: there's at least 60 people that have seen these things on radar
+    off the vacates
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: d3255a2f-a651-4e85-b4b6-d5507cc85588
+    title: USA, Washington, Whidbey Island
+    slug: washington-whidbey-island-usa
+  - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+    title: Gimbal video
+    slug: gimbal-video
+  date: null
+  date_end: null
+  location_in_record: 02:46:24.1-02:46:28.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: 61cec41b-6906-4711-a6ce-53abbf531d90
+  claim_hash: 51aa00b31cf79230c57264e3aa3606d6b404b0080b1441bf64ae255e59040753
+  content: In March 2018, To The Stars Academy of Arts & Sciences posted another Department
+    of Defense video on its website, which it dubbed the Go-Fast video.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  date: 2018-03
+  date_end: null
+  location_in_record: ch21:22207-22331
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 48d64dd6-142b-462c-9acb-e2cbecd586fb
+  claim_hash: 9ba3007cf63b9a51ea2977c9588677e5be3e3b223b0d0282968911a38a7ce6b8
+  content: The Go-Fast video lacked details on when, where, or by whom it was shot,
+    other than that it was captured by a US Navy FA-18 fighter using the jet's advanced
+    targeting forward-looking infrared (ATFLIR) pod.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
+    title: FA-18 Super Hornet
+    slug: fa-18-super-hornet
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 719c3dd3-db51-4c5d-90ef-94a932b385e2
+    title: Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod
+    slug: advanced-targeting-forward-looking-infrared-atflir-targeting-pod
+  date: null
+  date_end: null
+  location_in_record: ch21:22340-22541
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 8aceab60-9840-4851-b2b9-e3256e29d659
+  claim_hash: bfaa0f317b2742a31c21cc5a2ab642247449a93a05c4120684f2d8f7d9ca326c
+  content: On the 34-second Go-Fast video, the UAP appears as a white oval shape moving
+    at apparent high speed from top right to lower left of the screen, flying very
+    low over the water.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  date: null
+  date_end: null
+  location_in_record: ch21:22546-22707
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 29b66f15-401d-48de-881e-87dde02daabb
+  claim_hash: b5aba25ae577ef884087d40d3a4831509323f971149341a148ef88026f9c64e8
+  content: The claimed high speed of the object in the Go-Fast video is disputed by
+    some.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  date: null
+  date_end: null
+  location_in_record: ch21:22714-22761
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c5997056-f7c7-4ca4-9925-58bdfab1e508
+  claim_hash: 9777e5df9c56d6520ffafcdf2c5e03453a3cced15e9c9b287083230580af235a
+  content: Christopher Mellon's Washington Post story revealed that the Go-Fast video
+    was filmed off the east coast of the United States sometime in late 2014 or early
+    2015.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+  provenance_chain:
+    origin_kind: speaker
+    origin: Christopher Mellon
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
+    title: Washington Post
+    slug: washington-post
+  date: null
+  date_end: null
+  location_in_record: ch21:23042-23182
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 4a20ff99-3e29-469e-b19b-05773e1ebf53
+  claim_hash: 643f2794c6b9251fcf502d5e5c59c5d84b129d3667f2606c6288385a15e3baa5
+  content: Joseph Gradisher said the US Navy has not publicly released characterisations
+    or descriptions, nor released any hypothesis or conclusions, regarding the objects
+    contained in the Tic Tac, Go-Fast and Gimbal videos.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: a7973345-5e89-4f49-b7f3-a1fdad2f8b9c
+    title: Joseph Gradisher
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph Gradisher
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: a7973345-5e89-4f49-b7f3-a1fdad2f8b9c
+    title: Joseph Gradisher
+    slug: joseph-gradisher
+  - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+    title: Gimbal video
+    slug: gimbal-video
+  date: null
+  date_end: null
+  location_in_record: ch22:10667-10834
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 522adbe2-3516-4be1-be29-64c20947bf85
+  claim_hash: 8e9c9d1092a7d4780598f36c48b5d4d058b6fc5425ca8b2b81e1770174b31e1a
+  content: There is no publicly documented evidence proving the alleged advanced capabilities
+    described in the Department of Defense briefing slide, aside from what has been
+    revealed from the data of the Tic Tac, Gimbal and Go-Fast encounters.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 27dfae91-c0b0-4a61-bf69-a941cd82eb94
+    title: '''Department of Defense (DoD) Threat Scenario'' briefing slide'
+    slug: department-of-defense-dod-threat-scenario-briefing-slide
+  - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+    title: Gimbal video
+    slug: gimbal-video
+  date: null
+  date_end: null
+  location_in_record: ch25:21027-21273
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 2c52c9e5-eba0-4486-a38a-7d556fa96cf9
+  claim_hash: ff62162e1d817b82095ce659a37d4bc3bb94d9555bb3bfcca430c16a394d240b
+  content: The United States Navy has admitted it cannot prosaically explain the Tic
+    Tac craft (2004 Nimitz encounter), Gimbal video, or Go-Fast video footage taken
+    by its carrier battlegroup fighter pilots.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: United States Navy
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+    title: Gimbal video
+    slug: gimbal-video
+  date: null
+  date_end: null
+  location_in_record: ch27:25269-25434
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e1e39783-195d-4cd0-b5a4-1d2b454f8ab8
+  claim_hash: 181e15574dc593523f8708396b4060e25e7d882e406d33ccb1f370a6c9b7f8af
+  content: Whatever is propelling the Tic Tac craft, the Go-Fast object and the Gimbal
+    object filmed by US Navy pilots is, in Eric Davis's assessment, off-world vehicles
+    not made on Earth.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+  provenance_chain:
+    origin_kind: speaker
+    origin: Eric Davis
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+    title: Gimbal video
+    slug: gimbal-video
+  date: null
+  date_end: null
+  location_in_record: ch28:27597-27744
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 13ee9e90-df30-497b-8469-8adb4c8495f1
+  claim_hash: eba956f7aef32f1c57fb9f6cd7607d33805821b053b3aec6e6ea9310d42d966c
+  content: The US Department of Defense released the Go-Fast video, dated 2015, via
+    the To The Stars Academy vault website on 2018-03-09.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: United States Department of Defense
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  date: '2018-03-09'
+  date_end: null
+  location_in_record: ch34:44511-44598
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 0f804d6a-5986-4480-ab0b-8f79784e54a8
+  claim_hash: f5b16d795ad1f5704654833aaf4cedd5d7b3ced195fefdffd41b70dff44e19b5
+  content: The culture of denial around UFOs changed with the leaking of infrared
+    footage captured on board sophisticated United States fighter jets and Navy ships,
+    released by the Department of Defense in 2017.
+  original_excerpt: Much of that culture of denial changed with the leaking of these
+    tapes from the Department of Defense, or DOD, in 2017. infrared images captured
+    from on board the United States' most sophisticated fighter jets and Navy ships.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  date: '2017'
+  date_end: null
+  location_in_record: 00:06:16.7-00:06:42.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+- claim_id: bbe4780a-5c87-4ffb-a8fd-2103976ab254
+  claim_hash: 00eef9b1a3f2bd19053168b93a311d9fd53128705de4ce2535586db1645207c2
+  content: In December 2017, The New York Times revealed the existence of a Pentagon
+    unit secretly investigating UFOs, with accompanying videos.
+  original_excerpt: Then in December 2017, everything changed. One of the world's
+    greatest newspapers, the New York Times, revealed the existence of a Pentagon
+    unit secretly investigating UFOs. And even more extraordinary, it had the videos
+    to prove it.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: The New York Times
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: 2017-12
+  date_end: null
+  location_in_record: 00:12:11.8-00:12:31.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+- claim_id: c3e7cd8b-af47-4838-a873-1df8801428aa
+  claim_hash: 29c03989577c016243e9bf5952dd24975788ebfad5d164f5bdc8ea4c755998d3
+  content: The object filmed in the video that would later become known as the GoFast
+    video resembled a Tic Tac shape, being rounded, smooth, and egg-shaped, but was
+    no more than about 5.5 metres long, compared to the more than 12-metre length
+    of the object in the 2004 Tic Tac video.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 55991bcf-937b-46da-9858-2b733307190b
+    title: Tic Tac
+    slug: tic-tac
+  date: null
+  date_end: null
+  location_in_record: ch23:15316-15634
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: db5ff328-93d4-494c-921d-d667a5f3a390
+  claim_hash: 00a74ddd28e373b24fc6d38baea4b1c8d428d94169ace0fbb88a3f8105365ad7
+  content: The object in the GoFast video was smaller than a Piper Cub aircraft.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0c371d78-e3a5-4aa2-940c-141c5daf9b27
+    title: Piper Cub
+    slug: piper-cub
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  date: null
+  date_end: null
+  location_in_record: ch23:15640-15724
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 5d837143-fde8-4299-b351-eab52e068c66
+  claim_hash: a6c42d48b32e9bdd122565d6609c79054484e3dc57e8c854a79b3c6206a4b4f4
+  content: In the GoFast video, the object showed no plume of exhaust, no wings, and
+    no propellers.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  date: null
+  date_end: null
+  location_in_record: ch23:16209-16320
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: d17f67a7-775b-4aa4-9a44-174be1d4800c
+  claim_hash: d63c290fee507aa3254ae080811df05214ec8a3dbdeae7bd7a2890a6c2ff9dfd
+  content: At the time the GoFast video was recorded, no one in the Department of
+    Defense or the intelligence community could explain the object.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  date: null
+  date_end: null
+  location_in_record: ch23:16390-16441
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 9a95144e-31ac-42ff-be9a-abcd3c35a3f0
+  claim_hash: d5b5d51bf0adf9f20c55af062a0eda80df8636efcca222fb1cef3d747a89a370
+  content: After several years of analysis, some later researchers claimed that the
+    object in the GoFast video was travelling much slower than previously thought,
+    attributing the apparent speed to a parallax effect, though Lue Elizondo disagrees
+    with this assessment because the pilots who witnessed the object marvelled at
+    its speed.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  date: null
+  date_end: null
+  location_in_record: ch23:16445-16721
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 08f8fe74-707e-4b53-9f6c-b17dbbed5249
+  claim_hash: 9927b05f95b0c773140341cb405e7031b7a490aeead30fda4ef0fc83fdd0894d
+  content: Luis Elizondo and his colleagues planned to use both the GoFast video and
+    the GIMBAL video to reinforce Operation Plan Interloper.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 91bf8fa5-d894-4840-b3a2-8955d43c11c3
+    title: OPLAN Interloper
+    slug: oplan-interloper
+  - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+    title: Gimbal video
+    slug: gimbal-video
+  date: null
+  date_end: null
+  location_in_record: ch23:19980-20043
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
+  claim_hash: 63d78bc4e3f56ad41a54e57b7d315afb4339f27ef0afd5d61cbd139ab5de331f
+  content: A few months after sharing the Predator video with Neill Tipton, Luis Elizondo
+    attended a meeting with high-level United States Navy officials, Central Intelligence
+    Agency (CIA) representatives, and a National Security Agency (NSA) representative
+    where the GoFast and GIMBAL videos were shown.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+    title: National Security Agency (NSA)
+    slug: national-security-agency-nsa
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+    title: Gimbal video
+    slug: gimbal-video
+  date: null
+  date_end: null
+  location_in_record: ch23:21631-21748
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 4e101289-de3e-48f8-9726-5a59a348ea41
+  claim_hash: 1af1112ff77216fd465b45763ee5a7ff1f5bf23cee8cc8d8d1c0ac188914aed8
+  content: Lue Elizondo selected the GoFast video, the GIMBAL video, and the FLIR1
+    video (also known as the 2004 Tic Tac video) as the three UAP videos he chose
+    to submit for declassification, because their low resolution would hasten the
+    approval process.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 55991bcf-937b-46da-9858-2b733307190b
+    title: Tic Tac
+    slug: tic-tac
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+    title: Gimbal video
+    slug: gimbal-video
+  date: '2004'
+  date_end: null
+  location_in_record: ch27:3984-4161
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 2223045f-db27-4a88-9e13-8e82859a59b3
+  claim_hash: ec99b0bcf7d12fc4c25f5ee027a23bb72721d370a1d50b8ca5b5b909fa764f46
+  content: Lue Elizondo described the GoFast video, the GIMBAL video, and the FLIR1
+    (Tic Tac) video on a single DoD Form 1910, the form the United States Department
+    of Defense (DoD) uses to request declassification of documents and multimedia
+    content.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 55991bcf-937b-46da-9858-2b733307190b
+    title: Tic Tac
+    slug: tic-tac
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: b9bf4e86-7ab0-4cb4-b53c-8cf60140d42e
+    title: Department of Defense (DoD) Form 1910
+    slug: department-of-defense-dod-form-1910
+  - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+    title: Gimbal video
+    slug: gimbal-video
+  date: null
+  date_end: null
+  location_in_record: ch27:4167-4309
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 142a480a-00e6-4c47-aa96-3b2ab61df55c
+  claim_hash: 6afc7636702f0015e2a765fa72a3ee2f1f9686bbd9662f7ef7ae5c01f2886997
+  content: The Department of Defense Office of Prepublication and Security Review
+    (DoDOPSR) officially stamped Lue Elizondo's DoD Form 1910 with the words "UNLIMITED
+    DISTRIBUTION", approving unrestricted public release of the GoFast, GIMBAL, and
+    FLIR1 (Tic Tac) videos.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
+    title: Defense Office of Prepublication and Security Review
+    slug: defense-office-of-prepublication-and-security-review
+  - node_id: 55991bcf-937b-46da-9858-2b733307190b
+    title: Tic Tac
+    slug: tic-tac
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: b9bf4e86-7ab0-4cb4-b53c-8cf60140d42e
+    title: Department of Defense (DoD) Form 1910
+    slug: department-of-defense-dod-form-1910
+  - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+    title: Gimbal video
+    slug: gimbal-video
+  date: null
+  date_end: null
+  location_in_record: ch27:5617-5748
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted

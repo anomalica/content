@@ -1,0 +1,4459 @@
+schema: anomalica/brief/1
+brief_hash: b563561339778a1cde67e36107f564bb620d5a14d664193cfa279c1202ee0da7
+page:
+  kind: entity
+  node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+  node_type: person
+  title: Mike Bara
+  slug: mike-bara
+  claim_count: 109
+  claim_count_total: 109
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 30
+- node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+  title: Cydonia
+  node_type: place
+  slug: cydonia
+  shared_claims: 10
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 7
+- node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+  title: Philip Christensen
+  node_type: person
+  slug: philip-christensen
+  shared_claims: 6
+- node_id: be28c01d-c0b8-4d92-8f1e-058f911b267e
+  title: Ritual Alignment Model
+  node_type: topic
+  slug: ritual-alignment-model
+  shared_claims: 6
+- node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+  title: Mark C. Carlotto
+  node_type: person
+  slug: mark-c-carlotto
+  shared_claims: 5
+- node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+  title: Michael Malin
+  node_type: person
+  slug: michael-malin
+  shared_claims: 5
+- node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+  title: Thermal Emission Imaging System (THEMIS)
+  node_type: object
+  slug: thermal-emission-imaging-system-themis
+  shared_claims: 4
+- node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+  title: Arizona State University
+  node_type: organisation
+  slug: arizona-state-university
+  shared_claims: 3
+- node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+  title: Boeing
+  node_type: organisation
+  slug: boeing
+  shared_claims: 3
+- node_id: ee3c15dd-b4a8-43f4-a5c2-3f0e06e4f62d
+  title: Cleomedes F (crater)
+  node_type: place
+  slug: cleomedes-f-crater
+  shared_claims: 3
+- node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+  title: Keith Laney
+  node_type: person
+  slug: keith-laney
+  shared_claims: 3
+- node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
+  title: Noel Gorelick
+  node_type: person
+  slug: noel-gorelick
+  shared_claims: 3
+- node_id: c3e3c2ff-9fe2-480c-b893-34de079680a7
+  title: Sixth International Mars Conference, Pasadena, 2003-07-23
+  node_type: event
+  slug: pasadena-2003-07-23-sixth-international-mars-conference
+  shared_claims: 3
+- node_id: b59eb3a1-02fe-4e39-9158-3c58f7e401c2
+  title: AS10-30-4421 (Apollo 10 photograph)
+  node_type: document
+  slug: as10-30-4421-apollo-10-photograph
+  shared_claims: 2
+- node_id: cc81c235-c101-46bc-9b60-0d618973886f
+  title: Dark Mission (ebook)
+  node_type: document
+  slug: dark-mission-ebook
+  shared_claims: 2
+- node_id: 76dfcb4d-a8dc-4313-a443-39b5e05053dc
+  title: Mars Orbiter Camera (MOC) image SP2-33806
+  node_type: document
+  slug: mars-orbiter-camera-moc-image-sp2-33806
+  shared_claims: 2
+- node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
+  title: Mars Pathfinder
+  node_type: object
+  slug: mars-pathfinder
+  shared_claims: 2
+- node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+  title: NASA Jet Propulsion Laboratory (JPL)
+  node_type: organisation
+  slug: nasa-jet-propulsion-laboratory-jpl
+  shared_claims: 2
+- node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+  title: Paul Hudson
+  node_type: person
+  slug: paul-hudson
+  shared_claims: 2
+- node_id: 2e6a2e75-339a-4cb2-84b1-bde1cfc80689
+  title: '"the turkey" (Shorty Crater debris)'
+  node_type: object
+  slug: the-turkey-shorty-crater-debris
+  shared_claims: 1
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 1
+- node_id: 9cf922ea-4083-47ac-ae1a-51db2f6cc0a7
+  title: Arden Albee
+  node_type: person
+  slug: arden-albee
+  shared_claims: 1
+- node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+  title: Church of Scientology
+  node_type: organisation
+  slug: church-of-scientology
+  shared_claims: 1
+- node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+  title: Crew Exploration Vehicle (CEV)
+  node_type: object
+  slug: crew-exploration-vehicle-cev
+  shared_claims: 1
+- node_id: 7dc119c0-68c6-4680-aadd-f25215a7d9a8
+  title: Cydonia Complex
+  node_type: place
+  slug: cydonia-complex
+  shared_claims: 1
+- node_id: 3c5e01a8-8976-4a0c-a210-6059c4d68da2
+  title: Cydonia Geometric Relationship Model
+  node_type: topic
+  slug: cydonia-geometric-relationship-model
+  shared_claims: 1
+- node_id: 4b287c34-4bb7-4bad-b3a3-7c5aaa2e21a8
+  title: D&M Pyramid
+  node_type: place
+  slug: dm-pyramid
+  shared_claims: 1
+- node_id: 3c32077c-6863-4574-8a76-b2a12b7d9214
+  title: David Pieri
+  node_type: person
+  slug: david-pieri
+  shared_claims: 1
+- node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
+  title: Eagle (Apollo 11 Lunar Module)
+  node_type: object
+  slug: eagle-apollo-11-lunar-module
+  shared_claims: 1
+claims:
+- claim_id: a73d12e0-57b8-40f2-bc0e-db164a6f707c
+  claim_hash: 85103869f86c9d79cc676d713fd27b1f3e0b555718f4c050c496eb90a44fd0c9
+  content: Richard C. Hoagland and Mike Bara consider Sergei Khrushchev to have a
+    unique perspective and credibility as a first-hand witness to this virtually unknown
+    but documented twist in space history.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+    title: Sergei Khrushchev
+    slug: sergei-khrushchev
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch10:73755-73964
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 25801136-c5a8-4718-a94d-d846d029fc93
+  claim_hash: 03d528adc346b212f926578d2d26101b101bc0723248f6a1f845d203f40051c5
+  content: A grayscale version of a false-colour enhancement of the Cleomedes F and
+    Cleomedes F-a 'domes' shows two distinct edges of the major foreground dome, with
+    a steeper-angled background dome visible through it.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: named
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: ee3c15dd-b4a8-43f4-a5c2-3f0e06e4f62d
+    title: Cleomedes F (crater)
+    slug: cleomedes-f-crater
+  date: null
+  date_end: null
+  location_in_record: ch11:165196-165408
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 95312b39-622c-45a2-ba7c-cc3c7ec6be23
+  claim_hash: 0f4933bf3f7308f07f2a5fe0af9812e7cd3723f078de98dae8a7a1da2892adac
+  content: Mike Bara noticed that the image map for AS10-30-4421 showed Mare Crisium
+    craters Cleomedes F and Cleomedes F-a placed just outside the right edge of the
+    photo footprint.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: named
+    origin: Mike Bara
+    relay:
+    - Richard C. Hoagland
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: b59eb3a1-02fe-4e39-9158-3c58f7e401c2
+    title: AS10-30-4421 (Apollo 10 photograph)
+    slug: as10-30-4421-apollo-10-photograph
+  - node_id: e008aef7-b18d-4042-9186-7821d48c7f15
+    title: Mare Crisium
+    slug: mare-crisium
+  - node_id: ee3c15dd-b4a8-43f4-a5c2-3f0e06e4f62d
+    title: Cleomedes F (crater)
+    slug: cleomedes-f-crater
+  date: null
+  date_end: null
+  location_in_record: ch11:90557-90757
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: b20542e8-9841-4ab3-9086-c1537559cf15
+  claim_hash: 4eec00bb4f3760dabd48d1e04bae6627c0f99d919026c036aba360fafeb7d77d
+  content: Mike Bara concluded that the larger crater Cleomedes F would have been
+    in front of the smaller crater Cleomedes F-a from the camera's perspective, connecting
+    them to the two translucent domes seen in Steve Troy's image.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: named
+    origin: Mike Bara
+    relay:
+    - Richard C. Hoagland
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: 78fa60ab-5317-4b20-8b60-b63e4c02db8a
+    title: Steve Troy
+    slug: steve-troy
+  - node_id: ee3c15dd-b4a8-43f4-a5c2-3f0e06e4f62d
+    title: Cleomedes F (crater)
+    slug: cleomedes-f-crater
+  date: null
+  date_end: null
+  location_in_record: ch11:90769-90973
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a61edc1b-a9bc-4161-b423-cf0b03605621
+  claim_hash: 2e48dd7b1d8975dcff8a35a28c5752d5f3d7056b2214f61abd2dc33e96b7241b
+  content: Mike Bara concluded that the official National Aeronautics and Space Administration
+    (NASA) footprint map for photograph AS10-30-4421 was not accurate.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: named
+    origin: Mike Bara
+    relay:
+    - Richard C. Hoagland
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: b59eb3a1-02fe-4e39-9158-3c58f7e401c2
+    title: AS10-30-4421 (Apollo 10 photograph)
+    slug: as10-30-4421-apollo-10-photograph
+  date: null
+  date_end: null
+  location_in_record: ch11:91090-91168
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: bd532960-9399-48e0-aec7-d9eab093390f
+  claim_hash: 18e977344a873e04b38eac64bbbc57c2cfde17a2b26f4054ccb679c01e74d201
+  content: Richard C. Hoagland and Mike Bara concluded that the Mars Pathfinder landing
+    site presented an enigma at least as important and potentially as rich in artifacts
+    as Cydonia.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland and Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    slug: cydonia
+  - node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
+    title: Mars Pathfinder
+    slug: mars-pathfinder
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch12:153463-153624
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: af740217-2547-4ce7-bb1c-aee506c86fa1
+  claim_hash: 8c5d8833a5512148a230da51c8760a8a2d07c1fe376e5c53eaf66864e42a8978
+  content: Richard C. Hoagland and Mike Bara consider the Mars Pathfinder landing
+    site evidence that NASA was closely following Hoagland's earlier work on geometric
+    relationships at Cydonia.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland and Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: be28c01d-c0b8-4d92-8f1e-058f911b267e
+    title: Ritual Alignment Model
+    slug: ritual-alignment-model
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    slug: cydonia
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch12:153919-154146
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 6510980b-9027-469a-aa51-9bf2fa7ec9c5
+  claim_hash: b99bdf9f3300869bd41376ed53a53525060f7ec8af24e677aa40af04c9522522
+  content: Richard C. Hoagland and Mike Bara decided that a mission's ritual alignment
+    would count as a hit if a planet such as Mars was positioned at 19.5 degrees above
+    the launch site at launch, following the Mars Pathfinder precedent.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland and Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: be28c01d-c0b8-4d92-8f1e-058f911b267e
+    title: Ritual Alignment Model
+    slug: ritual-alignment-model
+  - node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
+    title: Mars Pathfinder
+    slug: mars-pathfinder
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch12:159476-159734
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 5dbc5bbd-1a80-46a5-8a51-5c40ca48ba7d
+  claim_hash: 4fd37937e41b19086ef72630c7bd7fc5f066d3b75d7a8ab6247e9f0e3de90918
+  content: Richard C. Hoagland and Mike Bara decided that an alignment of the Moon
+    in a ritual position over a launch site would not count as a hit unless the mission
+    itself was to the Moon.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland and Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: be28c01d-c0b8-4d92-8f1e-058f911b267e
+    title: Ritual Alignment Model
+    slug: ritual-alignment-model
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch12:159847-159970
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: af41b713-0d73-4adc-971b-43a8435983e2
+  claim_hash: fe4c8821520d8338e3a7546d9c1c2bb0de38010bb61d400b1f477aa9119801c6
+  content: The tetrahedral-shaped Mars Pathfinder spacecraft landed at 19.5 degrees
+    latitude on Mars, the inscribed tetrahedral latitude, with Earth positioned at
+    19.5 degrees above the eastern Martian horizon.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: named
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
+    title: Mars Pathfinder
+    slug: mars-pathfinder
+  date: null
+  date_end: null
+  location_in_record: ch12:172786-172967
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 4f4f142b-6d2b-45cd-bebe-446acf802ba7
+  claim_hash: bcf15c76efd9d6227b9fde9bc2c553d5ed5025c23b7b1db354198c7ae770fbc3
+  content: Richard C. Hoagland and Mike Bara monitored the main JPL website and its
+    primary mirror site respectively, and at exactly 6:55 p.m. Pacific Daylight Time
+    on 1998-04-14, as predicted, the new Cydonia image link appeared on the JPL main
+    web page.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    slug: cydonia
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: '1998-04-14'
+  date_end: null
+  location_in_record: ch13:37641-37956
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 9fbc166f-5881-4966-b344-d53607bb9b67
+  claim_hash: fec65284a1f9e3a7319ef929ed2bf2d9e19ded913ebc5e58aebd889d71f9cd41
+  content: Richard C. Hoagland and Mike Bara consider it their position that the stellar
+    alignments over the Jet Propulsion Laboratory (JPL) imply a deliberate, ritual
+    "tetrahedral" act by Michael Malin or JPL, either to destroy Mars Climate Orbiter
+    or to take it "black" for their own purposes.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland and Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+    title: Michael Malin
+    slug: michael-malin
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: 91311fa3-e6c9-410e-bb50-6d7c8ac45c51
+    title: Mars Climate Orbiter (MCO)
+    slug: mars-climate-orbiter-mco
+  - node_id: be28c01d-c0b8-4d92-8f1e-058f911b267e
+    title: Ritual Alignment Model
+    slug: ritual-alignment-model
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch14:15578-15747
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 3b5ca34a-649d-4837-a7c9-13401cc74bb6
+  claim_hash: 6179af76a6c5e11ecd0908ed18382935751904204f2acc2c294e593e2f9582a4
+  content: Richard C. Hoagland and Mike Bara consider Michael Malin's 2000-04 image
+    release cynically designed to curry favour with congressional critics and reinforce
+    the idea that the National Aeronautics and Space Administration (NASA) was open
+    and honest.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+    title: Michael Malin
+    slug: michael-malin
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch14:26566-26709
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 8f7a8689-a0e1-46d0-8efd-747c16e94675
+  claim_hash: 3238f0a66c50165117fb69071b7abff849921cc7163b3f98e1876e03d62e6a8c
+  content: Richard C. Hoagland and Mike Bara found that Michael Malin had been privately
+    imaging Cydonia extensively despite there being virtually no public pressure for
+    him to do so.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+    title: Michael Malin
+    slug: michael-malin
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    slug: cydonia
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch14:28428-28595
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: b8a94d04-668e-4de6-ab3c-7c01c62eec5e
+  claim_hash: 24d356349494e15b83efd058b4ace19bc8307fa857160f3fc2f80c31d1e87d79
+  content: Richard C. Hoagland and Mike Bara consider the newly revealed structure
+    of the Tholus at Cydonia to reinforce their previous Cydonia Geometric Relationship
+    Model, with one edge pointed due north through the Cliff at Cydonia and another
+    aligned with the D&M Pyramid apex.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3c5e01a8-8976-4a0c-a210-6059c4d68da2
+    title: Cydonia Geometric Relationship Model
+    slug: cydonia-geometric-relationship-model
+  - node_id: 4b287c34-4bb7-4bad-b3a3-7c5aaa2e21a8
+    title: D&M Pyramid
+    slug: dm-pyramid
+  - node_id: 5e73bc97-783b-4a94-a56f-885d1c9f8bac
+    title: The Tholus (Cydonia)
+    slug: the-tholus-cydonia
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: 7dc119c0-68c6-4680-aadd-f25215a7d9a8
+    title: Cydonia Complex
+    slug: cydonia-complex
+  - node_id: cebb3847-2c0f-4a3d-9d58-b58c41653a6c
+    title: The Cliff (Cydonia)
+    slug: the-cliff-cydonia
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch14:31740-31984
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 282e459b-5018-4979-9c93-32a5a3f3cd9b
+  claim_hash: 38bb96db62932908a55eb16f4790d8190b5666fc07c9cb374073d72ec2c64836
+  content: Richard C. Hoagland and Mike Bara state that David Pieri's counterclaims
+    that the glass tube images were altered were quickly disproven.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3c32077c-6863-4574-8a76-b2a12b7d9214
+    title: David Pieri
+    slug: david-pieri
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch14:38513-38557
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 19851d97-9784-40bc-aab4-b1aa53dc9969
+  claim_hash: 427081b84dc8e14d33f42bb1b636c54607d6ad53376a79c8da92c5611be45ebc
+  content: Richard C. Hoagland and Mike Bara were told that their Mars Tidal Model
+    would not be allowed to be presented at established Mars conferences because of
+    their work on Cydonia.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    slug: cydonia
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  - node_id: e441ec39-279d-45ba-a607-759d5ec180bf
+    title: Mars Tidal Model
+    slug: mars-tidal-model
+  date: null
+  date_end: null
+  location_in_record: ch16:11357-11468
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: e722d6a2-2e1e-42eb-a3b3-ced26b9fed23
+  claim_hash: c3d3607a36ead15ec40998c90de4889d035908db866443bb658e42ee284923c1
+  content: Richard C. Hoagland and Mike Bara used the terms 'Owls' and 'Roosters',
+    drawn from intelligence-community usage, to describe groups advocating suppression
+    versus revelation of Cydonia-related issues.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4e5abbb4-b3b6-4d00-9f9c-5357e4d0587e
+    title: Owls and Roosters (intelligence-community terminology)
+    slug: owls-and-roosters-intelligence-community-terminology
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch16:13954-14163
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 7e8488ca-565e-40ad-9525-745ca1f7546d
+  claim_hash: a68e2794979b0d98cb8679e48f74716ddbedfc954563ebedafdfa45070bbabbf
+  content: Jim Garvin encouraged Richard C. Hoagland and Mike Bara to submit papers
+    to Mars conferences and publications, promising that they would get a fair hearing.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: db3c19ff-53e8-4a30-8a55-a32e0ecde90e
+    title: Jim Garvin
+  provenance_chain:
+    origin_kind: named
+    origin: Jim Garvin
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: db3c19ff-53e8-4a30-8a55-a32e0ecde90e
+    title: Jim Garvin
+    slug: jim-garvin
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch16:16579-16705
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 88be8994-cc51-4909-8850-fb3886ad5be7
+  claim_hash: 43e3ef14031ffbc712fa8dc837197b5fb74f1d2d7921bbab2ea26ac1d89f70ac
+  content: Richard C. Hoagland and Mike Bara believed that the infrared capability
+    of the Thermal Emission Imaging System (THEMIS) might allow them to see below
+    the surface of Cydonia using ground-penetrating near-infrared wavelengths.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+    title: Thermal Emission Imaging System (THEMIS)
+    slug: thermal-emission-imaging-system-themis
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    slug: cydonia
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch16:2076-2246
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 98103133-90e4-4aab-a88e-0151116cf0bf
+  claim_hash: 6302e383366ab1f571c6ffe15df82281bed683a40cb0c560a78d925f19bf5015
+  content: Mike Bara considered MOC image SP2-33806 to show liquid water based on
+    its visual resemblance to a hose trickling water on a dry, dusty slope.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: 76dfcb4d-a8dc-4313-a443-39b5e05053dc
+    title: Mars Orbiter Camera (MOC) image SP2-33806
+    slug: mars-orbiter-camera-moc-image-sp2-33806
+  date: null
+  date_end: null
+  location_in_record: ch16:4166-4299
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2178be07-c22b-4b25-97d3-1c04ffc525c9
+  claim_hash: 0024a4cc909e1b9ff70f01f32e25d4fa2f515e97dfd8d008c47fe85fdac54800
+  content: Richard C. Hoagland and Mike Bara considered the freshness and darkness
+    of the water in MOC image SP2-33806 to indicate the flow had happened only hours
+    or moments before Mars Global Surveyor captured the image.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 52586266-6207-48bf-ad74-ca679326b5a9
+    title: Mars Global Surveyor
+    slug: mars-global-surveyor
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: 76dfcb4d-a8dc-4313-a443-39b5e05053dc
+    title: Mars Orbiter Camera (MOC) image SP2-33806
+    slug: mars-orbiter-camera-moc-image-sp2-33806
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch16:5334-5451
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: e3b56df5-1bba-48c6-abaa-1c92eee17068
+  claim_hash: dead0246890f599564493641ca6c8736d0701e9aa78e15a19430209511ab2c49
+  content: Mike Bara found Noel Gorelick's contact information in the Arizona State
+    University phone directory and called him on the afternoon of 2002-09-06.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
+    title: Noel Gorelick
+    slug: noel-gorelick
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+    title: Arizona State University
+    slug: arizona-state-university
+  date: '2002-09-06'
+  date_end: null
+  location_in_record: ch17:52892-53050
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 3c774bb1-4eeb-4157-ac38-8c8db20054c8
+  claim_hash: cc6f9b3f2be03c32021418d35c69a2e8d08a5a9ecfbffcca2de21b0a04cdba55
+  content: Noel Gorelick admitted to Mike Bara that he was "Bamf" and was responsible
+    for all postings under that name on the Enterprise Mission bulletin board system.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
+    title: Noel Gorelick
+  provenance_chain:
+    origin_kind: named
+    origin: Noel Gorelick
+    relay:
+    - Mike Bara
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
+    title: Noel Gorelick
+    slug: noel-gorelick
+  - node_id: 242f3cc4-6031-41b3-888d-91639576f420
+    title: Enterprise Mission
+    slug: enterprise-mission
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  date: '2002-09-06'
+  date_end: null
+  location_in_record: ch17:53091-53220
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: cc28c28e-c381-4fb1-b4ad-822c450abfe0
+  claim_hash: 7819b676933679d5c5fe11ec451f2c0526901428600bb6b2c1a8ffd25cad291a
+  content: Noel Gorelick told Mike Bara that the THEMIS Cydonia infrared image webpage
+    had been untouched since he posted it on 2002-07-24.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
+    title: Noel Gorelick
+  provenance_chain:
+    origin_kind: named
+    origin: Noel Gorelick
+    relay:
+    - Mike Bara
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
+    title: Noel Gorelick
+    slug: noel-gorelick
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+    title: Thermal Emission Imaging System (THEMIS)
+    slug: thermal-emission-imaging-system-themis
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    slug: cydonia
+  date: '2002-07-24'
+  date_end: null
+  location_in_record: ch17:53230-53336
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 938113df-3c45-464a-81a7-39228a2899ad
+  claim_hash: 6d40ad3c1950a5301f369802f68da6c7ce2bd47d439b192d12a4213e473488f6
+  content: On the night of 2002-09-03, the authors and Keith Laney discussed Mark
+    Carlotto's THEMIS Cydonia analysis article and concluded that Carlotto had erred
+    badly.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+    title: Keith Laney
+    slug: keith-laney
+  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+    title: Thermal Emission Imaging System (THEMIS)
+    slug: thermal-emission-imaging-system-themis
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    slug: cydonia
+  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+    slug: mark-c-carlotto
+  date: '2002-09-03'
+  date_end: null
+  location_in_record: ch17:59503-59665
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: be96beb7-6386-4c85-aac7-d657463d514e
+  claim_hash: 362bde92b071f8f2bd3a433193f38a7ef99ced8d7d9ffa5fe85ffc6b0b7ff2e4
+  content: Mike Bara e-mailed Mark Carlotto informing him he had made several errors
+    in his article and advising him to withdraw it until Hoagland and Bara published
+    their own analysis.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+    slug: mark-c-carlotto
+  date: null
+  date_end: null
+  location_in_record: ch17:60456-60613
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: bbfb120c-fc01-4d25-aa7a-b411d8e68bac
+  claim_hash: 7e92654e4b72fbd3380bab07254e1a4e901c92d4f076d26d3601ba7d02f856bb
+  content: On 2002-09-04, Mark Carlotto and Richard C. Hoagland had a telephone conversation
+    after Carlotto obtained Hoagland's phone number from Mike Bara.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+    slug: mark-c-carlotto
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: '2002-09-04'
+  date_end: null
+  location_in_record: ch17:61062-61160
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 8ab72d0c-0a13-4e08-b5bf-56835a48883d
+  claim_hash: 4608e8dc6c44b31ad7990061e08d7516716e4910811d4c3c52e1397df555c546
+  content: At Richard C. Hoagland's and Mike Bara's request, Keith Laney produced
+    an image similar to the section Mark Carlotto had analysed, but with the various
+    bands properly aligned geometrically, taking about five minutes to do so.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+    title: Keith Laney
+    slug: keith-laney
+  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+    slug: mark-c-carlotto
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch17:64041-64220
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 1e183eb1-2565-4f16-8e66-414ba47522c5
+  claim_hash: 74d02b315421ace1105497d92eda716eede3554096039fafdb79a7bd99646ff6
+  content: On 2003-07-23, Mike Bara attended a public event at the sixth international
+    Mars conference in Pasadena, California, where both Michael Malin and Philip Christensen
+    gave slideshow presentations.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+    title: Michael Malin
+    slug: michael-malin
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  - node_id: c3e3c2ff-9fe2-480c-b893-34de079680a7
+    title: Sixth International Mars Conference, Pasadena, 2003-07-23
+    slug: pasadena-2003-07-23-sixth-international-mars-conference
+  - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+    title: Philip Christensen
+    slug: philip-christensen
+  date: '2003-07-23'
+  date_end: null
+  location_in_record: ch17:95910-96244
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 1af22265-85a1-4c0f-ae25-79accce447db
+  claim_hash: e7113ff5f0474ac6d48e11ec0315bf6277f2d5657705356bd063a1f9622f53d4
+  content: When Arden Albee opened the forum for public questions at the sixth international
+    Mars conference, Mike Bara stepped to the microphone to ask a question after no
+    one else initially did.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: 9cf922ea-4083-47ac-ae1a-51db2f6cc0a7
+    title: Arden Albee
+    slug: arden-albee
+  - node_id: c3e3c2ff-9fe2-480c-b893-34de079680a7
+    title: Sixth International Mars Conference, Pasadena, 2003-07-23
+    slug: pasadena-2003-07-23-sixth-international-mars-conference
+  date: '2003-07-23'
+  date_end: null
+  location_in_record: ch17:97096-97242
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 6f5ef8c8-2caa-4e65-b88f-04d4c9a03220
+  claim_hash: ce2a4f5842f7ad0f5718e2c953dc60a2de08c8bd90bed4f1736c498c2a506d8e
+  content: When Mike Bara approached the microphone at the sixth international Mars
+    conference and gave his name, Michael Malin audibly groaned and hid behind a stage
+    curtain, emerging only after learning the question was for Philip Christensen.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+    title: Michael Malin
+    slug: michael-malin
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: c3e3c2ff-9fe2-480c-b893-34de079680a7
+    title: Sixth International Mars Conference, Pasadena, 2003-07-23
+    slug: pasadena-2003-07-23-sixth-international-mars-conference
+  - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+    title: Philip Christensen
+    slug: philip-christensen
+  date: '2003-07-23'
+  date_end: null
+  location_in_record: ch17:97248-97478
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2080258d-122b-41c3-aeaa-5324c757329d
+  claim_hash: 76e21be63fdbe0e5a2f963251184514b7c94cd648485e762e513b847fd75e750
+  content: Philip Christensen became highly agitated and paced back and forth across
+    the stage as Mike Bara asked whether the original Cydonia daytime infrared image,
+    posted on the Arizona State University website on 2002-07-24, had ever been changed.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    slug: cydonia
+  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+    title: Arizona State University
+    slug: arizona-state-university
+  - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+    title: Philip Christensen
+    slug: philip-christensen
+  date: '2003-07-23'
+  date_end: null
+  location_in_record: ch17:97492-97717
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 3393f244-9c4a-452a-897a-b8bcc9364389
+  claim_hash: d9ad97f5908148aa01616232d0c45d3f35b038dfea0f90f12dc4b04b12f81d8a
+  content: During Mike Bara's questioning, Philip Christensen dropped the battery
+    pack for his wireless microphone and had to scramble to pick it up.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+    title: Philip Christensen
+    slug: philip-christensen
+  date: '2003-07-23'
+  date_end: null
+  location_in_record: ch17:97726-97865
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: d3a2a849-771e-4b4a-986a-0878bb5d211e
+  claim_hash: 1c0b3659b4194081a6d7f99339c747d70d032fafc43d509d8239a405011c5134
+  content: Philip Christensen stated he had no idea how the "artificial stuff" had
+    appeared on the images that Keith Laney had processed, without characterising
+    Laney's version as an outright fake.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+    title: Philip Christensen
+  provenance_chain:
+    origin_kind: speaker
+    origin: Philip Christensen
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: 8d973e78-aa3b-4f24-bb6f-1d9d8ecf0dd6
+    title: Keith Laney
+    slug: keith-laney
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+    title: Philip Christensen
+    slug: philip-christensen
+  date: '2003-07-23'
+  date_end: null
+  location_in_record: ch17:98200-98469
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 5ce3be74-c8cd-46de-b869-97af184fb41a
+  claim_hash: 1a0e6829828209266cb3111eb8a33ee124d5cc350e470dc9c3ebd402c458fe7a
+  content: When Mike Bara asked Philip Christensen for clarification on whether the
+    data posted on the Arizona State University THEMIS website had been changed after
+    2002-07-24, Christensen again emphatically answered no.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+    title: Philip Christensen
+  provenance_chain:
+    origin_kind: speaker
+    origin: Philip Christensen
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: c67bea36-d4a1-4d49-b617-4eb648f177fb
+    title: Thermal Emission Imaging System (THEMIS)
+    slug: thermal-emission-imaging-system-themis
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    slug: cydonia
+  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+    title: Arizona State University
+    slug: arizona-state-university
+  - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+    title: Philip Christensen
+    slug: philip-christensen
+  date: '2003-07-23'
+  date_end: null
+  location_in_record: ch17:98619-98822
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c627dfa4-ce69-4035-9f9d-b873fda665b9
+  claim_hash: 2e8d83415c8bfac5b85898159b4d3364a25db2162c22ed511dcb39e9b95ff279
+  content: Richard C. Hoagland and Mike Bara both independently identified a large
+    object in the Shorty crater debris that resembled a mangled pump mechanism or
+    engine housing, which they nicknamed "the turkey" for its fan-tail configuration
+    and dark beak.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2e6a2e75-339a-4cb2-84b1-bde1cfc80689
+    title: '"the turkey" (Shorty Crater debris)'
+    slug: the-turkey-shorty-crater-debris
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: 96590da4-51a0-43ce-be74-8f090d97061a
+    title: Moon, Shorty Crater
+    slug: shorty-crater-moon
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch19:67591-67912
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 1bbb4d4d-eaf0-4ec4-aa8f-5afeb691105e
+  claim_hash: c06e1b6cdbbbb3c9fa1d14a78f7f563ea6db59ea1a0030a0c4d62cb6d71ba1e2
+  content: Richard C. Hoagland had correctly predicted for weeks before the announcement
+    that Lockheed Martin would be awarded the Orion Crew Exploration Vehicle program.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5d4091a0-d807-4db5-9d2e-302b40c720b9
+    title: Orion (spacecraft)
+    slug: orion-spacecraft
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+    title: Crew Exploration Vehicle (CEV)
+    slug: crew-exploration-vehicle-cev
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch19:86161-86466
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 6e2c762a-2054-49c4-86da-4fc4f3febf18
+  claim_hash: 1e8b4dd60c3ccf684d13724a9c46dfb7203dd8fab7b4b85bcf5b1725c3fd301a
+  content: Richard C. Hoagland states that he and Mike Bara, as authors and investigators,
+    lack the power of subpoena, legal discovery, or the ability to compel witnesses
+    to testify under oath.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch20:1348-1621
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 8c7d5e35-9105-4a46-addd-88b1c2ebc3a7
+  claim_hash: e93e0b99fd3bb4d61ee84fa6b59ea31b14984e17b254142f059a230b25ad00d5
+  content: Richard C. Hoagland states that scientific evidence has been leaked to
+    him and Mike Bara quietly out of National Aeronautics and Space Administration
+    (NASA) by a number of the agency's former employees over the years.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch20:1635-1804
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2ec2d538-17e9-4e28-b616-ff6e85fced02
+  claim_hash: 8171e63b8c67ee8562240c9863c1979fe880c1cb987ee22db2930ad711a31a1a
+  content: Richard C. Hoagland and Mike Bara describe the overall picture presented
+    in Dark Mission as imperfect.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: cc81c235-c101-46bc-9b60-0d618973886f
+    title: Dark Mission (ebook)
+    slug: dark-mission-ebook
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch20:98-205
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 31e25afb-c9f3-4f0b-baaf-483f1443252b
+  claim_hash: 250862eaa5e1143e60a1baf4a25e51fa1e378b69b2e84ae836c5396639509404
+  content: Mike Bara considers Richard C. Hoagland the smartest man he has ever known.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch21:2033-2108
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 89624c77-6294-44c7-ace1-df6c07c0e19d
+  claim_hash: 23f22010c34881ba3486254b4ae092b5f9d6a554e7e15f6a768712c585bde94a
+  content: 'In the Ritual Alignment Model, only five narrow bands of stellar altitude
+    have significance: 19.5 degrees above and below the horizon, 33 degrees above
+    and below the horizon, and the horizon itself.'
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: be28c01d-c0b8-4d92-8f1e-058f911b267e
+    title: Ritual Alignment Model
+    slug: ritual-alignment-model
+  date: null
+  date_end: null
+  location_in_record: ch5:10081-10230
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 53dbe91f-4268-4733-89b5-6cfd9c2282b8
+  claim_hash: 18e74f9b14b6d481a80bed71128c4cbe9c2c8dd3f437eac263be23de7023779f
+  content: Buzz Aldrin took a Scottish Rite 33rd degree apron with him to the Moon.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  - node_id: 6c8f3909-ef90-4938-9a1c-9325238bd448
+    title: Scottish Rite 33rd degree apron
+    slug: scottish-rite-33rd-degree-apron
+  date: null
+  date_end: null
+  location_in_record: ch5:10842-10922
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 41d74594-62f6-4eb4-bc0e-f35d9bc77962
+  claim_hash: 1572dbef4aa57e0b1c98a7b3e4bc2cf4aa793d2554fc15364bee734f548f01ff
+  content: Richard C. Hoagland lives with his girlfriend of more than 10 years, Robin
+    Falkov, in a house in suburban Albuquerque.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  - node_id: e800ee3c-cc3a-4d11-ba0e-97900a629bc0
+    title: Robin Falkov
+    slug: robin-falkov
+  date: null
+  date_end: null
+  location_in_record: ch5:1089-1232
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 4051e69c-5707-4fec-8fce-af126c09c898
+  claim_hash: f57daa1add77f5aaf33e42fac4f2b40772fa518227b31d142ccc7cf43bdbc85b
+  content: 'In Mike Bara''s assessment, a Scottish Rite 33rd degree apron serves only
+    one purpose: to be worn during a solemn Masonic ceremony.'
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c8f3909-ef90-4938-9a1c-9325238bd448
+    title: Scottish Rite 33rd degree apron
+    slug: scottish-rite-33rd-degree-apron
+  date: null
+  date_end: null
+  location_in_record: ch5:10928-11005
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 53a14b17-7848-48c9-a029-3164bb6d8257
+  claim_hash: d1a72d4bc78e9920c129b80f5b7b440d7297a073779e17ea3ea57c6e1257f2ee
+  content: James Oberg's intervention led to Ken Johnston's dismissal from his unpaid
+    position as a JPL Solar System Ambassador.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  date: null
+  date_end: null
+  location_in_record: ch5:1246-1417
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 33e10ccf-562d-41ba-9c1e-31259dd0e22d
+  claim_hash: 3f62a60e1e22d3fc62292d26ebd0872105d32b4e4023f8f4bcd3662307437888
+  content: The "optics" Neil Armstrong referred to during Apollo 11 was the Alignment
+    Optical Telescope (AOT), a device used to determine the Lunar Module's orientation
+    relative to two specific stars.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 310a37a6-bb3e-4cbc-99c4-90859a6dde56
+    title: Alignment Optical Telescope (AOT)
+    slug: alignment-optical-telescope-aot
+  - node_id: c661e205-9d5f-4c0b-bafc-450bbbd07288
+    title: Neil Armstrong
+    slug: neil-armstrong
+  date: null
+  date_end: null
+  location_in_record: ch5:12802-12991
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 20c96e43-250e-43c7-b8cf-e9247fc8a336
+  claim_hash: 14c3c22675a7b486609665915383af326500081170215c5ae63905dfb412d575
+  content: By plugging the relative positions of at least two stars into the Apollo
+    Guidance Computer, the precise axial orientation of the Lunar Module could be
+    determined.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2d76ebf5-e3a7-4441-9918-ef3268539697
+    title: Apollo Guidance Computer (AGC)
+    slug: apollo-guidance-computer-agc
+  date: null
+  date_end: null
+  location_in_record: ch5:12998-13151
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: bc206d6d-aa24-4320-a3ac-86de817bb72a
+  claim_hash: a287b0ab81ca525925f999f6729b667f14d02a2dcc7489840c699995a8d48291
+  content: The Primary Guidance Navigation and Control System (PGNS), commonly called
+    "pings", stands for Primary Guidance Navigation and Control System.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9a34d883-1519-4a7b-ae4a-5c0d8cc65045
+    title: Primary Guidance Navigation and Control System (PGNS)
+    slug: primary-guidance-navigation-and-control-system-pgns
+  date: null
+  date_end: null
+  location_in_record: ch5:13511-13610
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: b1e0bd2f-748d-4c4a-bcbc-9618ade6fbba
+  claim_hash: c56a370f1483f1f769136d62fcc17b6a471947776d7a427d750763ca777165f9
+  content: The Abort Guidance System (AGS) was a backup system that could be used
+    to rendezvous with the Command Module if the main navigational computer failed.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: b024e145-1d61-4148-bd88-aefff6f53b18
+    title: Columbia (Apollo 11 Command Module)
+    slug: columbia-apollo-11-command-module
+  - node_id: c4b95420-049e-462b-adfd-bdd9150adb96
+    title: Abort Guidance System (AGS)
+    slug: abort-guidance-system-ags
+  date: null
+  date_end: null
+  location_in_record: ch5:13619-13791
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 04136c3a-43e9-4ae2-94d4-5000b2da5900
+  claim_hash: 0303867eb659a686743b0e892b708889f48e04c2995f5d71af404b4131080494
+  content: The Apollo 11 checklist called for frequent alignment of the Abort Guidance
+    System over the course of the mission, allowing Mission Control guidance engineers
+    to get better fixes on the spacecraft's location and orientation.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+    title: Apollo 11
+    slug: apollo-11
+  - node_id: c4b95420-049e-462b-adfd-bdd9150adb96
+    title: Abort Guidance System (AGS)
+    slug: abort-guidance-system-ags
+  date: null
+  date_end: null
+  location_in_record: ch5:13799-14046
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 3d846a35-8a8a-4085-9424-f5bb4ca0088c
+  claim_hash: 664fb075054debb16f507d248559bd1b8672033c3cee38ddf1ecdf6f8e77faac
+  content: NASA's official position is that the Alignment Optical Telescope was not
+    used to determine the actual position of the Apollo 11 spacecraft, only its orientation.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: named
+    origin: National Aeronautics and Space Administration (NASA)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 310a37a6-bb3e-4cbc-99c4-90859a6dde56
+    title: Alignment Optical Telescope (AOT)
+    slug: alignment-optical-telescope-aot
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+    title: Apollo 11
+    slug: apollo-11
+  date: null
+  date_end: null
+  location_in_record: ch5:14051-14172
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 80632f50-ea6a-4ad3-913a-389436be6ab3
+  claim_hash: 98123460502fcfcad09519ff18ed5c0a0c5a631af9567d37cbe04965e3680076
+  content: Buzz Aldrin disputed NASA's official position on the Alignment Optical
+    Telescope in his 1969 NASA technical debrief.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  date: '1969'
+  date_end: null
+  location_in_record: ch5:14186-14246
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 0cbf26b4-7351-4fdc-8d42-85c33f599b89
+  claim_hash: 4432f0fedc033fb862fc57af5a87d5926a0992e770833c2b30e07c335ada4bed
+  content: A publicist hired to arrange media interviews for Dark Mission (ebook)
+    gave up after four months, citing monolithic opposition to the work.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: cc81c235-c101-46bc-9b60-0d618973886f
+    title: Dark Mission (ebook)
+    slug: dark-mission-ebook
+  date: null
+  date_end: null
+  location_in_record: ch5:1424-1632
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 28d8846c-83a5-4009-ba45-3f87d51211f9
+  claim_hash: c2821684fee78cc97d9f020918d9fe4c5a135fd23c29f16d71ceaaf32432bcb8
+  content: Buzz Aldrin's signature appears on the Apollo 11 star chart used in the
+    Lunar Module Eagle to triangulate its position on the lunar surface.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
+    title: Eagle (Apollo 11 Lunar Module)
+    slug: eagle-apollo-11-lunar-module
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  date: null
+  date_end: null
+  location_in_record: ch5:15786-15989
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: f6f21c1c-f5f9-47fb-b645-82531dfb9eb9
+  claim_hash: e79adb37b8f63b396b0d78266d35317b6fba38089d3bf99efe32a0abd7ca667f
+  content: Rigel is the brightest star in the constellation of Orion.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 059e35da-0b31-47c3-90c9-7289bf18669e
+    title: Rigel
+    slug: rigel
+  date: null
+  date_end: null
+  location_in_record: ch5:16171-16230
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 405cd557-01e6-4cbb-8dd0-050124c61e07
+  claim_hash: 99949fbe1ed8a0a8f6db9e92ea6284c0b34e6ee15140402f1739f8328a226445
+  content: Rigel is only about a degree in right ascension from Sirius.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 059e35da-0b31-47c3-90c9-7289bf18669e
+    title: Rigel
+    slug: rigel
+  - node_id: eb5d9a0e-f0b9-4d9e-a175-0817bd12c734
+    title: Sirius
+    slug: sirius
+  date: null
+  date_end: null
+  location_in_record: ch5:16242-16289
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: db3ea6f1-9fec-4dea-8582-f560d1980493
+  claim_hash: 4b909de1ffa87cde06e8f9955671061c97da345380ad121fe902360bdb9e68b5
+  content: Sirius has a visual magnitude of -1.60, compared to 0.30 for Rigel, making
+    Sirius the brightest star in the night sky.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 059e35da-0b31-47c3-90c9-7289bf18669e
+    title: Rigel
+    slug: rigel
+  - node_id: eb5d9a0e-f0b9-4d9e-a175-0817bd12c734
+    title: Sirius
+    slug: sirius
+  date: null
+  date_end: null
+  location_in_record: ch5:16297-16414
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a1ab88a4-1fea-4be3-9601-145f69fb52fe
+  claim_hash: d795790622860f0c1185cbb7db737a52885bf15e7495fe10099bc33c1b78c80b
+  content: Larry King fondly remembered Richard C. Hoagland as a "great guest" from
+    his appearance on King's Cable News Network (CNN) show in the early 1990s.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: named
+    origin: Larry King
+    relay:
+    - Mike Bara's account of direct talks
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+    title: Cable News Network (CNN)
+    slug: cable-news-network-cnn
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  - node_id: eb9ca279-70d6-460b-8553-ee9842857624
+    title: Larry King
+    slug: larry-king
+  date: null
+  date_end: null
+  location_in_record: ch5:1638-1798
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: dd0c9542-9c29-4d23-9fbb-d6c0d2396a2e
+  claim_hash: 85134354438effec779dce8e233ead357cdb47d618dbe27e2e425583ee4bf06b
+  content: Sirius is approximately six times brighter than Rigel as viewed from the
+    lunar surface.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 059e35da-0b31-47c3-90c9-7289bf18669e
+    title: Rigel
+    slug: rigel
+  - node_id: eb5d9a0e-f0b9-4d9e-a175-0817bd12c734
+    title: Sirius
+    slug: sirius
+  date: null
+  date_end: null
+  location_in_record: ch5:16511-16709
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 6ceefcb7-1a21-4106-a93d-1436983257c4
+  claim_hash: 0db767875c38b3fa6d86947c25d76fb461a944ba9228fd1973aaa141bedd01ef
+  content: In Mike Bara's assessment, Buzz Aldrin was using the Alignment Optical
+    Telescope to look in the vicinity of Sirius while it passed through 19.5 degrees
+    over the Tranquility Base landing site.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 310a37a6-bb3e-4cbc-99c4-90859a6dde56
+    title: Alignment Optical Telescope (AOT)
+    slug: alignment-optical-telescope-aot
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  - node_id: 91643bca-46df-4724-934b-ac6bd883b4e3
+    title: USA, Texas, Tranquility Base (Moon)
+    slug: texas-tranquility-base-moon-usa
+  - node_id: eb5d9a0e-f0b9-4d9e-a175-0817bd12c734
+    title: Sirius
+    slug: sirius
+  date: null
+  date_end: null
+  location_in_record: ch5:17244-17420
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 5e304e29-0dff-47f1-a73c-e00bbb5377b2
+  claim_hash: 1f8230521756d14d786a187a59c0e224176bd8980b164a011279409c1c127eab
+  content: In October 2008, Mike Bara was invited to visit the L. Ron Hubbard Life
+    Exhibition in Hollywood and meet with several members of the Church of Scientology.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: 6ca2b329-5ed0-4bb0-bfec-d70dfd0a5d05
+    title: L. Ron Hubbard Life Exhibition
+    slug: l-ron-hubbard-life-exhibition
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  date: 2008-10
+  date_end: null
+  location_in_record: ch5:17693-17834
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 6b36ea45-237d-4158-b88d-09ac34b727ff
+  claim_hash: 42948a6f1b3bc7859737e62ac80cb725028b685301e4fc400042d17c769cd537
+  content: Members of the Church of Scientology sought to correct what they viewed
+    as mischaracterisations in Dark Mission (ebook)'s section on L. Ron Hubbard and
+    Jack Parsons of the Jet Propulsion Laboratory (JPL).
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: named
+    origin: Church of Scientology
+    relay:
+    - Mike Bara
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: cc81c235-c101-46bc-9b60-0d618973886f
+    title: Dark Mission (ebook)
+    slug: dark-mission-ebook
+  date: null
+  date_end: null
+  location_in_record: ch5:17847-17986
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: d01ae4f6-d2b0-4590-a2dc-f41b323bf022
+  claim_hash: 3caa914570a0007011e8339688b58a544671348f2f79c1403e29956d2ff11835
+  content: Dark Mission (ebook) has had a significant political impact despite being
+    systematically ignored by most of the mainstream American media, in Mike Bara's
+    opinion.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: cc81c235-c101-46bc-9b60-0d618973886f
+    title: Dark Mission (ebook)
+    slug: dark-mission-ebook
+  date: null
+  date_end: null
+  location_in_record: ch5:180-443
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 9d6b15cd-8ba9-4cc7-a4ef-69e672d8b4ab
+  claim_hash: fad86858752f18343cbeeff40ce74840ed0c6c60bac819eb6c3880438acaf1a5
+  content: Arrangements for a Larry King show dedicated to the issues raised by Dark
+    Mission (ebook) evaporated when Larry King's producer stonewalled it, with no
+    reason given.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: cc81c235-c101-46bc-9b60-0d618973886f
+    title: Dark Mission (ebook)
+    slug: dark-mission-ebook
+  - node_id: eb9ca279-70d6-460b-8553-ee9842857624
+    title: Larry King
+    slug: larry-king
+  date: null
+  date_end: null
+  location_in_record: ch5:1801-1937
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 4fbd98f3-786c-4ba6-9e77-9b394206a763
+  claim_hash: c3025109dd4dae3261e8941a7153fbbfb415087d55927d858b902f7669721306
+  content: The Church of Scientology was most concerned with conveying that none of
+    its teachings are based on the Thelemic beliefs of Aleister Crowley.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: named
+    origin: Church of Scientology
+    relay:
+    - Mike Bara
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+    title: Aleister Crowley
+    slug: aleister-crowley
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  date: null
+  date_end: null
+  location_in_record: ch5:18074-18212
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 676beb92-8657-4bac-8b1a-1e4e3359b8ca
+  claim_hash: 9247c4c9ee1345f253201c0870748632ed66b23ef55b7fee759524bc9298c37d
+  content: Mike Bara considers the Church of Scientology deserving of the benefit
+    of the doubt on the claim that its teachings are not based on the Thelemic beliefs
+    of Aleister Crowley.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+    title: Aleister Crowley
+    slug: aleister-crowley
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  date: null
+  date_end: null
+  location_in_record: ch5:18221-18372
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 6d7865d7-6307-4398-9e8d-760aada2de21
+  claim_hash: ee3e538888738a01be135a46e9b2014fa022f5f14896fe071bff7b0c5b4f0a78
+  content: The Church of Scientology argued that L. Ron Hubbard was sent to infiltrate
+    and disrupt the activities of Jack Parsons at 1003 Orange Grove Avenue rather
+    than being a willing participant in Parsons' pursuits within the Ordo Templi Orientis.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: named
+    origin: Church of Scientology
+    relay:
+    - Mike Bara
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2ccec918-9f0b-4569-ba3f-ddd8c2eb6460
+    title: USA, California, Pasadena, 1003 Orange Grove Avenue
+    slug: california-pasadena-1003-orange-grove-avenue-usa
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  date: null
+  date_end: null
+  location_in_record: ch5:18477-18825
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: f4c1e6f7-c1b0-4989-af61-a4cf9b704d0d
+  claim_hash: 564733b006193b0fe8317ec87d64e90e2ee069c561542b076277da5452d2f671
+  content: Documents provided by the Church of Scientology inclined Mike Bara to lean
+    toward the interpretation that L. Ron Hubbard was sent to infiltrate the Ordo
+    Templi Orientis rather than being a willing participant.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  date: null
+  date_end: null
+  location_in_record: ch5:18833-18986
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c89e1520-9f7c-4021-8d00-1765ae2e3156
+  claim_hash: 2a0451542762c8ba73881963e04beac52cc1fe0c8abf8d32f09433cc3982bfd8
+  content: L. Ron Hubbard was a United States Navy intelligence officer at least at
+    some point during his service career, as the Church of Scientology has claimed.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: named
+    origin: Church of Scientology
+    relay:
+    - Mike Bara
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  date: null
+  date_end: null
+  location_in_record: ch5:19035-19149
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a7d40d58-971f-4976-acc5-7854b1d217cf
+  claim_hash: 881d411cb4359c911b268af5d64e4f22a4c722454501fcf1b869449c41249bb1
+  content: L. Ron Hubbard was residing in the area and was still an active naval officer
+    at the time he was befriending Jack Parsons and infiltrating the Ordo Templi Orientis.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  date: null
+  date_end: null
+  location_in_record: ch5:19160-19299
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 88b90e27-d2b4-4514-b0c7-415dbc3901ef
+  claim_hash: 685de2213b7ddc669e26a0b238680ff8ae5a65ca9c591b8562e6a23fc4258732
+  content: In Mike Bara's assessment, L. Ron Hubbard would have been an ideal agent
+    for an infiltration operation against the Ordo Templi Orientis.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  date: null
+  date_end: null
+  location_in_record: ch5:19311-19362
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 8f949905-461e-448f-a600-c734e71317c6
+  claim_hash: e1c8da3741f51c57dd17e6ec07a2576d93e0009d10ed2dcb4b80035327421a77
+  content: The Ordo Templi Orientis headquarters in Pasadena was damaged for years
+    by L. Ron Hubbard's actions.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  date: null
+  date_end: null
+  location_in_record: ch5:19376-19446
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a38f1fda-b4aa-49a5-a61d-e9541379e020
+  claim_hash: d2a85afe12011f74df178d4227dda3e6341a02aecb50f7faa9c9489e04bf2d43
+  content: Larry King did numerous shows on subjects like the latest UFO sightings
+    and Bigfoot throughout 2008.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: eb9ca279-70d6-460b-8553-ee9842857624
+    title: Larry King
+    slug: larry-king
+  date: '2008'
+  date_end: null
+  location_in_record: ch5:1944-2064
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: d97744a4-9a0f-46b3-94e2-12c238729cbf
+  claim_hash: 346e53604848a82ae8f0c84a4fe1f0a04c596583487886b5bd9fa1f269eb59d7
+  content: The Ordo Templi Orientis was disrupted by L. Ron Hubbard's presence and
+    never fully recovered from the damage done to Jack Parsons.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  date: null
+  date_end: null
+  location_in_record: ch5:19458-19561
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 3285d470-0a62-4dbc-9bb5-b4c3ac293c64
+  claim_hash: 983c63434325bc01368ce1827ffaf8356a867f3f792e573329d0cafe5096a0b8
+  content: According to United States Navy documents, L. Ron Hubbard was assigned
+    to intelligence duties in July 1941.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: document
+    origin: United States Navy service documents for L. Ron Hubbard
+    relay:
+    - Mike Bara
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  date: 1941-07
+  date_end: null
+  location_in_record: ch5:19571-19670
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 69259146-3c29-4f27-afc1-06890b2b729d
+  claim_hash: 353732a126b5667a53f530a9bd17cf67ece7d5a1dabe14b88a4f54c87382669f
+  content: L. Ron Hubbard remained in the United States Navy reserves until October
+    1950, after his time in Pasadena.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: document
+    origin: L. Ron Hubbard's United States Navy service record
+    relay:
+    - Mike Bara
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  date: 1950-10
+  date_end: null
+  location_in_record: ch5:19676-19953
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 53d2c98a-c828-4f97-bb79-28f16ed765f0
+  claim_hash: 2012ba143e4763bc1a1ba7195ff786602d428d28a287df3d9d1eff987f7bf7d0
+  content: A feature piece on Dark Mission (ebook) written by a senior staff writer
+    at People (magazine) was spiked at the last minute.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7998516d-a05f-46f5-b616-f8262c2ffd4e
+    title: People (magazine)
+    slug: people-magazine
+  - node_id: cc81c235-c101-46bc-9b60-0d618973886f
+    title: Dark Mission (ebook)
+    slug: dark-mission-ebook
+  date: null
+  date_end: null
+  location_in_record: ch5:2070-2190
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: bf513a25-ad19-4c4d-8486-97c0302d82ed
+  claim_hash: 6bf67e4c9c29274afabd823e06cbe0277bbea67e4d18b87046f4d76ccdd97eb0
+  content: Mike Bara wrote to Professor Paul Hudson asking about the Boeing Mars poster,
+    noting that a version of the poster used by the Planetary Society had the artifacts
+    removed because they felt it was not appropriate.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+    title: Boeing
+    slug: boeing
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: ccfa75c2-84fd-4ac9-8caf-79c371b1be4b
+    title: Planetary Society
+    slug: planetary-society
+  date: null
+  date_end: null
+  location_in_record: ch5:24539-24670
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c3c80f6d-d9d0-4f65-ba14-df7b328dd929
+  claim_hash: 72e159d46652f4bc8dc508d50a5dd42fe989987b1f29c795f4945866959726bc
+  content: Mike Bara considers it improbable that Paul Hudson did not notice the Masonic
+    symbols in the Boeing Mars poster painting he painted himself, despite Hudson
+    denying knowledge of them.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+    title: Boeing
+    slug: boeing
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+    title: Paul Hudson
+    slug: paul-hudson
+  date: null
+  date_end: null
+  location_in_record: ch5:28754-28954
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 48ab2b11-9178-4edc-bb7f-11f841573dd9
+  claim_hash: bcd21f6b8928f18d32db742afcfc9ce49419f5c5d9f90bf37b75f31d977d2fc4
+  content: Mike Bara observed that Paul Hudson seemed anxious to dispel any notion
+    that the George Herbert Walker Bush administration supported his Boeing Mars poster
+    work, even though Hudson submitted a detailed proposal before starting the painting.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+    title: Boeing
+    slug: boeing
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+    title: George Herbert Walker Bush
+    slug: george-herbert-walker-bush
+  - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+    title: Paul Hudson
+    slug: paul-hudson
+  date: null
+  date_end: null
+  location_in_record: ch5:28960-29120
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2e74035b-73cd-4b7a-b349-e07548ea3b06
+  claim_hash: 9dc316f4b9c5163164b359fc005e489954b32f91e5d98343b5a6c6ffba63f5e7
+  content: Russian media outlets showed tremendous enthusiasm for Dark Mission (ebook)
+    after the National Press Club press conference, Washington DC, October 2007.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8fdb41d6-4a8f-42d0-b077-962820a39d5b
+    title: National Press Club press conference, Washington DC, 2007-10
+    slug: washington-dc-2007-10-national-press-club-press-conference
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  - node_id: b396a2fd-f1e1-4356-941a-5dc6b2379925
+    title: National Press Club
+    slug: national-press-club
+  - node_id: cc81c235-c101-46bc-9b60-0d618973886f
+    title: Dark Mission (ebook)
+    slug: dark-mission-ebook
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: 2007-10
+  date_end: null
+  location_in_record: ch5:3522-3748
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 871caa1f-7429-4681-964d-ea1da6ad663c
+  claim_hash: 167ff63ed15222bf9dc425aa44c1ab3097641d854dd822e73ec9bffde4e4d8d9
+  content: Various Russian media outlets travelled from Moscow to interview Richard
+    C. Hoagland and Ken Johnston on several occasions.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch5:3754-3878
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: e2c21941-532f-49af-907c-0f39372319ba
+  claim_hash: a3e2666084da675b85051cf654dbc3952a1cc1bd9559f97378dac42157df409c
+  content: Robert O. Dean told Mike Bara at the 2008 Bay Area UFO Expo that he had
+    personally given copies of Dark Mission (ebook) to upper level staff at the Pentagon
+    and that it had been very well received.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: named
+    origin: Robert O. Dean
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0fd77440-36ce-44f1-9d07-087874d947b9
+    title: Bay Area UFO Expo
+    slug: bay-area-ufo-expo
+  - node_id: 34322544-6b16-4ff8-97b2-a3a7fa8411d4
+    title: Robert O. Dean
+    slug: robert-o-dean
+  - node_id: cc81c235-c101-46bc-9b60-0d618973886f
+    title: Dark Mission (ebook)
+    slug: dark-mission-ebook
+  date: null
+  date_end: null
+  location_in_record: ch5:3901-4119
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 349c7169-1920-430b-be74-c931e08f1440
+  claim_hash: 11281ce4e79b0f0f22336127854f2cde684725ca8678d2a3b2aef4242259c77a
+  content: One of Richard C. Hoagland's long-time intelligence sources bought over
+    70 copies of Dark Mission (ebook) to give to colleagues in the American intelligence,
+    military and space communities and to contacts in the Russian government.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be a long-time intelligence source of Richard C.
+      Hoagland
+    relay:
+    - Richard C. Hoagland
+  attribution_mode: unknown
+  node_refs:
+  - node_id: cc81c235-c101-46bc-9b60-0d618973886f
+    title: Dark Mission (ebook)
+    slug: dark-mission-ebook
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch5:4129-4377
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 387e014a-da64-42bb-a253-a50630235dd6
+  claim_hash: 2a193a52b6eddc6fe54bb5b97f413ebe0ecce2854fd17a5f9d57e6a828d0d6a4
+  content: In 2008, Phil Plait made a public statement about a tiny object in a Mars
+    rover image that resembled a small statue or figurine.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 089ed01e-ff45-4bf5-9b86-c9aecdf0c8ba
+    title: Phil Plait
+    slug: phil-plait
+  - node_id: de58d5ed-956d-4fd7-ac5e-3ff37e27fd64
+    title: B-2 Spirit
+    slug: b-2-spirit
+  date: '2008'
+  date_end: null
+  location_in_record: ch5:4494-4733
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: bb9817aa-7c3b-4c7d-8eb3-614f6343df48
+  claim_hash: 9cdafab88dc8040bbe9523464f4ff68a4283fcd931bb0e0df3dbefadc9298720
+  content: The Space Review published personal attacks against Richard C. Hoagland.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
+    title: Australian Flying Saucer Review
+    slug: australian-flying-saucer-review
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch5:462-585
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 7822e6f4-2509-4f1a-86b9-ee32addbf786
+  claim_hash: a58c590f1e3f7daa5b9950c7f6358075ecb4d3983311b10230f96e655488ff8a
+  content: In Mike Bara's view, the figurine spotted in the Spirit rover image got
+    more intriguing over time despite Phil Plait's objections.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 089ed01e-ff45-4bf5-9b86-c9aecdf0c8ba
+    title: Phil Plait
+    slug: phil-plait
+  - node_id: de58d5ed-956d-4fd7-ac5e-3ff37e27fd64
+    title: B-2 Spirit
+    slug: b-2-spirit
+  date: null
+  date_end: null
+  location_in_record: ch5:4743-4881
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a134e10b-3a4e-4ab2-a313-f0f9c5a9e835
+  claim_hash: f28942e4b0cc598c9d8ccbfb6dfa83f519d00377b1de646b07b59e497854915e
+  content: New independent research papers were published supporting the hyper-dimensional
+    physics theory outlined in Chapter Two of Dark Mission (ebook).
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
+    title: hyper-dimensional physics theory
+    slug: hyper-dimensional-physics-theory
+  - node_id: cc81c235-c101-46bc-9b60-0d618973886f
+    title: Dark Mission (ebook)
+    slug: dark-mission-ebook
+  date: null
+  date_end: null
+  location_in_record: ch5:4887-5024
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 750bad15-72b5-454f-b93b-1bb490e9c953
+  claim_hash: 5dea911091ccabd95150e2b044d55cf3350da45965f0ecb6368db5abf2e2c9d9
+  content: New images of the asteroid 2867 Steins and Mars' moon Phobos were released.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 084e2b07-613e-4c81-848a-01735f4bf671
+    title: 2867 Steins
+    slug: 2867-steins
+  - node_id: 299a6e2e-cc92-49b8-bd82-d5ef1d3858af
+    title: Phobos
+    slug: phobos
+  date: null
+  date_end: null
+  location_in_record: ch5:5038-5100
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 1bb9f666-3e6c-4ffd-8a6d-6ac5d71abc70
+  claim_hash: c47f2f307ec74f7faffb954733c22a51576667f60e43359c5eacb071b4b6dbe6
+  content: In Mike Bara's assessment, both 2867 Steins and Phobos show unmistakable
+    signatures of artificial origin.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 084e2b07-613e-4c81-848a-01735f4bf671
+    title: 2867 Steins
+    slug: 2867-steins
+  - node_id: 299a6e2e-cc92-49b8-bd82-d5ef1d3858af
+    title: Phobos
+    slug: phobos
+  date: null
+  date_end: null
+  location_in_record: ch5:5108-5234
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 25caec01-8b8c-45f7-802e-7644865e2e68
+  claim_hash: 5137e4b84f4be3381405a2b8f67825530863c36a490b328a1a6cf3200d8cd1b6
+  content: Buzz Aldrin performed a "communion ceremony" in the lunar module Eagle
+    before he and Neil Armstrong made their first steps on the Moon.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
+    title: Eagle (Apollo 11 Lunar Module)
+    slug: eagle-apollo-11-lunar-module
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  - node_id: c661e205-9d5f-4c0b-bafc-450bbbd07288
+    title: Neil Armstrong
+    slug: neil-armstrong
+  date: '1969-07-20'
+  date_end: null
+  location_in_record: ch5:5520-5674
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 08a1b98a-06fd-46f2-80aa-9ceaff17d1cd
+  claim_hash: 9a5baf5f6867e2f9bbc6265f684e982c814b68246d64596b95f438b0aa3c0069
+  content: The communion ceremony performed by Buzz Aldrin corresponded with a stellar
+    alignment of Sirius, associated with the Egyptian goddess Isis, rising over the
+    Tranquility Base landing site at 19.5 degrees.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  - node_id: 7c386199-42da-4a3b-b7fe-b86a28febb34
+    title: Isis
+    slug: isis
+  - node_id: 91643bca-46df-4724-934b-ac6bd883b4e3
+    title: USA, Texas, Tranquility Base (Moon)
+    slug: texas-tranquility-base-moon-usa
+  - node_id: eb5d9a0e-f0b9-4d9e-a175-0817bd12c734
+    title: Sirius
+    slug: sirius
+  date: null
+  date_end: null
+  location_in_record: ch5:5717-5897
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a8b9cb63-9eb5-41a3-899d-3128d6624167
+  claim_hash: ce05098d5edd2b0430f50764206b327dba833b3e5b0c9d2f9cf4dbd5561955e8
+  content: This stellar alignment finding led Richard C. Hoagland and Mike Bara to
+    create the Ritual Alignment Model, which asserts that NASA has planned major mission
+    objectives around the positions of stars and planets over landing sites and events.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: be28c01d-c0b8-4d92-8f1e-058f911b267e
+    title: Ritual Alignment Model
+    slug: ritual-alignment-model
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch5:5901-6108
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 0c15234c-49ad-479a-b5bb-f932119605db
+  claim_hash: 5865e6fd777ef6a1cc1ab9f21c9ad0dbd55baa5c1418065be8438832af1713d2
+  content: James Oberg of National Broadcasting Company (NBC) News made an assault
+    on the integrity of Ken Johnston.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  - node_id: d4b0a6cf-6630-4d28-8113-3447bd0b09fb
+    title: National Broadcasting Company (NBC) News
+    slug: national-broadcasting-company-nbc-news
+  date: null
+  date_end: null
+  location_in_record: ch5:614-689
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 595e92f9-d2c8-46c1-9b1f-1b53b4b46fe8
+  claim_hash: 7d2a869ce278de6fc1408e4e193c11d8b51171a021d842d35fcf87a2f9e3b809
+  content: In Dark Mission (ebook), Richard C. Hoagland and Mike Bara presumed the
+    communion ceremony took place exactly 33 minutes after the landing of Eagle on
+    the lunar surface, during an odd one-minute-long communications break.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
+    title: Eagle (Apollo 11 Lunar Module)
+    slug: eagle-apollo-11-lunar-module
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: cc81c235-c101-46bc-9b60-0d618973886f
+    title: Dark Mission (ebook)
+    slug: dark-mission-ebook
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch5:6410-6606
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 227d02aa-552c-410c-be82-a6508434e942
+  claim_hash: 845c304d9b94a2e31aab5f424954114ead3b93bb765c3fd3fbc212fce5a2c102
+  content: 'According to First Man: The Life of Neil A. Armstrong, the communion ceremony
+    took place several hours after the communications break at the 33-minute mark,
+    when Armstrong and Aldrin were preparing to suit up for the first moonwalk.'
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: document
+    origin: 'First Man: The Life of Neil A. Armstrong'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
+    title: Eagle (Apollo 11 Lunar Module)
+    slug: eagle-apollo-11-lunar-module
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  - node_id: 97a6f83c-f18e-4b6c-b00f-d63d8e7879e8
+    title: 'First Man: The Life of Neil A. Armstrong'
+    slug: first-man-the-life-of-neil-a-armstrong
+  - node_id: c661e205-9d5f-4c0b-bafc-450bbbd07288
+    title: Neil Armstrong
+    slug: neil-armstrong
+  date: null
+  date_end: null
+  location_in_record: ch5:6834-7061
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: fe34805c-1563-4c72-9b6c-3bc8377d2127
+  claim_hash: ee3b7862af7cb8e34bf78c3d21950a2ffdf2ec4f42730b5236405923fdefc524
+  content: 'Mike Bara cross-referenced the Mission Elapsed Time given in the Apollo
+    Lunar Surface Journal with the days-and-hours time given in First Man: The Life
+    of Neil A. Armstrong to correlate the timing of the communion ceremony.'
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 97a6f83c-f18e-4b6c-b00f-d63d8e7879e8
+    title: 'First Man: The Life of Neil A. Armstrong'
+    slug: first-man-the-life-of-neil-a-armstrong
+  - node_id: f5d2aede-1eaa-44ed-afb5-3257a9ad2b99
+    title: Apollo Lunar Surface Journal (LSJ)
+    slug: apollo-lunar-surface-journal-lsj
+  date: null
+  date_end: null
+  location_in_record: ch5:7190-7523
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: df72a593-bb7f-4373-b6f5-52e5e0fc4a57
+  claim_hash: 329fccd5a6a1277f783ee239e0671f6a120f858c8788e6a53fc7bfb9808baec3
+  content: A roughly nine-minute-long communications break followed Buzz Aldrin's
+    radio message, during which the astronauts likely performed the communion ceremony
+    and ate their pre-Extra Vehicular Activity meal.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  date: null
+  date_end: null
+  location_in_record: ch5:7934-8130
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 6ce1cc5a-5b6e-4aca-8de3-90c860fea604
+  claim_hash: e88dc66960049e7114ccba2de6509dfbe5a8ce8b4bd479fc279cda6c3346dd76
+  content: At 23:59 UTC on 1969-07-20, Sirius had drifted beyond the 19.5-degree altitude
+    over the Tranquility Base landing site.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 91643bca-46df-4724-934b-ac6bd883b4e3
+    title: USA, Texas, Tranquility Base (Moon)
+    slug: texas-tranquility-base-moon-usa
+  - node_id: eb5d9a0e-f0b9-4d9e-a175-0817bd12c734
+    title: Sirius
+    slug: sirius
+  date: '1969-07-20'
+  date_end: null
+  location_in_record: ch5:8495-8635
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: b56dd566-52b2-4c80-8105-a47057aa3dd1
+  claim_hash: 9484e0978703fb8993a71d7e2bec7a01ccac0ee42ba2b6135f5eac8760653c10
+  content: At the same moment, for a period of only a few seconds, Regulus was rising
+    at precisely 19.5 degrees below the Tranquility Base landing site.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7ea4ae5b-0201-40dd-bebc-fbcc85db9940
+    title: Regulus
+    slug: regulus
+  - node_id: 91643bca-46df-4724-934b-ac6bd883b4e3
+    title: USA, Texas, Tranquility Base (Moon)
+    slug: texas-tranquility-base-moon-usa
+  - node_id: be28c01d-c0b8-4d92-8f1e-058f911b267e
+    title: Ritual Alignment Model
+    slug: ritual-alignment-model
+  date: '1969-07-20'
+  date_end: null
+  location_in_record: ch5:8643-8922
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 8b1c688e-541e-4973-b4fb-1345827398dd
+  claim_hash: c6c056d5b57bcc71277ed9116e6c52e5c5e001876fc673e1d5e97bf20b2105e1
+  content: In Mike Bara's assessment, had there been no stellar alignment of Regulus
+    at the second communion ceremony, the Ritual Alignment Model could have been falsified.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: be28c01d-c0b8-4d92-8f1e-058f911b267e
+    title: Ritual Alignment Model
+    slug: ritual-alignment-model
+  date: null
+  date_end: null
+  location_in_record: ch5:8980-9200
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 530bf7cb-8366-46b4-8771-67b3c88a02f3
+  claim_hash: 7e6c055415414075f558332098bee907c1c18c13c8312ac371577edc2b00aac6
+  content: In the Ritual Alignment Model, Leo represents Horus, the son of Isis and
+    Osiris in the ancient Egyptian stellar religion.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 354da422-ae2e-41c6-8eeb-b9830475a92d
+    title: Horus
+    slug: horus
+  - node_id: 7c386199-42da-4a3b-b7fe-b86a28febb34
+    title: Isis
+    slug: isis
+  - node_id: 88d12688-6530-4a65-97fc-96c3a9351e42
+    title: Leo (constellation)
+    slug: leo-constellation
+  - node_id: 8ecf450c-a590-42de-a98b-077d191c736e
+    title: Osiris
+    slug: osiris
+  - node_id: be28c01d-c0b8-4d92-8f1e-058f911b267e
+    title: Ritual Alignment Model
+    slug: ritual-alignment-model
+  date: null
+  date_end: null
+  location_in_record: ch5:9205-9317
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 4479691b-231e-4848-8f3c-4b63c405e75a
+  claim_hash: f619f7755687e6ba3fd1467081725715b08ff473cc27e6bbf022ad2a32fd751a
+  content: In the Ritual Alignment Model, Horus is considered equal in stature to
+    his parents Isis and Osiris and is one of the gods of ancient Egypt who recurs
+    in the mythology of NASA.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 354da422-ae2e-41c6-8eeb-b9830475a92d
+    title: Horus
+    slug: horus
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 7c386199-42da-4a3b-b7fe-b86a28febb34
+    title: Isis
+    slug: isis
+  - node_id: 8ecf450c-a590-42de-a98b-077d191c736e
+    title: Osiris
+    slug: osiris
+  - node_id: be28c01d-c0b8-4d92-8f1e-058f911b267e
+    title: Ritual Alignment Model
+    slug: ritual-alignment-model
+  date: null
+  date_end: null
+  location_in_record: ch5:9327-9509
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 3a899533-ba2a-4788-86dd-203f8dcd94e9
+  claim_hash: 614d92e22742ed5a3d040ad3c1bdb53604d0e67fe75d41ec07984ff563a06ffd
+  content: Regulus is the only star in the constellation Leo that Mike Bara and Richard
+    C. Hoagland recognise as significant in the Ritual Alignment Model.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: 7ea4ae5b-0201-40dd-bebc-fbcc85db9940
+    title: Regulus
+    slug: regulus
+  - node_id: 88d12688-6530-4a65-97fc-96c3a9351e42
+    title: Leo (constellation)
+    slug: leo-constellation
+  - node_id: be28c01d-c0b8-4d92-8f1e-058f911b267e
+    title: Ritual Alignment Model
+    slug: ritual-alignment-model
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch5:9515-9632
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: fa4a835c-f34f-4d6b-aebf-1964378866b7
+  claim_hash: 415e1c90f1c89db2303576498c9ebc78c8cd39c01a99c88bacd582085e86fc46
+  content: 'In the Ritual Alignment Model, only five stellar objects in the sky have
+    significance: the three belt stars of Orion (representing Osiris), Sirius (representing
+    Isis), and Regulus in Leo (representing Horus).'
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 7c386199-42da-4a3b-b7fe-b86a28febb34
+    title: Isis
+    slug: isis
+  - node_id: 7ea4ae5b-0201-40dd-bebc-fbcc85db9940
+    title: Regulus
+    slug: regulus
+  - node_id: 8ecf450c-a590-42de-a98b-077d191c736e
+    title: Osiris
+    slug: osiris
+  - node_id: be28c01d-c0b8-4d92-8f1e-058f911b267e
+    title: Ritual Alignment Model
+    slug: ritual-alignment-model
+  - node_id: eb5d9a0e-f0b9-4d9e-a175-0817bd12c734
+    title: Sirius
+    slug: sirius
+  date: null
+  date_end: null
+  location_in_record: ch5:9846-10074
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 060d8577-e7a2-41e4-ab85-5813931a2a5c
+  claim_hash: e4aad2af926646846ab0cb0bca36366e91f788e87639346c8df96f324cfb9ced
+  content: Richard C. Hoagland and Mike Bara divide the architects of the NASA Brookings
+    cover-up into three groups they call the Magicians, the Masons and the Nazis.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch7:11177-11300
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 4a20a8f9-26a1-48d5-ba40-f64d04984070
+  claim_hash: b37770dd2831a092b399907257aed95c3872b2ade950cc87a08929f78df6ae7a
+  content: Jack Kasher, Mark Carlotto, Mike Barra, and Richard Hoagland have raised
+    anomalies or problems with National Aeronautics and Space Administration (NASA)'s
+    ice-debris explanation for the STS-48 UAP incident that Maaneli "Max" Derakhshani
+    has never seen satisfactorily explained by NASA or any NASA scientists or engineers.
+  original_excerpt: there are anomalies or problems with that explanation that have
+    been made very clear by Dr. Kasher, Dr. Carlotto, Mike Barra, Richard Hoagland.
+    in various places that I've never seen any satisfactory explanation for from NASA
+    or any NASA scientists or engineers.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+  provenance_chain:
+    origin_kind: speaker
+    origin: Maaneli "Max" Derakhshani
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
+    title: Jack Kasher
+    slug: jack-kasher
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+    slug: mark-c-carlotto
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: 00:33:28.6-00:33:46.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null

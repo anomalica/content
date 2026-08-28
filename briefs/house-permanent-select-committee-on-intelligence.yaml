@@ -1,0 +1,257 @@
+schema: anomalica/brief/1
+brief_hash: e382b76b5e9dabbfbd2ad96cffdfc57429df454e96e9713ae138aeed1d4e680b
+page:
+  kind: entity
+  node_id: 51360b23-b55e-4e40-881e-c828b07f01ef
+  node_type: organisation
+  title: House Permanent Select Committee on Intelligence
+  slug: house-permanent-select-committee-on-intelligence
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+  title: David Charles Grusch
+  node_type: person
+  slug: david-charles-grusch
+  shared_claims: 4
+- node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+  title: US Senate Select Committee on Intelligence
+  node_type: organisation
+  slug: us-senate-select-committee-on-intelligence
+  shared_claims: 4
+- node_id: 686eaae7-5727-44a9-9928-85c56a0eccb8
+  title: Avril Haines
+  node_type: person
+  slug: avril-haines
+  shared_claims: 1
+- node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+  title: Inspector General of the Intelligence Community
+  node_type: organisation
+  slug: inspector-general-of-the-intelligence-community
+  shared_claims: 1
+- node_id: 953f6232-9902-437f-ad4c-add4fd080043
+  title: Leslie Kean
+  node_type: person
+  slug: leslie-kean
+  shared_claims: 1
+- node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
+  title: Ralph Blumenthal
+  node_type: person
+  slug: ralph-blumenthal
+  shared_claims: 1
+claims:
+- claim_id: 92ab0c63-7a26-4521-bc47-405d01d3e22a
+  claim_hash: 5d0852170e4be047d4da6e833f0d55a67481ab90b20aec283abb91e99bcc1502
+  content: According to David Charles Grusch, a summary of his complaint was immediately
+    submitted to the Director of National Intelligence, Avril Haines, the Senate Select
+    Committee on Intelligence, and the House Permanent Select Committee on Intelligence.
+  original_excerpt: According to Grusch, a summary was immediately submitted to the
+    Director of National Intelligence, Avril Haines; the Senate Select Committee on
+    Intelligence; and the House Permanent Select Committee on Intelligence.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Charles Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+    title: US Senate Select Committee on Intelligence
+    slug: us-senate-select-committee-on-intelligence
+  - node_id: 51360b23-b55e-4e40-881e-c828b07f01ef
+    title: House Permanent Select Committee on Intelligence
+    slug: house-permanent-select-committee-on-intelligence
+  - node_id: 686eaae7-5727-44a9-9928-85c56a0eccb8
+    title: Avril Haines
+    slug: avril-haines
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: char:12634-12836
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+- claim_id: 93762162-d016-4241-8d1d-5757a48b3ca5
+  claim_hash: 7e4a0e3ab622090e8f3ae9edd2f2dcd57c6ba6ed48c72440375dc1aaaab0e915
+  content: A representative of the House Permanent Select Committee on Intelligence
+    told Leslie Kean and Ralph Blumenthal in March 2023 that committee members are
+    not able to comment on the content of a complaint or confirm the identity of a
+    complainant.
+  original_excerpt: A representative of the House Permanent Select Committee on Intelligence
+    told us in March that the committee members are not able to comment on the content
+    of a complaint or confirm the identity of a complainant.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: a representative of the House Permanent Select Committee on Intelligence
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 51360b23-b55e-4e40-881e-c828b07f01ef
+    title: House Permanent Select Committee on Intelligence
+    slug: house-permanent-select-committee-on-intelligence
+  - node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
+    title: Ralph Blumenthal
+    slug: ralph-blumenthal
+  - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+    slug: leslie-kean
+  date: 2023-03
+  date_end: null
+  location_in_record: char:13542-13742
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+- claim_id: 1f7ea2ec-6855-4b18-8a9c-addffa69e14b
+  claim_hash: 16ac880b16f57ee9122dd36ad3fefdf6364ff2d633f5853ae80c3dd280de1842
+  content: In the summer of 2022, the Inspector General of the Intelligence Community
+    was required to forward David Grusch's complaint to the United States Senate Select
+    Committee on Intelligence and the United States House Permanent Select Committee
+    on Intelligence.
+  original_excerpt: Admiral Haynes was forced to send it to the Senate and House Intelligence
+    Committees. in summer 2022
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+    title: US Senate Select Committee on Intelligence
+    slug: us-senate-select-committee-on-intelligence
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    slug: inspector-general-of-the-intelligence-community
+  - node_id: 51360b23-b55e-4e40-881e-c828b07f01ef
+    title: House Permanent Select Committee on Intelligence
+    slug: house-permanent-select-committee-on-intelligence
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: '2022'
+  date_end: null
+  location_in_record: 00:26:23.9-00:26:29.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null
+- claim_id: 9ea8ace8-0065-4fda-ad4e-74d262b0f693
+  claim_hash: 11b986a6dea149116ab9f83701a862bb56872f699634455febc747913957ee07
+  content: David Grusch subsequently gave 11 and a half hours of classified testimony
+    to the United States Senate Select Committee on Intelligence and the United States
+    House Permanent Select Committee on Intelligence.
+  original_excerpt: and then I subsequently provided 11 and a half hours of classified
+    testimony to the Senate and House Intelligence Committees.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+    title: US Senate Select Committee on Intelligence
+    slug: us-senate-select-committee-on-intelligence
+  - node_id: 51360b23-b55e-4e40-881e-c828b07f01ef
+    title: House Permanent Select Committee on Intelligence
+    slug: house-permanent-select-committee-on-intelligence
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: 00:26:29.6-00:26:36.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null
+- claim_id: fd191e2d-8b76-4974-aafb-246219774955
+  claim_hash: d5481798b3b2ceb5219aeb89bc8c45d81bc110f105f09d35e58255e424badf18
+  content: The United States Senate Select Committee on Intelligence and the United
+    States House Permanent Select Committee on Intelligence opened a full-field investigation
+    after David Grusch's classified testimony, but there was some fear in those committees,
+    especially in the Senate.
+  original_excerpt: Unfortunately, from what I understand, there was a little bit
+    of fear in those committees, especially in the Senate, and they did open up some
+    full-field investigation.
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unnamed sources described only as what David Grusch understands
+    relay:
+    - David Grusch
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+    title: US Senate Select Committee on Intelligence
+    slug: us-senate-select-committee-on-intelligence
+  - node_id: 51360b23-b55e-4e40-881e-c828b07f01ef
+    title: House Permanent Select Committee on Intelligence
+    slug: house-permanent-select-committee-on-intelligence
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: 00:26:37.5-00:26:45.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null

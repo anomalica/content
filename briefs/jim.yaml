@@ -1,0 +1,184 @@
+schema: anomalica/brief/1
+brief_hash: 8088aab8dae7664b4534bd31078fca7c5a5445ac56666f6c70bdcc6b0dcc943f
+page:
+  kind: entity
+  node_id: b27f37de-c11f-4faf-a5a6-c231c0bf9654
+  node_type: person
+  title: Jim
+  slug: jim
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 2
+- node_id: a738ad53-c15b-4aa6-925f-2015c3166309
+  title: Jesse DeLuca
+  node_type: person
+  slug: jesse-deluca
+  shared_claims: 1
+- node_id: d41f1695-f15a-45c4-9b6c-62da03484381
+  title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP) encounter
+  node_type: event
+  slug: jesse-delucas-2024-05-quebec-drone-unidentified-aerial-phenomena-uap-encounter
+  shared_claims: 1
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+claims:
+- claim_id: 245687d6-b591-484c-aee0-75780bbead61
+  claim_hash: 2ce5dc6f90c54e53a899302376140346cf1345ea3076035a8076f6a95b271e9e
+  content: During the 2004 USS Nimitz UFO incident, Jim, the weapon systems operator
+    in the other aircraft, was the first to draw attention to the white water on the
+    ocean surface below.
+  original_excerpt: the back seater in the other airplane, Jim, says, this is that
+    talking in parcels again. He says, hey, Skipper, do you?
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: b27f37de-c11f-4faf-a5a6-c231c0bf9654
+    title: Jim
+    slug: jim
+  date: '2004'
+  date_end: null
+  location_in_record: 01:21:36.7-01:21:42.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: e684686c-cee5-465c-9bf3-888ee9be869d
+  claim_hash: e4a0e36b17b4da06f80d6f3e1294e0a88a2396571059b1eed2dcf7939bc4e221
+  content: Jim has spoken publicly in the past about the 2004 USS Nimitz UFO incident
+    but is now unreachable and does not speak to anyone about it.
+  original_excerpt: So Jim has talked, but he's off the grid. He doesn't talk to anyone
+    now.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: b27f37de-c11f-4faf-a5a6-c231c0bf9654
+    title: Jim
+    slug: jim
+  date: null
+  date_end: null
+  location_in_record: 01:46:13.2-01:46:16.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: ff964361-2212-4d37-a293-3af9fe720834
+  claim_hash: 76f6939cda2259372557d44d80967f95829e838c8277a59910d893bf2596711c
+  content: Jesse DeLuca spoke with Jim about the Unidentified Aerial Phenomena (UAP)
+    subject the week before this conversation.
+  original_excerpt: i spoke to one last week jim
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: a738ad53-c15b-4aa6-925f-2015c3166309
+    title: Jesse DeLuca
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse DeLuca
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: a738ad53-c15b-4aa6-925f-2015c3166309
+    title: Jesse DeLuca
+    slug: jesse-deluca
+  - node_id: b27f37de-c11f-4faf-a5a6-c231c0bf9654
+    title: Jim
+    slug: jim
+  date: '2024-08-29'
+  date_end: null
+  location_in_record: 00:24:17.2-00:24:18.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
+    record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
+    record_date: '2024-09-05'
+    record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
+    content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
+    friendly_name: null
+- claim_id: 625b2a06-a9c5-4af4-926f-4d4a2c374570
+  claim_hash: 0f52548747059036169bbcaa92988e27db3a4091ec6875c12d3a191bdc10a194
+  content: Jim believes the object filmed during Jesse DeLuca's May 2024 Quebec drone
+    UAP encounter is something rather than a bug.
+  original_excerpt: you guys believe it's it's something and not not just a bug
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: a738ad53-c15b-4aa6-925f-2015c3166309
+    title: Jesse DeLuca
+  provenance_chain:
+    origin_kind: named
+    origin: Jim
+    relay:
+    - Jesse DeLuca
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b27f37de-c11f-4faf-a5a6-c231c0bf9654
+    title: Jim
+    slug: jim
+  - node_id: d41f1695-f15a-45c4-9b6c-62da03484381
+    title: Jesse DeLuca's 2024-05 Quebec drone Unidentified Aerial Phenomena (UAP)
+      encounter
+    slug: jesse-delucas-2024-05-quebec-drone-unidentified-aerial-phenomena-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: 00:24:20.4-00:24:24.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 44aad81e-e018-4abe-8080-7157ef9ab4c7
+    record_title: UAP Caught on Drone in 4K! - DEBRIEFED ep. 5
+    record_date: '2024-09-05'
+    record_reference: https://www.youtube.com/watch?v=VDbSTHnHQhg
+    content_hash: sha256:aa3ed9a5ac8f2603e4ef87bfb01dc7209dfa44f140c4f66d22cc1027a55fea2a
+    friendly_name: null

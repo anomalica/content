@@ -1,0 +1,580 @@
+schema: anomalica/brief/1
+brief_hash: 97a8cc8a901126de80188be6b5d8080972c3f375279794fff76e2ef52a828408
+page:
+  kind: entity
+  node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+  node_type: event
+  title: Roswell Unidentified Flying Object (UFO) crash
+  slug: roswell-unidentified-flying-object-ufo-crash
+  claim_count: 12
+  claim_count_total: 12
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+  title: USA, New Mexico, Roswell
+  node_type: place
+  slug: new-mexico-roswell-usa
+  shared_claims: 6
+- node_id: 59476464-a679-46ce-9247-b0adcb287762
+  title: Edgar Mitchell
+  node_type: person
+  slug: edgar-mitchell
+  shared_claims: 3
+- node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+  title: Albert Einstein
+  node_type: person
+  slug: albert-einstein
+  shared_claims: 2
+- node_id: 913881ee-38df-400d-8494-6c84d853b010
+  title: Shirley Wright
+  node_type: person
+  slug: shirley-wright
+  shared_claims: 2
+- node_id: fe3c3cad-1254-4836-9a07-3afd6dbed7cc
+  title: The Irish Times report on Roswell, 1947-07-09
+  node_type: document
+  slug: 1947-07-09-the-irish-times-report-on-roswell
+  shared_claims: 2
+- node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+  title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+  node_type: document
+  slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+  shared_claims: 2
+- node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+  title: extraterrestrial biological entity (EBE)
+  node_type: topic
+  slug: extraterrestrial-biological-entity-ebe
+  shared_claims: 2
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 1
+- node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+  title: Kenneth Arnold
+  node_type: person
+  slug: kenneth-arnold
+  shared_claims: 1
+- node_id: 87be216c-2fde-4e95-9755-8c97df856b06
+  title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
+  node_type: event
+  slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
+  shared_claims: 1
+- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+  title: Project Blue Book
+  node_type: project
+  slug: project-blue-book
+  shared_claims: 1
+- node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+  title: Project GRUDGE
+  node_type: project
+  slug: project-grudge
+  shared_claims: 1
+- node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+  title: Tyler D.
+  node_type: person
+  slug: tyler-d
+  shared_claims: 1
+- node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+  title: USA, New Mexico
+  node_type: place
+  slug: new-mexico-usa
+  shared_claims: 1
+claims:
+- claim_id: eb5bfdb7-8d44-4256-8edc-b132e99a4733
+  claim_hash: 2409e36d00485883dc72ae8af04aa432dc3217baad2ac54c452b785f5536b54b
+  content: The New Mexico site Tyler D., James Master, and D. W. Pasulka visited was
+    the site of a crash that occurred in New Mexico in 1947, distinct from the Roswell
+    event, and had been largely forgotten over time.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tyler D.
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+    title: Roswell Unidentified Flying Object (UFO) crash
+    slug: roswell-unidentified-flying-object-ufo-crash
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    slug: tyler-d
+  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+    title: USA, New Mexico
+    slug: new-mexico-usa
+  date: '1947'
+  date_end: null
+  location_in_record: ch2:39717-39857
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: f34c3dae-548f-4b87-926d-08eb26ae2f56
+  claim_hash: 84622f6288e897f36887cb38ec767d7aa247c94c7b14ed5dc2994f1e575372c7
+  content: Edgar Mitchell grew up in Roswell, New Mexico, the site of the 1947 Roswell
+    UFO crash.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+    title: Roswell Unidentified Flying Object (UFO) crash
+    slug: roswell-unidentified-flying-object-ufo-crash
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  date: null
+  date_end: null
+  location_in_record: ch6:23239-23335
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: e06d2874-9f20-4428-b858-379781b35588
+  claim_hash: 1f45444495e23fd6ef032d36cfbbb276fa34411ea272bcaf789a3377f8a45799
+  content: When Edgar Mitchell returned to Roswell, New Mexico, many old-timers and
+    their children pulled him aside and told him intimate stories of the ship that
+    crashed in Roswell.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+    title: Rey Hernandez
+  provenance_chain:
+    origin_kind: named
+    origin: Edgar Mitchell
+    relay:
+    - Rey Hernandez
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+    title: Roswell Unidentified Flying Object (UFO) crash
+    slug: roswell-unidentified-flying-object-ufo-crash
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  date: null
+  date_end: null
+  location_in_record: ch6:23736-23894
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 1f1d8de5-6a0f-473a-9898-1936186c8be6
+  claim_hash: bedafce8cabeb0a9440fdcba42dd85c2bf526342173cd022412e12bd9e8c0bda
+  content: Edgar Mitchell told Rey Hernandez that, based on information from very
+    reliable individuals he had known most of his life, the Roswell crash was real.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+    title: Rey Hernandez
+  provenance_chain:
+    origin_kind: named
+    origin: unnamed individuals known to Edgar Mitchell in Roswell
+    relay:
+    - Edgar Mitchell
+    - Rey Hernandez
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+    title: Roswell Unidentified Flying Object (UFO) crash
+    slug: roswell-unidentified-flying-object-ufo-crash
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  date: null
+  date_end: null
+  location_in_record: ch6:23903-24064
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 8becd833-686a-4aad-985f-dc80c7ffd413
+  claim_hash: c249f78d479aa94359f41349ed370d61744138c462eca0b176c56ac5328d9ef2
+  content: The Relationships with Inhabitants of Celestial Bodies document was allegedly
+    written one month before the 1947 Roswell UFO crash.
+  original_excerpt: that would have been one month prior to the famous Roswell crash
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+    title: Roswell Unidentified Flying Object (UFO) crash
+    slug: roswell-unidentified-flying-object-ufo-crash
+  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+  date: null
+  date_end: null
+  location_in_record: 00:01:17.2-00:01:20.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 7ff8eac5-9c49-4962-96f7-09e813d662a7
+  claim_hash: 178b79527b7e41b096bd32b9968e4d56c94b48aa2129a866e38984bba065b52a
+  content: On Wednesday, 1947-07-09, the Irish Times reported that the U.S. War Department
+    stated it was without news of the New Mexico flying saucer and was checking with
+    Roswell, New Mexico.
+  original_excerpt: Wednesday, July 9th in 1947, newspaper The Irish Times says this.
+    The U.S. War Department stated last night that they were without news of the New
+    Mexico flying saucer and were checking with Roswell.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Irish Times report on Roswell, 9 July 1947
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+    title: Roswell Unidentified Flying Object (UFO) crash
+    slug: roswell-unidentified-flying-object-ufo-crash
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: fe3c3cad-1254-4836-9a07-3afd6dbed7cc
+    title: The Irish Times report on Roswell, 1947-07-09
+    slug: 1947-07-09-the-irish-times-report-on-roswell
+  date: '1947-07-09'
+  date_end: null
+  location_in_record: 00:06:10.4-00:06:23.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 4da013bd-4a3a-44fe-8727-26465f1e0672
+  claim_hash: 000dc3eff94b02e7f315c48a4bc19e4ee56ded39ede7cb342de2e22c197264ad
+  content: According to the Irish Times report of 1947-07-09, Albert Einstein told
+    a United Press correspondent he had absolutely no comment to make regarding the
+    Roswell reports.
+  original_excerpt: Professor Einstein told a U.P. correspondent he had absolutely
+    no comment to make.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Irish Times report on Roswell, 9 July 1947
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+    title: Roswell Unidentified Flying Object (UFO) crash
+    slug: roswell-unidentified-flying-object-ufo-crash
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  - node_id: fe3c3cad-1254-4836-9a07-3afd6dbed7cc
+    title: The Irish Times report on Roswell, 1947-07-09
+    slug: 1947-07-09-the-irish-times-report-on-roswell
+  date: '1947-07-09'
+  date_end: null
+  location_in_record: 00:06:24.4-00:06:30.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 05c80664-5109-486c-a318-4c8b7ef1fd18
+  claim_hash: 6c821f4527124c8b4dda8b616a7bde845d4dccad5580862a44e04d31a6859299
+  content: In a confession tape, Shirley Wright said she studied under Albert Einstein
+    at Princeton and was taken to the crash site of the 1947 Roswell UFO crash, given
+    a tour inside the craft, shown eight dead bodies and one living entity, and had
+    an exchange and communication with one of the entities.
+  original_excerpt: This is a confession tape by Dr. Wright, who says that she studied
+    under Albert Einstein at Princeton and was... I guess, taken to the crash at Roswell
+    and was given a tour inside the craft, shown the bodies where there lay eight
+    dead and one alive, and even had an exchange and communication with one of these
+    entities.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 913881ee-38df-400d-8494-6c84d853b010
+    title: Shirley Wright
+  provenance_chain:
+    origin_kind: named
+    origin: Shirley Wright
+    relay:
+    - a confession tape recorded by Shirley Wright
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+    title: Roswell Unidentified Flying Object (UFO) crash
+    slug: roswell-unidentified-flying-object-ufo-crash
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  - node_id: 913881ee-38df-400d-8494-6c84d853b010
+    title: Shirley Wright
+    slug: shirley-wright
+  - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+    title: extraterrestrial biological entity (EBE)
+    slug: extraterrestrial-biological-entity-ebe
+  date: null
+  date_end: null
+  location_in_record: 00:09:12.0-00:09:34.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 4ffbb1f8-9c1a-4c28-abd2-c6bb95123eea
+  claim_hash: f747d4f4789041fbf96e52f8c893a811bfe6900810b6517595fa4d0cc5b5c13e
+  content: On the confession tape, Shirley Wright said the surviving entity indicated
+    to those present that it was not from their galaxy.
+  original_excerpt: They indicated to us that they were not from our galaxy, definitely
+    not from our galaxy.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 913881ee-38df-400d-8494-6c84d853b010
+    title: Shirley Wright
+  provenance_chain:
+    origin_kind: named
+    origin: Shirley Wright
+    relay:
+    - a confession tape recorded by Shirley Wright
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+    title: Roswell Unidentified Flying Object (UFO) crash
+    slug: roswell-unidentified-flying-object-ufo-crash
+  - node_id: 913881ee-38df-400d-8494-6c84d853b010
+    title: Shirley Wright
+    slug: shirley-wright
+  - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+    title: extraterrestrial biological entity (EBE)
+    slug: extraterrestrial-biological-entity-ebe
+  date: null
+  date_end: null
+  location_in_record: 00:09:36.2-00:09:40.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: ef1f62b7-66db-45ec-a6f5-c325bc3b3775
+  claim_hash: 0920fc0fd8f408142ff8bd151bcf9bcfac3fdfe29d5316f07bdc7a596654a9a1
+  content: One month after The Relationships with Inhabitants of Celestial Bodies
+    (1947 document) was written, at least one crash (possibly two) occurred at Roswell,
+    New Mexico.
+  original_excerpt: one month later there would be a crash at least one crash if not
+    two in roswell new mexico
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+    title: Roswell Unidentified Flying Object (UFO) crash
+    slug: roswell-unidentified-flying-object-ufo-crash
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+  date: 1947-07
+  date_end: null
+  location_in_record: 00:35:09.2-00:35:15.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 5cf33c62-1a47-4179-af3f-1dd976071aae
+  claim_hash: 2140d93eba944b666455220195ecd84d1452ce2948e0132305b9ee9a4666430d
+  content: Chris Ramsey states that the Roswell crash and the sighting by Kenneth
+    Arnold, followed by the Aztec crash, prompted government and military interest
+    in UFOs, leading to the formation of Project Grudge, which later turned into Project
+    Blue Book.
+  original_excerpt: seeing something or hearing something as alarming as a UFO crash
+    in Roswell and the sightings of Kenneth Arnold, and then subsequently the crash
+    at Aztec... They formed Project Grudge, which turned into Project Blue Book.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+    title: Roswell Unidentified Flying Object (UFO) crash
+    slug: roswell-unidentified-flying-object-ufo-crash
+  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+    title: Project GRUDGE
+    slug: project-grudge
+  - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+    title: Kenneth Arnold
+    slug: kenneth-arnold
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
+    title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
+    slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: 00:37:22.6-00:37:42.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: ae875f28-de12-47d2-aa3b-27757a1172c3
+  claim_hash: c321da920d11cd60ef8eddabea5a18b2d01a56e88a841b5ab005d4ef5cfdb024
+  content: It is said that the 1947 Roswell crash may have been caused when two disks
+    passed too close to a high-powered radar station, the high-powered microwaves
+    from the radar interrupting the field propulsion around the craft and causing
+    it to veer off course and crash.
+  original_excerpt: it's said that the Roswell crash may have been caused when two
+    disks passed too close to a high powered radar station. And the thought is that
+    these high powered microwaves from the radar interrupt the flight envelope, the
+    field propulsion around their craft. and it'll veer off course and crash into
+    something.
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+    title: Roswell Unidentified Flying Object (UFO) crash
+    slug: roswell-unidentified-flying-object-ufo-crash
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  date: '1947'
+  date_end: null
+  location_in_record: 01:46:58.5-01:47:25.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+    record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik
+      Nanstiel | DEBRIEFED ep. 85'
+    record_date: '2026-04-24'
+    record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+    content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+    friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2

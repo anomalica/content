@@ -1,0 +1,148 @@
+schema: anomalica/brief/1
+brief_hash: 45753285cd05e4972ba7b861e18af933ff274de5d0a525f550e4b38fb83549ff
+page:
+  kind: entity
+  node_id: ede32718-5670-4e5a-97da-13b980b85676
+  node_type: event
+  title: Betty and Barney Hill abduction case
+  slug: betty-and-barney-hill-abduction-case
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+  title: Barack Obama
+  node_type: person
+  slug: barack-obama
+  shared_claims: 1
+- node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+  title: Betty Hill
+  node_type: person
+  slug: betty-hill
+  shared_claims: 1
+- node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+  title: Marjorie Fish
+  node_type: person
+  slug: marjorie-fish
+  shared_claims: 1
+- node_id: a670ba7e-02aa-4f8b-a201-484badfc8e1c
+  title: Zeta Reticuli
+  node_type: place
+  slug: zeta-reticuli
+  shared_claims: 1
+- node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+  title: alien abduction
+  node_type: topic
+  slug: alien-abduction
+  shared_claims: 1
+claims:
+- claim_id: f92d021d-ac9e-488e-9cae-1173692517f8
+  claim_hash: f7e7c07c37ac24d12cfeb6f45b7392bdb4fd305e43262b3eb7ae0cdaddfaf509
+  content: Marjorie Fish, an amateur astronomer, took Betty Hill's star map seen during
+    her abduction and correlated it to Zeta Reticuli.
+  original_excerpt: Marjorie Fish, this amateur astronomer, took Betty Hill's star
+    map that she saw during her abduction and was able to correlate it to Zeta Reticuli.
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+    title: Marjorie Fish
+    slug: marjorie-fish
+  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+    title: Betty Hill
+    slug: betty-hill
+  - node_id: a670ba7e-02aa-4f8b-a201-484badfc8e1c
+    title: Zeta Reticuli
+    slug: zeta-reticuli
+  - node_id: ede32718-5670-4e5a-97da-13b980b85676
+    title: Betty and Barney Hill abduction case
+    slug: betty-and-barney-hill-abduction-case
+  date: null
+  date_end: null
+  location_in_record: 01:03:32.6-01:03:53.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+    record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik
+      Nanstiel | DEBRIEFED ep. 85'
+    record_date: '2026-04-24'
+    record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+    content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+    friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+- claim_id: bba7c117-50bc-4977-adc6-e9c4602dbb8f
+  claim_hash: 392a7be4e4bb97b3e4c9d007998f9bd523ff2def39384d8efe1ce87be7651444
+  content: Barack Obama is producing a documentary about the Betty and Barney Hill
+    abduction.
+  original_excerpt: I mean, he's producing this Betty and Barney Hill documentary.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michels
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Barack Obama
+    slug: barack-obama
+  - node_id: ede32718-5670-4e5a-97da-13b980b85676
+    title: Betty and Barney Hill abduction case
+    slug: betty-and-barney-hill-abduction-case
+  date: null
+  date_end: null
+  location_in_record: 00:51:23.5-00:51:26.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: cee073e3-9d8c-4ace-8239-5dae82abb296
+  claim_hash: 6abcc2e6eed63356b765817d274339e044262b094cd55fcd28af6ed5dca6c054
+  content: Betty and Barney Hill were the subjects of America's first famous alien
+    abduction case.
+  original_excerpt: '[note: Betty and Barney Hill - Subjects of America''s first famous
+    abduction case]'
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: source record annotation
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: alien abduction
+    slug: alien-abduction
+  - node_id: ede32718-5670-4e5a-97da-13b980b85676
+    title: Betty and Barney Hill abduction case
+    slug: betty-and-barney-hill-abduction-case
+  date: null
+  date_end: null
+  location_in_record: line 207
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

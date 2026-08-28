@@ -1,0 +1,1145 @@
+schema: anomalica/brief/1
+brief_hash: dfdbeec36205c8940a2db292ba0ec79e6f1404b8fe11f32a587522b86a77de22
+page:
+  kind: entity
+  node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+  node_type: person
+  title: Donald Menzel
+  slug: donald-menzel
+  claim_count: 27
+  claim_count_total: 27
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: e1efac10-b1f7-4eb4-86aa-20beb6665b14
+  title: April 24, 1949 Charles B. Moore balloon and unidentified object sighting
+  node_type: event
+  slug: 1949-charles-b-moore-balloon-and-unidentified-object-sighting-april-24
+  shared_claims: 7
+- node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+  title: Vannevar Bush
+  node_type: person
+  slug: vannevar-bush
+  shared_claims: 6
+- node_id: 76f1f8df-8630-4c18-bc8d-4d2f0ac0418f
+  title: Flying Saucers (book by Donald Menzel)
+  node_type: document
+  slug: flying-saucers-book-by-donald-menzel
+  shared_claims: 5
+- node_id: 93df8d48-8068-409a-a198-27e923af6cde
+  title: Majestic 12 (MJ-12)
+  node_type: project
+  slug: majestic-12-mj-12
+  shared_claims: 4
+- node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+  title: Harvard University
+  node_type: organisation
+  slug: harvard-university
+  shared_claims: 3
+- node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+  title: Stanton Friedman
+  node_type: person
+  slug: stanton-friedman
+  shared_claims: 3
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 2
+- node_id: 7f63d15c-d82b-4863-9a98-c3bf3a27e5e1
+  title: Charles B. Moore
+  node_type: person
+  slug: charles-b-moore
+  shared_claims: 2
+- node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+  title: National Security Agency (NSA)
+  node_type: organisation
+  slug: national-security-agency-nsa
+  shared_claims: 2
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 2
+- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+  title: United States Navy (USN)
+  node_type: organisation
+  slug: united-states-navy-usn
+  shared_claims: 2
+- node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+  title: Bruce Maccabee
+  node_type: person
+  slug: bruce-maccabee
+  shared_claims: 1
+- node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+  title: Carl Sagan
+  node_type: person
+  slug: carl-sagan
+  shared_claims: 1
+- node_id: 05b87b4f-5eaa-4cae-9e6a-deba17adf186
+  title: Carnegie Institution
+  node_type: organisation
+  slug: carnegie-institution
+  shared_claims: 1
+- node_id: fcfb3a58-0691-4cb4-bc41-89f0842afe7a
+  title: Immanuel Velikovsky
+  node_type: person
+  slug: immanuel-velikovsky
+  shared_claims: 1
+- node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+  title: Massachusetts Institute of Technology (MIT)
+  node_type: organisation
+  slug: massachusetts-institute-of-technology-mit
+  shared_claims: 1
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 1
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 1
+claims:
+- claim_id: a08a62f7-c7bf-4228-b5db-2ca02b6dad5c
+  claim_hash: a528b8350753d74f676b60f6b480b45d6483c41b8ec8207555c9a5d62d8b5948
+  content: Donald Menzel of Harvard described many aerial phenomena, including weather
+    balloons, that under certain weather conditions can look like UFOs (Unidentified
+    Flying Objects).
+  original_excerpt: Menzel of Harvard has described many aerial phenomena, weather
+    balloons and thoughts that under certain weather conditions can look like UFOs.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+    title: Benjamin Simon
+  provenance_chain:
+    origin_kind: named
+    origin: Donald Menzel
+    relay:
+    - Benjamin Simon
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: 00:29:40.8-00:29:51.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
+    record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories
+      | Dr. Benjamin Simon Speaks
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
+    content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
+    friendly_name: null
+- claim_id: 34f7d4d2-f985-4ef2-a473-5de4217171dd
+  claim_hash: 8d1162d940a8140e9f147c0ad9c857272a81d67ec7705061e9e9c335b1036c99
+  content: Donald Menzel rejected the idea of interstellar space visitation because
+    even the nearest stars are too far away for interstellar travel to be feasible,
+    even at high speeds.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+  provenance_chain:
+    origin_kind: named
+    origin: Donald Menzel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch5:3632-3796
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 951afd96-5497-41e1-bedd-98b6d68a6d2f
+  claim_hash: 60fdbdce3edc9e49d41de9f6c74fe5f84dfbfc9fb9e832fec82de0e4f75cc8ce
+  content: Shortly before the Second World War, Vannevar Bush worked closely with
+    Donald Menzel, an astronomer at Harvard University, on the development of a differential
+    analyzer, the world's first modern analog computer.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    slug: vannevar-bush
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+    title: Harvard University
+    slug: harvard-university
+  date: null
+  date_end: null
+  location_in_record: ch12:68352-68549
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 298288c5-47ea-4ec1-a75b-0f0a0f4900cf
+  claim_hash: f7dfda9492f53db8504abc73ba84b8c37dc3b4349d8cab8e46c00171c16743e5
+  content: The differential analyzer developed by Vannevar Bush and Donald Menzel
+    eventually enabled NASA to accomplish some of its occult goals.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    slug: vannevar-bush
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch12:68559-68675
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2e83dc0b-e772-4ca2-916b-9df6c2492a19
+  claim_hash: 0ba742b0cc64bd677c746ce8eb48d001e8ccb76e239312a25837bbd75f04bbe2
+  content: In Vannevar Bush's 1950 testimony on behalf of Donald Menzel in loyalty
+    hearings, Bush stated he first knew Menzel in either 1934 or 1935 while engaged
+    in designing and building the differential analyzer at the Massachusetts Institute
+    of Technology, where Bush was then Vice President and Dean of Engineering.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+  provenance_chain:
+    origin_kind: speaker
+    origin: Vannevar Bush
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    slug: vannevar-bush
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: '1950'
+  date_end: null
+  location_in_record: ch12:68768-68963
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 655851eb-8f17-4a98-9af4-b379b49d3044
+  claim_hash: e50a5d973ebeea0404196b876bc7a384104497c225ef44015091a285c8f62c07
+  content: Donald Menzel was then an assistant or associate professor in the astronomy
+    department of Harvard University and was much interested in applying the differential
+    analyzer to certain astronomical and astrophysical problems.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+  provenance_chain:
+    origin_kind: speaker
+    origin: Vannevar Bush
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+    title: Harvard University
+    slug: harvard-university
+  date: '1950'
+  date_end: null
+  location_in_record: ch12:68976-69219
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 39e2e05f-b41e-4946-b016-ca44fc85dc14
+  claim_hash: f4ef62a480c297df9e0cdec617a82be7ffe7c8d9d675f02a308483e61d6b255d
+  content: Vannevar Bush and Donald Menzel's mutual interest in the differential analyzer
+    led to a technical association of some intimacy over a period of about a year,
+    after which they met frequently in connection with scientific or technical matters
+    until Bush became associated with the Carnegie Institution in 1939.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+  provenance_chain:
+    origin_kind: speaker
+    origin: Vannevar Bush
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 05b87b4f-5eaa-4cae-9e6a-deba17adf186
+    title: Carnegie Institution
+    slug: carnegie-institution
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    slug: vannevar-bush
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: '1950'
+  date_end: null
+  location_in_record: ch12:69229-69569
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 9cb4b2b2-9664-4ed8-b6ea-01f8aac8e896
+  claim_hash: 87d81384575b4136ec97837a9abd26b6f3c10e7bdbda5fe2fcc173c8e72253ae
+  content: Richard C. Hoagland considers that the objective of Vannevar Bush and Donald
+    Menzel's differential analyzer, although not overtly stated, was to develop a
+    computer able to predict the future positions of stars and planets from any point
+    in the solar system centuries ahead.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    slug: vannevar-bush
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch12:69576-69785
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a572a8f5-a29b-4d13-8123-45fd3f1a2c87
+  claim_hash: 92bb52d14127072159919d6a5b3d3080237a4d591e35cfb5f57d1565ca86e3f7
+  content: Vannevar Bush and Donald Menzel were both listed as founding members of
+    Majestic 12 (MJ-12) in the memo mailed to Jaime Shandera.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: microfilm memo mailed to Jaime Shandera, 1984
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    slug: vannevar-bush
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    slug: majestic-12-mj-12
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch12:70848-70890
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2b5d7616-bab2-476e-8b26-1069b00fcd66
+  claim_hash: 74f7bec6f45bc614ec08f6cce64d603f301c5aeafd2c3eefcf7611a72f3a0df3
+  content: Debunkers initially used the presence of Donald Menzel on the Majestic
+    12 list as proof the documents were forgeries, since Menzel had been a frequent
+    public UFO debunker who had written three books on the subject.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    slug: majestic-12-mj-12
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch12:70899-71090
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 890d919f-581d-40df-8c28-0daf835ca409
+  claim_hash: 151f3f63d0684bd792a380dd836341994d849a69ef10d11407f4bddf54905a94
+  content: Donald Menzel was the point man for public attacks on Immanuel Velikovsky,
+    a psychologist who had written a popular book arguing for a catastrophic model
+    of the solar system's origin.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  - node_id: fcfb3a58-0691-4cb4-bc41-89f0842afe7a
+    title: Immanuel Velikovsky
+    slug: immanuel-velikovsky
+  date: null
+  date_end: null
+  location_in_record: ch12:71103-71262
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 7b11d725-295f-4d0e-8d9c-70b376dab1ba
+  claim_hash: 1f7e5c0611576f6d35bd2f2cd3a13f5092d2889f28852ba6a9411cac50db2a67
+  content: Donald Menzel served as Carl Sagan's mentor at Harvard University and was
+    essentially the Carl Sagan of his day.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+    title: Carl Sagan
+    slug: carl-sagan
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+    title: Harvard University
+    slug: harvard-university
+  date: null
+  date_end: null
+  location_in_record: ch12:71270-71366
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 5bbc4fd3-2f27-4063-9b70-aaa71ae5f2ff
+  claim_hash: 896d4aef074eb4097827d836c8f3cd2701104da4f71b8629326552f7cbc32093
+  content: Stanton Friedman, a long-time UFO researcher and nuclear physicist, went
+    through Donald Menzel's papers as part of his research for a book on the Majestic
+    12 documents and discovered that Menzel had led an elaborate double life.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+    title: Stanton Friedman
+  provenance_chain:
+    origin_kind: speaker
+    origin: Stanton Friedman
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    slug: majestic-12-mj-12
+  - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+    title: Stanton Friedman
+    slug: stanton-friedman
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch12:71453-71676
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 4c88887e-d711-4ed6-a300-f370dd92e4a1
+  claim_hash: 9402d15cb089f6335effeed6a0b1c3bbedca94cfa8232048de44b48b164119c6
+  content: Stanton Friedman found numerous references to Donald Menzel's participation
+    in a variety of intelligence projects and committees, including top-secret weapons
+    programmes, that would have made Menzel an ideal candidate for Majestic 12.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+    title: Stanton Friedman
+  provenance_chain:
+    origin_kind: speaker
+    origin: Stanton Friedman
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    slug: majestic-12-mj-12
+  - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+    title: Stanton Friedman
+    slug: stanton-friedman
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch12:71682-71891
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 9003adec-38d2-4df2-85bd-10e21cee5402
+  claim_hash: 79d97648efede4d840d7a71929b05fbe826d607e94a746cfa8f8c10cb87a1d4e
+  content: Donald Menzel, in his 1953 book Flying Saucers, explained that a major
+    sighting carried out by professional observers with good equipment was an atmospheric
+    lensing effect.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+  provenance_chain:
+    origin_kind: document
+    origin: Flying Saucers (book by Donald Menzel)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f1f8df-8630-4c18-bc8d-4d2f0ac0418f
+    title: Flying Saucers (book by Donald Menzel)
+    slug: flying-saucers-book-by-donald-menzel
+  - node_id: e1efac10-b1f7-4eb4-86aa-20beb6665b14
+    title: April 24, 1949 Charles B. Moore balloon and unidentified object sighting
+    slug: 1949-charles-b-moore-balloon-and-unidentified-object-sighting-april-24
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: '1953'
+  date_end: null
+  location_in_record: ch14:27953-28165
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: d764fab1-39f3-46ca-a9c1-6538b4f89f38
+  claim_hash: 98a4db66259e7a7b8a087960d000c47fd09690001d954f72808b07a1b9a0346e
+  content: According to navy physicist Bruce Maccabee, Donald Menzel made critical
+    errors in comparing his own lensing theory with the data reported by observers
+    of the April 24, 1949 sighting.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+    title: Bruce Maccabee
+  provenance_chain:
+    origin_kind: named
+    origin: Bruce Maccabee
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+    title: Bruce Maccabee
+    slug: bruce-maccabee
+  - node_id: e1efac10-b1f7-4eb4-86aa-20beb6665b14
+    title: April 24, 1949 Charles B. Moore balloon and unidentified object sighting
+    slug: 1949-charles-b-moore-balloon-and-unidentified-object-sighting-april-24
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch14:28174-28322
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 45f64a78-a281-49dd-81d3-0981c32e74a5
+  claim_hash: 9825814be16a754ea77184af966ac9707049c237b2c1b26d935d57c66bc1b5b6
+  content: The angle at which the April 24, 1949 sighting took place was too great
+    to allow lensing, even under Donald Menzel's own hypothesis.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+    title: Bruce Maccabee
+  provenance_chain:
+    origin_kind: named
+    origin: Bruce Maccabee
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e1efac10-b1f7-4eb4-86aa-20beb6665b14
+    title: April 24, 1949 Charles B. Moore balloon and unidentified object sighting
+    slug: 1949-charles-b-moore-balloon-and-unidentified-object-sighting-april-24
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch14:28333-28449
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: ee72e40f-07f0-4806-9088-2a2ed9c0ec4d
+  claim_hash: b6943b5ec08d5b63b8ec61ea1d9eae6959275569fad50c654b365a44661afda7
+  content: In his discussion of the April 24, 1949 sighting, Donald Menzel did not
+    mention the angle actually reported but assumed an angle at which lensing might
+    have been possible.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Bruce Maccabee
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e1efac10-b1f7-4eb4-86aa-20beb6665b14
+    title: April 24, 1949 Charles B. Moore balloon and unidentified object sighting
+    slug: 1949-charles-b-moore-balloon-and-unidentified-object-sighting-april-24
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch14:28470-28631
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 69293e61-de83-4261-a5d0-9ab730e6067c
+  claim_hash: 2529dd3d33e1363343432c0e153c59c67f0cf9bf274869d54b2990a19ea67bc3
+  content: Whitley Strieber found that Donald Menzel's description of the April 24,
+    1949 sighting in Flying Saucers is not the same as in the official report.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 76f1f8df-8630-4c18-bc8d-4d2f0ac0418f
+    title: Flying Saucers (book by Donald Menzel)
+    slug: flying-saucers-book-by-donald-menzel
+  - node_id: e1efac10-b1f7-4eb4-86aa-20beb6665b14
+    title: April 24, 1949 Charles B. Moore balloon and unidentified object sighting
+    slug: 1949-charles-b-moore-balloon-and-unidentified-object-sighting-april-24
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch14:29222-29322
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 8cc0ee9f-4a9f-4c1d-919f-c81db99f5b1d
+  claim_hash: badf7f02c116b24b69fe3fe3b02506b553c4bd1d6738e1b03acffa10cade27d0
+  content: Donald Menzel claimed that what the observers saw on April 24, 1949 was
+    a mirage of the balloon, appearing first above the balloon and moving straight
+    downward until below and to one side of it.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+  provenance_chain:
+    origin_kind: named
+    origin: Donald Menzel
+    relay:
+    - Flying Saucers (book by Donald Menzel)
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f1f8df-8630-4c18-bc8d-4d2f0ac0418f
+    title: Flying Saucers (book by Donald Menzel)
+    slug: flying-saucers-book-by-donald-menzel
+  - node_id: e1efac10-b1f7-4eb4-86aa-20beb6665b14
+    title: April 24, 1949 Charles B. Moore balloon and unidentified object sighting
+    slug: 1949-charles-b-moore-balloon-and-unidentified-object-sighting-april-24
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch14:29330-29506
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 788b8898-bd56-4dfa-af08-3ef4742aae6a
+  claim_hash: 52b5fe93fc041f6d17f919353776698f2b480298ba567886ca65c3728948e94c
+  content: In the appendix to Flying Saucers, Donald Menzel calculated that the largest
+    angle between the balloon and its mirage would be no greater than one quarter
+    of a degree.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: second_hand
+  speaker:
+    node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+  provenance_chain:
+    origin_kind: named
+    origin: Donald Menzel
+    relay:
+    - Flying Saucers (book by Donald Menzel)
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f1f8df-8630-4c18-bc8d-4d2f0ac0418f
+    title: Flying Saucers (book by Donald Menzel)
+    slug: flying-saucers-book-by-donald-menzel
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch14:29850-30008
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 81930b47-bb68-4f1d-af02-d67464196d23
+  claim_hash: 7bfe2c2c7537c52fc24a8221a4f796358859d81ba02d7f7f3f52beec705daa65
+  content: To make Donald Menzel's mirage theory of the April 24, 1949 sighting stand,
+    Charles B. Moore's angle measurements would have had to be off by about a hundred
+    degrees.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 7f63d15c-d82b-4863-9a98-c3bf3a27e5e1
+    title: Charles B. Moore
+    slug: charles-b-moore
+  - node_id: e1efac10-b1f7-4eb4-86aa-20beb6665b14
+    title: April 24, 1949 Charles B. Moore balloon and unidentified object sighting
+    slug: 1949-charles-b-moore-balloon-and-unidentified-object-sighting-april-24
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch14:30071-30176
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 00fdc63c-0e86-4cfc-97bb-3087ae6e46c3
+  claim_hash: 6e5bb861842a82dc63f4730483ea73b96e541b4b95f0ce18c89179222b3c9718
+  content: Donald Menzel did not mention the actual sighting angles reported by Charles
+    B. Moore anywhere in his book Flying Saucers.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 76f1f8df-8630-4c18-bc8d-4d2f0ac0418f
+    title: Flying Saucers (book by Donald Menzel)
+    slug: flying-saucers-book-by-donald-menzel
+  - node_id: 7f63d15c-d82b-4863-9a98-c3bf3a27e5e1
+    title: Charles B. Moore
+    slug: charles-b-moore
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch14:30185-30271
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 9b8b532a-c4c1-4019-93a4-7601d77513da
+  claim_hash: 31172cf69b9b5bcdcb803634fe8214baccd95c66573d5bfd68b05fca4b3d2dbd
+  content: On a televised documentary, astronomer Donald Menzel poured benzine over
+    a tankful of acetone to demonstrate optical properties in an attempt to convince
+    the audience that UFOs were nothing but mirages.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: '1966'
+  date_end: null
+  location_in_record: ch10:10809-11049
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 49032c1d-f626-4c65-bb29-74a20a51363a
+  claim_hash: 4cc5a96d4beb74ad1d5d225b024a2924fbd2e97ddaf7704cb59265a8e14d9822
+  content: It was revealed only after his death that Harvard astronomer and self-described
+    UFO sceptic Donald Menzel had a clandestine association with the US National Security
+    Agency, the Central Intelligence Agency (CIA), and the US Navy, holding a top-secret-ultra
+    security clearance.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+    title: National Security Agency (NSA)
+    slug: national-security-agency-nsa
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch7:22632-22849
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 4165ac93-d055-40c5-b4bf-a1520fe896af
+  claim_hash: b85152de8a1ae0d9cc72c95921f240a82881dc15e9772aa180c384dc2e55f002
+  content: Donald Menzel never disclosed his secret relationship with the US National
+    Security Agency, the Central Intelligence Agency (CIA), and the US Navy, even
+    to his own university.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+    title: National Security Agency (NSA)
+    slug: national-security-agency-nsa
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch7:22861-22922
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 482de68a-2d9c-4950-a617-a06f3a3379f0
+  claim_hash: 8ff61f76ac4da68436b416be8ec0325601de18a028244417229e7e85313c1b81
+  content: Stanton Friedman has accused Donald Menzel of being a deep-cover disinformation
+    agent tasked with shutting down Unidentified Aerial Phenomena (UAP) stories.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+    title: Stanton Friedman
+  provenance_chain:
+    origin_kind: speaker
+    origin: Stanton Friedman
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+    title: Stanton Friedman
+    slug: stanton-friedman
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    slug: donald-menzel
+  date: null
+  date_end: null
+  location_in_record: ch7:22934-23048
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted

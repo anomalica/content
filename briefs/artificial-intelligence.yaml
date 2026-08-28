@@ -1,0 +1,255 @@
+schema: anomalica/brief/1
+brief_hash: 50bba3911bb195c2da015bf47a00d210df21c038a46d9232a8452be07c911bf5
+page:
+  kind: entity
+  node_id: 54616729-112f-44c5-9178-811f7811f1e8
+  node_type: topic
+  title: artificial intelligence
+  slug: artificial-intelligence
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 4
+- node_id: c09e3558-1732-4676-a218-d67d285d98ef
+  title: David Fravor
+  node_type: person
+  slug: david-fravor
+  shared_claims: 2
+- node_id: 34ed99ee-23cc-447e-b98f-eabcb3c06196
+  title: negative entropy (negentropy)
+  node_type: topic
+  slug: negative-entropy-negentropy
+  shared_claims: 1
+claims:
+- claim_id: 207d9e61-66b0-41a3-8ac0-2d8b37f24ed9
+  claim_hash: d417051b42cc4649155855f2e918b68501882cad638fff599d220450bf9bb4c2
+  content: David Fravor considers AI systems for controlling aircraft to be typically
+    based on logical, black-and-white rules with defined bounds.
+  original_excerpt: AI systems are usually black and white. When you write the algorithm
+    for an AI system, it's really, it's basically you're taking thought and turning
+    it into a giant math problem is really what you're doing, right?
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 54616729-112f-44c5-9178-811f7811f1e8
+    title: artificial intelligence
+    slug: artificial-intelligence
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: 00:38:18.0-00:38:30.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: 84e42285-967d-461c-8db3-2b465ffcde20
+  claim_hash: fd1e8ee6c52f0764c94bf1c2b2592f4fcfcc78f5624c71aa2e8a2c1826705aad
+  content: David Fravor considers that a human pilot will attempt manoeuvres at the
+    edge of a jet's flight envelope that an AI system will not.
+  original_excerpt: I still think that when you get to the edges that may or may not
+    give you an advantage, there are things that a human will do that AI won't.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 54616729-112f-44c5-9178-811f7811f1e8
+    title: artificial intelligence
+    slug: artificial-intelligence
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: 00:40:12.0-00:40:22.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: 3fb9e9b8-ffe1-4942-a52d-499c68b0ce81
+  claim_hash: 3c052fa438e4e126f881f4334603e544d2f0d6d5b343429c9c380b8adbc1e265
+  content: Whitley Strieber states that in information theory, negentropy refers to
+    the increasing depth and complexity of information, and considers the emergence
+    of artificial intelligence one example of this.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 34ed99ee-23cc-447e-b98f-eabcb3c06196
+    title: negative entropy (negentropy)
+    slug: negative-entropy-negentropy
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 54616729-112f-44c5-9178-811f7811f1e8
+    title: artificial intelligence
+    slug: artificial-intelligence
+  date: null
+  date_end: null
+  location_in_record: ch17:5851-5995
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 0e28fd90-eeb5-45ce-8391-a0c2504d647b
+  claim_hash: bbcdb5d5fe6187da4cf60321a6ce858b5409126711f7c3f6f040f2043548a1a8
+  content: Whitley Strieber believes that artificial intelligence, currently housed
+    in large server farms consuming great amounts of energy, will move into robots
+    and later into more efficient biological systems described as artificial brains.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 54616729-112f-44c5-9178-811f7811f1e8
+    title: artificial intelligence
+    slug: artificial-intelligence
+  date: null
+  date_end: null
+  location_in_record: ch17:6004-6241
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: e7929fc1-f593-41ec-9134-0354a870fba6
+  claim_hash: f6b9521e7284cb5f28d3fc3b06869aabaa2f9f0b727b1b427a8dcf6b1ad715df
+  content: Whitley Strieber suggests that humans will soon carry devices in their
+    pockets that are more intelligent than themselves and interact with designed biological-robotic
+    entities that know them better than they know themselves.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 54616729-112f-44c5-9178-811f7811f1e8
+    title: artificial intelligence
+    slug: artificial-intelligence
+  date: null
+  date_end: null
+  location_in_record: ch17:7336-7532
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: ea3592a1-1545-43dd-ba47-91d070854782
+  claim_hash: f0c4af943fcad6ddfb930313d118a300920f951d8fa9d2ce9ecb7cbfbd3fa79c
+  content: Whitley Strieber believes that humanity's own advances in artificial intelligence
+    are one of the reasons humanity is getting closer to open contact with the nonhuman
+    visitors.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 54616729-112f-44c5-9178-811f7811f1e8
+    title: artificial intelligence
+    slug: artificial-intelligence
+  date: null
+  date_end: null
+  location_in_record: ch17:7933-8244
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted

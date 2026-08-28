@@ -1,0 +1,462 @@
+schema: anomalica/brief/1
+brief_hash: eb80dff23dac2c53c60fe815721232905913dc84a453c084d0ae27f49c35a895
+page:
+  kind: entity
+  node_id: c03c35ac-4078-49b4-bd6d-00cfd0c2cf06
+  node_type: event
+  title: 2015 Atlantic Coast UAP Sightings
+  slug: 2015-atlantic-coast-uap-sightings
+  claim_count: 10
+  claim_count_total: 10
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+  title: Graves, Ryan
+  node_type: person
+  slug: ryan-graves
+  shared_claims: 3
+- node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
+  title: AN/APG-79 Radar
+  node_type: object
+  slug: anapg-79-radar
+  shared_claims: 2
+- node_id: c0b9044d-c68b-434d-868f-c96171248f3f
+  title: Atlantic UAP Cube-Sphere Encounter
+  node_type: event
+  slug: atlantic-uap-cube-sphere-encounter
+  shared_claims: 2
+- node_id: 906e8540-cc0a-4c9f-974c-7cdf545fc293
+  title: Carrier Strike Group 12
+  node_type: organisation
+  slug: carrier-strike-group-12
+  shared_claims: 2
+- node_id: e57005b4-b10f-49a9-872f-61f00312b820
+  title: Gimbal video
+  node_type: document
+  slug: gimbal-video
+  shared_claims: 2
+- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+  title: Mellon, Christopher K.
+  node_type: person
+  slug: christopher-k-mellon
+  shared_claims: 2
+- node_id: c59c3e0a-c46d-4c6e-af81-aee0d8a57be7
+  title: USS Theodore Roosevelt
+  node_type: object
+  slug: uss-theodore-roosevelt
+  shared_claims: 2
+- node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+  title: Elizondo, Luis
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 1
+- node_id: c09e3558-1732-4676-a218-d67d285d98ef
+  title: Fravor, David
+  node_type: person
+  slug: david-fravor
+  shared_claims: 1
+- node_id: 4bd6fd95-3858-460d-a0a1-7c2d409507d1
+  title: History Channel
+  node_type: organisation
+  slug: history-channel
+  shared_claims: 1
+- node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+  title: The New York Times
+  node_type: organisation
+  slug: the-new-york-times
+  shared_claims: 1
+- node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+  title: The Pentagon
+  node_type: organisation
+  slug: the-pentagon
+  shared_claims: 1
+- node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+  title: USA, Florida
+  node_type: place
+  slug: florida-usa
+  shared_claims: 1
+- node_id: 2658cc67-2b0a-4b7f-a324-f1fa16dc21b7
+  title: 'Unidentified: Inside America''s UFO Investigation'
+  node_type: document
+  slug: unidentified-inside-americas-ufo-investigation
+  shared_claims: 1
+claims:
+- claim_id: 7552cb09-2034-4d0a-b1a6-b4d13e99148f
+  claim_hash: 5dd71cdce5de654c0dca3b9dabb7906dc99cafe6e37fb7dfa24d7d17896d1929
+  content: The Gimbal video was almost certainly filmed sometime in late 2014 or early
+    2015 off the east coast of the US.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c03c35ac-4078-49b4-bd6d-00cfd0c2cf06
+    title: 2015 Atlantic Coast UAP Sightings
+    slug: 2015-atlantic-coast-uap-sightings
+  - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+    title: Gimbal video
+    slug: gimbal-video
+  date: null
+  date_end: null
+  location_in_record: Chapter 16, paragraph 19
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 618b4099-fcfe-4b4c-9d11-433fbfe0aff7
+  claim_hash: ca80911bc64270cff440b3b87be3f45beb4f449559ddf204e504b2857fb64a23
+  content: 'Ryan Graves was interviewed alongside Luis Elizondo and David Fravor in
+    Episode 4 of ''Unidentified: Inside America''s UFO Investigation'' on the History
+    Channel, first aired June 2019.'
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Graves, Ryan
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2658cc67-2b0a-4b7f-a324-f1fa16dc21b7
+    title: 'Unidentified: Inside America''s UFO Investigation'
+    slug: unidentified-inside-americas-ufo-investigation
+  - node_id: 4bd6fd95-3858-460d-a0a1-7c2d409507d1
+    title: History Channel
+    slug: history-channel
+  - node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+    slug: luis-elizondo
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Graves, Ryan
+    slug: ryan-graves
+  - node_id: c03c35ac-4078-49b4-bd6d-00cfd0c2cf06
+    title: 2015 Atlantic Coast UAP Sightings
+    slug: 2015-atlantic-coast-uap-sightings
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: 2019-06
+  date_end: null
+  location_in_record: Chapter 17, endnote 2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 4efee97e-cffc-4b0d-9923-41664352d53b
+  claim_hash: 0fa836cfdcb1b6371dbe1ee639c5ebd5406052b7965b142a3a74d2928ace3aaf
+  content: In May 2019, The New York Times revealed UAP encounters with US military
+    aircraft over the Atlantic Ocean off the Virginia Beach coast in late 2014.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c03c35ac-4078-49b4-bd6d-00cfd0c2cf06
+    title: 2015 Atlantic Coast UAP Sightings
+    slug: 2015-atlantic-coast-uap-sightings
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: 2019-05
+  date_end: null
+  location_in_record: Chapter 17, paragraph 1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 88a44346-9453-45cf-b5ab-71c1bcfbad95
+  claim_hash: b6c76e6a0de59161df4850b1d040101db9c2008b102bb902fd71404cc3827937
+  content: In late 2014, two pilots in Super Hornet F/A-18 fighters from a carrier
+    strike group led by USS Theodore Roosevelt were training for combat operations
+    in the Middle East when they observed UAPs with new advanced APG-79 electronic
+    beam scanning radar systems.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
+    title: AN/APG-79 Radar
+    slug: anapg-79-radar
+  - node_id: 906e8540-cc0a-4c9f-974c-7cdf545fc293
+    title: Carrier Strike Group 12
+    slug: carrier-strike-group-12
+  - node_id: c03c35ac-4078-49b4-bd6d-00cfd0c2cf06
+    title: 2015 Atlantic Coast UAP Sightings
+    slug: 2015-atlantic-coast-uap-sightings
+  - node_id: c59c3e0a-c46d-4c6e-af81-aee0d8a57be7
+    title: USS Theodore Roosevelt
+    slug: uss-theodore-roosevelt
+  date: '2014'
+  date_end: null
+  location_in_record: Chapter 17, paragraph 1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 9fde77af-564c-4fe5-b9a0-7132c5865132
+  claim_hash: 19fcd748c79d2302058011bfce9ddd039ebbe56587288f3192f7c1985dfeb028
+  content: For weeks, every pilot on almost every mission with Carrier Strike Group
+    12 was tracking strange objects apparently hovering for hours then flying at instantaneous
+    hypersonic speeds at altitudes ranging from approximately 9,000 metres to sea
+    level.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
+    title: AN/APG-79 Radar
+    slug: anapg-79-radar
+  - node_id: 906e8540-cc0a-4c9f-974c-7cdf545fc293
+    title: Carrier Strike Group 12
+    slug: carrier-strike-group-12
+  - node_id: c03c35ac-4078-49b4-bd6d-00cfd0c2cf06
+    title: 2015 Atlantic Coast UAP Sightings
+    slug: 2015-atlantic-coast-uap-sightings
+  date: '2014'
+  date_end: null
+  location_in_record: Chapter 17, paragraph 2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 2cd5b07b-b855-40e8-8bff-571ee223dcc0
+  claim_hash: 4df11c346f539ef79cfcb89a4fc983c9f9a2d98c7cc6667fa14b94ed8b41d69f
+  content: Christopher Mellon described the cube-inside-sphere UAP objects as perhaps
+    2 to 3 metres across, transparent like a soap bubble with a black cube inside
+    whose edges touched the interior of the bubble.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Mellon, Christopher K.
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Mellon, Christopher K.
+    slug: christopher-k-mellon
+  - node_id: c03c35ac-4078-49b4-bd6d-00cfd0c2cf06
+    title: 2015 Atlantic Coast UAP Sightings
+    slug: 2015-atlantic-coast-uap-sightings
+  - node_id: c0b9044d-c68b-434d-868f-c96171248f3f
+    title: Atlantic UAP Cube-Sphere Encounter
+    slug: atlantic-uap-cube-sphere-encounter
+  date: null
+  date_end: null
+  location_in_record: Chapter 17, paragraph 3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 6e2b29fe-5540-473e-8af3-a981b69003a5
+  claim_hash: 22807a3b28d5f364c8a1528699688e214209c4dc5e3b1ce77270bea8400b379e
+  content: On one occasion during the Atlantic UAP sightings, two fighters flying
+    approximately 30 metres apart experienced an anomalous translucent sphere passing
+    through the gap between them — described as a 'giant soap bubble' with a cube
+    inside it, the points of the cube touching the outside of the sphere.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Graves, Ryan
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Graves, Ryan
+    slug: ryan-graves
+  - node_id: c03c35ac-4078-49b4-bd6d-00cfd0c2cf06
+    title: 2015 Atlantic Coast UAP Sightings
+    slug: 2015-atlantic-coast-uap-sightings
+  - node_id: c0b9044d-c68b-434d-868f-c96171248f3f
+    title: Atlantic UAP Cube-Sphere Encounter
+    slug: atlantic-uap-cube-sphere-encounter
+  date: '2014'
+  date_end: null
+  location_in_record: Chapter 17, paragraph 3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 7e91972f-ee40-48f8-9f58-819ef47d3845
+  claim_hash: 081f08ed6a100852c1a952a76dae1c6270a7efe0fb69de9f38759b6d934f056f
+  content: Christopher Mellon stated that Ryan Graves indicated he and his colleagues
+    encountered UAP nearly every time they conducted training in restricted airspace
+    off the east coast of the United States.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Mellon, Christopher K.
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Mellon, Christopher K.
+    slug: christopher-k-mellon
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Graves, Ryan
+    slug: ryan-graves
+  - node_id: c03c35ac-4078-49b4-bd6d-00cfd0c2cf06
+    title: 2015 Atlantic Coast UAP Sightings
+    slug: 2015-atlantic-coast-uap-sightings
+  date: null
+  date_end: null
+  location_in_record: Chapter 24, paragraph 22
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: fe6e8d16-097d-434e-b007-5c7275e320a7
+  claim_hash: 2512610ea4355600aca663522034e910de64d9f83d8a1eff31092b5f971b6ce4
+  content: The Gimbal UAP video shows a 2014 or 2015 encounter recorded by a navy
+    fighter jet from the nuclear aircraft carrier USS Theodore Roosevelt off the eastern
+    seaboard near the Florida coast. The Pentagon states the video is real and officially
+    unexplained.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: third_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+    title: The Pentagon
+    slug: the-pentagon
+  - node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+    title: USA, Florida
+    slug: florida-usa
+  - node_id: c03c35ac-4078-49b4-bd6d-00cfd0c2cf06
+    title: 2015 Atlantic Coast UAP Sightings
+    slug: 2015-atlantic-coast-uap-sightings
+  - node_id: c59c3e0a-c46d-4c6e-af81-aee0d8a57be7
+    title: USS Theodore Roosevelt
+    slug: uss-theodore-roosevelt
+  - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+    title: Gimbal video
+    slug: gimbal-video
+  date: null
+  date_end: null
+  location_in_record: Photo Section caption 27
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: c31b2de2-38a6-4f8c-9750-4d36e46454c2
+  claim_hash: ac9a52ab4a85b8347ba9621970a29bdacd9af9cd28711d3f4ea53f22915c03ac
+  content: Numerous similar UAP near-disaster reports were filed through the Navy
+    in various operating areas worldwide during this period, with language strikingly
+    similar across reports.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c03c35ac-4078-49b4-bd6d-00cfd0c2cf06
+    title: 2015 Atlantic Coast UAP Sightings
+    slug: 2015-atlantic-coast-uap-sightings
+  date: null
+  date_end: null
+  location_in_record: Chapter 15, paragraph 10
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed

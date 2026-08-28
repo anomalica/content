@@ -1,0 +1,806 @@
+schema: anomalica/brief/1
+brief_hash: 842cc98da35a78a8f1f616a8dc68867f5ceedd05d7a080c3658875c0eb202471
+page:
+  kind: entity
+  node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+  node_type: place
+  title: Australia, Victoria, Melbourne
+  slug: victoria-melbourne-australia
+  claim_count: 17
+  claim_count_total: 17
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+  title: James MacDonald
+  node_type: person
+  slug: james-macdonald
+  shared_claims: 5
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 4
+- node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+  title: James Rigney
+  node_type: person
+  slug: james-rigney
+  shared_claims: 3
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 3
+- node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+  title: 1978 disappearance of Frederick Valentich
+  node_type: event
+  slug: 1978-disappearance-of-frederick-valentich
+  shared_claims: 2
+- node_id: b2f9fdfa-2065-4dc6-ba0f-379f778cb4f9
+  title: Australia, Victoria, Westall High School
+  node_type: place
+  slug: victoria-westall-high-school-australia
+  shared_claims: 2
+- node_id: c5025e21-b806-4c9f-9fed-20c72443705b
+  title: Barry Jones
+  node_type: person
+  slug: barry-jones
+  shared_claims: 2
+- node_id: 19157631-6448-476b-94d2-d80cf5a10387
+  title: Frederick Valentich
+  node_type: person
+  slug: frederick-valentich
+  shared_claims: 2
+- node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
+  title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying
+    Object (UFO) investigation tour
+  node_type: project
+  slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
+  shared_claims: 2
+- node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+  title: Australia, New South Wales, Sydney
+  node_type: place
+  slug: new-south-wales-sydney-australia
+  shared_claims: 1
+- node_id: 3e7634d4-9639-4ddd-a1a5-52063e67cf4c
+  title: Australia, Tasmania, Hobart
+  node_type: place
+  slug: tasmania-hobart-australia
+  shared_claims: 1
+- node_id: f489fcdb-3c40-4743-aa1c-8b742db9dd6b
+  title: Australia, Tasmania, King Island
+  node_type: place
+  slug: tasmania-king-island-australia
+  shared_claims: 1
+- node_id: 0b1e0e78-b517-4e6c-a20b-61257619c42d
+  title: Australia, Victoria, Bass Strait
+  node_type: place
+  slug: victoria-bass-strait-australia
+  shared_claims: 1
+- node_id: f5459057-15cc-4675-b177-d8eff2eb5afe
+  title: Australia, Victoria, East Melbourne
+  node_type: place
+  slug: victoria-east-melbourne-australia
+  shared_claims: 1
+- node_id: 39dc2cfb-a54d-4732-a47e-a31ce2047a75
+  title: Australia, Victoria, The Grange
+  node_type: place
+  slug: victoria-the-grange-australia
+  shared_claims: 1
+- node_id: 0be54222-7550-4b02-b1c0-8ea8ef5736c7
+  title: Australian Department of Supply
+  node_type: organisation
+  slug: australian-department-of-supply
+  shared_claims: 1
+- node_id: 0ddd0918-cf6b-4df7-9ed1-6e31d2ee276a
+  title: Brian King
+  node_type: person
+  slug: brian-king
+  shared_claims: 1
+- node_id: 4e4282df-0f0a-4912-a87b-5ebda6fbb2e7
+  title: Cessna aircraft flown by Frederick Valentich
+  node_type: object
+  slug: cessna-aircraft-flown-by-frederick-valentich
+  shared_claims: 1
+- node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+  title: Dennis Grant
+  node_type: person
+  slug: dennis-grant
+  shared_claims: 1
+- node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+  title: Joy Clarke
+  node_type: person
+  slug: joy-clarke
+  shared_claims: 1
+- node_id: c87f5b30-7b91-42c8-8987-bee89c1c1c84
+  title: Victorian Flying Saucer Society
+  node_type: organisation
+  slug: victorian-flying-saucer-society
+  shared_claims: 1
+- node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
+  title: Westall High School
+  node_type: place
+  slug: westall-high-school
+  shared_claims: 1
+claims:
+- claim_id: a7995d29-451c-4a13-8c90-8cfce0c51032
+  claim_hash: 2f3548237f3d53c59de4a6bd0c7e8c50fc6245a37294fffbfcdf08a7483a1495
+  content: The Westall school UAP sighting occurred in Westall, Melbourne on 6 April
+    1966.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: b2f9fdfa-2065-4dc6-ba0f-379f778cb4f9
+    title: Australia, Victoria, Westall High School
+    slug: victoria-westall-high-school-australia
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  date: '1966-04-06'
+  date_end: null
+  location_in_record: ch10:10400-10512
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6bf861f6-5bfd-46cd-b6e3-6880946f5dc9
+  claim_hash: 38f4be8cf16ea85e11b8e6b0f67244f7bd3e5b8504c6114d96fcfeb805b249cc
+  content: A long-time friend of Ross Coulthart who had served in a senior position
+    in the Australian Federal public service for many years revealed his own private
+    Westall connection, that his father was a Defence scientist who worked for the
+    then Federal Department of Supply in Melbourne.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be a former senior Australian Federal public servant
+      and friend of Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0be54222-7550-4b02-b1c0-8ea8ef5736c7
+    title: Australian Department of Supply
+    slug: australian-department-of-supply
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  date: null
+  date_end: null
+  location_in_record: ch10:16106-16307
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 03b6265a-8fbf-4449-af7e-389df7360342
+  claim_hash: 88560709d914aed2b2a5cb88549f1b09306a3924da857baeecd8868bd37a4fab
+  content: Dennis Grant moved to Australia to work in journalism and became a well-respected
+    political correspondent for one of the main television networks.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+    title: Dennis Grant
+    slug: dennis-grant
+  date: null
+  date_end: null
+  location_in_record: ch12:5002-5149
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a0387d71-ff8d-4658-b114-83cd4ef6743f
+  claim_hash: fdde5558e1706350b09e554626859e85b0d38717cbf7584e0f1a2ee226b81a4a
+  content: In 2013, James Rigney flew from Melbourne, Australia to attend a US space
+    conference.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+    title: James Rigney
+    slug: james-rigney
+  date: '2013'
+  date_end: null
+  location_in_record: ch25:1018-1158
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d59375af-bd46-4252-a0ea-0dcfb33722d7
+  claim_hash: bb099a6ebb3b5285488fba8bdb037814dd290498140bc2ff023c4b8f544a5e78
+  content: James Rigney is an Australian architect and space exploration enthusiast.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+    title: James Rigney
+    slug: james-rigney
+  date: null
+  date_end: null
+  location_in_record: ch25:1018-1158
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 857bb18a-1988-4f35-a05c-7bf942a89882
+  claim_hash: d9ade845a32d9a906859e45336c1ce9976e2e739e63b72979ca39202e1d49536
+  content: James Rigney served on the committee of a local space research association
+    in Melbourne.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+    title: James Rigney
+    slug: james-rigney
+  date: null
+  date_end: null
+  location_in_record: ch25:1512-1732
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: bd287340-92f1-4120-bba6-ee3a054ebaf2
+  claim_hash: e8c0dc4b7895d29c31b7ffb627f3934a489b78e027049110af7ff8eddf9dadf0
+  content: Joy Clarke, aged 12 at the time, stood in the circle of flattened grass
+    where she and multiple other witnesses from Westall High School in Melbourne,
+    Australia, saw an alien craft land in 'The Grange' in 1966-04.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Joy Clarke
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joy Clarke
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 39dc2cfb-a54d-4732-a47e-a31ce2047a75
+    title: Australia, Victoria, The Grange
+    slug: victoria-the-grange-australia
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: b2f9fdfa-2065-4dc6-ba0f-379f778cb4f9
+    title: Australia, Victoria, Westall High School
+    slug: victoria-westall-high-school-australia
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  - node_id: e458bfc8-495f-48db-b696-69bf4193e3b5
+    title: Joy Clarke
+    slug: joy-clarke
+  date: 1966-04
+  date_end: null
+  location_in_record: ch37:1833-2034
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 546df1b3-6f77-4425-ac50-5f4efa483eb1
+  claim_hash: 9197053263676896385408533a8603e62d4f5dea6025a49f79b065ad755bf8da
+  content: A Balwyn, Melbourne resident who wishes to remain anonymous photographed
+    something shortly before the 1966 Westall school sighting in 1966-04.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be a Balwyn, Melbourne resident
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  date: 1966-04
+  date_end: null
+  location_in_record: ch37:2692-2829
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f77bdf21-9973-438f-bad4-a0b8a2b43297
+  claim_hash: 934b4643aeac6352de7f0e75cbdf19d6085c66d11d8eb7c1d342ed166d8e4b22
+  content: In October 1978, 20-year-old Melbourne-based pilot Frederick Valentich
+    disappeared while piloting a Cessna aircraft over Bass Strait on a flight to King
+    Island.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0b1e0e78-b517-4e6c-a20b-61257619c42d
+    title: Australia, Victoria, Bass Strait
+    slug: victoria-bass-strait-australia
+  - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+    title: Frederick Valentich
+    slug: frederick-valentich
+  - node_id: 4e4282df-0f0a-4912-a87b-5ebda6fbb2e7
+    title: Cessna aircraft flown by Frederick Valentich
+    slug: cessna-aircraft-flown-by-frederick-valentich
+  - node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+    title: 1978 disappearance of Frederick Valentich
+    slug: 1978-disappearance-of-frederick-valentich
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  - node_id: f489fcdb-3c40-4743-aa1c-8b742db9dd6b
+    title: Australia, Tasmania, King Island
+    slug: tasmania-king-island-australia
+  date: '1978-10-21'
+  date_end: null
+  location_in_record: ch6:5354-5617
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: baf902d2-5db4-4dcb-9edf-1750b1298813
+  claim_hash: 322ce55eec564ba7424d4deaddbc923eb5fbb81834fe46a44acebedb15e29b47
+  content: Shortly before he and his aircraft disappeared, Frederick Valentich was
+    recorded telling Melbourne air traffic control that he was being followed by a
+    huge illuminated shiny metal craft hovering above him.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 19157631-6448-476b-94d2-d80cf5a10387
+    title: Frederick Valentich
+  provenance_chain:
+    origin_kind: speaker
+    origin: Frederick Valentich
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+    title: Frederick Valentich
+    slug: frederick-valentich
+  - node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+    title: 1978 disappearance of Frederick Valentich
+    slug: 1978-disappearance-of-frederick-valentich
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  date: '1978-10-21'
+  date_end: null
+  location_in_record: ch6:5625-5810
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 99295240-d3d3-4c24-9805-109832a4b124
+  claim_hash: 14d0fe266bf546754f5d00f59ff3d6c47d41b0aa79eb585e9069d3c10fca3888
+  content: Westall High School was a college of about 600 pupils in Melbourne's south
+    east.
+  original_excerpt: Westall High School, a college of about 600 pupils in Melbourne's
+    south east.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
+    title: Westall High School
+    slug: westall-high-school
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  date: null
+  date_end: null
+  location_in_record: 00:46:23.0-00:46:29.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+- claim_id: 29d0bc0b-d85b-4e9b-9f52-8dcd36a017d6
+  claim_hash: a79b6b60160169b66259cefdceda114947d5aa1f94d1a18bd4a1e2d3b100927b
+  content: In Melbourne, James McDonald spoke with Brian King about UFO investigations.
+  original_excerpt: In Melbourne, he's talking with Brian King.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0ddd0918-cf6b-4df7-9ed1-6e31d2ee276a
+    title: Brian King
+    slug: brian-king
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    slug: james-macdonald
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  date: null
+  date_end: null
+  location_in_record: 00:54:27.2-00:54:28.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+- claim_id: 8afb305e-92e7-41d9-9b35-385879bfb796
+  claim_hash: 4c07fc5b2b613242adffd0c0b4df3b68a66900761bd58a65b9e008881216909a
+  content: During the James E. McDonald 1967 Australia, New Zealand and Tasmania UFO
+    investigation tour, James E. McDonald interviewed witnesses in Australia face-to-face
+    and by telephone to establish for himself what happened in individual cases and
+    how credible the witnesses were.
+  original_excerpt: I've been down here in Australia interviewing witnesses to find
+    out for myself, in direct, face-to-face, or in some cases, phone interviewing,
+    exactly what happened in individual cases and what the credibility of the witness
+    is
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+  provenance_chain:
+    origin_kind: speaker
+    origin: James E. McDonald
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
+    title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified
+      Flying Object (UFO) investigation tour
+    slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    slug: james-macdonald
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  date: '1967'
+  date_end: null
+  location_in_record: 00:00:06.7-00:00:21.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
+      His Investigative Tour (1967)
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+    friendly_name: null
+- claim_id: cb56082b-26ea-423b-99a3-cfd70ec51e73
+  claim_hash: 892bc993034e19345d423fec019b5e172d039dcf40a76f5954f391cbf7f03600
+  content: Barry Jones's Melbourne talkback radio programme took listener calls on
+    the telephone number 638151 during James E. McDonald's appearance discussing Unidentified
+    Flying Objects (UFOs).
+  original_excerpt: Talkback 638151. Professor James MacDonald, the University of
+    Arizona, talking about unidentified flying objects. Let's hear from you on 638151.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: c5025e21-b806-4c9f-9fed-20c72443705b
+    title: Barry Jones
+  provenance_chain:
+    origin_kind: speaker
+    origin: Barry Jones
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    slug: james-macdonald
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: c5025e21-b806-4c9f-9fed-20c72443705b
+    title: Barry Jones
+    slug: barry-jones
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  date: null
+  date_end: null
+  location_in_record: 00:04:10.0-00:04:17.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
+      His Investigative Tour (1967)
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+    friendly_name: null
+- claim_id: b0c47f72-b8af-4d3b-9685-e153566db7f9
+  claim_hash: a999e65d0ee5d614c665e5501dbe304fe3feebea1d83578d96fdc316ed967d13
+  content: A Melbourne taxi driver calling Barry Jones's talkback radio programme
+    saw, about five years before 1967, a stationary cylindrical silvery object hovering
+    in the sky while driving a passenger westwards towards the city near East Melbourne
+    at about 9:00 a.m.
+  original_excerpt: I was driving a cab about five years ago. ... this was down in
+    um oh that bit that runs uh parallel with victoria street there kind of a shortcut
+    up to east melbourne ... it was around about nine o'clock in the morning ... there
+    was a a definite object there hovering in the sky uh cylindrical in in um in shape
+    and uh silvery color
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: an unnamed Melbourne taxi driver calling Barry Jones's talkback radio
+      programme
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: c5025e21-b806-4c9f-9fed-20c72443705b
+    title: Barry Jones
+    slug: barry-jones
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  - node_id: f5459057-15cc-4675-b177-d8eff2eb5afe
+    title: Australia, Victoria, East Melbourne
+    slug: victoria-east-melbourne-australia
+  date: null
+  date_end: null
+  location_in_record: 00:07:38.9-00:07:58.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
+      His Investigative Tour (1967)
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+    friendly_name: null
+- claim_id: 4952a728-1063-4b27-bb5a-eb0001581902
+  claim_hash: d228c49cf7e260c71a95a6cef30f9ec51c0c3f3d9658877b22733a3397b13591
+  content: During the James E. McDonald 1967 Australia, New Zealand and Tasmania UFO
+    investigation tour, the Victorian Flying Saucer Society took James E. McDonald
+    around the Victorian countryside to interview key witnesses.
+  original_excerpt: we were down with the Melbourne UFO group, the Victorian Flying
+    Saucer Society, very helpfully have been taking me around the countryside to some
+    of the key witnesses.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+  provenance_chain:
+    origin_kind: speaker
+    origin: James E. McDonald
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
+    title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified
+      Flying Object (UFO) investigation tour
+    slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    slug: james-macdonald
+  - node_id: c87f5b30-7b91-42c8-8987-bee89c1c1c84
+    title: Victorian Flying Saucer Society
+    slug: victorian-flying-saucer-society
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  date: '1967'
+  date_end: null
+  location_in_record: 00:14:52.1-00:14:59.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
+      His Investigative Tour (1967)
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+    friendly_name: null
+- claim_id: 6dad5000-716d-432a-ba79-921e0ca8bb12
+  claim_hash: f8913cd208336c26621eacd8408fa95a4fc7a5445ebbd6c5958e835ad6e3610b
+  content: Experienced private UFO investigating groups work in Sydney, Melbourne,
+    Tasmania and other parts of the world, as distinct from the official groups, whose
+    explanations James E. McDonald finds outrageously absurd.
+  original_excerpt: experienced investigators such as those that have been working
+    in Sydney and Melbourne and Tasmania and in other parts of the world, these are
+    private investigating groups, not the official groups. The official groups ...
+    come out with such outrageously absurd explanations
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+  provenance_chain:
+    origin_kind: speaker
+    origin: James E. McDonald
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3e7634d4-9639-4ddd-a1a5-52063e67cf4c
+    title: Australia, Tasmania, Hobart
+    slug: tasmania-hobart-australia
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    slug: james-macdonald
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+    title: Australia, New South Wales, Sydney
+    slug: new-south-wales-sydney-australia
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    slug: victoria-melbourne-australia
+  date: null
+  date_end: null
+  location_in_record: 00:35:43.8-00:36:00.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
+      His Investigative Tour (1967)
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+    friendly_name: null

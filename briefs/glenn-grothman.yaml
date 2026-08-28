@@ -1,0 +1,531 @@
+schema: anomalica/brief/1
+brief_hash: 6704c817a90c8375992f8406e5816c50ffef3ed43dbd1835a5ede651a6d46ee8
+page:
+  kind: entity
+  node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+  node_type: person
+  title: Grothman, Glenn
+  slug: glenn-grothman
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: 098e8953-dbb3-42c3-8c74-94c6988a8640
+  title: 2023 House Oversight UAP Hearing
+  node_type: event
+  slug: 2023-house-oversight-uap-hearing
+  shared_claims: 1
+- node_id: 23bf4790-26b6-4d3c-aff8-7e379051657b
+  title: Connolly, Gerald
+  node_type: person
+  slug: gerald-connolly
+  shared_claims: 1
+- node_id: 80d1049c-74b9-4e21-93bb-6e0eb933a52b
+  title: Garcia, Robert
+  node_type: person
+  slug: robert-garcia
+  shared_claims: 1
+- node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
+  title: Mace, Nancy
+  node_type: person
+  slug: nancy-mace
+  shared_claims: 1
+- node_id: ace70b8c-19ab-4ba0-b0ff-b8daf00a03bb
+  title: Subcommittee on National Security, the Border, and Foreign Affairs
+  node_type: organisation
+  slug: the-border-and-foreign-affairs-subcommittee-on-national-security
+  shared_claims: 1
+- node_id: c927731b-8081-4c5d-9369-2d587e541742
+  title: USA, D.C., Washington
+  node_type: place
+  slug: dc-washington-usa
+  shared_claims: 1
+- node_id: 240453b5-254d-479a-a39f-4340fec022c8
+  title: United States House Committee on Oversight and Accountability
+  node_type: organisation
+  slug: united-states-house-committee-on-oversight-and-accountability
+  shared_claims: 1
+claims:
+- claim_id: 227a4650-1cf5-4fe0-bda6-da577a34c82e
+  claim_hash: 813807af0fd5dc16317b27606a03ef372a460919478640fe0101fa7d2fb6ba96
+  content: The 2023 House Oversight UAP Hearing convened at 10:06 a.m. in room 2154
+    of the Rayburn Office Building in Washington, D.C., with Glenn Grothman presiding
+    as Chairman of the Subcommittee.
+  original_excerpt: The Subcommittee met, pursuant to notice, at 10:06 a.m., in room
+    2154, Rayburn Office Building, Hon. Glenn Grothman, [Chairman of the Subcommittee]
+    presiding.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 098e8953-dbb3-42c3-8c74-94c6988a8640
+    title: 2023 House Oversight UAP Hearing
+    slug: 2023-house-oversight-uap-hearing
+  - node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Grothman, Glenn
+    slug: glenn-grothman
+  - node_id: c927731b-8081-4c5d-9369-2d587e541742
+    title: USA, D.C., Washington
+    slug: dc-washington-usa
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: page 1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 727f3359-8567-461e-b241-a3fcd3fd147e
+  claim_hash: 128a44034c768a3f95b83948586af2d1d2506edace3047309479cfd2b60f0e67
+  content: Ryan Graves is a former US Navy F-18 pilot with his own UAP experience.
+  original_excerpt: Lieutenant Graves is also a former U.S. Navy F-18 pilot with his
+    own UAP experience.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Grothman, Glenn
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Graves, Ryan
+    slug: ryan-graves
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: null
+  date_end: null
+  location_in_record: page 13
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 16e0e527-c447-4ac5-b33d-f69f3cd36034
+  claim_hash: 741a264f2013a15eb454077a9f42a87df657d498b041baf5c0d081bf7b9c752b
+  content: David Grusch is a former senior intelligence officer with the National
+    Geospatial-Intelligence Agency and was a senior technical advisor for UAP issues.
+  original_excerpt: David Grusch, is a former senior intelligence officer with the
+    National Geospatial Intelligence Agency and was a senior technical advisor for
+    UAP issues.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Grothman, Glenn
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+    title: National Geospatial-Intelligence Agency (NGA)
+    slug: national-geospatial-intelligence-agency-nga
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: page 13
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 75b32053-2603-459f-9402-ea9f9f2f8321
+  claim_hash: e2e2a46a20d49f668afa9b484e56fd95129ce1d47eb6acaec21b591534b0dab5
+  content: David Fravor is a retired Navy Commander and squadron leader who worked
+    as a naval aviator for 18 years, and his UAP experience is known as the Tic Tac
+    event.
+  original_excerpt: retired Navy Commander David Fravor, squadron leader who worked
+    as a naval aviator for 18 years. Mr. Fravor has his own UAP experience known as
+    the Tic Tac event.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Grothman, Glenn
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: page 13
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 8ad2e7d0-867c-4a33-98c9-54921ca7dbc8
+  claim_hash: 0ac12c9cc7bffcc89804a509c9e2e0858e8374d705302673a5beb18a58ce4511
+  content: In 1966, President Gerald Ford claimed to have seen a UFO.
+  original_excerpt: I also want to point out in 1966, President Gerald Ford claimed
+    to have seen a UFO
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Grothman, Glenn
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
+    title: Ford, Gerald
+    slug: gerald-ford
+  date: '1966'
+  date_end: null
+  location_in_record: page 2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: ab536362-eb74-47c6-99d9-0b82f84f86c1
+  claim_hash: 432c333f96ef1fc3d7661398db4d9f3e9fd867a0e20519b74a5c170df3d15ef5
+  content: In 1969 in Georgia, Jimmy Carter claimed to have seen a UFO.
+  original_excerpt: and in 1969 in Georgia, Jimmy Carter claimed to have seen a UFO.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Grothman, Glenn
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+    title: Carter, Jimmy
+    slug: jimmy-carter
+  date: '1969'
+  date_end: null
+  location_in_record: page 2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: cc2f9a38-d01c-491b-9972-65ee5d191c23
+  claim_hash: 188d326b26d0c48ec5de3d44b5112be5dfce6cb463811c89a3f8b3a1256a1366
+  content: The National Defense Authorization Act for Fiscal Year 2022 established
+    the All-Domain Anomaly Resolution Office (AARO) to conduct or coordinate efforts
+    across the Department of Defense and other federal agencies to detect, identify,
+    and investigate UAP.
+  original_excerpt: The National Defense Authorization Act of 2022 established the
+    all-domain anomaly resolution officer - AARO - to conduct or to coordinate efforts
+    across the Department of Defense and other Federal agents to detect, identify,
+    and investigate UAPs.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Grothman, Glenn
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: bec04557-78dd-4b40-9fd6-ef824b3281b8
+    title: National Defense Authorization Act for Fiscal Year 2022
+    slug: national-defense-authorization-act-for-fiscal-year-2022
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    slug: all-domain-anomaly-resolution-office-aaro
+  date: null
+  date_end: null
+  location_in_record: page 2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: f1a84a1a-08ea-4427-b819-6067579ce65e
+  claim_hash: 7b3e546edd43493dc4c07a43e1e6629ce951910c694775e4163655ffd2bb58db
+  content: The budget of the All-Domain Anomaly Resolution Office (AARO) remains classified,
+    prohibiting meaningful oversight from Congress.
+  original_excerpt: However, AARO's budget remains classified, prohibiting meaningful
+    oversight from Congress.
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Grothman, Glenn
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    slug: all-domain-anomaly-resolution-office-aaro
+  date: null
+  date_end: null
+  location_in_record: page 2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: dc05b18a-87fa-4c40-b87b-fb3e11d39436
+  claim_hash: 1d13b4a73faafad97f9073793c95200c38880a1e98a37e64932ee41e07472612
+  content: NASA is leading an independent study on UAP to identify how UAP data is
+    gathered from civilian and government entities for analysis.
+  original_excerpt: In addition to AARO's efforts, NASA is leading an independent
+    study on UAPs to identify how UAP data is gathered from both civilian and government
+    entities that can be analyzed to shed light on the topic.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Grothman, Glenn
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 6c2a139a-acd0-4f32-aa99-ce3b4ba3baf4
+    title: NASA UAP Independent Study
+    slug: nasa-uap-independent-study
+  - node_id: ced3c1cf-6084-4869-ae54-9a5ba12c2fba
+    title: NASA
+    slug: nasa
+  date: null
+  date_end: null
+  location_in_record: page 2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 375fb06b-59f3-4465-9b7b-d8cf21ac4e18
+  claim_hash: cd764d41337c67b49a49fc285a963ec5c9ce79bc781875761a3ea992c426315d
+  content: Between the Chinese spy balloon being shot down and two UAP subsequently
+    shot down earlier in 2023, the US Government spent 1.5 million dollars in taxpayer
+    money on missiles.
+  original_excerpt: Between the Chinese balloon being shot down and two UAPs subsequently
+    shot down following the event earlier this year the U.S. Government spent $1.5
+    million in taxpayer dollars on missiles.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Grothman, Glenn
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1686ae9c-b6ff-4308-943b-dfe83f20aade
+    title: 2023 Chinese surveillance balloon
+    slug: 2023-chinese-surveillance-balloon
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
+    title: 2023 Chinese spy balloon incident
+    slug: 2023-chinese-spy-balloon-incident
+  date: '2023'
+  date_end: null
+  location_in_record: page 2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 2fc0fb43-3e96-4303-bd8f-1713b70cca42
+  claim_hash: 0bd02b3dd492b04f976dcf046e64d264c3edbae3d865fbd57b61e4ec7cc49c1f
+  content: The 2023 Chinese spy balloon violated United States air space.
+  original_excerpt: the Chinese spy balloon that violated U.S. air space
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Grothman, Glenn
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1686ae9c-b6ff-4308-943b-dfe83f20aade
+    title: 2023 Chinese surveillance balloon
+    slug: 2023-chinese-surveillance-balloon
+  - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
+    title: 2023 Chinese spy balloon incident
+    slug: 2023-chinese-spy-balloon-incident
+  date: '2023'
+  date_end: null
+  location_in_record: page 2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 479468c9-6ae3-4534-9576-d4bfc12be333
+  claim_hash: 9b6dc17ebf130bfae17f7505a15ec12c6c4133e73528be0d7fbf6b17f0ce3765
+  content: Glenn Grothman of Wisconsin is the Chairman of the Subcommittee on National
+    Security, the Border, and Foreign Affairs.
+  original_excerpt: Glenn Grothman, Wisconsin, Chairman
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Grothman, Glenn
+    slug: glenn-grothman
+  - node_id: ace70b8c-19ab-4ba0-b0ff-b8daf00a03bb
+    title: Subcommittee on National Security, the Border, and Foreign Affairs
+    slug: the-border-and-foreign-affairs-subcommittee-on-national-security
+  date: null
+  date_end: null
+  location_in_record: page 3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: be0cb3c8-5288-4f40-90ef-0d3d3623b154
+  claim_hash: 942570c5217fc1c8f920a7041cbc1c96982f7f00b1021a01e221fb221c334f36
+  content: Nancy Mace served as Chairwoman and Glenn Grothman as Chairman, with Gerald
+    Connolly and Robert Garcia as Ranking Members of the committee hearing.
+  original_excerpt: Greetings, Chairwoman Mace, Chairman Grothman, Ranking Members
+    Connolly and Garcia, and Members of the Committee.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 23bf4790-26b6-4d3c-aff8-7e379051657b
+    title: Connolly, Gerald
+    slug: gerald-connolly
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    slug: united-states-house-committee-on-oversight-and-accountability
+  - node_id: 80d1049c-74b9-4e21-93bb-6e0eb933a52b
+    title: Garcia, Robert
+    slug: robert-garcia
+  - node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Grothman, Glenn
+    slug: glenn-grothman
+  - node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
+    title: Mace, Nancy
+    slug: nancy-mace
+  date: '2024-11-13'
+  date_end: null
+  location_in_record: p1, para1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 72cc1cf9-c482-4e0e-8629-c9d2fb101493
+    record_title: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena:
+      Exposing the Truth'
+    record_date: '2024-11-13'
+    record_reference: null
+    content_hash: sha256:f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce064218b64
+    friendly_name: 2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the

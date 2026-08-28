@@ -1,0 +1,1897 @@
+schema: anomalica/brief/1
+brief_hash: 53c737b105c123d66e840580fcba6cb871c24f6b33bb05757102e56510c53596
+page:
+  kind: entity
+  node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+  node_type: place
+  title: USA, Nevada, Area 51
+  slug: nevada-area-51-usa
+  claim_count: 46
+  claim_count_total: 46
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+  title: Bob Lazar
+  node_type: person
+  slug: bob-lazar
+  shared_claims: 6
+- node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+  title: David Fruehauf
+  node_type: person
+  slug: david-fruehauf
+  shared_claims: 5
+- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+  title: Christopher K. Mellon
+  node_type: person
+  slug: christopher-k-mellon
+  shared_claims: 4
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 4
+- node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+  title: Barack Obama
+  node_type: person
+  slug: barack-obama
+  shared_claims: 3
+- node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+  title: Bill Clinton
+  node_type: person
+  slug: bill-clinton
+  shared_claims: 2
+- node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+  title: Craig McPherson
+  node_type: person
+  slug: craig-mcpherson
+  shared_claims: 2
+- node_id: 0e7d489e-9335-4906-8687-0acb68d2818a
+  title: Dave (SR-71 pilot)
+  node_type: person
+  slug: dave-sr-71-pilot
+  shared_claims: 2
+- node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+  title: Harry Reid
+  node_type: person
+  slug: harry-reid
+  shared_claims: 2
+- node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+  title: Tom DeLonge
+  node_type: person
+  slug: tom-delonge
+  shared_claims: 2
+- node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+  title: USA, Nevada, Groom Lake
+  node_type: place
+  slug: nevada-groom-lake-usa
+  shared_claims: 2
+- node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+  title: USA, Nevada, Las Vegas
+  node_type: place
+  slug: nevada-las-vegas-usa
+  shared_claims: 2
+- node_id: 9a0a9944-b50d-4340-adde-ee14c278518b
+  title: USA, Nevada, Papoose Lake
+  node_type: place
+  slug: nevada-papoose-lake-usa
+  shared_claims: 2
+- node_id: 8ba74dde-17fd-4904-bca7-46d2303c2534
+  title: 1989 Bob Lazar KLAS interview
+  node_type: event
+  slug: 1989-bob-lazar-klas-interview
+  shared_claims: 1
+- node_id: 63e1b3ae-d158-452e-af0c-46def54337cd
+  title: 1991 Nellis Air Force Base security lockdown
+  node_type: event
+  slug: 1991-nellis-air-force-base-security-lockdown
+  shared_claims: 1
+- node_id: 167b9461-2288-4c48-b9b5-7b798d883f4f
+  title: 2015-03 Obama Jimmy Kimmel Live interview on aliens
+  node_type: event
+  slug: 2015-03-obama-jimmy-kimmel-live-interview-on-aliens
+  shared_claims: 1
+- node_id: 9f146c11-cf06-441b-a9fa-b2a856c7b752
+  title: Advance Studies Group (ASG)
+  node_type: organisation
+  slug: advance-studies-group-asg
+  shared_claims: 1
+- node_id: 3fd974c6-c7e0-442d-99af-dc66ba4f41c8
+  title: Air Force Flight Test Center, Detachment 3
+  node_type: organisation
+  slug: detachment-3-air-force-flight-test-center
+  shared_claims: 1
+- node_id: af72e20b-8fd0-4015-b443-c6da1bae5065
+  title: Alien Reproduction Vehicle (ARV)
+  node_type: topic
+  slug: alien-reproduction-vehicle-arv
+  shared_claims: 1
+- node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+  title: Anti-Gravity Propulsion
+  node_type: topic
+  slug: anti-gravity-propulsion
+  shared_claims: 1
+- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+  title: Eric Davis
+  node_type: person
+  slug: eric-davis
+  shared_claims: 1
+- node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+  title: George Knapp
+  node_type: person
+  slug: george-knapp
+  shared_claims: 1
+- node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+  title: Hillary Clinton
+  node_type: person
+  slug: hillary-clinton
+  shared_claims: 1
+- node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+  title: James R. Clapper
+  node_type: person
+  slug: james-r-clapper
+  shared_claims: 1
+- node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
+  title: Janet Airlines
+  node_type: organisation
+  slug: janet-airlines
+  shared_claims: 1
+- node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+  title: Jason Samosa
+  node_type: person
+  slug: jason-samosa
+  shared_claims: 1
+- node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+  title: Jeremy Corbell
+  node_type: person
+  slug: jeremy-corbell
+  shared_claims: 1
+- node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
+  title: Jim Goodall
+  node_type: person
+  slug: jim-goodall
+  shared_claims: 1
+- node_id: 7b8ee83a-414a-4168-9026-bb7ca8cb012b
+  title: Jimmy Kimmel
+  node_type: person
+  slug: jimmy-kimmel
+  shared_claims: 1
+- node_id: ea8ea587-d42e-4dc4-83b4-3804488fe215
+  title: Jimmy Kimmel Live
+  node_type: document
+  slug: jimmy-kimmel-live
+  shared_claims: 1
+claims:
+- claim_id: be3d69de-51e6-448c-bd5f-1ddeaed25965
+  claim_hash: f8f3f15b8975fa6760e3cd77c27f209f36faf8c5dfd4413b25ccc55df300fe26
+  content: Will Miller offered to provide the name and last known location of a senior
+    officer he believed had first-hand knowledge of US government alien reproduction
+    vehicles (ARVs) at Area 51 and associated locations.
+  original_excerpt: The name and last location of a senior officer who I believe had
+    first-hand knowledge U.S. government alien reproduction vehicles (ARVs) at Area-51
+    and associated locations.
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+  provenance_chain:
+    origin_kind: document
+    origin: Will Miller letter to Eric Davis, 25 April 2002
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: af72e20b-8fd0-4015-b443-c6da1bae5065
+    title: Alien Reproduction Vehicle (ARV)
+    slug: alien-reproduction-vehicle-arv
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    slug: willard-miller
+  date: null
+  date_end: null
+  location_in_record: char:5810-5973
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 0d9fcd39-12fd-4f1b-9779-e8b61eacc3f7
+  claim_hash: 8b42547209b9659f9609e6493c364d9a4145d540e2bd4719f376b4d3691714fa
+  content: Dr Craig McPherson was a scientist and former employee of Area 51.
+  original_excerpt: Interview with Dr Craig McPherson, scientist and former employee
+    of Area 51
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+    title: Craig McPherson
+    slug: craig-mcpherson
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: char:1469-1542
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+    record_title: Project Serpo
+    record_date: '2007-06-20'
+    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+    friendly_name: null
+- claim_id: 911dc195-5a41-4d4e-86f7-32a73ab56ad8
+  claim_hash: ae9533cff030d278801d9188b5a1ec6ba399d1df6cc6cbca48f97cd3d5ee2d1c
+  content: Dr Craig McPherson worked at Area 51 from May 1956 until September 1988.
+  original_excerpt: Dr McPherson worked at Area 51 from May 1956 until September 1988.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+    title: Craig McPherson
+    slug: craig-mcpherson
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: char:1546-1607
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+    record_title: Project Serpo
+    record_date: '2007-06-20'
+    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+    friendly_name: null
+- claim_id: 03d61ddd-629f-406e-8546-489613f55bbb
+  claim_hash: 9c6790b4651d029ea97a159c12d5bb21c011ec3e3afc3a4f685d8a67bcb15c7a
+  content: An enormous new hangar was reported under construction at Area 51, with
+    speculation about whether extraterrestrial activity would move in permanently
+    by November 2009.
+  original_excerpt: ENORMOUS NEW HANGAR UNDER CONSTRUCTION AT AREA 51... IS ET MOVING
+    IN PERMANENTLY COME NOVEMBER 2009?!
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: char:16151-16246
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+    record_title: Project Serpo
+    record_date: '2007-06-20'
+    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+    friendly_name: null
+- claim_id: 2d0cbd5e-540c-4a2e-897f-3391d1ea9227
+  claim_hash: 4e8e1eda053403b17d3e2fe4e086c721927f32a24f6efc2df1f8252479d91352
+  content: The estimated size of the new hangar under construction at Area 51 is approximately
+    61 metres by 152 metres and 30 metres tall.
+  original_excerpt: The estimated size is 200 ft x 500 ft and 100 feet tall.
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: char:16424-16475
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+    record_title: Project Serpo
+    record_date: '2007-06-20'
+    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+    friendly_name: null
+- claim_id: a6484201-0c92-4ce2-b223-25989a16b8a1
+  claim_hash: 5e27c6553a92843af9be9346edfc48d4b693be3af355c853c9baeb50be7cfd9f
+  content: After the United States Air Force took over in the late 1980s, Area 51
+    was officially renamed Air Force Flight Test Center, Detachment 3.
+  original_excerpt: 'After the Air Force took over in the late 1980s, the name Area
+    51 was officially changed to: AIR FORCE FLIGHT TEST CENTER, DETACHMENT 3'
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 3fd974c6-c7e0-442d-99af-dc66ba4f41c8
+    title: Air Force Flight Test Center, Detachment 3
+    slug: detachment-3-air-force-flight-test-center
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: char:16633-16773
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+    record_title: Project Serpo
+    record_date: '2007-06-20'
+    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+    friendly_name: null
+- claim_id: 86080df8-e6c2-4afa-a6c5-812e8c053a77
+  claim_hash: 3853e85475bea422d6fdf924b5c9382406294418e44cb88967d90b7c1ac8239e
+  content: The Advance Studies Group was a very secret group located in the second
+    level of Area 51, Complex III.
+  original_excerpt: The ASG was a very secret group located in the second level of
+    Area 51, Complex III.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+    title: Craig McPherson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Craig McPherson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9f146c11-cf06-441b-a9fa-b2a856c7b752
+    title: Advance Studies Group (ASG)
+    slug: advance-studies-group-asg
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: char:5141-5221
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+    record_title: Project Serpo
+    record_date: '2007-06-20'
+    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+    friendly_name: null
+- claim_id: 46c11059-4677-43f3-a4f0-4dee41c14079
+  claim_hash: 050905ca70a0a3329db50b149ba00fd333743d32336abb8530ddc117448bd950
+  content: After the 1973 accident, the Blue Chariot was taken to another facility
+    located in a very remote area of Area 51, adjacent to the old above-ground nuclear
+    testing land.
+  original_excerpt: The BC was then taken to another facility, which was located in
+    a very remote area of Area 51. This area was adjacent to the old above ground
+    nuclear testing land.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+    title: Craig McPherson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Craig McPherson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: char:6882-7040
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+    record_title: Project Serpo
+    record_date: '2007-06-20'
+    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+    friendly_name: null
+- claim_id: 10a95105-449a-44ec-aa8e-e7daf42e2bc0
+  claim_hash: 6281a53947ff24753313553498c615f7c48832cc83d30f1dfc84cb1ebb5d6061
+  content: By 1989 there was widespread speculation that America had developed a new
+    super-stealthy craft inside Area 51, perhaps involving a breakthrough in anti-gravity
+    propulsion, giving rise to the mythical 'Aurora'.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: widespread speculation
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: '1989'
+  date_end: null
+  location_in_record: ch13:10654-10824
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 1e635035-bc66-4b80-910c-81198bf2572c
+  claim_hash: 407bced30caa6a6a82ce9ad898462b36cfd8b14bba85e3fe0c1e497950474334
+  content: Christopher Mellon visited Area 51 and had full access to review every
+    classified project onsite.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+  provenance_chain:
+    origin_kind: speaker
+    origin: Christopher Mellon
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:10834-10913
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: af8eafec-54b3-48ad-aa24-6faa360f7964
+  claim_hash: d8c555757a24a117264e48d6f15504ae7a70cd0a154ead83950de6b30216fd12
+  content: Christopher Mellon says he never saw anything at Area 51 that equated to
+    the kind of technology demonstrated by the sighted UAPs, and certainly no captured
+    alien spacecraft.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+  provenance_chain:
+    origin_kind: speaker
+    origin: Christopher Mellon
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:10921-11077
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 94e53edb-7069-4b00-b719-6bafea987d8a
+  claim_hash: 08c781d348c86893e0c5d16cc4ed09b6894ce29710e52810ab66dae5baf9a1bf
+  content: Dave, Jim Goodall's SR-71 pilot source, eventually became the facility
+    manager at Area 51, the secret US test site for high-tech black world aerospace
+    technology.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Jim Goodall
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0e7d489e-9335-4906-8687-0acb68d2818a
+    title: Dave (SR-71 pilot)
+    slug: dave-sr-71-pilot
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:18778-18925
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5cb04c0e-d28e-4a3d-9400-8a802f0720d9
+  claim_hash: 2a687d8b7bc62aacaaa9c2012245e572ef1da42fd048166f1866a35eba87b960
+  content: After becoming Area 51 facility manager, Dave asked around whether the
+    base had ever flown anything that could go 13,000 to 16,000 kilometres per hour,
+    and the reply was always no.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
+    title: Jim Goodall
+  provenance_chain:
+    origin_kind: named
+    origin: Dave (SR-71 pilot)
+    relay:
+    - Jim Goodall
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0e7d489e-9335-4906-8687-0acb68d2818a
+    title: Dave (SR-71 pilot)
+    slug: dave-sr-71-pilot
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:18938-19083
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e4c42ac4-a09a-40be-9498-99d61101dd72
+  claim_hash: 0a2e7800b212e90fae4767f7ca566b6493b40fe579983462eaaf4bbd96ee6dd8
+  content: Bob Lazar is a Nevada businessman who went public in the late 1980s with
+    claims that he worked as a physicist at Area 51 on reverse-engineering propulsion
+    systems of recovered alien craft.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bob Lazar
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+    slug: bob-lazar
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:19774-19967
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: bc25a681-ad28-4474-8f53-4f79abfec4c5
+  claim_hash: 423631f71504207ee12bc3f63e839fee6bc5efd73cad192193a3bde7ca06233e
+  content: USA, Nevada, Site 4 (S-4) is a much-rumoured but never officially confirmed
+    secret facility supposedly located near but separate from Area 51.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:20099-20218
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 46f173e7-f7db-489f-92fa-3898e1612ad0
+  claim_hash: c5cc2d5225d7ba8391234e7aefaf7538e235878a47a3de873b71c135aa982b65
+  content: In 1989, Bob Lazar went public in an interview with journalist George Knapp
+    on Las Vegas television station KLAS-TV, asserting anonymously at first his purported
+    employment working on a recovered extra-terrestrial flying saucer at the supposed
+    Site 4 (S-4) facility.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+    title: USA, Nevada, Las Vegas
+    slug: nevada-las-vegas-usa
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    slug: george-knapp
+  - node_id: 8ba74dde-17fd-4904-bca7-46d2303c2534
+    title: 1989 Bob Lazar KLAS interview
+    slug: 1989-bob-lazar-klas-interview
+  - node_id: 9a0a9944-b50d-4340-adde-ee14c278518b
+    title: USA, Nevada, Papoose Lake
+    slug: nevada-papoose-lake-usa
+  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+    slug: bob-lazar
+  - node_id: b2c77a25-6123-4a27-a105-4edfde1e27c1
+    title: KLAS-TV
+    slug: klas-tv
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: '1989'
+  date_end: null
+  location_in_record: ch13:20633-20945
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f3ddf5dc-b5c0-45ba-b8ca-dd981117548c
+  claim_hash: 4527f4dfcd3ae0f1557f8e895b62d9cfdcc2bd36f3efdf31bb53a9c2ae1daa17
+  content: USA, Nevada, Site 4 (S-4) is located adjacent to USA, Nevada, Papoose Lake,
+    south of USA, Nevada, Area 51.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9a0a9944-b50d-4340-adde-ee14c278518b
+    title: USA, Nevada, Papoose Lake
+    slug: nevada-papoose-lake-usa
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:20906-20945
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c12eaf28-ca0e-4d40-8c76-c4bacd9ffdbf
+  claim_hash: 89af04bfb3525397297a8f92549092d837e2feae0f35f6e6caac1cce89664753
+  content: An Area 51 source of Jim Goodall's went treasure-hunting about a 30-minute
+    south-westerly drive from the main Area 51 base, near where Bob Lazar said the
+    Site 4 (S-4) site was located, and was confronted by armed security personnel
+    demanding identification who appeared to arrive with no vehicle and no visible
+    building or tunnel.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
+    title: Jim Goodall
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be an Area 51 source of Jim Goodall's
+    relay:
+    - Jim Goodall
+  attribution_mode: unknown
+  node_refs:
+  - node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
+    title: Jim Goodall
+    slug: jim-goodall
+  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+    slug: bob-lazar
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:21211-21839
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 286a93a6-db74-4a2b-b916-5522fb82ba4b
+  claim_hash: d1be09dc7d7b284bb54d2d193757d79e1e4b4040c564693948a547db9aba15e2
+  content: David Fruehauf worked at USA, Nevada, Area 51 for six years from 1979 to
+    1985, commuting daily from USA, Nevada, Las Vegas on a private charter flight
+    named Janet Airlines.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+    title: David Fruehauf
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fruehauf
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
+    title: Janet Airlines
+    slug: janet-airlines
+  - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+    title: David Fruehauf
+    slug: david-fruehauf
+  - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+    title: USA, Nevada, Las Vegas
+    slug: nevada-las-vegas-usa
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: '1979'
+  date_end: null
+  location_in_record: ch13:22336-22497
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 2d47c79b-2aec-4f4b-97cf-682a646598e1
+  claim_hash: d70e378fe6686c58e3a36a6d8f3d364f3cebd1786db9c4ba7cecfe47249a33cf
+  content: David Fruehauf noticed a regular group of scientists and military officials
+    at USA, Nevada, Area 51 who would board a bus to a facility he knew as Site 4
+    (S-4), which he understood to be even more secretive than Area 51.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+    title: David Fruehauf
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fruehauf
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+    title: David Fruehauf
+    slug: david-fruehauf
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:22507-22707
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9fb4c531-9333-4d72-acb0-4399ae22701b
+  claim_hash: 64371f25e880f49db6127aaf387969bb2431c05614909587a9628baab23f6002
+  content: David Fruehauf knew about Site 4 (S-4) but did not know what work was done
+    there, and observed that certain people boarded a Boeing 737 in the morning and
+    were taken off in a different direction by bus upon arrival at Area 51, while
+    others went north towards the hangars.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+    title: David Fruehauf
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fruehauf
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+    title: David Fruehauf
+    slug: david-fruehauf
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:22711-22981
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 72b4ac21-be05-4071-b16e-19dd070530cc
+  claim_hash: 4e00ae20ec251cdb1982a92023a0b22e2d1517e4dc7e9b4a441650420bf395d6
+  content: Bob Lazar was never at USA, Nevada, Area 51 at the same time as David Fruehauf,
+    but Fruehauf considered Lazar's account very accurate and said he sounded totally
+    believable.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+    title: David Fruehauf
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fruehauf
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+    title: David Fruehauf
+    slug: david-fruehauf
+  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+    slug: bob-lazar
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:22991-23149
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 0d3a2ac4-92fc-43eb-a20d-f93256be5cff
+  claim_hash: a169cf55ee3a517f1052b57264363a807bdfd5ed50d99afbe1074253eca696a8
+  content: David Fruehauf claimed he knew witnesses who saw Bob Lazar somewhere at
+    USA, Nevada, Area 51.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: first_hand
+  speaker:
+    node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+    title: David Fruehauf
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fruehauf
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+    title: David Fruehauf
+    slug: david-fruehauf
+  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+    slug: bob-lazar
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:23155-23221
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 0d3f353e-2e00-45ff-945d-832286061739
+  claim_hash: c534ae7753c6ca7c96264422097f4001ca5326afa1010d7f59cd3857ed38970c
+  content: Filmmaker Jeremy Corbell found a witness whom Bob Lazar said had vetted
+    him for his USA, Nevada, Area 51 security clearance.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+    title: Jeremy Corbell
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jeremy Corbell
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+    title: Jeremy Corbell
+    slug: jeremy-corbell
+  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+    slug: bob-lazar
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:24124-24222
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 86acde03-2c78-4459-a2ad-d227d1609f8d
+  claim_hash: 9018544c3ff71e05ad1e89def79e044dd2ac569c00b9cd8cfa85a5d4c7c61eaf
+  content: Christopher Mellon monitored Area 51, a highly secure US Air Force facility
+    within the Nevada test range, for the Senate Intelligence Committee.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+    title: US Senate Select Committee on Intelligence
+    slug: us-senate-select-committee-on-intelligence
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:9266-9479
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a7e3a377-ce5d-4804-b4f5-cec165aebeec
+  claim_hash: b14a0dfb8f770975fd0b4dff54309ac35ad67f32f894a28783e741e6dd79cf38
+  content: Area 51 was first acquired by the US Air Force in 1955 for developing Lockheed's
+    U-2 spy plane.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 3dcb1bdf-9e00-430b-97ed-ded13b79fd61
+    title: U-2 spy plane
+    slug: u-2-spy-plane
+  - node_id: 6814b080-a222-4c03-9e18-877cf868e816
+    title: Lockheed
+    slug: lockheed
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: '1955'
+  date_end: null
+  location_in_record: ch13:9486-9578
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b8c68d96-6fdf-468c-be13-754f5936bbda
+  claim_hash: ae8c85e1156897b08b5fe971852f1bf1297cc11ab0e8eda05c00415114cc7bda
+  content: Area 51's existence was not officially acknowledged until 2013.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: '2013'
+  date_end: null
+  location_in_record: ch13:9585-9637
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ffa44c51-6a0c-4f6d-99b5-47a0d9a0d562
+  claim_hash: fc13aebcddf717c4d80e9dd96c6b70f3a73d5f26bba79171a20521344224d8c7
+  content: Area 51 enjoys a mythical status among UAP researchers as a location of
+    frequent sightings of strange glowing and hovering objects, as well as secret
+    tests of more mundane but nonetheless super-secret test aircraft.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:9642-9866
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a7fa4ed4-0064-4a6d-911a-3df81f8c88d8
+  claim_hash: 163f0ece0afb7ab54fc10c21fc43b6c8679adb4e0f6a161e09726328e3f5b269
+  content: The leaked US National Reconnaissance Office document was a July 1991 security
+    advisory, listing a series of codenames and command locations in and around Nellis
+    Air Force Base in the Nevada desert, which includes the Area 51 sites known as
+    Groom Lake and Dreamland.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 1991 Nellis Air Force Base security lockdown
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 63e1b3ae-d158-452e-af0c-46def54337cd
+    title: 1991 Nellis Air Force Base security lockdown
+    slug: 1991-nellis-air-force-base-security-lockdown
+  - node_id: 8449e1be-95c3-4636-9f3f-b1768eeed1cd
+    title: USA, Nevada, Nellis Air Force Base
+    slug: nevada-nellis-air-force-base-usa
+  - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+    title: National Reconnaissance Office (NRO)
+    slug: national-reconnaissance-office-nro
+  - node_id: bc6bae79-93f4-4a4a-a101-b4b195dbf64d
+    title: USA, Nevada, Dreamland
+    slug: nevada-dreamland-usa
+  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+    title: USA, Nevada, Groom Lake
+    slug: nevada-groom-lake-usa
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: 1991-07
+  date_end: null
+  location_in_record: ch14:10221-10483
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a85aa7ce-bc27-482a-90eb-42fc1434d3e7
+  claim_hash: 04fd0dde9d370afd80bb5840d01c8083d474cba769f5ed4e1ff0d805570d9af8
+  content: Bill Clinton has admitted he had his aides research Area 51 'to make sure
+    there was no alien down there'.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Clinton
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch14:2073-2187
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 57110c7c-a91b-4849-a9c3-aa7a545783fb
+  claim_hash: aa6b9a9cdf6d6b1947dc06c08de8b712e22f4d8d7b54c862a08c3dd6573e0712
+  content: Eric Davis admits driving around the border of the secretive Area 51 government
+    facility in the Nevada desert for a peek, provoking security guards from Wackenhut
+    security to rumble his car.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+  provenance_chain:
+    origin_kind: named
+    origin: Eric Davis
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 51549c89-8719-494e-92f6-186eb24f28c6
+    title: Wackenhut
+    slug: wackenhut
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch15:13052-13278
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6dfca8a6-37a7-4f2f-8bcb-657066ceac80
+  claim_hash: 00018001cbfce2aceea3d819c3bb1240b35ec4ef9bd620539ff2a60cf4dcf12b
+  content: During his Senate term, Harry Reid visited the Area 51 air force base in
+    Nevada, a site associated with speculation about strange glowing craft and future
+    aerospace technology.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch17:1865-2092
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5aedd31b-47ee-4ec2-9190-c10a67c2595d
+  claim_hash: 74e2267b46d575b5cd04de3fb5134fde30799a136f454c4c09a8ca81a808e9da
+  content: Tom DeLonge says he was invited to a second meeting, this time inside a
+    secure concrete bunker at Area 51, going through four layers of security including
+    guns, electronic code entry systems, hallways playing white noise, and a series
+    of solid doors with rotary locks and no windows.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay:
+    - 'SeKret Machines: Chasing Shadows'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2c729a7b-3c10-41a2-92b2-7f11e88f04e2
+    title: 'SeKret Machines: Chasing Shadows'
+    slug: sekret-machines-chasing-shadows
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch18:17134-17467
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 00ba2512-e139-4c68-a46f-32fb900c3144
+  claim_hash: 8b77f2533cdbd64eae2501de3a6357c72c0127f2a54aa3b1e0762c3a54215d28
+  content: During the March 2015 Jimmy Kimmel Live interview, Jimmy Kimmel said that
+    if he were president he would immediately race to find the files about Area 51
+    and UFOs upon inauguration, and asked President Obama whether he had done that.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 7b8ee83a-414a-4168-9026-bb7ca8cb012b
+    title: Jimmy Kimmel
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jimmy Kimmel
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 167b9461-2288-4c48-b9b5-7b798d883f4f
+    title: 2015-03 Obama Jimmy Kimmel Live interview on aliens
+    slug: 2015-03-obama-jimmy-kimmel-live-interview-on-aliens
+  - node_id: 7b8ee83a-414a-4168-9026-bb7ca8cb012b
+    title: Jimmy Kimmel
+    slug: jimmy-kimmel
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  - node_id: ea8ea587-d42e-4dc4-83b4-3804488fe215
+    title: Jimmy Kimmel Live
+    slug: jimmy-kimmel-live
+  date: 2015-03
+  date_end: null
+  location_in_record: ch18:4328-4618
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7e3231c7-ddbc-4170-b0aa-478cead09427
+  claim_hash: 23c36d2758a9188d96a84116906e1214134cc2b1598a48966dc3e0894f6b251f
+  content: Sometime before quitting Blink-182, Tom DeLonge camped out at night with
+    two friends near Area 51 in Nevada, north of the town of Tonopah, midway between
+    Las Vegas and Reno.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2a8412f2-73b8-4527-8316-6802e845510a
+    title: USA, Nevada, Tonopah
+    slug: nevada-tonopah-usa
+  - node_id: 44f02f14-8bbd-41ef-a23e-f27ce73186a9
+    title: Tom DeLonge's Area 51-area Close Encounters of the Fifth Kind (CE5) desert
+      experience
+    slug: tom-delonges-area-51-area-close-encounters-of-the-fifth-kind-ce5-desert-experience
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch18:6005-6330
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 81af1730-3dcc-4557-afbb-7e88fd998e89
+  claim_hash: e6f749a9e9535455fde9ed00cceb75e87c28eea227f128171bdd4e86d51bf29f
+  content: Hillary Clinton said that during her 2016 presidential campaign she would
+    consider a taskforce to investigate the Area 51 military base in Nevada, long
+    linked to UFO/UAP conspiracies.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+    title: Hillary Clinton
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hillary Clinton
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+    title: Hillary Clinton
+    slug: hillary-clinton
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch20:17299-17522
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a50aa132-a278-4f4f-bc89-d2dbb3b4d34d
+  claim_hash: 23f1a83ff91cc7ef1670c7ad3f052452fb88d5bb247868a2d4bc70acb32308e8
+  content: An anonymous retired senior United States Navy officer, in conversation
+    with Ross Coulthart, said that if secret US technology explained the navy pilot
+    sightings, it would not have been overtly test-flown in a way that led to its
+    existence being publicly compromised, arguing that keeping technology classified
+    means keeping it out of the public eye.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be a retired very senior United States Navy officer
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    slug: ross-coulthart
+  - node_id: f3a8d1d7-b7c0-4132-9fae-c3b629273603
+    title: USA, California, China Lake
+    slug: california-china-lake-usa
+  date: null
+  date_end: null
+  location_in_record: ch28:10114-10418
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 233982bc-14f8-40a8-8e25-af3400571456
+  claim_hash: 828312ab04eaf17d2d09a181dccf8db979561b55fd4ade225d7c20dcf1c7be63
+  content: Christopher Mellon said he never saw an enormous spending line for a TR3B-type
+    craft, nor evidence of such a craft during his visits to Area 51 and adjacent
+    ranges.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+  provenance_chain:
+    origin_kind: speaker
+    origin: Christopher Mellon
+    relay:
+    - an email to a private news group
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: 9b0b88b3-ca1d-41b8-b67d-66fb0a918588
+    title: TR3B
+    slug: tr3b
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch28:11340-11535
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 1817ad3d-0fa0-4355-baf4-b291c23f76ac
+  claim_hash: 926e5f55a6a86fc137e66219988dfcd90aa31c92934801729faf84cf3e6e25a3
+  content: Area 51, also known as Homey Airport or Groom Lake, is a US Air Force base
+    within the Nevada Test and Training Range used to test experimental aircraft and
+    weapons.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+    title: USA, Nevada, Groom Lake
+    slug: nevada-groom-lake-usa
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch37:7069-7237
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 19d32adb-ec86-47f7-b50c-bc45a4f2a588
+  claim_hash: 4bb623817f51415b3fec2125e30e024fd66695bd7987f37418f5e56f8d1a5631
+  content: Area 51 is frequently the focus of conspiracy theories about recovered
+    extra-terrestrial craft and sightings of gravity-defying UAPs.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch37:7246-7359
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 51a26607-4e81-4844-ac34-1800c58ac7df
+  claim_hash: d299bac12eb84a956c43a260ea325b24903ed3c4e958073936c5077ce937d03d
+  content: Harry Reid was the senator of the state (Nevada) that housed Area 51.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch9:18956-19067
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: af89f7c9-7a23-4410-b072-bc0692174c06
+  claim_hash: f2a138f720af9fb9207a0948bf7bfcdd0ac02e663571739cd396360a85f479ca
+  content: USA, Nevada, Area 51 is also known by the name Watertown.
+  original_excerpt: an executive with the Department of Defense who worked in special
+    access programs in an area called Watertown. also known as area 51
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narrator of the introduction
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: 00:00:19.0-00:00:25.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+    record_date: '2026-03-04'
+    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+    friendly_name: null
+- claim_id: 21c3db96-9c00-428b-9567-7ff1c5249ab6
+  claim_hash: bccd70a975c742da4c65bfccc2bd3080e2137466443a21a24cd5c2734f09340b
+  content: Barack Obama publicly dismissed as a myth the idea that beings are held
+    captive in a basement at Area 51.
+  original_excerpt: And then he goes on to talk about, you know, Area 51 and how that,
+    you know, that's a myth, the idea that we have them like, you know, chained up
+    in the basement or whatever.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: named
+    origin: Barack Obama
+    relay:
+    - a public interview with Barack Obama
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Barack Obama
+    slug: barack-obama
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: 00:52:01.5-00:52:09.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 47b047a2-c3f6-4c15-8593-a68f792c874d
+  claim_hash: ac2f7b526ac4e3637353937705bc31a44f1999597d8e164a44b645c6795774a8
+  content: Bill Clinton said the same thing as Barack Obama about there being nothing
+    underground at Area 51.
+  original_excerpt: What's so interesting about that is Clinton said exactly the same
+    thing. ... They both said, yeah, there's nothing underground under area 51.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: named
+    origin: Bill Clinton
+    relay:
+    - a public statement by Bill Clinton
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+    title: Bill Clinton
+    slug: bill-clinton
+  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Barack Obama
+    slug: barack-obama
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: 00:52:10.3-00:52:17.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 5648f0fb-569c-4b17-9fef-65219b6533e4
+  claim_hash: ef234d8444d38179e75927f2e06a34f0695ecf5cd0b4e4bcb8daa84c4d882f3d
+  content: Jason Samosa finds it strange that both Bill Clinton and Barack Obama,
+    given a brief opportunity to speak about UFOs, chose to single out the question
+    of whether anything is underground at Area 51.
+  original_excerpt: What a weird thing to zero in on. ... It's like, if I'm asked
+    about UFOs, there's a thousand things I could mention in the 30 second snippet
+    I'm going to give you. Why?
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jason Samosa
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+    title: Bill Clinton
+    slug: bill-clinton
+  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Barack Obama
+    slug: barack-obama
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    slug: jason-samosa
+  date: null
+  date_end: null
+  location_in_record: 00:52:13.8-00:52:22.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 4a4ca809-e64c-4e28-b2bd-2f41736ef318
+  claim_hash: 8ee4609e51e1133872d590c3546692e108dc382979a27fa3d37e7f646923f7a9
+  content: James Clapper personally talked about having helped set up UFO tracking
+    programmes at Area 51.
+  original_excerpt: we've had tracking programs at area 51, which James Clapper personally
+    talked about helped set up
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: named
+    origin: James Clapper
+    relay:
+    - a documentary film appearance by James Clapper
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+    title: James R. Clapper
+    slug: james-r-clapper
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: 00:53:28.5-00:53:33.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

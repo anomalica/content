@@ -1,0 +1,327 @@
+schema: anomalica/brief/1
+brief_hash: 19776e17751e7fa4f859dee73ed75edc434917942141649eb8337a8df1f13b1f
+page:
+  kind: entity
+  node_id: bfa2c88e-0510-4436-b895-7c21615b61ae
+  node_type: person
+  title: Hector Quintanilla
+  slug: hector-quintanilla
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+  title: Project Blue Book
+  node_type: project
+  slug: project-blue-book
+  shared_claims: 3
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 2
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 1
+- node_id: 304a1e2d-14b4-44c6-b406-c8cc4e45d6b3
+  title: Charles Hardin
+  node_type: person
+  slug: charles-hardin
+  shared_claims: 1
+- node_id: 7523839e-7d21-42e0-96a9-6c7a0c334028
+  title: Foreign Technology Division, Wright-Patterson Air Force Base
+  node_type: organisation
+  slug: wright-patterson-air-force-base-foreign-technology-division
+  shared_claims: 1
+- node_id: ccea3d70-b127-4f9e-a29e-18d331df6789
+  title: George T. Gregory
+  node_type: person
+  slug: george-t-gregory
+  shared_claims: 1
+- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+  title: Jacques Vallée
+  node_type: person
+  slug: jacques-vallee
+  shared_claims: 1
+- node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+  title: Lonnie Zamora
+  node_type: person
+  slug: lonnie-zamora
+  shared_claims: 1
+- node_id: 85815108-cc19-41aa-acb4-90702ba32f8e
+  title: Roger J. Friend
+  node_type: person
+  slug: roger-j-friend
+  shared_claims: 1
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 1
+claims:
+- claim_id: 3a6bf44c-9820-4923-80c7-b966cd059af3
+  claim_hash: 274097bdd7ea5179f1ede45ac84bede4b9a50000515f1396c2f580ed77bdcf82
+  content: When a shower of bright objects was reported in the Midwest, Héctor Quintanilla,
+    who headed Project Blue Book, jumped out of bed at 4:00 a.m., ordered the area
+    sealed by Air Force police, and supervised a square-inch by square-inch search
+    of an entire forest for possible debris.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: bfa2c88e-0510-4436-b895-7c21615b61ae
+    title: Hector Quintanilla
+    slug: hector-quintanilla
+  date: null
+  date_end: null
+  location_in_record: ch13:31295-31513
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: a6340b8e-47ed-49a9-9be7-d3bc97b655dc
+  claim_hash: bc0b0937fa929a8a0c499c931ed712bedd3783df8e9f1603292314dc90a40ddf
+  content: The bright object sighted in that Midwest incident was a Soviet spacecraft
+    expected to re-enter the atmosphere over the United States.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: bfa2c88e-0510-4436-b895-7c21615b61ae
+    title: Hector Quintanilla
+    slug: hector-quintanilla
+  date: null
+  date_end: null
+  location_in_record: ch13:31521-31625
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 6f564100-4103-47f1-8566-8128c33c48e4
+  claim_hash: 328d853f9f6ec00a8a142377b909f281d2b46eef35a20d38388d15c24119b5db
+  content: Picking up foreign satellites was Héctor Quintanilla's primary assignment
+    at the Foreign Technology Division.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7523839e-7d21-42e0-96a9-6c7a0c334028
+    title: Foreign Technology Division, Wright-Patterson Air Force Base
+    slug: wright-patterson-air-force-base-foreign-technology-division
+  - node_id: bfa2c88e-0510-4436-b895-7c21615b61ae
+    title: Hector Quintanilla
+    slug: hector-quintanilla
+  date: null
+  date_end: null
+  location_in_record: ch13:31628-31721
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 0d4306ef-9bf0-4b45-bc2c-6d709c65968f
+  claim_hash: 89d964513fd3b3fbaa9a89bc7e7f3ae9615611dcd38e766b7b6ee5d8386d7d42
+  content: In 1964, Héctor Quintanilla wrote a thoughtful article on UFOs for the
+    Central Intelligence Agency (CIA)'s internal magazine.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: bfa2c88e-0510-4436-b895-7c21615b61ae
+    title: Hector Quintanilla
+    slug: hector-quintanilla
+  date: '1964'
+  date_end: null
+  location_in_record: ch13:32114-32227
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 2ba05c54-537c-4b60-81d7-8d44d56f5acc
+  claim_hash: 93c14c2be179553a14b343cadeba2acffba28c6e6435983469ce0b0b8b472751
+  content: Héctor Quintanilla authorised Jacques Vallée to study the UFO cases gathered
+    by the United States Air Force.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: bfa2c88e-0510-4436-b895-7c21615b61ae
+    title: Hector Quintanilla
+    slug: hector-quintanilla
+  date: null
+  date_end: null
+  location_in_record: ch4:9678-9806
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 69cbc373-965b-47b8-a126-6665e119c803
+  claim_hash: 4377174d9ed5d25187432e55059e0cca4663294162414cb2592898dc8044d940
+  content: Declassified CIA files reveal that Hector Quintanilla, the Project Blue
+    Book officer in charge of the Zamora investigation, was convinced Lonnie Zamora
+    was telling the truth and described the case as 'the best-documented case on record'.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Hector Quintanilla
+    relay:
+    - declassified Central Intelligence Agency files
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+    title: Lonnie Zamora
+    slug: lonnie-zamora
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bfa2c88e-0510-4436-b895-7c21615b61ae
+    title: Hector Quintanilla
+    slug: hector-quintanilla
+  date: null
+  date_end: null
+  location_in_record: ch10:8498-8713
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5c1dc5d2-9033-4140-b754-bfcf1bd8d85f
+  claim_hash: 166c8940d4bcd54ccf17773549051985d53d39ad08603c50e56275ab206d6bf6
+  content: Project BLUE BOOK was led successively by Capt Charles Hardin, Capt George
+    T. Gregory, Lt Col Roger J. Friend, and Lt Col Hector Quintanilla, Jr.
+  original_excerpt: Capt Charles Hardin, Capt George T. Gregory, Lieutenant Colonel
+    (Lt Col) Roger J. Friend, and Lt Col Hector Quintanilla, Jr.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 304a1e2d-14b4-44c6-b406-c8cc4e45d6b3
+    title: Charles Hardin
+    slug: charles-hardin
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: 85815108-cc19-41aa-acb4-90702ba32f8e
+    title: Roger J. Friend
+    slug: roger-j-friend
+  - node_id: bfa2c88e-0510-4436-b895-7c21615b61ae
+    title: Hector Quintanilla
+    slug: hector-quintanilla
+  - node_id: ccea3d70-b127-4f9e-a29e-18d331df6789
+    title: George T. Gregory
+    slug: george-t-gregory
+  date: null
+  date_end: null
+  location_in_record: char:41959-42080
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

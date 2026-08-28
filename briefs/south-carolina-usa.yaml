@@ -1,0 +1,849 @@
+schema: anomalica/brief/1
+brief_hash: 43fc024023845864c4457e70862860c5095b8105b630cf47a029373b7efaa112
+page:
+  kind: entity
+  node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+  node_type: place
+  title: USA, South Carolina
+  slug: south-carolina-usa
+  claim_count: 19
+  claim_count_total: 19
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 53a2502b-b835-4869-945c-ee6a611a4073
+  title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
+  node_type: organisation
+  slug: mutual-unidentified-flying-object-ufo-network-mufon
+  shared_claims: 4
+- node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
+  title: 2023 Chinese spy balloon incident
+  node_type: event
+  slug: 2023-chinese-spy-balloon-incident
+  shared_claims: 2
+- node_id: a5a4141c-a505-42c8-b679-263fcb33ed63
+  title: 1959-07-05 precognitive airplane crash vision (Robert Monroe)
+  node_type: event
+  slug: 1959-07-05-precognitive-airplane-crash-vision-robert-monroe
+  shared_claims: 1
+- node_id: f8cfa4d4-d175-4a8f-935b-7cadee457891
+  title: 1959-10 bus-to-airport and North Carolina trip fulfilment of 1959-07-05 vision
+  node_type: event
+  slug: 1959-10-bus-to-airport-and-north-carolina-trip-fulfilment-of-1959-07-05-vision
+  shared_claims: 1
+- node_id: 9133196d-51b8-4f15-b378-9aa0736caeb4
+  title: 1978-11-30 US military C-130 lightning crash
+  node_type: event
+  slug: 1978-11-30-us-military-c-130-lightning-crash
+  shared_claims: 1
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 1
+- node_id: b9d3d9a5-9169-434d-a191-80c935e7a34b
+  title: Canada, Yukon
+  node_type: place
+  slug: yukon-canada
+  shared_claims: 1
+- node_id: 58b1013e-c1b0-42ec-ab1c-5f0078bee2f5
+  title: Chinese Spy Balloon
+  node_type: object
+  slug: chinese-spy-balloon
+  shared_claims: 1
+- node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+  title: Christopher Bledsoe
+  node_type: person
+  slug: christopher-bledsoe
+  shared_claims: 1
+- node_id: f2daae19-9351-4a8e-b466-664f83887f61
+  title: Diana Walsh Pasulka
+  node_type: person
+  slug: diana-walsh-pasulka
+  shared_claims: 1
+- node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+  title: Ed Dames
+  node_type: person
+  slug: ed-dames
+  shared_claims: 1
+- node_id: 3613df8b-c371-4374-9ae9-5fc48a6eaa79
+  title: House Homeland Security Committee
+  node_type: organisation
+  slug: house-homeland-security-committee
+  shared_claims: 1
+- node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+  title: Ian Stevenson
+  node_type: person
+  slug: ian-stevenson
+  shared_claims: 1
+- node_id: b4f06585-086c-45f5-9b05-c2bc9386e7d6
+  title: India, Darbhanga
+  node_type: place
+  slug: darbhanga-india
+  shared_claims: 1
+- node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+  title: Jim Tucker
+  node_type: person
+  slug: jim-tucker
+  shared_claims: 1
+- node_id: dd11edfa-b648-4aad-bcf3-d4599ae1854b
+  title: Kevin Kussow
+  node_type: person
+  slug: kevin-kussow
+  shared_claims: 1
+- node_id: 582b4795-d48a-4bbb-a971-da33a0a09f81
+  title: Mark Walker
+  node_type: person
+  slug: mark-walker
+  shared_claims: 1
+- node_id: e36f0801-e7c2-47d4-9fab-f39281125ee7
+  title: Republican Party
+  node_type: organisation
+  slug: republican-party
+  shared_claims: 1
+- node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+  title: Robert Monroe
+  node_type: person
+  slug: robert-monroe
+  shared_claims: 1
+- node_id: bf6134ad-bf9b-4c01-889a-e8a3a029731f
+  title: Ryder
+  node_type: person
+  slug: ryder
+  shared_claims: 1
+- node_id: 4f799605-879b-4e8d-935d-811b4bd7c6ac
+  title: USA, Alaska
+  node_type: place
+  slug: alaska-usa
+  shared_claims: 1
+- node_id: f1f8e2e5-2144-4375-9658-987767fab565
+  title: USA, Alaska, Aleutian Islands
+  node_type: place
+  slug: alaska-aleutian-islands-usa
+  shared_claims: 1
+- node_id: 41a5d7f8-9e92-4261-a341-0642301eb2d9
+  title: USA, Idaho
+  node_type: place
+  slug: idaho-usa
+  shared_claims: 1
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+- node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+  title: past-life memories in young children
+  node_type: topic
+  slug: past-life-memories-in-young-children
+  shared_claims: 1
+claims:
+- claim_id: 3bbfc1a5-5573-4323-aa62-d64573e40ad7
+  claim_hash: 46fd57cab15792060b54c913c9d998ab3e56d92d73b223d334a6d83097578cb9
+  content: Midway during the storm, the pilot changed altitude without announcing
+    it, and the plane flew up out of the storm and landed in North Carolina without
+    incident.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: f8cfa4d4-d175-4a8f-935b-7cadee457891
+    title: 1959-10 bus-to-airport and North Carolina trip fulfilment of 1959-07-05
+      vision
+    slug: 1959-10-bus-to-airport-and-north-carolina-trip-fulfilment-of-1959-07-05-vision
+  date: 1959-10
+  date_end: null
+  location_in_record: ch19:10569-10731
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 1a67ec19-3891-403e-ad2e-70d2a01cb010
+  claim_hash: 2f2ba028409789201ae1654f4933d047f053adc2030da98a74dbc6e7beaf2fb1
+  content: On 1959-07-24, Robert Monroe reviewed his 1959-07-05 vision before departing
+    on the first of four planned plane trips, the first to North Carolina.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: a5a4141c-a505-42c8-b679-263fcb33ed63
+    title: 1959-07-05 precognitive airplane crash vision (Robert Monroe)
+    slug: 1959-07-05-precognitive-airplane-crash-vision-robert-monroe
+  date: '1959-07-24'
+  date_end: null
+  location_in_record: ch19:4726-4987
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: c7e48e7b-f014-4579-ae61-e233776250f8
+  claim_hash: c8bee6bf820dc2438c666e017352c494c10070e0ac05217c8d7aee6d15bb2150
+  content: Jim Tucker is from North Carolina.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+  provenance_chain:
+    origin_kind: speaker
+    origin: Leslie Kean
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+    title: Jim Tucker
+    slug: jim-tucker
+  date: null
+  date_end: null
+  location_in_record: ch10:2433-2480
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 983f2614-9a69-431b-9e43-37589c8b0b13
+  claim_hash: 17fafeb8732f7ed72aa2896d20c46a65a83cdc21110719e58cd79dfb0fe45079
+  content: Ian Stevenson observed that American past-life cases were similar to Indian
+    cases in that the children talked about a past life at an early age.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+    title: Ian Stevenson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ian Stevenson
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+    title: Ian Stevenson
+    slug: ian-stevenson
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+    title: past-life memories in young children
+    slug: past-life-memories-in-young-children
+  - node_id: b4f06585-086c-45f5-9b05-c2bc9386e7d6
+    title: India, Darbhanga
+    slug: darbhanga-india
+  date: null
+  date_end: null
+  location_in_record: ch11:20323-20427
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 22026202-1719-43e2-9d4c-f9ae78d8e4a1
+  claim_hash: 9d3915701be070295d807286f68aefa36078dbfcaa35deeafa1b0dde329c1601
+  content: Kevin Kussow lives in Otto, North Carolina.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: dd11edfa-b648-4aad-bcf3-d4599ae1854b
+    title: Kevin Kussow
+    slug: kevin-kussow
+  date: null
+  date_end: null
+  location_in_record: ch38:42114-42257
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 17203491-6dc1-4949-907b-ed0393db16bd
+  claim_hash: a470e3e136971c63c575a30fd98e3719e0dce775479a4bb1d8c33b04d9c19ca9
+  content: D. W. Pasulka knows the North Carolina state director of the Mutual UFO
+    Network (MUFON) and several field investigators, and considers her associations
+    with them friendly and professional.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
+    title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
+    slug: mutual-unidentified-flying-object-ufo-network-mufon
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    slug: diana-walsh-pasulka
+  date: null
+  date_end: null
+  location_in_record: ch6:42775-42907
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: c46c0e35-1d70-48a3-b1a7-e837dcc0acb3
+  claim_hash: 30cbe248e021439591917747978df495d27b7197be249913170af6dea8b8b361
+  content: The North Carolina state director of the Mutual UFO Network (MUFON) checks
+    with local police and military to determine whether military exercises or scheduled
+    aerial events occurred in the area of a reported sighting.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
+    title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
+    slug: mutual-unidentified-flying-object-ufo-network-mufon
+  date: null
+  date_end: null
+  location_in_record: ch6:48013-48267
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 328e5392-fb67-47c9-a651-73a611d79272
+  claim_hash: 377c5998f9cacdb25a54ba4c083950adafbb387c6659cee205c8615d3699621b
+  content: The North Carolina state director of the Mutual UFO Network (MUFON) scrutinises
+    photographs and physical evidence with the help of trained videographers before
+    ruling on a report.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
+    title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
+    slug: mutual-unidentified-flying-object-ufo-network-mufon
+  date: null
+  date_end: null
+  location_in_record: ch6:48273-48357
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: b26cffc4-fef7-4964-99ed-895f1a513521
+  claim_hash: 5604fbf110a1b246d550c4ee64145e4967121b6ee59160e5177e3046c5e6ac9a
+  content: If other explanations are ruled out, the North Carolina state director
+    of the Mutual UFO Network (MUFON) grants a report the status of "UFO," meaning
+    unidentified.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
+    title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
+    slug: mutual-unidentified-flying-object-ufo-network-mufon
+  date: null
+  date_end: null
+  location_in_record: ch6:48372-48462
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: ee399a00-439a-446d-b160-3e1ed33c39c8
+  claim_hash: 8a5d3137a64c6e0ed326b1740ce4cd459559071e55be6e7a55dd64678b113f8b
+  content: Christopher Bledsoe is a Baptist from North Carolina who had been a pilot
+    and owned a successful construction business.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+    title: Christopher Bledsoe
+    slug: christopher-bledsoe
+  date: null
+  date_end: null
+  location_in_record: ch7:7764-7869
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 20cfb423-d4a0-485c-a92f-ea9fc780e8f3
+  claim_hash: f5fc9510816a095fe2bbfda5315a69ab1c10471503c2e9ea537341648b4f56b3
+  content: Republican Congressman Mark Walker of North Carolina sat on the Intelligence
+    and Counterterrorism subcommittee of the House Homeland Security Committee.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3613df8b-c371-4374-9ae9-5fc48a6eaa79
+    title: House Homeland Security Committee
+    slug: house-homeland-security-committee
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: 582b4795-d48a-4bbb-a971-da33a0a09f81
+    title: Mark Walker
+    slug: mark-walker
+  - node_id: e36f0801-e7c2-47d4-9fab-f39281125ee7
+    title: Republican Party
+    slug: republican-party
+  date: null
+  date_end: null
+  location_in_record: ch22:8451-8666
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f105b6eb-5df9-4539-b28a-17626f9dd3a8
+  claim_hash: 7f54ed96700c6f02ee8aac51bd109316fcafd23e80b382e936317ba8d962cd33
+  content: There is only one recorded US military C-130 crash caused by lightning
+    that might remotely fit the sergeant's claim about his pilot friend, and it occurred
+    in South Carolina on 30 November 1978.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: 9133196d-51b8-4f15-b378-9aa0736caeb4
+    title: 1978-11-30 US military C-130 lightning crash
+    slug: 1978-11-30-us-military-c-130-lightning-crash
+  date: '1978-11-30'
+  date_end: null
+  location_in_record: ch23:10646-10801
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e70f910e-3e1f-42d1-aa8e-ec45a24a904d
+  claim_hash: a2b1bb68083683d4614fec405738801e6f2251c7818d9d9d8892d64086f93f44
+  content: A Chinese spy balloon (2023) traversed continental America for five days,
+    crossing Alaska's Aleutian Islands, then Canada, then south-east from Idaho to
+    the Carolinas.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 41a5d7f8-9e92-4261-a341-0642301eb2d9
+    title: USA, Idaho
+    slug: idaho-usa
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: 58b1013e-c1b0-42ec-ab1c-5f0078bee2f5
+    title: Chinese Spy Balloon
+    slug: chinese-spy-balloon
+  - node_id: b9d3d9a5-9169-434d-a191-80c935e7a34b
+    title: Canada, Yukon
+    slug: yukon-canada
+  - node_id: f1f8e2e5-2144-4375-9658-987767fab565
+    title: USA, Alaska, Aleutian Islands
+    slug: alaska-aleutian-islands-usa
+  date: '2023-01-28'
+  date_end: null
+  location_in_record: ch29:1232-1439
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 8dfe1861-47bd-4943-878f-e8c0f2bf07b8
+  claim_hash: 172056f710b0cf11e9737c694b8a7402c1f58f0a8e6294efcd9779c2aabbc446
+  content: Earlier in 2023, a Chinese spy balloon was shot down off the coast of South
+    Carolina.
+  original_excerpt: Earlier this year a Chinese spy balloon was shot down off the
+    coast of my home state of South Carolina.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
+    title: Nancy Mace
+  provenance_chain:
+    origin_kind: speaker
+    origin: Nancy Mace
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
+    title: 2023 Chinese spy balloon incident
+    slug: 2023-chinese-spy-balloon-incident
+  date: '2023'
+  date_end: null
+  location_in_record: char:116821-116915
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: cc7f041b-3331-4231-b72b-f191f828e414
+  claim_hash: 8e3c6fbbeaa21128f507766e891fa94e1fb6ca225eefbba74e653de18873d71d
+  content: After the Chinese spy balloon was allowed to transit the entire continental
+    United States, fighter jets were scrambled off the coast of South Carolina to
+    shoot it down.
+  original_excerpt: However, after the balloon was allowed to transit the entire continental
+    United States, fighter jets were scrambled off the coast of South Carolina to
+    shoot it down.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 1e8837b6-9c9c-4c7e-a704-b9e010436e13
+    title: Virginia Foxx
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
+    title: 2023 Chinese spy balloon incident
+    slug: 2023-chinese-spy-balloon-incident
+  date: null
+  date_end: null
+  location_in_record: char:83901-84061
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 7e48f5c1-bbef-4467-852b-08195a624abf
+  claim_hash: e59addae7e71897474f9d0b794a97f6cb7a08fe3214a5dec8417a81c99562c18
+  content: Ed Dames was one of the remote-viewing instructors at Fort Bragg, North
+    Carolina.
+  original_excerpt: He was one of the Jedi teachers at Fort Bragg.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: an unnamed crew member
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+    slug: ed-dames
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  date: null
+  date_end: null
+  location_in_record: 00:24:38.3-00:24:40.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 32f2525c-c8a1-4373-9d3d-42d17437615e
+  claim_hash: 77e63ba51c356fa424ebdf97600b3049d61b7d9cea06069eb1716f20d040f1d8
+  content: The object shot down in the 2023 Yukon UAP shootdown was about the size
+    of a small car and was not similar in size or shape to the high-altitude surveillance
+    balloon taken down off the coast of USA, South Carolina on 2023-02-04.
+  original_excerpt: The object was about the size of a small car, so not similar in
+    size or shape to the high altitude surveillance balloon that was taken down off
+    the coast of South Carolina on February 4.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: news broadcast narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '2023-02-04'
+  date_end: null
+  location_in_record: 00:00:05.7-00:00:16.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+    record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+    record_date: '2024-10-02'
+    record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+    content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+    friendly_name: null
+- claim_id: 09fbcc22-967a-4b6f-9328-b449259d1698
+  claim_hash: 0058f18cd0838520bbf21500423416cadd5eef4604634fa1e448522394edbc74
+  content: A streak of unidentified aerial phenomena were taken down by US and Canadian
+    authorities starting on 2023-01-04 in USA, South Carolina.
+  original_excerpt: there was a streak of these quote unquote spy balloons that were
+    taken down starting on January 4th in South Carolina.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  date: '2023-01-04'
+  date_end: null
+  location_in_record: 00:02:53.8-00:03:00.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+    record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+    record_date: '2024-10-02'
+    record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+    content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+    friendly_name: null
+- claim_id: c3bcc777-a172-44cb-84bd-22737be1c3eb
+  claim_hash: 637cc68ba3cf44046931263da233b789a95795eaa4bc5aa2ecf96978be9f1483
+  content: At a press conference at the Pentagon, Ryder said the object taken down
+    over USA, Alaska in early 2023 was about the size of a small car, and was not
+    similar in size or shape to the high-altitude surveillance balloon taken down
+    off the coast of USA, South Carolina on 2023-02-04.
+  original_excerpt: Actually, the Brigadier General Ryder himself in a press conference
+    at the Pentagon revealed that, and I quote, The object was about the size of a
+    small car, so not similar in size or shape to the high altitude surveillance balloon
+    that was taken down off the coast of South Carolina on February 4.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: bf6134ad-bf9b-4c01-889a-e8a3a029731f
+    title: Ryder
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ryder
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    slug: south-carolina-usa
+  - node_id: 4f799605-879b-4e8d-935d-811b4bd7c6ac
+    title: USA, Alaska
+    slug: alaska-usa
+  - node_id: bf6134ad-bf9b-4c01-889a-e8a3a029731f
+    title: Ryder
+    slug: ryder
+  date: '2023-02-04'
+  date_end: null
+  location_in_record: 00:06:19.1-00:06:38.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+    record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+    record_date: '2024-10-02'
+    record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+    content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+    friendly_name: null

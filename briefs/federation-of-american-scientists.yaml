@@ -1,0 +1,260 @@
+schema: anomalica/brief/1
+brief_hash: 4b9438cd57f6fa254c07384c3e060eb7bbccf769ae9e329efd2e389a8e8c2359
+page:
+  kind: entity
+  node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+  node_type: organisation
+  title: Federation of American Scientists
+  slug: federation-of-american-scientists
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+  title: Church of Scientology
+  node_type: organisation
+  slug: church-of-scientology
+  shared_claims: 2
+- node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+  title: Jack Parsons
+  node_type: person
+  slug: jack-parsons
+  shared_claims: 2
+- node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+  title: L. Ron Hubbard
+  node_type: person
+  slug: l-ron-hubbard
+  shared_claims: 2
+- node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+  title: Ordo Templi Orientis (OTO)
+  node_type: organisation
+  slug: ordo-templi-orientis-oto
+  shared_claims: 2
+- node_id: 06976b64-f51d-42d9-8b1b-94552b803db1
+  title: Invention Secrecy Act of 1951
+  node_type: document
+  slug: invention-secrecy-act-of-1951
+  shared_claims: 1
+- node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+  title: Manhattan Project
+  node_type: project
+  slug: manhattan-project
+  shared_claims: 1
+- node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+  title: Office of Naval Intelligence
+  node_type: organisation
+  slug: office-of-naval-intelligence
+  shared_claims: 1
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 1
+- node_id: 32108f5c-396e-405d-83db-17ae626349ac
+  title: Robert Cornog
+  node_type: person
+  slug: robert-cornog
+  shared_claims: 1
+claims:
+- claim_id: 23c47feb-7214-4c6f-afc3-a45df43a8bdc
+  claim_hash: 53ce1dda0e04c808910e9f464c9af58ea2b03ae12997d2fe0e6637790c1f5158
+  content: The Federation of American Scientists was a left-wing group of disaffected
+    Manhattan Project veterans dismayed at the military uses of atomic weapons.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Church of Scientology
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  - node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+    title: Federation of American Scientists
+    slug: federation-of-american-scientists
+  date: null
+  date_end: null
+  location_in_record: ch5:21480-21643
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a4b1fb60-6fe5-4825-a010-66b554fd3c75
+  claim_hash: 5c253988831932df7cbb68132b32ff2600ae1d9804ba2889ba8a83da6e65da9f
+  content: Minutes from a Federation of American Scientists meeting on 1945-11-15
+    indicate that both L. Ron Hubbard and Jack Parsons attended and participated in
+    the meeting.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: minutes from a Federation of American Scientists meeting, 1945-11-15
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+    title: Federation of American Scientists
+    slug: federation-of-american-scientists
+  date: '1945-11-15'
+  date_end: null
+  location_in_record: ch5:21652-21838
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a31dfd63-352c-4f56-bf1c-ffec24fd9aad
+  claim_hash: 328622bd8548b290bf95088ae43ac882db17c27bbc8c5f5dc2b83046e126c506
+  content: Several members of the Ordo Templi Orientis and the Federation of American
+    Scientists, including Jack Parsons and Robert Cornog, lost their security clearances
+    following the affair between L. Ron Hubbard and Sara Northrup.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32108f5c-396e-405d-83db-17ae626349ac
+    title: Robert Cornog
+    slug: robert-cornog
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  - node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+    title: Federation of American Scientists
+    slug: federation-of-american-scientists
+  date: null
+  date_end: null
+  location_in_record: ch5:22151-22391
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 630b43e8-dd36-4538-8c53-5db1a973caa7
+  claim_hash: 9f2c4448c2a4a14948912fb7c4036bb7b6e18b018256d0721fec7f174abf3ee8
+  content: Richard C. Hoagland considers the premise that L. Ron Hubbard was an Office
+    of Naval Intelligence informant sent to infiltrate and destabilise the Ordo Templi
+    Orientis and Federation of American Scientists a plausible one, after reviewing
+    documentation supplied by the Church of Scientology.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  - node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+    title: Federation of American Scientists
+    slug: federation-of-american-scientists
+  - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+    title: Office of Naval Intelligence
+    slug: office-of-naval-intelligence
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch5:22842-22949
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 68e058fb-cf86-4c6c-9859-6cbc8665cc58
+  claim_hash: 4024e7115971e832d51393a911a32ff344646357ba38c1783183e3ff87c7975a
+  content: The Invention Secrecy Act of 1951 allows the US government to impose secrecy
+    orders on patent applications that contain sensitive information, preventing the
+    inventor from registering the patent or publicising the invention.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Federation of American Scientists' Project on Government Secrecy
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 06976b64-f51d-42d9-8b1b-94552b803db1
+    title: Invention Secrecy Act of 1951
+    slug: invention-secrecy-act-of-1951
+  - node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+    title: Federation of American Scientists
+    slug: federation-of-american-scientists
+  date: null
+  date_end: null
+  location_in_record: ch24:5077-5406
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted

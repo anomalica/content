@@ -1,0 +1,697 @@
+schema: anomalica/brief/1
+brief_hash: f62402d01c8cc1db9fba5a45aa99e6d8b14daaebc812ff48b55ac4c9a4759abe
+page:
+  kind: entity
+  node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+  node_type: person
+  title: Edwin C. May
+  slug: edwin-c-may
+  claim_count: 15
+  claim_count_total: 15
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+  title: Joseph McMoneagle
+  node_type: person
+  slug: joseph-mcmoneagle
+  shared_claims: 8
+- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+  title: Remote Viewing (RV)
+  node_type: topic
+  slug: remote-viewing-rv
+  shared_claims: 5
+- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+  title: Chris Ramsay
+  node_type: person
+  slug: chris-ramsay
+  shared_claims: 2
+- node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+  title: Julia Mossbridge
+  node_type: person
+  slug: julia-mossbridge
+  shared_claims: 2
+- node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+  title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+  node_type: organisation
+  slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+  shared_claims: 2
+- node_id: 7b95c492-ed48-47d1-8d82-4935050a7edc
+  title: Ganzfeld effect
+  node_type: topic
+  slug: ganzfeld-effect
+  shared_claims: 1
+- node_id: 623d090b-d9b4-4a0d-a85b-9273cfcdc303
+  title: Lone Stars group
+  node_type: organisation
+  slug: lone-stars-group
+  shared_claims: 1
+- node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+  title: Out-of-Body Experience (OBE)
+  node_type: topic
+  slug: out-of-body-experience-obe
+  shared_claims: 1
+- node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+  title: Pat Price
+  node_type: person
+  slug: pat-price
+  shared_claims: 1
+- node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+  title: Precognitive Remote Viewing
+  node_type: topic
+  slug: precognitive-remote-viewing
+  shared_claims: 1
+- node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+  title: Project STARGATE
+  node_type: project
+  slug: project-stargate
+  shared_claims: 1
+- node_id: 7fb922af-1483-4503-a282-e724de9d0320
+  title: Put to the Test (ABC Special)
+  node_type: document
+  slug: put-to-the-test-abc-special
+  shared_claims: 1
+- node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
+  title: The Stargate Project
+  node_type: project
+  slug: the-stargate-project
+  shared_claims: 1
+- node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
+  title: entropy
+  node_type: topic
+  slug: entropy
+  shared_claims: 1
+- node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
+  title: psi
+  node_type: topic
+  slug: psi
+  shared_claims: 1
+claims:
+- claim_id: 89fc4f62-7805-46c4-98da-d298765faca8
+  claim_hash: 293f3889b40ab081fddd4d4e7a2ccf8fd7db7d4a9c6a5d2c06de2f849e8cba7e
+  content: In his interview on "Put to the Test", Edwin C. May commented on a near-perfect
+    match between some of Joseph McMoneagle's drawings and the target.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: named
+    origin: Edwin C. May
+    relay:
+    - Put to the Test (ABC Special) interview
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  - node_id: 7fb922af-1483-4503-a282-e724de9d0320
+    title: Put to the Test (ABC Special)
+    slug: put-to-the-test-abc-special
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: ch14:23504-23612
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 05bcc738-a00d-4d0b-b261-c97b30d5ff4d
+  claim_hash: 04ce6abc83c07420a5d8112a6cede90810ad0570fddabec6590164a7833bde4b
+  content: Edwin C. May said that Joseph McMoneagle provides spectacular detail in
+    remote viewing about twenty percent of the time, and called that as close to a
+    miracle as scientists can get.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: named
+    origin: Edwin C. May
+    relay:
+    - Put to the Test (ABC Special) interview
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: ch14:23620-23819
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: a16d4330-4bfc-45fb-aa7b-9c9475c50bd3
+  claim_hash: 21a15e2feb90f4c507c170880e868f9cc48e42f9343078d9e48ee4701fff12e9
+  content: Edwin C. May's statements in the "Put to the Test" interview also reflected
+    a target hit rate of about sixty to sixty-five percent for Joseph McMoneagle's
+    remote viewing.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: named
+    origin: Edwin C. May
+    relay:
+    - Put to the Test (ABC Special) interview
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: ch14:23826-23940
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: c88a627d-d64d-4666-a56a-8f7b49de3d87
+  claim_hash: 5afcb8dad992cfb83c6b36b7c91364a74dadd190b80422a2c018c77c3697bc0f
+  content: Edwin C. May's twenty-percent "spectacular detail" comment specifically
+    referred to near-perfect drawings, something that rarely happens in remote viewing.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: named
+    origin: Edwin C. May
+    relay:
+    - Put to the Test (ABC Special) interview
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: ch14:23949-24068
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 7f9ad841-47dc-4448-81cb-30c3d542ef53
+  claim_hash: 4c7e9d0a7a4b01d5da6822bff9d3af042257d03200be0085460493f5e73ee70f
+  content: The out-of-context editing of Edwin C. May's ABC Special interview statement
+    resulted in a huge negative reaction from other remote viewers, which Joseph McMoneagle
+    considered grossly unfair to both Edwin C. May and himself.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: ch14:24153-24255
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 42a1e688-629a-4f67-b440-b62ef6ac89c5
+  claim_hash: eb04c5476b19f392563806808cbe9db60cd109f5ddc7ce566fe34dc9a7b72ced
+  content: Edwin C. May and his colleagues were directly responsible for the Cognitive
+    Sciences Laboratory's accomplishments from 1986 through the termination of Project
+    STARGATE in November 1995.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+  date: '1986'
+  date_end: null
+  location_in_record: ch9:7827-7931
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 28a9a275-a5a5-4b56-8eb3-80867756a320
+  claim_hash: 3766db486aab21c7e9d3959fb58446eb6c4d74de883b7c7505e2d5d22570f047
+  content: Edwin C. May worked at the Cognitive Sciences Laboratory for approximately
+    nine years before becoming its director in 1986.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+  date: '1986'
+  date_end: null
+  location_in_record: ch9:7957-8047
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 24deef41-5e81-4025-a33e-64f0480100c7
+  claim_hash: 6c65863cda1f45368dfbb638341a89f276b45792f76f80b45d85d412bbdd009c
+  content: In the remote viewing research conducted by Edwin May and Joe McMoneagle,
+    the higher the entropy and the more a human life was at risk, the clearer the
+    target would become for the remote viewer.
+  original_excerpt: in the work that Dr. May and Joe McMoneagle had done for years
+    was the higher level of entropy and the more at risk a human life was, the clearer
+    the target would become for them.
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Edwin May and Joe McMoneagle
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: 00:15:35.9-00:15:51.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9d72a455-1dcf-44ac-8093-2fe566032264
+    record_title: I LEFT MY BODY - The Gateway Experience (Part 3)
+    record_date: '2024-08-24'
+    record_reference: https://www.youtube.com/watch?v=GRqPnRcfMIY
+    content_hash: sha256:4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972be64eb926
+    friendly_name: null
+- claim_id: f5044396-108e-4dbc-b0d9-0faade075a4a
+  claim_hash: 3bf0e1b85931301d97c944407ed45f3a237adf58d3780d4000b30a131679ad26
+  content: Edwin May may also have been part of the Lone Stars group, in Jesse Michels's
+    suggestion.
+  original_excerpt: Ed May, who might have been par
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michels
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  - node_id: 623d090b-d9b4-4a0d-a85b-9273cfcdc303
+    title: Lone Stars group
+    slug: lone-stars-group
+  date: null
+  date_end: null
+  location_in_record: 02:02:40.1-02:02:41.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 562322e5-80c5-4603-bf88-3b49bc1013a7
+  claim_hash: 7053f1493761a3772402400e2a0bae25c616bc8fab0aa1935b41c944cb71a1e3
+  content: Edwin May was a director of the Stargate Project.
+  original_excerpt: '[note: Edwin May - Stargate program director]'
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: source annotation
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  - node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
+    title: The Stargate Project
+    slug: the-stargate-project
+  date: null
+  date_end: null
+  location_in_record: line 334
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: ad38163b-07ff-442a-8548-1f64f720686a
+  claim_hash: 36cb274f1628606b6d0324bb477326b8949816b80bbb5249701186404d594411
+  content: In a session described to Chris Ramsay by Joseph McMoneagle and by Edwin
+    May, experimenters used ping-pong balls over the eyes to produce a Ganzfeld effect
+    to stimulate an out-of-body state before asking Joseph McMoneagle to view a picture
+    in an envelope in another room.
+  original_excerpt: He did say that he he had one session. I spoke to Ed May about
+    this as well, Dr. May. And he said he had one session where there was a you know,
+    get out of your body, go into the other, they started with the, uh, with the ping
+    pong balls in the eye of the Gansfield sort of, uh, effect to like stimulate this,
+    uh, out of body state. And then they said, get out of your body, walk into the
+    other room and the envelope, there's a picture, go look at the picture and tell
+    me what's on the picture.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: named
+    origin: Joseph McMoneagle and Edwin May
+    relay:
+    - conversations with Chris Ramsay
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  - node_id: 7b95c492-ed48-47d1-8d82-4935050a7edc
+    title: Ganzfeld effect
+    slug: ganzfeld-effect
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    slug: out-of-body-experience-obe
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: 00:47:13.9-00:47:40.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 3d446bac-f938-49f3-9f4d-452adb7304de
+  claim_hash: 989422452eb9c5a2ca650f492bc39555e8bfa0a20c6feeb00e80e45c892ace12
+  content: Edwin May frequently discusses precognitive remote viewing, and there is
+    a large effect size for it, especially among gifted remote viewers.
+  original_excerpt: We know that Ed May, Dr. Ed May, as you call him, talks about
+    this all the time. We know that there's a big effect size, especially for gifted
+    remote viewers.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: named
+    origin: Edwin May
+    relay:
+    - Julia Mossbridge
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  date: null
+  date_end: null
+  location_in_record: 01:45:39.4-01:45:48.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: baef5e12-eeda-4d54-a79f-54a60695c2fb
+  claim_hash: b382b08683f513b984d306979ec5edae9f2d46fd0e4da4bdc12a09dcd0d2e894
+  content: Julia Mossbridge heard a story, she believes from Edwin May but possibly
+    from Joseph McMoneagle, that in the 1990s the Russians said to the Americans "you
+    killed all your psychics", referring to Pat Price and possibly others.
+  original_excerpt: And at the time I heard a story, I think it was from Ed May, but
+    maybe it was from Joe, about the Russians in the 90s saying, to America, you killed
+    all your psychics, referring to Pat Price and maybe others.
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: anonymous
+    origin: unnamed Russian officials in the 1990s
+    relay:
+    - Edwin May or Joseph McMoneagle
+    - Julia Mossbridge
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+    title: Pat Price
+    slug: pat-price
+  - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
+    title: psi
+    slug: psi
+  date: null
+  date_end: null
+  location_in_record: 02:32:40.8-02:32:57.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 46f2cd91-606e-4c25-9071-71bdc6885ec7
+  claim_hash: 9e7b4b92294dc9f0fe6a8bfde91ff2ae6d1e58314c6e9441bd73b46fe253a870
+  content: Chris Ramsay expects Edwin May would say physical contrast produces the
+    strongest remote viewing signal, on the basis that a target with high entropy
+    yields a more accurate reading.
+  original_excerpt: Ed May would say contrast, right? That would be like as soon as
+    something has entropy or high entropy would yield like a more accurate reading
+    of a target.
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: named
+    origin: Edwin May
+    relay:
+    - Chris Ramsay
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
+    title: entropy
+    slug: entropy
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  date: null
+  date_end: null
+  location_in_record: 02:41:26.9-02:41:40.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 7e201e51-97ee-43c4-b6ed-8f9f714a0c1c
+  claim_hash: 69567f7bda561e24329af65a49215c7aac0498f899f1bdefbb27c6b56c6ec396
+  content: Julia Mossbridge considers novelty the target trait that comes closest
+    to producing the strongest remote viewing signal, rather than emotion or physical
+    contrast.
+  original_excerpt: I would say none of those things. Yeah, I get what Ed May would
+    say, but I guess I disagree. What I've found is novelty comes the closest.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 02:41:41.9-02:41:50.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null

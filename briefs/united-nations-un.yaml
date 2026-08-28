@@ -1,0 +1,1452 @@
+schema: anomalica/brief/1
+brief_hash: 6508f8df4e0044bc39e1f05a39004692aa9a6e3971ef6940f7f5bc6347ba1eb3
+page:
+  kind: entity
+  node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+  node_type: organisation
+  title: United Nations (UN)
+  slug: united-nations-un
+  claim_count: 31
+  claim_count_total: 31
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 6
+- node_id: 08991fc4-7d33-4cc1-81ad-9886f4b4c947
+  title: Hoagland presentation at United Nations, 1992
+  node_type: event
+  slug: 1992-hoagland-presentation-at-united-nations
+  shared_claims: 5
+- node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+  title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+  node_type: document
+  slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+  shared_claims: 5
+- node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+  title: James MacDonald
+  node_type: person
+  slug: james-macdonald
+  shared_claims: 4
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 4
+- node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+  title: Cydonia
+  node_type: place
+  slug: cydonia
+  shared_claims: 3
+- node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+  title: Face on Mars
+  node_type: object
+  slug: face-on-mars
+  shared_claims: 3
+- node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+  title: U Thant
+  node_type: person
+  slug: u-thant
+  shared_claims: 3
+- node_id: 7f2106c6-6a69-4d27-86d5-847bafd5796e
+  title: James E. McDonald statement to the United Nations Outer Space Affairs Group,
+    1967-06-07
+  node_type: document
+  slug: 1967-06-07-james-e-mcdonald-statement-to-the-united-nations-outer-space-affairs-group
+  shared_claims: 2
+- node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
+  title: North Atlantic Treaty Organization (NATO)
+  node_type: organisation
+  slug: north-atlantic-treaty-organization-nato
+  shared_claims: 2
+- node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
+  title: Outer Space Affairs Group
+  node_type: organisation
+  slug: outer-space-affairs-group
+  shared_claims: 2
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 2
+- node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
+  title: hyper-dimensional physics theory
+  node_type: topic
+  slug: hyper-dimensional-physics-theory
+  shared_claims: 2
+- node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+  title: Albert Einstein
+  node_type: person
+  slug: albert-einstein
+  shared_claims: 1
+- node_id: c2d58d98-057c-4fb4-b4a3-aa1b4d445aae
+  title: Bosnia
+  node_type: place
+  slug: bosnia
+  shared_claims: 1
+- node_id: 3e274df3-f113-48d4-87e0-5a82f3391806
+  title: Chang
+  node_type: person
+  slug: chang
+  shared_claims: 1
+- node_id: 6fa97e1e-1920-4fb0-876f-1cd4cc56c0ed
+  title: Clementine (spacecraft)
+  node_type: object
+  slug: clementine-spacecraft
+  shared_claims: 1
+- node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+  title: Cuba
+  node_type: place
+  slug: cuba
+  shared_claims: 1
+- node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+  title: Cuban Missile Crisis (1962-10)
+  node_type: event
+  slug: cuban-missile-crisis-1962-10
+  shared_claims: 1
+- node_id: bedf3eaf-553a-47f6-addc-de5c9e8bcc4a
+  title: Drew Pearson
+  node_type: person
+  slug: drew-pearson
+  shared_claims: 1
+- node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+  title: Gordon Cooper
+  node_type: person
+  slug: gordon-cooper
+  shared_claims: 1
+- node_id: a42dacb8-d7d4-4877-9ce1-79b578123e7c
+  title: Great Red Spot (GRS)
+  node_type: object
+  slug: great-red-spot-grs
+  shared_claims: 1
+- node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+  title: J. Robert Oppenheimer
+  node_type: person
+  slug: j-robert-oppenheimer
+  shared_claims: 1
+- node_id: 294f92a6-71de-4abe-808a-b335ed958374
+  title: Jacques Vallee's 1979 address to the United Nations (UN) Special Political
+    Committee
+  node_type: document
+  slug: jacques-vallees-1979-address-to-the-united-nations-un-special-political-committee
+  shared_claims: 1
+- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+  title: Jacques Vallée
+  node_type: person
+  slug: jacques-vallee
+  shared_claims: 1
+- node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+  title: John Fitzgerald Kennedy
+  node_type: person
+  slug: john-fitzgerald-kennedy
+  shared_claims: 1
+- node_id: 6ea4a62d-bf29-47ef-9691-915da997fb0a
+  title: Jupiter
+  node_type: object
+  slug: jupiter
+  shared_claims: 1
+- node_id: 8f488d6a-ebc1-4ff3-83db-fc54d4efd7b5
+  title: Kennedy United Nations General Assembly speech, 1963-09-20
+  node_type: event
+  slug: 1963-09-20-kennedy-united-nations-general-assembly-speech
+  shared_claims: 1
+- node_id: 75f8cf38-618c-4dd4-8629-d6b9b7d425fb
+  title: Kurt Waldheim
+  node_type: person
+  slug: kurt-waldheim
+  shared_claims: 1
+- node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+  title: NASA Jet Propulsion Laboratory (JPL)
+  node_type: organisation
+  slug: nasa-jet-propulsion-laboratory-jpl
+  shared_claims: 1
+claims:
+- claim_id: 023984ed-a622-4ea4-813b-9734cbb41b13
+  claim_hash: ff54e2324eadcc3f282cc7160c11bd8d61745f93eaa135212ad9b04105540c57
+  content: A number of scientists and people formerly associated with the UFO programme
+    appeared several times before the Secretary-General of the United Nations, first
+    U Thant and then Kurt Waldheim, to try to bring UFO information into the open.
+  original_excerpt: We tried to get the United Nations to bring this thing out into
+    the open, and a number of scientists and people formerly associated with the UFO
+    program appeared several times before the Secretary of the United Nations, U Thant,
+    and then Kurt Waldheim.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: speaker
+    origin: Raymond Fowler
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+    title: U Thant
+    slug: u-thant
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 75f8cf38-618c-4dd4-8629-d6b9b7d425fb
+    title: Kurt Waldheim
+    slug: kurt-waldheim
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: null
+  date_end: null
+  location_in_record: 00:25:13.6-00:25:32.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 8c5feb50-4f5a-4155-957b-65a0a8b7026b
+  claim_hash: e2deabb6411ea1809961f6e962acdad96f722b959ed1a12a5f21b7ef403d8cba
+  content: The United States, Britain, and France objected strenuously to bringing
+    UFO information before the United Nations, saying it would breach their national
+    security.
+  original_excerpt: But the United States, Britain, and France objected strenuously,
+    saying it would be a breach of their national security.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: speaker
+    origin: Raymond Fowler
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: null
+  date_end: null
+  location_in_record: 00:25:33.7-00:25:39.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 2c2be39a-7948-4389-b6f6-853d8c8eb5ca
+  claim_hash: 710b5c8f80aa0db32c0e909989089dff72b952a7cfd05e80fbec704f34b73280
+  content: Gordon Cooper testified before the United Nations about some of what he
+    knew regarding UFOs, and stated that if the United Nations sponsored an open scientific
+    study apart from military studies, he knew of other astronauts and NASA personnel
+    willing to testify if they could do so without penalty.
+  original_excerpt: Gordon Cooper appeared and testified to some of the things that
+    he knew and stated that if the United Nations would sponsor an open scientific
+    study apart from the military studies being carried on by other countries, that
+    he knew of other astronauts and other people in NASA that would be willing to
+    testify if they could do so without penalty.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: named
+    origin: Gordon Cooper
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+    title: Gordon Cooper
+    slug: gordon-cooper
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: null
+  date_end: null
+  location_in_record: 00:25:40.8-00:26:00.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 81187fdb-1089-4225-a291-7fb841dcf269
+  claim_hash: b668319227f54d67c36d19fdb63444774efaca1626aa519a5a796da4e0ae26a9
+  content: The proposal for the United Nations to sponsor an open scientific study
+    of UFOs was turned down.
+  original_excerpt: But the whole thing was turned down, unfortunately.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: speaker
+    origin: Raymond Fowler
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: null
+  date_end: null
+  location_in_record: 00:26:01.6-00:26:03.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 8fb1b337-1197-473a-b3d5-9a1f0e16daac
+  claim_hash: cb7c83a1f0a9c832bbb2a062577b32f14f857077727fc52f27cec3d67ee7042b
+  content: J. Robert Oppenheimer and Albert Einstein propose that a superior form
+    of colonisation, possibly a kind of tutelage, could be conceived through the tacit
+    approval of the United Nations (UN).
+  original_excerpt: A superior form of colonizing will have to be conceived, that
+    could be a kind of tutelage, possibly through the tacit approval of the United
+    Nations.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+    title: extraterrestrial biological entity (EBE)
+    slug: extraterrestrial-biological-entity-ebe
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: null
+  date_end: null
+  location_in_record: char:4531-4672
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 69fd61f5-cd54-41b1-8ae4-cd91137a3857
+  claim_hash: 23f96d42eacfa7e9a5fb43260abfc6d09231144fab5a951a4e68dca0656df6a6
+  content: J. Robert Oppenheimer and Albert Einstein argue that although the United
+    Nations (UN) is an international organisation, it would have no right of tutelage
+    over humanity because its domain does not extend beyond relationships between
+    its member states.
+  original_excerpt: Although the United Nations is an international organization,
+    there is no doubt that it would have no right of tutelage, since its domain does
+    not extend beyond relationships between its members.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: null
+  date_end: null
+  location_in_record: char:4814-5001
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 0a3c61d3-ce44-4749-8c1f-0c4b68a9842e
+  claim_hash: 3ec48d5f531de0d9b92059a01d3cb30f14fa8637120f012ba9201f66f323ef9d
+  content: J. Robert Oppenheimer and Albert Einstein argue that the United Nations
+    (UN) would have the right to intervene if relationships between a member nation
+    and an extraterrestrial people entailed a conflict with another member nation.
+  original_excerpt: But if those relationships entailed a conflict with another member
+    nation, the United Nations would have the right to intervene.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: null
+  date_end: null
+  location_in_record: char:5221-5339
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: ec9befbd-9933-4f3b-9fb4-3abcf7e9c8ba
+  claim_hash: 05c32d05ccee0bd95aa080b5e7aa8b27ec0a90d304e099848ee7e3dec0681a88
+  content: J. Robert Oppenheimer and Albert Einstein argue that if the United Nations
+    (UN) were a supra-national organisation, it would have competency to deal with
+    all problems related to extraterrestrial peoples, and even as a merely international
+    organisation it could gain this competence if member states recognised it.
+  original_excerpt: If the United Nations were a supra-national organisation, it would
+    have competency to deal with all problems related to extraterrestrial peoples.
+    Of course, even though it is merely an international organisation, it could have
+    this competence if its member states would be willing to recognize it.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: null
+  date_end: null
+  location_in_record: char:5355-5649
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 2f5bbd4d-5db8-41a2-8010-0cbcd92e6e97
+  claim_hash: 1ac7c11eb3bffdd284518092df56effeb4f5082eaea23180484b535f9d9d7381
+  content: J. Robert Oppenheimer and Albert Einstein state that they do not believe
+    it necessary to go as far as concealment, proposing instead an international treaty
+    instrument internationalising celestial peoples and preventing their exploitation
+    by United Nations (UN) member states.
+  original_excerpt: Actually, we do not believe it necessary to go that far. It would
+    merely be a matter of internationalizing celestial peoples, and creating an international
+    treaty intsrument preventing exploitation of all nations belonging to the United
+    Nations.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: null
+  date_end: null
+  location_in_record: char:7253-7490
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
+  claim_hash: b6aa4108a781f7cdfd0459932a25478135d5bec2654486fe1401c4f6d859c068
+  content: United Nations Secretary General U Thant told the heads of state in Washington,
+    Havana, and Moscow that he would help mediate the Cuban Missile Crisis discussion,
+    at the request of forty-five other UN member nations.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+    title: U Thant
+    slug: u-thant
+  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+    title: Cuba
+    slug: cuba
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  - node_id: dc23e6d8-444d-4e0e-bba8-2d5492d51c06
+    title: USA, Washington, D.C.
+    slug: washington-dc-usa
+  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+    title: Cuban Missile Crisis (1962-10)
+    slug: cuban-missile-crisis-1962-10
+  - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
+    title: Russia, Moscow
+    slug: moscow-russia
+  date: 1962-10
+  date_end: null
+  location_in_record: ch17:1653-1832
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 691f1e4d-65c1-40f0-a8ed-4f8193d1a579
+  claim_hash: a38310f3156a6fd85871ac9b392f8d7d6e082ce355f6bd74f5abd726b2a9b608
+  content: The anonymous industrialist told Richard C. Hoagland that high-powered
+    military officers involved in Pentagon procurement, who would later lay the groundwork
+    for the United States Navy's Clementine lunar probe, routinely gathered in his
+    conference room to watch Hoagland's NASA-Cydonia Briefing video from the United
+    Nations presentations.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to have extensive NASA and military contacts
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 6fa97e1e-1920-4fb0-876f-1cd4cc56c0ed
+    title: Clementine (spacecraft)
+    slug: clementine-spacecraft
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    slug: cydonia
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch11:13389-13715
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 47510bb8-d26e-490f-9e31-1490442e4bdc
+  claim_hash: db7431acf1e355079f14997b32bceb68de454f61b63bbc075c7448224d5405d1
+  content: During the autumn of 1992, the anonymous industrialist would call Richard
+    C. Hoagland unannounced from his conference room in the company of visiting colonels
+    or generals from Washington DC, while they watched the NASA-Cydonia and United
+    Nations video presentations, so the visitors could ask questions about the Cydonia
+    investigation.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to have extensive NASA and military contacts
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    slug: cydonia
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: '1992'
+  date_end: null
+  location_in_record: ch11:13768-14148
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 002a4de1-c2e6-46fa-a36b-2080a84a21fb
+  claim_hash: 3853d8749778ec37993529b1429573b9cb753dfa80a0fe701955813d3ab59a1b
+  content: Figure 8-1 shows the hominid and feline halves of the Face on Mars as folded-over
+    symmetries from 1976 Viking Cydonia data, originally discovered and presented
+    by Richard C. Hoagland at the United Nations in 1992.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 08991fc4-7d33-4cc1-81ad-9886f4b4c947
+    title: Hoagland presentation at United Nations, 1992
+    slug: 1992-hoagland-presentation-at-united-nations
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+    title: Face on Mars
+    slug: face-on-mars
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    slug: cydonia
+  date: '1992'
+  date_end: null
+  location_in_record: ch15:57200-57413
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 81cedeb8-277a-444e-890d-d4b9d6b087a6
+  claim_hash: 01fb7cbb5e9f0da08a678707b6004fe4dd3b3e86211010d9999b66ebafedacc2
+  content: Richard C. Hoagland speculated and predicted as far back as 1992, at his
+    United Nations presentation, that the eastern half of the Face on Mars had a feline
+    aspect.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 08991fc4-7d33-4cc1-81ad-9886f4b4c947
+    title: Hoagland presentation at United Nations, 1992
+    slug: 1992-hoagland-presentation-at-united-nations
+  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+    title: Face on Mars
+    slug: face-on-mars
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: '1992'
+  date_end: null
+  location_in_record: ch15:7437-7546
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 84fd5c62-5994-4ed6-855f-f95d928c7253
+  claim_hash: f658ce663fa0e26eeb2c64da0f7b0eda730c4517f02148fc5c0aaad9315451a7
+  content: Richard C. Hoagland presented at the United Nations in 1992 the same characterisation
+    of the Face on Mars that he considers the 2007 Mars Reconnaissance Orbiter image
+    to have confirmed.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 08991fc4-7d33-4cc1-81ad-9886f4b4c947
+    title: Hoagland presentation at United Nations, 1992
+    slug: 1992-hoagland-presentation-at-united-nations
+  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+    title: Face on Mars
+    slug: face-on-mars
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: '1992'
+  date_end: null
+  location_in_record: ch20:44097-44168
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 3a9019fb-bb20-4023-b139-1f4c99a5e664
+  claim_hash: 21be95788b2dc0ede89a62d27d4f337a3a22bd8e6fcc35fe8db0386762b8fc4d
+  content: At the United Nations on 1963-09-20, John F. Kennedy issued a public invitation
+    to the Soviets offering a cooperative joint United States/USSR lunar expedition.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8f488d6a-ebc1-4ff3-83db-fc54d4efd7b5
+    title: Kennedy United Nations General Assembly speech, 1963-09-20
+    slug: 1963-09-20-kennedy-united-nations-general-assembly-speech
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    slug: john-fitzgerald-kennedy
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: '1963-09-20'
+  date_end: null
+  location_in_record: ch7:9941-10153
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 9512d263-8f2c-403e-8959-5a37aa991515
+  claim_hash: 40c138a0a1cd51849fd3992e78ec526861c62d445765d9a5f43453539af2b80f
+  content: Richard C. Hoagland presented at the United Nations in 1992 that the Great
+    Red Spot (GRS), a vortex located for over 300 years at 19.5 degrees south latitude
+    on Jupiter, is the classic signature of hyperdimensional physics operating within
+    Jupiter, via the circumscribed tetrahedral geometry of the twenty-seven line problem.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 08991fc4-7d33-4cc1-81ad-9886f4b4c947
+    title: Hoagland presentation at United Nations, 1992
+    slug: 1992-hoagland-presentation-at-united-nations
+  - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
+    title: hyper-dimensional physics theory
+    slug: hyper-dimensional-physics-theory
+  - node_id: 6ea4a62d-bf29-47ef-9691-915da997fb0a
+    title: Jupiter
+    slug: jupiter
+  - node_id: a42dacb8-d7d4-4877-9ce1-79b578123e7c
+    title: Great Red Spot (GRS)
+    slug: great-red-spot-grs
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: '1992'
+  date_end: null
+  location_in_record: ch9:68360-68679
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: bf20e0ce-70f3-4527-b46d-11b6123ab7fc
+  claim_hash: f7ca53c1c0f7db8bf48a0324524e3d18de4356262011e63d2fa6b196b5a75373
+  content: Richard C. Hoagland publicly identified at the United Nations in 1992 that
+    maximum sunspot numbers rise, fall and methodically change latitude during the
+    twenty-two-year solar cycle, peaking every half-cycle of around eleven years at
+    a solar latitude of about 19.5 degrees.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 08991fc4-7d33-4cc1-81ad-9886f4b4c947
+    title: Hoagland presentation at United Nations, 1992
+    slug: 1992-hoagland-presentation-at-united-nations
+  - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
+    title: hyper-dimensional physics theory
+    slug: hyper-dimensional-physics-theory
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: '1992'
+  date_end: null
+  location_in_record: ch9:75849-76297
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 21cfcaef-871d-49cd-8646-068119c454a9
+  claim_hash: 09474ebf358521f7d78f38c1024f02d6dc179648df4dfafb4e07a731b10de77f
+  content: Jacques Vallee, in a 1979 address to the special political committee of
+    the United Nations, argued that belief in space visitors is independent of the
+    physical reality of the UFO phenomenon.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallee
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 294f92a6-71de-4abe-808a-b335ed958374
+    title: Jacques Vallee's 1979 address to the United Nations (UN) Special Political
+      Committee
+    slug: jacques-vallees-1979-address-to-the-united-nations-un-special-political-committee
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: null
+  date_end: null
+  location_in_record: char:27316-27423
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 8d60814d-0fb7-4552-b897-4514a20308da
+  claim_hash: b5b639681e0d45c1c5e21fb7563c2e1ae30d6f580646428ec4c8bf9d5b34e140
+  content: The Predator UAV was used to support United Nations and North Atlantic
+    Treaty Organization efforts in Bosnia and was widely used in counterterrorism
+    operations.
+  original_excerpt: It was used to support United Nations and North Atlantic Treaty
+    Organization efforts in Bosnia and was widely used in counterterrorism operations.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 435a9455-09bd-484b-a515-5ede8f27e97f
+    title: Predator unmanned aerial vehicle (UAV)
+    slug: predator-unmanned-aerial-vehicle-uav
+  - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
+    title: North Atlantic Treaty Organization (NATO)
+    slug: north-atlantic-treaty-organization-nato
+  - node_id: c2d58d98-057c-4fb4-b4a3-aa1b4d445aae
+    title: Bosnia
+    slug: bosnia
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: null
+  date_end: null
+  location_in_record: char:138479-138614
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 5ccb2a47-faa3-4917-97e8-3d423cadbc87
+  claim_hash: 16bb999d5eeb7b7bb94bfd0cd30c34dc4483101564661a9d1ac51f4c2d11f5e3
+  content: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    proposes that colonisation of Earth by celestial peoples could take the form of
+    a tutelage, possibly through the tacit approval of the United Nations (UN).
+  original_excerpt: That could be a kind of tutelage, possibly through the tacit approval
+    of the United Nations.
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    relay:
+    - Chris Ramsey reading the document aloud
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+  date: null
+  date_end: null
+  location_in_record: 00:22:30.6-00:22:36.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 3fa4fd0b-2531-494c-8774-ddf3d1d9dd68
+  claim_hash: 338fdc43255f37a54840f8ca7a7d25e868feb52302ba42ae927966c13d116a68
+  content: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    states that although the United Nations (UN) is an international organisation,
+    it would have no right of tutelage over relationships between a member nation
+    and a celestial body, since its domain does not extend beyond relationships between
+    its own members.
+  original_excerpt: Although the United Nations is an international organization,
+    there is no doubt that it would have no right of tutelage, since its domain does
+    not extend beyond relationships between its members.
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    relay:
+    - Chris Ramsey reading the document aloud
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+  date: null
+  date_end: null
+  location_in_record: 00:22:52.8-00:23:02.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: d49e64d5-5b7c-4a15-ba11-19e38c008c06
+  claim_hash: ce1b8bbb6b08425a870f09dbcd2e08ccbeb37aac6e009e0203431601d53241de
+  content: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    states that the United Nations (UN) would only have the right to intervene if
+    a member nation's relationship with a celestial body and its extraterrestrial
+    people entailed a conflict with another member nation.
+  original_excerpt: But if these relationships entailed a conflict with another member
+    nation, the United Nations would have the right to intervene.
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    relay:
+    - Chris Ramsey reading the document aloud
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+  date: null
+  date_end: null
+  location_in_record: 00:23:16.5-00:23:22.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 4f295b03-0299-4f46-a6ed-582456b60ff6
+  claim_hash: 57f427fd4e789273436f0ba53f7bfefc0d65a3efeeadef9368ec399054e3271b
+  content: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    states that if the United Nations (UN) were a supranational organisation, it would
+    have competency to deal with all problems related to extraterrestrial peoples,
+    if its member states were willing to recognise that competence.
+  original_excerpt: if the United Nations were a supranatural national organization,
+    it would have competency to deal with all problems related to extraterrestrial
+    peoples... it could have this competence if its member states would be willing
+    to recognize it.
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    relay:
+    - Chris Ramsey reading the document aloud
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+  date: null
+  date_end: null
+  location_in_record: 00:23:30.1-00:23:47.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: a343c04d-986e-4298-aa12-fe6bc66e4a8c
+  claim_hash: 90d438ef1dd72e36258beb7738329845b6bef3f72b97c1e6e9f24843dc0d2609
+  content: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    proposes internationalising celestial peoples by creating an international treaty
+    instrument preventing exploitation, applicable to all nations belonging to the
+    United Nations (UN).
+  original_excerpt: It would merely be a matter of internationalizing celestial peoples
+    and creating an international treaty instrument preventing exploitation of all
+    nations belonging to the United Nations.
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    relay:
+    - Chris Ramsey reading the document aloud
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+  date: null
+  date_end: null
+  location_in_record: 00:26:21.2-00:26:33.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: a69ebdcf-5c0e-41fd-af02-86d43450d915
+  claim_hash: 70150c7056c239a22efb27dea1ca3cb328170fc89e6895f9be1aec081680c57b
+  content: A woman who as a young girl was at an ashram in India in 1964, whose uncle
+    was the head monk there, later became Cambodia's ambassador or representative
+    to the United Nations (UN) for a dozen years before retiring.
+  original_excerpt: the woman who was a young girl at the ashram in India in 1964
+    whose uncle was the head monk, she became the UN... the ambassador to the UN or
+    the representative... from Cambodia for a dozen years at the UN. Then she retired.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+    title: Michael Horn
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3e274df3-f113-48d4-87e0-5a82f3391806
+    title: Chang
+    slug: chang
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: '1964'
+  date_end: null
+  location_in_record: 00:51:59.2-00:52:20.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
+      ep. 92
+    record_date: '2026-06-12'
+    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+- claim_id: 316bd87d-e07e-43fb-a41b-d95e608034e6
+  claim_hash: f6aa1bf5053c504717941e224c6ca5de3770ad0158571da8aa9313ddd35fffd8
+  content: The Henoch Prophecies foretold that Switzerland would abandon its true
+    neutrality and align itself with the United Nations and/or the North Atlantic
+    Treaty Organisation, opening it to being ultimately attacked and invaded by powers
+    from the East, meaning China and Russia.
+  original_excerpt: Switzerland, the land of peace and neutrality, is going to make
+    a big mistake. They will abandon their true neutrality and align themselves and
+    work with the UN and or NATO, which will open them to being ultimately attacked
+    and invaded by the powers from the East, meaning ... China ... and Russia
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+    title: Michael Horn
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
+    title: North Atlantic Treaty Organization (NATO)
+    slug: north-atlantic-treaty-organization-nato
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: null
+  date_end: null
+  location_in_record: 01:40:41.1-01:41:15.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
+      ep. 92
+    record_date: '2026-06-12'
+    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+- claim_id: f68a4026-c3e8-4f4e-9246-d0b58ec919bd
+  claim_hash: 3cb31d76fde6e17e1d5581df117e9406567b064dd33493aa105968656e9a6142
+  content: On 1967-06-07, James E. McDonald spoke to the United Nations Outer Space
+    Affairs Group about the Unidentified Flying Object (UFO) problem and submitted
+    formal statements urging United Nations action on it.
+  original_excerpt: On the 7th of June, I was at the United Nations speaking to the
+    Outer Space Affairs Group about the UFO problem, submitted some formal statements
+    to them, urging UN action on the UFO problem.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+  provenance_chain:
+    origin_kind: speaker
+    origin: James E. McDonald
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
+    title: Outer Space Affairs Group
+    slug: outer-space-affairs-group
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    slug: james-macdonald
+  - node_id: 7f2106c6-6a69-4d27-86d5-847bafd5796e
+    title: James E. McDonald statement to the United Nations Outer Space Affairs Group,
+      1967-06-07
+    slug: 1967-06-07-james-e-mcdonald-statement-to-the-united-nations-outer-space-affairs-group
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: '1967-06-07'
+  date_end: null
+  location_in_record: 00:15:58.7-00:16:11.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
+      His Investigative Tour (1967)
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+    friendly_name: null
+- claim_id: fbbbcfc7-7b1e-488d-8673-686d735f4975
+  claim_hash: db6bf4fea2355d4dfd53d44005f0eb7a3c67cfe273ffac13387979554c042681
+  content: James E. McDonald hoped that United Nations scientific groups would take
+    up the UFO problem, given the Australian evidence added to the American evidence
+    and much other clearly attested evidence.
+  original_excerpt: vidence added to the American evidence and much, much other evidence
+    clearly attested that, let's hope that UN scientific groups will get right onto
+    it.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+  provenance_chain:
+    origin_kind: speaker
+    origin: James E. McDonald
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    slug: james-macdonald
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: null
+  date_end: null
+  location_in_record: 00:16:57.4-00:17:06.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
+      His Investigative Tour (1967)
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+    friendly_name: null
+- claim_id: b65bfc80-8c73-498f-b124-b3f0d5e3e78a
+  claim_hash: 072f367ac8fd185e433beffccdaf7f45c2ceb10610b2b594b1a0959695019f7a
+  content: In mid-1967, James E. McDonald presented a statement to the United Nations
+    Outer Space Affairs Group urging immediate United Nations action on the Unidentified
+    Flying Object (UFO) problem.
+  original_excerpt: I spoke along these lines only a short time ago this summer in
+    the United Nations at the outer space affairs group presented a statement to the
+    outer space affairs group urging immediate UN action on the problem
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+  provenance_chain:
+    origin_kind: speaker
+    origin: James E. McDonald
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
+    title: Outer Space Affairs Group
+    slug: outer-space-affairs-group
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    slug: james-macdonald
+  - node_id: 7f2106c6-6a69-4d27-86d5-847bafd5796e
+    title: James E. McDonald statement to the United Nations Outer Space Affairs Group,
+      1967-06-07
+    slug: 1967-06-07-james-e-mcdonald-statement-to-the-united-nations-outer-space-affairs-group
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: '1967-06-07'
+  date_end: null
+  location_in_record: 00:41:46.6-00:42:04.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
+      His Investigative Tour (1967)
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+    friendly_name: null
+- claim_id: 754cde69-7e8b-4900-ad13-686402d31b12
+  claim_hash: ef26bd56f5854f6a12d10ee4bd96a324a7c6aefd797aa8d0898f89a2b60fdb42
+  content: United Nations Secretary-General U Thant, in a statement to Drew Pearson
+    shortly before 1967, said the problem of Unidentified Flying Objects (UFOs) is
+    the greatest international problem second only to the Vietnam War, as relayed
+    by James E. McDonald.
+  original_excerpt: But Only A Very Short Time Ago, A Very Interesting Statement Was
+    Made By U Thant To Drew Pearson That The Problem Of The UFOs. Now this is the
+    Secretary General of the United Nations speaking, saying that the problem of the
+    UFOs is the greatest international problem second only to the present one of the
+    Vietnam War.
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+  provenance_chain:
+    origin_kind: named
+    origin: U Thant
+    relay:
+    - Drew Pearson
+    - James E. McDonald
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+    title: U Thant
+    slug: u-thant
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    slug: james-macdonald
+  - node_id: 79798a26-5342-45d4-b0e7-a60385e4f779
+    title: Vietnam War
+    slug: vietnam-war
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: bedf3eaf-553a-47f6-addc-de5c9e8bcc4a
+    title: Drew Pearson
+    slug: drew-pearson
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: null
+  date_end: null
+  location_in_record: 00:42:31.2-00:42:54.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
+      His Investigative Tour (1967)
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+    friendly_name: null

@@ -1,0 +1,555 @@
+schema: anomalica/brief/1
+brief_hash: ca9c56091fe3794f5796451b1ab1f2de628913e3c83865359e70e912d94b9c61
+page:
+  kind: entity
+  node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+  node_type: person
+  title: John von Neumann
+  slug: john-von-neumann
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: b2e86343-c60f-450e-876d-cad999d3b50b
+  title: self-replicating machines (von Neumann probes)
+  node_type: topic
+  slug: self-replicating-machines-von-neumann-probes
+  shared_claims: 4
+- node_id: 93df8d48-8068-409a-a198-27e923af6cde
+  title: Majestic 12 (MJ-12)
+  node_type: project
+  slug: majestic-12-mj-12
+  shared_claims: 3
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 1
+- node_id: de8b9d57-f9e4-46a2-b89c-480272a39d85
+  title: Edward Teller
+  node_type: person
+  slug: edward-teller
+  shared_claims: 1
+- node_id: 418ccd0f-4646-46ee-9f02-5c344fa277d1
+  title: Eric Walker
+  node_type: person
+  slug: eric-walker
+  shared_claims: 1
+- node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+  title: Jonathan Caplan
+  node_type: person
+  slug: jonathan-caplan
+  shared_claims: 1
+- node_id: 021a8eaf-08e0-46cc-bf4e-88d24e4a55ba
+  title: Leo Szilard
+  node_type: person
+  slug: leo-szilard
+  shared_claims: 1
+- node_id: 94acebad-d864-4d15-b54c-52197eb9c4ad
+  title: Majestic 12
+  node_type: organisation
+  slug: majestic-12
+  shared_claims: 1
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 1
+- node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
+  title: William Steinman
+  node_type: person
+  slug: william-steinman
+  shared_claims: 1
+- node_id: f4d3da13-18bf-413b-9b69-d9f5fa6196ba
+  title: quantum indeterminacy
+  node_type: topic
+  slug: quantum-indeterminacy
+  shared_claims: 1
+claims:
+- claim_id: aa8c130e-d1e0-41fa-b2ab-3a6c89d9079c
+  claim_hash: 84a4589b4106ba2c15f9804cce52838bd164811d62398bc0b9b896601d206e81
+  content: John von Neumann was a physicist known during his lifetime as 'the smartest
+    man in the world'.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ordinary narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+    slug: john-von-neumann
+  date: null
+  date_end: null
+  location_in_record: ch16:5325-5413
+  evidence:
+    score: null
+    independent_sources: 2
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 5d490747-fd90-4ed8-8f61-11e1b69d246a
+  claim_hash: 7c8a75e8da92ff1f06b60a67723b4288e2626c88a716bc1ac395fc65fb999d03
+  content: John von Neumann is thought to have been on the scientific team that studied
+    the Roswell materials in the late 1940s and early 1950s.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unspecified general belief ('is thought to have been')
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+    slug: john-von-neumann
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: ch16:5421-5536
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 4f917a20-793c-4134-bb94-83880519ada0
+  claim_hash: 5d9419ae657e8cbb159fe09169b825153e7760b6ea8f26a5a284d25378296db0
+  content: During the late 1940s and early 1950s, John von Neumann became interested
+    in self-replicating machines.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ordinary narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+    slug: john-von-neumann
+  - node_id: b2e86343-c60f-450e-876d-cad999d3b50b
+    title: self-replicating machines (von Neumann probes)
+    slug: self-replicating-machines-von-neumann-probes
+  date: null
+  date_end: null
+  location_in_record: ch16:5543-5609
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 2f3774b5-0942-474c-8309-47c48e4f4e2c
+  claim_hash: 03b7f59c8efa79e62aea428d347bbbab3e05fb71ea844c9c8b76310339c8b43b
+  content: In the early 1950s, John von Neumann speculated that a self-replicating
+    machine designed to replicate members of a species could be sent through the galaxy
+    in search of habitable planets to seed with new members of the species.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+  provenance_chain:
+    origin_kind: named
+    origin: John von Neumann
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+    slug: john-von-neumann
+  - node_id: b2e86343-c60f-450e-876d-cad999d3b50b
+    title: self-replicating machines (von Neumann probes)
+    slug: self-replicating-machines-von-neumann-probes
+  date: null
+  date_end: null
+  location_in_record: ch16:5751-6040
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: a7c98705-1489-4a70-8a14-c6f787a71d84
+  claim_hash: 9c2a09149233c3c9164e1d1e8f70123af6e85d436643bba2569879b8a723a96a
+  content: John von Neumann speculated that a self-replicating interstellar machine
+    would experience some deterioration in its stored information over its long journey,
+    assuming it travelled at a percentage of the speed of light but no faster.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+  provenance_chain:
+    origin_kind: named
+    origin: John von Neumann
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+    slug: john-von-neumann
+  - node_id: b2e86343-c60f-450e-876d-cad999d3b50b
+    title: self-replicating machines (von Neumann probes)
+    slug: self-replicating-machines-von-neumann-probes
+  date: null
+  date_end: null
+  location_in_record: ch16:6331-6567
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 06ca2797-6e46-4e13-bb4f-fac8defc84d3
+  claim_hash: 305d7afeb00276a276f77738737eb2258b15bc5b74d88e60fec57a44ff2d9dce
+  content: John von Neumann concluded that the older such a self-replicating machine
+    got, the less perfect its reproductions would be, but that a self-repairing facility
+    would have been anticipated and built in.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+  provenance_chain:
+    origin_kind: named
+    origin: John von Neumann
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+    slug: john-von-neumann
+  - node_id: b2e86343-c60f-450e-876d-cad999d3b50b
+    title: self-replicating machines (von Neumann probes)
+    slug: self-replicating-machines-von-neumann-probes
+  date: null
+  date_end: null
+  location_in_record: ch16:6573-6827
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 52065f11-a138-497b-b939-291b44efe605
+  claim_hash: cfd2f612fc8849e124f5a5e4555770211bcc81e29da6683761dadbab6659b87a
+  content: John von Neumann, Leo Szilard and Edward Teller are among the scientists
+    identified in the recovered photographs bearing 'MJ-12' on the back.
+  original_excerpt: And those are people like John von Neumann, zillard edward teller
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jonathan Caplan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 021a8eaf-08e0-46cc-bf4e-88d24e4a55ba
+    title: Leo Szilard
+    slug: leo-szilard
+  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+    slug: john-von-neumann
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    slug: majestic-12-mj-12
+  - node_id: de8b9d57-f9e4-46a2-b89c-480272a39d85
+    title: Edward Teller
+    slug: edward-teller
+  date: null
+  date_end: null
+  location_in_record: 00:45:54.6-00:46:02.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: 38a59bb5-2d96-45a4-b096-bc46da9362fb
+  claim_hash: 8cebe6d05d4d5fc390b483925f5f572700ed5511949e657b05ca4f1eb53e7bce
+  content: Eric Walker has told other ufologists, including William Steinman, that
+    John von Neumann was working at Majestic 12.
+  original_excerpt: from other sources we know um that um for example uh dr eric walker
+    has spoken to other uh ufologists many years ago william steinman to confirm um
+    that van neumann actually was working at MJ-12
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: named
+    origin: Eric Walker
+    relay:
+    - William Steinman and other ufologists
+    - Jonathan Caplan
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+    slug: john-von-neumann
+  - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
+    title: William Steinman
+    slug: william-steinman
+  - node_id: 418ccd0f-4646-46ee-9f02-5c344fa277d1
+    title: Eric Walker
+    slug: eric-walker
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    slug: majestic-12-mj-12
+  date: null
+  date_end: null
+  location_in_record: 00:46:05.1-00:46:20.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: 126ee8b8-b090-4ce6-8175-2087c8e88d1a
+  claim_hash: bcd11297b289c1874ef59b0eceddfe8da961ca5b83e39fefbc9ee5d033cdeb25
+  content: Others working at the time on Majestic 12 projects have confirmed that
+    John von Neumann was working on Majestic 12 projects.
+  original_excerpt: We know also that others have confirmed who were working at that
+    time on these projects that van Neumann was working on MJ-12 projects.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to have worked on Majestic 12 projects at the time
+    relay:
+    - Jonathan Caplan
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+    slug: john-von-neumann
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    slug: majestic-12-mj-12
+  date: null
+  date_end: null
+  location_in_record: 00:46:26.4-00:46:38.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: c228b24a-9f38-46dc-8c7e-1742de01a2c2
+  claim_hash: 6c402f6ad8c5dc38e4181791f256c619c1d36a5f34e730a45245b3f5d1b36e6e
+  content: Jonathan Caplan telephoned John von Neumann's family and attempted to speak
+    to von Neumann's elderly wife but could not press her to confirm details of her
+    husband's work 70 years earlier.
+  original_excerpt: I did ring the van Neumann family and tried to speak to van Neumann's
+    wife, who is now quite elderly, and I couldn't really press her, I'm afraid, to
+    confirm what a husband's work was 70 years ago.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jonathan Caplan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+    slug: john-von-neumann
+  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+    slug: jonathan-caplan
+  date: null
+  date_end: null
+  location_in_record: 00:46:39.4-00:46:54.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: 055a01cc-f4ba-47b1-ad2e-900a285cbfb2
+  claim_hash: d052bc0fe9c34b4763b8a239264cef366b0e09918d153cc8f895cd1d48c3c6f2
+  content: Whitley Strieber believes the Majestic 12 committee almost certainly included
+    a number of important scientists, one of whom would have been John von Neumann.
+  original_excerpt: On that committee, almost certainly were a number of important
+    scientists, one of whom would have been a man named John von Neumann
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+    slug: john-von-neumann
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 94acebad-d864-4d15-b54c-52197eb9c4ad
+    title: Majestic 12
+    slug: majestic-12
+  date: null
+  date_end: null
+  location_in_record: 00:51:03.8-00:51:12.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
+      | Reality Check Rewind
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+    friendly_name: null
+- claim_id: d6d63036-28d7-45a3-9653-5e58208b1df6
+  claim_hash: 06bb191e6e1b5c706dd0bd4fc36a0c990e8208d1ef9af42a64ce89efb020e30a
+  content: John von Neumann was a physicist whom the press of the time called the
+    smartest man in the world.
+  original_excerpt: a physicist called the, at the time, many of the, in the press
+    would say he was the smartest man in the world
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+    slug: john-von-neumann
+  date: null
+  date_end: null
+  location_in_record: 00:51:13.2-00:51:18.1
+  evidence:
+    score: null
+    independent_sources: 2
+  provenance:
+    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
+      | Reality Check Rewind
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+    friendly_name: null
+- claim_id: 5261927c-0327-4a3b-a866-3ae5ccdebd5b
+  claim_hash: 32596327885ecfcf7ebadfda5ea5f4cb062d21df2d913e82b60aeed4a4fa2966
+  content: John von Neumann was a very early quantum physicist aware of the mysteries
+    of the very small.
+  original_excerpt: He was also a very early quantum physicist and aware of quantum,
+    the mysteries of the quantum of the very, very small.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+    slug: john-von-neumann
+  - node_id: f4d3da13-18bf-413b-9b69-d9f5fa6196ba
+    title: quantum indeterminacy
+    slug: quantum-indeterminacy
+  date: null
+  date_end: null
+  location_in_record: 00:51:19.4-00:51:28.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
+      | Reality Check Rewind
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+    friendly_name: null

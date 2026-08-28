@@ -1,0 +1,3496 @@
+schema: anomalica/brief/1
+brief_hash: f4e029ea21e92f89df72f9c08e8a3b7d5a20e7ce5358a92b49dfa2b34813632e
+page:
+  kind: entity
+  node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+  node_type: organisation
+  title: United States Army
+  slug: united-states-army
+  claim_count: 87
+  claim_count_total: 87
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+  title: Project STARGATE
+  node_type: project
+  slug: project-stargate
+  shared_claims: 13
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 10
+- node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+  title: Joseph McMoneagle
+  node_type: person
+  slug: joseph-mcmoneagle
+  shared_claims: 8
+- node_id: 6ab5988e-2f69-4938-8ed9-72e00bd92150
+  title: Cooperative Research and Development Agreement (CRADA) between To The Stars
+    Academy of Arts & Sciences (TTSA) and US Army
+  node_type: project
+  slug: cooperative-research-and-development-agreement-crada-between-to-the-stars-academy-of-arts-sciences-ttsa-and-us-army
+  shared_claims: 7
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 6
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 4
+- node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+  title: All-domain Anomaly Resolution Office (AARO)
+  node_type: organisation
+  slug: all-domain-anomaly-resolution-office-aaro
+  shared_claims: 4
+- node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+  title: Roswell incident (1947)
+  node_type: event
+  slug: roswell-incident-1947
+  shared_claims: 4
+- node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+  title: To the Stars Academy of Arts and Science (TTSA)
+  node_type: organisation
+  slug: to-the-stars-academy-of-arts-and-science-ttsa
+  shared_claims: 4
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 3
+- node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+  title: Craig McPherson
+  node_type: person
+  slug: craig-mcpherson
+  shared_claims: 3
+- node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+  title: Ed Dames
+  node_type: person
+  slug: ed-dames
+  shared_claims: 3
+- node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+  title: Ingo Swann
+  node_type: person
+  slug: ingo-swann
+  shared_claims: 3
+- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+  title: Remote Viewing (RV)
+  node_type: topic
+  slug: remote-viewing-rv
+  shared_claims: 3
+- node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
+  title: The Stargate Project
+  node_type: project
+  slug: the-stargate-project
+  shared_claims: 3
+- node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
+  title: Art's Parts (alleged Roswell metal samples)
+  node_type: object
+  slug: arts-parts-alleged-roswell-metal-samples
+  shared_claims: 2
+- node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+  title: Defense Intelligence Agency (DIA)
+  node_type: organisation
+  slug: defense-intelligence-agency-dia
+  shared_claims: 2
+- node_id: 7928b168-6841-44b4-8261-2c49f4a60918
+  title: Eugene Lessman
+  node_type: person
+  slug: eugene-lessman
+  shared_claims: 2
+- node_id: 6afb5b29-88fb-4b5f-881d-f3028dae0ced
+  title: Great Skills program
+  node_type: project
+  slug: great-skills-program
+  shared_claims: 2
+- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+  title: Harold E. Puthoff
+  node_type: person
+  slug: harold-e-puthoff
+  shared_claims: 2
+- node_id: a425ba71-331c-43f9-8c71-4be9bb6a23d0
+  title: Lyn Buchanan
+  node_type: person
+  slug: lyn-buchanan
+  shared_claims: 2
+- node_id: 8bf407fb-5373-40d2-a251-4960a84f3e00
+  title: Neill Tipton
+  node_type: person
+  slug: neill-tipton
+  shared_claims: 2
+- node_id: 435a9455-09bd-484b-a515-5ede8f27e97f
+  title: Predator unmanned aerial vehicle (UAV)
+  node_type: object
+  slug: predator-unmanned-aerial-vehicle-uav
+  shared_claims: 2
+- node_id: 4e111457-ef0f-4e1c-a7fd-f993840f4647
+  title: USA, Virginia, Atlantic coast Patriot missile battery incident
+  node_type: event
+  slug: virginia-atlantic-coast-patriot-missile-battery-incident-usa
+  shared_claims: 2
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 2
+- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+  title: United States Navy (USN)
+  node_type: organisation
+  slug: united-states-navy-usn
+  shared_claims: 2
+- node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+  title: extrasensory perception (ESP)
+  node_type: topic
+  slug: extrasensory-perception-esp
+  shared_claims: 2
+- node_id: be164183-f1cf-461d-be1d-53fc0b830a84
+  title: 1947 Roswell Unidentified Aerial Phenomena (UAP) crash
+  node_type: event
+  slug: 1947-roswell-unidentified-aerial-phenomena-uap-crash
+  shared_claims: 1
+- node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+  title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash
+    retrieval
+  node_type: event
+  slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+  shared_claims: 1
+- node_id: 05eb1fa5-44a7-40ce-93f3-065e6280401e
+  title: 1994 US Air Force Roswell report
+  node_type: document
+  slug: 1994-us-air-force-roswell-report
+  shared_claims: 1
+claims:
+- claim_id: 6cf44726-7a00-4827-9dc2-10eebd7fb186
+  claim_hash: ae9384334552263f4b1c06db3180b99125472d4e4561bdd3ed2d56d1f93041ab
+  content: The United States Army was chosen to investigate the Dayton, Texas UFO
+    case because Army helicopters were seen circling and pursuing the object as it
+    departed.
+  original_excerpt: investigation by the Army because the Army was chosen to investigate
+    the case because Army helicopters, or helicopters used by the Army, were seen
+    circling this object and pursuing it as it went off.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: speaker
+    origin: Raymond Fowler
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: 00:31:34.8-00:31:46.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 13cb85ba-2fef-4a81-adb1-516c83dfdd8d
+  claim_hash: b4ee812a39dd90028f36fa6187fdf9d83b29b9ab871708153be2566605ee8b41
+  content: An Army officer investigating the Dayton, Texas case verified the injuries
+    sustained by the people involved and verified that helicopters had been seen in
+    the area.
+  original_excerpt: And the Army officer verified the injuries to these people. And
+    he verified that the helicopters had been seen in the area.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: document
+    origin: Army investigation records of the Dayton, Texas incident
+    relay:
+    - Raymond Fowler
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: 00:31:47.8-00:31:59.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 85d29b51-abc7-4ce9-af53-4ee47fa80afb
+  claim_hash: 5ee8848180f342f62cb83517e17230eb7fa906fe2c753168f9b7a818264f68f5
+  content: The Army officer investigating the Dayton, Texas case stated that no agency
+    of the government would admit the helicopters or the object were theirs, so the
+    government held itself not responsible for the injuries sustained.
+  original_excerpt: he also stated that no agency of this government would admit that
+    the helicopters were theirs, that the object was theirs, and therefore the injuries
+    sustained by the people had nothing to do with the case per se, therefore the
+    government wasn't responsible because it wasn't the government's aircraft or whatever
+    you want to call it.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: document
+    origin: Army investigation records of the Dayton, Texas incident
+    relay:
+    - Raymond Fowler
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: 00:32:00.8-00:32:20.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 25567689-ad82-4d4a-b77c-6515b287acc9
+  claim_hash: 378abb005d89971407f5d6c765444777f92fedaf586dfe0cc2cdf57803478e41
+  content: Dr Craig McPherson served in the United States Army Infantry in Europe
+    from June 1944 until October 1946.
+  original_excerpt: Dr McPherson served in the U.S. Army Infantry in Europe from June
+    1944 until October 1946.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+    title: Craig McPherson
+    slug: craig-mcpherson
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: char:2405-2490
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+    record_title: Project Serpo
+    record_date: '2007-06-20'
+    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+    friendly_name: null
+- claim_id: 3b202717-6076-4261-9f04-ac31d072b691
+  claim_hash: 1bbad8ed02df4fa28988bda9a8464335b759978dd8eb1760fde2ba43fd2cdc88
+  content: Dr Craig McPherson obtained the military rank of Sergeant at the time of
+    his discharge.
+  original_excerpt: Dr McPherson obtained the military rank of Sergeant at the time
+    of his discharge.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+    title: Craig McPherson
+    slug: craig-mcpherson
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: char:2496-2567
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+    record_title: Project Serpo
+    record_date: '2007-06-20'
+    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+    friendly_name: null
+- claim_id: c15b0c63-3786-40f0-8463-53d87a95ee0a
+  claim_hash: 0161f9510d427941cf726dc9ea778e7b55d1373499f4ef8e8479a76450e2efaf
+  content: Craig McPherson served in the United States Army from 1944 to 1946.
+  original_excerpt: I served in the U.S. Army from 1944 to 1946.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+    title: Craig McPherson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Craig McPherson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
+    title: Craig McPherson
+    slug: craig-mcpherson
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: char:2829-2868
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
+    record_title: Project Serpo
+    record_date: '2007-06-20'
+    record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
+    content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
+    friendly_name: null
+- claim_id: 4d1dac58-7cff-4b45-8430-7345a46720d5
+  claim_hash: 720eaf4d15d5be9cfb814ac220495f32dd80fb795a29915b5d3b1e80e3993b02
+  content: Joseph McMoneagle believes people liked by their peers but considered different
+    from the norm make better remote viewers, and that this characteristic is more
+    pronounced in contexts with a high baseline of conformity, such as the military,
+    or in corporate settings.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: ch16:28960-29280
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 34300682-2fbe-4514-94cc-af8b33023e84
+  claim_hash: f63e75bde4984d885a7ee6bc6523ce6cc85e62a2ed27a3b518bbce5558df3142
+  content: William G. Braud's paper "Psi Conducive States" was used by the founders
+    of the Army's Project STARGATE to identify possible remote viewing subjects.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: 979798c9-ca80-40f6-8e98-b3541c929f22
+    title: William G. Braud
+    slug: william-g-braud
+  - node_id: e0dbc50e-4e0a-47b9-83bc-1899974adaa7
+    title: Psi Conducive States
+    slug: psi-conducive-states
+  date: null
+  date_end: null
+  location_in_record: ch16:6126-6366
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 907ad3e2-f8f1-4d7f-9dd0-98a8cf4f0fb3
+  claim_hash: c58aa0e7d2c5defc0d883383c99865342665e0c305fb6dd141e01a775c8f8332
+  content: The United States Army decided to find, train, and use remote viewers for
+    Project STARGATE.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:788-912
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: b5a6d826-7c0a-4a65-8ff4-757b3fc2a77b
+  claim_hash: caf452aea2a1a9a92cd8d55409b4e84ed36771d9459e75ec566508039b95f274
+  content: The military personnel tasked with finding psychics for Project STARGATE
+    compiled their own list of possible indicators against a military background,
+    used as general guidelines to identify the programme's original psychics.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:9411-9677
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 1ce81f56-68ae-4b25-af50-bbca83edf7ac
+  claim_hash: f6d19a6f155f47ec1e1f696ac64c131e238488cef5cbecd36b5bc0f2c39b860e
+  content: Among the military's indicators for identifying psychics for Project STARGATE
+    was consistent success whatever the task.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:9582-9622
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 30cef02f-3b65-4cec-8da2-989fc47972ec
+  claim_hash: b52a60179fc23d25ffa5337b82c31037b41cfd2d19e1a3b3f5ae8229bb403db1
+  content: Among the military's indicators for identifying psychics for Project STARGATE
+    was being liked by peers but considered different from the norm.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:9629-9681
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: eca21de3-17b7-4d3c-8b92-4a2c69d4dba1
+  claim_hash: 9b6c9cdc5a55a123271298e3e5797f4b983e4bf131974b148ae34cb5df4ce518
+  content: Among the military's indicators for identifying psychics for Project STARGATE
+    was generally operating outside normal boundaries.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:9688-9725
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 2c635ae1-2580-487f-b6c4-11a15af53c5e
+  claim_hash: 676fbfc8645e44324bd38f4b89c8b26ca2868833ef8e6ede8903d7f891d56bce
+  content: Among the military's indicators for identifying psychics for Project STARGATE
+    was being willing to pursue new avenues of approach.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:9738-9774
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 21a07bf4-c341-4a21-8c83-4a3c8fbe362e
+  claim_hash: 2fe69f5ee6fc0c5a7b47defe89911e8ff09f37ab0966b51de6b93523f9f82f30
+  content: Among the military's indicators for identifying psychics for Project STARGATE
+    was being open to whatever works.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:9785-9805
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 58c44278-5d99-48ae-94bc-f3d0a4c4d0a1
+  claim_hash: bcf4e4c65a2a5b135eeae8d32300f97501c134b425cc6c75d8c93ec6a71482a9
+  content: Among the military's indicators for identifying psychics for Project STARGATE
+    was being capable of critical thought and unafraid to voice an opinion.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:9813-9869
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: c3e08493-8528-46f9-8fcc-e9b18a07192b
+  claim_hash: 34a6cb1300534ff4d65c4859d71b1ddefde1664fb5bdb0db644119610274f02b
+  content: Among the military's indicators for identifying psychics for Project STARGATE
+    was being highly and uniquely creative.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:9879-9902
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 9cbd02bd-ef01-4a0f-ad70-171dafbd68d2
+  claim_hash: 4f48807acfd2a7e64c86948b2132e319f23a94609e148b8a0acad55147250b38
+  content: Dowsing was used by the military with a great deal of accuracy in some
+    cases, which led to two or three of the remote viewers being formally trained
+    in dowsing.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+    title: Dowsing
+    slug: dowsing
+  date: null
+  date_end: null
+  location_in_record: ch17:35860-36041
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: a2f9e1f5-d720-4ba2-9566-7eddbe349812
+  claim_hash: 0ce759dcbb96f2da02b0e563318fde5130f741de2dab798b091f500994354146
+  content: In the United States Army, Joseph McMoneagle was in charge of his Military
+    Occupational Specialty world-wide.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: ch4:1920-2001
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: cbaa316b-b898-44b3-a8df-ef3a99728e3b
+  claim_hash: 1e26663816a013b31896fbe89c8edca56c105ed52287094e9bdaea60d1fad650
+  content: In the United States Army, Joseph McMoneagle was responsible for all tactical
+    and strategic equipment and tasking, aircraft and vehicles, development of new
+    or future technology, and all planning, support, maintenance, funding, training,
+    and personnel in his role.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: ch4:2007-2213
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 359297e3-ec36-4d63-a511-7b9b1e30266b
+  claim_hash: 4b79c137feec4ff95b987d3c9f5bc6ec13a95727f8652bf9e1c272437d953e3c
+  content: Joseph McMoneagle came to remote viewing with a background in the research
+    and development of multi-level technical collection systems designed for United
+    States Army Intelligence.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: ch4:287-448
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: e71833f6-78e3-4ef8-b83d-6c38e85ca8c0
+  claim_hash: b432014ae894cafb02fd1dacc1c9210bfb80cc2ac316f299ef8883e6a3736a31
+  content: Joseph McMoneagle held the rank of CW2 (Chief Warrant Officer 2) in the
+    United States Army, retired.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: ch4:73-115
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 84af21ae-6083-4547-a8ce-646ea351e019
+  claim_hash: 4dcc4db4c2ad423a30ebe384ac8d29ca54635e011c3bff34bf8fd73326ea54fa
+  content: Joseph McMoneagle started Intuitive Intelligence Applications, Inc. in
+    1984 following his retirement from the United States Army.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 53266a9f-69a3-4718-bac4-ee174c993923
+    title: Intuitive Intelligence Applications, Inc.
+    slug: inc-intuitive-intelligence-applications
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: '1984'
+  date_end: null
+  location_in_record: ch4:839-898
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 89143734-1d5f-4192-9d95-2e00e30542cc
+  claim_hash: d3c4542941155e482dd60c01f55ed5a8c567adae737c0f7d48a8cfc887aa2322
+  content: Joseph McMoneagle was one of the original remote viewers recruited into
+    Project STARGATE, the secret Army project designed to use trained remote viewers
+    for intelligence purposes during the Cold War.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: ch9:1518-1738
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: b6391b24-9387-4282-abfb-6991df600b5a
+  claim_hash: eb5943d933e621da1ca157430f10e310ffee8bef105179fa1cd565328aec143d
+  content: D. W. Pasulka's student Jose, a Marine squad leader, was trained to learn
+    about and use a "sixth sense," which he and his team used because it worked rather
+    than because they believed in it.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay:
+    - Jose Herrera's account
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 7eb30a7b-d7aa-4309-a54f-7a109f310a0f
+    title: Jose Herrera
+    slug: jose-herrera
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch5:47688-47887
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: d6d824d5-9ead-46ba-8489-2da124ec4178
+  claim_hash: edde54b5426556f766ed9c521781b2ebe1d3937f7f267a1945dfc7c820cb27e7
+  content: Eric Davis says the study of unknown craft flying around Earth falls within
+    the domain of military science, treated as a subject for intelligence gathering,
+    collection, and analysis rather than science.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+  provenance_chain:
+    origin_kind: speaker
+    origin: Eric Davis
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  date: null
+  date_end: null
+  location_in_record: char:19524-19702
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 777b8a24-d2c6-46d4-92b2-af219c4caece
+  claim_hash: 4ea8d3b77840dcb894db94337815f86e1d9e6f3f98ab237a503afd7091097beb
+  content: Among those who report UFO sightings are former US president Jimmy Carter
+    and other credible witnesses, including trained observers of the US Air Force,
+    pilots, commercial pilots, police officers, US Army personnel, and millions of
+    civilians who were not looking for UFOs.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+    title: Jimmy Carter
+    slug: jimmy-carter
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: char:20895-21187
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 76440ccc-aa0f-422f-9243-b14dc0e0a200
+  claim_hash: 46545a46a0e3a88f47376efd0be47780219774264ab7485473b1e8e15a1421ee
+  content: Remote viewing and related esoteric skills were studied under a classified
+    program called The Stargate Project, funded by the US military in partnership
+    with SRI International.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
+    title: The Stargate Project
+    slug: the-stargate-project
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: char:2636-2777
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 1b5ca30a-3e27-4c72-9a5a-2bb04c3159ed
+  claim_hash: ee0280299bb7fcb2c503e5e683ab1093770162557b9d7ca59340f6ce83d61229
+  content: Tim McMillan considers there to be no reason anyone would live in Grovetown,
+    Georgia unless they were working at Fort Gordon, home of the United States Army's
+    principal signals intelligence units and school.
+  original_excerpt: “Being from Georgia, I can assure you, there is no reason anyone
+    in their right mind would live in Grovetown unless they were working at Fort Gordon,
+    home of the Army’s principle signals intelligence units and school,” Tim McMillan...
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: aefac202-9f9b-433f-81d3-1d384551d045
+    title: Tim McMillan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tim McMillan
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1c96a1f4-a70c-4c46-9970-c28ef86589c8
+    title: USA, Georgia, Fort Gordon
+    slug: georgia-fort-gordon-usa
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: aefac202-9f9b-433f-81d3-1d384551d045
+    title: Tim McMillan
+    slug: tim-mcmillan
+  - node_id: bee7dfd0-a6b0-4519-aba0-15099445e40f
+    title: USA, Georgia, Grovetown
+    slug: georgia-grovetown-usa
+  date: null
+  date_end: null
+  location_in_record: char:18842-19065
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+- claim_id: 4be5fb85-36d7-4813-bb73-7cc1b2f408fc
+  claim_hash: 8bb94ceff693e3c26489ef00c56509669b7aa38ed23ab108fc477567270fc44b
+  content: The alleged Aztec, New Mexico craft was also claimed to have been retrieved
+    by the US military under a cloak of secrecy.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+    title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash
+      retrieval
+    slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: '1948-03-25'
+  date_end: null
+  location_in_record: ch17:14545-14621
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 233f477a-b1cd-40e7-8cc1-bb2bda18153b
+  claim_hash: b13b9b57de87ef0eb38c6c4feb321143d75baca4b96bf5ff979529a1a1829491
+  content: Secret United States Army memos declassified in 1994 referred to the object
+    that crashed near Roswell in 1947 as a 'flying disc'.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 1994 US Air Force Roswell report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 05eb1fa5-44a7-40ce-93f3-065e6280401e
+    title: 1994 US Air Force Roswell report
+    slug: 1994-us-air-force-roswell-report
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: '1994'
+  date_end: null
+  location_in_record: ch18:1977-2050
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 151aa9a8-93d5-47e0-89d1-bbf7081fe957
+  claim_hash: 72a4fccdbe3c774089bb0092e0c0bbb0d702e87cb29b9b18e2477b3c62da789c
+  content: Tom DeLonge suggested that the US government's recovery of a crashed alien
+    spacecraft was the reason why, 90 days after the 1947 Roswell crash, the United
+    States Air Force was created as a separate entity from the United States Army.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  date: null
+  date_end: null
+  location_in_record: ch21:4594-4860
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e23cc9d6-cf5c-4eb8-ba96-b7cc6aae8dd7
+  claim_hash: 323bdc93ee5df93fa2ede96983bdd6e52f2d37e2e6dc0a776b195abf351ef7ab
+  content: In October 2019 it was announced that To The Stars Academy of Arts & Sciences
+    was partnering with the US Army to research alleged metamaterials that TTSA's
+    sources claimed to have obtained from crashed craft.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ab5988e-2f69-4938-8ed9-72e00bd92150
+    title: Cooperative Research and Development Agreement (CRADA) between To The Stars
+      Academy of Arts & Sciences (TTSA) and US Army
+    slug: cooperative-research-and-development-agreement-crada-between-to-the-stars-academy-of-arts-sciences-ttsa-and-us-army
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  date: 2019-10
+  date_end: null
+  location_in_record: ch23:12310-12513
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 2e94126a-478b-435a-aa1b-f73b9f5c6915
+  claim_hash: 98e767beb3ae95be81ceba5af09eddf5971af539f45e30798a531dc78784ed13
+  content: The Art's Parts samples were sent to a US Army laboratory to test whether
+    they were from an alien spacecraft.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
+    title: Art's Parts (alleged Roswell metal samples)
+    slug: arts-parts-alleged-roswell-metal-samples
+  date: null
+  date_end: null
+  location_in_record: ch23:13662-13747
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 904c1482-da7d-4a58-b305-819b773def07
+  claim_hash: a0558c32bdacb3fc38647d61390482a6079e098b129f8eb9a4144d8360689898
+  content: The agreement between TTSA and the US Army over the Art's Parts materials
+    was secured under a Cooperative Research and Development Agreement (CRADA).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ab5988e-2f69-4938-8ed9-72e00bd92150
+    title: Cooperative Research and Development Agreement (CRADA) between To The Stars
+      Academy of Arts & Sciences (TTSA) and US Army
+    slug: cooperative-research-and-development-agreement-crada-between-to-the-stars-academy-of-arts-sciences-ttsa-and-us-army
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  date: null
+  date_end: null
+  location_in_record: ch23:13884-14022
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 64c604c6-1e76-4e01-9cac-334d699db1e9
+  claim_hash: d8ae6acba0ec16aa481c31942568fe0097b739eb02d1d543b4c002e89c6e3663
+  content: A US Army public relations officer stated that materials research is of
+    key interest to army research and that the army is interested in insights gained
+    from investigating the properties of the CRADA materials.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be a public relations officer for the US Army
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6ab5988e-2f69-4938-8ed9-72e00bd92150
+    title: Cooperative Research and Development Agreement (CRADA) between To The Stars
+      Academy of Arts & Sciences (TTSA) and US Army
+    slug: cooperative-research-and-development-agreement-crada-between-to-the-stars-academy-of-arts-sciences-ttsa-and-us-army
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch23:14033-14244
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 06c100ff-b8ca-4629-bbbe-748422c0b004
+  claim_hash: 55f7ad33c6d1d40fabadb06e99c2e7bbcfad58bbbdf6f9e1d6970fab75886bea
+  content: Under the CRADA, the US Army provides expertise and facilities to analyse
+    the Art's Parts materials while TTSA provides the materials, with both parties
+    receiving the results and no financial compensation changing hands in either direction.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be a public relations officer for the US Army
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6ab5988e-2f69-4938-8ed9-72e00bd92150
+    title: Cooperative Research and Development Agreement (CRADA) between To The Stars
+      Academy of Arts & Sciences (TTSA) and US Army
+    slug: cooperative-research-and-development-agreement-crada-between-to-the-stars-academy-of-arts-sciences-ttsa-and-us-army
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  date: null
+  date_end: null
+  location_in_record: ch23:14254-14593
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 23e98b34-094c-4ede-adf9-326322ec7bd6
+  claim_hash: 02712257b36772d268307f50781efcecbe7522d012dacb86551b9a5a5bde3e69
+  content: Under the CRADA agreement between TTSA and the US Army, joint ownership
+    of any invention resulting from the materials research would apply should a major
+    breakthrough be achieved.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: the CRADA agreement text between TTSA and the US Army
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6ab5988e-2f69-4938-8ed9-72e00bd92150
+    title: Cooperative Research and Development Agreement (CRADA) between To The Stars
+      Academy of Arts & Sciences (TTSA) and US Army
+    slug: cooperative-research-and-development-agreement-crada-between-to-the-stars-academy-of-arts-sciences-ttsa-and-us-army
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  date: null
+  date_end: null
+  location_in_record: ch23:19046-19210
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 91934634-abe5-4050-be97-c921f0ff53a2
+  claim_hash: 0abec407932724e745d23b6a5cea2d61381cab1a78069a0406a9a0ca0c685314
+  content: The United States Army allowed the use of its historical data, laboratories
+    and scientists to test the alleged Art's Parts metamaterials samples under the
+    Cooperative Research and Development Agreement between To The Stars Academy of
+    Arts & Sciences and the US Army.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narrator
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ab5988e-2f69-4938-8ed9-72e00bd92150
+    title: Cooperative Research and Development Agreement (CRADA) between To The Stars
+      Academy of Arts & Sciences (TTSA) and US Army
+    slug: cooperative-research-and-development-agreement-crada-between-to-the-stars-academy-of-arts-sciences-ttsa-and-us-army
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
+    title: Art's Parts (alleged Roswell metal samples)
+    slug: arts-parts-alleged-roswell-metal-samples
+  date: null
+  date_end: null
+  location_in_record: ch23:23348-23493
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: cd0cbc60-c268-46de-b5d5-7f1870cec471
+  claim_hash: 44b9f9e955c49bf2fc45e5636ac7e44f09f21f614dad3960f44b1292c424c754
+  content: Linda Moulton Howe took a phone call from the anonymous letter writer,
+    who explained he was serving in the US Army and was heading to the Middle East,
+    and wanted her to know in case he did not make it back alive.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+    title: Linda Moulton Howe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Linda Moulton Howe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
+    title: A Friend (anonymous army sergeant)
+    slug: a-friend-anonymous-army-sergeant
+  - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+    title: Linda Moulton Howe
+    slug: linda-moulton-howe
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch23:3911-4131
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: fbe357d8-af29-4fa1-b676-e4819f6eb946
+  claim_hash: ad6f44c252e1d6b4755612162c43ec49751383d3af336a5eeba9387d108b6f7a
+  content: John Greenewald reported via The Black Vault on 2019-10-18 that the US
+    Army had released its agreement with To The Stars Academy of Arts & Sciences.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: John Greenewald
+    relay:
+    - The Black Vault
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+    title: The Black Vault
+    slug: the-black-vault
+  - node_id: 6ab5988e-2f69-4938-8ed9-72e00bd92150
+    title: Cooperative Research and Development Agreement (CRADA) between To The Stars
+      Academy of Arts & Sciences (TTSA) and US Army
+    slug: cooperative-research-and-development-agreement-crada-between-to-the-stars-academy-of-arts-sciences-ttsa-and-us-army
+  - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+    title: John Greenewald
+    slug: john-greenewald
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: '2019-10-18'
+  date_end: null
+  location_in_record: ch34:51759-51881
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 4d0c03f2-5f51-4884-b6de-467411880fa9
+  claim_hash: d4883687fee157a9a954306a6b04946e5dff90359c7f5a5064e9bd4cd0a42305
+  content: At midday on 8 July 1947, Colonel William Blanchard ordered his base public
+    information officer Lieutenant Walter Haut to issue a press release announcing
+    that the US Army had recovered a flying disc.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch7:11681-11874
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 334d0cb9-3756-4a41-bf09-c556d63c8b6d
+  claim_hash: 95a9246b6cc17ac86748e4a9eef6dd1ccc878e582b1400ad864cd80b4a6c0ee4
+  content: The US Army never actually stated that the recovered object was a 'flying
+    saucer'; it only referred to it as a 'disc'.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: 1947-07
+  date_end: null
+  location_in_record: ch7:12377-12460
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 0d000272-c680-4ae9-87ce-aa496e3be833
+  claim_hash: 89405cb24fdf3c91e22bcd88e7a9049c5bc82758c913fcd84c21aa7bb7a450dc
+  content: The initial press release issued by the US Army on the Roswell incident
+    clearly referred to a recovered 'flying disc'.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch7:15472-15560
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e93865cd-c1f5-4801-a8ae-6916d0dd3d0b
+  claim_hash: 464c821f73fb89063a0eae3f0eddf0416786857d475c80ab278f1698d2ae6070
+  content: The United States Army was forced to admit in 1947 that it had no idea
+    what the flying discs were.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: United States Army
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: '1947'
+  date_end: null
+  location_in_record: ch7:8054-8112
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 863ee149-dab3-44ce-a30a-9eb766283745
+  claim_hash: ba53d091a06eafc74f03904d0bfe31319324557c38b4e0710b813447780babc2
+  content: The United States Army conducted the world's first-ever detonation of the
+    Trinity nuclear device at White Sands, New Mexico, on 16 July 1945.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
+    title: USA, New Mexico, White Sands
+    slug: new-mexico-white-sands-usa
+  - node_id: 2d88d531-67ae-418c-824b-cb18c6fa867c
+    title: Trinity nuclear test
+    slug: trinity-nuclear-test
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: '1945-07-16'
+  date_end: null
+  location_in_record: ch7:9398-9537
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ca8ce4dd-73b6-41a1-b017-926ef93a487b
+  claim_hash: 2d2244117c0cf4f6e580267f1e6148a612090b364e95d65b88b297a1e830b6c1
+  content: The air force-controlled Project Sign investigation ran for one year.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: ch8:1320-1371
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 42eb3f4a-2e73-42ea-b624-5474223256e1
+  claim_hash: 1d4321c2f70537be1c770a13912848ab0ff6a22d0ebe87421c85b62b9a96099a
+  content: Karl E. Nell is a recently retired Army Colonel and current aerospace executive
+    who was the United States Army's liaison for the Unidentified Aerial Phenomena
+    Task Force from 2021 to 2022 and worked with David Charles Grusch there.
+  original_excerpt: Karl E. Nell, a recently retired Army Colonel and current aerospace
+    executive who was the Army’s liaison for the UAP Task Force from 2021 to 2022
+    and worked with Grusch there
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+    title: Unidentified Aerial Phenomena Task Force (UAPTF)
+    slug: unidentified-aerial-phenomena-task-force-uaptf
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  - node_id: e8254481-2ee6-4d24-861d-4aaa5f258693
+    title: Karl E. Nell
+    slug: karl-e-nell
+  date: null
+  date_end: null
+  location_in_record: char:3860-4029
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+- claim_id: bea31e22-ed15-4ef4-8434-4bdcee09b8df
+  claim_hash: acddbcfb9491df8fb2787e0d0cc4432414cbacac343164e3a67f46c8e84d9eba
+  content: The Central Intelligence Agency (CIA), United States Army, and Defense
+    Intelligence Agency (DIA) recruited people who claimed to have extrasensory perception
+    (ESP) to help uncover intelligence secrets.
+  original_excerpt: The CIA Army and Defense Intelligence Agency recruited people
+    who claimed to have extrasensory perception, otherwise known as ESP, to help them
+    uncover intelligence secrets.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+    title: extrasensory perception (ESP)
+    slug: extrasensory-perception-esp
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: 00:03:02.7-00:03:12.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 1243990d-fdaa-4615-82d8-e94b476d05b3
+  claim_hash: cd7abaf38f715fe09f9057839857f0bd543661aa3b2fc19d32a48c40b20453f0
+  content: Joseph McMoneagle helped the United States Army locate hostages in Iran.
+  original_excerpt: including helping the Army locate hostages in Iran
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: 00:06:46.0-00:06:48.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 9bd53a7a-30db-4e4c-b61d-91d4d1f3007a
+  claim_hash: 15d49e928fb7a4078dea883852b623f726a1ae531c602d3041bb7acd8ebbec0b
+  content: The Central Intelligence Agency (CIA)'s work on extrasensory perception
+    (ESP) concluded in the late 1970s, and the programme moved to the United States
+    Army's base at Fort Meade, Maryland.
+  original_excerpt: The CIA's work on ESP concluded in the late 1970s, and the program
+    moved to the US Army's Fort Meade in Maryland.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+    title: extrasensory perception (ESP)
+    slug: extrasensory-perception-esp
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: 00:06:58.2-00:07:05.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: a97304b7-f1fd-4f18-8f29-57e3f5828485
+  claim_hash: 479098c38a2350d04105df6cdb3a16a735d870c36ae60e3e36ed9411dcaee7eb
+  content: Ed Dames claims he was trained by Ingo Swann as a remote viewer in Project
+    Stargate while serving in the United States Army in the 1980s.
+  original_excerpt: a gentleman by the name of Major Ed Dames, a retired U.S. Army
+    major who claims that he was trained by Ingo Swann as a remote viewer in Project
+    Stargate while serving in the Army in the 80s
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Ed Dames
+    relay:
+    - narrator
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+    slug: ed-dames
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+    title: Ingo Swann
+    slug: ingo-swann
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: 00:23:47.1-00:23:58.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: dfc3201e-9e0e-43cc-a35a-1635c0618418
+  claim_hash: f3828d69ee25864758fa62e820bfe354f3bc031566e6baa87786a880eb062ead
+  content: Ed Dames is a retired United States Army major.
+  original_excerpt: a retired U.S. Army major
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narrator
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+    slug: ed-dames
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: 00:23:50.2-00:23:51.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 4db39899-5a7f-447b-98bc-13778b341d64
+  claim_hash: 2ee7634c4f11bf45e9611f15fcab92c0bfa220974143956147608a32c23c443e
+  content: Ed Dames was selected as one of five prototype Army members to be trained
+    by Ingo Swann in Project Stargate during 1983 and 1984.
+  original_excerpt: When I was selected as one of the five prototype members, Army
+    members, to be trained by Ingo Swann, my mentor, to whom I later became protege,
+    and that was 1983 and 1984.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ed Dames
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+    slug: ed-dames
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+    title: Ingo Swann
+    slug: ingo-swann
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: '1983'
+  date_end: null
+  location_in_record: 00:29:32.8-00:29:45.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 65f3c0ba-593f-4e5b-8b1c-869c090f0941
+  claim_hash: 30cc3e7d5c67e3d3738ac043a0df5fcb3ac8a267aea5693734b1f59a5749928c
+  content: Hal Puthoff told Ingo Swann that the United States Army was funding the
+    remote-viewing training.
+  original_excerpt: And Hal said, well, the army.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ed Dames
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: 00:30:03.4-00:30:05.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 3355b4af-a2aa-4985-8b74-2c90ae88e55b
+  claim_hash: d4bd78bf58831e896c18116062eb85fbcbe43013111d3d659123644238b2c474
+  content: Ingo Swann requested that army officers be sent to him to test whether
+    his remote-viewing structure would work with anyone.
+  original_excerpt: Send me some army officers, because theoretically, this structure
+    should work with everyone, everyone, this model, this structure.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ed Dames
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+    title: Ingo Swann
+    slug: ingo-swann
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: 00:30:12.1-00:30:20.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: eb786960-c8ff-47d8-b141-4763bf7634a7
+  claim_hash: c692452f4ad45a5db9a12c622119960fba148413b3219b9b6b8d503f00532a34
+  content: Lue Elizondo's career path had briefly crossed with Harold Puthoff's when
+    Elizondo was a young soldier in the United States Army, though Elizondo first
+    met Puthoff in person at the programme dinner in Roslyn, Virginia.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch10:2920-3061
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 492fab40-a43c-412f-aa69-9e3692da7395
+  claim_hash: 9cc6e245cd30f4724da71d8df6d47596dd9c6fd79da56eb4dc49b1023784478e
+  content: Luis Elizondo joined the United States Army after college.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch11:18361-18451
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: d92284f8-a4d1-42c7-9e74-0e1b83b6e126
+  claim_hash: 0e302f1fccd3516aeb26097de68967afd75054c962cc7928c9a7f60e7cb4f36c
+  content: Luis Elizondo enlisted as an Army grunt rather than accepting an officer
+    commission, to avoid being assigned to the medical corps against his preference.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch11:18588-18823
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: a3c1b9b2-31ea-45a7-a3f2-82e6f90a3e37
+  claim_hash: e60dbe52e7ed5473f9263c74ecbff6f039149dab5a592e9c9314c0cffe93382d
+  content: Luis Elizondo trained as an Army counterintelligence special agent, an
+    occupational specialty called a 97-Bravo.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch11:19045-19166
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 401e3469-162b-4ef8-b007-d932ff6cb9f6
+  claim_hash: 59d79117b15fd8a92e466e2dc85ce4a1a4179b4f68c5416aee5616857b43d8fa
+  content: Luis Elizondo was recommended by Lieutenant Colonel Michael Seage for a
+    position in the Army's "Great Skills" programme.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6afb5b29-88fb-4b5f-881d-f3028dae0ced
+    title: Great Skills program
+    slug: great-skills-program
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 89e520fe-7820-49a6-87d5-ac4a9b736c12
+    title: Michael Seage
+    slug: michael-seage
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch11:22235-22398
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: b8df682b-996e-4d42-8491-60057821e705
+  claim_hash: d77a068d79c716c4008240292ab9ca9d4272429b2ff570fe4ce32c867343211c
+  content: Eugene "Gene" Lessman was the lead recruiter for classified activities
+    within the United States Army.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7928b168-6841-44b4-8261-2c49f4a60918
+    title: Eugene Lessman
+    slug: eugene-lessman
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch11:22783-22893
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: aa34a830-e004-4b5f-b758-503a61671cb7
+  claim_hash: a2e9514df004ad8ae09cd2b8d7dc0d79a033df76f097143f74ad56fdce3c0f91
+  content: The Great Skills programme was a long-running Army intelligence programme
+    used to recruit young soldiers identified as having special talents, who were
+    trained and used as soldier spies.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6afb5b29-88fb-4b5f-881d-f3028dae0ced
+    title: Great Skills program
+    slug: great-skills-program
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch11:23881-24071
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: e8c070d5-4ac6-44ba-819c-23c27a5ae0a1
+  claim_hash: 1141f99dde992d8a770d6e5ba50cdef62a46876c359cd0984b5a1e2f057a3f3f
+  content: Eugene Lessman was a Military Intelligence Civilian Accepted Career Program
+    (MICACP) civilian intelligence case officer who worked for the United States Army.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7928b168-6841-44b4-8261-2c49f4a60918
+    title: Eugene Lessman
+    slug: eugene-lessman
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch11:24285-24441
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 6f78b7b7-14e5-4330-b73a-6f30fe156256
+  claim_hash: ae76d43b15bf30c4c0e08926910c30ca271fe01f0e8e6b95704d0c14f0aeb9af
+  content: Luis Elizondo's career journey began in a United States Army recruiter's
+    office in Miami, Florida in 1995.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 374cbd07-aff3-44c7-bccb-83fbb4de8601
+    title: USA, Florida, Miami
+    slug: florida-miami-usa
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: '1995'
+  date_end: null
+  location_in_record: ch11:307-373
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: f39e7f6f-dc6a-488f-b154-7965a0714503
+  claim_hash: 21b450f61eb19dda26cce84bd7f06dbaf622b0d0e06ef7174cf291070f1716dc
+  content: Government investigators initially assumed that the craft that crashed
+    at Roswell in 1947 was from another nation, possibly on a reconnaissance mission,
+    but within hours the United States Army determined the craft was not made by humans.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: be164183-f1cf-461d-be1d-53fc0b830a84
+    title: 1947 Roswell Unidentified Aerial Phenomena (UAP) crash
+    slug: 1947-roswell-unidentified-aerial-phenomena-uap-crash
+  date: null
+  date_end: null
+  location_in_record: ch12:15291-15523
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 25393fca-285a-4178-b591-06616dfa1a2c
+  claim_hash: 72cdf2eadd1f384ecb660b75cd333adfc92e934b329e3b9e468406e1094d7893
+  content: Neill Tipton previously served in the United States Army.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8bf407fb-5373-40d2-a251-4960a84f3e00
+    title: Neill Tipton
+    slug: neill-tipton
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:20875-20899
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 63ab8169-c960-4870-a766-9e2d7880fef9
+  claim_hash: 3c3a0aceabceb055512ea68dafe9e95e139be9b68e9ad154c11d4ec9af707696
+  content: Many of the patients in the second study group examined by Garry P. Nolan
+    had been associated with the elite military remote-viewing programme, and some
+    of the Army's psychic spies (remote viewers) had the same hyperdeveloped caudate-putamen
+    found in the UAP experiencers.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
+    title: caudate-putamen
+    slug: caudate-putamen
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+    title: Garry Nolan
+    slug: garry-nolan
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch18:18050-18367
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: b7b52b6e-ef15-415c-a455-e5b3632ae3d5
+  claim_hash: 9bf66dd80d9b2da26aa7e5499008b439351fe743ee4ae34dcedc3651bba11697
+  content: Luis Elizondo shared the Predator unmanned aerial vehicle (UAV) video with
+    Neill Tipton, who served as a liaison for the United States Army Intelligence,
+    Surveillance, and Reconnaissance (ISR) Task Force.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 435a9455-09bd-484b-a515-5ede8f27e97f
+    title: Predator unmanned aerial vehicle (UAV)
+    slug: predator-unmanned-aerial-vehicle-uav
+  - node_id: 4ccf115a-a4e3-4f63-90d9-5e9d4ae38efa
+    title: Intelligence, Surveillance, and Reconnaissance (ISR)
+    slug: surveillance-and-reconnaissance-isr-intelligence
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 8bf407fb-5373-40d2-a251-4960a84f3e00
+    title: Neill Tipton
+    slug: neill-tipton
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch23:20930-21110
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 9cc673a4-a488-4759-87b3-44631dbeb1fc
+  claim_hash: 572f29fa8cd4b126bed81c3268fbca5307602675864589ac8fe0b128cc487322
+  content: The year before the USS Roosevelt UAP incursions, in 2014, an Army Patriot
+    missile battery on the Atlantic coast tracked multiple unidentified objects on
+    radar reaching speeds of approximately 9,700 kilometres per hour.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: second_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: named
+    origin: then director of Army counterintelligence
+    relay:
+    - an Army investigation report reviewed by Lue Elizondo
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4e111457-ef0f-4e1c-a7fd-f993840f4647
+    title: USA, Virginia, Atlantic coast Patriot missile battery incident
+    slug: virginia-atlantic-coast-patriot-missile-battery-incident-usa
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: '2014'
+  date_end: null
+  location_in_record: ch23:8943-9114
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 382dcf86-b61b-4f12-b1aa-f04c6c4e9d05
+  claim_hash: 46322fb31bd14924db1ada8495cef50e92831087be6fc1c9f8a792be1203dec2
+  content: During his time working Army investigations, Lue Elizondo was aware of
+    one report of the 2014 Patriot missile battery incident that was later opened
+    by the Army under the oversight of the then-director of counterintelligence.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4e111457-ef0f-4e1c-a7fd-f993840f4647
+    title: USA, Virginia, Atlantic coast Patriot missile battery incident
+    slug: virginia-atlantic-coast-patriot-missile-battery-incident-usa
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch23:9120-9276
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: bc8f0767-1189-44e2-9e1f-0f78467e8962
+  claim_hash: bfee0edb5462c54b9cdc54ba82ae69bc218a8c15600b947a611d6d256c5b0cac
+  content: Lue Elizondo underwent United States Army basic training in 1995.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: '1995'
+  date_end: null
+  location_in_record: ch37:872-896
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: a729d600-220f-4b41-8288-bb3932b20f68
+  claim_hash: a83a60f76c3f28a3751968525c69318a42c1c4d77170a47c91abcf110ce89417
+  content: Luis Elizondo is a United States Army veteran.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch38:528-553
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: a95e6ac6-8e89-403c-8c94-e98b8a474c8e
+  claim_hash: 388e2d639dbdedcac64144cd877f4565892c7a4b80c4ea3d1b4c89e8664ce54a
+  content: Luis Elizondo joined the United States Army in his twenties and was recruited
+    into various sensitive programs in military intelligence.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch9:115-214
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 50728311-7d99-417e-9fde-91d15f81b7fb
+  claim_hash: 4dafe9a1a771c02d42f07bcd72ea466fe896fb206ecfe3d7e8cbcb81efab366e
+  content: The United States Army investigated the 1964 Lonnie Zamora UAP encounter
+    at Socorro, New Mexico.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: 1964-04
+  date_end: null
+  location_in_record: ch9:140-147
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 161228c9-a9aa-400d-b773-71535b27d3e0
+  claim_hash: daf8c254fa554526ebe09316285fa6f8a4a4c91b2dc3863137e709e5e14890e8
+  content: United States Army personnel use the United States Air Force's Marauder
+    system to document and report Unidentified Anomalous Phenomena (UAP) observations
+    because the Army has not developed its own UAP-specific processes.
+  original_excerpt: An Army Senior Advisor for Science and Technology and Innovation
+    stated that Army personnel also use the Air Force's Marauder system to document
+    and report UAP observations because the Army has not developed its own UAP-specific
+    processes.
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: an Army Senior Advisor for Science and Technology and Innovation
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 667c722c-f328-401d-bd82-32c24ee21b9e
+    title: Marauder system
+    slug: marauder-system
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: char:15935-16164
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+    record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of
+      the DoD's Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+    record_date: '2024-01-24'
+    record_reference: null
+    content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+    friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+- claim_id: 63b1526c-a4b6-4214-950e-85ccce69df5f
+  claim_hash: aadaed06a1c7a4cb707242f79df8554ea8deaecf81fa0539730945f9f60cdf94
+  content: The Inspector General, U.S. Department of Defense interviewed senior officials
+    and requested unidentified anomalous phenomena-related data and organisational
+    policies, procedures, and guidance from the Office of the Under Secretary of Defense
+    for Intelligence and Security, the All-domain Anomaly Resolution Office, the Military
+    Services, the Military Service Intelligence Components, the Military Department
+    Counterintelligence Organizations, and defense intelligence agencies.
+  original_excerpt: 'We interviewed senior officials and requested UAP-related data
+    and organizational policies, procedures, and guidance from the following DoD organizations:
+    OUSD(I&S), AARO, Military Services (Departments of the Army, Navy, and Air Force),
+    Military Service Intelligence Components (Army G2, Navy N2, Air Force A2), MDCOs
+    (Army Counterintelligence, Naval Criminal Investigative Service, Office of Special
+    Investigations), Defense intelligence agencies (Defense Intelligence Agency, National
+    Geospatial-Intelligence Agency, National Reconnaissance Office, and National Security
+    Agency)'
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: a1d5db17-aa7c-4fe0-9ff4-a55f2ebb4617
+    title: Inspector General, U.S. Department of Defense
+  provenance_chain:
+    origin_kind: speaker
+    origin: Inspector General, U.S. Department of Defense
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+    title: National Security Agency (NSA)
+    slug: national-security-agency-nsa
+  - node_id: 532f6b67-033c-43ab-8d64-b51becd65ac3
+    title: Army G2
+    slug: army-g2
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 68471186-0d1f-403a-9743-bdbc52c4e35e
+    title: Navy N2
+    slug: navy-n2
+  - node_id: 6ebf5277-bf0b-4a45-8edc-1fe389bf9933
+    title: Air Force A2
+    slug: air-force-a2
+  - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+    title: National Geospatial-Intelligence Agency (NGA)
+    slug: national-geospatial-intelligence-agency-nga
+  - node_id: 9552713a-c80e-4b66-9a3e-79cb79130430
+    title: Army Counterintelligence
+    slug: army-counterintelligence
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+    title: National Reconnaissance Office (NRO)
+    slug: national-reconnaissance-office-nro
+  - node_id: a1d5db17-aa7c-4fe0-9ff4-a55f2ebb4617
+    title: Inspector General, U.S. Department of Defense
+    slug: us-department-of-defense-inspector-general
+  - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+    title: Air Force Office of Special Investigations (AFOSI)
+    slug: air-force-office-of-special-investigations-afosi
+  - node_id: cfbfa70c-2477-411c-ab84-994f2dcf6caf
+    title: Naval Criminal Investigative Service (NCIS)
+    slug: naval-criminal-investigative-service-ncis
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    slug: all-domain-anomaly-resolution-office-aaro
+  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+  date: null
+  date_end: null
+  location_in_record: char:26132-26714
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+    record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of
+      the DoD's Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+    record_date: '2024-01-24'
+    record_reference: null
+    content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+    friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+- claim_id: 834f7e66-cd49-44af-9a8a-37a1e109098a
+  claim_hash: 8fc2cb79f10483ad614ffdea5f457704d7cd04a74a2d81eb11e19c2ef88010b5
+  content: Person 5 and Interviewees 3, 9 and 14 were involved with alleged crashed
+    UAP materials that were provided to the United States Army and subsequently to
+    the All-Domain Anomaly Resolution Office (AARO) for examination.
+  original_excerpt: Person 5 and Interviewees 3, 9 and 14 were involved with the alleged
+    crashed UAP materials that were provided to the U.S. Army and subsequently to
+    AARO for examination.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: AARO case files
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    slug: all-domain-anomaly-resolution-office-aaro
+  date: null
+  date_end: null
+  location_in_record: char:104903-105059
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 0683b7a3-bd68-490e-8f93-9288e092cfb5
+  claim_hash: 77120dfc5b40c53546e90d5307e1acc55dae81651c3692e7e7c3bcc9752dcab2
+  content: The United States Army and United States Air Force took over the Avrocar
+    project in 1958 when Avro offered it to the United States Government, when it
+    became known as "Project Silver Bug."
+  original_excerpt: The U.S. Army and U.S. USAF took over the project in 1958 when
+    Avro offered it to the USG, when it became known as "Project Silver Bug."
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0ecf8bed-cb11-401a-b410-b581024d58c9
+    title: VZ-9AV Avrocar
+    slug: vz-9av-avrocar
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 5265a776-fdb7-4644-971b-e580e2539561
+    title: Project Silver Bug
+    slug: project-silver-bug
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: '1958'
+  date_end: null
+  location_in_record: char:125063-125194
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: ae1df897-03ee-4353-b4a9-732f817a7ddd
+  claim_hash: a0b5c50484f2e7f3fc1d66f772fe04e349164937517df3428ddb9ef56a9d9078
+  content: The Predator UAV was initially a joint United States Navy and United States
+    Army project but transitioned to the United States Air Force in 1996.
+  original_excerpt: It was initially a joint USN and U.S. Army project but transitioned
+    to the USAF in 1996.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 435a9455-09bd-484b-a515-5ede8f27e97f
+    title: Predator unmanned aerial vehicle (UAV)
+    slug: predator-unmanned-aerial-vehicle-uav
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: '1996'
+  date_end: null
+  location_in_record: char:137828-137911
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 7e5a44c6-8caa-4cc2-941b-b53acae30caa
+  claim_hash: 328aa6666f1929b1b84d0eca67b5596fe6c6b93d16b1b6b03ffedbff5ccb3940
+  content: The All-Domain Anomaly Resolution Office concluded that a sample from an
+    alleged crashed off-world spacecraft, acquired from a private UAP investigating
+    organisation and the United States Army, is a manufactured, terrestrial alloy
+    and does not represent off-world technology or possess any exceptional qualities.
+  original_excerpt: AARO has concluded that a sample from an alleged crashed off-world
+    spacecraft that AARO acquired from a private UAP investigating organization and
+    the U.S. Army is a manufactured, terrestrial alloy and does not represent off-world
+    technology or possess any exceptional qualities.
+  claim_type: measurement
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: All-Domain Anomaly Resolution Office (AARO)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    slug: all-domain-anomaly-resolution-office-aaro
+  date: null
+  date_end: null
+  location_in_record: char:9297-9566
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 22ea65b8-0ffc-4d2b-b09b-527871d8f127
+  claim_hash: 8ed63f650653b2a5cd3f8fdfa5979e434de29a6bb222e9c209a1770ea6df5f48
+  content: The organisation that owned the alleged extraterrestrial material negotiated
+    an agreement in 2019 with the United States Army to analyse the samples.
+  original_excerpt: The organization that owned the material negotiated an agreement
+    in 2019 with the U.S. Army to analyze the samples.
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: All-Domain Anomaly Resolution Office (AARO)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: '2019'
+  date_end: null
+  location_in_record: char:93989-94096
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: cbf6e493-cdfa-472d-bc0d-6319d0df0d97
+  claim_hash: c5373371dfc15674f89b3a5b08dd42f51fed9bd76c02b4adcaef57744da07991
+  content: The United States Army conducted its own in-house analysis on the sample,
+    and while AARO generally agrees with its conclusions, AARO found the structure
+    was not purely layered magnesium alloy and bismuth.
+  original_excerpt: The U.S. Army had also conducted in-house analysis on the sample,
+    and while AARO generally agrees with its conclusions, AARO found that the structure
+    was not purely layered magnesium alloy and bismuth.
+  claim_type: measurement
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: All-Domain Anomaly Resolution Office (AARO)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    slug: all-domain-anomaly-resolution-office-aaro
+  date: null
+  date_end: null
+  location_in_record: char:94574-94767
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 879880a5-ca0f-4fa0-9c4f-1003cc93e130
+  claim_hash: 829afcc0361c3ce784a03042a7e0d980dff55b4edfb0fa340c074ddc2b24d822
+  content: Jason Reza Jorjani, in his November 2025 American Alchemy interview, said
+    retired United States Army remote viewer Lyn Buchanan told him the Central Intelligence
+    Agency has backdoor access to consumer DNA databases such as Ancestry.com and
+    23andMe.
+  original_excerpt: he said that a retired Army remote viewer named Lynn Buchanan
+    who was part of the old Stargate psychic spying program, told him the CIA has
+    backdoor access to consumer DNA databases like Ancestry.com and 23andMe.
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: named
+    origin: Lyn Buchanan
+    relay:
+    - Jason Reza Jorjani on American Alchemy, November 2025
+    - Ross Coulthart
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0e4e60d0-a5df-461d-ac29-486f8eff8c50
+    title: Jason Reza Jorjani interview on American Alchemy, 2025-11
+    slug: 2025-11-jason-reza-jorjani-interview-on-american-alchemy
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 87827729-9da2-4cc4-963f-2595713f7ecc
+    title: 23andMe
+    slug: 23andme
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: a384e65a-f90f-4829-9bc0-cd87e84a56cf
+    title: Jason Reza Jorjani
+    slug: jason-reza-jorjani
+  - node_id: a425ba71-331c-43f9-8c71-4be9bb6a23d0
+    title: Lyn Buchanan
+    slug: lyn-buchanan
+  - node_id: f57d0092-3d34-4abf-9c69-ec82f0a59b9b
+    title: Ancestry.com
+    slug: ancestrycom
+  date: 2025-11
+  date_end: null
+  location_in_record: 00:02:50.8-00:03:08.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+    friendly_name: null
+- claim_id: 80d52e8e-0eaf-44e1-901a-7d504374cd44
+  claim_hash: 8654992c692544426890e3b579989b0bbb9d9438c4bcfcdddb35769408cc8a24
+  content: Lyn Buchanan is a retired United States Army remote viewer who was part
+    of the Stargate Project psychic spying programme.
+  original_excerpt: a retired Army remote viewer named Lynn Buchanan who was part
+    of the old Stargate psychic spying program
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: unattributed
+    origin: Ross Coulthart's narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: a425ba71-331c-43f9-8c71-4be9bb6a23d0
+    title: Lyn Buchanan
+    slug: lyn-buchanan
+  - node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
+    title: The Stargate Project
+    slug: the-stargate-project
+  date: null
+  date_end: null
+  location_in_record: 00:02:51.7-00:02:58.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+    friendly_name: null
+- claim_id: cd496a07-2cf3-4961-b633-183e222b1f2a
+  claim_hash: b658b65f2c493e37bf1efde5f04a5fb359de01671d7a034a6a1246e6c48fb918
+  content: Paul H. Smith is a former major in the United States Army and was one of
+    the principals of the United States Army's Stargate Project.
+  original_excerpt: Dr. Paul Smith, a former major in the US Army, who was one of
+    the principals of the US Army Stargate program.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: unattributed
+    origin: Ross Coulthart's narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2fb38d8e-5dc9-429c-a03e-e7573f67e4a0
+    title: Paul Smith
+    slug: paul-smith
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
+    title: The Stargate Project
+    slug: the-stargate-project
+  date: null
+  date_end: null
+  location_in_record: 00:05:16.4-00:05:24.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+    friendly_name: null
+- claim_id: 1ebdd11f-4d8d-4e11-9417-37d6a2f0b9c1
+  claim_hash: f64eda7cd9ea21aff6dd17f5dd1f64f40118c7570a35127bce34abb407e9c02c
+  content: Julia Mossbridge believes the male counsellor in her childhood programme
+    was the husband of the female counsellor and had been a boot camp sergeant in
+    the United States Army.
+  original_excerpt: And I think it was her husband. And I think it was the counselor's
+    husband who had literally been a boot camp sergeant in the Army
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: 00:32:16.4-00:32:28.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null

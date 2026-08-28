@@ -1,0 +1,366 @@
+schema: anomalica/brief/1
+brief_hash: f68f652208c85290127d7d85f80012fadd8eb046cb05120252010e61e84cd348
+page:
+  kind: entity
+  node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+  node_type: person
+  title: Matthew Brown
+  slug: matthew-brown
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 20328e3c-bc7e-4529-82d9-3e7b5bcac165
+  title: Director's Initiatives Group (DIG)
+  node_type: project
+  slug: directors-initiatives-group-dig
+  shared_claims: 6
+- node_id: 02026294-d8bb-4074-a980-79d34fc5c74b
+  title: Department of War
+  node_type: organisation
+  slug: department-of-war
+  shared_claims: 1
+- node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+  title: Office of the Director of National Intelligence (ODNI)
+  node_type: organisation
+  slug: office-of-the-director-of-national-intelligence-odni
+  shared_claims: 1
+- node_id: 0e69b540-799b-4bbe-b21c-6f546b032903
+  title: USA, Virginia, Liberty Crossing Intelligence Campus
+  node_type: place
+  slug: virginia-liberty-crossing-intelligence-campus-usa
+  shared_claims: 1
+claims:
+- claim_id: 290e6613-6d78-4e56-b313-db404b08729a
+  claim_hash: 43ceec018d22863c4f8f5d56f5a331f2e54a848d87ff5506f20f18475eb8de8c
+  content: The Director's Initiatives Group conducted its own inquiry into UAP-related
+    allegations and met privately with whistleblower Matthew Brown at the Liberty
+    Crossing Intelligence Campus in Virginia.
+  original_excerpt: the group conducted its own inquiry into UAP-related allegations
+    and met privately with whistleblower Matthew Brown at the Liberty Crossing Intelligence
+    Campus in Virginia.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: a prior Liberation Times report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0e69b540-799b-4bbe-b21c-6f546b032903
+    title: USA, Virginia, Liberty Crossing Intelligence Campus
+    slug: virginia-liberty-crossing-intelligence-campus-usa
+  - node_id: 20328e3c-bc7e-4529-82d9-3e7b5bcac165
+    title: Director's Initiatives Group (DIG)
+    slug: directors-initiatives-group-dig
+  - node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+    title: Matthew Brown
+    slug: matthew-brown
+  date: null
+  date_end: null
+  location_in_record: char:3491-3654
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
+      Times | Reimagining Old News
+    record_date: '2026-08-11'
+    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+    friendly_name: null
+- claim_id: b31c2c11-764e-4de1-ba49-2ebc05223f54
+  claim_hash: 39b7a67f8bceb57bb40bdd54b6772325b619a8b31a7f42655a876cebd7514483
+  content: Matthew Brown said he had been approached by the individual leading the
+    Director's Initiatives Group's effort and invited to provide information about
+    his experiences.
+  original_excerpt: Brown said he had been approached by the individual leading the
+    effort and invited to provide information about his experiences.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+    title: Matthew Brown
+  provenance_chain:
+    origin_kind: speaker
+    origin: Matthew Brown
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 20328e3c-bc7e-4529-82d9-3e7b5bcac165
+    title: Director's Initiatives Group (DIG)
+    slug: directors-initiatives-group-dig
+  - node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+    title: Matthew Brown
+    slug: matthew-brown
+  date: null
+  date_end: null
+  location_in_record: char:3664-3780
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
+      Times | Reimagining Old News
+    record_date: '2026-08-11'
+    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+    friendly_name: null
+- claim_id: 2639981d-ecaf-415c-981a-cf770eccd94e
+  claim_hash: 82a79b52f13988dfcae1f3edef15a3094aba23dedfee2480af447c848a8c1cbd
+  content: Matthew Brown considers that the Director's Initiatives Group did not appear
+    focused on the substance of what he was saying during their meeting.
+  original_excerpt: According to Brown, the group did not appear focused on the substance
+    of what he was saying.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+    title: Matthew Brown
+  provenance_chain:
+    origin_kind: speaker
+    origin: Matthew Brown
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 20328e3c-bc7e-4529-82d9-3e7b5bcac165
+    title: Director's Initiatives Group (DIG)
+    slug: directors-initiatives-group-dig
+  - node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+    title: Matthew Brown
+    slug: matthew-brown
+  date: null
+  date_end: null
+  location_in_record: char:3794-3879
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
+      Times | Reimagining Old News
+    record_date: '2026-08-11'
+    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+    friendly_name: null
+- claim_id: 84faebb1-208d-487f-8c6b-f8eb1475cd32
+  claim_hash: 1a3cde8b983049dcc05b355d37afd61077601fff669807d560f389ada5e55660
+  content: Matthew Brown felt that the Director's Initiatives Group was more interested
+    in learning which classified compartments and sub-compartments he had accessed
+    than in the substance of his account.
+  original_excerpt: Instead, he felt they were more interested in learning which classified
+    compartments and sub-compartments he had accessed.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+    title: Matthew Brown
+  provenance_chain:
+    origin_kind: speaker
+    origin: Matthew Brown
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 20328e3c-bc7e-4529-82d9-3e7b5bcac165
+    title: Director's Initiatives Group (DIG)
+    slug: directors-initiatives-group-dig
+  - node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+    title: Matthew Brown
+    slug: matthew-brown
+  date: null
+  date_end: null
+  location_in_record: char:3888-4001
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
+      Times | Reimagining Old News
+    record_date: '2026-08-11'
+    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+    friendly_name: null
+- claim_id: bcdaaf49-2b46-4b14-949a-c2b781ae0b05
+  claim_hash: 728c0436bd511c50dfd65b2b96716f062b63d65b6f4bdf4082dca59a64156bfb
+  content: Matthew Brown was left with the impression that the Director's Initiatives
+    Group wanted to work out how he knew what he knew and stop similar disclosures
+    from happening again.
+  original_excerpt: This left him with the impression that they wanted to work out
+    how he knew what he knew and stop similar disclosures from happening again.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+    title: Matthew Brown
+  provenance_chain:
+    origin_kind: speaker
+    origin: Matthew Brown
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 20328e3c-bc7e-4529-82d9-3e7b5bcac165
+    title: Director's Initiatives Group (DIG)
+    slug: directors-initiatives-group-dig
+  - node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+    title: Matthew Brown
+    slug: matthew-brown
+  date: null
+  date_end: null
+  location_in_record: char:4012-4144
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
+      Times | Reimagining Old News
+    record_date: '2026-08-11'
+    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+    friendly_name: null
+- claim_id: 621271ab-043c-4d66-903e-62296874b0e3
+  claim_hash: 826058b47b27e5d01c8ec549c28645480f24919b38a2047c2bdf89309d50bdae
+  content: Matthew Brown believes his interaction with the Director's Initiatives
+    Group led to him being wrongly labelled antisemitic.
+  original_excerpt: Brown believes this led to him being wrongly labelled antisemitic.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+    title: Matthew Brown
+  provenance_chain:
+    origin_kind: speaker
+    origin: Matthew Brown
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 20328e3c-bc7e-4529-82d9-3e7b5bcac165
+    title: Director's Initiatives Group (DIG)
+    slug: directors-initiatives-group-dig
+  - node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+    title: Matthew Brown
+    slug: matthew-brown
+  date: null
+  date_end: null
+  location_in_record: char:4152-4206
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
+      Times | Reimagining Old News
+    record_date: '2026-08-11'
+    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+    friendly_name: null
+- claim_id: 89766f51-a698-42f9-988e-121d3f1145d5
+  claim_hash: 00f3be29df19ead17b7b2f6811cf2e0bc7c784252b711538f59b83db8806edfb
+  content: Matthew Brown denied the claims that he was antisemitic and believed they
+    formed part of an attempt to discredit him.
+  original_excerpt: Brown denied those claims and believed they formed part of an
+    attempt to discredit him.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+    title: Matthew Brown
+  provenance_chain:
+    origin_kind: speaker
+    origin: Matthew Brown
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+    title: Matthew Brown
+    slug: matthew-brown
+  date: null
+  date_end: null
+  location_in_record: char:4220-4303
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
+      Times | Reimagining Old News
+    record_date: '2026-08-11'
+    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+    friendly_name: null
+- claim_id: 3f851c33-8943-4bcc-b840-6da222dacfd5
+  claim_hash: 8ec612c0a1e02ba733895446f6e66217ac79a0b3f0b7ca91f74ab444641cdfb5
+  content: The Office of the Director of National Intelligence's statement did not
+    directly address whether information from Matthew Brown's meeting had been disclosed
+    or whether ODNI was examining the allegation.
+  original_excerpt: The statement did not directly address whether information from
+    Brown’s meeting had been disclosed or whether ODNI was examining the allegation.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+    title: Christopher Sharp
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+    title: Office of the Director of National Intelligence (ODNI)
+    slug: office-of-the-director-of-national-intelligence-odni
+  - node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+    title: Matthew Brown
+    slug: matthew-brown
+  date: null
+  date_end: null
+  location_in_record: char:4749-4882
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+    record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation
+      Times | Reimagining Old News
+    record_date: '2026-08-11'
+    record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+    content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+    friendly_name: null
+- claim_id: e774b5e2-801e-4df9-9c1a-49bc403dcc79
+  claim_hash: a8f7ec04242ce5d7a0bf47b0948a36cbaccefce2e9cbeb3f85c5df2d2e55b570
+  content: Matthew Brown is a former Department of War official.
+  original_excerpt: Matthew Brown, a former Department of War official
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 02026294-d8bb-4074-a980-79d34fc5c74b
+    title: Department of War
+    slug: department-of-war
+  - node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+    title: Matthew Brown
+    slug: matthew-brown
+  date: null
+  date_end: null
+  location_in_record: char:2390-2490
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+    record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify
+      Their Push
+    record_date: '2026-08-19'
+    record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+    content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+    friendly_name: null

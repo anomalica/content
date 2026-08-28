@@ -1,0 +1,641 @@
+schema: anomalica/brief/1
+brief_hash: b77d69ec39ee15d8daec028b8ba403dc034a67924697436fef37bbf55f95d80a
+page:
+  kind: entity
+  node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+  node_type: person
+  title: Christopher Sherwood
+  slug: christopher-sherwood
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 10
+- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+  title: Advanced Aerospace Threat Identification Program (AATIP)
+  node_type: project
+  slug: advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 8
+- node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+  title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+  node_type: organisation
+  slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+  shared_claims: 3
+- node_id: c2161b8f-ab11-449c-8521-174024cb0552
+  title: USA, Washington DC, Pentagon
+  node_type: place
+  slug: washington-dc-pentagon-usa
+  shared_claims: 3
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 2
+- node_id: 238b529a-af82-4168-84e1-0698bb5cdcf2
+  title: Brad Byers
+  node_type: person
+  slug: brad-byers
+  shared_claims: 1
+- node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
+  title: Dana White
+  node_type: person
+  slug: dana-white
+  shared_claims: 1
+- node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+  title: F/A-18
+  node_type: object
+  slug: fa-18
+  shared_claims: 1
+- node_id: cec715ac-05d9-4eb4-b97a-dcbffb6bf2e5
+  title: Harry Reid memo to William Lynn III on Advanced Aerospace Threat Identification
+    Program (AATIP) Special Access Program status (2009-07-24)
+  node_type: document
+  slug: harry-reid-memo-to-william-lynn-iii-on-advanced-aerospace-threat-identification-program-aatip-special-access-program-status-2009-07-24
+  shared_claims: 1
+- node_id: 2881601e-e78d-4e34-88c5-7ffeb9ed98a8
+  title: Kari DeLonge email to John Greenewald re Advanced Aerospace Threat Identification
+    Program (AATIP)
+  node_type: document
+  slug: kari-delonge-email-to-john-greenewald-re-advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 1
+- node_id: 389a5fcc-7af0-4927-88fc-d6e111d21c06
+  title: The Intercept
+  node_type: organisation
+  slug: the-intercept
+  shared_claims: 1
+- node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+  title: To the Stars Academy of Arts and Science (TTSA)
+  node_type: organisation
+  slug: to-the-stars-academy-of-arts-and-science-ttsa
+  shared_claims: 1
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 1
+claims:
+- claim_id: 9ed24253-1ad0-4616-a6e2-59dbc1b46427
+  claim_hash: 89b06d12727e72a6f343b1efac515385c87a173ad6a4695ac654cd2b4b1d74f9
+  content: Pentagon spokesperson Christopher Sherwood said the F/A-18 cockpit videos
+    were released "for research purposes... and not for general public release."
+  original_excerpt: Sherwood, the Pentagon spokesperson, said the videos were released
+    “for research purposes … and not for general public release,”
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+  provenance_chain:
+    origin_kind: speaker
+    origin: Christopher Sherwood
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  - node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+    slug: christopher-sherwood
+  date: null
+  date_end: null
+  location_in_record: char:13050-13169
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+- claim_id: 0164fcb9-e959-43f2-a715-de7ca67dd7f2
+  claim_hash: e9f383daf11300c2441dc0f6e4efac8869448f521ea46e3ceff200284b38c066
+  content: Christopher Sherwood told Keith Kloor unequivocally that Luis Elizondo
+    had no responsibilities regarding the Advanced Aerospace Threat Identification
+    Program (AATIP) while he worked in the Office of the Under Secretary of Defense
+    for Intelligence (OUSDI).
+  original_excerpt: Sherwood, the Pentagon spokesperson who had told me unequivocally
+    that Elizondo “had no responsibilities with regard to the AATIP program while
+    he worked in OUSDI.”
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+  provenance_chain:
+    origin_kind: speaker
+    origin: Christopher Sherwood
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+    slug: christopher-sherwood
+  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+  date: null
+  date_end: null
+  location_in_record: char:16378-16535
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+- claim_id: 0d9b7e08-43cd-46c5-a1c2-a1a8efec5fbd
+  claim_hash: db980a9e48b0c27a3ab51bb50cb839b15fceebe3e3cd1a416908dcbaa478ad50
+  content: Christopher Sherwood said he had spoken with Office of the Under Secretary
+    of Defense for Intelligence (OUSDI) leadership, including individuals still there
+    from when Luis Elizondo started working in the office, in concluding Elizondo
+    had not worked for the Advanced Aerospace Threat Identification Program (AATIP).
+  original_excerpt: Sherwood said he’d spoken with OUSDI leadership, including individuals
+    who are “still there” from the time when Elizondo started working in the office.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+  provenance_chain:
+    origin_kind: speaker
+    origin: Christopher Sherwood
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+    slug: christopher-sherwood
+  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+  date: null
+  date_end: null
+  location_in_record: char:16759-16903
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+- claim_id: b717b19a-b27b-4382-adc0-f9c2be3d21a5
+  claim_hash: 9a32f93814b4d9e151a4cbe585ce6238bcb0cb7338ce00da8dcb75b164c0adef
+  content: Christopher Sherwood acknowledged that Luis Elizondo worked for other organisations
+    within the United States Department of Defense (DoD).
+  original_excerpt: Sherwood acknowledged that Elizondo “worked for other organizations
+    in DoD.”
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+  provenance_chain:
+    origin_kind: speaker
+    origin: Christopher Sherwood
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+    slug: christopher-sherwood
+  date: null
+  date_end: null
+  location_in_record: char:17025-17096
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+- claim_id: 65efb0c2-df6c-47e7-aed2-897a4b719c45
+  claim_hash: 71b46fd962ebd63732329cd4c2ca7e934ea4662129fa75ef5b187e8d5b7e2243
+  content: The Advanced Aerospace Threat Identification Program (AATIP) existed and
+    did pursue research and investigation into unidentified aerial phenomena (UAP).
+  original_excerpt: Yes, AATIP existed, and it “did pursue research and investigation
+    into unidentified aerial phenomena,” Pentagon spokesperson Christopher Sherwood
+    told me.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+  provenance_chain:
+    origin_kind: speaker
+    origin: Christopher Sherwood
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+    slug: christopher-sherwood
+  date: null
+  date_end: null
+  location_in_record: char:2135-2286
+  evidence:
+    score: null
+    independent_sources: 2
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+- claim_id: 36b2d290-0a81-491f-be1a-ce48bbc44eb3
+  claim_hash: f45312cbf7d29c211b93d2c0f073d1eff70e2ec681c7aa7f9ce29672bb156512
+  content: Luis Elizondo had no responsibilities with regard to the Advanced Aerospace
+    Threat Identification Program (AATIP) while he worked in the Office of the Under
+    Secretary of Defense for Intelligence (OUSDI), up until he resigned effective
+    2017-10-04.
+  original_excerpt: “Mr. Elizondo had no responsibilities with regard to the AATIP
+    program while he worked in OUSDI [the Office of Under Secretary of Defense for
+    Intelligence], up until the time he resigned effective 10/4/2017.”
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+  provenance_chain:
+    origin_kind: speaker
+    origin: Christopher Sherwood
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+    slug: christopher-sherwood
+  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+  date: '2017-10-04'
+  date_end: null
+  location_in_record: char:2310-2512
+  evidence:
+    score: null
+    independent_sources: 2
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+- claim_id: c98f8a22-b06c-4c95-8639-e6cd1c4e0694
+  claim_hash: 3fbc56f0ff56496c2e29c3b37d240007f34dca563774041adc72f4162aa7809e
+  content: Christopher Sherwood's statement that Luis Elizondo had no responsibilities
+    regarding the Advanced Aerospace Threat Identification Program (AATIP) directly
+    contradicts an email sent by a spokesperson for To The Stars Academy of Arts &
+    Science.
+  original_excerpt: That directly contradicts an email sent by a spokesperson for
+    To The Stars Academy of Arts & Science, a UFO research and entertainment company
+    that Elizondo joined after he left the Defense Department.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 09dcc0a6-2c02-4732-928c-6e43fd44748c
+    title: Keith Kloor
+  provenance_chain:
+    origin_kind: speaker
+    origin: Keith Kloor
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2881601e-e78d-4e34-88c5-7ffeb9ed98a8
+    title: Kari DeLonge email to John Greenewald re Advanced Aerospace Threat Identification
+      Program (AATIP)
+    slug: kari-delonge-email-to-john-greenewald-re-advanced-aerospace-threat-identification-program-aatip
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  - node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+    slug: christopher-sherwood
+  date: null
+  date_end: null
+  location_in_record: char:2520-2710
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+- claim_id: c9a6069b-9da7-4b8b-9621-ae66d3a22deb
+  claim_hash: f7fb0d988be7fb30b1ba364b5822c0b91e58d571bdfd325b879b49b9a07380fd
+  content: Pentagon spokesperson Christopher Sherwood said he cannot confirm Dana
+    White's statement that the Advanced Aerospace Threat Identification Program (AATIP)
+    existed and was run by Luis Elizondo.
+  original_excerpt: But Pentagon spokesperson Christopher Sherwood told me that he
+    “cannot confirm” White’s statement.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+  provenance_chain:
+    origin_kind: speaker
+    origin: Christopher Sherwood
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
+    title: Dana White
+    slug: dana-white
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+    slug: christopher-sherwood
+  date: null
+  date_end: null
+  location_in_record: char:7475-7563
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+- claim_id: 7d33cf7d-4534-459e-8e40-7a44cd1de185
+  claim_hash: 5152270f429313c0fbf0d0b5dac814287fdb0f038251655c27e71624feb0fa0e
+  content: The Pentagon's previous statement on Luis Elizondo's AATIP role, that the
+    2009 Harry Reid memo makes no change to, had been issued to The Intercept by Pentagon
+    spokesperson Christopher Sherwood.
+  original_excerpt: the content therein “makes no change” to their previous statement
+    issued by Pentagon spokesperson Mr. Christopher Sherwood to The Intercept.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 389a5fcc-7af0-4927-88fc-d6e111d21c06
+    title: The Intercept
+    slug: the-intercept
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: cec715ac-05d9-4eb4-b97a-dcbffb6bf2e5
+    title: Harry Reid memo to William Lynn III on Advanced Aerospace Threat Identification
+      Program (AATIP) Special Access Program status (2009-07-24)
+    slug: harry-reid-memo-to-william-lynn-iii-on-advanced-aerospace-threat-identification-program-aatip-special-access-program-status-2009-07-24
+  - node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+    slug: christopher-sherwood
+  date: null
+  date_end: null
+  location_in_record: char:3384-3514
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+    record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities”
+      on AATIP; Senator Harry Reid’s 2009 Memo Changes Nothing - The Black Vault
+    record_date: '2019-06-14'
+    record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+    content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+    friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+- claim_id: 33ca9ea9-b847-4fa9-aa48-c24729a18d66
+  claim_hash: a12ed1cdbda5ec003bbc1e9a00f123d2cf641f4d15792d7250c54ddc68baabe2
+  content: Pentagon spokesperson Christopher Sherwood denied that Lue Elizondo had
+    any involvement in the Advanced Aerospace Threat Identification Program (AATIP),
+    stating on behalf of the Pentagon that "Mr. Elizondo had no responsibilities with
+    regard to the AATIP program."
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+  provenance_chain:
+    origin_kind: named
+    origin: Christopher Sherwood
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+    title: USA, Washington DC, Pentagon
+    slug: washington-dc-pentagon-usa
+  - node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+    slug: christopher-sherwood
+  date: null
+  date_end: null
+  location_in_record: ch30:4525-4788
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: b0f1de96-3623-4d96-a9b7-35d625e22f0b
+  claim_hash: 4c7302012e0707cbc17e0f7f77436f2cee5d507e166c2a0d658881f236ffc7f6
+  content: Christopher Sherwood told reporters that the three UAP videos had been
+    cleared for research purposes only, not for public dissemination.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+  provenance_chain:
+    origin_kind: named
+    origin: Christopher Sherwood
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+    slug: christopher-sherwood
+  date: null
+  date_end: null
+  location_in_record: ch30:5441-5569
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: c21dc27c-f073-4f39-9a71-40461f63dedd
+  claim_hash: ae145984e1eb1735ff1fdf7e49b3a6667043e322fe08827dbfaefeffd8f36ea3
+  content: Christopher Sherwood admitted to Lue Elizondo that he knew about Elizondo's
+    role in the Advanced Aerospace Threat Identification Program (AATIP), but that
+    forces within the Pentagon had instructed him not to admit it.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+    title: USA, Washington DC, Pentagon
+    slug: washington-dc-pentagon-usa
+  - node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+    slug: christopher-sherwood
+  date: null
+  date_end: null
+  location_in_record: ch30:5705-5818
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 63e93ae5-6a1e-440f-aa69-a5546e92dfbf
+  claim_hash: 04bbf10e79ca9cdca894fde98a3dd308b0c2201e4c080ce49624dd7cd6cb4a9c
+  content: Brad Byers, working in the Secretary of Defense's office, called Christopher
+    Sherwood to express concern over the Pentagon's story about Lue Elizondo, warning
+    that too many senior people knew of Elizondo's role in the Advanced Aerospace
+    Threat Identification Program (AATIP).
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: named
+    origin: Brad Byers
+    relay:
+    - Christopher Sherwood
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 238b529a-af82-4168-84e1-0698bb5cdcf2
+    title: Brad Byers
+    slug: brad-byers
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+    title: USA, Washington DC, Pentagon
+    slug: washington-dc-pentagon-usa
+  - node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+    slug: christopher-sherwood
+  date: null
+  date_end: null
+  location_in_record: ch30:5936-6240
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted

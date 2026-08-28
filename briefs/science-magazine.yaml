@@ -1,0 +1,128 @@
+schema: anomalica/brief/1
+brief_hash: 049f6fd7ab6e651afd306d2f82b65b4a02d7be25da544f860929977197ab957b
+page:
+  kind: entity
+  node_id: 1968e1b3-21cc-4ad5-94fb-11d96334d388
+  node_type: organisation
+  title: Science (magazine)
+  slug: science-magazine
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 1
+claims:
+- claim_id: d70bfded-057b-4da4-9cb7-686f7b3363f7
+  claim_hash: 8a8b6dbc2887a0793932b7d12468b04c8ca4892b10a59be82acaa8dd40904c1e
+  content: Upon closer examination, the questions used in the Science News-reported
+    hypnosis study were intentionally leading and designed to evoke abduction memories.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: document
+    origin: Science News (magazine)
+    relay:
+    - Whitley Strieber
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1968e1b3-21cc-4ad5-94fb-11d96334d388
+    title: Science (magazine)
+    slug: science-magazine
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  date: null
+  date_end: null
+  location_in_record: ch10:2788-2975
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 7c709494-6ce5-43aa-980c-1f0ed9fa68b8
+  claim_hash: 1d4d197c6fac52865175eb1acc59994011b5930ab68a34de6b77388970808233
+  content: Science magazine reported an experiment in which kittens given a carefully
+    controlled visual pattern for their first few days of vision were subsequently
+    able to perform good visual discrimination only against the same pattern.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: document
+    origin: Science (magazine)
+    relay:
+    - quoted in a letter to Jacques Vallee from an astronomer colleague
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1968e1b3-21cc-4ad5-94fb-11d96334d388
+    title: Science (magazine)
+    slug: science-magazine
+  date: null
+  date_end: null
+  location_in_record: ch16:17426-17729
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: da5e130b-6123-4336-9a60-d0bc24816489
+  claim_hash: 5c2eb33a5fbd207955da69e4a25bc32ef9f3ce6df38a595dca463635e8cf2a61
+  content: Science magazine reported an experiment showing that natives unfamiliar
+    with large-scale rectilinear features such as cities and highways were unable
+    to interpret perspective in drawings.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: document
+    origin: Science (magazine)
+    relay:
+    - quoted in a letter to Jacques Vallee from an astronomer colleague
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1968e1b3-21cc-4ad5-94fb-11d96334d388
+    title: Science (magazine)
+    slug: science-magazine
+  date: null
+  date_end: null
+  location_in_record: ch16:17817-17989
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted

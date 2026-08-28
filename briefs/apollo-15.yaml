@@ -1,0 +1,699 @@
+schema: anomalica/brief/1
+brief_hash: 8f3e29059630a9e1686523c3154c865dfbc8967322daf1184ade5450c63c9e03
+page:
+  kind: entity
+  node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+  node_type: project
+  title: Apollo 15
+  slug: apollo-15
+  claim_count: 15
+  claim_count_total: 15
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 7
+- node_id: 9d743ff2-14e7-4d54-9cde-5d15273a05e4
+  title: AS15-88-12013 (Apollo 15 photograph)
+  node_type: document
+  slug: as15-88-12013-apollo-15-photograph
+  shared_claims: 3
+- node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
+  title: Al Worden
+  node_type: person
+  slug: al-worden
+  shared_claims: 3
+- node_id: 971a48fe-6eff-402a-bd73-42ec6730e389
+  title: David Scott
+  node_type: person
+  slug: david-scott
+  shared_claims: 3
+- node_id: e4a85eb5-33e0-48f2-8511-82dd1e210a94
+  title: Apollo 10
+  node_type: project
+  slug: apollo-10
+  shared_claims: 2
+- node_id: e008aef7-b18d-4042-9186-7821d48c7f15
+  title: Mare Crisium
+  node_type: place
+  slug: mare-crisium
+  shared_claims: 2
+- node_id: bb31f7ea-899c-4373-872c-8c326d325928
+  title: Apollo 16
+  node_type: project
+  slug: apollo-16
+  shared_claims: 1
+- node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+  title: Apollo 17 landing site, Taurus-Littrow
+  node_type: place
+  slug: taurus-littrow-apollo-17-landing-site
+  shared_claims: 1
+- node_id: cc81c235-c101-46bc-9b60-0d618973886f
+  title: Dark Mission (ebook)
+  node_type: document
+  slug: dark-mission-ebook
+  shared_claims: 1
+- node_id: 2b630661-212a-4eaa-86bc-47b006cbaa02
+  title: Falcon (Apollo 15 Lunar Module)
+  node_type: object
+  slug: falcon-apollo-15-lunar-module
+  shared_claims: 1
+- node_id: f25082a3-50ed-43ae-ac84-f99bc7ea460f
+  title: Lunar Crater Observation and Sensing Satellite (LCROSS)
+  node_type: object
+  slug: lunar-crater-observation-and-sensing-satellite-lcross
+  shared_claims: 1
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 1
+- node_id: db52f2e4-1c1a-46f8-b67c-df1c9d4e2957
+  title: Proclus (crater)
+  node_type: place
+  slug: proclus-crater
+  shared_claims: 1
+- node_id: d3cbac97-e4da-4a45-b804-5839568e8bd8
+  title: Sinus Medii
+  node_type: place
+  slug: sinus-medii
+  shared_claims: 1
+- node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
+  title: South Massif (Taurus-Littrow)
+  node_type: place
+  slug: south-massif-taurus-littrow
+  shared_claims: 1
+- node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+  title: The Spaceman
+  node_type: person
+  slug: the-spaceman
+  shared_claims: 1
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 1
+- node_id: e0f804d9-9b23-4bcd-9d7c-53e0d0531b05
+  title: Westinghouse Field Sequential Color Camera
+  node_type: object
+  slug: westinghouse-field-sequential-color-camera
+  shared_claims: 1
+claims:
+- claim_id: 5a54d9e2-6e25-4451-b54e-74dd7c1133a4
+  claim_hash: 41fe36052703ff56ad4b9eb6107958370fd0fe9b464d79561b8939f781736143
+  content: Al Worden was the Command Module Pilot for Apollo 11.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Al Worden
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
+    title: Al Worden
+    slug: al-worden
+  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+    title: Apollo 15
+    slug: apollo-15
+  date: null
+  date_end: null
+  location_in_record: ch11:293-329
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: b0d1923f-f1ae-456c-bba0-5c75f49343f0
+  claim_hash: 6922b7ef780162035c20877008aafdc3da7711e4ba32b15a5fba56804c63bcbc
+  content: Richard C. Hoagland considers Al Worden's description of a haze layer over
+    Mare Crisium to be visual confirmation, recorded by National Aeronautics and Space
+    Administration (NASA), of his lunar dome hypothesis.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 971a48fe-6eff-402a-bd73-42ec6730e389
+    title: David Scott
+    slug: david-scott
+  - node_id: e008aef7-b18d-4042-9186-7821d48c7f15
+    title: Mare Crisium
+    slug: mare-crisium
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+    title: Apollo 15
+    slug: apollo-15
+  date: null
+  date_end: null
+  location_in_record: ch11:85854-86031
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: d7e8fabb-7513-4e8b-993f-3a82bccdea38
+  claim_hash: 49b7e7aa9e6718d03aebc5dc6a8091498215442bacd1d9a7f942083632d604d5
+  content: Apollo 15 astronaut Al Worden, in his official Apollo 15 debriefing, described
+    ejecta from Proclus crossing Mare Crisium as appearing like flying above a haze
+    layer and looking down through it, as if suspended over it.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 971a48fe-6eff-402a-bd73-42ec6730e389
+    title: David Scott
+  provenance_chain:
+    origin_kind: named
+    origin: David Scott
+    relay:
+    - Apollo 15 official debriefing transcript
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 971a48fe-6eff-402a-bd73-42ec6730e389
+    title: David Scott
+    slug: david-scott
+  - node_id: db52f2e4-1c1a-46f8-b67c-df1c9d4e2957
+    title: Proclus (crater)
+    slug: proclus-crater
+  - node_id: e008aef7-b18d-4042-9186-7821d48c7f15
+    title: Mare Crisium
+    slug: mare-crisium
+  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+    title: Apollo 15
+    slug: apollo-15
+  date: null
+  date_end: null
+  location_in_record: ch11:99-286
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a7a637ad-d7ba-412a-b831-301a98b5a831
+  claim_hash: 18fdaa9ec5d44f85dec2b46f448f4de5765948aa6815f2b86c7e472ba8094b39
+  content: Richard C. Hoagland found that the Apollo 15 Lunar Module was named "Falcon,"
+    seemingly a reference to the United States Air Force Academy mascot, since Mission
+    Commander David Scott was a graduate of the Academy.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2b630661-212a-4eaa-86bc-47b006cbaa02
+    title: Falcon (Apollo 15 Lunar Module)
+    slug: falcon-apollo-15-lunar-module
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 971a48fe-6eff-402a-bd73-42ec6730e389
+    title: David Scott
+    slug: david-scott
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+    title: Apollo 15
+    slug: apollo-15
+  date: null
+  date_end: null
+  location_in_record: ch12:17833-18050
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 092f38c8-9aa5-4965-9bcc-f491dff8ae07
+  claim_hash: 0b0587771daeffc675ba5a1b3cacb9defecfd3abefbe2182e7f90cdc5491f030
+  content: Apollo 15 photograph AS15-88-12013, taken after Trans-Earth Injection looking
+    back toward the Moon, shows blue Rayleigh-scattered light encircling the Moon
+    similar to the atmospheric airglow limb seen on Earth.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9d743ff2-14e7-4d54-9cde-5d15273a05e4
+    title: AS15-88-12013 (Apollo 15 photograph)
+    slug: as15-88-12013-apollo-15-photograph
+  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+    title: Apollo 15
+    slug: apollo-15
+  date: null
+  date_end: null
+  location_in_record: ch14:50903-51101
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 62cf2c52-00dd-4a78-8676-f058abb70341
+  claim_hash: dcceb1a28c7555db03d61bfc0f52d6df5e6e1d4a9f08ee858982fe87db5be668
+  content: Identical rectilinear formations to those on the South Massif had been
+    seen and photographed by the crew of Apollo 15, which landed on the shores of
+    Mare Imbrium, west of Apollo 17.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
+    title: South Massif (Taurus-Littrow)
+    slug: south-massif-taurus-littrow
+  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+    title: Apollo 15
+    slug: apollo-15
+  date: null
+  date_end: null
+  location_in_record: ch19:56368-56565
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: aac8dcb5-bcb9-4906-b223-879371651bbd
+  claim_hash: 2ad735e29c8d2614fb1855d7640204463d2b7e4a9d1bfdf0cc1855d2ad77da27
+  content: On Apollo 15, 16, and 17, the Sequential Color Camera received a gamma
+    correction capability, and transmissions on those missions were run through a
+    bandwidth-limiting low-pass filter that reduced image quality.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    slug: taurus-littrow-apollo-17-landing-site
+  - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+    title: Apollo 16
+    slug: apollo-16
+  - node_id: e0f804d9-9b23-4bcd-9d7c-53e0d0531b05
+    title: Westinghouse Field Sequential Color Camera
+    slug: westinghouse-field-sequential-color-camera
+  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+    title: Apollo 15
+    slug: apollo-15
+  date: null
+  date_end: null
+  location_in_record: ch20:10573-10827
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: f139a06d-8293-48b0-bb2f-d42cf90dde0a
+  claim_hash: f2d9496c2d67e6579c18afded773018d08108f26ed57672215d5afc950e08894
+  content: Apollo 15 photograph AS15-88-12013 was taken after Trans-Earth Injection,
+    following the Service Module engine placing the combined Command/Service Module
+    on a lunar escape trajectory after a three-day mission to Hadley Rille.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9d743ff2-14e7-4d54-9cde-5d15273a05e4
+    title: AS15-88-12013 (Apollo 15 photograph)
+    slug: as15-88-12013-apollo-15-photograph
+  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+    title: Apollo 15
+    slug: apollo-15
+  date: null
+  date_end: null
+  location_in_record: ch20:16501-16806
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: bceab90a-3413-4674-8d7f-b79dac57f267
+  claim_hash: 12fa5b0b2c7344a20ec08b40e5ea868a5cb2c8d61ef19b96c862316aeae9569f
+  content: Apollo 15 photograph AS15-88-12013, taken looking back at the Moon after
+    Trans-Earth Injection, provides evidence, in Richard C. Hoagland's interpretation,
+    that much of the Moon's Earth-facing hemisphere was domed over, based on diffuse
+    sunlight scattering off remnants of glass-like domes.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9d743ff2-14e7-4d54-9cde-5d15273a05e4
+    title: AS15-88-12013 (Apollo 15 photograph)
+    slug: as15-88-12013-apollo-15-photograph
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+    title: Apollo 15
+    slug: apollo-15
+  date: null
+  date_end: null
+  location_in_record: ch20:16814-17115
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 08f7d2ff-f7ac-4076-bc91-f28e5cd5078c
+  claim_hash: af207487aa0ea6b8a5c0030b73a3e5379fad64b963c4e7b11824a85289c1961f
+  content: Richard C. Hoagland considers the Apollo 15 whole-Moon observation of light
+    scattering combined with close-up photographs of similar geometric glass "rebar"
+    structures photographed over Sinus Medii by the crew of Apollo 10 to provide two
+    independent confirmations of the same anomalous light-scattering phenomenon.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: d3cbac97-e4da-4a45-b804-5839568e8bd8
+    title: Sinus Medii
+    slug: sinus-medii
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  - node_id: e4a85eb5-33e0-48f2-8511-82dd1e210a94
+    title: Apollo 10
+    slug: apollo-10
+  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+    title: Apollo 15
+    slug: apollo-15
+  date: null
+  date_end: null
+  location_in_record: ch20:17651-18001
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 676db215-49c3-4a11-8aa0-5e90f0834ff8
+  claim_hash: 698285aee49b9a0e21b932e19323bdbf7984cb2b2d3860ec78b962df5e18ac5b
+  content: Richard C. Hoagland interprets the independent Apollo 15 and Apollo 10
+    observations as showing diffuse light scattering created by trillions of surviving
+    fragments from miles-high, glass-like lunar domes.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  - node_id: e4a85eb5-33e0-48f2-8511-82dd1e210a94
+    title: Apollo 10
+    slug: apollo-10
+  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+    title: Apollo 15
+    slug: apollo-15
+  date: null
+  date_end: null
+  location_in_record: ch20:18014-18251
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 919f0876-8038-477b-a820-13a85d8c7cc0
+  claim_hash: d1b8aa60245bcab045721087cdeed269c5f6098bc459e1da8fa6fdec8f05b8e3
+  content: Richard C. Hoagland considers the Lunar Crater Observation and Sensing
+    Satellite (LCROSS) infrared image to be startling confirmation of an optical Apollo
+    15 photograph published in the first edition of Dark Mission, showing an optical
+    halo around the full Moon with the Sun directly behind the Apollo 15 spacecraft.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: cc81c235-c101-46bc-9b60-0d618973886f
+    title: Dark Mission (ebook)
+    slug: dark-mission-ebook
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+    title: Apollo 15
+    slug: apollo-15
+  date: null
+  date_end: null
+  location_in_record: ch6:43039-43318
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: fc77b1e9-8c04-493f-b9ba-31bbf9193c1e
+  claim_hash: c763e53d4446fbba785ae78610c27dfc06d283063040b760065b5e977361fd8b
+  content: Richard C. Hoagland notes that critics could rationalise the Apollo 15
+    optical halo image as scattering on the spacecraft window glass because it was
+    recorded in reflected light, unlike the Lunar Crater Observation and Sensing Satellite
+    (LCROSS) infrared image.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  - node_id: f25082a3-50ed-43ae-ac84-f99bc7ea460f
+    title: Lunar Crater Observation and Sensing Satellite (LCROSS)
+    slug: lunar-crater-observation-and-sensing-satellite-lcross
+  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+    title: Apollo 15
+    slug: apollo-15
+  date: null
+  date_end: null
+  location_in_record: ch6:43331-43550
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 79688340-8860-4f38-9137-01fa5d632903
+  claim_hash: 961df31fb6518987f63b969e96882dc3fdaca1c2765c01023a836a8b2dc1e272
+  content: Al Worden, command module pilot for Apollo 15, died in March 2020.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
+    title: Al Worden
+    slug: al-worden
+  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+    title: Apollo 15
+    slug: apollo-15
+  date: 2020-03
+  date_end: null
+  location_in_record: ch25:11061-11138
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 471a49e6-b6f7-4f59-bef8-fce70b657c56
+  claim_hash: 8c233baacb333144971bb22ddc809fbfe838f6514298d99d8693b3473347b6ec
+  content: According to The Spaceman, Al Worden told him he saw bright white lights
+    in craters on the Moon during his three days, seventy-four orbits, in lunar orbit.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+  provenance_chain:
+    origin_kind: named
+    origin: Al Worden
+    relay:
+    - The Spaceman
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+    slug: the-spaceman
+  - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
+    title: Al Worden
+    slug: al-worden
+  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+    title: Apollo 15
+    slug: apollo-15
+  date: null
+  date_end: null
+  location_in_record: ch25:11145-11359
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted

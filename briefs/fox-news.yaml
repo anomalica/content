@@ -1,0 +1,334 @@
+schema: anomalica/brief/1
+brief_hash: f11626e3d36cb81731dff3d9bd3f8edf6ff8e870d246774c195a7b47fe9f3982
+page:
+  kind: entity
+  node_id: a77966af-a350-432e-8fbc-2ca59029820b
+  node_type: organisation
+  title: Fox News
+  slug: fox-news
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 3
+- node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
+  title: Tucker Carlson
+  node_type: person
+  slug: tucker-carlson
+  shared_claims: 2
+- node_id: 5cc7d8f1-ff08-44ad-bd22-584bfb548434
+  title: 2019-05 Fox News interview with Luis Elizondo on recovered Unidentified Flying
+    Object (UFO) debris
+  node_type: document
+  slug: 2019-05-fox-news-interview-with-luis-elizondo-on-recovered-unidentified-flying-object-ufo-debris
+  shared_claims: 1
+- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+  title: Advanced Aerospace Threat Identification Program (AATIP)
+  node_type: project
+  slug: advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 1
+- node_id: 996b837e-c814-4a97-8cb3-d0725542c877
+  title: Brett Baer
+  node_type: person
+  slug: brett-baer
+  shared_claims: 1
+- node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+  title: Cable News Network (CNN)
+  node_type: organisation
+  slug: cable-news-network-cnn
+  shared_claims: 1
+- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+  title: Christopher K. Mellon
+  node_type: person
+  slug: christopher-k-mellon
+  shared_claims: 1
+- node_id: c09e3558-1732-4676-a218-d67d285d98ef
+  title: David Fravor
+  node_type: person
+  slug: david-fravor
+  shared_claims: 1
+- node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+  title: George W. Bush
+  node_type: person
+  slug: george-w-bush
+  shared_claims: 1
+- node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+  title: The New York Times
+  node_type: organisation
+  slug: the-new-york-times
+  shared_claims: 1
+- node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+  title: To the Stars Academy of Arts and Science (TTSA)
+  node_type: organisation
+  slug: to-the-stars-academy-of-arts-and-science-ttsa
+  shared_claims: 1
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+- node_id: 2658cc67-2b0a-4b7f-a324-f1fa16dc21b7
+  title: 'Unidentified: Inside America''s UFO Investigation'
+  node_type: document
+  slug: unidentified-inside-americas-ufo-investigation
+  shared_claims: 1
+claims:
+- claim_id: fe8b157a-bf42-4b3b-af23-de8ed7aa6cfa
+  claim_hash: 8bb6627892ce0d10fb92d6f6da0847dd8b3cb00a39835dafef37794e64a967e5
+  content: On the Saturday before the 2000 United States presidential election, Fox
+    News broke a story about George W. Bush's arrest 25 years earlier for drunk driving.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Fox News
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+    title: George W. Bush
+    slug: george-w-bush
+  - node_id: a77966af-a350-432e-8fbc-2ca59029820b
+    title: Fox News
+    slug: fox-news
+  date: 2000-11
+  date_end: null
+  location_in_record: ch19:3630-3726
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: ce4386e7-3e9e-4e31-a46a-fb924723d3f5
+  claim_hash: 2bd0a433155c2f7d55c2c62a9d6dd2ce90dd0a33620498dcad729c73fdfb497d
+  content: Brett Baer said on Fox News, days after the New York Times broke the story
+    on the Advanced Aerospace Threat Identification Program (AATIP), that a lot of
+    people were taking the revelation seriously.
+  original_excerpt: “You can laugh if you want, but a lot of people are taking this
+    revelation seriously,” Brett Baer said on Fox News days after the New York Times
+    broke the story
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 996b837e-c814-4a97-8cb3-d0725542c877
+    title: Brett Baer
+  provenance_chain:
+    origin_kind: speaker
+    origin: Brett Baer
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 996b837e-c814-4a97-8cb3-d0725542c877
+    title: Brett Baer
+    slug: brett-baer
+  - node_id: a77966af-a350-432e-8fbc-2ca59029820b
+    title: Fox News
+    slug: fox-news
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: char:11741-11943
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+- claim_id: b01c62bc-0b61-4884-8704-2b340d60b2bc
+  claim_hash: b50637163b7c394767a2674006d64f0ca93b71c538b10b09a63f207e93852b5f
+  content: '"Fox & Friends" did not mention that Chris Mellon works for To The Stars
+    Academy of Arts & Science, nor that "Unidentified: Inside America''s UFO Investigation"
+    was made by the company that employs Luis Elizondo and Chris Mellon.'
+  original_excerpt: “Fox & Friends” neglected to mention this connection, along with
+    the fact that the History Channel show was made by the company Elizondo and Mellon
+    work for.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 09dcc0a6-2c02-4732-928c-6e43fd44748c
+    title: Keith Kloor
+  provenance_chain:
+    origin_kind: speaker
+    origin: Keith Kloor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2658cc67-2b0a-4b7f-a324-f1fa16dc21b7
+    title: 'Unidentified: Inside America''s UFO Investigation'
+    slug: unidentified-inside-americas-ufo-investigation
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  - node_id: a77966af-a350-432e-8fbc-2ca59029820b
+    title: Fox News
+    slug: fox-news
+  date: null
+  date_end: null
+  location_in_record: char:6282-6434
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+- claim_id: e33f7e3e-a7af-4e3b-9bf4-9f626da1caa1
+  claim_hash: a087b55ec8e84a74f1f329420903c7d88265c6236fda9f391113ce8d963ef0b4
+  content: David Fravor told Fox News host Tucker Carlson that the Tic Tac craft was
+    white, about 12 metres long, hovering over the water and moved forward, back,
+    left, and right with no rotor wash and no wings.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
+    title: Tucker Carlson
+    slug: tucker-carlson
+  - node_id: a77966af-a350-432e-8fbc-2ca59029820b
+    title: Fox News
+    slug: fox-news
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: ch16:10082-10243
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c69c35a3-497b-4742-b319-e1994fab63c8
+  claim_hash: f73c916dd6c8e31477c85dda6e17bc0ee1d756264b219bee425a65315a62cabf
+  content: In May 2019, in an interview with Fox News' Tucker Carlson, Luis Elizondo
+    dismissed claims that unidentified aerial phenomena objects do not exist, saying
+    it is an absolute fact that they are there, but what they are, where they are
+    from, and who is behind the wheel is not known.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Luis Elizondo
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
+    title: Tucker Carlson
+    slug: tucker-carlson
+  - node_id: 5cc7d8f1-ff08-44ad-bd22-584bfb548434
+    title: 2019-05 Fox News interview with Luis Elizondo on recovered Unidentified
+      Flying Object (UFO) debris
+    slug: 2019-05-fox-news-interview-with-luis-elizondo-on-recovered-unidentified-flying-object-ufo-debris
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: a77966af-a350-432e-8fbc-2ca59029820b
+    title: Fox News
+    slug: fox-news
+  date: 2019-05
+  date_end: null
+  location_in_record: ch24:14125-14408
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 1e913fdc-268f-4405-adf7-41005f83a22b
+  claim_hash: a3f3eca4399e8fb54061a33949a84659ae37d9749c2186bb385ff1b3d2b1e016
+  content: Following the December 2017 news coverage, calls flooded Luis Elizondo's
+    home from CBS, ABC, NBC, CNN, PBS, Fox, and MSNBC.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+    title: Cable News Network (CNN)
+    slug: cable-news-network-cnn
+  - node_id: a77966af-a350-432e-8fbc-2ca59029820b
+    title: Fox News
+    slug: fox-news
+  date: 2017-12
+  date_end: null
+  location_in_record: ch29:23393-23458
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted

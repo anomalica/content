@@ -1,0 +1,452 @@
+schema: anomalica/brief/1
+brief_hash: 65d1954d88c7ebffa7a505af9f72739ecaa218c517470392f70f3444a6b57427
+page:
+  kind: entity
+  node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+  node_type: project
+  title: Project Mogul
+  slug: project-mogul
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+  title: Roswell incident (1947)
+  node_type: event
+  slug: roswell-incident-1947
+  shared_claims: 3
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 2
+- node_id: 05eb1fa5-44a7-40ce-93f3-065e6280401e
+  title: 1994 US Air Force Roswell report
+  node_type: document
+  slug: 1994-us-air-force-roswell-report
+  shared_claims: 1
+- node_id: f888411e-b882-4f89-8275-350d19f6c52d
+  title: Jesse Marcel
+  node_type: person
+  slug: jesse-marcel
+  shared_claims: 1
+- node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+  title: Nat Kobitz
+  node_type: person
+  slug: nat-kobitz
+  shared_claims: 1
+- node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+  title: Soviet Union
+  node_type: organisation
+  slug: soviet-union
+  shared_claims: 1
+- node_id: cc2c952a-56f9-401b-84cf-f26ebf0323a0
+  title: 'The Roswell Report: Case Closed (1997)'
+  node_type: document
+  slug: the-roswell-report-case-closed-1997
+  shared_claims: 1
+- node_id: 1e992087-ad5a-4282-bc5b-86231758f3ba
+  title: 'The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995)'
+  node_type: document
+  slug: the-roswell-report-fact-versus-fiction-in-the-new-mexico-desert-1995
+  shared_claims: 1
+- node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+  title: USA, New Mexico, Roswell
+  node_type: place
+  slug: new-mexico-roswell-usa
+  shared_claims: 1
+claims:
+- claim_id: 54a8fbd7-770d-46f6-bc88-42a499f8a4f9
+  claim_hash: 5fdbfde80eb98a85f00d2985895a6a301f1b4de6ef6c868b800f86dacbb15a25
+  content: When Ross Coulthart recited the official United States Air Force explanation
+    that the recovered 1947 Roswell debris was a high-altitude nuclear test surveillance
+    balloon from a secret project codenamed Mogul, Nat Kobitz laughed dismissively.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+  provenance_chain:
+    origin_kind: speaker
+    origin: Nat Kobitz
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+    slug: nat-kobitz
+  - node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+    title: Project Mogul
+    slug: project-mogul
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947'
+  date_end: null
+  location_in_record: ch27:14837-15066
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6e816170-67af-4d4f-9e7c-3404b917ba25
+  claim_hash: 3526277492b3762f2d8e7d0c6e21d47ed4d9e2fbd93dba927bf8475e77db064f
+  content: The 1994 United States Air Force report on Roswell claimed the wreckage
+    recovered was from a then top-secret balloon project designed to monitor Soviet
+    nuclear tests, known as Project MOGUL.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 1994 US Air Force Roswell report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 05eb1fa5-44a7-40ce-93f3-065e6280401e
+    title: 1994 US Air Force Roswell report
+    slug: 1994-us-air-force-roswell-report
+  - node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+    title: Project Mogul
+    slug: project-mogul
+  - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+    title: Soviet Union
+    slug: soviet-union
+  date: '1994'
+  date_end: null
+  location_in_record: ch7:14984-15154
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a11503cc-640a-42d5-a517-7cc58fed92a8
+  claim_hash: 52e36ea3a775cce2697c3bb30ee29cab7ff5e8703e93210e3128c9d3c3ac8a7f
+  content: Declassified images of the Project MOGUL balloon-train from the relevant
+    period show no disc.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+    title: Project Mogul
+    slug: project-mogul
+  date: null
+  date_end: null
+  location_in_record: ch7:16059-16210
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 18ac2aa0-bf65-43ba-9541-1d1cd83f28d5
+  claim_hash: 44c6f6fecb2229ea4d34c3464c01af16ac6331700bd8c85e56403cd6d1a32af1
+  content: Project MOGUL's radar reflector debris would have been clearly recognisable
+    as conventional material, especially to Major Jesse Marcel.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+    title: Project Mogul
+    slug: project-mogul
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: null
+  date_end: null
+  location_in_record: ch7:16215-16333
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 1e7e3462-167d-4235-86e5-8ae85e39c59c
+  claim_hash: 023d4d78b2b10185ca17be630b3a66349a46369443d3e3b0e8ead75074e38ecd
+  content: The Project MOGUL balloon was largely composed of rubber balloons, balsa
+    wood and tinfoil.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+    title: Project Mogul
+    slug: project-mogul
+  date: null
+  date_end: null
+  location_in_record: ch7:16341-16415
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: dfd2dde6-35b3-4ea3-88b4-bcba1e6f3445
+  claim_hash: 522889e7af1646c479a063e147f19ba3a745ecf13bb0db83e183c08d7c47ed5d
+  content: The hexagonal radar reflectors on the Project MOGUL balloon-train were
+    not discs.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+    title: Project Mogul
+    slug: project-mogul
+  date: null
+  date_end: null
+  location_in_record: ch7:16424-16491
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 089d379b-8c01-458d-8fab-0be0570e4902
+  claim_hash: ad28fe831bfb64fcf7aafb4d167da19ba3b97bcbc854a3fde9c8c4ba6615e626
+  content: The United States Army Air Force Air Materiel Command operated Project
+    Mogul between 1947 and 1949.
+  original_excerpt: The U.S. Army Air Force Air Materiel Command operated Project
+    Mogul between 1947 and 1949.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+    title: Project Mogul
+    slug: project-mogul
+  date: '1947'
+  date_end: null
+  location_in_record: char:120479-120564
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: cae1c0ee-aa21-47d7-8f48-3c231a146b7b
+  claim_hash: 573cf887a3aae90fca2c4f644d6cedcd4c1b4dffaffaa2b57fa9614081855181
+  content: The aim of Project Mogul was to secure intelligence on Soviet nuclear weapons
+    testing and to provide an early warning mechanism for Soviet ballistic missiles.
+  original_excerpt: The aim of this program was to secure intelligence on Soviet nuclear
+    weapons testing and to provide an early warning mechanism for Soviet ballistic
+    missiles.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+    title: Project Mogul
+    slug: project-mogul
+  date: null
+  date_end: null
+  location_in_record: char:120570-120718
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 84a6a5b6-4be3-4935-bd6a-c2e390d1f1f5
+  claim_hash: 081d4178b6616dc44a86620087959e44bb7f226d941f205f48d2c9aeafa16750
+  content: Project Mogul scientists worked on developing high-altitude balloons that
+    would carry sensors capable of detecting long-range sound waves from weapons tests
+    or missiles travelling through the atmosphere.
+  original_excerpt: Project Mogul scientists worked on developing high-altitude balloons
+    that would carry sensors capable of detecting long-range sound waves from weapons
+    tests or missiles traveling through the atmosphere.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+    title: Project Mogul
+    slug: project-mogul
+  date: null
+  date_end: null
+  location_in_record: char:120742-120933
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 98e7ecf4-e2d7-45cd-a353-883dfa077e22
+  claim_hash: d2f7eb1a6b9bf814cd4425c83303a53384cb6bf91c9792542a5887abdd993d49
+  content: A crashed balloon associated with Project Mogul outside of Roswell, New
+    Mexico is assessed to be the source of early UFO claims related to the Roswell
+    incident.
+  original_excerpt: A crashed balloon associated with Project Mogul outside of Roswell,
+    New Mexico, is assessed to be the source of early UFO claims.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'The Roswell Report: Fact versus Fiction in the New Mexico Desert'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1e992087-ad5a-4282-bc5b-86231758f3ba
+    title: 'The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995)'
+    slug: the-roswell-report-fact-versus-fiction-in-the-new-mexico-desert-1995
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+    title: Project Mogul
+    slug: project-mogul
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: cc2c952a-56f9-401b-84cf-f26ebf0323a0
+    title: 'The Roswell Report: Case Closed (1997)'
+    slug: the-roswell-report-case-closed-1997
+  date: null
+  date_end: null
+  location_in_record: char:120945-121067
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 074aa47b-d2ca-4231-8870-c35f7813f873
+  claim_hash: d215ac478bf9aba3d3165ff6846e4b5b06961d3054fb2afdc707025c278c0860
+  content: The materials recovered near Roswell were consistent with a balloon of
+    the type used in the then-classified Project Mogul, and no records showed any
+    evidence that the United States Government recovered aliens or extraterrestrial
+    material.
+  original_excerpt: Rather, the materials recovered near Roswell were consistent with
+    a balloon of the type used in the then-classified Project Mogul. No records showed
+    any evidence that the USG recovered aliens or extraterrestrial material.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'The Roswell Report: Fact versus Fiction in the New Mexico Desert'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+    title: Project Mogul
+    slug: project-mogul
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: char:56372-56584
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

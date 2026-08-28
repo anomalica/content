@@ -1,0 +1,229 @@
+schema: anomalica/brief/1
+brief_hash: a026d7cdb7a05167ec97aa0f61eabb33c746cc95f09c400e51eaa9f58b018773
+page:
+  kind: entity
+  node_id: 290badaf-6308-4425-9c37-b1da518c0882
+  node_type: person
+  title: DeLonge, Kari
+  slug: kari-delonge
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+  title: DeLonge, Tom
+  node_type: person
+  slug: tom-delonge
+  shared_claims: 2
+- node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+  title: To the Stars Academy of Arts and Science (TTSA)
+  node_type: organisation
+  slug: to-the-stars-academy-of-arts-and-science-ttsa
+  shared_claims: 2
+- node_id: af6e1245-9594-41d7-854e-1a63d70a79ca
+  title: Advanced Aerospace Threat Identification Program (AATIP)
+  node_type: organisation
+  slug: advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 1
+- node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+  title: Elizondo, Luis
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 1
+- node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+  title: Greenewald, John
+  node_type: person
+  slug: john-greenewald
+  shared_claims: 1
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 1
+claims:
+- claim_id: d3ae6635-3d77-44c5-a7bf-0bf3de28e2d2
+  claim_hash: 75080fd11ef9596c77fc3752b309eba9353d1e86f9012616e86f99ad362f2330
+  content: Kari DeLonge did not respond to multiple requests for comment.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 290badaf-6308-4425-9c37-b1da518c0882
+    title: DeLonge, Kari
+    slug: kari-delonge
+  date: null
+  date_end: null
+  location_in_record: Line 101
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f70bd0a84
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  excerpt_withheld: unknown
+- claim_id: e8d90b0f-1efc-46ce-9fc8-cb8087cbeff0
+  claim_hash: e1c0d5e21eac4ec4d1499424750fad7750645c4a745653f476b99815c8a796b7
+  content: John Greenewald asked Kari DeLonge specifically where Luis Elizondo worked
+    within the Department of Defense when he ran the Advanced Aerospace Threat Identification
+    Program (AATIP).
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+    title: Greenewald, John
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 290badaf-6308-4425-9c37-b1da518c0882
+    title: DeLonge, Kari
+    slug: kari-delonge
+  - node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+    slug: luis-elizondo
+  - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+    title: Greenewald, John
+    slug: john-greenewald
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: af6e1245-9594-41d7-854e-1a63d70a79ca
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  date: null
+  date_end: null
+  location_in_record: Line 21
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f70bd0a84
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  excerpt_withheld: unknown
+- claim_id: 46202482-586c-41a8-a9ac-548863395197
+  claim_hash: 3019cb748b704a3202bc40753a39fd7e0543f1d8b6b5fca780988781ce630df0
+  content: The Advanced Aerospace Threat Identification Program (AATIP) was initially
+    run out of the Defense Intelligence Agency (DIA), but when Luis Elizondo took
+    it over in 2010 as Director, he ran it out of the Office of the Secretary of Defense
+    (OSD) under the Under Secretary of Defense for Intelligence.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: 290badaf-6308-4425-9c37-b1da518c0882
+    title: DeLonge, Kari
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+    slug: luis-elizondo
+  - node_id: af6e1245-9594-41d7-854e-1a63d70a79ca
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+  date: '2010-01-01'
+  date_end: null
+  location_in_record: Line 23
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f70bd0a84
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  excerpt_withheld: unknown
+- claim_id: b4e5c949-0e04-4027-b7bf-b2d9eeb21417
+  claim_hash: 450da1394e199bc2583e14c52057587bde45290cb1a52816970a770141ac7f37
+  content: Kari DeLonge is Tom DeLonge's sister and a To The Stars Academy of Arts
+    & Science spokesperson.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 290badaf-6308-4425-9c37-b1da518c0882
+    title: DeLonge, Kari
+    slug: kari-delonge
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: DeLonge, Tom
+    slug: tom-delonge
+  date: null
+  date_end: null
+  location_in_record: Line 93
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f70bd0a84
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  excerpt_withheld: unknown
+- claim_id: 79312dc1-05bc-40fa-81ca-d95936f173d7
+  claim_hash: 6d859d6c28247137e116267e5a12b254f3803a381ba7737eec0d1017632819e5
+  content: Tom DeLonge and Kari DeLonge are credited by Luis Elizondo for bringing
+    the UAP topic to the media through To The Stars Academy.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 290badaf-6308-4425-9c37-b1da518c0882
+    title: DeLonge, Kari
+    slug: kari-delonge
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: DeLonge, Tom
+    slug: tom-delonge
+  date: null
+  date_end: null
+  location_in_record: Acknowledgments, paragraph 13
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed

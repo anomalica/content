@@ -1,0 +1,737 @@
+schema: anomalica/brief/1
+brief_hash: 49ae6981ff8bf1d20ce02fb6376763f194dc016d21bfd9df1d19c295548f7e2d
+page:
+  kind: entity
+  node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+  node_type: place
+  title: USA, California, Edwards Air Force Base
+  slug: california-edwards-air-force-base-usa
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
+  title: Robert Jacobs
+  node_type: person
+  slug: robert-jacobs
+  shared_claims: 3
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 2
+- node_id: 8e3ab056-0cd2-4020-9714-d1af2003bc6e
+  title: Atlas intercontinental ballistic missile
+  node_type: object
+  slug: atlas-intercontinental-ballistic-missile
+  shared_claims: 2
+- node_id: 722d0d8b-ffb2-45cf-accb-5d36e8efcc1f
+  title: Gordon Cooper tape transcript
+  node_type: document
+  slug: gordon-cooper-tape-transcript
+  shared_claims: 2
+- node_id: 9bc6b5da-96b5-474d-b21f-409517278f56
+  title: USA, Montana, Malmstrom Air Force Base
+  node_type: place
+  slug: montana-malmstrom-air-force-base-usa
+  shared_claims: 2
+- node_id: a31f485f-1a64-494b-ab7f-d5b55bc724b5
+  title: USA, South Dakota, Ellsworth Air Force Base
+  node_type: place
+  slug: south-dakota-ellsworth-air-force-base-usa
+  shared_claims: 2
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 2
+- node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
+  title: 1988 Ray and Nancy Tehachapi encounter
+  node_type: event
+  slug: 1988-ray-and-nancy-tehachapi-encounter
+  shared_claims: 1
+- node_id: 785548fb-ff5e-444f-8db9-5de154ea4cf1
+  title: 2003 Vandenberg Air Force Base Unidentified Aerial Phenomena / Unidentified
+    Anomalous Phenomena (UAP) incident
+  node_type: event
+  slug: 2003-vandenberg-air-force-base-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-incident
+  shared_claims: 1
+- node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+  title: All-domain Anomaly Resolution Office (AARO)
+  node_type: organisation
+  slug: all-domain-anomaly-resolution-office-aaro
+  shared_claims: 1
+- node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+  title: Boeing
+  node_type: organisation
+  slug: boeing
+  shared_claims: 1
+- node_id: 4056024b-6788-453b-a270-7b9890087c91
+  title: Buzz Aldrin
+  node_type: person
+  slug: buzz-aldrin
+  shared_claims: 1
+- node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+  title: Dwight D. Eisenhower
+  node_type: person
+  slug: dwight-d-eisenhower
+  shared_claims: 1
+- node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+  title: Jesse Mitchells
+  node_type: person
+  slug: jesse-mitchells
+  shared_claims: 1
+- node_id: a899c042-6f7a-4030-b17c-8609535f01e8
+  title: Joan Aldrin
+  node_type: person
+  slug: joan-aldrin
+  shared_claims: 1
+- node_id: ba23cf77-e8d4-434c-a843-7ee713d9f578
+  title: John McIntyre
+  node_type: person
+  slug: john-mcintyre
+  shared_claims: 1
+- node_id: 43cc6263-7f3f-4f74-89b4-7a884c6c455c
+  title: Kiwanis Club, Palmdale
+  node_type: organisation
+  slug: palmdale-kiwanis-club
+  shared_claims: 1
+- node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
+  title: Nancy
+  node_type: person
+  slug: nancy
+  shared_claims: 1
+- node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+  title: Ray
+  node_type: person
+  slug: ray
+  shared_claims: 1
+- node_id: 54cf412c-7a07-4e56-b2e5-9eb82b2ebd40
+  title: Return to Earth (Aldrin autobiography)
+  node_type: document
+  slug: return-to-earth-aldrin-autobiography
+  shared_claims: 1
+- node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+  title: Robert Fish
+  node_type: person
+  slug: robert-fish
+  shared_claims: 1
+- node_id: e471c2c8-d0c1-4d33-ba6c-c1731f36eec4
+  title: Robert Hastings
+  node_type: person
+  slug: robert-hastings
+  shared_claims: 1
+- node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+  title: Ryan Graves
+  node_type: person
+  slug: ryan-graves
+  shared_claims: 1
+- node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+  title: USA, California, Big Sur
+  node_type: place
+  slug: california-big-sur-usa
+  shared_claims: 1
+- node_id: a5c2e103-f1f8-4ba0-ad5c-57a766ebfc8f
+  title: USA, California, Palmdale
+  node_type: place
+  slug: california-palmdale-usa
+  shared_claims: 1
+- node_id: d7df79b1-965e-4b47-adc4-1bdbae683082
+  title: USA, New Mexico, Kirtland Air Force Base
+  node_type: place
+  slug: new-mexico-kirtland-air-force-base-usa
+  shared_claims: 1
+- node_id: 071832f4-0476-493b-b29c-b5c0740f1c51
+  title: USA, Wyoming, F.E. Warren Air Force Base
+  node_type: place
+  slug: wyoming-fe-warren-air-force-base-usa
+  shared_claims: 1
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+- node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+  title: Vatican
+  node_type: organisation
+  slug: vatican
+  shared_claims: 1
+- node_id: 30940882-37a5-4db5-980d-282dafd2df49
+  title: nonhuman intelligence (Nonhuman Intelligence (NHI))
+  node_type: topic
+  slug: nonhuman-intelligence-nonhuman-intelligence-nhi
+  shared_claims: 1
+claims:
+- claim_id: cf23d3c1-48ee-480b-babb-61f885a49804
+  claim_hash: 561bcb1e456106a5b92eaa3c89d38b2e9d120829ef1bc959e2b6a0c4415bee18
+  content: Ray and Nancy reported their 1988 encounter to someone at USA, California,
+    Edwards Air Force Base.
+  original_excerpt: Now they reported this, by the way, to somebody at Edwards Air
+    Force Base because they thought, what's going on here, right?
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+    title: William F. Hamilton
+  provenance_chain:
+    origin_kind: named
+    origin: Ray and Nancy
+    relay:
+    - William F. Hamilton
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 409ae9dd-e686-4012-9d82-19a8a93533bd
+    title: Nancy
+    slug: nancy
+  - node_id: 6dcaf94e-ebad-4f8f-9187-a5e4eab01418
+    title: 1988 Ray and Nancy Tehachapi encounter
+    slug: 1988-ray-and-nancy-tehachapi-encounter
+  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+    title: USA, California, Edwards Air Force Base
+    slug: california-edwards-air-force-base-usa
+  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+    title: Ray
+    slug: ray
+  date: '1988'
+  date_end: null
+  location_in_record: 00:05:04.3-00:05:11.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+    record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien
+      Technology Being Tested'
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+    content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+    friendly_name: null
+- claim_id: d78a721b-df2a-4751-bdd6-e831735eef60
+  claim_hash: d627737a0310640515cc5e5e6ff3169c5522fc4cd29e7b4c6c6a8370dc7ca66f
+  content: According to the Gordon Cooper tape transcript, camera crews set up at
+    Edwards Air Force Base for an experimental aircraft were able to take photographs
+    of a UFO before it took off.
+  original_excerpt: they had camera crews set up for an experimental aircraft. They
+    were able to move the camera crews there and took photographs before it took off.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: document
+    origin: Gordon Cooper tape transcript
+    relay:
+    - Raymond Fowler
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 722d0d8b-ffb2-45cf-accb-5d36e8efcc1f
+    title: Gordon Cooper tape transcript
+    slug: gordon-cooper-tape-transcript
+  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+    title: USA, California, Edwards Air Force Base
+    slug: california-edwards-air-force-base-usa
+  date: null
+  date_end: null
+  location_in_record: 00:19:16.9-00:19:24.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: cde39f35-31e3-4432-b25d-2fa13ee86ffd
+  claim_hash: 8226adc885ea94cea5ec0f004829a51dad4ac5cb0e062838a19e6b22a5286bf4
+  content: According to the Gordon Cooper tape transcript, the film canisters from
+    the Edwards Air Force Base UFO photographs were taken away, the crew were not
+    allowed to see the film, and it was sent off to Washington, never to be seen again.
+  original_excerpt: He said the canisters were taken. They weren't allowed to see
+    the film. said it in his sort of Southern-like drawl, off to Washington, never
+    to be seen again.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: document
+    origin: Gordon Cooper tape transcript
+    relay:
+    - Raymond Fowler
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 722d0d8b-ffb2-45cf-accb-5d36e8efcc1f
+    title: Gordon Cooper tape transcript
+    slug: gordon-cooper-tape-transcript
+  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+    title: USA, California, Edwards Air Force Base
+    slug: california-edwards-air-force-base-usa
+  date: null
+  date_end: null
+  location_in_record: 00:19:25.4-00:19:34.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: cd34e165-9524-465a-b8d5-ec35db7962b8
+  claim_hash: 626508f42b0b841c6659880356df5130bf0c1be90825bd6fa2be95dbc6e7ab24
+  content: In his autobiography 'Return to Earth', Buzz Aldrin recounts that during
+    an early-1970s interview to the Kiwanis Club in Palmdale, California, he was asked
+    what it felt like to be on the Moon and was overcome with a panic attack, forcing
+    him to abandon the interview and rush from the stage.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+  provenance_chain:
+    origin_kind: document
+    origin: Buzz Aldrin's autobiography Return to Earth
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  - node_id: 43cc6263-7f3f-4f74-89b4-7a884c6c455c
+    title: Kiwanis Club, Palmdale
+    slug: palmdale-kiwanis-club
+  - node_id: 54cf412c-7a07-4e56-b2e5-9eb82b2ebd40
+    title: Return to Earth (Aldrin autobiography)
+    slug: return-to-earth-aldrin-autobiography
+  - node_id: a5c2e103-f1f8-4ba0-ad5c-57a766ebfc8f
+    title: USA, California, Palmdale
+    slug: california-palmdale-usa
+  - node_id: a899c042-6f7a-4030-b17c-8609535f01e8
+    title: Joan Aldrin
+    slug: joan-aldrin
+  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+    title: USA, California, Edwards Air Force Base
+    slug: california-edwards-air-force-base-usa
+  date: null
+  date_end: null
+  location_in_record: ch11:152882-153442
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 26f7a8f9-cea1-4266-a6ec-cb310d07df37
+  claim_hash: ef6614b0c32fda402b994349a36373ef64ed05478cd1e208299c8ea2ea0db61b
+  content: In 1964, Robert Jacobs was a 1st Lieutenant in the US Air Force in charge
+    of a photographic squadron based at Vandenberg Air Force Base in California.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
+    title: Robert Jacobs
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Jacobs
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
+    title: Robert Jacobs
+    slug: robert-jacobs
+  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+    title: USA, California, Edwards Air Force Base
+    slug: california-edwards-air-force-base-usa
+  date: '1964'
+  date_end: null
+  location_in_record: ch10:3715-3857
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6fdb54e7-ce54-4bef-b387-7519ec3c3889
+  claim_hash: 86aaacadad9b579ac8913a265c2281cd3dc9bad3a9bad34234f0ac8d713e804b
+  content: In September 1964, on a hilltop near Big Sur, California, approximately
+    160 kilometres from Vandenberg Air Force Base, Robert Jacobs filmed a dummy nuclear
+    warhead that had been launched from the base aboard an Atlas intercontinental
+    ballistic missile.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
+    title: Robert Jacobs
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Jacobs
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
+    title: Robert Jacobs
+    slug: robert-jacobs
+  - node_id: 8e3ab056-0cd2-4020-9714-d1af2003bc6e
+    title: Atlas intercontinental ballistic missile
+    slug: atlas-intercontinental-ballistic-missile
+  - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+    title: USA, California, Big Sur
+    slug: california-big-sur-usa
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+    title: USA, California, Edwards Air Force Base
+    slug: california-edwards-air-force-base-usa
+  date: 1964-09
+  date_end: null
+  location_in_record: ch10:3869-4094
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 31d5c108-7a1f-4b9a-83ef-b7c79ea504e6
+  claim_hash: d7cee76492b4a3d9d58ed923ecae55289956849af26974101d6a5c9458d5e041
+  content: When Robert 'Bob' Fish's friend mentioned the radar trace to personnel
+    at USA, California, Edwards Air Force Base, they shrugged and asked that he erase
+    the radar file as an unexplained anomaly.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+    title: Robert Fish
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be a friend of Robert 'Bob' Fish who reported the
+      radar trace to Edwards Air Force Base personnel
+    relay:
+    - Robert 'Bob' Fish
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+    title: Robert Fish
+    slug: robert-fish
+  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+    title: USA, California, Edwards Air Force Base
+    slug: california-edwards-air-force-base-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:31971-32130
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f476522d-2bb3-4dca-ab73-fde38fcea142
+  claim_hash: 5cf58bed0e519a0f5436a2f1575101c409e52860999b7da2df20888d3dd3db18
+  content: Robert Hastings pieced together incidents of anomalous UAP activity at
+    intercontinental ballistic missile (ICBM) sites across the US, including Malmstrom,
+    Minot, F.E. Warren, Ellsworth, Vandenberg and Walker air force bases.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 071832f4-0476-493b-b29c-b5c0740f1c51
+    title: USA, Wyoming, F.E. Warren Air Force Base
+    slug: wyoming-fe-warren-air-force-base-usa
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 9bc6b5da-96b5-474d-b21f-409517278f56
+    title: USA, Montana, Malmstrom Air Force Base
+    slug: montana-malmstrom-air-force-base-usa
+  - node_id: a31f485f-1a64-494b-ab7f-d5b55bc724b5
+    title: USA, South Dakota, Ellsworth Air Force Base
+    slug: south-dakota-ellsworth-air-force-base-usa
+  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+    title: USA, California, Edwards Air Force Base
+    slug: california-edwards-air-force-base-usa
+  - node_id: d7df79b1-965e-4b47-adc4-1bdbae683082
+    title: USA, New Mexico, Kirtland Air Force Base
+    slug: new-mexico-kirtland-air-force-base-usa
+  - node_id: e471c2c8-d0c1-4d33-ba6c-c1731f36eec4
+    title: Robert Hastings
+    slug: robert-hastings
+  date: null
+  date_end: null
+  location_in_record: ch17:10932-11111
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3e212613-1865-4928-866a-669078f36930
+  claim_hash: 5b81ed5005de0d08b724ddce5722b6bd9ae0ff87a22f63fabb4bd458c617a6db
+  content: In 1964, Robert Jacobs captured on film a 'flying saucer' craft firing
+    beams of light to disable a dummy nuclear warhead on a speeding Atlas intercontinental
+    ballistic missile fired from Vandenberg Air Force Base.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
+    title: Robert Jacobs
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Jacobs
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
+    title: Robert Jacobs
+    slug: robert-jacobs
+  - node_id: 8e3ab056-0cd2-4020-9714-d1af2003bc6e
+    title: Atlas intercontinental ballistic missile
+    slug: atlas-intercontinental-ballistic-missile
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+    title: USA, California, Edwards Air Force Base
+    slug: california-edwards-air-force-base-usa
+  date: 1964-09
+  date_end: null
+  location_in_record: ch37:3181-3346
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 406b4c0a-9bbe-4be1-8d8f-bb00c035c258
+  claim_hash: d8a69885aebeb8488bff528bb762a25c7c8d92625bee3ede6e52b2671028fb55
+  content: In 2003, a large group of Boeing contractors operating near a launch facility
+    at Vandenberg Air Force Base observed a large, approximately 90-metre red square
+    object approach the base from the ocean and hover at low altitude over one of
+    the launch facilities.
+  original_excerpt: In the 2003 timeframe, a large group of Boeing contractors were
+    operating near one of the launch facilities at Vandenberg Air Force Base when
+    they observed a very large 100-yard sighted red square approach the base from
+    the ocean and hover at low altitude over one of the launch facilities.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a group of Boeing contractors present at Vandenberg Air Force Base in
+      2003
+    relay:
+    - a witness who approached Ryan Graves at Americans for Safe Aerospace
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+    title: Boeing
+    slug: boeing
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+    slug: ryan-graves
+  - node_id: 785548fb-ff5e-444f-8db9-5de154ea4cf1
+    title: 2003 Vandenberg Air Force Base Unidentified Aerial Phenomena / Unidentified
+      Anomalous Phenomena (UAP) incident
+    slug: 2003-vandenberg-air-force-base-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-incident
+  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+    title: USA, California, Edwards Air Force Base
+    slug: california-edwards-air-force-base-usa
+  date: '2003'
+  date_end: null
+  location_in_record: char:73551-73830
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 5d1fe200-f9b1-4c98-8176-2c2badcf0792
+  claim_hash: dd940273308f39d5e700b4e63d8e4462b7ac0c8568bd4bd1e868826d0e59e4e4
+  content: AARO interviewed five former United States Air Force members who served
+    in and around U.S. intercontinental ballistic missile silos at Malmstrom, Ellsworth,
+    Vandenberg, and Minot Air Force Bases between 1966 and 1977.
+  original_excerpt: AARO interviewed five former USAF members who served in and around
+    U.S. intercontinental ballistic missile (ICBM) silos at Malmstrom, Ellsworth,
+    Vandenberg, and Minot USAF bases between 1966 and 1977.
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: All-Domain Anomaly Resolution Office (AARO)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 9bc6b5da-96b5-474d-b21f-409517278f56
+    title: USA, Montana, Malmstrom Air Force Base
+    slug: montana-malmstrom-air-force-base-usa
+  - node_id: a31f485f-1a64-494b-ab7f-d5b55bc724b5
+    title: USA, South Dakota, Ellsworth Air Force Base
+    slug: south-dakota-ellsworth-air-force-base-usa
+  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+    title: USA, California, Edwards Air Force Base
+    slug: california-edwards-air-force-base-usa
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    slug: all-domain-anomaly-resolution-office-aaro
+  date: null
+  date_end: null
+  location_in_record: char:85408-85603
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 55b712e5-b1c9-4218-aa03-d967203f1794
+  claim_hash: ba87e22a0b17c4a6012a6fd6e3e3ba6fc0ca66dafa382e80b36d8e5bc6426e11
+  content: Records outside the Majestic 12 documents show Bishop John McIntyre, a
+    senior figure in the Catholic hierarchy, present around Edwards Air Force Base
+    in 1954.
+  original_excerpt: And then there's documentation of Bishop McIntyre, another guy
+    pretty high up in the Vatican ecosystem. And he's hanging out around Edwards Air
+    Force Base in 1954. This is not even MJ-12. This is real records
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: document
+    origin: records of Bishop John McIntyre's presence at Edwards Air Force Base
+    relay:
+    - Jesse Michels
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    slug: jesse-mitchells
+  - node_id: ba23cf77-e8d4-434c-a843-7ee713d9f578
+    title: John McIntyre
+    slug: john-mcintyre
+  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+    title: USA, California, Edwards Air Force Base
+    slug: california-edwards-air-force-base-usa
+  - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+    title: Vatican
+    slug: vatican
+  date: '1954'
+  date_end: null
+  location_in_record: 02:23:39.1-02:23:52.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 00d0e6f0-8b98-4385-93c2-8cc0560ffdb6
+  claim_hash: 401470c2bae4ee0db49a71f08cf24dc47fb95904642b8f0c79480047802e0ec2
+  content: Dwight D. Eisenhower is rumoured to have made a deal with aliens in 1954
+    permitting medical experiments to be carried out on the human population.
+  original_excerpt: Eisenhower is rumored to, you know, do his deal with the aliens
+    around allowing medical experiments to be done among the human population.
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unattributed rumour circulating in UFO lore, relayed by Jesse Michels
+    relay:
+    - Jesse Michels
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+    title: nonhuman intelligence (Nonhuman Intelligence (NHI))
+    slug: nonhuman-intelligence-nonhuman-intelligence-nhi
+  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+    title: USA, California, Edwards Air Force Base
+    slug: california-edwards-air-force-base-usa
+  - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+    title: Dwight D. Eisenhower
+    slug: dwight-d-eisenhower
+  date: '1954'
+  date_end: null
+  location_in_record: 02:23:59.6-02:24:07.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

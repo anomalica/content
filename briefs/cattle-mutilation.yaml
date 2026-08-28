@@ -1,0 +1,245 @@
+schema: anomalica/brief/1
+brief_hash: 47248938c57c026df8e9fa27a63055c008fbd635603cfe9b430b70183b4e3d40
+page:
+  kind: entity
+  node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
+  node_type: topic
+  title: cattle mutilation
+  slug: cattle-mutilation
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+  title: Erik Nanstiel
+  node_type: person
+  slug: erik-nanstiel
+  shared_claims: 2
+- node_id: 583f554d-a577-4487-9bd9-6a6d715d10cc
+  title: Greys (extraterrestrial beings)
+  node_type: topic
+  slug: greys-extraterrestrial-beings
+  shared_claims: 2
+- node_id: f0f5c93f-5fe4-4747-b3cf-57d7f6b27d73
+  title: United States Department of Agriculture (USDA)
+  node_type: organisation
+  slug: united-states-department-of-agriculture-usda
+  shared_claims: 2
+- node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+  title: Dwight D. Eisenhower
+  node_type: person
+  slug: dwight-d-eisenhower
+  shared_claims: 1
+- node_id: 520806c0-ec83-4da9-8d00-4c0c9f33d7c9
+  title: Eisenhower extraterrestrial treaty (alleged)
+  node_type: event
+  slug: eisenhower-extraterrestrial-treaty-alleged
+  shared_claims: 1
+- node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+  title: Linda Moulton Howe
+  node_type: person
+  slug: linda-moulton-howe
+  shared_claims: 1
+claims:
+- claim_id: dc751c00-14ab-4e00-95ee-d80a09d6bf95
+  claim_hash: d93c726f89ba033856d9f5e5ead9e79a2fea95c2033a5e0c5e8424a9cdd4f44e
+  content: Bovine samples related to alleged cattle mutilations could be found with
+    the United States Department of Agriculture.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
+    title: cattle mutilation
+    slug: cattle-mutilation
+  - node_id: f0f5c93f-5fe4-4747-b3cf-57d7f6b27d73
+    title: United States Department of Agriculture (USDA)
+    slug: united-states-department-of-agriculture-usda
+  date: null
+  date_end: null
+  location_in_record: ch21:6858-6966
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: b39d4cce-9d1e-450d-936f-5e0599c9e9fa
+  claim_hash: 12d0a75a21d149b8c0c0142a08e55111524faa2237c10a87e800ab68cf7df56d
+  content: A veterinarian from Montana who worked with the United States Department
+    of Agriculture and conducted autopsies on some of the mutilated cattle told Lue
+    Elizondo he believed these animals had been killed by a technology not yet seen,
+    and that no one was taking it seriously other than the ranchers.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a veterinarian from Montana who worked with the United States Department
+      of Agriculture
+    relay:
+    - told directly to Lue Elizondo
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
+    title: cattle mutilation
+    slug: cattle-mutilation
+  - node_id: f0f5c93f-5fe4-4747-b3cf-57d7f6b27d73
+    title: United States Department of Agriculture (USDA)
+    slug: united-states-department-of-agriculture-usda
+  date: null
+  date_end: null
+  location_in_record: ch21:6979-7249
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 58060803-f2bc-409b-b0a5-03de88065905
+  claim_hash: 8f71657c296518a2a563beebe25718d12e0907aeb739ebe663720952f1a8e379
+  content: In recent cattle mutilations, as in the work of Linda Moulton Howe, animals
+    are completely exsanguinated when their carcasses are dumped and certain tissues
+    are removed apparently with high-heat instruments like a laser.
+  original_excerpt: in recent years with the cattle mutilations, like the work of
+    Linda Moulton Howe and stuff, these animals are completely exsanguinated. when
+    their carcasses are dumped and certain tissues are removed that appear to be with
+    high heat instruments like a laser of some kind.
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+    slug: erik-nanstiel
+  - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+    title: Linda Moulton Howe
+    slug: linda-moulton-howe
+  - node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
+    title: cattle mutilation
+    slug: cattle-mutilation
+  date: null
+  date_end: null
+  location_in_record: 01:26:07.8-01:26:30.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+    record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik
+      Nanstiel | DEBRIEFED ep. 85'
+    record_date: '2026-04-24'
+    record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+    content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+    friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+- claim_id: 7bab3765-c623-4083-a197-618f3b457ab6
+  claim_hash: 96779a8b58ef3696a4d682c54bb8dee4a0fe03faba947e9c99df1bbe9f2ddd8d
+  content: Erik Nanstiel theorises the greys consume bovine blood because of its close
+    genetic resemblance to human blood, since they can no longer demand human blood
+    in mass from civilisations as they once did.
+  original_excerpt: so okay, they're consuming bovine blood because of the close genetic
+    resemblance to human blood... these days they can't just demand, okay, we need
+    200 people's worth of blood. You know, they can't go to the Mayas or the Aztecs
+    anymore and say, give us blood.
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+    slug: erik-nanstiel
+  - node_id: 583f554d-a577-4487-9bd9-6a6d715d10cc
+    title: Greys (extraterrestrial beings)
+    slug: greys-extraterrestrial-beings
+  - node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
+    title: cattle mutilation
+    slug: cattle-mutilation
+  date: null
+  date_end: null
+  location_in_record: 01:27:51.2-01:28:18.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+    record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik
+      Nanstiel | DEBRIEFED ep. 85'
+    record_date: '2026-04-24'
+    record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+    content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+    friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+- claim_id: 968ad903-a5a6-4f76-b72b-808843a3d587
+  claim_hash: 3ed642f7a6bb66086c54925d1dcf25a0e034b8c340f0ed7b506a695a1ff30945
+  content: 'According to a legend, Dwight D. Eisenhower was offered two deals: one
+    from the Greys offering technology to the military in exchange for the right to
+    abduct humans and cattle within the United States from a set list, which Erik
+    Nanstiel does not think they adhered to.'
+  original_excerpt: there's there's a legend that said that uh eisenhower was offered
+    two deals ... uh one from the greys it said you know in exchange for uh permission
+    to ... abduct humans and cattle uh from a set list ... In exchange for the right
+    to abduct human and cattle within the United States, we will provide the technology
+    to the military.
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 520806c0-ec83-4da9-8d00-4c0c9f33d7c9
+    title: Eisenhower extraterrestrial treaty (alleged)
+    slug: eisenhower-extraterrestrial-treaty-alleged
+  - node_id: 583f554d-a577-4487-9bd9-6a6d715d10cc
+    title: Greys (extraterrestrial beings)
+    slug: greys-extraterrestrial-beings
+  - node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
+    title: cattle mutilation
+    slug: cattle-mutilation
+  - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+    title: Dwight D. Eisenhower
+    slug: dwight-d-eisenhower
+  date: '1954'
+  date_end: null
+  location_in_record: 01:43:51.5-01:44:31.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+    record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik
+      Nanstiel | DEBRIEFED ep. 85'
+    record_date: '2026-04-24'
+    record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+    content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+    friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2

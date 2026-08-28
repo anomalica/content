@@ -1,0 +1,576 @@
+schema: anomalica/brief/1
+brief_hash: 52a933d5c27166b041e060b80e20eb2673053a2a2c168e72aeb47bf95e47e33b
+page:
+  kind: entity
+  node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+  node_type: topic
+  title: Non-Human Intelligence
+  slug: non-human-intelligence
+  claim_count: 12
+  claim_count_total: 12
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+  title: Ross Coulthart
+  node_type: person
+  slug: ross-coulthart
+  shared_claims: 4
+- node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
+  title: Douglas Caddy
+  node_type: person
+  slug: douglas-caddy
+  shared_claims: 2
+- node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+  title: E. H. Lamont
+  node_type: person
+  slug: e-h-lamont
+  shared_claims: 2
+- node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+  title: Jonathan Caplan
+  node_type: person
+  slug: jonathan-caplan
+  shared_claims: 2
+- node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
+  title: Steven Spielberg
+  node_type: person
+  slug: steven-spielberg
+  shared_claims: 2
+- node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+  title: Close Encounters of the Third Kind (1977 film)
+  node_type: document
+  slug: close-encounters-of-the-third-kind-1977-film
+  shared_claims: 1
+- node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+  title: David Grush
+  node_type: person
+  slug: david-grush
+  shared_claims: 1
+- node_id: 3e00227f-4ac3-4c3c-8591-bbd5b34f0240
+  title: David Lamar Christ
+  node_type: person
+  slug: david-lamar-christ
+  shared_claims: 1
+- node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
+  title: John F. Kennedy assassination
+  node_type: event
+  slug: john-f-kennedy-assassination
+  shared_claims: 1
+- node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+  title: Legacy Program
+  node_type: project
+  slug: legacy-program
+  shared_claims: 1
+- node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+  title: Nat Kobitz
+  node_type: person
+  slug: nat-kobitz
+  shared_claims: 1
+- node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+  title: North American Aerospace Defense Command (NORAD)
+  node_type: organisation
+  slug: north-american-aerospace-defense-command-norad
+  shared_claims: 1
+- node_id: 4f799605-879b-4e8d-935d-811b4bd7c6ac
+  title: USA, Alaska
+  node_type: place
+  slug: alaska-usa
+  shared_claims: 1
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+- node_id: ab67239f-b401-4986-8206-8078d78628c7
+  title: White Sands Proving Ground
+  node_type: place
+  slug: white-sands-proving-ground
+  shared_claims: 1
+claims:
+- claim_id: b897aa93-707c-4009-ac21-0d32990d8938
+  claim_hash: 51394df1b38f388e5456eaba3805782b690a088635923be823bed0fc6667c699
+  content: When a reporter asked a North American Aerospace Defense Command (NORAD)
+    general whether the object taken down over USA, Alaska in early 2023 was extraterrestrial,
+    the general answered that he was not ruling anything out.
+  original_excerpt: the reporter asked are these extraterrestrial general and the
+    answer was i'm not ruling anything out
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: an unnamed North American Aerospace Defense Command (NORAD) general
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+    title: North American Aerospace Defense Command (NORAD)
+    slug: north-american-aerospace-defense-command-norad
+  - node_id: 4f799605-879b-4e8d-935d-811b4bd7c6ac
+    title: USA, Alaska
+    slug: alaska-usa
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  date: '2023'
+  date_end: null
+  location_in_record: 00:06:50.9-00:06:55.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+    record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+    record_date: '2024-10-02'
+    record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+    content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+    friendly_name: null
+- claim_id: e5997828-6045-4995-915d-844539874806
+  claim_hash: 3337d9c1cfd460fb4f6363df7ae3aa47af3f7a67b43022da3d9ea77f5fba8337
+  content: The first newly found Majestic 12 document contains a claim that a non-human
+    intelligence (NHI) craft was forced to land at the White Sands Proving Ground.
+  original_excerpt: there was a claim in that first document, I think, that talked
+    about the crashing of an NHI craft, the idea that there was an alien craft that
+    was forced to land the White Sands Proving Ground.
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: document
+    origin: newly found Majestic 12 document
+    relay:
+    - Ross Coulthart
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  - node_id: ab67239f-b401-4986-8206-8078d78628c7
+    title: White Sands Proving Ground
+    slug: white-sands-proving-ground
+  date: null
+  date_end: null
+  location_in_record: 00:36:02.5-00:36:14.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: 3327c5b3-99f8-4ef5-a0b1-8cec612215d8
+  claim_hash: 6201279750b242ec939f5d9d76d9bb60cd7f855c514393b5e37547d9f1c9054e
+  content: As Douglas Caddy and E. Howard Hunt were parting on the sidewalk, with
+    Hunt going off to prison, Caddy asked why John F. Kennedy was assassinated, and
+    Hunt said it was because he was about to reveal the alien presence.
+  original_excerpt: he pressed his luck again, and he said, well, why was Kennedy
+    assassinated? And Hunt came out with the memorable phrase, because he was about
+    to reveal the alien presence.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: named
+    origin: Douglas Caddy
+    relay:
+    - Jonathan Caplan's research
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
+    title: John F. Kennedy assassination
+    slug: john-f-kennedy-assassination
+  - node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
+    title: Douglas Caddy
+    slug: douglas-caddy
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+    title: E. H. Lamont
+    slug: e-h-lamont
+  date: null
+  date_end: null
+  location_in_record: 00:51:22.4-00:51:33.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: 2ebc151a-085a-4242-b2cf-370ea0416cee
+  claim_hash: 8315ef578f0a97f4fb174313e6a469fc19ae5ba4e405ea2c61f9f710f7ecd8a7
+  content: Ross Coulthart considers it implied that David Lamar Christ was aware of
+    the alien presence, as E. Howard Hunt alluded to in his conversation with Douglas
+    Caddy.
+  original_excerpt: the implication is that he was aware of the alien presence, as
+    Howard Hunt alluded in his conversation with Douglas Caddy.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3e00227f-4ac3-4c3c-8591-bbd5b34f0240
+    title: David Lamar Christ
+    slug: david-lamar-christ
+  - node_id: 463e5470-0db2-4a09-bc36-30dcd8933f43
+    title: Douglas Caddy
+    slug: douglas-caddy
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+    title: E. H. Lamont
+    slug: e-h-lamont
+  date: null
+  date_end: null
+  location_in_record: 00:54:49.5-00:54:56.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: c3b73c5c-36e3-4f22-ad8e-60b72a9f94da
+  claim_hash: 5c4e347b43c179dd672a506e355eacfc811497b96c39c8f7afeb26ebfeaf6997
+  content: Jonathan Caplan is in no doubt that there is a non-human intelligence engaging
+    with the planet.
+  original_excerpt: Are you in any doubt at all that there is a non-human intelligence
+    engaging with this planet? No, none at all.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jonathan Caplan
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+    slug: jonathan-caplan
+  date: null
+  date_end: null
+  location_in_record: 01:21:48.1-01:21:54.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: 4429817f-f7d7-48f1-b1ac-9543f21e6610
+  claim_hash: b9207922e144b69e029b2c6eda9daeda12a9215a471518db4cff624c7419bbb8
+  content: Jonathan Caplan considers there to be other forms of non-human intelligence
+    beyond extraterrestrial life which are not understood.
+  original_excerpt: I think there's other forms of non-human intelligence which we
+    do not understand.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jonathan Caplan
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+    slug: jonathan-caplan
+  date: null
+  date_end: null
+  location_in_record: 01:22:20.4-01:22:24.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: cdc9c276-3fa6-4671-b8f4-1d52bb677b6c
+  claim_hash: 3785f279c3950dea1a31c5c419b17311dfcde87809f901a04b8ba41ad67b06c7
+  content: David Grush talked about agreements he was able to discuss under Defense
+    Office of Prepublication and Security Review (DOPSR) clearance, potentially involving
+    foreign adversary powers or non-human intelligence regarding Unidentified Aerial
+    Phenomena (UAP).
+  original_excerpt: David Grusch, for example, talked about agreements that he was
+    able to talk about in his DOPSA. the idea that there are agreements potentially
+    either with foreign adversary powers about UAPs or perhaps even with NHI.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: named
+    origin: David Grush
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+    title: David Grush
+    slug: david-grush
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  date: null
+  date_end: null
+  location_in_record: 01:29:12.6-01:29:24.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: 123d979a-8500-442b-a5b4-d828a51a61da
+  claim_hash: 1e9917fe2fdd9080c4cd45e82d746008c8350ba84ba4e2eb65f1997fc85c126c
+  content: Ross Coulthart considers that Steven Spielberg has a long and illustrious
+    history of covering non-human intelligence in an intelligent and provocative way.
+  original_excerpt: I think Steven Spielberg has a long and illustrious history in
+    covering the issue of non-human intelligence, I think, in an intelligent and provocative
+    way.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
+    title: Steven Spielberg
+    slug: steven-spielberg
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    slug: ross-coulthart
+  date: null
+  date_end: null
+  location_in_record: 00:09:42.2-00:09:52.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+    friendly_name: null
+- claim_id: 57c756c8-2e00-4c33-adaf-57d11b5bb343
+  claim_hash: 0bb64e95a31c8adea55b28e672c21a4f992ec243f67ad6a4e1f9dd0a20634e95
+  content: Ross Coulthart takes issue with Steven Spielberg consistently portraying
+    non-human beings as benevolent and never a threat.
+  original_excerpt: one thing I do take issue with, I guess, is he's consistently
+    portrayed the beings as always benevolent, never a threat.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
+    title: Steven Spielberg
+    slug: steven-spielberg
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    slug: ross-coulthart
+  date: null
+  date_end: null
+  location_in_record: 00:09:56.2-00:10:04.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+    friendly_name: null
+- claim_id: 90d3d5b9-fc2e-483f-a480-78c34423fe86
+  claim_hash: 89d9f06b88ab16625471e3b93dd64743109cf8d882fb50f9ed7a0303f05a69b4
+  content: People Ross Coulthart has spoken to say that the non-human intelligences,
+    of which there are allegedly multiple, cannot all be described as completely benevolent.
+  original_excerpt: that's not consistent with some of the people that I've spoken
+    to that say that you can't describe everything about these non-human intelligences,
+    of which there are allegedly multiple, as being 100% benevolent.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: anonymous
+    origin: unnamed people Ross Coulthart has spoken to about non-human intelligence
+    relay:
+    - Ross Coulthart
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    slug: ross-coulthart
+  date: null
+  date_end: null
+  location_in_record: 00:10:04.8-00:10:15.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+    friendly_name: null
+- claim_id: 9717e19e-e7bb-405a-bcee-559281dd3102
+  claim_hash: 72f80bf8566b4f44299fa53ea8202e4796123fb7a82b6b295c64b7108f3ce09c
+  content: Close Encounters of the Third Kind explored the idea of human engagement,
+    direct contact and possible agreements with non-human beings, and of human astronauts
+    boarding an alien spacecraft and travelling elsewhere.
+  original_excerpt: that film, Close Encounters, was exploring the idea of human engagement,
+    direct contact and perhaps agreements with non-human beings and the idea of human
+    astronauts going onto an alien spacecraft and going somewhere else.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: unattributed
+    origin: Ross Coulthart's narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+    title: Close Encounters of the Third Kind (1977 film)
+    slug: close-encounters-of-the-third-kind-1977-film
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  date: null
+  date_end: null
+  location_in_record: 00:10:51.4-00:11:07.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+    friendly_name: null
+- claim_id: b80bbb3d-369c-49ff-8200-96baeef0074b
+  claim_hash: 499c057db7df2cf9936441bc2af510521155627d25f90882a09641251d6599a9
+  content: Nat Kobitz told Ross Coulthart that the United States has recovered multiple
+    non-human craft.
+  original_excerpt: the fact that the United States has recovered quote multiple non-human
+    craft
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: named
+    origin: Nat Kobitz
+    relay:
+    - Ross Coulthart
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+    slug: nat-kobitz
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    slug: non-human-intelligence
+  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+    title: Legacy Program
+    slug: legacy-program
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    slug: ross-coulthart
+  date: null
+  date_end: null
+  location_in_record: 00:32:12.5-00:32:18.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+    record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+    content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+    friendly_name: null

@@ -1,0 +1,1556 @@
+schema: anomalica/brief/1
+brief_hash: e527052f28f9352573e41b7eb5958abb5c2212947393d30f82d56c56c6b0ef25
+page:
+  kind: entity
+  node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+  node_type: organisation
+  title: Lockheed Martin
+  slug: lockheed-martin
+  claim_count: 35
+  claim_count_total: 35
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+  title: Crew Exploration Vehicle (CEV)
+  node_type: object
+  slug: crew-exploration-vehicle-cev
+  shared_claims: 7
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 7
+- node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+  title: Lockheed Martin Skunk Works
+  node_type: organisation
+  slug: lockheed-martin-skunk-works
+  shared_claims: 6
+- node_id: 5d4091a0-d807-4db5-9d2e-302b40c720b9
+  title: Orion (spacecraft)
+  node_type: object
+  slug: orion-spacecraft
+  shared_claims: 6
+- node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+  title: Northrop Grumman
+  node_type: organisation
+  slug: northrop-grumman
+  shared_claims: 4
+- node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+  title: Tom DeLonge
+  node_type: person
+  slug: tom-delonge
+  shared_claims: 3
+- node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
+  title: 2024 United States congressional hearing on UAPs (13 November)
+  node_type: event
+  slug: 2024-united-states-congressional-hearing-on-uaps-13-november
+  shared_claims: 2
+- node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+  title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+  node_type: project
+  slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  shared_claims: 2
+- node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+  title: Boeing
+  node_type: organisation
+  slug: boeing
+  shared_claims: 2
+- node_id: 477dc562-cca0-401c-9ff3-c36c5422d242
+  title: George Trimble
+  node_type: person
+  slug: george-trimble
+  shared_claims: 2
+- node_id: 403094b3-3f6f-49b0-92c4-1b3315688127
+  title: Glenn L. Martin Company
+  node_type: organisation
+  slug: glenn-l-martin-company
+  shared_claims: 2
+- node_id: 7946d3c7-0d50-42ae-86f8-1521961ee30a
+  title: Keoki Jackson
+  node_type: person
+  slug: keoki-jackson
+  shared_claims: 2
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 2
+- node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+  title: NASA Jet Propulsion Laboratory (JPL)
+  node_type: organisation
+  slug: nasa-jet-propulsion-laboratory-jpl
+  shared_claims: 2
+- node_id: 42d28ff6-8f03-45b3-8d09-9bd001cd6230
+  title: Nick Cook
+  node_type: person
+  slug: nick-cook
+  shared_claims: 2
+- node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+  title: Ben Rich
+  node_type: person
+  slug: ben-rich
+  shared_claims: 1
+- node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+  title: Bigelow Aerospace
+  node_type: organisation
+  slug: bigelow-aerospace
+  shared_claims: 1
+- node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+  title: Bob Lazar
+  node_type: person
+  slug: bob-lazar
+  shared_claims: 1
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 1
+- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+  title: Christopher K. Mellon
+  node_type: person
+  slug: christopher-k-mellon
+  shared_claims: 1
+- node_id: 03b7390b-c6ee-4c68-9536-b6f547c4734d
+  title: Dan Goldin
+  node_type: person
+  slug: dan-goldin
+  shared_claims: 1
+- node_id: 6ed8cca1-7933-45ad-94ca-0718946c8cb2
+  title: Dark Star
+  node_type: object
+  slug: dark-star
+  shared_claims: 1
+- node_id: c09e3558-1732-4676-a218-d67d285d98ef
+  title: David Fravor
+  node_type: person
+  slug: david-fravor
+  shared_claims: 1
+- node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
+  title: Defense Advanced Research Projects Agency (DARPA)
+  node_type: organisation
+  slug: defense-advanced-research-projects-agency-darpa
+  shared_claims: 1
+- node_id: e1014d56-f0d9-46ef-b2cd-e24a45f2f8ed
+  title: F-22 Raptor
+  node_type: object
+  slug: f-22-raptor
+  shared_claims: 1
+- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+  title: Jacques Vallée
+  node_type: person
+  slug: jacques-vallee
+  shared_claims: 1
+- node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+  title: Jason Samosa
+  node_type: person
+  slug: jason-samosa
+  shared_claims: 1
+- node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
+  title: Jim Goodall
+  node_type: person
+  slug: jim-goodall
+  shared_claims: 1
+- node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+  title: John Podesta
+  node_type: person
+  slug: john-podesta
+  shared_claims: 1
+- node_id: 7eaac853-d863-4210-af67-e165485c02e9
+  title: Lex Fridman
+  node_type: person
+  slug: lex-fridman
+  shared_claims: 1
+claims:
+- claim_id: 5f8dd875-1bec-4da2-9b4c-83d96f28687b
+  claim_hash: ede0fca0a76637bac3be0da3bfef7e9c7aeb7b5c4b7a6970ac765ed4d6e1c897
+  content: The Lockheed Martin navigation team transmitted acceleration data for Mars
+    Climate Orbiter in the imperial (English) measurement system, while controllers
+    at the Jet Propulsion Laboratory (JPL) assumed the data was in metric units.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: 91311fa3-e6c9-410e-bb50-6d7c8ac45c51
+    title: Mars Climate Orbiter (MCO)
+    slug: mars-climate-orbiter-mco
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: null
+  date_end: null
+  location_in_record: ch14:11805-11926
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 6914afeb-f7d5-4dee-810d-e009c5d4dfc8
+  claim_hash: e6ae5af586705ce1433ece421f71a4053b27c6ecf3976cd2f58c42b456c282cf
+  content: Following the loss of both Mars Climate Orbiter and Mars Polar Lander,
+    National Aeronautics and Space Administration director Dan Goldin appointed a
+    commission headed by Thomas Young, formerly of Lockheed Martin, to investigate
+    the Mars Polar Lander disappearance and the entire Mars program at the Jet Propulsion
+    Laboratory (JPL).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03b7390b-c6ee-4c68-9536-b6f547c4734d
+    title: Dan Goldin
+    slug: dan-goldin
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: 53d36b51-c65d-4870-965b-fd1d31d80460
+    title: Tom Young
+    slug: tom-young
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: e3dff71a-051d-4241-9052-848760263a29
+    title: Mars Polar Lander (MPL)
+    slug: mars-polar-lander-mpl
+  - node_id: f1d67f05-cc9b-4cce-8353-c542fd4a3580
+    title: Young Report (Mars Polar Lander failure investigation)
+    slug: young-report-mars-polar-lander-failure-investigation
+  date: null
+  date_end: null
+  location_in_record: ch14:19068-19251
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 7946c65f-7127-49dd-80bc-406dccaa5657
+  claim_hash: dffbf8d5b8db3973f946ae25bec55094cc96ac14c67c687b3a3423f72204a0fc
+  content: Lockheed Martin was one of the two aerospace consortiums working on Project
+    Constellation proposals in early 2006.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 94cd4214-7d01-4628-8a01-1c77b99b8e52
+    title: Project Constellation
+    slug: project-constellation
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: '2006'
+  date_end: null
+  location_in_record: ch19:79942-79966
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: fa8961a6-6df0-4d1f-8f08-c1484a99026f
+  claim_hash: 8e9cc97c30c6bc6d90a9797eb44270e7302afea866d140783fa68521dbccf07d
+  content: Lockheed Martin's initial Crew Exploration Vehicle proposal failed to meet
+    NASA's requirement of an evolution of the Apollo capsule concept, dubbed "Apollo
+    on steroids".
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+    title: Crew Exploration Vehicle (CEV)
+    slug: crew-exploration-vehicle-cev
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: null
+  date_end: null
+  location_in_record: ch19:80455-80635
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 35472f81-4786-4edc-a01b-01b1a7f92436
+  claim_hash: 3c2c9a4390e71b01b56d19be72d8f24dd7a37644a99bb0afa0c18e6ae79833d1
+  content: In March, at a preliminary design review, the National Aeronautics and
+    Space Administration (NASA) told Lockheed Martin to redesign its Crew Exploration
+    Vehicle proposal to more closely resemble an Apollo-style capsule similar to Northrop
+    Grumman's concept.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+    title: Crew Exploration Vehicle (CEV)
+    slug: crew-exploration-vehicle-cev
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  date: 2006-03
+  date_end: null
+  location_in_record: ch19:80643-80852
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 5036a5ea-d555-42f0-be8f-fa95c1da950a
+  claim_hash: d64739b5ad451f3216fae73ca2a08a07a197f8e4af52413a85b59d3581c2952e
+  content: Lockheed Martin proposed a new suite of avionics for the Crew Exploration
+    Vehicle that would require extensive technological development, while Northrop
+    Grumman's proposal emphasised existing, proven electronics.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+    title: Crew Exploration Vehicle (CEV)
+    slug: crew-exploration-vehicle-cev
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  date: null
+  date_end: null
+  location_in_record: ch19:82402-82548
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 12aea4c9-3670-410b-b3f9-96a4ae202e69
+  claim_hash: 0183412c96fbefcc33bb8dd293284eb3b97c85c105d583dc39dd77aa79a7db02
+  content: Lockheed Martin proposed using its satellite division in Colorado as the
+    prime design centre for the Crew Exploration Vehicle, despite never having built
+    a crewed spacecraft before.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+    title: Crew Exploration Vehicle (CEV)
+    slug: crew-exploration-vehicle-cev
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: null
+  date_end: null
+  location_in_record: ch19:82561-82700
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 25cd09e2-4179-4144-b7c5-519ca13ee8c2
+  claim_hash: c2d1060a1ae175cde65a03ed3a219dbfcd7476c04d089951d05bbf2f3d079c74
+  content: When final Crew Exploration Vehicle designs were submitted in 2006-05,
+    Northrop Grumman officials were confident their proposal had surpassed the Lockheed
+    Martin design.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+    title: Crew Exploration Vehicle (CEV)
+    slug: crew-exploration-vehicle-cev
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  date: 2006-05
+  date_end: null
+  location_in_record: ch19:82709-82841
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: ec5518f6-0e8f-4291-a5a7-48d82b6f1fda
+  claim_hash: 47126ef0e13c9755488b7cf0c2e495fe46f5666030cb7accd9d32826650419a9
+  content: Lockheed Martin had a dismal track record on an earlier Space Shuttle replacement
+    project called the X-33, spending several years and nearly a billion dollars without
+    producing anything beyond some quarter-scale models.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 506dd33e-a568-4a5a-b296-3c82db541219
+    title: Space Shuttle
+    slug: space-shuttle
+  - node_id: 7871a1eb-9574-4aaf-9042-c55830d1bb4d
+    title: X-33 (space plane)
+    slug: x-33-space-plane
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: null
+  date_end: null
+  location_in_record: ch19:82948-83188
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 03ddc761-6a26-4804-9b62-2141e7078b58
+  claim_hash: c8d825c2a633b92c100dd0903ae0acc1d5bf5d514a01ccd0a60304090fa08f1c
+  content: In late August 2006, the National Aeronautics and Space Administration
+    (NASA) announced that Lockheed Martin had been awarded the Orion Crew Exploration
+    Vehicle program.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5d4091a0-d807-4db5-9d2e-302b40c720b9
+    title: Orion (spacecraft)
+    slug: orion-spacecraft
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+    title: Crew Exploration Vehicle (CEV)
+    slug: crew-exploration-vehicle-cev
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: 2006-08
+  date_end: null
+  location_in_record: ch19:86161-86284
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 1bbb4d4d-eaf0-4ec4-aa8f-5afeb691105e
+  claim_hash: c06e1b6cdbbbb3c9fa1d14a78f7f563ea6db59ea1a0030a0c4d62cb6d71ba1e2
+  content: Richard C. Hoagland had correctly predicted for weeks before the announcement
+    that Lockheed Martin would be awarded the Orion Crew Exploration Vehicle program.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5d4091a0-d807-4db5-9d2e-302b40c720b9
+    title: Orion (spacecraft)
+    slug: orion-spacecraft
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+    title: Crew Exploration Vehicle (CEV)
+    slug: crew-exploration-vehicle-cev
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch19:86161-86466
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 5a0a7403-bcb8-42e9-a406-6604c857eab6
+  claim_hash: 28c2ebfb1cb89aca3d86dd694156149caf550c383f96a26539864fca06df16ea
+  content: NASA's formal stated reasons for the Orion decision were that Lockheed
+    Martin had promised to launch sooner and agreed to do final assembly in Florida.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5d4091a0-d807-4db5-9d2e-302b40c720b9
+    title: Orion (spacecraft)
+    slug: orion-spacecraft
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+    title: USA, Florida
+    slug: florida-usa
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: null
+  date_end: null
+  location_in_record: ch19:86476-86612
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: e7f836da-6554-497d-8740-c0294a9101da
+  claim_hash: dc59d4ec864999ea58f5db0780a75dbec82db634a786f45cb2981d1b6082eca7
+  content: NASA cited that Lockheed Martin's Orion design used circular solar panels
+    rather than rectangular ones as a technical reason for the award decision.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5d4091a0-d807-4db5-9d2e-302b40c720b9
+    title: Orion (spacecraft)
+    slug: orion-spacecraft
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: null
+  date_end: null
+  location_in_record: ch19:86621-86797
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 3a0ba265-8f35-4921-bd63-68288128ea8c
+  claim_hash: 8e086ff89be8ad12369b3ec7673ee51fc70994010a2b0d87f4b44f5205c3ae86
+  content: Richard C. Hoagland considers the circular shape of Lockheed Martin's Orion
+    solar panels to eerily resemble the look and placement of the belt stars in the
+    constellation Orion.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5d4091a0-d807-4db5-9d2e-302b40c720b9
+    title: Orion (spacecraft)
+    slug: orion-spacecraft
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: null
+  date_end: null
+  location_in_record: ch19:86806-86976
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 7b3a0465-3052-4e25-a12e-15c4bb46f759
+  claim_hash: 8ba235306274dcbca1bac69a986953e5cd8960348e97e8a5ad98e82ff3691fb7
+  content: At the official contractor unveiling press conference, it was learned that
+    the final decision for Lockheed Martin's Orion design had been made by NASA Administrator
+    Mike Griffin himself rather than by any review committee.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5d4091a0-d807-4db5-9d2e-302b40c720b9
+    title: Orion (spacecraft)
+    slug: orion-spacecraft
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: d6836f10-2c28-42bb-befa-2ce018e49da2
+    title: Michael Griffin
+    slug: michael-griffin
+  date: null
+  date_end: null
+  location_in_record: ch19:87131-87339
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 43130faf-5eb5-42b4-8861-c28b2737d2a0
+  claim_hash: 14f23774f455d0759e1681f4b694a6399655394551800eb17247319d1081123a
+  content: David Fravor considers Northrop Grumman, Lockheed Martin, and Boeing to
+    be the big three companies in the United States defence industry.
+  original_excerpt: there's the big three in defense, which is really, you know, Northrop,
+    Lockheed, and Boeing.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+    title: Boeing
+    slug: boeing
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: 02:17:17.4-02:17:22.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: daa5401f-95e5-42c1-b512-4bd764b87a87
+  claim_hash: 199b98655cd0519c5c5ddb93f13cb14758ef1667070437772f0ae142e8a8f4ab
+  content: Keoki Jackson is the chief technology officer of Lockheed Martin.
+  original_excerpt: i talked to cto of lockheed uh keiko jackson
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 7eaac853-d863-4210-af67-e165485c02e9
+    title: Lex Fridman
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lex Fridman
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7946d3c7-0d50-42ae-86f8-1521961ee30a
+    title: Keoki Jackson
+    slug: keoki-jackson
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: null
+  date_end: null
+  location_in_record: 03:16:41.1-03:16:43.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: e7402742-b40c-42a0-858c-a2b62a199439
+  claim_hash: 68fec24af3faa60639c10885eeb0209a7bf95d28448398e9be38ba2ea3676004
+  content: David Fravor spoke with Lockheed Martin's chief technology officer Keoki
+    Jackson about Lockheed Skunk Works.
+  original_excerpt: i talked to cto of lockheed uh keiko jackson and just just kunkworks
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 7eaac853-d863-4210-af67-e165485c02e9
+    title: Lex Fridman
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lex Fridman
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7946d3c7-0d50-42ae-86f8-1521961ee30a
+    title: Keoki Jackson
+    slug: keoki-jackson
+  - node_id: 7eaac853-d863-4210-af67-e165485c02e9
+    title: Lex Fridman
+    slug: lex-fridman
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    slug: lockheed-martin-skunk-works
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: null
+  date_end: null
+  location_in_record: 03:16:41.1-03:16:45.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: 4120858f-cd4d-4d65-a101-095ff0d14ef6
+  claim_hash: 302fca339f3e2606ca8e355c3554c34169a0bc7a12d43bcf8664a6d55d2dede4
+  content: Jim Goodall befriended engineer Ben Rich, the former Director of Lockheed
+    Martin's Skunk Works, the pseudonym for Lockheed Martin's secretive Advanced Developments
+    Projects division where many of America's most advanced aircraft have been designed.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    slug: lockheed-martin-skunk-works
+  - node_id: a819383f-c9d1-451b-950b-fe7aa46260cf
+    title: Jim Goodall
+    slug: jim-goodall
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+    title: Ben Rich
+    slug: ben-rich
+  date: null
+  date_end: null
+  location_in_record: ch13:13431-13709
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ffadaac8-8fc4-4c6c-9b29-75693736a30c
+  claim_hash: fe09f7652b85822f9bc08a1456572d41d690ee7b3903f7b76e5baeff4ca4b8bd
+  content: The Lockheed Martin F-22 Raptor fighter has a top speed of only 2414 kilometres
+    per hour.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: e1014d56-f0d9-46ef-b2cd-e24a45f2f8ed
+    title: F-22 Raptor
+    slug: f-22-raptor
+  date: null
+  date_end: null
+  location_in_record: ch13:19351-19443
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 96eab035-67ac-45fd-99ab-809b82bc55d8
+  claim_hash: 6db8ab735f3b5c2679dfff95f7abeeeab2a1a0d11d9dd1ce8dd7a1a37e911477
+  content: Lockheed Martin stated that Tom DeLonge reached out to Skunk Works with
+    interest in collaborating on a documentary focused on secret machines and advanced
+    development projects, that multiple Skunk Works team members met with him to explore
+    his vision, and that Lockheed Martin ultimately decided not to move forward with
+    participation in the documentary.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Lockheed Martin
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    slug: lockheed-martin-skunk-works
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  date: null
+  date_end: null
+  location_in_record: ch18:15278-15884
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 541e7b0f-e70b-4f52-802b-a63c58b9c921
+  claim_hash: 9cf657f79070be08eb638041da9ebcfbeec7417ca896250c39e52af382a1f5de
+  content: The leaked Podesta emails contained a string of exchanges between John
+    Podesta and Tom DeLonge revealing plans for a Google Hangout meeting between DeLonge,
+    two US Air Force generals, and Rob Weiss, the Lockheed Martin executive vice-president
+    and general manager of its advanced development programs known as Skunk Works.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: leaked Podesta emails
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    slug: john-podesta
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    slug: lockheed-martin-skunk-works
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  - node_id: ee0c01e2-9f22-416a-9450-67d7b46d9ac5
+    title: United States Air Force generals and intelligence officials briefing Tom
+      DeLonge
+    slug: united-states-air-force-generals-and-intelligence-officials-briefing-tom-delonge
+  date: null
+  date_end: null
+  location_in_record: ch20:4492-4853
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 1c637488-34ff-4e19-97d8-82a393d101d7
+  claim_hash: 6822cfb5adf5e4d6023c2d3d1d5324b0ac6f9ec28d33c7f13f6ac5a697b651ce
+  content: Christopher Mellon, responding to a posted video of a triangular craft
+    recorded in 1997 in a private email to members of a private news group, said his
+    current and former colleagues at Lockheed Martin and the Lockheed Martin Skunk
+    Works have stated privately that if a TR3B craft exists, it is not made by Lockheed
+    Martin.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+  provenance_chain:
+    origin_kind: named
+    origin: Christopher Mellon
+    relay:
+    - an email to a private news group
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    slug: lockheed-martin-skunk-works
+  - node_id: 9b0b88b3-ca1d-41b8-b67d-66fb0a918588
+    title: TR3B
+    slug: tr3b
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: '1997'
+  date_end: null
+  location_in_record: ch28:10916-11079
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9e923040-7efd-4899-a55b-c4a85a7e1950
+  claim_hash: 88f549bfcae49deff2f7ac18dab5182cb5d019adc4f84fc00dd7006b8bc10b54
+  content: Nick Cook investigated George S. Trimble, a former vice president with
+    the Glenn L. Martin Company, which eventually merged into Lockheed Martin Corporation.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 403094b3-3f6f-49b0-92c4-1b3315688127
+    title: Glenn L. Martin Company
+    slug: glenn-l-martin-company
+  - node_id: 42d28ff6-8f03-45b3-8d09-9bd001cd6230
+    title: Nick Cook
+    slug: nick-cook
+  - node_id: 477dc562-cca0-401c-9ff3-c36c5422d242
+    title: George Trimble
+    slug: george-trimble
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: null
+  date_end: null
+  location_in_record: ch28:19359-19546
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c0ec043f-92dc-4d87-8069-1e07b54fad9d
+  claim_hash: e6343ec9746e5f8a938c352357d174ae47f69c7cffb8254da85aa3196bffebf0
+  content: Nick Cook chased down George S. Trimble, a former vice president with the
+    Glenn L. Martin Company, which eventually merged to become part of Lockheed Martin
+    Corporation.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 403094b3-3f6f-49b0-92c4-1b3315688127
+    title: Glenn L. Martin Company
+    slug: glenn-l-martin-company
+  - node_id: 42d28ff6-8f03-45b3-8d09-9bd001cd6230
+    title: Nick Cook
+    slug: nick-cook
+  - node_id: 477dc562-cca0-401c-9ff3-c36c5422d242
+    title: George Trimble
+    slug: george-trimble
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: null
+  date_end: null
+  location_in_record: ch28:19359-19546
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b5c87687-4878-4768-b435-084dc902ecea
+  claim_hash: 9ccb2013a6cf08d6aa37456d640053033cb1ab3a218ac064c808df1be38b2ee5
+  content: Lockheed Martin, Boeing, and the Defense Advanced Research Projects Agency
+    (DARPA) developed the RQ-3 Dark Star in the mid-to-late 1990s.
+  original_excerpt: Lockheed Martin, Boeing, and DARPA developed Dark Star in the
+    mid-to-late 1990s.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+    title: Boeing
+    slug: boeing
+  - node_id: 6ed8cca1-7933-45ad-94ca-0718946c8cb2
+    title: Dark Star
+    slug: dark-star
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
+    title: Defense Advanced Research Projects Agency (DARPA)
+    slug: defense-advanced-research-projects-agency-darpa
+  date: null
+  date_end: null
+  location_in_record: char:141208-141282
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 817847e5-2bbf-4314-80eb-afe1192cb6c7
+  claim_hash: 66e57d469c88e153ecdd4071d0910817ddea33ac0a03df3254c5593bb75bfcfd
+  content: Lockheed Martin disclosed the existence of the P-175 Polecat at the Farnborough
+    Airshow in 2006.
+  original_excerpt: Lockheed Martin disclosed its existence in the Farnborough Airshow
+    in 2006.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 23906ad8-c5e4-4000-801f-6b071501d711
+    title: P-175 Polecat
+    slug: p-175-polecat
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: '2006'
+  date_end: null
+  location_in_record: char:142904-142974
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 7a55f1bb-13ee-4bd9-ada3-f7bc1bb8b5a5
+  claim_hash: 0efee8b22dfec01d8df05906ec3f71816ba6a8b3d8cc993aad4352406de6dc49
+  content: Lou Elizondo was asked at the 2024 United States congressional hearing
+    on UAPs (13 November) about Lockheed Martin's involvement with underwater projects.
+  original_excerpt: Lou was also asked about Lockheed Martin's involvement with underwater
+    projects and it got very dicey, very cagey, very quickly.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narrator
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
+    title: 2024 United States congressional hearing on UAPs (13 November)
+    slug: 2024-united-states-congressional-hearing-on-uaps-13-november
+  date: '2024-11-13'
+  date_end: null
+  location_in_record: 00:14:51.6-00:15:05.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+    record_title: UAPs in Washington - I wasn't supposed to be there..
+    record_date: '2024-11-24'
+    record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+    content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+    friendly_name: null
+- claim_id: 7b969403-6bc7-423f-8b1a-3812c3277b22
+  claim_hash: 6ca94eef0bede95c1d51693fe15d46c0ef5b05a23b2640dc6599a0381330fa5c
+  content: Lockheed Martin's stated expertise is in aerospace, within the Unidentified
+    Aerial Phenomena (UAP) space.
+  original_excerpt: What's Lockheed's expertise? Aerospace, ma'am. In the UAP space,
+    that's all.
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: a witness at the 2024 United States congressional hearing on UAPs (13
+      November)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: '2024-11-13'
+  date_end: null
+  location_in_record: 00:15:06.3-00:15:10.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+    record_title: UAPs in Washington - I wasn't supposed to be there..
+    record_date: '2024-11-24'
+    record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+    content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+    friendly_name: null
+- claim_id: 5bfa7c5a-94f3-4d41-bc2d-73da263197dd
+  claim_hash: 65ccd96dc80858dab3e144aa051b00bd4fa27ed24a2ce321fada52b48d35c761
+  content: Lou Elizondo denied stating that Lockheed Martin would not conduct submerged
+    operations, when asked about the company's expertise at the 2024 United States
+    congressional hearing on UAPs (13 November).
+  original_excerpt: They wouldn't do submerged. ... No, I didn't say that, ma'am.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lou Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
+    title: 2024 United States congressional hearing on UAPs (13 November)
+    slug: 2024-united-states-congressional-hearing-on-uaps-13-november
+  date: '2024-11-13'
+  date_end: null
+  location_in_record: 00:15:10.7-00:15:15.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+    record_title: UAPs in Washington - I wasn't supposed to be there..
+    record_date: '2024-11-24'
+    record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+    content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+    friendly_name: null
+- claim_id: b0501e4d-6f82-4695-b6ee-e57fe69741d2
+  claim_hash: a338883bc70af40691f7cae53e5ab586a480e836ba6060604eeb0bce5a377c94
+  content: One possible explanation for the matching craft is that the Billy Meier
+    craft was authentic and the craft Bob Lazar was shown was a replica, perhaps a
+    Lockheed Martin deep underground black military project.
+  original_excerpt: the craft that Bob was shown was like a replica of that, right?
+    Perhaps some Lockheed Martin, deep underground black military project.
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+    slug: bob-lazar
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: null
+  date_end: null
+  location_in_record: 00:18:57.0-00:19:05.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+    record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED
+      ep. 92
+    record_date: '2026-06-12'
+    record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+    content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+    friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+- claim_id: 48b14caa-b7f7-44b6-9625-a56f2209ee8d
+  claim_hash: 92702e4ea3074679362d1205560865f589a7f73fc8807d961b48ef357e09f157
+  content: Jacques Vallee validates the account that Tom DeLonge made contact with
+    an individual who worked at Lockheed Martin Skunk Works.
+  original_excerpt: But Vallee, Jacques Vallee, validates the original story, which
+    is that DeLonge had made contact with someone who worked at Lockheed Martin Skunk
+    Works.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: named
+    origin: Jacques Vallee
+    relay:
+    - Jason Samosa
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    slug: lockheed-martin-skunk-works
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    slug: jason-samosa
+  date: null
+  date_end: null
+  location_in_record: 00:35:32.8-00:35:41.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 0738e5c7-54c4-42af-98a5-102be9d49043
+  claim_hash: e1c6fa78af0cc6b76ab12b70465fa85c238c07d168d6ebd86d3e7c1f214c2b84
+  content: Under the Kona Blue proposal, assets were to be transferred from Lockheed
+    Martin, which held UFO material, to Bigelow Aerospace.
+  original_excerpt: Kona Blue, and this idea that we were transferring assets between
+    Lockheed Martin, who had UFO material to Bigelow aerospace
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michels
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: null
+  date_end: null
+  location_in_record: 00:55:12.6-00:55:18.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 831d3715-fbe4-4101-b2fd-be624a988392
+  claim_hash: e67d517956361c4ba29ac26ae7bc11989494a267ad24804f644987597a48c081
+  content: Personnel on the Advanced Aerospace Weapon System Applications Program
+    (AAWSAP) attempted to get Lockheed Martin to transfer recovered material to them
+    outside the programme for study.
+  original_excerpt: They were actually trying to get Lockheed Martin to transfer material
+    to them outside the program for study, kind of outside the onion, so to speak.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: null
+  date_end: null
+  location_in_record: 00:48:43.3-00:48:52.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null
+- claim_id: 9050745f-6661-482b-9bc9-a590e001a677
+  claim_hash: 4e8e5ce7d19dc20c5e59ad7511cea52ed42de4bd2dc0a492b61929c20f624f81
+  content: Central Intelligence Agency (CIA) leadership denied the request to transfer
+    recovered material from Lockheed Martin to the Advanced Aerospace Weapon System
+    Applications Program (AAWSAP).
+  original_excerpt: But CIA leadership denied that.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: null
+  date_end: null
+  location_in_record: 00:48:52.4-00:48:54.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null

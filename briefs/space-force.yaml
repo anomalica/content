@@ -1,0 +1,192 @@
+schema: anomalica/brief/1
+brief_hash: be2ea5a0b215af95111af7f605da60084df264e1b0a217444250d1fda15fe66d
+page:
+  kind: entity
+  node_id: 67de1243-f3e0-4363-b6f7-01d23c6b42bb
+  node_type: organisation
+  title: Space Force
+  slug: space-force
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+  title: Elizondo, Luis
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 3
+- node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+  title: UAP Task Force
+  node_type: organisation
+  slug: uap-task-force
+  shared_claims: 2
+- node_id: f4ef4f38-6d19-4805-a720-3f03dff67602
+  title: Grusch, David
+  node_type: person
+  slug: david-grusch
+  shared_claims: 1
+- node_id: 56721e33-8bd6-4244-8456-432a7fcade6c
+  title: Pentagon Elizondo Space Force Confirmation
+  node_type: event
+  slug: pentagon-elizondo-space-force-confirmation
+  shared_claims: 1
+- node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+  title: Stratton, Jay
+  node_type: person
+  slug: jay-stratton
+  shared_claims: 1
+- node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+  title: The Pentagon
+  node_type: organisation
+  slug: the-pentagon
+  shared_claims: 1
+claims:
+- claim_id: 41a1849b-5f19-4c47-b076-fc01af74ade7
+  claim_hash: c08c632bc6f504cc8f16cf2e078adba83e8778a3b003e3aa034bf457e2a69dd8
+  content: Space Force, the sixth and newest branch of the US military, was created
+    in December 2019 with the Latin motto 'Si Vis Pacem, Para Bellum' (If you want
+    peace, prepare for war).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 67de1243-f3e0-4363-b6f7-01d23c6b42bb
+    title: Space Force
+    slug: space-force
+  date: 2019-12
+  date_end: null
+  location_in_record: Chapter 15, paragraph 13
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 8f6d1e4d-c1b5-4116-8ee9-f91fe71dcbea
+  claim_hash: e54acfeb9e875a67f146aacf9fad0417bb0569d0a06134c805eeebc2ae03fc01
+  content: Luis Elizondo started working as a contractor for the US Space Force on
+    UAP after friends connected him with Space Force leadership.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+    title: UAP Task Force
+    slug: uap-task-force
+  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+    title: Stratton, Jay
+    slug: jay-stratton
+  - node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+    slug: luis-elizondo
+  - node_id: 67de1243-f3e0-4363-b6f7-01d23c6b42bb
+    title: Space Force
+    slug: space-force
+  date: null
+  date_end: null
+  location_in_record: Chapter 23, paragraph 12
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: 209faed1-78ed-4a0a-96d1-a0501a3c16c2
+  claim_hash: 2d7fc45d1b93393b6363b71d1a1a3542e1d93c0f811e9c3ddfacf0ceee10c0ea
+  content: A Pentagon spokesperson confirmed to the media that Luis Elizondo provides
+    technical advice on a variety of classified topics for the US Space Force.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+    title: The Pentagon
+    slug: the-pentagon
+  - node_id: 56721e33-8bd6-4244-8456-432a7fcade6c
+    title: Pentagon Elizondo Space Force Confirmation
+    slug: pentagon-elizondo-space-force-confirmation
+  - node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+    slug: luis-elizondo
+  - node_id: 67de1243-f3e0-4363-b6f7-01d23c6b42bb
+    title: Space Force
+    slug: space-force
+  date: null
+  date_end: null
+  location_in_record: Chapter 23, paragraph 59
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: 9c25e6e3-dbec-4cfc-af12-eccdb5a6ec98
+  claim_hash: 6e8b7f0128cc66d4a4415553ba7f22e1b3ac8aacd5acce7f95bc3f6498b762d8
+  content: David Grusch worked with Luis Elizondo at Space Force and contributed to
+    the UAP Task Force.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+    title: UAP Task Force
+    slug: uap-task-force
+  - node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+    slug: luis-elizondo
+  - node_id: 67de1243-f3e0-4363-b6f7-01d23c6b42bb
+    title: Space Force
+    slug: space-force
+  - node_id: f4ef4f38-6d19-4805-a720-3f03dff67602
+    title: Grusch, David
+    slug: david-grusch
+  date: '2023'
+  date_end: null
+  location_in_record: Chapter 24, paragraph 4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed

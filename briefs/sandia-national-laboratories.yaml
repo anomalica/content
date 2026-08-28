@@ -1,0 +1,190 @@
+schema: anomalica/brief/1
+brief_hash: b4d9761806e129ecfb86f8830997c35071745a2f339ac350014696ba976ac318
+page:
+  kind: entity
+  node_id: 575753c5-cafa-48cf-9529-22dcc6e08ffe
+  node_type: organisation
+  title: Sandia National Laboratories
+  slug: sandia-national-laboratories
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 1db9030f-b5f1-4f3c-9f79-f3fe9379178b
+  title: Prosecutor's Management Information System (PROMIS)
+  node_type: document
+  slug: prosecutors-management-information-system-promis
+  shared_claims: 2
+- node_id: a2e017b2-5046-48ba-b0be-79edcd94fb37
+  title: Lawrence Livermore National Laboratory
+  node_type: organisation
+  slug: lawrence-livermore-national-laboratory
+  shared_claims: 1
+- node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+  title: Los Alamos National Laboratory
+  node_type: organisation
+  slug: los-alamos-national-laboratory
+  shared_claims: 1
+- node_id: 6b5cea3e-8880-46eb-909e-19cba47e9b0b
+  title: Oak Ridge National Laboratory
+  node_type: organisation
+  slug: oak-ridge-national-laboratory
+  shared_claims: 1
+- node_id: 95ca8e63-159b-439a-9cd6-f52a171edd74
+  title: Robert Maxwell
+  node_type: person
+  slug: robert-maxwell
+  shared_claims: 1
+claims:
+- claim_id: 6e405eb9-4e1d-487b-9294-e6bb669ec1fd
+  claim_hash: d2321ea3fdd8a5045f121fa9737c5da841b0113907fe814d6b32ea5cb92482f4
+  content: Historically, Sandia National Laboratories, Lawrence Livermore National
+    Laboratory, Los Alamos National Laboratory, and Oak Ridge National Laboratory
+    have been extremely culpable in UAP-related retrieval operations, especially right
+    after World War II.
+  original_excerpt: historically, Sandia, Lawrence Livermore, Los Alamos, and Oak
+    Ridge have been extremely culpable in these operations, especially right after
+    World War II
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+    title: UAP Gerb
+  provenance_chain:
+    origin_kind: speaker
+    origin: UAP Gerb
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 575753c5-cafa-48cf-9529-22dcc6e08ffe
+    title: Sandia National Laboratories
+    slug: sandia-national-laboratories
+  - node_id: 6b5cea3e-8880-46eb-909e-19cba47e9b0b
+    title: Oak Ridge National Laboratory
+    slug: oak-ridge-national-laboratory
+  - node_id: a2e017b2-5046-48ba-b0be-79edcd94fb37
+    title: Lawrence Livermore National Laboratory
+    slug: lawrence-livermore-national-laboratory
+  - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+    title: Los Alamos National Laboratory
+    slug: los-alamos-national-laboratory
+  date: null
+  date_end: null
+  location_in_record: 00:56:21.0-00:56:29.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: fe813189-887f-4d66-bfc3-d63a9d4f84e7
+  claim_hash: 23d9ae78a28dd7961c83a9a59bc397054f9329f1208b3988fca34afb59dc7ba0
+  content: Robert Maxwell sold the Prosecutor's Management Information System (PROMIS)
+    software to Sandia National Laboratories, according to Jason Samosa.
+  original_excerpt: So he sold that to Sandia Labs.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: unattributed
+    origin: Jason Samosa narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1db9030f-b5f1-4f3c-9f79-f3fe9379178b
+    title: Prosecutor's Management Information System (PROMIS)
+    slug: prosecutors-management-information-system-promis
+  - node_id: 575753c5-cafa-48cf-9529-22dcc6e08ffe
+    title: Sandia National Laboratories
+    slug: sandia-national-laboratories
+  - node_id: 95ca8e63-159b-439a-9cd6-f52a171edd74
+    title: Robert Maxwell
+    slug: robert-maxwell
+  date: null
+  date_end: null
+  location_in_record: 01:48:27.8-01:48:29.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 9dd28931-ef76-4ad6-93b6-d856a1e87c8d
+  claim_hash: 5fa22d8d964d6269c557eb825fca1c6d2edb2c3afc277a8868bd33fb30ed7644
+  content: Whoever held the back door to the Prosecutor's Management Information System
+    (PROMIS) software sold to Sandia National Laboratories thereby gained access to
+    all of that laboratory's information, in Jason Samosa's assessment.
+  original_excerpt: So whoever had the back door to there suddenly had all of their
+    information as well, right?
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jason Samosa
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1db9030f-b5f1-4f3c-9f79-f3fe9379178b
+    title: Prosecutor's Management Information System (PROMIS)
+    slug: prosecutors-management-information-system-promis
+  - node_id: 575753c5-cafa-48cf-9529-22dcc6e08ffe
+    title: Sandia National Laboratories
+    slug: sandia-national-laboratories
+  date: null
+  date_end: null
+  location_in_record: 01:48:31.0-01:48:34.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: c3d48fb8-6462-45f6-88e0-364ad4b91e45
+  claim_hash: cfe711c214ecb22f37706e6532b2eeb14506d11b0c085365487f8a6d7e7ebcaf
+  content: Sandia National Laboratories is a United States nuclear weapons research
+    laboratory.
+  original_excerpt: '[note: Sandia National Laboratories - U.S. nuclear weapons research
+    laboratory]'
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: source annotation
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 575753c5-cafa-48cf-9529-22dcc6e08ffe
+    title: Sandia National Laboratories
+    slug: sandia-national-laboratories
+  date: null
+  date_end: null
+  location_in_record: line 31
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

@@ -1,0 +1,1507 @@
+schema: anomalica/brief/1
+brief_hash: 3d949e9bdf8f685e08f191e088885e66e892be462115eb12eb26f7b34fd2a3c7
+page:
+  kind: entity
+  node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+  node_type: person
+  title: Bernadette Soubirous
+  slug: bernadette-soubirous
+  claim_count: 42
+  claim_count_total: 42
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+  title: France, Lourdes
+  node_type: place
+  slug: lourdes-france
+  shared_claims: 19
+- node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
+  title: 1858 Lourdes Marian apparitions
+  node_type: event
+  slug: 1858-lourdes-marian-apparitions
+  shared_claims: 6
+- node_id: 79492616-940c-49d7-addd-0f61ca7898d8
+  title: Dr. Douzous
+  node_type: person
+  slug: dr-douzous
+  shared_claims: 2
+- node_id: 115cebed-55a2-482a-aa57-412be008ffc4
+  title: Episcopal investigation committee into the Lourdes apparitions (1858-07-28)
+  node_type: event
+  slug: episcopal-investigation-committee-into-the-lourdes-apparitions-1858-07-28
+  shared_claims: 2
+- node_id: 4134cd3c-bf3d-45ba-a761-c226847bf4db
+  title: Lourdes Marian apparitions (1858-02-11 to 1858-07-16)
+  node_type: event
+  slug: lourdes-marian-apparitions-1858-02-11-to-1858-07-16
+  shared_claims: 2
+- node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+  title: 1917 Fatima Marian apparitions
+  node_type: event
+  slug: 1917-fatima-marian-apparitions
+  shared_claims: 1
+- node_id: 30a4d56e-657d-46ab-bf57-95e66e90bd9d
+  title: Beatification of Bernadette Soubirous (1925)
+  node_type: event
+  slug: beatification-of-bernadette-soubirous-1925
+  shared_claims: 1
+- node_id: f1fd4fb3-6082-4b43-a8bf-0a4462fb59a1
+  title: France, Lourdes, River Gave
+  node_type: place
+  slug: lourdes-river-gave-france
+  shared_claims: 1
+claims:
+- claim_id: 61cbe9b7-85cb-4b87-b722-b012677590e7
+  claim_hash: fdd75750be054c363561e5bd7a35f2d48fd6ed6e1a61bb6eda39ed714e731405
+  content: Bernadette Soubirous's family was poor enough to live in the rotting rooms
+    of the former village prison at Lourdes, France.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:20027-20130
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 8a4300c0-dff0-4789-94a8-093f53fcc1fc
+  claim_hash: ba163e82c5ad9457457f8330f5d053efadb6ca054835e88eeca6262d8f3b7fc4
+  content: At age fourteen, Bernadette Soubirous suffered from asthma and the aftereffects
+    of cholera, which she had contracted as a ten-year-old child.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:20138-20284
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: bef26f5e-3b52-4b94-8917-c2079a73b478
+  claim_hash: 3476ae7cea98195ffcfb79002136825a0451e921952955ce7b69d3269fe2ce28
+  content: On 1858-02-11, Bernadette Soubirous went with her brothers, sisters, and
+    cousin to gather firewood near Lourdes.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4134cd3c-bf3d-45ba-a761-c226847bf4db
+    title: Lourdes Marian apparitions (1858-02-11 to 1858-07-16)
+    slug: lourdes-marian-apparitions-1858-02-11-to-1858-07-16
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: '1858-02-11'
+  date_end: null
+  location_in_record: ch20:20292-20396
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: f2420c22-8c00-47fe-9f65-58df0532c54a
+  claim_hash: 855395cb346f1641a8f30b9295a05639c9c6e95955fbd19a0c15d52956bffb04
+  content: Bernadette Soubirous heard a noise and saw a golden cloud in a grotto on
+    the banks of the River Gave, then saw a young and beautiful lady who smiled at
+    her.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bernadette Soubirous
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  - node_id: f1fd4fb3-6082-4b43-a8bf-0a4462fb59a1
+    title: France, Lourdes, River Gave
+    slug: lourdes-river-gave-france
+  date: '1858-02-11'
+  date_end: null
+  location_in_record: ch20:20406-20573
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 6672978b-2566-4f4e-85f4-bb433ef91808
+  claim_hash: 158cb24d2754029ca9f4fd0c5779a95891f78234c54b16339ac6da9947a62637
+  content: Bernadette Soubirous grabbed her rosary and started praying, and the lady
+    she saw joined in before disappearing.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bernadette Soubirous
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:20585-20680
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: b29309ca-a314-4452-b225-9b6c5048d2bd
+  claim_hash: ee7d4fb8a3a638944c961a254b46d4e8c9f4fff1f02ff82b3a75ea2d7ad72834
+  content: Nobody believed Bernadette Soubirous when she told her family about her
+    vision at the grotto near Lourdes.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:20695-20759
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 568d5977-e974-4896-afe6-54ba89a7f23a
+  claim_hash: 35255139a5a12491cd2e6e2bf2c7cb7ccaab1a5cb97b8ff0eae0f5cf363d5aaa
+  content: Bernadette Soubirous's mother did not allow her to return to the grotto
+    with the other girls for three days after her first vision.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:20764-20847
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: a7d0db06-d05f-402b-9271-330237f5e607
+  claim_hash: 861fb69d467bb0f2c92849c441ac0c8267c8fa5c360e37b3d9ffca14d71dd19e
+  content: Bernadette Soubirous's mother gave one of the girls holy water so that,
+    if the apparition occurred again, she could sprinkle it to see whether the devil
+    was involved.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:20853-21005
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: c10bfa0d-0dbc-491c-abc6-92c5ee35b61c
+  claim_hash: 9743d7333864a830c0fe92035637bf419413a5be946c6dec23a8047325decd85
+  content: When the apparition at Lourdes was tested with holy water, the Lady reacted
+    with a smile.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bernadette Soubirous
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:21016-21079
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 6558cee1-2a17-4613-92cf-b1b42efcbe60
+  claim_hash: a3934dba6d4c5d8d27edfe405e9219f01e8cf0e6c1c36509efcec36c83cef170
+  content: On 1858-02-18, a prominent woman from the village of Lourdes accompanied
+    Bernadette Soubirous and her own children to the grotto, and they all saw the
+    visitor when she appeared again.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: '1858-02-18'
+  date_end: null
+  location_in_record: ch20:21086-21246
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 1d17727a-40fd-4f7e-9f18-d79c97be4633
+  claim_hash: 6beea575a383c177368920c626afd4034d8af5d3e138a1c77c3bec9d1cf85f8a
+  content: The Lady who appeared to Bernadette Soubirous at Lourdes asked her, "Give
+    me the joy of seeing you daily for fourteen days."
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bernadette Soubirous
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:21255-21325
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 161db20f-fc15-4307-840c-15d744212738
+  claim_hash: f4ff5fe6008db1b33ec5166084e715baeb7663c968435c5e09b067373bb134a7
+  content: Bernadette Soubirous fulfilled the Lady's request to see her daily for
+    fourteen days, and was accompanied by more and more people on each occasion she
+    went to the grotto at Lourdes.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:21337-21450
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 985b34d4-b3e9-4c46-8663-094518a24433
+  claim_hash: e962ea696212b1e7b300021e60020c383efe16f01f0bdb92a01c393be268971a
+  content: The White Lady who appeared to Bernadette Soubirous at Lourdes repeatedly
+    gave the message, "Pray for the poor sinners, pray for the sick world!"
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bernadette Soubirous
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:21460-21568
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 2e7b9bd3-718b-4640-acd4-c940376336aa
+  claim_hash: bb68f2e210721348b9f94e0a09d7e26c7170e3cbe7400c4906319e4a3485bbae
+  content: After the sixth apparition to Bernadette Soubirous at Lourdes, the village
+    police commissioner interrogated her for hours and tried to get her to contradict
+    herself.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:21575-21724
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 0568e4a6-89d5-4bd5-92bc-d512d1279b96
+  claim_hash: 8822effd144a84a8e966bbdea778bba1648b290b756bfdf40a93ce77ae109306
+  content: Bernadette Soubirous's father forbade her from going to the grotto at Lourdes
+    after the police interrogation, but changed his mind the next day.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:21733-21822
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 08797f8f-36c4-408c-8dd0-c32229521955
+  claim_hash: 7228e4e0ca65587c88b135b6aac6de6b3b90c972267793b4a5d570db6f6c8d07
+  content: The Lady who appeared to Bernadette Soubirous at Lourdes asked her to have
+    a chapel built for her at the site of the grotto.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bernadette Soubirous
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:21828-21970
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: c9640420-f2aa-48a0-bb3d-0e21f9dcd65c
+  claim_hash: 7df6094c1b1dcfaab747e67a822be4b74e989af00015bad85de471da0a2c36fb
+  content: The Lady who appeared to Bernadette Soubirous at Lourdes promised to provide
+    a spring with healing waters at the grotto.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bernadette Soubirous
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:21924-21970
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 553d667d-2005-4e4d-8bff-aea2cd9778b4
+  claim_hash: 88ec6ca797159d83e5881c830145d810db439d485199c9e68d38a66f3dfb2969
+  content: On 1858-02-25, during the ninth apparition, Bernadette Soubirous began
+    digging in the moist earth in front of the grotto at Lourdes.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: '1858-02-25'
+  date_end: null
+  location_in_record: ch20:21978-22085
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: eef9013f-d8eb-4ccf-a13d-fa0d0e055d31
+  claim_hash: 476ed2c2806d99715fe0daa6b51e48012401181cfde2a7b3df34dace57e76717
+  content: After Bernadette Soubirous dug in the earth at the grotto in Lourdes, a
+    spring flowed out that is still flowing today.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:22093-22142
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: ec6e5caa-c1eb-47e8-95d8-cefbb00398c6
+  claim_hash: c66f0314008c265e8814afca9f160d88588de5c661dab02cf1929348bc0db774
+  content: On 1858-03-04, during the fifteenth apparition to Bernadette Soubirous
+    at Lourdes, at least twenty-three thousand people were present.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: '1858-03-04'
+  date_end: null
+  location_in_record: ch20:22231-22325
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 7014e3b1-71a3-4e7a-a34c-3271835e18c7
+  claim_hash: 89f46e80ee273f5e0f0d871971ecdef22e60741537a42f2c7632ed20b5bebb8d
+  content: On 1858-03-25, during the sixteenth apparition, the Lady identified herself
+    to Bernadette Soubirous at Lourdes.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: '1858-03-25'
+  date_end: null
+  location_in_record: ch20:22334-22406
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 1cbca23b-f0e8-44ce-bfcd-140c561588ed
+  claim_hash: 06d56fe87fe29232eec54dc6e0289194af0831b7329e894f8052e001511c2a46
+  content: Bernadette Soubirous did not understand the name the Lady revealed to her
+    at Lourdes.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:22415-22480
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 02804704-1d68-4a31-8936-7af66bd62d54
+  claim_hash: 073590190a7433d58fc428ddea68d8121f0c295f9aee029e7c372e8125c039ab
+  content: The village priest at Lourdes asked Bernadette Soubirous, "Is it therefore
+    the most Holy Virgin that you see?"
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:22484-22567
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 0d2b5083-cfff-4b89-9bd7-943525443797
+  claim_hash: 61fc2caf9352e27e5ef2c5e7554241ae816cd76837b3d3ed63b094a75f352231
+  content: Bernadette Soubirous answered the village priest's question by saying,
+    "No, it is the Immaculate Conception."
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bernadette Soubirous
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:22574-22618
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: faf9ab5a-3094-41c6-aca6-c2cdd55f177c
+  claim_hash: bd667fbbacdea3a2efc6f77150864ad72355dc92f2d940204bfd9d1ef8d904cd
+  content: Bernadette Soubirous had never heard the title "Immaculate Conception"
+    before and did not know it referred to the Virgin Mary.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:22631-22722
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 61f73e8d-79a7-4b97-bd0a-3c6f9951cd19
+  claim_hash: 675914cabb7fbc8c3f35efcafb52a50e9b57fd620df415ced2a3e2f4d8588335
+  content: After the seventeenth apparition at Lourdes, Bernadette Soubirous was taken
+    to a psychiatric clinic.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:22728-22822
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: fb8d941e-76a3-4761-8cc2-eb4858b8eae3
+  claim_hash: ce8c9e69320556cdb66708aa3e6bf03f1861d35914d9eab72211f86ab7e7b665
+  content: After being released from the psychiatric clinic, Bernadette Soubirous
+    saw the Lady for the last time on 1858-07-16.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4134cd3c-bf3d-45ba-a761-c226847bf4db
+    title: Lourdes Marian apparitions (1858-02-11 to 1858-07-16)
+    slug: lourdes-marian-apparitions-1858-02-11-to-1858-07-16
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: '1858-07-16'
+  date_end: null
+  location_in_record: ch20:22930-23020
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 492a78be-0ee7-4265-932b-9f49bf43cec5
+  claim_hash: 601e4c3b4d6705dc110a53840dd9deaa0365f8cd71fee6b455f632d9f09b4b38
+  content: On 1858-07-28, the bishop of Tarbes set up a committee to investigate the
+    apparitions to Bernadette Soubirous at Lourdes.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 115cebed-55a2-482a-aa57-412be008ffc4
+    title: Episcopal investigation committee into the Lourdes apparitions (1858-07-28)
+    slug: episcopal-investigation-committee-into-the-lourdes-apparitions-1858-07-28
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: '1858-07-28'
+  date_end: null
+  location_in_record: ch20:23025-23095
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 580a8fea-ed67-40cf-8239-1f03ff400ee8
+  claim_hash: e3bd85b51e4f6719d661890ca08d0d14ad9f6a2c3f188fb813ab977312d9bc54
+  content: Three years after setting up the investigation committee, the bishop of
+    Tarbes announced in a pastoral letter that he considered Bernadette Soubirous's
+    visions to be genuine.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 115cebed-55a2-482a-aa57-412be008ffc4
+    title: Episcopal investigation committee into the Lourdes apparitions (1858-07-28)
+    slug: episcopal-investigation-committee-into-the-lourdes-apparitions-1858-07-28
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:23108-23206
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 27eb9142-9e5e-446d-9fa5-068fce67c030
+  claim_hash: d3bd35c1d26c49a95ec733de5351ade77ab9047e4aae2b82038c0413d675b055
+  content: In 1866, Bernadette Soubirous joined a convent.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: '1866'
+  date_end: null
+  location_in_record: ch20:23311-23339
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: f805c4b2-2c9f-4e59-b2a2-a2e358c10d4a
+  claim_hash: 58e5492b9a88862a42237e1ec010ff8ae9805ca77b2151eb17bfbbe1ec834c74
+  content: Bernadette Soubirous died in 1879, after which her corpse did not show
+    any signs of decay.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: '1879'
+  date_end: null
+  location_in_record: ch20:23348-23415
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 6ee1fc58-c181-4705-8632-3934abb0860c
+  claim_hash: b9f814173532780b4cfc8ef15fd9b25eda7894ca33af3e3107a4c863bbc2be4d
+  content: Bernadette Soubirous was beatified in 1925.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 30a4d56e-657d-46ab-bf57-95e66e90bd9d
+    title: Beatification of Bernadette Soubirous (1925)
+    slug: beatification-of-bernadette-soubirous-1925
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: '1925'
+  date_end: null
+  location_in_record: ch20:23422-23443
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: a885a564-186f-4c9a-be45-c22e01ff75e7
+  claim_hash: c5be347dc43dd44f75bc184269774b84b4e915a33840620fb61b944c28c3d7f6
+  content: Over five million pilgrims visit Lourdes every year, where they can see
+    the body of Bernadette Soubirous lying in a glass coffin.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch20:23450-23562
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 971a8145-9528-405b-985c-d7b0c8f35ed1
+  claim_hash: 1af9b617b5108a5b62745017e67a810d7d55617ff3e01030850d8ba2319042d7
+  content: On 1858-02-11, a 14-year-old girl named Bernadette Soubirous was gathering
+    firewood by a narrow stream near Lourdes in the south of France when she heard
+    a sound like a storm and then saw a golden-coloured cloud emerge from a nearby
+    grotto followed by an entity described as a beautiful Lady.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Bernadette Soubirous
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
+    title: 1858 Lourdes Marian apparitions
+    slug: 1858-lourdes-marian-apparitions
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: '1858-02-11'
+  date_end: null
+  location_in_record: ch15:24435-24831
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 754d3177-2150-4a62-b835-5e332d72574a
+  claim_hash: 76fdf0d3e36494edea304ee5588a720529adf59ed1c2ca4612c9298974d32c36
+  content: When the apparition of the Lady of Lourdes looked at Bernadette Soubirous,
+    all fear left her but she no longer knew where she was, and when she tried to
+    lift her hand to her forehead her arm remained paralyzed until the Lady crossed
+    herself.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Bernadette Soubirous
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
+    title: 1858 Lourdes Marian apparitions
+    slug: 1858-lourdes-marian-apparitions
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch15:25621-25906
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 333dcc69-a2ab-4b30-8127-41fac40ac7d6
+  claim_hash: 71825944ab6fa5f80b10b4a8dce31e10bae90c49fe538d832938cb11f371a54c
+  content: During the apparitions at Lourdes, the Lady on one occasion told Bernadette
+    Soubirous to go and wash herself in a nonexistent spring, and on another occasion
+    ordered her to go and eat the grass growing nearby.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Bernadette Soubirous
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
+    title: 1858 Lourdes Marian apparitions
+    slug: 1858-lourdes-marian-apparitions
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch15:26585-26755
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: c33bf225-eb40-4bc4-b655-4a02c70a0c12
+  claim_hash: 654370e4b8ba2f27b72f6b8876c8a6f24772d774a4e658fac2acac6f1b97fea3
+  content: During the ninth apparition at Lourdes, Bernadette Soubirous was instructed
+    to go and wash and drink in a spring, but no spring existed there, so she dug
+    into the sand until water appeared and filled the hole.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Bernadette Soubirous
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
+    title: 1858 Lourdes Marian apparitions
+    slug: 1858-lourdes-marian-apparitions
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch15:28406-28683
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 423a8ab4-c401-40f2-bb51-dd7622e6bb12
+  claim_hash: ef430e87cc8bda524e093a52cf7827ad9b8f4fbdefb033f21f8e43be52d458a2
+  content: Bernadette Soubirous was instructed during the apparitions at Lourdes to
+    kiss the ground for the sinners, and she and those in attendance began kissing
+    the ground as a gesture of humility.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Bernadette Soubirous
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
+    title: 1858 Lourdes Marian apparitions
+    slug: 1858-lourdes-marian-apparitions
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: null
+  date_end: null
+  location_in_record: ch15:29281-29496
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 1116bbb5-20ce-4ba1-a82c-6ef6c95f6826
+  claim_hash: f3f212c1539c1230abc9e3e75a5fc656da5497ac80a0321aa8a8723dbdb16768
+  content: A doctor named Dr. Douzous applied a candle flame to Bernadette Soubirous's
+    hand for fifteen minutes, measured by his watch, while she was in a trance state
+    during the Lourdes apparitions, and afterward examined her hand and found no trace
+    of burning.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 79492616-940c-49d7-addd-0f61ca7898d8
+    title: Dr. Douzous
+  provenance_chain:
+    origin_kind: speaker
+    origin: Dr. Douzous
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  - node_id: 79492616-940c-49d7-addd-0f61ca7898d8
+    title: Dr. Douzous
+    slug: dr-douzous
+  date: null
+  date_end: null
+  location_in_record: ch15:30544-30793
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 37212a33-d4aa-44fc-8c50-a980cc4d2476
+  claim_hash: 4f4b2e26e5a1dfe2549722f6f05f081f12c3cdd1981705659455ee5184f97cd4
+  content: Dr. Douzous reported that when he put the lit candle several times under
+    Bernadette Soubirous's left hand after her trance had ended, she drew it away
+    quickly saying, "You're burning me."
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 79492616-940c-49d7-addd-0f61ca7898d8
+    title: Dr. Douzous
+  provenance_chain:
+    origin_kind: speaker
+    origin: Dr. Douzous
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  - node_id: 79492616-940c-49d7-addd-0f61ca7898d8
+    title: Dr. Douzous
+    slug: dr-douzous
+  date: null
+  date_end: null
+  location_in_record: ch15:30971-31091
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 1f00e276-11d3-41bd-a1d6-66360e6223b4
+  claim_hash: f810e78553543b0f9692b93f6bf2900f59ea90f951bce3c80bb7b65e7c695e4b
+  content: Jacques Vallee compares the mixture of seriousness and absurdity in the
+    Fatima prophecy to a pattern noted in several contactee stories, and observes
+    the same pattern recurs at Lourdes, where the alleged Virgin Mary instructs Bernadette
+    Soubirous to perform meaningless actions.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallee
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
+    title: 1858 Lourdes Marian apparitions
+    slug: 1858-lourdes-marian-apparitions
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+    title: 1917 Fatima Marian apparitions
+    slug: 1917-fatima-marian-apparitions
+  date: null
+  date_end: null
+  location_in_record: ch15:6388-6674
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: f5ce602e-fcb2-4629-8273-f953c941bca1
+  claim_hash: 373030bb0543cfdfa85d805d5609c4294246e15ca334f3614715f6937781588c
+  content: According to Catholic belief, the Blessed Virgin Mary appeared to a young
+    girl named Bernadette in France, Occitanie, Lourdes in 1858, and a spring of water
+    miraculously flowed from the ground.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: unattributed
+    origin: Catholic tradition
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    slug: bernadette-soubirous
+  date: '1858'
+  date_end: null
+  location_in_record: ch1:2067-2213
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted

@@ -1,0 +1,204 @@
+schema: anomalica/brief/1
+brief_hash: 5986a42b784f38cee4b375ac07ac7005e563861ce26937177fa4eec8c6781e7d
+page:
+  kind: entity
+  node_id: bac12cc3-05f5-4ff5-8830-070294718f8d
+  node_type: event
+  title: Attack on Pearl Harbor
+  slug: attack-on-pearl-harbor
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 53bcddc8-6687-47e4-b64b-9ab4a5aa3470
+  title: USA, Hawaii, Pearl Harbor
+  node_type: place
+  slug: hawaii-pearl-harbor-usa
+  shared_claims: 3
+- node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+  title: Roscoe Hillenkoetter
+  node_type: person
+  slug: roscoe-hillenkoetter
+  shared_claims: 2
+- node_id: c8ee84eb-599f-45ee-ba91-fc37a509b505
+  title: USA, Hawaii
+  node_type: place
+  slug: hawaii-usa
+  shared_claims: 1
+claims:
+- claim_id: 7c7754ac-b2e6-466a-b163-53522b345f4e
+  claim_hash: ec828865719a702b347196476f3b155900ac20b4c525ba70a9aca0390bef8f25
+  content: The 1941 attack on Pearl Harbor killed 2,335 US servicemen.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 53bcddc8-6687-47e4-b64b-9ab4a5aa3470
+    title: USA, Hawaii, Pearl Harbor
+    slug: hawaii-pearl-harbor-usa
+  - node_id: bac12cc3-05f5-4ff5-8830-070294718f8d
+    title: Attack on Pearl Harbor
+    slug: attack-on-pearl-harbor
+  date: '1941-12-07'
+  date_end: null
+  location_in_record: ch29:436-510
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d665ec38-6c0c-497c-966a-c1d3ebf3ed41
+  claim_hash: edb07066f60a1658ba8d3a1b1e0a115219517cb0b007399983e306bed444ef92
+  content: The 1941 attack on Pearl Harbor was an attack by the Imperial Japanese
+    Navy on the US Navy's Honolulu base that pushed the United States into World War
+    Two.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 53bcddc8-6687-47e4-b64b-9ab4a5aa3470
+    title: USA, Hawaii, Pearl Harbor
+    slug: hawaii-pearl-harbor-usa
+  - node_id: bac12cc3-05f5-4ff5-8830-070294718f8d
+    title: Attack on Pearl Harbor
+    slug: attack-on-pearl-harbor
+  date: '1941-12-07'
+  date_end: null
+  location_in_record: ch29:464-582
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b26db7a2-3d63-41d4-b049-0cbc8784a4e4
+  claim_hash: b60f2f07adb30408040b85ae870a0a674c11a2a8394e55bb2b0efcf2020b2137
+  content: Roscoe Hillenkoetter was wounded on a vessel during the 1941 attack on
+    Pearl Harbor.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+    title: Roscoe Hillenkoetter
+    slug: roscoe-hillenkoetter
+  - node_id: 53bcddc8-6687-47e4-b64b-9ab4a5aa3470
+    title: USA, Hawaii, Pearl Harbor
+    slug: hawaii-pearl-harbor-usa
+  - node_id: bac12cc3-05f5-4ff5-8830-070294718f8d
+    title: Attack on Pearl Harbor
+    slug: attack-on-pearl-harbor
+  date: '1941-12-07'
+  date_end: null
+  location_in_record: ch7:5408-5484
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c87ead90-11cb-46ae-b2c8-9abbc5e0210c
+  claim_hash: b915c1aa1f398aab8f0af43d4a1635cf56086ccf0b246efe80a45ff115467fb9
+  content: A major priority for Roscoe Hillenkoetter in his new intelligence role
+    was to fix the intelligence failures that had allowed the Japanese to attack Pearl
+    Harbor undetected in 1941.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+    title: Roscoe Hillenkoetter
+    slug: roscoe-hillenkoetter
+  - node_id: bac12cc3-05f5-4ff5-8830-070294718f8d
+    title: Attack on Pearl Harbor
+    slug: attack-on-pearl-harbor
+  date: null
+  date_end: null
+  location_in_record: ch7:5495-5618
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: dbc83b60-465d-4d34-8329-dde3c291aa90
+  claim_hash: f8d5d1c3a187f21d7d4f8dac9652b8e88414144d4c23505df1aebc4fd250607b
+  content: On 1941-12-07, a young lieutenant operating a radar battery in Hawaii detected
+    incoming Japanese warplanes but failed to alert his superiors, assuming the aircraft
+    were friendly returning from a training mission.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: bac12cc3-05f5-4ff5-8830-070294718f8d
+    title: Attack on Pearl Harbor
+    slug: attack-on-pearl-harbor
+  - node_id: c8ee84eb-599f-45ee-ba91-fc37a509b505
+    title: USA, Hawaii
+    slug: hawaii-usa
+  date: '1941-12-07'
+  date_end: null
+  location_in_record: ch6:13995-14279
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted

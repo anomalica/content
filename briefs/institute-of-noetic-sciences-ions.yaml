@@ -1,0 +1,143 @@
+schema: anomalica/brief/1
+brief_hash: e7d591e6ffc7f77010a71f546cd45396a06f5f48f5be01e7143a68746e066bd7
+page:
+  kind: entity
+  node_id: 861ba74d-1ec7-409e-8109-2480212d96ac
+  node_type: organisation
+  title: Institute of Noetic Sciences (IONS)
+  slug: institute-of-noetic-sciences-ions
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 59476464-a679-46ce-9247-b0adcb287762
+  title: Edgar Mitchell
+  node_type: person
+  slug: edgar-mitchell
+  shared_claims: 2
+- node_id: 035d430f-e166-402a-9c79-0c085a20a611
+  title: Bolivia, Santa Cruz
+  node_type: place
+  slug: santa-cruz-bolivia
+  shared_claims: 1
+- node_id: 5260eadc-7de1-46bc-90e0-7f2241bf82d3
+  title: Dean Radin
+  node_type: person
+  slug: dean-radin
+  shared_claims: 1
+- node_id: 92749a9d-ccbb-4667-82b7-75e85625aed0
+  title: Quantrek
+  node_type: organisation
+  slug: quantrek
+  shared_claims: 1
+claims:
+- claim_id: 3619c654-3e34-4eab-9e6a-c5d5569a4abf
+  claim_hash: 412f11959f48d9a48f800b8811782cbf9399a4ca691dbe5c1b52ee8bf6ea36f8
+  content: Dean Radin is Chief Scientist at the Institute of Noetic Sciences in Petaluma,
+    California.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: 5260eadc-7de1-46bc-90e0-7f2241bf82d3
+    title: Dean Radin
+    slug: dean-radin
+  - node_id: 861ba74d-1ec7-409e-8109-2480212d96ac
+    title: Institute of Noetic Sciences (IONS)
+    slug: institute-of-noetic-sciences-ions
+  date: null
+  date_end: null
+  location_in_record: ch7:17808-17879
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: fe066487-0a5b-4e32-a2f5-ccdbc26fea2f
+  claim_hash: e98b39c4facdaad0016a55fc2c7381791169cd36f1c08c1357cd6ecbbf7b5541
+  content: Edgar Mitchell was the founder of the Institute of Noetic Sciences (IONS),
+    which is dedicated to the study of consciousness.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 861ba74d-1ec7-409e-8109-2480212d96ac
+    title: Institute of Noetic Sciences (IONS)
+    slug: institute-of-noetic-sciences-ions
+  date: null
+  date_end: null
+  location_in_record: ch6:28579-28682
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: bc263e7f-cdf8-496b-8fbb-b74db8db55ac
+  claim_hash: b1619b86873e2992a11297c9664707f605a859fa80c89874918a3f2268f0fcb3
+  content: Edgar Mitchell founded the Institute of Noetic Sciences and Quantrek after
+    a remarkable, transcendent experience he had while on his way home from the moon,
+    floating in space and looking at Earth.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 861ba74d-1ec7-409e-8109-2480212d96ac
+    title: Institute of Noetic Sciences (IONS)
+    slug: institute-of-noetic-sciences-ions
+  - node_id: 92749a9d-ccbb-4667-82b7-75e85625aed0
+    title: Quantrek
+    slug: quantrek
+  date: null
+  date_end: null
+  location_in_record: ch6:28799-28951
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted

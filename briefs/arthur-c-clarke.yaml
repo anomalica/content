@@ -1,0 +1,866 @@
+schema: anomalica/brief/1
+brief_hash: aeb73a098e065d000f03fbaa90ce9bc51978fd8cf894c5e705eaceac8d6081ed
+page:
+  kind: entity
+  node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+  node_type: person
+  title: Arthur C. Clarke
+  slug: arthur-c-clarke
+  claim_count: 21
+  claim_count_total: 21
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 4056024b-6788-453b-a270-7b9890087c91
+  title: Buzz Aldrin
+  node_type: person
+  slug: buzz-aldrin
+  shared_claims: 4
+- node_id: c8493ebf-b613-4e49-a74a-86529d51ab5c
+  title: Glass Tunnels of Mars
+  node_type: object
+  slug: glass-tunnels-of-mars
+  shared_claims: 3
+- node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+  title: zero-point energy
+  node_type: topic
+  slug: zero-point-energy
+  shared_claims: 3
+- node_id: 62607f67-aed0-4d55-a634-07841bb57ead
+  title: Apollo program
+  node_type: project
+  slug: apollo-program
+  shared_claims: 2
+- node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+  title: Mars
+  node_type: place
+  slug: mars
+  shared_claims: 2
+- node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+  title: NASA Jet Propulsion Laboratory (JPL)
+  node_type: organisation
+  slug: nasa-jet-propulsion-laboratory-jpl
+  shared_claims: 2
+- node_id: ccfa75c2-84fd-4ac9-8caf-79c371b1be4b
+  title: Planetary Society
+  node_type: organisation
+  slug: planetary-society
+  shared_claims: 2
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 2
+- node_id: a46ce807-3f52-469e-81b5-0b859ce6dd6b
+  title: Space.com
+  node_type: organisation
+  slug: spacecom
+  shared_claims: 2
+- node_id: 498a763a-70c5-42ce-b216-c3713763aff5
+  title: '2001: A Space Odyssey'
+  node_type: document
+  slug: 2001-a-space-odyssey
+  shared_claims: 1
+- node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+  title: Carl Sagan
+  node_type: person
+  slug: carl-sagan
+  shared_claims: 1
+- node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+  title: Cydonia
+  node_type: place
+  slug: cydonia
+  shared_claims: 1
+- node_id: 1c20b19d-dcf2-40c6-b0a9-450a4e69b77d
+  title: David Bowman
+  node_type: person
+  slug: david-bowman
+  shared_claims: 1
+- node_id: bb82a06d-4e07-4318-95c2-fbaea63d14a9
+  title: Louis Friedman
+  node_type: person
+  slug: louis-friedman
+  shared_claims: 1
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 1
+- node_id: 30c25905-7c45-4757-811a-26c8f348d138
+  title: cold fusion
+  node_type: topic
+  slug: cold-fusion
+  shared_claims: 1
+claims:
+- claim_id: 940a04b1-c77f-4e4a-bde4-695a1d1e0d7f
+  claim_hash: 16a456eff52562b0950a8e5e6cebb35d753f52178ecbf1c1120791ab84365d3e
+  content: Arthur C. Clarke is known for creating visionary depictions of possible
+    futures.
+  original_excerpt: Arthur Clarke is known for spinning elaborate, visionary tales
+    of futures that might be
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: char:0-85
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+    record_title: Clarke's Believe It or Not
+    record_date: '2001-04-13'
+    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+    friendly_name: null
+- claim_id: 79646744-ab52-44cd-be49-6183654cf506
+  claim_hash: 0bbcc7169a94418f1c58920143accfed64fa7c0b8419c66b895a196756681423
+  content: Arthur C. Clarke said that many of his scientist friends think it is crazy
+    to believe there is anything to the idea of zero-point energy.
+  original_excerpt: A lot of my scientist friends are crazy to believe there's anything
+    in this.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+  provenance_chain:
+    origin_kind: speaker
+    origin: Arthur C. Clarke
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+    title: zero-point energy
+    slug: zero-point-energy
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: char:1074-1145
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+    record_title: Clarke's Believe It or Not
+    record_date: '2001-04-13'
+    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+    friendly_name: null
+- claim_id: 5acc57db-abaf-4b23-b586-a21412d14c16
+  claim_hash: fcbfe7efb095d66988fa8802980086be3b90e0302aed14cbe45cb06255afaa62
+  content: Arthur C. Clarke said the idea of new forms of energy started with cold
+    fusion, which everybody laughed out of court.
+  original_excerpt: It started with this so-called cold fusion business, which everybody
+    laughed out of court.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+  provenance_chain:
+    origin_kind: speaker
+    origin: Arthur C. Clarke
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 30c25905-7c45-4757-811a-26c8f348d138
+    title: cold fusion
+    slug: cold-fusion
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: char:1151-1235
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+    record_title: Clarke's Believe It or Not
+    record_date: '2001-04-13'
+    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+    friendly_name: null
+- claim_id: 8f1a9140-b18d-41b3-8b17-d7443a6ff26e
+  claim_hash: f181bd1e4807c0690601a67c1883c477edd2827e26e64850d79f93e7a4d4ce54
+  content: Arthur C. Clarke is convinced there are new forms of energy being tapped
+    that make even nuclear energy look trivial in comparison.
+  original_excerpt: But I'm now convinced that there are new forms of energy, which
+    we are tapping, and they make even nuclear energy look trivial in comparison.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+  provenance_chain:
+    origin_kind: speaker
+    origin: Arthur C. Clarke
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: char:1242-1372
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+    record_title: Clarke's Believe It or Not
+    record_date: '2001-04-13'
+    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+    friendly_name: null
+- claim_id: 8447e1de-a2c2-4871-a469-492f80421625
+  claim_hash: 7896527b0621570aa7f95b0e21e8603f06df753d652f06fdaa6a33ae190d8fe9
+  content: Arthur C. Clarke believes that when new forms of energy are controlled,
+    the universe will open up.
+  original_excerpt: And when we control those energy sources, the universe will open
+    up.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+  provenance_chain:
+    origin_kind: speaker
+    origin: Arthur C. Clarke
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: char:1384-1449
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+    record_title: Clarke's Believe It or Not
+    record_date: '2001-04-13'
+    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+    friendly_name: null
+- claim_id: 6995966b-7f39-4a82-8266-e859e1af6ade
+  claim_hash: 4541205a4e766595619b9b8b4108829365bb918f4aca8404b994a7b2e1722e16
+  content: Arthur C. Clarke rebutted people who refuse to believe well-documented
+    events, specifically the Apollo program moon missions.
+  original_excerpt: Clarke took an opportunity to rebut those who refuse to believe
+    even well documented events, specifically, the Apollo moon missions.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+  provenance_chain:
+    origin_kind: speaker
+    origin: Arthur C. Clarke
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 62607f67-aed0-4d55-a634-07841bb57ead
+    title: Apollo program
+    slug: apollo-program
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: char:1464-1587
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+    record_title: Clarke's Believe It or Not
+    record_date: '2001-04-13'
+    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+    friendly_name: null
+- claim_id: 5ee33a9b-2dae-4e7d-aea5-6ac92ecf71ab
+  claim_hash: 93a97a2b828f07b4ed7c7ee1d34307d5e6539cd7d8d8a24a133ccd9f6fa7b27d
+  content: Arthur C. Clarke considers it inconceivable that a programme involving
+    hundreds of thousands of people, carried out over more than a decade in a blaze
+    of publicity, could possibly be faked, referring to the Apollo program moon missions.
+  original_excerpt: I can't imagine anybody being stupid enough to think that a program
+    involving hundreds of thousands of people, carried out over a period of [more
+    than a decade], in a blaze of publicity, could possibly be faked.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+  provenance_chain:
+    origin_kind: speaker
+    origin: Arthur C. Clarke
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 62607f67-aed0-4d55-a634-07841bb57ead
+    title: Apollo program
+    slug: apollo-program
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: char:1694-1899
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+    record_title: Clarke's Believe It or Not
+    record_date: '2001-04-13'
+    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+    friendly_name: null
+- claim_id: 042c1ccb-0001-4227-a733-1a881c96809e
+  claim_hash: 8716010b5df94202edd4c331f4459fbc637c1d66b2f55882becf47399191c6fb
+  content: Arthur C. Clarke told SPACE.com that he is fairly convinced life has been
+    discovered on Mars.
+  original_excerpt: '"I''m fairly convinced that we have discovered life on Mars,"
+    Clarke told SPACE.com'
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+  provenance_chain:
+    origin_kind: speaker
+    origin: Arthur C. Clarke
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: a46ce807-3f52-469e-81b5-0b859ce6dd6b
+    title: Space.com
+    slug: spacecom
+  - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+    title: Mars
+    slug: mars
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: char:223-302
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+    record_title: Clarke's Believe It or Not
+    record_date: '2001-04-13'
+    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+    friendly_name: null
+- claim_id: 3c53b2e0-32af-4457-92f0-997e0c2c8d78
+  claim_hash: bf63e05cf92bf0b0b4010c057e21ec0eb2e7cdc520e4d5cd95fe5033bcb47c28
+  content: Arthur C. Clarke made his remarks about life on Mars to SPACE.com while
+    Buzz Aldrin listened.
+  original_excerpt: Sunday as Buzz Aldrin listened.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  - node_id: a46ce807-3f52-469e-81b5-0b859ce6dd6b
+    title: Space.com
+    slug: spacecom
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: char:308-330
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+    record_title: Clarke's Believe It or Not
+    record_date: '2001-04-13'
+    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+    friendly_name: null
+- claim_id: 0fd37e23-7ff8-48c4-8434-3d16278aae71
+  claim_hash: d2d2b2b7e4a753be366919b99b287c59f9c163181702055386cc8d08772ae768
+  content: Arthur C. Clarke considers photographs from the Jet Propulsion Laboratory
+    (JPL) to be convincing proof of the existence of large forms of life on Mars.
+  original_excerpt: There are some incredible photographs from [the Jet Propulsion
+    Laboratory], which to me are pretty convincing proof of the existence of large
+    forms of life on Mars! Have a look at them. I don't see any other interpretation.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+  provenance_chain:
+    origin_kind: speaker
+    origin: Arthur C. Clarke
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+    title: Mars
+    slug: mars
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: char:341-549
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+    record_title: Clarke's Believe It or Not
+    record_date: '2001-04-13'
+    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+    friendly_name: null
+- claim_id: 4e01a7f4-89dc-474a-81ce-41f57bb01834
+  claim_hash: 5c627d9e707837b156a522ba28eda76afd92985df4696615c8aeac9eb58b92e5
+  content: Buzz Aldrin did not comment on Arthur C. Clarke's claim about photographic
+    evidence of life on Mars, and instead raised the topic of zero-point energy.
+  original_excerpt: Aldrin did not comment, but responded by referring to another
+    remarkable topic, so-called zero-point energy
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+    title: zero-point energy
+    slug: zero-point-energy
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: char:566-667
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+    record_title: Clarke's Believe It or Not
+    record_date: '2001-04-13'
+    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+    friendly_name: null
+- claim_id: 1ea62656-0eb1-411b-94fb-617dc313159b
+  claim_hash: 1143afb6b589a033a3ab4f847164c37bbcfa2cdd4d513250f5269797cb15e3ba
+  content: Buzz Aldrin asked Arthur C. Clarke to confirm agreement on the view that
+    zero-point energy will be needed to reach Alpha Centauri.
+  original_excerpt: Turning to Clarke, he added, "Correct?"
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+  provenance_chain:
+    origin_kind: speaker
+    origin: Buzz Aldrin
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: char:951-981
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+    record_title: Clarke's Believe It or Not
+    record_date: '2001-04-13'
+    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+    friendly_name: null
+- claim_id: 8c8d3fcc-be70-44b6-bb70-6d8e596917dc
+  claim_hash: e09e8322e4ef23b059fb608e2de3c5028b486ba68407c1f8a43acf0960290571
+  content: Arthur C. Clarke said he was glad that Buzz Aldrin raised the controversial
+    question of zero-point energy.
+  original_excerpt: '"I''m glad that Buzz has raised this rather controversial question,"
+    Clarke said.'
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+  provenance_chain:
+    origin_kind: speaker
+    origin: Arthur C. Clarke
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+    title: zero-point energy
+    slug: zero-point-energy
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: char:993-1067
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+    record_title: Clarke's Believe It or Not
+    record_date: '2001-04-13'
+    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+    friendly_name: null
+- claim_id: 3f6248e1-a97d-4919-80b2-e565482c6f7e
+  claim_hash: 134924401fae9b72895baeb70f51b71bbac3c511985e37c23373125e436bde7b
+  content: In December 2000, after seeing the glass tube images on Richard C. Hoagland's
+    website, Arthur C. Clarke made a fuss about them at an event hosted by Carl Sagan's
+    Planetary Society.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: c8493ebf-b613-4e49-a74a-86529d51ab5c
+    title: Glass Tunnels of Mars
+    slug: glass-tunnels-of-mars
+  - node_id: ccfa75c2-84fd-4ac9-8caf-79c371b1be4b
+    title: Planetary Society
+    slug: planetary-society
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  - node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+    title: Carl Sagan
+    slug: carl-sagan
+  date: 2000-12
+  date_end: null
+  location_in_record: ch14:36829-36968
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 40373828-fcc6-4d51-936d-e2311928ce59
+  claim_hash: 30f9313d4c98a49524373bebbf5c8b52b6feb5ad6a5eea669df88d3c7c6607e1
+  content: Arthur C. Clarke stated he believed the Martian glass tube images constituted
+    evidence of life on Mars, thinking of the glass tubes as potentially fossil remains.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+  provenance_chain:
+    origin_kind: speaker
+    origin: Arthur C. Clarke
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c8493ebf-b613-4e49-a74a-86529d51ab5c
+    title: Glass Tunnels of Mars
+    slug: glass-tunnels-of-mars
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: ch14:36977-37127
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 394a80f4-3885-4f9a-8b9f-78e390b12abd
+  claim_hash: c7e93cc41b78d38bbb93c01c82012986cff5ce747bcd321243eb9a978f01fe54
+  content: Arthur C. Clarke's statement about evidence of life on Mars made Planetary
+    Society chairman Louis Friedman uncomfortable enough that Friedman abruptly ended
+    the video conference with Clarke.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: bb82a06d-4e07-4318-95c2-fbaea63d14a9
+    title: Louis Friedman
+    slug: louis-friedman
+  - node_id: ccfa75c2-84fd-4ac9-8caf-79c371b1be4b
+    title: Planetary Society
+    slug: planetary-society
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: ch14:37137-37266
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: d16c11d1-c03e-4491-b7f2-c1588234fc0f
+  claim_hash: 585663df92f3d00100c507f8d8114936ed1ead04c491f5f0c58c1cb19fb8b54a
+  content: Arthur C. Clarke said he was fairly convinced that life on Mars had been
+    discovered, describing incredible photographs from the Jet Propulsion Laboratory
+    (JPL) as pretty convincing proof of the existence of large forms of life on Mars.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+  provenance_chain:
+    origin_kind: speaker
+    origin: Arthur C. Clarke
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: ch14:37998-38265
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c21c00b3-e67f-4de5-b562-c5e2a6304a40
+  claim_hash: e3a7002b7790e10a0e10855c236799a6857d45ad227aa40c2175c986dc00b556
+  content: National Aeronautics and Space Administration (NASA) staff geologists responded
+    to Arthur C. Clarke's statements by attacking Clarke personally.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: ch14:38283-38358
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: ddfc45f2-a076-4b25-8d2e-0ce727f49847
+  claim_hash: a6281c2dcde37d77a0e2bdf29c2f54c832627548c1e26b0f8e65217d7e10472d
+  content: Richard C. Hoagland noted the Fort tunnel feature at Cydonia's similarity
+    to the Glass Tunnels of Mars he found several hundred kilometres west of Cydonia
+    two years previously, which excited Arthur C. Clarke in 2001.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c8493ebf-b613-4e49-a74a-86529d51ab5c
+    title: Glass Tunnels of Mars
+    slug: glass-tunnels-of-mars
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    slug: cydonia
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: '2001'
+  date_end: null
+  location_in_record: ch17:10136-10327
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2af41cc1-79d7-420b-a7e2-bd7362861dfc
+  claim_hash: 85291d223f9dd77cda68c71197eae09a1a4eab47a627831703d20a8eacfe3c0f
+  content: Arthur C. Clarke stated that any sufficiently advanced technology is indistinguishable
+    from magic.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+  provenance_chain:
+    origin_kind: named
+    origin: Arthur C. Clarke
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: ch1:37857-37971
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: e1196d31-e64d-4e54-b0b9-957e3b364b9b
+  claim_hash: 1274afba456f3385661c9bb1b642af60425cd7adccab7c10ed7b445db1ee79c1
+  content: 'At the end of Arthur C. Clarke''s novel 2001: A Space Odyssey, David Bowman
+    finds himself in a hotel room with a television above the bed, whereas in the
+    film this television is replaced by the monolith.'
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1c20b19d-dcf2-40c6-b0a9-450a4e69b77d
+    title: David Bowman
+    slug: david-bowman
+  - node_id: 498a763a-70c5-42ce-b216-c3713763aff5
+    title: '2001: A Space Odyssey'
+    slug: 2001-a-space-odyssey
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: ch4:37528-37709
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted

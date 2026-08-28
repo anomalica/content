@@ -1,0 +1,480 @@
+schema: anomalica/brief/1
+brief_hash: 2d0126dc1660bcfe8ae57d7133f06fe9d3b3a736cd9c29cfbcf49d2546a045b7
+page:
+  kind: entity
+  node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+  node_type: person
+  title: Roger Ramey
+  slug: roger-ramey
+  claim_count: 10
+  claim_count_total: 10
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 4
+- node_id: f888411e-b882-4f89-8275-350d19f6c52d
+  title: Jesse Marcel
+  node_type: person
+  slug: jesse-marcel
+  shared_claims: 4
+- node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+  title: USA, Texas, Fort Worth
+  node_type: place
+  slug: texas-fort-worth-usa
+  shared_claims: 3
+- node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+  title: Roswell incident (1947)
+  node_type: event
+  slug: roswell-incident-1947
+  shared_claims: 2
+- node_id: 7da2cf2b-788e-43ff-912c-1a6087f7bd06
+  title: San Francisco Chronicle
+  node_type: organisation
+  slug: san-francisco-chronicle
+  shared_claims: 2
+- node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+  title: Walter Haut
+  node_type: person
+  slug: walter-haut
+  shared_claims: 2
+- node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+  title: William Blanchard
+  node_type: person
+  slug: william-blanchard
+  shared_claims: 2
+- node_id: 9a751dc2-c8e9-48f9-a82f-5f530cb5430c
+  title: Associated Press
+  node_type: organisation
+  slug: associated-press
+  shared_claims: 1
+- node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+  title: French Air Force
+  node_type: organisation
+  slug: french-air-force
+  shared_claims: 1
+- node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+  title: Sheridan Cavitt
+  node_type: person
+  slug: sheridan-cavitt
+  shared_claims: 1
+- node_id: 011c9b9f-187c-4a38-a713-19a677937d85
+  title: Thomas J. DuBose
+  node_type: person
+  slug: thomas-j-dubose
+  shared_claims: 1
+- node_id: 345841bf-f575-4c5a-a40a-e11c97cf443f
+  title: USA, Texas, Fort Worth, Carswell Army Air Field
+  node_type: organisation
+  slug: texas-fort-worth-carswell-army-air-field-usa
+  shared_claims: 1
+claims:
+- claim_id: b47bbe0c-9ff8-40ac-bc70-2d8d1d9c979e
+  claim_hash: 788c131e8272bf0b753866e1d0f4927188cbd843f802c1feff7b5c9d826a5a99
+  content: 'The San Francisco Chronicle, under the headline "DISC: SOLUTION COLLAPSES,"
+    reported that General Roger M. Ramey said the Roswell wreckage was a "high-altitude
+    weather observation device" consisting of a box kite and a balloon.'
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Roger M. Ramey
+    relay:
+    - San Francisco Chronicle
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  - node_id: 7da2cf2b-788e-43ff-912c-1a6087f7bd06
+    title: San Francisco Chronicle
+    slug: san-francisco-chronicle
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: ch14:15459-15670
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: de085f16-60cb-4778-a8c5-6197ec7266cd
+  claim_hash: d66715dbc1b701323610f6a41009ca20069d7958417628ba99ce2bed733c6ca6
+  content: Later in the same San Francisco Chronicle story, General Roger M. Ramey
+    was reported to have said the Roswell wreckage was a "star-shaped tinfoil target
+    designed to reflect radar."
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Roger M. Ramey
+    relay:
+    - San Francisco Chronicle
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  - node_id: 7da2cf2b-788e-43ff-912c-1a6087f7bd06
+    title: San Francisco Chronicle
+    slug: san-francisco-chronicle
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: ch14:15680-15804
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: fde3593f-caf1-4023-91ba-36e4f35eca08
+  claim_hash: 483a7a6b9342f36eb912b4a6e81c875add65b6b3de5a7406e1b71f684c3d7782
+  content: General Roger M. Ramey claimed to have the Roswell debris in his office,
+    yet gave inconsistent identifications of it.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: ch14:15812-15946
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 285961e3-90e2-4268-b4d3-a4e3229366a0
+  claim_hash: 8193baaf7ba0b71048c33d4af2a57297c66a8f1f4f0a4ca6e0d08b01b629e5ed
+  content: When Jesse Marcel and Sheridan Cavitt brought their debris back to the
+    Roswell base, their commanding officer Colonel William Blanchard sent Marcel on
+    a flight to take the debris to the 8th Air Force headquarters in Fort Worth, Texas,
+    to meet Brigadier General Roger Ramey.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+    title: USA, Texas, Fort Worth
+    slug: texas-fort-worth-usa
+  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+    title: Sheridan Cavitt
+    slug: sheridan-cavitt
+  - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+    title: French Air Force
+    slug: french-air-force
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch7:11422-11674
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f18e83d3-03fe-48d1-883c-baf75ccfe321
+  claim_hash: 7a8587b8357404112dac55d85e821d32ca4422dbb33d5c813f4085d8d42fe9b4
+  content: General Roger Ramey's office had changed its mind by the time Jesse Marcel
+    arrived in Fort Worth, Texas, later on 8 July 1947.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+    title: USA, Texas, Fort Worth
+    slug: texas-fort-worth-usa
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch7:13034-13138
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: fb04972d-ff7d-44aa-a3aa-ac3f612eb5e9
+  claim_hash: 5f9d203ca4db3383d08dd9860af48e3d07e394ad6a67daa88043362aa8fc0908
+  content: Three hours after the noon Roswell press release, General Roger Ramey issued
+    a new statement through Associated Press asserting that the supposed flying disc
+    was simply a weather balloon.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Roger Ramey
+    relay:
+    - Associated Press
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  - node_id: 9a751dc2-c8e9-48f9-a82f-5f530cb5430c
+    title: Associated Press
+    slug: associated-press
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch7:13144-13322
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 27f9af84-66d9-4fcd-81aa-6cce723a6241
+  claim_hash: dda03e6fcd8f5248d7af64c18871ccd20e4aebbcb0eeaa795191915f0035cc0f
+  content: From 1978 until his death in 1986, Jesse Marcel claimed in multiple interviews
+    that he had been ordered to collude in a cover-up and that the real debris he
+    brought from Roswell was substituted by General Roger Ramey with wreckage from
+    an old weather balloon.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+  provenance_chain:
+    origin_kind: named
+    origin: Jesse Marcel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: '1978'
+  date_end: null
+  location_in_record: ch7:13631-13914
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d66a30a2-0753-4b64-b0eb-0a695454f097
+  claim_hash: e4c8b2066d3baf3ef3aaab6ed3d8f807a35147835728fb6a3fd94d5ddc2a69f6
+  content: Brig. Gen. Roger Ramey, William Blanchard's boss from Carswell Army Air
+    Field in Fort Worth, Texas, and his chief of staff Thomas J. DuBose also attended
+    the 1947-07-08 staff meeting at Roswell Army Air Force Base.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 011c9b9f-187c-4a38-a713-19a677937d85
+    title: Thomas J. DuBose
+    slug: thomas-j-dubose
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: 345841bf-f575-4c5a-a40a-e11c97cf443f
+    title: USA, Texas, Fort Worth, Carswell Army Air Field
+    slug: texas-fort-worth-carswell-army-air-field-usa
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:1464-1608
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 15da72d9-09fe-47ce-b0f9-80e2aa0bae96
+  claim_hash: f00da8d81e3e6af83d01bab3610e72a7f1ba10de28e1e1d4baa0a3494408155d
+  content: Roger Ramey proposed a plan at the 1947-07-08 meeting, which Walter Haut
+    believes originated with Ramey's superiors at the Pentagon, to divert attention
+    from the more important debris site north of Roswell by acknowledging the other
+    location.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: speaker
+    origin: Walter Haut
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch28:2319-2509
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: df90eebc-f967-4025-99c1-4959e301ccf3
+  claim_hash: 849fcf1a0743a0bcf36cc4dfb14e93bd579a462955a5a66ad789d0145ca63004
+  content: Upon his return from Fort Worth, Jesse Marcel described to Walter Haut
+    taking pieces of the 1947 Roswell wreckage to Roger Ramey's office and, after
+    returning from a map room, finding the remains of a weather balloon and a radar
+    kite substituted in place of the original wreckage.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: named
+    origin: Jesse Marcel
+    relay:
+    - Jesse Marcel's account, described to Walter Haut
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+    title: USA, Texas, Fort Worth
+    slug: texas-fort-worth-usa
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: 1947-07
+  date_end: null
+  location_in_record: ch28:4396-4642
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted

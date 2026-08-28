@@ -1,0 +1,136 @@
+schema: anomalica/brief/1
+brief_hash: 69919e2c969408f44e320a77247130e13c32f19520c1db7d104a6e6697df85d6
+page:
+  kind: entity
+  node_id: 5bb7db4b-73e2-42c7-9f93-6454343f11eb
+  node_type: organisation
+  title: 60 Minutes
+  slug: 60-minutes
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+  title: Robert Bigelow
+  node_type: person
+  slug: robert-bigelow
+  shared_claims: 2
+- node_id: a5b3b368-bcf0-4365-aae1-d2bda894da18
+  title: 60 Minutes Unidentified Aerial Phenomena (UAP) segment
+  node_type: document
+  slug: 60-minutes-unidentified-aerial-phenomena-uap-segment
+  shared_claims: 1
+- node_id: 1fb3a970-12d1-41bc-96ef-659ca169eb4b
+  title: Lara Logan
+  node_type: person
+  slug: lara-logan
+  shared_claims: 1
+claims:
+- claim_id: f85ce769-914c-48df-95c9-51fc0d0601d1
+  claim_hash: 55cbfe7b6842f3fa58e2f80cad5388193ff2fb31b11f69bad267168420bfd42e
+  content: Robert Bigelow told CBS 60 Minutes correspondent Lara Logan that he was
+    'absolutely convinced' aliens exist.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Bigelow
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 1fb3a970-12d1-41bc-96ef-659ca169eb4b
+    title: Lara Logan
+    slug: lara-logan
+  - node_id: 5bb7db4b-73e2-42c7-9f93-6454343f11eb
+    title: 60 Minutes
+    slug: 60-minutes
+  date: null
+  date_end: null
+  location_in_record: ch17:5913-6063
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 75ad25e2-3f42-48cf-8106-dbc6fb33f8c3
+  claim_hash: 8744351ea9a27938cd943a7045344be4f5478a38aa37edce8d22eb414aaf07c2
+  content: Robert Bigelow is notoriously media shy, with the CBS 60 Minutes interview
+    a notable exception.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 5bb7db4b-73e2-42c7-9f93-6454343f11eb
+    title: 60 Minutes
+    slug: 60-minutes
+  date: null
+  date_end: null
+  location_in_record: ch17:7325-7396
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e421024a-9def-479c-a4f0-7e7537722ec1
+  claim_hash: 70e050d96529e193d4faea05efec0af043863e6f7b7b20e325e0cccca5eb2e08
+  content: The 2021-05 60 Minutes UAP segment became one of the most-watched segments
+    in the history of the show 60 Minutes.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5bb7db4b-73e2-42c7-9f93-6454343f11eb
+    title: 60 Minutes
+    slug: 60-minutes
+  - node_id: a5b3b368-bcf0-4365-aae1-d2bda894da18
+    title: 60 Minutes Unidentified Aerial Phenomena (UAP) segment
+    slug: 60-minutes-unidentified-aerial-phenomena-uap-segment
+  date: null
+  date_end: null
+  location_in_record: ch31:20966-21062
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted

@@ -1,0 +1,738 @@
+schema: anomalica/brief/1
+brief_hash: 6fab6d55824ca2bf2866ce8123ab388e5356424ce88a6afff7d776f48f2b4a24
+page:
+  kind: entity
+  node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+  node_type: organisation
+  title: Bigelow Aerospace
+  slug: bigelow-aerospace
+  claim_count: 17
+  claim_count_total: 17
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+  title: Robert Bigelow
+  node_type: person
+  slug: robert-bigelow
+  shared_claims: 6
+- node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+  title: USA, Nevada, Las Vegas
+  node_type: place
+  slug: nevada-las-vegas-usa
+  shared_claims: 5
+- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+  title: Advanced Aerospace Threat Identification Program (AATIP)
+  node_type: project
+  slug: advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 3
+- node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+  title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+  node_type: project
+  slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  shared_claims: 3
+- node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+  title: Defense Intelligence Agency (DIA)
+  node_type: organisation
+  slug: defense-intelligence-agency-dia
+  shared_claims: 3
+- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+  title: Harold E. Puthoff
+  node_type: person
+  slug: harold-e-puthoff
+  shared_claims: 2
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 2
+- node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+  title: Lockheed Martin
+  node_type: organisation
+  slug: lockheed-martin
+  shared_claims: 1
+- node_id: ab61de92-c966-4cab-a3c5-05208029f462
+  title: Lockheed Martin Space Systems Company
+  node_type: organisation
+  slug: lockheed-martin-space-systems-company
+  shared_claims: 1
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 1
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 1
+- node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
+  title: Ralph Blumenthal
+  node_type: person
+  slug: ralph-blumenthal
+  shared_claims: 1
+- node_id: debbde62-76ce-426d-8dd6-6d820c2d2c51
+  title: The Pentagon
+  node_type: object
+  slug: the-pentagon
+  shared_claims: 1
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+claims:
+- claim_id: 761022c7-f81c-479f-b0c6-5c3bfec1942d
+  claim_hash: 4222e2d0f1e390f429ff3678d37354a9cacefc3854e711a81a177efde2eaf992
+  content: One condition of the Bigelow contract with the Defense Intelligence Agency
+    was that Bigelow Aerospace's plant in Las Vegas be engineered so it could accept,
+    store, and study certain exotic materials.
+  original_excerpt: One condition of the Bigelow contract with DIA was that Bigelow's
+    Aerospace plant in Las Vegas must be engineered so that it could accept, store,
+    and study certain exotic materials.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: speaker
+    origin: George Knapp
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+    title: USA, Nevada, Las Vegas
+    slug: nevada-las-vegas-usa
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  date: null
+  date_end: null
+  location_in_record: char:11572-11743
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+    record_title: Statement to Congress
+    record_date: null
+    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+    friendly_name: undated-pdf-statement-to-congress
+- claim_id: d314c627-a752-43d3-a286-835241ddff40
+  claim_hash: dca974af1ac3bdcba9033c37bb4ea0a1f1c63fcc8adb72a60417bab75cd6c73f
+  content: The contract for the Advanced Aerospace Weapon System Applications Program
+    was awarded to a subsidiary of Bigelow Aerospace, owned by Robert Bigelow.
+  original_excerpt: The contract for AAWSAP was awarded to a subsidiary of Bigelow
+    Aerospace, owned by Robert Bigelow.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: speaker
+    origin: George Knapp
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: null
+  date_end: null
+  location_in_record: char:9970-10060
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+    record_title: Statement to Congress
+    record_date: null
+    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+    friendly_name: undated-pdf-statement-to-congress
+- claim_id: 2a1c80fa-d06f-4a26-a52b-031fae1b808f
+  claim_hash: a5a9c1bf03aa6b36dcdeb2efcdeb73c613c0566105090ced74854bdeccda53bb
+  content: The Advanced Aerospace Threat Identification Program (AATIP) funding went
+    to Robert Bigelow's company, Bigelow Aerospace, which hired subcontractors and
+    solicited research for the program.
+  original_excerpt: The funding went to Mr. Bigelow’s company, Bigelow Aerospace,
+    which hired subcontractors and solicited research for the program.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  date: null
+  date_end: null
+  location_in_record: char:9233-9353
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 94b6de85-512f-4359-9da1-d796a1895ec9
+  claim_hash: 74b0ac8ebd17681410f606155fbbac11288c4d0494d9e77fd4ee47801bf8d744
+  content: Under Robert Bigelow's direction, Bigelow Aerospace modified buildings
+    in Las Vegas for the storage of metal alloys and other materials that Luis Elizondo
+    and Advanced Aerospace Threat Identification Program (AATIP) contractors said
+    had been recovered from unidentified aerial phenomena.
+  original_excerpt: Under Mr. Bigelow’s direction, the company modified buildings
+    in Las Vegas for the storage of metal alloys and other materials that Mr. Elizondo
+    and program contractors said had been recovered from unidentified aerial phenomena.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Elizondo, Luis, and Advanced Aerospace Threat Identification Program contractors
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+    title: USA, Nevada, Las Vegas
+    slug: nevada-las-vegas-usa
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  date: null
+  date_end: null
+  location_in_record: char:9363-9581
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: f60a097b-1c0b-4280-a8c0-cfef0017d988
+  claim_hash: cc979eb97a23a84a8eb8e653d3455d1e15bb3185739428f3fb6c11327cb0849b
+  content: Robert Bigelow founded Bigelow Aerospace, a company specialising in manufactured
+    space equipment, mostly with his own funding in 1998.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  date: '1998'
+  date_end: null
+  location_in_record: char:11705-11816
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: bb4e5adf-57b9-4b3e-a180-71035c55bf36
+  claim_hash: 1fc637a99405e06b0e0feb07d6bac524388aa90738c98a547100d4c834e22eaf
+  content: NASA and other space companies use Bigelow Aerospace's space habitats and
+    other equipment in their explorations and experiments in space, due to their reliability
+    and safety.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  date: null
+  date_end: null
+  location_in_record: char:11822-12011
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 76c31464-649e-4c7b-9f6a-9fac418b2fe2
+  claim_hash: d5c6f8b4f0b769f1a866a39d3b9be32add28d9bd6423d9ceb7cff896bca7f6d8
+  content: Robert Bigelow founded Bigelow Aerospace, a space technology company based
+    in Las Vegas, Nevada, in 1998.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration (In Plain Sight)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+    title: USA, Nevada, Las Vegas
+    slug: nevada-las-vegas-usa
+  date: '1998'
+  date_end: null
+  location_in_record: ch15:27880-27993
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
+  claim_hash: a964f695eaffd8d992da30c26fd56cc95adabea244e4b16e46a3b4440ea65aa6
+  content: An alien logo is painted on the exterior of Robert Bigelow's Bigelow Aerospace
+    building in Las Vegas.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+    title: USA, Nevada, Las Vegas
+    slug: nevada-las-vegas-usa
+  date: null
+  date_end: null
+  location_in_record: ch17:5779-5906
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f502d7b8-31d6-4e72-8ab1-3ddc097d2bcc
+  claim_hash: 8a8447618178f5a5df68a1c4aedadad524841e77a43cbcef86b3e14e2c990910
+  content: New York Times reporter Ralph Blumenthal has since walked back from the
+    claim that materials recovered from UAP were stored in Las Vegas, admitting they
+    have now learned that no materials were provided.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
+    title: Ralph Blumenthal
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ralph Blumenthal
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
+    title: Ralph Blumenthal
+    slug: ralph-blumenthal
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  date: null
+  date_end: null
+  location_in_record: ch21:18231-18380
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 387ca62a-f6ac-4c9b-ad8c-5253cfc00cb8
+  claim_hash: 0057344ff0c7b95102e0ae1717faa67e27bb552e0770ff6c6b873f1572ee8f11
+  content: Hal Puthoff was a senior scientist for Bigelow Aerospace working on the
+    Advanced Aerospace Threat Identification Program (AATIP), examining activity from
+    the Defense Intelligence Agency (DIA)-funded program.
+  original_excerpt: When I consider some of the things that we did in the AATIP program,
+    I was a senior scientist for Bigelow Aerospace on looking at what was happening
+    out of the DIA-funded program.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hal Puthoff
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  date: null
+  date_end: null
+  location_in_record: 00:09:33.4-00:09:46.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: 65232dd7-cf3f-41f1-84be-70127118b855
+  claim_hash: 59dd92afcf517afe139a8e239f2c498824f07004de76d69fd4d595af34e8b0cf
+  content: Hal Puthoff commissioned about 36 papers from leading experts around the
+    world on behalf of Bigelow Aerospace, asking where their area of expertise would
+    be by the year 2050, without disclosing any connection to extraterrestrials or
+    Unidentified Aerial Phenomena (UAP).
+  original_excerpt: I commissioned, I think it was 36 papers from leading experts
+    all over the world. asking them, saying, I was just doing a survey for Bigelow
+    Aerospace. Where will your area of expertise be by the year 2050? I didn't tell
+    them it had anything to do with, quote, ETs or UAPs or whatever.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hal Puthoff
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  date: null
+  date_end: null
+  location_in_record: 00:11:31.2-00:11:51.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: 21cd8e31-9e61-4a9b-b467-bf048283d04e
+  claim_hash: 26883d42eab8778ed57abd93c831aa4e3592f7b199565ffbe5286f4506b061ed
+  content: There were several attempts to divest materials to the Advanced Aerospace
+    Weapon System Applications Program (AAWSAP) or to Bigelow Aerospace.
+  original_excerpt: There were several attempts to divest materials to the AAWSAP
+    or to BAS?
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+    title: UAP Gerb
+  provenance_chain:
+    origin_kind: speaker
+    origin: UAP Gerb
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: null
+  date_end: null
+  location_in_record: 00:12:52.7-00:12:57.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: cdcf1211-1073-4e9e-b0ab-d7852b0543ed
+  claim_hash: 4ad2fd9906f6dc4c31fef2fa284fe758d5a1dd5067635c03ff1f33d7d17c4043
+  content: During the period when the follow-on UAP programme was unfunded, its participants
+    had support from Bigelow Aerospace and other places.
+  original_excerpt: We just had support from Bigelow Aerospace and other places.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hal Puthoff
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  date: null
+  date_end: null
+  location_in_record: 00:25:41.5-00:25:45.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: e4fb1fa3-936e-465d-8e40-8976d51107ff
+  claim_hash: 8d9582233a2b90814c3ccdb8c535fc9017681e198984081ee1702691560eaf92
+  content: The plan for Bigelow Aerospace to build facilities in Las Vegas, Nevada
+    to house materials from Lockheed Martin Space Systems Company never materialised.
+  original_excerpt: That was the plan, but it never materialized.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hal Puthoff
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+    title: USA, Nevada, Las Vegas
+    slug: nevada-las-vegas-usa
+  - node_id: ab61de92-c966-4cab-a3c5-05208029f462
+    title: Lockheed Martin Space Systems Company
+    slug: lockheed-martin-space-systems-company
+  date: null
+  date_end: null
+  location_in_record: 00:30:55.2-00:30:56.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: 81abc27c-22f7-45ef-8f3c-1a3bf124e852
+  claim_hash: 9615c48687c0975f142ef589ff81f782ee93f767a1ebd0c40b35789e6c7b81e4
+  content: The Advanced Aerospace Weapon System Applications Program (AAWSAP) was
+    funded through the Defense Intelligence Agency and run using Bigelow Aerospace
+    to investigate the UFO phenomenon.
+  original_excerpt: these are people who worked in the government on a big program
+    that was funded through DIA using Bigelow Aerospace, investigating the phenomenon.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: unattributed
+    origin: public record
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: null
+  date_end: null
+  location_in_record: 00:44:00.8-00:44:08.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 0738e5c7-54c4-42af-98a5-102be9d49043
+  claim_hash: e1c6fa78af0cc6b76ab12b70465fa85c238c07d168d6ebd86d3e7c1f214c2b84
+  content: Under the Kona Blue proposal, assets were to be transferred from Lockheed
+    Martin, which held UFO material, to Bigelow Aerospace.
+  original_excerpt: Kona Blue, and this idea that we were transferring assets between
+    Lockheed Martin, who had UFO material to Bigelow aerospace
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michels
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  date: null
+  date_end: null
+  location_in_record: 00:55:12.6-00:55:18.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 233590ec-fa47-49d4-af3f-565329bd7de8
+  claim_hash: ed2fe0b14b19a504520a7f1f739fd31b2533ba214411fdcfc9dedd1d29028e1b
+  content: Bigelow Aerospace was the contractor that ran the Pentagon's UFO programme.
+  original_excerpt: '[note: Begelow Aerospace - Contractor that ran the Pentagon''s
+    UFO program]'
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: source record annotation
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    slug: bigelow-aerospace
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: debbde62-76ce-426d-8dd6-6d820c2d2c51
+    title: The Pentagon
+    slug: the-pentagon
+  date: null
+  date_end: null
+  location_in_record: line 78
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

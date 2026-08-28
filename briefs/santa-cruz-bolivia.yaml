@@ -1,0 +1,945 @@
+schema: anomalica/brief/1
+brief_hash: 6de1f9e296dba00bb3209064c14e752eea70f01d2366f23002ab1d8348b66dba
+page:
+  kind: entity
+  node_id: 035d430f-e166-402a-9c79-0c085a20a611
+  node_type: place
+  title: Bolivia, Santa Cruz
+  slug: santa-cruz-bolivia
+  claim_count: 20
+  claim_count_total: 20
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: c09e3558-1732-4676-a218-d67d285d98ef
+  title: David Fravor
+  node_type: person
+  slug: david-fravor
+  shared_claims: 3
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 2
+- node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+  title: Loyd Auerbach
+  node_type: person
+  slug: loyd-auerbach
+  shared_claims: 2
+- node_id: cdd356ab-023c-47aa-8214-c66773b3c926
+  title: 1988-10-26 Tehachapi Mountains flyover
+  node_type: event
+  slug: 1988-10-26-tehachapi-mountains-flyover
+  shared_claims: 1
+- node_id: 0f6ab594-fe10-4780-8bf9-f9d48ff1ad59
+  title: 4602d Air Intelligence Service Squadron
+  node_type: organisation
+  slug: 4602d-air-intelligence-service-squadron
+  shared_claims: 1
+- node_id: bf21f83b-cd27-4b5d-a4c9-d0d7b0610800
+  title: Anne Huston Barron
+  node_type: person
+  slug: anne-huston-barron
+  shared_claims: 1
+- node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+  title: Anne Strieber
+  node_type: person
+  slug: anne-strieber
+  shared_claims: 1
+- node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+  title: Apollo 11
+  node_type: project
+  slug: apollo-11
+  shared_claims: 1
+- node_id: 6b3c4983-23b5-405a-8b3f-ea523b472ad7
+  title: Carey Hayes
+  node_type: person
+  slug: carey-hayes
+  shared_claims: 1
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 1
+- node_id: d333dd58-e92e-441c-a4ad-c1668a7649e1
+  title: Chad Hayes
+  node_type: person
+  slug: chad-hayes
+  shared_claims: 1
+- node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+  title: Daniel Sheehan
+  node_type: person
+  slug: daniel-sheehan
+  shared_claims: 1
+- node_id: 5260eadc-7de1-46bc-90e0-7f2241bf82d3
+  title: Dean Radin
+  node_type: person
+  slug: dean-radin
+  shared_claims: 1
+- node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+  title: Ed Dames
+  node_type: person
+  slug: ed-dames
+  shared_claims: 1
+- node_id: 861ba74d-1ec7-409e-8109-2480212d96ac
+  title: Institute of Noetic Sciences (IONS)
+  node_type: organisation
+  slug: institute-of-noetic-sciences-ions
+  shared_claims: 1
+- node_id: c88844d1-96cb-4a09-b488-8677c7841ec9
+  title: James M. Huston Jr.
+  node_type: person
+  slug: james-m-huston-jr
+  shared_claims: 1
+- node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+  title: Jesse Mitchells
+  node_type: person
+  slug: jesse-mitchells
+  shared_claims: 1
+- node_id: 4eefef8a-edab-4269-8859-10e28ce598d5
+  title: Joanna Rix
+  node_type: person
+  slug: joanna-rix
+  shared_claims: 1
+- node_id: cb66c377-11dc-4ef7-9d53-6b058c982b46
+  title: Kip Leyser
+  node_type: person
+  slug: kip-leyser
+  shared_claims: 1
+- node_id: d632d370-190b-4b46-bfc2-381ba3c3cda8
+  title: LeftBrainRight, LLC
+  node_type: organisation
+  slug: llc-leftbrainright
+  shared_claims: 1
+- node_id: b32f2652-1e0d-4ea5-8a40-608ec29b66a2
+  title: Marcia Smith
+  node_type: person
+  slug: marcia-smith
+  shared_claims: 1
+- node_id: 1d5c78b9-b3b4-495c-ba40-0c27fc1bd698
+  title: Marshall Islands, Kwajalein Atoll
+  node_type: place
+  slug: kwajalein-atoll-marshall-islands
+  shared_claims: 1
+- node_id: 460156dd-b6e7-45db-a6ff-4c0b20207e83
+  title: Moss Beach Distillery
+  node_type: organisation
+  slug: moss-beach-distillery
+  shared_claims: 1
+- node_id: 44be4886-5198-456b-94d2-680790566c53
+  title: North American Rockwell
+  node_type: organisation
+  slug: north-american-rockwell
+  shared_claims: 1
+- node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
+  title: Pat
+  node_type: person
+  slug: pat
+  shared_claims: 1
+- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+  title: Project Blue Book
+  node_type: project
+  slug: project-blue-book
+  shared_claims: 1
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 1
+- node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+  title: Richard Nixon
+  node_type: person
+  slug: richard-nixon
+  shared_claims: 1
+- node_id: 8b3e621a-fbbe-4fd0-ac27-2bd79de6dad9
+  title: Romero Institute
+  node_type: organisation
+  slug: romero-institute
+  shared_claims: 1
+- node_id: a1f4ddab-6b4e-4e14-9691-5673e52c5cb3
+  title: Ruth Huston
+  node_type: person
+  slug: ruth-huston
+  shared_claims: 1
+claims:
+- claim_id: 26d24f66-4f88-4f2e-833d-5dd587a10625
+  claim_hash: d28ab50e4ed8db2b7d4a822b0cba1c92b05abbabe90495d36452f01e1462e266
+  content: William F. Hamilton moved to 10 acres of land in USA, California, West
+    Antelope Valley.
+  original_excerpt: Well, I moved out to 10 acres in the West Antelope Valley
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+    title: William F. Hamilton
+  provenance_chain:
+    origin_kind: speaker
+    origin: William F. Hamilton
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+    title: William F. Hamilton
+    slug: william-f-hamilton
+  date: null
+  date_end: null
+  location_in_record: 00:02:42.1-00:02:46.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+    record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien
+      Technology Being Tested'
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+    content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+    friendly_name: null
+- claim_id: e7a04f66-0333-40c1-ad9b-d881d7e3201d
+  claim_hash: 3c513e5b82d6de045bbfde8613401b5ee546c7bd66203e8efba92d5330f2f111
+  content: The objects seen flying over the Tehachapi Mountains on 1988-10-26 were
+    also seen later that night in the USA, California, Fresno area and were reported
+    in newspapers.
+  original_excerpt: And these objects were also seen later that night in the Fresno
+    area, and it made the newspapers.
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+    title: William F. Hamilton
+  provenance_chain:
+    origin_kind: document
+    origin: newspaper reports
+    relay:
+    - William F. Hamilton
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: cdd356ab-023c-47aa-8214-c66773b3c926
+    title: 1988-10-26 Tehachapi Mountains flyover
+    slug: 1988-10-26-tehachapi-mountains-flyover
+  date: '1988-10-26'
+  date_end: null
+  location_in_record: 00:05:41.6-00:05:46.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+    record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien
+      Technology Being Tested'
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+    content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+    friendly_name: null
+- claim_id: d21b3116-d4b5-4b72-9e51-10b61275ddbb
+  claim_hash: dba8a19356677b0173ef4eb2ccb4ba7a6ed495579a0b5bb4df20d02c7b67fbfb
+  content: For the Apollo 11 flight, Richard C. Hoagland was assigned, at his own
+    request, to the Downey, California facility of North American Rockwell, the prime
+    contractor for the Apollo Command and Service Modules.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: 44be4886-5198-456b-94d2-680790566c53
+    title: North American Rockwell
+    slug: north-american-rockwell
+  - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+    title: Apollo 11
+    slug: apollo-11
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: 1969-07
+  date_end: null
+  location_in_record: ch7:22390-22579
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: f047c5dc-dcfc-4cda-bde4-7bcc08a42243
+  claim_hash: 77ab40e1c951fec83dd2eb67f0570d83b8af456de30a03436a4578482c20c490
+  content: During the early-to-mid 1980s, Loyd Auerbach received a call from a woman
+    named Pat in Livermore, California, a city east of Oakland.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+    slug: loyd-auerbach
+  - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
+    title: Pat
+    slug: pat
+  date: null
+  date_end: null
+  location_in_record: ch31:13627-13706
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: faada9a5-abeb-4cb7-a0a2-2a2ad5d75a5c
+  claim_hash: 63a66f378305f1e142815ed0400297b6c7eca58c124514e083025ef751478564
+  content: On the day of the scheduled trip to Livermore, Loyd Auerbach's usual accompanying
+    parapsychology students were unavailable, so his wife at the time, Joanna Rix,
+    and a student, Kip Leyser, joined him instead.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: 4eefef8a-edab-4269-8859-10e28ce598d5
+    title: Joanna Rix
+    slug: joanna-rix
+  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+    slug: loyd-auerbach
+  - node_id: cb66c377-11dc-4ef7-9d53-6b058c982b46
+    title: Kip Leyser
+    slug: kip-leyser
+  date: null
+  date_end: null
+  location_in_record: ch31:19645-19915
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: da35884e-5a4c-4cb1-84c9-53ab53d3ec2f
+  claim_hash: 386724aeff66fe911e1ab532a1a3b32b7ce69e23a19f327e0a8def72a30e758f
+  content: The Moss Beach Distillery restaurant, south of San Francisco, has had reports
+    of a woman in a blue dress, known as "The Blue Lady", going back to the early
+    1930s.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: 460156dd-b6e7-45db-a6ff-4c0b20207e83
+    title: Moss Beach Distillery
+    slug: moss-beach-distillery
+  date: '1930'
+  date_end: null
+  location_in_record: ch31:32903-33066
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 666a30cd-5eb6-4fb2-878e-90ca2d013a8f
+  claim_hash: 9615f21be07d352131a21ca0c805d9c5ca4563c1fe18cd55820005ec305a261a
+  content: The USS Hornet, a World War II aircraft carrier, is a registered State
+    and National Historic Landmark and now a museum moored at the former Naval Air
+    Station Alameda on San Francisco Bay.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: a5e6fd2f-c024-4925-bfa0-29a8bd07bb9c
+    title: USS Hornet
+    slug: uss-hornet
+  date: null
+  date_end: null
+  location_in_record: ch31:35869-36052
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 3619c654-3e34-4eab-9e6a-c5d5569a4abf
+  claim_hash: 412f11959f48d9a48f800b8811782cbf9399a4ca691dbe5c1b52ee8bf6ea36f8
+  content: Dean Radin is Chief Scientist at the Institute of Noetic Sciences in Petaluma,
+    California.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: 5260eadc-7de1-46bc-90e0-7f2241bf82d3
+    title: Dean Radin
+    slug: dean-radin
+  - node_id: 861ba74d-1ec7-409e-8109-2480212d96ac
+    title: Institute of Noetic Sciences (IONS)
+    slug: institute-of-noetic-sciences-ions
+  date: null
+  date_end: null
+  location_in_record: ch7:17808-17879
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 4c89c015-300a-4d63-8c76-bbf1d9b4fd6d
+  claim_hash: ffddf302f36f0dea49e297f61e117e082455457bb80d54a421954b3fc05ddea2
+  content: James M. Huston Jr.'s parents died in the mid-1970s, and his sister Ruth
+    had also died, but his sister Anne Huston Barron, aged eighty-four at the time,
+    lived in Los Gatos, California.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: a1f4ddab-6b4e-4e14-9691-5673e52c5cb3
+    title: Ruth Huston
+    slug: ruth-huston
+  - node_id: bf21f83b-cd27-4b5d-a4c9-d0d7b0610800
+    title: Anne Huston Barron
+    slug: anne-huston-barron
+  - node_id: c88844d1-96cb-4a09-b488-8677c7841ec9
+    title: James M. Huston Jr.
+    slug: james-m-huston-jr
+  date: null
+  date_end: null
+  location_in_record: ch9:26595-26728
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 476edf4d-bc02-49ef-90de-81cc0c8d0087
+  claim_hash: f0c1bc4072edc07d3e585d5b78a20f4dd82aa61b3b1bd1d7505427f18c191f2c
+  content: Chad Hayes and Carey Hayes, who wrote the screenplay for The Conjuring,
+    are twin brothers from Malibu, California.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: 1f8ce2b5-fee5-462d-836d-2e600b23505d
+    title: The Conjuring
+    slug: the-conjuring
+  - node_id: 6b3c4983-23b5-405a-8b3f-ea523b472ad7
+    title: Carey Hayes
+    slug: carey-hayes
+  - node_id: d333dd58-e92e-441c-a4ad-c1668a7649e1
+    title: Chad Hayes
+    slug: chad-hayes
+  date: null
+  date_end: null
+  location_in_record: ch4:3295-3456
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: c3bce38d-5a02-4a2d-8332-82ba425b7646
+  claim_hash: 24d218e92f8c6b307409ecee3ffdbd5c43ab3d3972c6bcc093e9c122f0271e78
+  content: The deployment during which the 2004 USS Nimitz UFO incident occurred was
+    a two-month joint workup at sea, longer than the typical one-month deployment
+    cycle.
+  original_excerpt: Normally, we go out for a month, go come back, do stuff, go out
+    for a month. This was a two-month at sea period where we actually had to beg for
+    them to let us when the ship pulled in at Thanksgiving so we could run home up
+    to the Central Valley, have Thanksgiving with our family, and then run back down
+    and do this
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: 02:52:21.4-02:52:33.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: f3235bd8-d0eb-42e8-9e5e-2d03a664a91f
+  claim_hash: 5ad431f5c3df67e24ba755715f1e051bcc16876928d79209e2cf10716a8a36d6
+  content: David Fravor lived in central California for 18 years.
+  original_excerpt: So I lived in central California for 18 years.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: 03:29:54.4-03:29:56.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: d32b5b94-1e7f-4fee-a7ca-6d300ca205ab
+  claim_hash: 18ddad803fc64dc7a5d71672b7ae2b69ca4345a3e5f69c876d9be753dd863e12
+  content: United States intercontinental ballistic missile tests launched from Vandenberg
+    fly across the ocean and land in the Kwajalein Atoll in the Marshall Islands,
+    where their displacement and accuracy can be checked.
+  original_excerpt: they were doing ICBM tests at one time where they shoot from Vandenberg
+    and they fly across, then they go land in the atoll at Kwajalein. You know, and
+    then they can check the displacement, the accuracy and all that stuff.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: 1d5c78b9-b3b4-495c-ba40-0c27fc1bd698
+    title: Marshall Islands, Kwajalein Atoll
+    slug: kwajalein-atoll-marshall-islands
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: 03:30:03.4-03:30:12.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: e8ccff9b-306f-49f9-81d6-3b772c899168
+  claim_hash: 54e1e4e8edd67ec60e5713b2420e419e7d3515d14bd2c7a5c5e45e794a6f1d87
+  content: David Fravor used to watch missile launches from Vandenberg from his driveway,
+    located about a three-hour drive away.
+  original_excerpt: Because we used to sit in our driveway and Vandenberg, it was
+    a three hour drive, but you could sit and watch it go.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: 03:30:53.6-03:30:57.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: 935280b6-c5d5-420a-9473-a55fc1382354
+  claim_hash: b4cd00b303249890190036db9cc376097aa38606c83476e21738a541d5ac3bc5
+  content: A report about an object found near Santa Cruz, Bolivia in 1979 contains
+    a reference to 'Moon Dust'.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: declassified report on the 1979 Santa Cruz object
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: 0f6ab594-fe10-4780-8bf9-f9d48ff1ad59
+    title: 4602d Air Intelligence Service Squadron
+    slug: 4602d-air-intelligence-service-squadron
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '1979'
+  date_end: null
+  location_in_record: ch10:2305-2410
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 0e091c7f-ecb4-44e3-adb9-43c608064434
+  claim_hash: 0de77b91c22ef7f14476d4ebf8b2313e755c8472f702782fd697f4559fbd2616
+  content: Daniel Sheehan recalled telling Marcia Smith, when she doubted the classified
+    Blue Book files would be given to them, 'you never get if you don't ask'.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Daniel Sheehan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Daniel Sheehan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: 8b3e621a-fbbe-4fd0-ac27-2bd79de6dad9
+    title: Romero Institute
+    slug: romero-institute
+  - node_id: b32f2652-1e0d-4ea5-8a40-608ec29b66a2
+    title: Marcia Smith
+    slug: marcia-smith
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Daniel Sheehan
+    slug: daniel-sheehan
+  date: null
+  date_end: null
+  location_in_record: ch11:18145-18373
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 40069255-b2b6-47c3-9063-0adab5ef559a
+  claim_hash: 88c5403557dc58569a838776a3ae181fd5af13b0de3026c3d56a718a8a823151
+  content: The narrator and his crew travelled to Sacramento, California to meet Ed
+    Dames.
+  original_excerpt: We just got to Sacramento last night.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narrator
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+    slug: ed-dames
+  date: null
+  date_end: null
+  location_in_record: 00:26:17.5-00:26:18.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: acafea30-aa20-4779-96a1-8b060048b940
+  claim_hash: 7124a022a11ee37005ab291cbde5b0102ed76b10de18af8f2c254df3d58e8737
+  content: Whitley Strieber recalls sitting on the deck of a Malibu oceanside restaurant
+    with Anne Strieber and Shirley MacLaine, listening to them discuss conflict between
+    the dark and the light.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+    title: Anne Strieber
+    slug: anne-strieber
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+    title: Shirley MacLaine
+    slug: shirley-maclaine
+  date: null
+  date_end: null
+  location_in_record: ch17:4639-4809
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 3d7ab91c-9889-468e-a15a-9bac70495502
+  claim_hash: 9d436dbcd529b548b75706fea12f9084716554019f4158cb93b4a95442550b05
+  content: LeftBrainRight, LLC is located at 1112 Montana Ave, Suite 142, Santa Monica,
+    California, 90403.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Fourth Mind copyright page
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: d632d370-190b-4b46-bfc2-381ba3c3cda8
+    title: LeftBrainRight, LLC
+    slug: llc-leftbrainright
+  date: null
+  date_end: null
+  location_in_record: ch4:125-194
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 69f4e9f5-2ec6-405a-b0c4-7261cd091f8b
+  claim_hash: 07b4b8bb16e07bd271911ac492335563af38d51ed255112f3786e59cb1be67d0
+  content: Jesse Michels regards Richard Nixon as a political outsider, citing his
+    origins in Whittier, California, his chip on his shoulder, and his wish to force
+    a reduction in the CIA.
+  original_excerpt: I think of Nixon as kind of an outsider. ... From Whittier, California
+    chip on his shoulder was wanting to do forced reduction in the CIA.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michels
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    slug: jesse-mitchells
+  - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+    title: Richard Nixon
+    slug: richard-nixon
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  date: null
+  date_end: null
+  location_in_record: 00:47:09.8-00:47:17.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

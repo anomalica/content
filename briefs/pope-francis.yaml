@@ -1,0 +1,173 @@
+schema: anomalica/brief/1
+brief_hash: 2f9c7d986b1bfd8173cebec11f10fa6d384bf225e1a08047aabd0241a77bb133
+page:
+  kind: entity
+  node_id: 19dca973-75b8-49af-b130-3927d2360826
+  node_type: person
+  title: Pope Francis
+  slug: pope-francis
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 9900e821-3ba2-4337-9e3c-6ae540cf2fa1
+  title: Italy, Rome, Santa Sabina
+  node_type: place
+  slug: rome-santa-sabina-italy
+  shared_claims: 2
+- node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+  title: Tyler D.
+  node_type: person
+  slug: tyler-d
+  shared_claims: 2
+- node_id: 6a53efff-b51c-4740-b6fd-d627961d3f55
+  title: Tyler D.'s first communion Mass with Pope Francis at Santa Sabina
+  node_type: event
+  slug: tyler-ds-first-communion-mass-with-pope-francis-at-santa-sabina
+  shared_claims: 2
+- node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+  title: Jason Samosa
+  node_type: person
+  slug: jason-samosa
+  shared_claims: 1
+- node_id: b9230db2-eef8-4526-86aa-97f693336b1a
+  title: Knights of Malta
+  node_type: organisation
+  slug: knights-of-malta
+  shared_claims: 1
+- node_id: 003d66fb-639b-4885-80ff-9cbe54e5c6ff
+  title: Pope Leo XIV
+  node_type: person
+  slug: pope-leo-xiv
+  shared_claims: 1
+claims:
+- claim_id: 88384bc9-f2f7-43b6-b0bc-cfd837c98a02
+  claim_hash: 299a8dbad698f36028f2ef50b7298930c803149526205e7625606dc1af8bf1f3
+  content: Tyler D. was invited to return to Rome months after returning to the United
+    States, to make his first communion as a Catholic at a Mass with Pope Francis
+    at the church of Santa Sabina.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 19dca973-75b8-49af-b130-3927d2360826
+    title: Pope Francis
+    slug: pope-francis
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    slug: tyler-d
+  - node_id: 6a53efff-b51c-4740-b6fd-d627961d3f55
+    title: Tyler D.'s first communion Mass with Pope Francis at Santa Sabina
+    slug: tyler-ds-first-communion-mass-with-pope-francis-at-santa-sabina
+  - node_id: 9900e821-3ba2-4337-9e3c-6ae540cf2fa1
+    title: Italy, Rome, Santa Sabina
+    slug: rome-santa-sabina-italy
+  date: null
+  date_end: null
+  location_in_record: ch7:42191-42397
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: c798d4d1-e0e2-458d-8a5b-128c09c97d7c
+  claim_hash: 772dad6b80ab1502787a7de9714cf1b8da8ec0397705eb4b86aaaf0eb491c54a
+  content: Tyler D.'s first communion Mass with Pope Francis at Santa Sabina took
+    place on St. Valentine's Day, which that year also fell on Ash Wednesday.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 19dca973-75b8-49af-b130-3927d2360826
+    title: Pope Francis
+    slug: pope-francis
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    slug: tyler-d
+  - node_id: 6a53efff-b51c-4740-b6fd-d627961d3f55
+    title: Tyler D.'s first communion Mass with Pope Francis at Santa Sabina
+    slug: tyler-ds-first-communion-mass-with-pope-francis-at-santa-sabina
+  - node_id: 9900e821-3ba2-4337-9e3c-6ae540cf2fa1
+    title: Italy, Rome, Santa Sabina
+    slug: rome-santa-sabina-italy
+  date: null
+  date_end: null
+  location_in_record: ch7:42476-42577
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 42d8b0e8-ecfb-4c3e-be65-e36dc6486a21
+  claim_hash: 448794c2322b581c65786fcc3f7ed05b514dcf6ebe46f974368193372a2ffc24
+  content: Pope Francis was the pope immediately preceding Pope Leo XIV, and Jason
+    Samosa believes he was trying to rein in the Knights of Malta over a conflict
+    about them operating somewhat rogue.
+  original_excerpt: Pope Francis was the last pope. I think he was trying to deal
+    with the Knights of Malta as well. There was some conflict there about them, maybe
+    operating a little bit rogue, he had to pull them in.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jason Samosa
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 003d66fb-639b-4885-80ff-9cbe54e5c6ff
+    title: Pope Leo XIV
+    slug: pope-leo-xiv
+  - node_id: 19dca973-75b8-49af-b130-3927d2360826
+    title: Pope Francis
+    slug: pope-francis
+  - node_id: b9230db2-eef8-4526-86aa-97f693336b1a
+    title: Knights of Malta
+    slug: knights-of-malta
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    slug: jason-samosa
+  date: null
+  date_end: null
+  location_in_record: 02:29:25.2-02:29:34.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

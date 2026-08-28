@@ -1,0 +1,346 @@
+schema: anomalica/brief/1
+brief_hash: 1c61dcd0bf61d0243b2d224927ae416bab13fff51dd4c7a2e217f40f2013057d
+page:
+  kind: entity
+  node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
+  node_type: project
+  title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program
+    (alleged)
+  slug: unidentified-flying-object-ufo-retrieval-and-reverse-engineering-program-alleged
+  claim_count: 8
+  claim_count_total: 8
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+  title: David Charles Grusch
+  node_type: person
+  slug: david-charles-grusch
+  shared_claims: 3
+- node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+  title: All-domain Anomaly Resolution Office (AARO)
+  node_type: organisation
+  slug: all-domain-anomaly-resolution-office-aaro
+  shared_claims: 1
+- node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+  title: Michael Shellenberger
+  node_type: person
+  slug: michael-shellenberger
+  shared_claims: 1
+- node_id: 61a7011e-7da5-40de-a4ec-0c2ba98bede1
+  title: Pentagon Office of Prepublication and Security Review (Defense Office of
+    Prepublication and Security Review (DOPSR))
+  node_type: organisation
+  slug: pentagon-office-of-prepublication-and-security-review-defense-office-of-prepublication-and-security-review-dopsr
+  shared_claims: 1
+claims:
+- claim_id: e3ce7f18-85f6-4d35-a15f-6a4229c1977d
+  claim_hash: 1e7bca3d736ab574487752ff648c8e7a0b655c25dce66eb3831a9577956d2ec4
+  content: Individuals with knowledge of the alleged UFO retrieval and reverse engineering
+    program reportedly corroborated David Grusch's evidence.
+  original_excerpt: reportedly corroborated by individuals involved in the alleged
+    program
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+    title: Marik von Rennenkampff
+  provenance_chain:
+    origin_kind: anonymous
+    origin: unnamed individuals claiming involvement in the alleged UFO retrieval
+      and reverse engineering program
+    relay:
+    - reported
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
+    title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program
+      (alleged)
+    slug: unidentified-flying-object-ufo-retrieval-and-reverse-engineering-program-alleged
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: char:4507-4570
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+    record_title: Claims that UFO information was inappropriately withheld from Congress
+      deemed ‘credible,’ ‘urgent’
+    record_date: '2023-06-09'
+    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+    content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+- claim_id: 7f3b89d9-b792-4be1-a9aa-66c179128db6
+  claim_hash: b8f1cf2b9c3c6dfdc64fe9b4e396d89810a53d07c907ba35b07c7854ff09b2c2
+  content: Officials interviewed by Michael Shellenberger provided context and descriptions
+    of vehicles allegedly recovered by the UFO Retrieval and Reverse Engineering Program.
+  original_excerpt: The officials also provided context and descriptions of the vehicles
+    allegedly recovered by the surreptitious UFO retrieval and reverse engineering
+    effort.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+  provenance_chain:
+    origin_kind: anonymous
+    origin: unnamed officials
+    relay:
+    - Michael Shellenberger
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
+    title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program
+      (alleged)
+    slug: unidentified-flying-object-ufo-retrieval-and-reverse-engineering-program-alleged
+  - node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+    slug: michael-shellenberger
+  date: null
+  date_end: null
+  location_in_record: char:4932-5080
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+    record_title: Claims that UFO information was inappropriately withheld from Congress
+      deemed ‘credible,’ ‘urgent’
+    record_date: '2023-06-09'
+    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+    content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+- claim_id: 209800cb-7929-4812-a0ef-232ab0fb27fe
+  claim_hash: 19b76140483200e84c7026e834c4d9a1b0358c65c4d8fec19ed7dde3ed719713
+  content: Marik von Rennenkampff considers it plausible that individuals on the margins
+    of the alleged UFO Retrieval and Reverse Engineering Program were led to believe
+    they were recovering terrestrial, rather than exotic, vehicles.
+  original_excerpt: it is plausible that the many individuals necessarily on the margins
+    of such alleged efforts were led to believe that they were recovering terrestrial,
+    as opposed to more exotic, vehicles
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+    title: Marik von Rennenkampff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Marik von Rennenkampff
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
+    title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program
+      (alleged)
+    slug: unidentified-flying-object-ufo-retrieval-and-reverse-engineering-program-alleged
+  date: null
+  date_end: null
+  location_in_record: char:5470-5649
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+    record_title: Claims that UFO information was inappropriately withheld from Congress
+      deemed ‘credible,’ ‘urgent’
+    record_date: '2023-06-09'
+    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+    content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+- claim_id: ff36a6e7-6c37-4f2d-a64d-1b78e965e101
+  claim_hash: 809f0e13475c11db78e4bdf10b7389423b7870243f41c63cd65de4e93a2dcbd0
+  content: Marik von Rennenkampff considers it conceivable that the All-domain Anomaly
+    Resolution Office, the Department of Defense's current UFO analysis effort, is
+    not privy to the alleged UFO Retrieval and Reverse Engineering Program, like its
+    predecessor organisations.
+  original_excerpt: it is conceivable that, like its predecessor organizations, the
+    All-domain Anomaly Resolution Office (the Defense Department’s current UFO analysis
+    effort) is simply not privy to the alleged program
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+    title: Marik von Rennenkampff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Marik von Rennenkampff
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
+    title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program
+      (alleged)
+    slug: unidentified-flying-object-ufo-retrieval-and-reverse-engineering-program-alleged
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    slug: all-domain-anomaly-resolution-office-aaro
+  date: null
+  date_end: null
+  location_in_record: char:6508-6699
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+    record_title: Claims that UFO information was inappropriately withheld from Congress
+      deemed ‘credible,’ ‘urgent’
+    record_date: '2023-06-09'
+    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+    content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+- claim_id: f369047f-2146-424e-93fc-e8bfb695a44f
+  claim_hash: 23797b6a4dcd37d92428041da8f45999ca05a8aefbf35d96b158d87f14baea32
+  content: Some critics have questioned how, if the alleged UFO Retrieval and Reverse
+    Engineering Program information is highly classified, the Pentagon cleared David
+    Grusch to make his explosive statements.
+  original_excerpt: Some critics have questioned how, if such information is so highly
+    classified, the Pentagon cleared Grusch to make these explosive statements.
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: unnamed critics
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
+    title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program
+      (alleged)
+    slug: unidentified-flying-object-ufo-retrieval-and-reverse-engineering-program-alleged
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: char:7100-7231
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+    record_title: Claims that UFO information was inappropriately withheld from Congress
+      deemed ‘credible,’ ‘urgent’
+    record_date: '2023-06-09'
+    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+    content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+- claim_id: e74cfaaa-75cc-4855-9ccc-59278adfc950
+  claim_hash: eadefff13302dc21a1bdb0357bbf0fb4461481024868277bffd1a2a3d5810242
+  content: Marik von Rennenkampff considers that if the alleged UFO Retrieval and
+    Reverse Engineering Program operated illegally, it would be unknown to the Pentagon
+    Office of Prepublication and Security Review (DOPSR).
+  original_excerpt: logic suggests that if a UFO retrieval and exploitation effort
+    operated illegally, as is alleged, it would be unknown to the Pentagon’s censors.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+    title: Marik von Rennenkampff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Marik von Rennenkampff
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
+    title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program
+      (alleged)
+    slug: unidentified-flying-object-ufo-retrieval-and-reverse-engineering-program-alleged
+  - node_id: 61a7011e-7da5-40de-a4ec-0c2ba98bede1
+    title: Pentagon Office of Prepublication and Security Review (Defense Office of
+      Prepublication and Security Review (DOPSR))
+    slug: pentagon-office-of-prepublication-and-security-review-defense-office-of-prepublication-and-security-review-dopsr
+  date: null
+  date_end: null
+  location_in_record: char:7253-7389
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+    record_title: Claims that UFO information was inappropriately withheld from Congress
+      deemed ‘credible,’ ‘urgent’
+    record_date: '2023-06-09'
+    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+    content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+- claim_id: 48a9b1f7-427c-4644-bfef-9482e2dced6d
+  claim_hash: 1624d2b2fe0905b095434611b44701784f5a92d49027928836772d037c57bdb5
+  content: David Grusch revealed the existence of a legacy UFO non-human technology
+    retrieval and reverse engineering programme.
+  original_excerpt: he revealed the existence of a legacy UFO non-human technology
+    retrieval and reverse engineering program.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: named
+    origin: David Grusch
+    relay:
+    - reported by Ross Coulthart
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
+    title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program
+      (alleged)
+    slug: unidentified-flying-object-ufo-retrieval-and-reverse-engineering-program-alleged
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: 00:17:06.4-00:17:16.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+    record_title: Dr. Phil read the UAP files before the public, here's what he found
+      | Reality Check
+    record_date: '2026-07-21'
+    record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+    content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+    friendly_name: null
+- claim_id: d68c95c1-5a1f-4ec0-9556-768c7fbca7b1
+  claim_hash: fae94712954090266b9b1368badf8ca1b95df5655bb5715be3538390d2b23a56
+  content: The idea behind the alleged programme is that the United States has recovered
+    alien, non-human technology.
+  original_excerpt: The idea being that the United States has recovered alien technology,
+    non-human technology.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: named
+    origin: David Grusch
+    relay:
+    - reported by Ross Coulthart
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
+    title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program
+      (alleged)
+    slug: unidentified-flying-object-ufo-retrieval-and-reverse-engineering-program-alleged
+  date: null
+  date_end: null
+  location_in_record: 00:17:17.8-00:17:24.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+    record_title: Dr. Phil read the UAP files before the public, here's what he found
+      | Reality Check
+    record_date: '2026-07-21'
+    record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+    content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+    friendly_name: null

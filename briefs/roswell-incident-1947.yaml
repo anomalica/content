@@ -1,0 +1,3806 @@
+schema: anomalica/brief/1
+brief_hash: 82ca750dea04d9980230e760d2d4de99c5c3d77bba44836dd49e1420ff913ec0
+page:
+  kind: entity
+  node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+  node_type: event
+  title: Roswell incident (1947)
+  slug: roswell-incident-1947
+  claim_count: 95
+  claim_count_total: 95
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: f888411e-b882-4f89-8275-350d19f6c52d
+  title: Jesse Marcel
+  node_type: person
+  slug: jesse-marcel
+  shared_claims: 12
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 11
+- node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+  title: USA, New Mexico, Roswell
+  node_type: place
+  slug: new-mexico-roswell-usa
+  shared_claims: 8
+- node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+  title: Walter Haut
+  node_type: person
+  slug: walter-haut
+  shared_claims: 7
+- node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+  title: William Blanchard
+  node_type: person
+  slug: william-blanchard
+  shared_claims: 7
+- node_id: 59476464-a679-46ce-9247-b0adcb287762
+  title: Edgar Mitchell
+  node_type: person
+  slug: edgar-mitchell
+  shared_claims: 5
+- node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+  title: Tom DeLonge
+  node_type: person
+  slug: tom-delonge
+  shared_claims: 5
+- node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
+  title: A Friend (anonymous army sergeant)
+  node_type: person
+  slug: a-friend-anonymous-army-sergeant
+  shared_claims: 4
+- node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+  title: Roswell Army Air Field
+  node_type: organisation
+  slug: roswell-army-air-field
+  shared_claims: 4
+- node_id: 9c05e5aa-adcc-4988-ac84-7d062a159a23
+  title: Strom Thurmond
+  node_type: person
+  slug: strom-thurmond
+  shared_claims: 4
+- node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+  title: United States Army
+  node_type: organisation
+  slug: united-states-army
+  shared_claims: 4
+- node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+  title: Donald Trump
+  node_type: person
+  slug: donald-trump
+  shared_claims: 3
+- node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
+  title: Philip Corso
+  node_type: person
+  slug: philip-corso
+  shared_claims: 3
+- node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+  title: Project Mogul
+  node_type: project
+  slug: project-mogul
+  shared_claims: 3
+- node_id: acde03ee-7227-486d-854c-9673dd837619
+  title: USA, Ohio, Wright-Patterson Air Force Base
+  node_type: place
+  slug: ohio-wright-patterson-air-force-base-usa
+  shared_claims: 3
+- node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
+  title: 509th Bomb Group
+  node_type: organisation
+  slug: 509th-bomb-group
+  shared_claims: 2
+- node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+  title: Barry Goldwater
+  node_type: person
+  slug: barry-goldwater
+  shared_claims: 2
+- node_id: 68f9a9bc-3f15-482a-94c0-83b3c24eff0c
+  title: Don Trump Jr.
+  node_type: person
+  slug: don-trump-jr
+  shared_claims: 2
+- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+  title: Eric Davis
+  node_type: person
+  slug: eric-davis
+  shared_claims: 2
+- node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
+  title: Government Accountability Office
+  node_type: organisation
+  slug: government-accountability-office
+  shared_claims: 2
+- node_id: b3f39800-6a2a-4679-8abe-a4c09a0786c1
+  title: In Plain Sight
+  node_type: document
+  slug: in-plain-sight
+  shared_claims: 2
+- node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
+  title: Mac Brazel
+  node_type: person
+  slug: mac-brazel
+  shared_claims: 2
+- node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+  title: Nat Kobitz
+  node_type: person
+  slug: nat-kobitz
+  shared_claims: 2
+- node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+  title: Roger Ramey
+  node_type: person
+  slug: roger-ramey
+  shared_claims: 2
+- node_id: 5b46b47b-3e4c-4377-bd71-b4d2c3a917e6
+  title: Steven H. Schiff
+  node_type: person
+  slug: steven-h-schiff
+  shared_claims: 2
+- node_id: cc2c952a-56f9-401b-84cf-f26ebf0323a0
+  title: 'The Roswell Report: Case Closed (1997)'
+  node_type: document
+  slug: the-roswell-report-case-closed-1997
+  shared_claims: 2
+- node_id: 1e992087-ad5a-4282-bc5b-86231758f3ba
+  title: 'The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995)'
+  node_type: document
+  slug: the-roswell-report-fact-versus-fiction-in-the-new-mexico-desert-1995
+  shared_claims: 2
+- node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+  title: The Spaceman
+  node_type: person
+  slug: the-spaceman
+  shared_claims: 2
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 2
+- node_id: 97cfb569-0a31-4bbe-b97f-52bc5533569d
+  title: '''Trump Says He''s Heard Interesting Things about Roswell'' (AP article)'
+  node_type: document
+  slug: trump-says-hes-heard-interesting-things-about-roswell-ap-article
+  shared_claims: 1
+claims:
+- claim_id: e53f519f-7dde-4c7f-be9d-fdc42ae4dcec
+  claim_hash: b32d627f4bba6f5752004a54823760470790733160615d3d8d240feccb236dfc
+  content: Eric Davis suggested to George Knapp's radio listeners that the controversial
+    1947 Roswell crash was indeed a genuine crashed extra-terrestrial spacecraft,
+    saying that if you're going to throw your bets on Roswell, your bet is really
+    good.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+  provenance_chain:
+    origin_kind: speaker
+    origin: Eric Davis
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    slug: george-knapp
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch17:13030-13376
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 8860ac68-6ecd-40dc-ae2b-f1961c7f5795
+  claim_hash: ac29c3862ddd9c9903b5257863b2747e4d61cac7cdfada52818992103161d1e2
+  content: Independent researchers and witnesses have long asserted there were several
+    other secret extra-terrestrial craft recoveries in addition to the Roswell event,
+    supposedly recovered by the US military during the 1940s and 1950s.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch17:13383-13671
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ee296dab-5dc5-4be0-9751-55f7c6f58dc6
+  claim_hash: b72d8051eb8939b3f7bf200103cc9f0504168bd42523b89af3010f183b8dd4f9
+  content: Nothing in the leaked Podesta emails proves the truth of what was claimed
+    in briefings by military insiders about alien visitations, that Roswell and other
+    purported extra-terrestrial craft crashes happened, or that recovery of alien
+    corpses happened.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    slug: john-podesta
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch20:11940-12253
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: bae97258-0aac-4690-b461-502f1b8a7df7
+  claim_hash: e543d81a92915726ea6adfbc96817ec347b1b5418841a0f3784ee148a4f7f4b4
+  content: In a 2016 email, Tom DeLonge wrote that Neil McCasland claimed to be a
+    sceptic but really was not, that DeLonge had worked with him for four months and
+    recently given him a four-hour presentation on the entire project, that advice
+    was already being provided on how to proceed, and that when Roswell crashed the
+    wreckage was shipped to the laboratory at Wright-Patterson Air Force Base, which
+    McCasland had been in charge of until a couple of years earlier, and that McCasland
+    had helped assemble DeLonge's advisory team.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay:
+    - an email to John Podesta
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
+    title: Neil McCasland
+    slug: neil-mccasland
+  - node_id: acde03ee-7227-486d-854c-9673dd837619
+    title: USA, Ohio, Wright-Patterson Air Force Base
+    slug: ohio-wright-patterson-air-force-base-usa
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  date: '2016'
+  date_end: null
+  location_in_record: ch20:8997-9721
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 151aa9a8-93d5-47e0-89d1-bbf7081fe957
+  claim_hash: 72a4fccdbe3c774089bb0092e0c0bbb0d702e87cb29b9b18e2477b3c62da789c
+  content: Tom DeLonge suggested that the US government's recovery of a crashed alien
+    spacecraft was the reason why, 90 days after the 1947 Roswell crash, the United
+    States Air Force was created as a separate entity from the United States Army.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  date: null
+  date_end: null
+  location_in_record: ch21:4594-4860
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3e0bc770-7e7d-47ee-aff1-232b3217e646
+  claim_hash: 8f6600c240621e5a72c5503fbc6a942cc5d58e6523d92ec14269d6bc8d71a429
+  content: Tom DeLonge claimed the Roswell incident was the reason the US government
+    enacted the 1947 National Security Act to create a security apparatus, including
+    the Central Intelligence Agency, that had supposedly kept the secret for nearly
+    75 years.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: c2e793f8-80f0-414d-bbef-0bf346cd7a28
+    title: 1947 National Security Act
+    slug: 1947-national-security-act
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  date: null
+  date_end: null
+  location_in_record: ch21:4866-5066
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b13a1157-ea8f-4a42-a2b3-7a641a87d12c
+  claim_hash: da716b8bc34de6877e549b0dafa79b447d7682c16c5e0615c53d0e6f67849e81
+  content: Tom DeLonge said he was told the Roswell crash involved a Nazi-built Russian
+    flying saucer.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person or persons claiming to be Tom DeLonge's insider government sources
+    relay:
+    - Tom DeLonge
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  date: null
+  date_end: null
+  location_in_record: ch21:5491-5710
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 061b7af5-77b9-42df-9c65-a090c7037539
+  claim_hash: 6689fc967f9ce3e0d7f00dabe71b34fcfb9a3130a96eee945f77b336f1dfcc74
+  content: Tom DeLonge claimed that the mythical city of Atlantis was real and that
+    there were links between the ancient Greeks and writing supposedly seen on the
+    Roswell craft.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  date: null
+  date_end: null
+  location_in_record: ch21:7486-7650
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9c8c60a8-00e5-48e0-bafe-06f5a6503b02
+  claim_hash: cd03d4d651f1026abf22a2e052bcc6727b037e89830eae2f4a7222091cb21e30
+  content: The retrieval team at the Roswell crash site allegedly found two dead alien
+    occupants thrown from a largely intact metallic disc and a lone surviving extra-terrestrial
+    (ET).
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: third_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be the grandson of a US Army veteran who took part
+      in a Roswell retrieval team
+    relay:
+    - the grandfather's diary
+    - letters from the anonymous army sergeant 'A Friend' to Art Bell
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch23:1044-1199
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: aea2b7f1-cb61-4be9-90f9-8934c7c2432e
+  claim_hash: 5925a452ce0552febfc27c349212d1ba0a042f036662b005d61de26c2219bc7d
+  content: The corpses of the dead alien occupants from the Roswell incident were
+    allegedly sent to Wright-Patterson Air Force Base in Ohio.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: third_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be the grandson of a US Army veteran who took part
+      in a Roswell retrieval team
+    relay:
+    - the grandfather's diary
+    - letters from the anonymous army sergeant 'A Friend' to Art Bell
+  attribution_mode: unknown
+  node_refs:
+  - node_id: acde03ee-7227-486d-854c-9673dd837619
+    title: USA, Ohio, Wright-Patterson Air Force Base
+    slug: ohio-wright-patterson-air-force-base-usa
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch23:1206-1324
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6e06a9af-496e-446c-86bd-6ebd13da6f2f
+  claim_hash: cbaa983ae17916f5055bdbc1d31a3d79725350768b21a4d384b29d2796a66e30
+  content: The remaining Roswell craft debris was allegedly loaded onto three trucks.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: third_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be the grandson of a US Army veteran who took part
+      in a Roswell retrieval team
+    relay:
+    - the grandfather's diary
+    - letters from the anonymous army sergeant 'A Friend' to Art Bell
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch23:1333-1382
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: bc34f8cf-b62b-4db8-b26d-9db5e05b0ffa
+  claim_hash: da75a9dfcb3ece13cdf1dc9ef95e86928e8b27e3cf5fbd625dd01408105aee8d
+  content: The grandfather allegedly told his family the Roswell craft crashed because
+    it collided with a meteor in orbit.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: third_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be the grandson of a US Army veteran who took part
+      in a Roswell retrieval team
+    relay:
+    - the grandfather's diary
+    - letters from the anonymous army sergeant 'A Friend' to Art Bell
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch23:1391-1483
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ad6202ea-0bce-461e-96a0-5b89218e3de2
+  claim_hash: 9bcc4e7b8e2f388b6318f1bd89ab915b7ee6141c360508f6a9e4c802da088467
+  content: The Roswell aliens allegedly chose not to activate a powerplant that would
+    have let them escape to deep space because turning it on in the atmosphere would
+    have obliterated New Mexico, Arizona, California and parts of Mexico.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: third_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be the grandson of a US Army veteran who took part
+      in a Roswell retrieval team
+    relay:
+    - the grandfather's diary
+    - letters from the anonymous army sergeant 'A Friend' to Art Bell
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch23:1517-1724
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 46d08a35-8033-402f-bc21-22fab482ad10
+  claim_hash: 979fee716f1b231e25c69936f27e680ea24569878998b76af5cbbc298d417025
+  content: The grandfather claimed he was part of a team that interrogated the lone
+    surviving alien from the Roswell incident for 26 weeks.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: third_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be the grandson of a US Army veteran who took part
+      in a Roswell retrieval team
+    relay:
+    - the grandfather's diary
+    - letters from the anonymous army sergeant 'A Friend' to Art Bell
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch23:1873-2020
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 73bd4b36-456d-4244-a492-d64f58851790
+  claim_hash: 6473545d7477c0ccc5802dc46516bd8e73d711404b6d7190cf3c74318131a799
+  content: The surviving Roswell alien was allegedly placed onboard a US Air Force
+    transport aircraft on a flight to Washington DC, and the plane disappeared during
+    the flight with all aboard, including the alien, in mysterious circumstances.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: third_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be the grandson of a US Army veteran who took part
+      in a Roswell retrieval team
+    relay:
+    - the grandfather's diary
+    - letters from the anonymous army sergeant 'A Friend' to Art Bell
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch23:2032-2250
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 32f88e38-a098-4c7d-a80b-bf02a631fcf4
+  claim_hash: eaaf1d0a4c13406d12a4f7cedd8aff3fca5d814000994d892e96148b24d7d5ab
+  content: Fighter aircraft that scrambled to investigate a distress call from the
+    transport plane carrying the surviving Roswell alien allegedly suffered serious
+    electrical malfunctions, hindering the search effort, and no trace of the plane
+    was ever found.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: third_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be the grandson of a US Army veteran who took part
+      in a Roswell retrieval team
+    relay:
+    - the grandfather's diary
+    - letters from the anonymous army sergeant 'A Friend' to Art Bell
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch23:2265-2487
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ea4d8ef0-0823-486a-8b0c-6d8de342bf9c
+  claim_hash: 9bce579fbe36731d4887de924ac1cb857c5073bd066d575efa95dc6bb3073193
+  content: A fifth and final letter from the anonymous sergeant, sent in July 1996,
+    revealed a claimed crash site location recorded in the grandfather's diary as
+    'near Roswell AAF within 30 mile radius of Base'.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: third_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be the grandson of a US Army veteran who took part
+      in a Roswell retrieval team
+    relay:
+    - the grandfather's diary
+    - letters from the anonymous army sergeant 'A Friend' to Art Bell
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
+    title: A Friend (anonymous army sergeant)
+    slug: a-friend-anonymous-army-sergeant
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: 1996-07
+  date_end: null
+  location_in_record: ch23:5603-5781
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 893dda67-6f65-4172-b926-ba2a24b90970
+  claim_hash: e5afb1041f22a3f0c176bc8a486ec7423818f82a98d8166da887855105a53186
+  content: The purported Roswell crash site described in the sergeant's letters was
+    located very close to where the first atomic bomb was tested in 1945.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2d88d531-67ae-418c-824b-cb18c6fa867c
+    title: Trinity nuclear test
+    slug: trinity-nuclear-test
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch23:5789-5875
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 07c35964-697d-4966-b89f-127939120083
+  claim_hash: 64d1e419923315e2ec7ba06fa5ff46f6f878382431ebff43a43c27fd19660986
+  content: A third letter from the anonymous sergeant included six tiny pieces of
+    metal that the writer claimed came from the exterior underside of the Roswell
+    disc itself.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be a US Army sergeant and grandson of a Roswell retrieval
+      team member
+    relay:
+    - a letter to Art Bell
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
+    title: A Friend (anonymous army sergeant)
+    slug: a-friend-anonymous-army-sergeant
+  - node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
+    title: Art's Parts (alleged Roswell metal samples)
+    slug: arts-parts-alleged-roswell-metal-samples
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch23:7499-7607
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6f25acd6-68ae-4118-ae7e-dd79022bac52
+  claim_hash: 90d4ea9ddafcdfde34aa013e5f758250b460962f1f1dcd5d3a663d7f62ccc0e3
+  content: An elderly grandfather claimed shortly before his death in 1974 that he
+    had been a member of a retrieval team sent to the crash site of the Roswell incident
+    flying saucer in 1947.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: third_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be the grandson of a US Army veteran who took part
+      in a Roswell retrieval team
+    relay:
+    - the grandfather's diary
+    - letters from the anonymous army sergeant 'A Friend' to Art Bell
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1974'
+  date_end: null
+  location_in_record: ch23:803-1038
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 09dcf157-3d08-4774-93d8-f403c1ac1754
+  claim_hash: 39e3864a8599356d4eabc1fa56bb646ef52786a1db61517c102f8597a1f5152d
+  content: In a fifth and final letter, the anonymous sergeant claimed that in the
+    late 1970s he had confided in a pilot friend about his grandfather's Roswell secret,
+    and within hours the friend, who was piloting a C-130 transport aircraft, was
+    killed.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be a US Army sergeant and grandson of a Roswell retrieval
+      team member
+    relay:
+    - a letter to Art Bell
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
+    title: A Friend (anonymous army sergeant)
+    slug: a-friend-anonymous-army-sergeant
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch23:9643-9867
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: caaa1f88-ff17-487b-bf6c-b00cf6ed697b
+  claim_hash: c3b3aecc9184d53546bacc0350d36514e2c6882f1a5f1180007a080c26a52e53
+  content: The anonymous sergeant told Art Bell that his pilot friend was carrying
+    a Roswell sample and that C-130 aircraft do not normally get hit by lightning
+    and explode.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be a US Army sergeant and grandson of a Roswell retrieval
+      team member
+    relay:
+    - a letter to Art Bell
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
+    title: A Friend (anonymous army sergeant)
+    slug: a-friend-anonymous-army-sergeant
+  - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+    title: Art Bell
+    slug: art-bell
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch23:9876-10059
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 24c1905b-c08b-4619-8042-ea6d3d5c0b3b
+  claim_hash: 3c833c4dcf94301a204c4f5c0899e01dd34c337be44b7b0785b29e8d62a706bc
+  content: Philip Corso asserted that an alien spacecraft crashed at Roswell, New
+    Mexico in 1947 and was recovered by the US government.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
+    title: Philip Corso
+  provenance_chain:
+    origin_kind: named
+    origin: Philip Corso
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
+    title: Philip Corso
+    slug: philip-corso
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947'
+  date_end: null
+  location_in_record: ch25:22089-22200
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: bfafbf0a-97c2-464e-948c-84d77198f126
+  claim_hash: 0beea75a32174982595910ae57676a01332dd3ae8801d789f6f02194485609ed
+  content: Strom Thurmond stated he knew of no cover-up related to the Roswell incident
+    and did not believe one existed.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 9c05e5aa-adcc-4988-ac84-7d062a159a23
+    title: Strom Thurmond
+  provenance_chain:
+    origin_kind: named
+    origin: Strom Thurmond
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9c05e5aa-adcc-4988-ac84-7d062a159a23
+    title: Strom Thurmond
+    slug: strom-thurmond
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch25:22530-22614
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 107a25a3-a891-4597-a349-786c0e2df703
+  claim_hash: 982c611769ef7635957a700214a090e588c30ffbb4e98fbe2117ccca953876aa
+  content: Edgar Mitchell privately told Strom Thurmond in his fax that he was convinced
+    Philip Corso's account of the Roswell incident was true.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+  provenance_chain:
+    origin_kind: named
+    origin: Edgar Mitchell
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
+    title: Philip Corso
+    slug: philip-corso
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 9c05e5aa-adcc-4988-ac84-7d062a159a23
+    title: Strom Thurmond
+    slug: strom-thurmond
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: 1997-06
+  date_end: null
+  location_in_record: ch25:22626-22719
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
+  claim_hash: e4a64c885ee05fe787e3bf6143c683522e2bec227ddca147cf56fb637ca4eddd
+  content: Whitley Strieber told Strom Thurmond in a letter that United States Army
+    Brigadier General Arthur Exon told him personally in 1989 that there was a 'completely
+    unequivocal cover-up' of a retrieved alien craft at Roswell, New Mexico that 'went
+    from Truman on down'.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: named
+    origin: Arthur Exon
+    relay:
+    - a letter from Whitley Strieber to Strom Thurmond
+    - Edgar Mitchell's fax citing the letter
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+    title: Arthur Exon
+    slug: arthur-exon
+  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+    title: Harry S. Truman
+    slug: harry-s-truman
+  - node_id: 9c05e5aa-adcc-4988-ac84-7d062a159a23
+    title: Strom Thurmond
+    slug: strom-thurmond
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1989'
+  date_end: null
+  location_in_record: ch25:22926-23176
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 8c81cd62-43fa-47c9-95af-b3508f95330a
+  claim_hash: ce60e008c4287e4d98c29ed1e75d7cc951b6c1f7bc00853cbc910bf6873dda6c
+  content: Edgar Mitchell's initial scepticism of the Corso and Strieber accounts
+    of the Roswell incident slowly turned to amazement as he examined documents and
+    interviewed military colleagues.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+  provenance_chain:
+    origin_kind: speaker
+    origin: Edgar Mitchell
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
+    title: Philip Corso
+    slug: philip-corso
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 9c05e5aa-adcc-4988-ac84-7d062a159a23
+    title: Strom Thurmond
+    slug: strom-thurmond
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: 1997-06
+  date_end: null
+  location_in_record: ch25:23327-23526
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7ce922e2-9535-469d-ae7f-b36ca96bde91
+  claim_hash: bf9e8db84a0bc8ca98843bd18953a8929c9566b873aecb20429abd436e63fbd5
+  content: Edgar Mitchell's fascination with unidentified aerospace phenomena was
+    fired by locals he met near his hometown of Artesia, New Mexico, close to the
+    Roswell 1947 crash site, who told him Roswell was real and that there had been
+    a government cover-up.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to have local knowledge of the Roswell incident near
+      Artesia, New Mexico
+    relay:
+    - Edgar Mitchell
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 765d1637-b26b-48a2-96b8-17f79c1e7f55
+    title: USA, New Mexico, Artesia
+    slug: new-mexico-artesia-usa
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch25:5197-5449
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 85c74f8a-5942-4cd4-8a6c-650de4d74a50
+  claim_hash: e105fca3854180095cd5e49937a8697e31af878dc5334c0116f69322030f262c
+  content: According to The Spaceman, most of the people Edgar Mitchell spoke to about
+    Roswell never told anyone else what they saw, but they trusted Mitchell and told
+    and showed him what they knew.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+  provenance_chain:
+    origin_kind: named
+    origin: The Spaceman
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+    slug: the-spaceman
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch25:5454-5713
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ba9e2fae-9a38-45be-9d11-6f8dcab47daa
+  claim_hash: ad77e7ebde37626706cb79303fc5dd320237f0b200659945ffdf16ce85b18a37
+  content: Edgar Mitchell told The Spaceman he was shown relics from the Roswell crash,
+    including a sheet of memory metal that flattened back into its smooth-surfaced
+    shape after being crushed.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+  provenance_chain:
+    origin_kind: named
+    origin: Edgar Mitchell
+    relay:
+    - The Spaceman
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+    slug: the-spaceman
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch25:5717-5899
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 8cf3bae8-2e65-46ed-81cb-c0ce39b7343b
+  claim_hash: 2a9e0c107b6dd28a7a18982ab00ccd9829eb9044c152a2bce56535dca2913f6b
+  content: The Admiral Wilson memo claims Tom Wilson discovered that the US government
+    had long hidden a program secretly attempting to reverse-engineer recovered extra-terrestrial
+    craft, kept hidden since the 1947 Roswell crash.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Admiral Wilson Memo (EWD Notes)
+    relay:
+    - Eric Davis
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+    title: The Admiral Wilson Memo
+    slug: the-admiral-wilson-memo
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947'
+  date_end: null
+  location_in_record: ch26:6032-6296
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3de7ecdc-4788-4892-89d3-ea3d9caa7282
+  claim_hash: 2d1a8c623b480bd3595421a43208af027ae915e085597030b9bb629ff85185fd
+  content: In May 2001, aerospace illustrator Mark McCandlish testified to the Disclosure
+    Project hearing at the National Press Club that the United States government had
+    successfully reverse-engineered a spacecraft retrieved from the 1947 Roswell crash
+    site to build three alien reproduction vehicles (ARVs).
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 62c64aa5-0610-47a6-ac46-ccc8d90eae66
+    title: Mark McCandlish
+  provenance_chain:
+    origin_kind: named
+    origin: Mark McCandlish
+    relay:
+    - Gordon Novel's book on the ARV Fluxliner
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 62c64aa5-0610-47a6-ac46-ccc8d90eae66
+    title: Mark McCandlish
+    slug: mark-mccandlish
+  - node_id: a469b9f5-9550-4088-8c52-375adb5f61ed
+    title: USA, Washington DC, National Press Club
+    slug: washington-dc-national-press-club-usa
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: fb349523-76fb-4f68-ad4c-e11301eb09f8
+    title: Fluxliner alien reproduction vehicle
+    slug: fluxliner-alien-reproduction-vehicle
+  date: 2001-05
+  date_end: null
+  location_in_record: ch27:1128-1488
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 54a8fbd7-770d-46f6-bc88-42a499f8a4f9
+  claim_hash: 5fdbfde80eb98a85f00d2985895a6a301f1b4de6ef6c868b800f86dacbb15a25
+  content: When Ross Coulthart recited the official United States Air Force explanation
+    that the recovered 1947 Roswell debris was a high-altitude nuclear test surveillance
+    balloon from a secret project codenamed Mogul, Nat Kobitz laughed dismissively.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+  provenance_chain:
+    origin_kind: speaker
+    origin: Nat Kobitz
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+    slug: nat-kobitz
+  - node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+    title: Project Mogul
+    slug: project-mogul
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947'
+  date_end: null
+  location_in_record: ch27:14837-15066
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 651d3a97-eaef-4ccb-b9f8-53bd8d2ce9f7
+  claim_hash: 5468752449c7353977ff6186dbf2dc2b25461ea445fc468f8a0676f72a3d7fb2
+  content: Nat Kobitz said that more than one person reported the recovered Roswell
+    material was not soft, but hard metal pieces, and that he had heard of, but did
+    not know of, any actual space people.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: first_hand
+  speaker:
+    node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+  provenance_chain:
+    origin_kind: speaker
+    origin: Nat Kobitz
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+    slug: nat-kobitz
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch27:15079-15231
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 61fc86d6-f87e-4659-8430-b5d7341bc6aa
+  claim_hash: 301074a7db4be9a10feca2d0d1fdf9a11bf64b800a7c801b1d8f2ceefebc34a4
+  content: UAP conspiracy theory has long alleged that Wright Field, now Wright-Patterson
+    Air Force Base, was where pieces of the supposed Roswell craft wreckage were taken
+    in 1947 for further investigation.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: acde03ee-7227-486d-854c-9673dd837619
+    title: USA, Ohio, Wright-Patterson Air Force Base
+    slug: ohio-wright-patterson-air-force-base-usa
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947'
+  date_end: null
+  location_in_record: ch27:17819-17994
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7358ddd1-c8b0-444b-9a99-70df9693516e
+  claim_hash: f76363b2d49f07fc362527cb21d2bf08fa086be81c8885b397f88d381fda1c88
+  content: Barry Goldwater was a close friend of Air Force General William 'Butch'
+    Blanchard, who as a colonel in 1947 was the commanding officer of the 509th Bomb
+    Group at Roswell Army Air Field when the supposed Roswell UFO crash happened.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+    title: Roswell Army Air Field
+    slug: roswell-army-air-field
+  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+    slug: barry-goldwater
+  - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
+    title: 509th Bomb Group
+    slug: 509th-bomb-group
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947'
+  date_end: null
+  location_in_record: ch27:19451-19703
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 741d0f4c-434b-4370-b316-4a71ed9343b8
+  claim_hash: 7b25c3632a94541e574b9162fa7061f27612f0a130417dc098b85e5a3e66016e
+  content: Barry Goldwater knew several people with direct knowledge of what actually
+    happened at Roswell.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+    slug: barry-goldwater
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch27:19713-19794
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: efa1474b-dff9-4bcf-9a0d-393f7ff5e9bf
+  claim_hash: c94e840a222a11753417e288541e00554c786be4d90cd93d8d52d5349b005a07
+  content: In June 2020, Donald Trump made a comment about the 1947 Roswell, New Mexico
+    UFO crash in an interview with his son Don Trump Jr.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: June 2020 Donald Trump interview on the Roswell incident
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 68f9a9bc-3f15-482a-94c0-83b3c24eff0c
+    title: Don Trump Jr.
+    slug: don-trump-jr
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    slug: donald-trump
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: ff032525-bd9d-4ba7-8d33-0fa1dbd7de46
+    title: 2020-06 Donald Trump interview on the Roswell incident
+    slug: 2020-06-donald-trump-interview-on-the-roswell-incident
+  date: 2020-06
+  date_end: null
+  location_in_record: ch28:25830-25986
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 754730b5-008c-44ec-bbae-94e0031f4686
+  claim_hash: 3a996543c4b6998ab6668c64404dac93ce22c7906e1484ddbd86547a4e0da4a3
+  content: Don Trump Jr. asked Donald Trump, tongue in cheek, whether he planned to
+    release any more information about the Roswell incident.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Don Trump Jr.
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 68f9a9bc-3f15-482a-94c0-83b3c24eff0c
+    title: Don Trump Jr.
+    slug: don-trump-jr
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: 2020-06
+  date_end: null
+  location_in_record: ch28:25994-26147
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7583bcb5-6046-4d23-97aa-00c90f672143
+  claim_hash: dc41726d0807cd0bfcc30b49469749832fc5317369517e730453115479a5455c
+  content: Donald Trump responded to a question about the Roswell incident by saying
+    he would not talk about what he knows about it, but that it is very interesting.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+  provenance_chain:
+    origin_kind: speaker
+    origin: Donald Trump
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    slug: donald-trump
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: 2020-06
+  date_end: null
+  location_in_record: ch28:26151-26231
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f94fcc21-af68-4962-b459-57af4c97a0d0
+  claim_hash: c4e6e6c99e66214e2609015bf10a21793a373f98f62a9a3766addd85900df826
+  content: Donald Trump said he has heard 'interesting' things about the Roswell incident,
+    as reported on 2020-06-19.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+  provenance_chain:
+    origin_kind: speaker
+    origin: Donald Trump
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 00838faf-5ceb-45ac-9d1d-e5af8eed8712
+    title: Aamer Madhani
+    slug: aamer-madhani
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    slug: donald-trump
+  - node_id: 97cfb569-0a31-4bbe-b97f-52bc5533569d
+    title: '''Trump Says He''s Heard Interesting Things about Roswell'' (AP article)'
+    slug: trump-says-hes-heard-interesting-things-about-roswell-ap-article
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '2020-06-19'
+  date_end: null
+  location_in_record: ch34:66515-66620
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: fc6eab2c-4ac6-4c1a-bb80-1c66d33009d5
+  claim_hash: a00a4eab85c7d4a0a0238c1e9c2116d2c8e7929c14662dac0b4e644759aa9a87
+  content: Jesse Marcel later claimed he was ordered to collude in a cover-up and
+    that the real debris he recovered near Roswell was extra-terrestrial in origin.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Marcel
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: null
+  date_end: null
+  location_in_record: ch37:260-422
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6504de13-cc9f-49be-8a76-8ece4bbdc0cd
+  claim_hash: 480ad81498de15973d0a86653ebe59a1ebcd82389ba8aa9192e25474226704ff
+  content: The United States Air Force has given four different explanations for what
+    supposedly happened at the 1947 Roswell incident.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947'
+  date_end: null
+  location_in_record: ch7:10383-10497
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 046fea9f-435f-4841-99b5-8455c0789b32
+  claim_hash: 70f4b3fd3434b29028fa3d4a5fc31d35c17dd1522ec49a74c1872c4a0e6dc0c3
+  content: Jesse Marcel came back from the Roswell crash site clearly convinced that
+    a flying disc of extra-terrestrial origin had crashed on the ranch.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+  provenance_chain:
+    origin_kind: named
+    origin: Jesse Marcel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: 1947-07
+  date_end: null
+  location_in_record: ch7:10748-10849
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3f9e2860-a5e7-41af-84df-164e1e10881d
+  claim_hash: 635638352675fa7cad63e32d8d2943a1a352b4588776d93e6552a7db7d0c8973
+  content: Jesse Marcel described the Roswell debris field as approximately 1200 metres
+    long and 60 to 90 metres wide.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: second_hand
+  speaker:
+    node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+  provenance_chain:
+    origin_kind: named
+    origin: Jesse Marcel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: 1947-07
+  date_end: null
+  location_in_record: ch7:10856-10936
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3aaa2879-49b8-4d43-820b-dffb0514900a
+  claim_hash: e87c5c5b8c9c24e8d3aeb2d93be79dd9f0e476771a3050bbe7926302d156f9f7
+  content: Jesse Marcel alleged there was a gouge in the Roswell debris field that
+    extended up to 150 metres long, which looked as if something had touched down
+    and skipped along.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+  provenance_chain:
+    origin_kind: named
+    origin: Jesse Marcel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: 1947-07
+  date_end: null
+  location_in_record: ch7:10942-11079
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9e80664c-c5ea-42dc-9ef7-c642256b567b
+  claim_hash: 7ad1b1c4b18b6aa3c84cb46778521fc676ee1bcccd8039af075b03fbe537c6ca
+  content: Jesse Marcel later showed his family some of the strange debris, saying
+    it was wreckage from a 'flying saucer'.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+  provenance_chain:
+    origin_kind: named
+    origin: Jesse Marcel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: 1947-07
+  date_end: null
+  location_in_record: ch7:11089-11186
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c2fe9751-ce6a-44c1-8162-a7f5e85854a1
+  claim_hash: 102d8a4198a2670ede55bc3cfd215681397baaf5eb92163c6569ab1c50079a00
+  content: The Roswell debris included foil metal sheets that were as light as a feather
+    yet incredibly strong and impervious to tearing.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+  provenance_chain:
+    origin_kind: named
+    origin: Jesse Marcel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: 1947-07
+  date_end: null
+  location_in_record: ch7:11197-11301
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: efffd874-ee46-40dd-af37-b6c5870d5196
+  claim_hash: feb3d67af5cd4b0e22d120cca70551cdd2d87d1c02492f2e959433835707d5b8
+  content: Jesse Marcel described light metal beams from the Roswell debris on which
+    there was strange hieroglyphic writing.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+  provenance_chain:
+    origin_kind: named
+    origin: Jesse Marcel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: 1947-07
+  date_end: null
+  location_in_record: ch7:11310-11386
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 4d0c03f2-5f51-4884-b6de-467411880fa9
+  claim_hash: d4883687fee157a9a954306a6b04946e5dff90359c7f5a5064e9bd4cd0a42305
+  content: At midday on 8 July 1947, Colonel William Blanchard ordered his base public
+    information officer Lieutenant Walter Haut to issue a press release announcing
+    that the US Army had recovered a flying disc.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch7:11681-11874
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 1b1eaf75-91de-4a02-b854-05af0bc02a34
+  claim_hash: 0b444252b7c80defec22db18af14666d438c322fc649d26627b7ca5d6b2b2daa
+  content: The Roswell press release story hit the newswires in the early afternoon
+    of 8 July 1947 and had an incendiary effect on already frantic public interest
+    in UFOs and flying saucers, coming straight after the many UAP sightings of the
+    previous weeks.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch7:11880-12117
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 334d0cb9-3756-4a41-bf09-c556d63c8b6d
+  claim_hash: 95a9246b6cc17ac86748e4a9eef6dd1ccc878e582b1400ad864cd80b4a6c0ee4
+  content: The US Army never actually stated that the recovered object was a 'flying
+    saucer'; it only referred to it as a 'disc'.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: 1947-07
+  date_end: null
+  location_in_record: ch7:12377-12460
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 03969497-4837-474d-aa2b-0b9cca7e5b42
+  claim_hash: e03043905e3883d055f0f7beeaac20e28b31f8802e9045585d134db7bd522ddf
+  content: The Roswell Daily Record story carried claims from Mr and Mrs Dan Wilmot
+    that earlier that week they had seen a speeding disc overhead that looked oval
+    in shape like two inverted saucers, faced mouth to mouth, with the entire body
+    glowing as though light were showing through from inside.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 7cea5196-12c9-4e5d-b683-a24f2b83cf36
+    title: Dan Wilmot
+  provenance_chain:
+    origin_kind: named
+    origin: Dan Wilmot and Mrs Dan Wilmot
+    relay:
+    - Roswell Daily Record
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4097132e-4e6a-44b8-9c94-da285f753b9c
+    title: Roswell Daily Record
+    slug: roswell-daily-record
+  - node_id: 7cea5196-12c9-4e5d-b683-a24f2b83cf36
+    title: Dan Wilmot
+    slug: dan-wilmot
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: 1947-07
+  date_end: null
+  location_in_record: ch7:12468-12750
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: fb04972d-ff7d-44aa-a3aa-ac3f612eb5e9
+  claim_hash: 5f9d203ca4db3383d08dd9860af48e3d07e394ad6a67daa88043362aa8fc0908
+  content: Three hours after the noon Roswell press release, General Roger Ramey issued
+    a new statement through Associated Press asserting that the supposed flying disc
+    was simply a weather balloon.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Roger Ramey
+    relay:
+    - Associated Press
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  - node_id: 9a751dc2-c8e9-48f9-a82f-5f530cb5430c
+    title: Associated Press
+    slug: associated-press
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch7:13144-13322
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ce13e074-d158-4fc0-a60a-b36667697455
+  claim_hash: de6fbbdc9eaa5669c40c73abcfab344263a04b9c6339d409a3853373c9f71b75
+  content: Within days of General Roger Ramey's weather balloon statement, the American
+    press accepted his assurance and the Roswell 'flying saucer' story disappeared
+    without trace for over three decades.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: 1947-07
+  date_end: null
+  location_in_record: ch7:13331-13575
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 41c4ec65-90ff-4918-8320-7bb4a8767c1f
+  claim_hash: d15a5c4b980b2a859fb762e89767d8f49ccaaf0810881f3e582f6e258e8bb06d
+  content: Jesse Marcel did not speak up publicly about Roswell until 1978.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: '1978'
+  date_end: null
+  location_in_record: ch7:13585-13733
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 27f9af84-66d9-4fcd-81aa-6cce723a6241
+  claim_hash: dda03e6fcd8f5248d7af64c18871ccd20e4aebbcb0eeaa795191915f0035cc0f
+  content: From 1978 until his death in 1986, Jesse Marcel claimed in multiple interviews
+    that he had been ordered to collude in a cover-up and that the real debris he
+    brought from Roswell was substituted by General Roger Ramey with wreckage from
+    an old weather balloon.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+  provenance_chain:
+    origin_kind: named
+    origin: Jesse Marcel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    slug: roger-ramey
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: '1978'
+  date_end: null
+  location_in_record: ch7:13631-13914
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a2edca60-4bf0-4eca-acb9-623c283dc91c
+  claim_hash: b769a144a62d07beb855dd609b7f3659255be95c27454289c3d4615199e41936
+  content: Jesse Marcel said he actually believed what crashed at Roswell was extra-terrestrial.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+  provenance_chain:
+    origin_kind: named
+    origin: Jesse Marcel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: '1978'
+  date_end: null
+  location_in_record: ch7:13927-13987
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a4de6739-f31b-43e7-baff-00848cff74ba
+  claim_hash: a51d81fe58a7d9f7134f1d8414ba12071353531bad84d6aa9bc3af0ab5414d17
+  content: Jesse Marcel said he was forced to pose for photographs with pieces of
+    a weather balloon to debunk the flying disc crash story.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+  provenance_chain:
+    origin_kind: named
+    origin: Jesse Marcel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: 1947-07
+  date_end: null
+  location_in_record: ch7:14083-14191
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a5a692f0-ca60-4743-9599-71c4b3d33cec
+  claim_hash: f9fa5bf10f8d6ef96bfdeff8c9b0d841a9fc272c3cf6310e756b9bf011127b27
+  content: Stanton Friedman alleged a 'cosmic Watergate cover-up' of a recovered alien
+    spacecraft and alien bodies at Roswell.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+    title: Stanton Friedman
+  provenance_chain:
+    origin_kind: named
+    origin: Stanton Friedman
+    relay:
+    - Jesse Marcel
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
+    title: Watergate scandal
+    slug: watergate-scandal
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+    title: Stanton Friedman
+    slug: stanton-friedman
+  date: null
+  date_end: null
+  location_in_record: ch7:14325-14419
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3cf13962-4716-4418-8f29-2ff2ef1ce81e
+  claim_hash: 5b95ba5b866e8433692b8040f0fb269c5323ae5feb5c2e4589fdc3163d0b0e7a
+  content: In 1994, the United States Air Force decided to change its story on Roswell
+    again, offering a third explanation, admitting its 1947 weather balloon story
+    was untrue.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: United States Air Force
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 05eb1fa5-44a7-40ce-93f3-065e6280401e
+    title: 1994 US Air Force Roswell report
+    slug: 1994-us-air-force-roswell-report
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1994'
+  date_end: null
+  location_in_record: ch7:14648-14860
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 0d000272-c680-4ae9-87ce-aa496e3be833
+  claim_hash: 89405cb24fdf3c91e22bcd88e7a9049c5bc82758c913fcd84c21aa7bb7a450dc
+  content: The initial press release issued by the US Army on the Roswell incident
+    clearly referred to a recovered 'flying disc'.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch7:15472-15560
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 28646148-4164-4723-b436-a0af11771c46
+  claim_hash: 493deaedf815eb710748c30f3d5de49d84325318930639e987efa46fd71202e4
+  content: The initial Roswell press release stated that the many rumours regarding
+    the flying disc became a reality when the intelligence office of the 509th Bomb
+    Group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to
+    gain possession of a disc.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: United States Army press release
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+    title: Roswell Army Air Field
+    slug: roswell-army-air-field
+  - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
+    title: 509th Bomb Group
+    slug: 509th-bomb-group
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+    title: French Air Force
+    slug: french-air-force
+  date: '1947-07-08'
+  date_end: null
+  location_in_record: ch7:15567-15790
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d25679ca-4390-489b-ab9c-f0c7e43ae7be
+  claim_hash: 92b89a13549a4a781b71fb4d4b133f9909b366169f50b0cb0a074d9e3209ac74
+  content: It has never been satisfactorily explained why Roswell commanding officer
+    Colonel William Blanchard so quickly concluded that what had crashed was a 'flying
+    disc' when supposedly all he was shown at the base by Jesse Marcel and Sheridan
+    Cavitt were small pieces of debris.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+    title: Sheridan Cavitt
+    slug: sheridan-cavitt
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    slug: jesse-marcel
+  date: null
+  date_end: null
+  location_in_record: ch7:15799-16050
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 06d980b2-1a23-41de-beb0-8e514b7eb21a
+  claim_hash: 9dffe6d572b0c0c1e40b3876512a135dad232e2f2e31cb4527076bbcd402465c
+  content: As the United States Congress's General Accounting Office discovered during
+    its 1995 review of the Roswell incident's paperwork, not a single document from
+    Roswell Army Air Field in the crash period survives; every bit of paper relating
+    to the 1947 incident was destroyed with no apparent authorisation.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: United States Congress General Accounting Office
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3c140cbe-42ad-4ff7-8132-11b3073e99db
+    title: 1995 General Accounting Office review of the Roswell incident
+    slug: 1995-general-accounting-office-review-of-the-roswell-incident
+  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+    title: Roswell Army Air Field
+    slug: roswell-army-air-field
+  - node_id: 685dcd0b-a551-4f95-81a7-df5a2632d2d1
+    title: United States Congress General Accounting Office
+    slug: united-states-congress-general-accounting-office
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1995'
+  date_end: null
+  location_in_record: ch7:16842-17116
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 73abff36-5f73-435b-9e40-bf3389155795
+  claim_hash: 328e9aa83c299f7f2814b5f29da48efb358351472da708d0da9e7dd54335d86f
+  content: Multiple alleged first-hand witnesses suggested there was something very
+    unusual about the debris recovered at Roswell, including supposedly indestructible
+    metal of an apparently highly advanced technology, not just spy balloon wreckage.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: unnamed alleged first-hand witnesses to the Roswell debris
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch7:17133-17361
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3a67efe8-4e7d-4611-aa51-3209fb4624bc
+  claim_hash: a0bcad3c7c4c3b1331523a6730aeabfdc534de9b149ee52a51dbde4dbf2d97f0
+  content: Colonel William Blanchard confided to his friend, the editor of the Roswell
+    Morning Dispatch newspaper, that the stuff he saw at Roswell he had never seen
+    anyplace else in his life.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+  provenance_chain:
+    origin_kind: named
+    origin: William Blanchard
+    relay:
+    - editor of the Roswell Morning Dispatch
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: 25070ed2-0721-488d-ba6b-3adac918a006
+    title: Roswell Morning Dispatch
+    slug: roswell-morning-dispatch
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch7:17371-17534
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 55ca4a47-6961-490c-9666-a5e171e5806b
+  claim_hash: 9bd5fa0ba39ea660c7ca4663e08775263d06f93bb8752f2f198e13b20c0ccf68
+  content: Former US Army public information officer Lieutenant Walter Haut testified
+    in a 2002 deathbed affidavit that he was taken out to a hangar by Colonel William
+    Blanchard to view recovered child-sized bodies with abnormally large heads, lying
+    under a tarpaulin at the base.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: named
+    origin: Walter Haut
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '2002'
+  date_end: null
+  location_in_record: ch7:17570-17864
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 4975eefe-669c-47ca-bc7c-ac006e2675b8
+  claim_hash: 829855b700e8776f9747efd434e18569a3918712e070e0628ecd83f87b02c08b
+  content: Walter Haut alleged that Colonel William Blanchard allowed him to see an
+    apparent alien craft in a hangar approximately 3.7 to 4.6 metres in length, slightly
+    less wide, about 1.8 metres high and more of an egg shape, with poor lighting
+    but a surface that appeared metallic.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: named
+    origin: Walter Haut
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '2002'
+  date_end: null
+  location_in_record: ch7:17911-18135
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b36edaf3-485b-4ead-baa3-c242b6e5987e
+  claim_hash: dd03b7f6277b555ed202e8a611996e483d31816a5d9a637c5197708ac5f94751
+  content: Walter Haut said he was convinced that what he personally observed at the
+    Roswell base was some type of craft and its crew from outer space.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: named
+    origin: Walter Haut
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '2002'
+  date_end: null
+  location_in_record: ch7:18146-18252
+  evidence:
+    score: null
+    independent_sources: 2
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: fbb5d4d6-9277-455b-aad9-17d756e29a83
+  claim_hash: 0def228e8d9311cfa96fd319e43822a9f46a59820ffade579d3d572e337619d7
+  content: Walter Haut alleged that Colonel William Blanchard's press release was
+    a ruse to divert public attention from the main recovery operation of the craft
+    from a different site.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+  provenance_chain:
+    origin_kind: named
+    origin: Walter Haut
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '2002'
+  date_end: null
+  location_in_record: ch7:18262-18407
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7db31437-74b3-4298-836e-7a6fbae76d40
+  claim_hash: e42137369f185e49a1fac609b82be4e02c1078f5996004e89045c9f291eb4642
+  content: Other witnesses, especially family members of former military personnel
+    who served at Roswell's Army Air Force base, have come forward offering second-hand
+    hearsay evidence of what their father or family member privately admitted to them,
+    verifying the alien spacecraft story.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: unnamed former Roswell Army Air Field military personnel, relayed by their
+      family members
+    relay:
+    - family members of the personnel
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+    title: Roswell Army Air Field
+    slug: roswell-army-air-field
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch7:19701-19976
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 48996f14-7c9d-4b99-b750-d2e713dec406
+  claim_hash: 4ae6f9c39d9ffaeda24c4aa66c59e54ec7e1fa743b2cebd228305e7380f9369b
+  content: Critics suggested Julie Shuster had a financial incentive to promote the
+    extra-terrestrial explanation of the Roswell incident and that her dying father
+    Walter Haut was willing to go along with it.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unnamed critics
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 71809a0e-d463-48c9-b9ae-6ef4945c0ec8
+    title: Julie Shuster
+    slug: julie-shuster
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch7:20477-20619
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: efe057f4-cbb5-42ca-8e91-1269733e8348
+  claim_hash: 4ba4a5e1e1b9dfdb27757be46ec04ff73b9b7dd805dce2a81fbde3bc0586ee50
+  content: Don Schmitt considers Walter Haut sincere and truthful in his affidavit
+    about the Roswell incident.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+  provenance_chain:
+    origin_kind: speaker
+    origin: Don Schmitt
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch7:21113-21195
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9a257e5b-f6f5-44eb-8ba1-5237ecec4ee6
+  claim_hash: d2ba12befaa90ef9566a6f23190ddcb307399da4f8a8a758f1f9793764bf8aa1
+  content: The author of In Plain Sight considers it impossible to reach a definitive
+    conclusion about what happened at the Roswell incident in 1947.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the author of In Plain Sight
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b3f39800-6a2a-4679-8abe-a4c09a0786c1
+    title: In Plain Sight
+    slug: in-plain-sight
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch7:21208-21303
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a798d39a-7e5d-473a-9768-35490f5dd08f
+  claim_hash: bd57d991bb441746912b82182f13c6dfb45c99d1d695a4cef2388b4679be1e86
+  content: Something crashed at Roswell, New Mexico in 1947.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the author of In Plain Sight
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947'
+  date_end: null
+  location_in_record: ch7:21309-21373
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7e706476-15ad-4454-b80e-230c5d18067b
+  claim_hash: 66411cf97f0d441276f7c0daa14802b50d3f92e3b0c42d897050ef089cd29aee
+  content: Even within ufology, there are as many trenchant critics of the Roswell
+    incident retrieved-extra-terrestrials story as there are believers in it.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the author of In Plain Sight
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch7:21794-21927
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 81cac8c3-506e-4a22-adc7-f3935385a74d
+  claim_hash: 407b5846af7fcaf70cb65c700aeef589f36319b92af85a9c93a390168dbfd72c
+  content: The author of In Plain Sight considers what happened at the Roswell incident
+    should be treated as an open question for investigation, citing the US Air Force's
+    bungled explanations and admitted lies.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the author of In Plain Sight
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: b3f39800-6a2a-4679-8abe-a4c09a0786c1
+    title: In Plain Sight
+    slug: in-plain-sight
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch7:21943-22120
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 46f5f8e4-779f-4ec3-93ed-c6e6411a99e3
+  claim_hash: 1e5d6fd6f0989c9b6928b1dc314eaf5687cf6b516e89389c2bc836f7420f75dc
+  content: Extraordinary measures were taken at the time of the Roswell incident to
+    keep whatever crashed there secret.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the author of In Plain Sight
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch7:22136-22242
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e9764c4e-d543-418b-ab8e-ff7074caf647
+  claim_hash: 189c67bdcf829056b7ff43736ae296a3f64fa7264d46b14dd03dbd5a52f5312b
+  content: The 1947 Australian UAP sightings all occurred just before the Roswell
+    sighting event in New Mexico, USA.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch7:4853-5026
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 25b7f4ef-4a4b-415b-9ea4-f5b560915bd0
+  claim_hash: 4db1d7ec92e106453ea805c9f33d67727aff8faa6ffc995fd3ed098e0d30c22e
+  content: On 5 July 1947, ranch foreman Mac Brazel found crash debris scattered across
+    a cattle ranch 120 kilometres from Roswell in New Mexico.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
+    title: Mac Brazel
+  provenance_chain:
+    origin_kind: named
+    origin: Mac Brazel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
+    title: Mac Brazel
+    slug: mac-brazel
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947-07-05'
+  date_end: null
+  location_in_record: ch7:8249-8384
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ceaefcd9-1b83-4749-9d37-aee64e1e02e9
+  claim_hash: 185814f99d7da7013a91d69623a317aacc76feec1d0df2f70c3e374eba2ef978
+  content: The earliest reports of the Roswell debris described what Mac Brazel saw
+    and collected as including extremely strong and lightweight wires, foil, and metallic
+    beams with strange writing on them.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
+    title: Mac Brazel
+  provenance_chain:
+    origin_kind: named
+    origin: Mac Brazel
+    relay:
+    - earliest press reports
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
+    title: Mac Brazel
+    slug: mac-brazel
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: 1947-07
+  date_end: null
+  location_in_record: ch7:8771-8932
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c8432b2d-f874-4f59-991e-908059341753
+  claim_hash: 88f4fc5dbad7bc62d375773bbd64c0c17af46f7d525bc390162931ac4730ae05
+  content: Many believers in the extra-terrestrial (ET) hypothesis for UAP speculate
+    that alien spaceships were covertly monitoring the atomic bomb tests in New Mexico,
+    and that when one crashed it was secretly recovered by the US military with dead
+    and live extra-terrestrial beings on board.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: unnamed believers in the extra-terrestrial hypothesis for Roswell
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch7:9709-9987
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 98e7ecf4-e2d7-45cd-a353-883dfa077e22
+  claim_hash: d2f7eb1a6b9bf814cd4425c83303a53384cb6bf91c9792542a5887abdd993d49
+  content: A crashed balloon associated with Project Mogul outside of Roswell, New
+    Mexico is assessed to be the source of early UFO claims related to the Roswell
+    incident.
+  original_excerpt: A crashed balloon associated with Project Mogul outside of Roswell,
+    New Mexico, is assessed to be the source of early UFO claims.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'The Roswell Report: Fact versus Fiction in the New Mexico Desert'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1e992087-ad5a-4282-bc5b-86231758f3ba
+    title: 'The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995)'
+    slug: the-roswell-report-fact-versus-fiction-in-the-new-mexico-desert-1995
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+    title: Project Mogul
+    slug: project-mogul
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: cc2c952a-56f9-401b-84cf-f26ebf0323a0
+    title: 'The Roswell Report: Case Closed (1997)'
+    slug: the-roswell-report-case-closed-1997
+  date: null
+  date_end: null
+  location_in_record: char:120945-121067
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: e523c48c-aed3-4378-8039-aa38622d3a42
+  claim_hash: 371bbdc931b5136faec9453dc00fa683ed397adf9e1b96db7dd146de6e052660
+  content: President Bill Clinton said that as far as he knew, an alien spacecraft
+    did not crash in Roswell, New Mexico, in 1947, that if the United States Air Force
+    did recover alien bodies they did not tell him about it, and that he wanted to
+    know.
+  original_excerpt: President Clinton said, "As far as I know, an alien spacecraft
+    did not crash in Roswell, New Mexico, in 1947...if the USAF did recover alien
+    bodies, they didn't tell me about it...and I want to know."
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Clinton
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: char:53986-54180
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 090fe643-c417-49b4-a7b2-aa1db7ba4b6c
+  claim_hash: 13352774a9979d7deb4f04ccf67c7f2a2df5dd8b95a37966e2ef0a0bc0aa4253
+  content: In 1993, Congressman Steven H. Schiff (R-New Mexico) made inquiries about
+    the Roswell incident to the Department of Defense.
+  original_excerpt: In 1993, Congressman Steven H. Schiff (R-New Mexico) made inquiries
+    about the Roswell incident to DoD.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5b46b47b-3e4c-4377-bd71-b4d2c3a917e6
+    title: Steven H. Schiff
+    slug: steven-h-schiff
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1993'
+  date_end: null
+  location_in_record: char:54634-54732
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: da4ebfb3-ac09-4a64-8f0e-dd7bef065c9a
+  claim_hash: 9c43d3bddad3a8409c565c444726667ff03c0c52a53c906791954e7dd495784a
+  content: The Roswell incident refers to the July 1947 recovery of metallic and rubber
+    debris from a crashed military balloon near Roswell Army Air Field that sparked
+    conspiracy theories and claims that the debris was from an alien spaceship and
+    part of a United States Government cover-up.
+  original_excerpt: The Roswell incident refers to the July 1947 recovery of metallic
+    and rubber debris from a crashed military balloon near Roswell Army Air Field
+    personnel that sparked conspiracy theories and claims that the debris was from
+    an alien spaceship and part of a USG cover-up.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 35f59be2-1043-4cd6-88f8-df338455435b
+    title: Roswell Army Air Field
+    slug: roswell-army-air-field
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: 1947-07
+  date_end: null
+  location_in_record: char:54737-55003
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 6082b1b2-8a81-47df-9ac7-40c684f855fb
+  claim_hash: 3574dfd58985c0ea3e24e43af358af811ba744481ebd1c20ce367989ed9dac60
+  content: Congressman Steven H. Schiff asked the General Accounting Office, subsequently
+    renamed the Government Accountability Office, to determine the requirements for
+    reporting air accidents such as the crash near Roswell and to identify any government
+    records concerning the Roswell crash.
+  original_excerpt: He asked the General Accounting Office (GAO) (subsequently renamed
+    the Government Accountability Office) to determine the requirements for reporting
+    air accidents, such as the crash near Roswell, and to identify any government
+    records concerning the Roswell crash.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5b46b47b-3e4c-4377-bd71-b4d2c3a917e6
+    title: Steven H. Schiff
+    slug: steven-h-schiff
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
+    title: Government Accountability Office
+    slug: government-accountability-office
+  date: '1993'
+  date_end: null
+  location_in_record: char:55007-55265
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 4dad8a4e-b5a3-481c-a18c-e9abe39b72b2
+  claim_hash: d8f8eec27082c2a8c22221cac2f968b84ba7b2e743a8411f66b79919c0389003
+  content: The United States Air Force conducted a systematic search of numerous archives
+    and records centres in support of the Government Accountability Office's audit
+    of Roswell, and interviewed numerous people who may have had knowledge of the
+    events.
+  original_excerpt: The USAF conducted a systematic search of numerous archives and
+    records centers in support of GAO's audit of Roswell. As part of this review,
+    the USAF also interviewed numerous people who may have had knowledge of the events.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
+    title: Government Accountability Office
+    slug: government-accountability-office
+  date: null
+  date_end: null
+  location_in_record: char:55353-55571
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 4cb34291-6511-4c38-b7c4-87d02a15cb03
+  claim_hash: b1bc6d8552ebbefb2c9f01c83322a4959177cb51a719d91e0242620c0d27d922
+  content: 'The Roswell Report: Fact versus Fiction in the New Mexico Desert stated
+    that the United States Air Force''s research did not locate or develop any information
+    indicating that the Roswell incident was a UFO event, nor was there any cover-up
+    by the United States Government.'
+  original_excerpt: The report stated that the USAF's research did not locate or develop
+    any information that indicated the "Roswell Incident" was a UFO event, nor was
+    there any "cover-up" by the USG.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'The Roswell Report: Fact versus Fiction in the New Mexico Desert'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1e992087-ad5a-4282-bc5b-86231758f3ba
+    title: 'The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995)'
+    slug: the-roswell-report-fact-versus-fiction-in-the-new-mexico-desert-1995
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: char:56148-56367
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 074aa47b-d2ca-4231-8870-c35f7813f873
+  claim_hash: d215ac478bf9aba3d3165ff6846e4b5b06961d3054fb2afdc707025c278c0860
+  content: The materials recovered near Roswell were consistent with a balloon of
+    the type used in the then-classified Project Mogul, and no records showed any
+    evidence that the United States Government recovered aliens or extraterrestrial
+    material.
+  original_excerpt: Rather, the materials recovered near Roswell were consistent with
+    a balloon of the type used in the then-classified Project Mogul. No records showed
+    any evidence that the USG recovered aliens or extraterrestrial material.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'The Roswell Report: Fact versus Fiction in the New Mexico Desert'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+    title: Project Mogul
+    slug: project-mogul
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: char:56372-56584
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 7b3a8d85-88b2-47df-9976-4ebf48061848
+  claim_hash: 48cadb92ec34fe06f48d61baaef8bb25a10dcf496348fe2eb119a53619dab36e
+  content: 'The United States Air Force published a follow-on report in 1997, The
+    Roswell Report: Case Closed, with additional materials and analysis supporting
+    its conclusion that the debris recovered near Roswell was from the United States
+    Army Air Force''s balloon-borne programme.'
+  original_excerpt: 'The USAF subsequently published a follow-on report in 1997, *The
+    Roswell Report: Case Closed*, with additional materials and analysis which supported
+    its conclusion that the debris recovered near Roswell was from the U.S. Army Air
+    Force''s balloon-borne program.'
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'The Roswell Report: Case Closed'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  - node_id: cc2c952a-56f9-401b-84cf-f26ebf0323a0
+    title: 'The Roswell Report: Case Closed (1997)'
+    slug: the-roswell-report-case-closed-1997
+  date: '1997'
+  date_end: null
+  location_in_record: char:56605-56858
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: dd8738cf-9c4b-4400-a1af-e1c07132ca50
+  claim_hash: 0308335e1e7ce4b84d944d4c831af96abf48cff3d828f7cfd85ae303e02d002c
+  content: The alleged alien bodies reported by some in the New Mexico desert were
+    test dummies carried aloft by United States Army Air Force high-altitude balloons
+    for scientific research.
+  original_excerpt: The alleged "alien" bodies reported by some in the New Mexico
+    desert were test dummies that were carried aloft by U.S. Army Air Force high-altitude
+    balloons for scientific research.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'The Roswell Report: Case Closed'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: char:57078-57250
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: d4a2d429-faf3-4363-9a2d-ae2d6983210b
+  claim_hash: 6df1fb3b31980e3e7c7ea13e4500d768e10e170b50461a8ad9fbee3b92aac1e9
+  content: Reports of military units that allegedly recovered a flying saucer and
+    its crew were descriptions of Air Force personnel engaged in the dummy recovery
+    operations.
+  original_excerpt: Reports of military units that allegedly recovered a flying saucer
+    and its "crew" were descriptions of Air Force personnel engaged in the dummy recovery
+    operations.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'The Roswell Report: Case Closed'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: char:57270-57423
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 897ec3f2-02d8-42d8-800e-77796c28fd97
+  claim_hash: 01e8ee5ddbf853a01b913440a098a4acb0962aba9ea0a2504ad23e821017216a
+  content: The primary narrative alleges the United States Government and industry
+    partners possess and are testing off-world technology concealed from congressional
+    oversight since approximately 1964, and possibly since 1947 if the Roswell incident
+    is included.
+  original_excerpt: The primary narrative alleges that ***the USG and industry partners
+    are in possession of and are testing off-world technology that has been concealed
+    from congressional oversight and the world since approximately 1964, and possibly
+    since 1947, if the Roswell events are included.***
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming knowledge of a concealed off-world technology programme
+    relay:
+    - AARO interviews
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: char:80882-81152
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

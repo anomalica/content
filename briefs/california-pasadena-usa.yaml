@@ -1,0 +1,701 @@
+schema: anomalica/brief/1
+brief_hash: 6121a090af1439d2663a377ebc63bd918e0ad0f168ac11acd36e88177e474a84
+page:
+  kind: entity
+  node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+  node_type: place
+  title: USA, California, Pasadena
+  slug: california-pasadena-usa
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+  title: L. Ron Hubbard
+  node_type: person
+  slug: l-ron-hubbard
+  shared_claims: 4
+- node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+  title: NASA Jet Propulsion Laboratory (JPL)
+  node_type: organisation
+  slug: nasa-jet-propulsion-laboratory-jpl
+  shared_claims: 4
+- node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+  title: Ordo Templi Orientis (OTO)
+  node_type: organisation
+  slug: ordo-templi-orientis-oto
+  shared_claims: 3
+- node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+  title: Michael Malin
+  node_type: person
+  slug: michael-malin
+  shared_claims: 2
+- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+  title: United States Navy (USN)
+  node_type: organisation
+  slug: united-states-navy-usn
+  shared_claims: 2
+- node_id: ade09320-1fbc-4c7b-8ef4-6eab31a7629c
+  title: 1978-11 Pasadena alien entity photographs by Rev. Harrison Bailey
+  node_type: event
+  slug: 1978-11-pasadena-alien-entity-photographs-by-rev-harrison-bailey
+  shared_claims: 1
+- node_id: 032b4317-7a99-496c-b4cc-a5fa614763bd
+  title: 2023-03-05 Alien Con Pasadena conference
+  node_type: event
+  slug: 2023-03-05-alien-con-pasadena-conference
+  shared_claims: 1
+- node_id: ae279cfb-b11c-4976-a62a-57aec9095faf
+  title: Ann Druffel
+  node_type: person
+  slug: ann-druffel
+  shared_claims: 1
+- node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+  title: Apollo 11
+  node_type: project
+  slug: apollo-11
+  shared_claims: 1
+- node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+  title: Arizona State University
+  node_type: organisation
+  slug: arizona-state-university
+  shared_claims: 1
+- node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+  title: California Institute of Technology (Caltech)
+  node_type: organisation
+  slug: california-institute-of-technology-caltech
+  shared_claims: 1
+- node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+  title: Church of Scientology
+  node_type: organisation
+  slug: church-of-scientology
+  shared_claims: 1
+- node_id: b024e145-1d61-4148-bd88-aefff6f53b18
+  title: Columbia (Apollo 11 Command Module)
+  node_type: object
+  slug: columbia-apollo-11-command-module
+  shared_claims: 1
+- node_id: 7a25b20b-c238-4b97-862f-dc62dba6278a
+  title: Columbia Broadcasting System (CBS) News
+  node_type: organisation
+  slug: columbia-broadcasting-system-cbs-news
+  shared_claims: 1
+- node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
+  title: Eagle (Apollo 11 Lunar Module)
+  node_type: object
+  slug: eagle-apollo-11-lunar-module
+  shared_claims: 1
+- node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+  title: George Adamski
+  node_type: person
+  slug: george-adamski
+  shared_claims: 1
+- node_id: 9a990090-39f0-4a3a-8177-ebc9197ad8cc
+  title: Harrison Bailey
+  node_type: person
+  slug: harrison-bailey
+  shared_claims: 1
+- node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+  title: Jack Parsons
+  node_type: person
+  slug: jack-parsons
+  shared_claims: 1
+- node_id: 9d5c4c4d-232d-4d47-87c8-f0f75c413935
+  title: Malin Space Science Systems
+  node_type: organisation
+  slug: malin-space-science-systems
+  shared_claims: 1
+- node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
+  title: Mars Observer
+  node_type: object
+  slug: mars-observer
+  shared_claims: 1
+- node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+  title: Mike Bara
+  node_type: person
+  slug: mike-bara
+  shared_claims: 1
+- node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+  title: Philip Christensen
+  node_type: person
+  slug: philip-christensen
+  shared_claims: 1
+- node_id: dbfe20f2-ed28-46f7-b844-a778d7814b06
+  title: Point Loma Naval Electronics Laboratory
+  node_type: organisation
+  slug: point-loma-naval-electronics-laboratory
+  shared_claims: 1
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 1
+- node_id: c3e3c2ff-9fe2-480c-b893-34de079680a7
+  title: Sixth International Mars Conference, Pasadena, 2003-07-23
+  node_type: event
+  slug: pasadena-2003-07-23-sixth-international-mars-conference
+  shared_claims: 1
+- node_id: fe5956d0-9a74-44ed-8502-d8d894ffbaeb
+  title: St. Luke Hospital
+  node_type: object
+  slug: st-luke-hospital
+  shared_claims: 1
+- node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
+  title: Surveyor 3
+  node_type: object
+  slug: surveyor-3
+  shared_claims: 1
+- node_id: 711d280b-1597-426c-abe2-da4178e73e04
+  title: USA, California, San Diego, Point Loma
+  node_type: place
+  slug: california-san-diego-point-loma-usa
+  shared_claims: 1
+- node_id: 011e5021-dc2e-4eb4-94e6-d86803e2eae6
+  title: Vicki Noratuk
+  node_type: person
+  slug: vicki-noratuk
+  shared_claims: 1
+claims:
+- claim_id: d4af8fd0-2a00-4a31-8673-93805364c288
+  claim_hash: c4e327c922414b494b5607c0a1e3e70814b79d7401ff3d7ea18b87cd5613ed32
+  content: The four scientists credited by George Adamski were from the Point Loma
+    Naval Electronics Laboratory near San Diego, California, and from a similar setup
+    in Pasadena, California.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: George Adamski
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+    title: George Adamski
+    slug: george-adamski
+  - node_id: 711d280b-1597-426c-abe2-da4178e73e04
+    title: USA, California, San Diego, Point Loma
+    slug: california-san-diego-point-loma-usa
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  - node_id: dbfe20f2-ed28-46f7-b844-a778d7814b06
+    title: Point Loma Naval Electronics Laboratory
+    slug: point-loma-naval-electronics-laboratory
+  date: null
+  date_end: null
+  location_in_record: ch13:33803-33908
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 2348f003-741d-4b0e-a2c2-5122d04ff335
+  claim_hash: 9cbb9bafb86d9159a87df7c204cee21ecc710ada4b7e655748c792768dbc946a
+  content: California researcher Ann Druffel presented photos taken in Pasadena by
+    Baptist minister Rev. Harrison Bailey in November 1978 of a metamorphosing alien
+    entity.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9a990090-39f0-4a3a-8177-ebc9197ad8cc
+    title: Harrison Bailey
+    slug: harrison-bailey
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  - node_id: ade09320-1fbc-4c7b-8ef4-6eab31a7629c
+    title: 1978-11 Pasadena alien entity photographs by Rev. Harrison Bailey
+    slug: 1978-11-pasadena-alien-entity-photographs-by-rev-harrison-bailey
+  - node_id: ae279cfb-b11c-4976-a62a-57aec9095faf
+    title: Ann Druffel
+    slug: ann-druffel
+  date: 1978-11
+  date_end: null
+  location_in_record: ch18:16735-16895
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 27536a01-eb53-40bf-a2ee-659d119fbf68
+  claim_hash: 7f6aa414f589e5904c1282cb5eeeb1ac2413ce53cc91b4136a4e66f44fd01c29
+  content: After the Apollo 11 crew's liftoff from the Moon in the Lunar Module Eagle
+    and rendezvous with the Command Module Columbia in lunar orbit, Columbia Broadcasting
+    System (CBS)'s unit relocated to the Jet Propulsion Laboratory (JPL) in Pasadena
+    to cover the remainder of the flight.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
+    title: Eagle (Apollo 11 Lunar Module)
+    slug: eagle-apollo-11-lunar-module
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: 7a25b20b-c238-4b97-862f-dc62dba6278a
+    title: Columbia Broadcasting System (CBS) News
+    slug: columbia-broadcasting-system-cbs-news
+  - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+    title: Apollo 11
+    slug: apollo-11
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  - node_id: b024e145-1d61-4148-bd88-aefff6f53b18
+    title: Columbia (Apollo 11 Command Module)
+    slug: columbia-apollo-11-command-module
+  date: 1969-07
+  date_end: null
+  location_in_record: '21'
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 6f9c6b55-6ad6-42d6-a67f-b0d1fe6ba983
+  claim_hash: 91603193fb7c506808ce4c34b54ed11493f5bc5e5c28d1192861c650fea5d762
+  content: Michael Malin moved his private company, Malin Space Science Systems, which
+    held the Mars Observer camera contract, from Arizona State University (ASU) in
+    Arizona and the Jet Propulsion Laboratory (JPL) in California to San Diego, over
+    480 kilometres south of the Jet Propulsion Laboratory in Pasadena.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+    title: Michael Malin
+    slug: michael-malin
+  - node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
+    title: Mars Observer
+    slug: mars-observer
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  - node_id: 9d5c4c4d-232d-4d47-87c8-f0f75c413935
+    title: Malin Space Science Systems
+    slug: malin-space-science-systems
+  - node_id: f82fa9a3-4fa6-4464-bcf8-781c107d00ef
+    title: Arizona State University
+    slug: arizona-state-university
+  date: null
+  date_end: null
+  location_in_record: ch10:27409-27630
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 1d73744a-b626-4188-ab67-d57d83b77281
+  claim_hash: ecabec205bbac9629ac9567578af55ca49a52ddd3c8f12fe4881e7081f939d98
+  content: As Surveyor 3 soft-landed on the Moon at four minutes after midnight Greenwich
+    Mean Time, the Moon was rising through 33 degrees directly over the Jet Propulsion
+    Laboratory in Pasadena, which was controlling the mission.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
+    title: Surveyor 3
+    slug: surveyor-3
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  date: '1967-04-20'
+  date_end: null
+  location_in_record: ch12:162404-162638
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: f4878bcf-a379-4d42-88df-c4f815a8ba46
+  claim_hash: 513ba9e81777ee2f8f450be5d1fa2983606036544586c4e9de2a2467651609f1
+  content: The Jet Propulsion Laboratory began in the 1920s as an aerodynamics testing
+    facility under the California Institute of Technology in Pasadena.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+    title: California Institute of Technology (Caltech)
+    slug: california-institute-of-technology-caltech
+  date: null
+  date_end: null
+  location_in_record: ch12:73259-73480
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 1e183eb1-2565-4f16-8e66-414ba47522c5
+  claim_hash: 74d02b315421ace1105497d92eda716eede3554096039fafdb79a7bd99646ff6
+  content: On 2003-07-23, Mike Bara attended a public event at the sixth international
+    Mars conference in Pasadena, California, where both Michael Malin and Philip Christensen
+    gave slideshow presentations.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+    title: Michael Malin
+    slug: michael-malin
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    slug: mike-bara
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  - node_id: c3e3c2ff-9fe2-480c-b893-34de079680a7
+    title: Sixth International Mars Conference, Pasadena, 2003-07-23
+    slug: pasadena-2003-07-23-sixth-international-mars-conference
+  - node_id: feda9865-b3ce-4773-bdb6-df12eca4cb55
+    title: Philip Christensen
+    slug: philip-christensen
+  date: '2003-07-23'
+  date_end: null
+  location_in_record: ch17:95910-96244
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 8f949905-461e-448f-a600-c734e71317c6
+  claim_hash: e1c8da3741f51c57dd17e6ec07a2576d93e0009d10ed2dcb4b80035327421a77
+  content: The Ordo Templi Orientis headquarters in Pasadena was damaged for years
+    by L. Ron Hubbard's actions.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  date: null
+  date_end: null
+  location_in_record: ch5:19376-19446
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 69259146-3c29-4f27-afc1-06890b2b729d
+  claim_hash: 353732a126b5667a53f530a9bd17cf67ece7d5a1dabe14b88a4f54c87382669f
+  content: L. Ron Hubbard remained in the United States Navy reserves until October
+    1950, after his time in Pasadena.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: document
+    origin: L. Ron Hubbard's United States Navy service record
+    relay:
+    - Mike Bara
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  date: 1950-10
+  date_end: null
+  location_in_record: ch5:19676-19953
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 1ef13d14-5752-4ef4-8398-9f6ec7da7738
+  claim_hash: 0f591b08b2afd7d91ea38262bcf76e3fef4990abf8ab0fffd08b38d173c5a6e2
+  content: A telegram from L. Ron Hubbard to the United States Navy dated 1945-10-13
+    indicates he was staying in Hollywood, near Jack Parsons and the Ordo Templi Orientis
+    lodge in Pasadena.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: a telegram from L. Ron Hubbard to the United States Navy dated 1945-10-13
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    slug: jack-parsons
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  date: '1945-10-13'
+  date_end: null
+  location_in_record: ch5:20955-21087
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 1e75a06c-1766-4b67-82ac-399c975489de
+  claim_hash: 475daec173a9b09688bb2abad171583f3f88da821245a1dfaa829a38889847b7
+  content: Richard C. Hoagland now holds that the weight of the evidence supports
+    the Church of Scientology's version of events regarding L. Ron Hubbard's role
+    at the Ordo Templi Orientis temple in Pasadena over the less flattering alternative
+    account.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    slug: l-ron-hubbard
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    slug: church-of-scientology
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    slug: ordo-templi-orientis-oto
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch5:23597-23730
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 0e4d0954-7b56-499d-8339-c6590b2f9c45
+  claim_hash: e87907e317295246139aec5d68599f26100617e4f0465e772e74a7b26a7f4f0b
+  content: Vicki Noratuk was born premature in 1950 at St. Luke Hospital in Pasadena,
+    California.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 011e5021-dc2e-4eb4-94e6-d86803e2eae6
+    title: Vicki Noratuk
+    slug: vicki-noratuk
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  - node_id: fe5956d0-9a74-44ed-8502-d8d894ffbaeb
+    title: St. Luke Hospital
+    slug: st-luke-hospital
+  date: '1950'
+  date_end: null
+  location_in_record: ch16:6008-6083
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: d4b0e708-4c3c-4173-a573-9b3de35da4b4
+  claim_hash: 04084ed99f4fc464a0bc6d9d34c9a982550a3058dad83acba065bd7b7dfe1146
+  content: The Alien Con conference was held at the Pasadena Convention Centre in
+    Pasadena, California, on 2023-03-05.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 032b4317-7a99-496c-b4cc-a5fa614763bd
+    title: 2023-03-05 Alien Con Pasadena conference
+    slug: 2023-03-05-alien-con-pasadena-conference
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    slug: california-pasadena-usa
+  date: '2023-03-05'
+  date_end: null
+  location_in_record: ch34:72048-72124
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted

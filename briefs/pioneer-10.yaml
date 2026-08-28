@@ -1,0 +1,585 @@
+schema: anomalica/brief/1
+brief_hash: b1bf83b38248487816e96b94432802854b55379c0f4d50dcd414083c32aceb5a
+page:
+  kind: entity
+  node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+  node_type: object
+  title: Pioneer 10
+  slug: pioneer-10
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: cc9eaaf1-391f-4236-b037-8d1bd977c4c6
+  title: Pioneer 11
+  node_type: object
+  slug: pioneer-11
+  shared_claims: 10
+- node_id: e08b2931-9acd-4607-925b-51533f043111
+  title: Pioneer plaque
+  node_type: object
+  slug: pioneer-plaque
+  shared_claims: 5
+- node_id: c1b0d026-e36c-4913-a07f-3d12a1a2a7d0
+  title: Arthur Schuster
+  node_type: person
+  slug: arthur-schuster
+  shared_claims: 1
+- node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+  title: Carl Sagan
+  node_type: person
+  slug: carl-sagan
+  shared_claims: 1
+- node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+  title: Ingo Swann
+  node_type: person
+  slug: ingo-swann
+  shared_claims: 1
+- node_id: d78ee7e3-9c01-43d4-b66b-f5f7c4191753
+  title: Jupiter remote viewing session
+  node_type: event
+  slug: jupiter-remote-viewing-session
+  shared_claims: 1
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 1
+- node_id: c30737a1-4fdb-4d85-9f7f-3fb9875717cb
+  title: Neptune
+  node_type: object
+  slug: neptune
+  shared_claims: 1
+- node_id: a82bd1f6-1f17-4583-89f2-3e965c16c736
+  title: Pioneer 10 Jupiter flyby
+  node_type: event
+  slug: pioneer-10-jupiter-flyby
+  shared_claims: 1
+- node_id: f23b3f3a-16ad-408c-9e21-4dcbd82948f5
+  title: Saturn
+  node_type: object
+  slug: saturn
+  shared_claims: 1
+- node_id: dec77be9-8217-4d3d-935d-c1dd869a79c5
+  title: Uranus
+  node_type: object
+  slug: uranus
+  shared_claims: 1
+- node_id: 38b725c6-deac-4da9-b946-2cee1061c8a0
+  title: Voyager missions
+  node_type: project
+  slug: voyager-missions
+  shared_claims: 1
+claims:
+- claim_id: abdf9a0f-295c-4d0b-a3d9-0c51eb795c39
+  claim_hash: ede747ac981d690fb6a8a398e525c8a57b3873eec0190fa47c412bad4eb3621b
+  content: If no terminal manoeuvres are performed, the Pioneer 10 and Pioneer 11
+    spacecraft will never, in 10^10 years, enter any other solar system, even if every
+    star in the Milky Way Galaxy has a planetary system comparable to our own, and
+    could only be intercepted by an interstellar spacefaring society much more advanced
+    than our own.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+    title: Carl Sagan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Carl Sagan
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+    title: Pioneer 10
+    slug: pioneer-10
+  - node_id: cc9eaaf1-391f-4236-b037-8d1bd977c4c6
+    title: Pioneer 11
+    slug: pioneer-11
+  date: null
+  date_end: null
+  location_in_record: 61-67
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad1bc55d-0bfb-49a6-82f5-2124886cf5d0
+    record_title: The recognition of extraterrestrial intelligence
+    record_date: '1975'
+    record_reference: null
+    content_hash: sha256:db65684625707605ee783f094129c86f86b76812c216416543f96185a1eeda6c
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 033d14d6-e7f2-4f6b-bc78-d15ecd814bc7
+  claim_hash: a80947f3ebb6d02b082251278b07d015cab1a677fec5defb48f3cd6d72b62b0f
+  content: As of 1975, the only direct attempts to communicate with extraterrestrial
+    intelligence were the plaques aboard the Pioneer 10 and Pioneer 11 spacecraft.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Carl Sagan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+    title: Pioneer 10
+    slug: pioneer-10
+  - node_id: cc9eaaf1-391f-4236-b037-8d1bd977c4c6
+    title: Pioneer 11
+    slug: pioneer-11
+  - node_id: e08b2931-9acd-4607-925b-51533f043111
+    title: Pioneer plaque
+    slug: pioneer-plaque
+  date: '1975'
+  date_end: null
+  location_in_record: char:1721-1874
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad1bc55d-0bfb-49a6-82f5-2124886cf5d0
+    record_title: The recognition of extraterrestrial intelligence
+    record_date: '1975'
+    record_reference: null
+    content_hash: sha256:db65684625707605ee783f094129c86f86b76812c216416543f96185a1eeda6c
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2af74f6d-a445-4525-b441-5a87d0657823
+  claim_hash: 24486a4d5912e6d32ed5160d19755e82f146eda538082e844e3f4ab74156fd44
+  content: The Pioneer 10 spacecraft flew by Jupiter on 1973-12-03.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+    title: Carl Sagan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Carl Sagan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+    title: Pioneer 10
+    slug: pioneer-10
+  - node_id: a82bd1f6-1f17-4583-89f2-3e965c16c736
+    title: Pioneer 10 Jupiter flyby
+    slug: pioneer-10-jupiter-flyby
+  date: '1973-12-03'
+  date_end: null
+  location_in_record: char:31844-31907
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad1bc55d-0bfb-49a6-82f5-2124886cf5d0
+    record_title: The recognition of extraterrestrial intelligence
+    record_date: '1975'
+    record_reference: null
+    content_hash: sha256:db65684625707605ee783f094129c86f86b76812c216416543f96185a1eeda6c
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 76ac3637-03b5-40e6-942a-8008c063d9f2
+  claim_hash: 8304dfe08bd17c989555adc49834a3ec1cd13224da30df556139b5494e911266
+  content: Both the Pioneer 10 and Pioneer 11 spacecraft have trajectories that, through
+    momentum exchange with a major planet, will eject them from the Solar System.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+    title: Carl Sagan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Carl Sagan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+    title: Pioneer 10
+    slug: pioneer-10
+  - node_id: cc9eaaf1-391f-4236-b037-8d1bd977c4c6
+    title: Pioneer 11
+    slug: pioneer-11
+  date: null
+  date_end: null
+  location_in_record: char:31977-32085
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad1bc55d-0bfb-49a6-82f5-2124886cf5d0
+    record_title: The recognition of extraterrestrial intelligence
+    record_date: '1975'
+    record_reference: null
+    content_hash: sha256:db65684625707605ee783f094129c86f86b76812c216416543f96185a1eeda6c
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 53fe7b16-3b42-4644-8bef-928ed36e1672
+  claim_hash: 1bb18aae6510c9703eb3a915bf28650e4c772b735ec39bce03c9467d181cbebd
+  content: The interstellar spaceflight of the Pioneer 10 and Pioneer 11 spacecraft
+    is unpowered, with a transit time over a few light years of about 10^5 years.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+    title: Carl Sagan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Carl Sagan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+    title: Pioneer 10
+    slug: pioneer-10
+  - node_id: cc9eaaf1-391f-4236-b037-8d1bd977c4c6
+    title: Pioneer 11
+    slug: pioneer-11
+  date: null
+  date_end: null
+  location_in_record: char:32093-32194
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad1bc55d-0bfb-49a6-82f5-2124886cf5d0
+    record_title: The recognition of extraterrestrial intelligence
+    record_date: '1975'
+    record_reference: null
+    content_hash: sha256:db65684625707605ee783f094129c86f86b76812c216416543f96185a1eeda6c
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 37e82b6a-f55f-4f4c-83d4-e37b2aa942d0
+  claim_hash: 0cbf7cccca72a58d0fd2109ae383e8448b43b89fac3ffe9fc36b172de9c36fda
+  content: It may be possible to perform terminal trajectory adjustments that would
+    direct the Pioneer 10 or Pioneer 11 spacecraft to the vicinities of stars within
+    about 100 light years of Earth, in which case they might conceivably be intercepted
+    in about 10^6 years.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+    title: Carl Sagan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Carl Sagan
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+    title: Pioneer 10
+    slug: pioneer-10
+  - node_id: cc9eaaf1-391f-4236-b037-8d1bd977c4c6
+    title: Pioneer 11
+    slug: pioneer-11
+  date: null
+  date_end: null
+  location_in_record: char:32201-32439
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad1bc55d-0bfb-49a6-82f5-2124886cf5d0
+    record_title: The recognition of extraterrestrial intelligence
+    record_date: '1975'
+    record_reference: null
+    content_hash: sha256:db65684625707605ee783f094129c86f86b76812c216416543f96185a1eeda6c
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: e222ce31-ace6-4a84-b920-ce0e2b8c69c8
+  claim_hash: 6d09907f9a62e0c168b36ee9ffcc32e27173a53699621cb5329cd34131babd9c
+  content: Figure 23 shows the plaque aboard the Pioneer 10 and Pioneer 11 spacecraft,
+    depicting a diagram of the hydrogen hyperfine transition, a radial pattern of
+    pulsars indicating the Sun's location, line drawings of a nude man and woman,
+    an outline of the spacecraft, and a diagram of the Solar System with the spacecraft's
+    trajectory.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+    title: Carl Sagan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Carl Sagan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+    title: Pioneer 10
+    slug: pioneer-10
+  - node_id: cc9eaaf1-391f-4236-b037-8d1bd977c4c6
+    title: Pioneer 11
+    slug: pioneer-11
+  - node_id: e08b2931-9acd-4607-925b-51533f043111
+    title: Pioneer plaque
+    slug: pioneer-plaque
+  date: null
+  date_end: null
+  location_in_record: char:32532-32854
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad1bc55d-0bfb-49a6-82f5-2124886cf5d0
+    record_title: The recognition of extraterrestrial intelligence
+    record_date: '1975'
+    record_reference: null
+    content_hash: sha256:db65684625707605ee783f094129c86f86b76812c216416543f96185a1eeda6c
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 129d4e5f-12bb-4644-aae6-fe512f9a7df0
+  claim_hash: 8031e1e08dc44d311b01bc06aa87b9dbe01552eb5f54691c4e0fc4725c65aeec
+  content: Carl Sagan and colleagues considered it appropriate that a simple cosmic
+    greeting card be aboard the Pioneer 10 and Pioneer 11 spacecraft, despite the
+    remoteness of the contingencies for their interception.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+    title: Carl Sagan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Carl Sagan
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+    title: Pioneer 10
+    slug: pioneer-10
+  - node_id: cc9eaaf1-391f-4236-b037-8d1bd977c4c6
+    title: Pioneer 11
+    slug: pioneer-11
+  - node_id: e08b2931-9acd-4607-925b-51533f043111
+    title: Pioneer plaque
+    slug: pioneer-plaque
+  - node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+    title: Carl Sagan
+    slug: carl-sagan
+  date: null
+  date_end: null
+  location_in_record: char:33230-33353
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad1bc55d-0bfb-49a6-82f5-2124886cf5d0
+    record_title: The recognition of extraterrestrial intelligence
+    record_date: '1975'
+    record_reference: null
+    content_hash: sha256:db65684625707605ee783f094129c86f86b76812c216416543f96185a1eeda6c
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 111103ec-3da5-454c-b226-a06d192e9b93
+  claim_hash: 97a07908feb8c94b4565c92f1fd930e1ec664df5fb68de00868a7a70f114564f
+  content: The Pioneer plaque message is attached to the antenna support struts of
+    the Pioneer 10 and Pioneer 11 spacecraft and is engraved on a 15 centimetre by
+    22.5 centimetre gold-anodised aluminium plate.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+    title: Carl Sagan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Carl Sagan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+    title: Pioneer 10
+    slug: pioneer-10
+  - node_id: cc9eaaf1-391f-4236-b037-8d1bd977c4c6
+    title: Pioneer 11
+    slug: pioneer-11
+  - node_id: e08b2931-9acd-4607-925b-51533f043111
+    title: Pioneer plaque
+    slug: pioneer-plaque
+  date: null
+  date_end: null
+  location_in_record: char:33365-33554
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad1bc55d-0bfb-49a6-82f5-2124886cf5d0
+    record_title: The recognition of extraterrestrial intelligence
+    record_date: '1975'
+    record_reference: null
+    content_hash: sha256:db65684625707605ee783f094129c86f86b76812c216416543f96185a1eeda6c
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 94690abb-324b-4c52-a1c2-31039a4c6a8a
+  claim_hash: 73dbc3bfc639866026c2a488a907797a4d300f9eb6d56ae2707062b1f9a8eae5
+  content: The Pioneer 10 message, even without the human beings, spacecraft and Solar
+    System representations, was readily decrypted by academic astronomers and physicists
+    in tests performed before any public announcement of the existence of the Pioneer
+    10 plaque.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+    title: Carl Sagan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Carl Sagan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+    title: Pioneer 10
+    slug: pioneer-10
+  - node_id: e08b2931-9acd-4607-925b-51533f043111
+    title: Pioneer plaque
+    slug: pioneer-plaque
+  date: null
+  date_end: null
+  location_in_record: char:33994-34240
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad1bc55d-0bfb-49a6-82f5-2124886cf5d0
+    record_title: The recognition of extraterrestrial intelligence
+    record_date: '1975'
+    record_reference: null
+    content_hash: sha256:db65684625707605ee783f094129c86f86b76812c216416543f96185a1eeda6c
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 5627a42b-4555-4952-af87-c41d444296a5
+  claim_hash: 8ff012336033f2147ae37cc4f13f7aa47e15ad47f8069292ccde153185062a85
+  content: Pioneer and Voyager spacecraft observations during the 1970s and 1980s
+    found that Saturn, Uranus and Neptune each radiate more energy into space than
+    they receive from the sun, despite lacking internal nuclear fusion.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 38b725c6-deac-4da9-b946-2cee1061c8a0
+    title: Voyager missions
+    slug: voyager-missions
+  - node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+    title: Pioneer 10
+    slug: pioneer-10
+  - node_id: c30737a1-4fdb-4d85-9f7f-3fb9875717cb
+    title: Neptune
+    slug: neptune
+  - node_id: cc9eaaf1-391f-4236-b037-8d1bd977c4c6
+    title: Pioneer 11
+    slug: pioneer-11
+  - node_id: dec77be9-8217-4d3d-935d-c1dd869a79c5
+    title: Uranus
+    slug: uranus
+  - node_id: f23b3f3a-16ad-408c-9e21-4dcbd82948f5
+    title: Saturn
+    slug: saturn
+  date: null
+  date_end: null
+  location_in_record: ch9:1748-2081
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 27abc471-58cd-4f73-ae61-51184f707ae1
+  claim_hash: 9c14d2f13b340c337f1bccce512db7a13429beb5761d28cfe02d5730f7d7dedc
+  content: Arthur Schuster's prediction of planetary magnetic field strengths, made
+    in 1912, preceded by more than sixty years the 1973-74 confirmation of Jupiter's
+    magnetic field by the Pioneer 10 and Pioneer 11 spacecraft close-up encounters,
+    as reported by Warwick (1976).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Warwick (1976) publication
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+    title: Pioneer 10
+    slug: pioneer-10
+  - node_id: c1b0d026-e36c-4913-a07f-3d12a1a2a7d0
+    title: Arthur Schuster
+    slug: arthur-schuster
+  - node_id: cc9eaaf1-391f-4236-b037-8d1bd977c4c6
+    title: Pioneer 11
+    slug: pioneer-11
+  date: '1973'
+  date_end: null
+  location_in_record: ch9:49137-49355
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 219b853c-04ea-410c-939f-e756e2515773
+  claim_hash: 9b1a8eba6d096f6f7a6d610fd2205c0e33818a1176fa3c9f70da72c7ac57cffb
+  content: NASA's Pioneer 10 spacecraft later confirmed Ingo Swann's remote-viewing
+    findings about Jupiter when it flew past the planet in the 1970s.
+  original_excerpt: These findings were later confirmed by NASA's Pioneer 10 spacecraft,
+    which then flew past Jupiter in the 70s.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+    title: Ingo Swann
+    slug: ingo-swann
+  - node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+    title: Pioneer 10
+    slug: pioneer-10
+  - node_id: d78ee7e3-9c01-43d4-b66b-f5f7c4191753
+    title: Jupiter remote viewing session
+    slug: jupiter-remote-viewing-session
+  date: null
+  date_end: null
+  location_in_record: 00:05:43.4-00:05:49.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null

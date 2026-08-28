@@ -1,0 +1,437 @@
+schema: anomalica/brief/1
+brief_hash: 2975ed22a85be612ced1490476c09424e9cb2fc0ec5065a473fefe95b8ae2515
+page:
+  kind: entity
+  node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+  node_type: person
+  title: Don Schmitt
+  slug: don-schmitt
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+  title: Walter Haut
+  node_type: person
+  slug: walter-haut
+  shared_claims: 7
+- node_id: 834b12de-6700-4560-ba40-5689478b6585
+  title: Thomas Carey
+  node_type: person
+  slug: thomas-carey
+  shared_claims: 3
+- node_id: 4f17dd22-1375-4219-ae62-8ec1d5c657aa
+  title: 509th Bomb Wing
+  node_type: organisation
+  slug: 509th-bomb-wing
+  shared_claims: 1
+- node_id: b3f39800-6a2a-4679-8abe-a4c09a0786c1
+  title: In Plain Sight
+  node_type: document
+  slug: in-plain-sight
+  shared_claims: 1
+- node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+  title: J. Allen Hynek
+  node_type: person
+  slug: j-allen-hynek
+  shared_claims: 1
+- node_id: 71809a0e-d463-48c9-b9ae-6ef4945c0ec8
+  title: Julie Shuster
+  node_type: person
+  slug: julie-shuster
+  shared_claims: 1
+- node_id: 8ad449b0-23a7-4e3e-a3e6-db5b57facc00
+  title: Kevin Randle
+  node_type: person
+  slug: kevin-randle
+  shared_claims: 1
+- node_id: 19e35faf-a0e1-4b80-ac06-4f956711cbdf
+  title: Roswell Unidentified Flying Object (UFO) Museum
+  node_type: organisation
+  slug: roswell-unidentified-flying-object-ufo-museum
+  shared_claims: 1
+- node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+  title: Roswell incident (1947)
+  node_type: event
+  slug: roswell-incident-1947
+  shared_claims: 1
+- node_id: b90a1ec7-2134-4863-b3a3-15f1eeb0780a
+  title: Unidentified Flying Object (UFO) Crash at Roswell
+  node_type: document
+  slug: unidentified-flying-object-ufo-crash-at-roswell
+  shared_claims: 1
+- node_id: c17787d5-6f80-4756-9cf1-0e4b874bc896
+  title: William Ennis
+  node_type: person
+  slug: william-ennis
+  shared_claims: 1
+- node_id: 00e0c704-f6aa-413d-a561-150cab083eae
+  title: Witness to Roswell
+  node_type: document
+  slug: witness-to-roswell
+  shared_claims: 1
+claims:
+- claim_id: 12197459-edd4-4596-bc09-7ba0e4009f19
+  claim_hash: 9663d2979d32123f4035a8ac933291eae18f40c9c8b9c13b2b52efb0d978ce65
+  content: Sceptics charged that Walter Haut might not have been in full possession
+    of his faculties so close to his own death and that the authors of Witness to
+    Roswell, Don Schmitt and Thomas Carey, actually wrote his dramatic affidavit.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: unnamed sceptics of the Walter Haut affidavit
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 00e0c704-f6aa-413d-a561-150cab083eae
+    title: Witness to Roswell
+    slug: witness-to-roswell
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  - node_id: 834b12de-6700-4560-ba40-5689478b6585
+    title: Thomas Carey
+    slug: thomas-carey
+  date: null
+  date_end: null
+  location_in_record: ch7:18414-18627
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9b29474e-c205-4dee-9813-93a2c64118f4
+  claim_hash: 192c9409eae13d3aaabdf04fca1f713837817613c92537c22d35b54c8d967452
+  content: Don Schmitt told the author of In Plain Sight that nobody worked on Walter
+    Haut or spent more time with him than Schmitt and Thomas Carey did, trying to
+    get him to open up.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+  provenance_chain:
+    origin_kind: named
+    origin: Don Schmitt
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  - node_id: 834b12de-6700-4560-ba40-5689478b6585
+    title: Thomas Carey
+    slug: thomas-carey
+  - node_id: b3f39800-6a2a-4679-8abe-a4c09a0786c1
+    title: In Plain Sight
+    slug: in-plain-sight
+  date: null
+  date_end: null
+  location_in_record: ch7:18639-18759
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 2cc93094-18ef-473e-b1ec-f34d2c68b429
+  claim_hash: 9cb9b24fefb6b2b2fce54e1f82f99e244213b2ffd64e910acb0fdc6d94078c0f
+  content: Don Schmitt acknowledged that he and Thomas Carey drafted what Walter Haut
+    told them into an affidavit, but said Haut was very clearly of sound mind and
+    approved every word.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+  provenance_chain:
+    origin_kind: named
+    origin: Don Schmitt
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  - node_id: 834b12de-6700-4560-ba40-5689478b6585
+    title: Thomas Carey
+    slug: thomas-carey
+  date: null
+  date_end: null
+  location_in_record: ch7:18765-18894
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: bffdd553-2575-49a9-a2be-ca39ed1b65d9
+  claim_hash: b4de2edee58f210d0ce6958d9730b17f8c85c2d99345296e8d855a3427672f9b
+  content: Don Schmitt said they prepared Walter Haut's statement based on all the
+    information Haut had provided them through the years, and that Haut read through
+    it with his daughter, a notary, and another witness present.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+  provenance_chain:
+    origin_kind: named
+    origin: Don Schmitt
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  date: null
+  date_end: null
+  location_in_record: ch7:18901-19107
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 98c8f72f-f20a-473b-b271-acae8a0ac460
+  claim_hash: f9d0be92421b50391249b6d249cf7a4202167e620582725df2de5ed44364b511
+  content: Don Schmitt said that, as Walter Haut's daughter wrote in a statement,
+    if Haut had disagreed with a word of the affidavit, he would never have signed
+    it.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+  provenance_chain:
+    origin_kind: named
+    origin: Walter Haut's daughter
+    relay:
+    - Don Schmitt
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  date: null
+  date_end: null
+  location_in_record: ch7:19116-19229
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c3f900ca-af68-430e-b8ac-17be2892c76b
+  claim_hash: ce2a7c81e5c021db9b7f1c31167f94a609da026127097119119e504fa5aaad8d
+  content: Don Schmitt trained as an investigator under J. Allen Hynek.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+    slug: j-allen-hynek
+  date: null
+  date_end: null
+  location_in_record: ch7:20739-20829
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e381239e-ca37-4806-ab47-f7c433d60ef2
+  claim_hash: 8e31ece24493609c39c5f9713a86fcb39f8b254a0f9b396a3d45e72217a33e46
+  content: Don Schmitt considers the suggestion that Julie Shuster and Walter Haut
+    fabricated a UFO story for financial gain unfounded, saying Julie Shuster was
+    paid a nominal salary not much above minimum wage to run the Roswell UFO Museum.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+  provenance_chain:
+    origin_kind: speaker
+    origin: Don Schmitt
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 19e35faf-a0e1-4b80-ac06-4f956711cbdf
+    title: Roswell Unidentified Flying Object (UFO) Museum
+    slug: roswell-unidentified-flying-object-ufo-museum
+  - node_id: 71809a0e-d463-48c9-b9ae-6ef4945c0ec8
+    title: Julie Shuster
+    slug: julie-shuster
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  date: null
+  date_end: null
+  location_in_record: ch7:20836-21106
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: efe057f4-cbb5-42ca-8e91-1269733e8348
+  claim_hash: 4ba4a5e1e1b9dfdb27757be46ec04ff73b9b7dd805dce2a81fbde3bc0586ee50
+  content: Don Schmitt considers Walter Haut sincere and truthful in his affidavit
+    about the Roswell incident.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+  provenance_chain:
+    origin_kind: speaker
+    origin: Don Schmitt
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    slug: walter-haut
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch7:21113-21195
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5009457d-ee76-432d-b08e-8c5d84b6cbe5
+  claim_hash: c14acd5b987fb6e46c85286129900b664bd5f8b4a038791528f5cf67b15e1a83
+  content: In UFO Crash at Roswell, Don Schmidt and Kevin Randle report that former
+    509th Bomb Wing flight engineer Sergeant William Ennis stated the recovered craft
+    "didn't have a single moving part on it."
+  original_excerpt: null
+  claim_type: testimony
+  attestation: third_hand
+  speaker:
+    node_id: c17787d5-6f80-4756-9cf1-0e4b874bc896
+    title: William Ennis
+  provenance_chain:
+    origin_kind: named
+    origin: William Ennis
+    relay:
+    - Don Schmidt
+    - Kevin Randle
+    - UFO Crash at Roswell
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4f17dd22-1375-4219-ae62-8ec1d5c657aa
+    title: 509th Bomb Wing
+    slug: 509th-bomb-wing
+  - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
+    title: Don Schmitt
+    slug: don-schmitt
+  - node_id: 8ad449b0-23a7-4e3e-a3e6-db5b57facc00
+    title: Kevin Randle
+    slug: kevin-randle
+  - node_id: b90a1ec7-2134-4863-b3a3-15f1eeb0780a
+    title: Unidentified Flying Object (UFO) Crash at Roswell
+    slug: unidentified-flying-object-ufo-crash-at-roswell
+  - node_id: c17787d5-6f80-4756-9cf1-0e4b874bc896
+    title: William Ennis
+    slug: william-ennis
+  date: null
+  date_end: null
+  location_in_record: ch21:16983-17217
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted

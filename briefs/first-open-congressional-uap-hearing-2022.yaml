@@ -1,0 +1,476 @@
+schema: anomalica/brief/1
+brief_hash: 18e3be5a20ca685ed72b544e63858e24d17d5e26b98f72cdd672b67ba0426c79
+page:
+  kind: entity
+  node_id: 8e99ae7d-3c45-4414-95ac-b7c3c8d0c072
+  node_type: event
+  title: First Open Congressional UAP Hearing 2022
+  slug: first-open-congressional-uap-hearing-2022
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+  title: Moultrie, Ronald S.
+  node_type: person
+  slug: ronald-s-moultrie
+  shared_claims: 4
+- node_id: b515119c-8877-4000-bc20-ba005f50d1db
+  title: Australian Department of Defence
+  node_type: organisation
+  slug: australian-department-of-defence
+  shared_claims: 3
+- node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+  title: Bray, Scott W.
+  node_type: person
+  slug: scott-w-bray
+  shared_claims: 3
+- node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+  title: UAP Task Force
+  node_type: organisation
+  slug: uap-task-force
+  shared_claims: 2
+- node_id: be1c5291-2a16-4e69-b6ae-6e8761ff5e7c
+  title: Wilson Davis Memo
+  node_type: document
+  slug: wilson-davis-memo
+  shared_claims: 2
+- node_id: 3cfa2c1d-bde7-4d83-b6bd-de6fd4f8d8e8
+  title: Wilson Davis Memo Congressional Record Submission 2022
+  node_type: event
+  slug: wilson-davis-memo-congressional-record-submission-2022
+  shared_claims: 2
+- node_id: af6e1245-9594-41d7-854e-1a63d70a79ca
+  title: Advanced Aerospace Threat Identification Program (AATIP)
+  node_type: organisation
+  slug: advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 1
+- node_id: 10db20bd-6632-4d61-85fd-35ad84e808c1
+  title: DNI UAP 180-Day Report 2021-06
+  node_type: document
+  slug: dni-uap-180-day-report-2021-06
+  shared_claims: 1
+- node_id: cd8f30e6-7a36-4970-b146-1da4271075d3
+  title: Gallagher, Mike
+  node_type: person
+  slug: mike-gallagher
+  shared_claims: 1
+- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+  title: Project Blue Book
+  node_type: project
+  slug: project-blue-book
+  shared_claims: 1
+- node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+  title: The Pentagon
+  node_type: organisation
+  slug: the-pentagon
+  shared_claims: 1
+- node_id: d2d40a96-dc79-4770-ae43-138b349c61fa
+  title: UAP Nuclear Facilities Interference
+  node_type: matter
+  slug: uap-nuclear-facilities-interference
+  shared_claims: 1
+claims:
+- claim_id: 08e73d55-db30-4c1d-8ea2-4d800c5f58fb
+  claim_hash: 0f01d4f1abfba340125cf2f26fc531b1c47f396e7848c7408e7bcfa987c906fb
+  content: Ronald S. Moultrie and Scott W. Bray publicly acknowledged that UAPs posed
+    potential flight safety and general security risks, and admitted the Pentagon's
+    UAP team was investigating 400 unresolved UAP incidents since the preliminary
+    UAP report in mid-2021.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+    title: Moultrie, Ronald S.
+    slug: ronald-s-moultrie
+  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+    title: The Pentagon
+    slug: the-pentagon
+  - node_id: 8e99ae7d-3c45-4414-95ac-b7c3c8d0c072
+    title: First Open Congressional UAP Hearing 2022
+    slug: first-open-congressional-uap-hearing-2022
+  - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+    title: Bray, Scott W.
+    slug: scott-w-bray
+  date: '2022-05-17'
+  date_end: null
+  location_in_record: Chapter 25
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 4a528a2a-263a-47d4-b065-b94aa9e4a0f6
+  claim_hash: 36219710db966d2194eb32bc0429e52f1b42b6e086568343738e5876ac147638
+  content: André Carson, committee chairman at the first open congressional UAP hearing,
+    stated that UAP stigma had long hindered good intelligence analysis and that pilots
+    avoided reporting or were laughed at when they did.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 8e99ae7d-3c45-4414-95ac-b7c3c8d0c072
+    title: First Open Congressional UAP Hearing 2022
+    slug: first-open-congressional-uap-hearing-2022
+  - node_id: b515119c-8877-4000-bc20-ba005f50d1db
+    title: Australian Department of Defence
+    slug: australian-department-of-defence
+  date: '2022-05-17'
+  date_end: null
+  location_in_record: Chapter 25
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 5331f3d5-1df4-4a11-9c69-c608bda85478
+  claim_hash: f255c7fae266649ca46de99b93341727ea014f88a655eb750ee68aa608cdea2d
+  content: Scott W. Bray stated at the first open congressional UAP hearing that he
+    was not aware of anything outside what was being done in the UAP Task Force.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+    title: Bray, Scott W.
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+    title: UAP Task Force
+    slug: uap-task-force
+  - node_id: 8e99ae7d-3c45-4414-95ac-b7c3c8d0c072
+    title: First Open Congressional UAP Hearing 2022
+    slug: first-open-congressional-uap-hearing-2022
+  - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+    title: Bray, Scott W.
+    slug: scott-w-bray
+  date: '2022-05-17'
+  date_end: null
+  location_in_record: Chapter 25
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 65ef62cd-9c87-46a9-a89c-9263ab77b648
+  claim_hash: 695eb5fbaae177c786c55bdc7e6b83e38ea57d95fe480f3a32a9ad1da8fa1c41
+  content: On 17 May 2022, Ronald S. Moultrie and Scott W. Bray appeared before the
+    first public congressional UAP hearing in over half a century; neither official
+    was put under oath.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+    title: Moultrie, Ronald S.
+    slug: ronald-s-moultrie
+  - node_id: 8e99ae7d-3c45-4414-95ac-b7c3c8d0c072
+    title: First Open Congressional UAP Hearing 2022
+    slug: first-open-congressional-uap-hearing-2022
+  - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+    title: Bray, Scott W.
+    slug: scott-w-bray
+  date: '2022-05-17'
+  date_end: null
+  location_in_record: Chapter 25
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: c16993b4-b830-4404-b1cc-2a7f0b7bd8ee
+  claim_hash: e67142f895ddd59319c0c313f961efcd7d2c14cb9edea8160a10561e069eb624
+  content: Ronald S. Moultrie stated at the first open congressional UAP hearing that
+    he was not aware of any contractual programs focused on anything related to UAPs
+    other than the Navy task force and a new effort being launched.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+    title: Moultrie, Ronald S.
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+    title: Moultrie, Ronald S.
+    slug: ronald-s-moultrie
+  - node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+    title: UAP Task Force
+    slug: uap-task-force
+  - node_id: 8e99ae7d-3c45-4414-95ac-b7c3c8d0c072
+    title: First Open Congressional UAP Hearing 2022
+    slug: first-open-congressional-uap-hearing-2022
+  date: '2022-05-17'
+  date_end: null
+  location_in_record: Chapter 25
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 37b7f8cd-7732-46d2-9599-2e8ffcce1b92
+  claim_hash: 76831fb990ac4ef82b05fdec9d159ef8130120c06b71195eadb217fd6b7cba6a
+  content: In May 2022, Congress held a historic public hearing on UAP that lasted
+    ninety minutes.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 8e99ae7d-3c45-4414-95ac-b7c3c8d0c072
+    title: First Open Congressional UAP Hearing 2022
+    slug: first-open-congressional-uap-hearing-2022
+  date: 2022-05
+  date_end: null
+  location_in_record: Chapter 23, paragraph 60
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: 97af7b62-db46-42a7-8cf7-ab502962d5d4
+  claim_hash: 71644e99ff133a074d698a56f2aca4202479d583e3a734ec2f62b6fd915e72a3
+  content: Congressman Mike Gallagher introduced the Wilson/Davis memo into the Congressional
+    Record on national television during the May 2022 UAP hearing.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3cfa2c1d-bde7-4d83-b6bd-de6fd4f8d8e8
+    title: Wilson Davis Memo Congressional Record Submission 2022
+    slug: wilson-davis-memo-congressional-record-submission-2022
+  - node_id: 8e99ae7d-3c45-4414-95ac-b7c3c8d0c072
+    title: First Open Congressional UAP Hearing 2022
+    slug: first-open-congressional-uap-hearing-2022
+  - node_id: be1c5291-2a16-4e69-b6ae-6e8761ff5e7c
+    title: Wilson Davis Memo
+    slug: wilson-davis-memo
+  - node_id: cd8f30e6-7a36-4970-b146-1da4271075d3
+    title: Gallagher, Mike
+    slug: mike-gallagher
+  date: 2022-05
+  date_end: null
+  location_in_record: Chapter 23, paragraph 60
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: c5a1f6f2-3dd1-4843-a39b-20a4ba5f973c
+  claim_hash: 602d0dae6647dee7ddc7e2fe2ab9ba68a4bf6171b648db2b3d14037a44a1f703
+  content: 'At the May 2022 UAP hearing, Ronald Moultrie, head of the Pentagon''s
+    intelligence efforts, stated when asked about research into other UAP programs:
+    ''Other than AATIP and Blue Book, no.'''
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+    title: Moultrie, Ronald S.
+    slug: ronald-s-moultrie
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: 8e99ae7d-3c45-4414-95ac-b7c3c8d0c072
+    title: First Open Congressional UAP Hearing 2022
+    slug: first-open-congressional-uap-hearing-2022
+  - node_id: af6e1245-9594-41d7-854e-1a63d70a79ca
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  date: 2022-05
+  date_end: null
+  location_in_record: Chapter 23, paragraph 60
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: efcd594d-fdf0-4e00-a0b9-49fc933164ba
+  claim_hash: 2838831cd92b160b51a3f849e1a27ec36cffe059b659f0394fa1ba934850e73f
+  content: The Pentagon admitted at the May 2022 UAP hearing that it was unaware of
+    UAP incursions near sensitive nuclear facilities, including instances of intercontinental
+    ballistic missiles (ICBMs) being taken offline.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 8e99ae7d-3c45-4414-95ac-b7c3c8d0c072
+    title: First Open Congressional UAP Hearing 2022
+    slug: first-open-congressional-uap-hearing-2022
+  - node_id: b515119c-8877-4000-bc20-ba005f50d1db
+    title: Australian Department of Defence
+    slug: australian-department-of-defence
+  - node_id: d2d40a96-dc79-4770-ae43-138b349c61fa
+    title: UAP Nuclear Facilities Interference
+    slug: uap-nuclear-facilities-interference
+  date: 2022-05
+  date_end: null
+  location_in_record: Chapter 23, paragraph 60
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: fa747f52-19f9-4ad4-9fe6-aa32520fe9c0
+  claim_hash: 8fa4303edc5c84f822f7ec2e3c4a1a5ac26b3407ea3df0cc043e6d8f7f6206cc
+  content: The Department of Defense witnesses at the May 2022 UAP hearing revealed
+    they now had more than 400 UAP cases logged in the last year, compared to 143
+    unresolved cases in the 180-day report.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 10db20bd-6632-4d61-85fd-35ad84e808c1
+    title: DNI UAP 180-Day Report 2021-06
+    slug: dni-uap-180-day-report-2021-06
+  - node_id: 8e99ae7d-3c45-4414-95ac-b7c3c8d0c072
+    title: First Open Congressional UAP Hearing 2022
+    slug: first-open-congressional-uap-hearing-2022
+  - node_id: b515119c-8877-4000-bc20-ba005f50d1db
+    title: Australian Department of Defence
+    slug: australian-department-of-defence
+  date: 2022-05
+  date_end: null
+  location_in_record: Chapter 23, paragraph 60
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: 06355c41-883b-4679-aa73-599057abcc14
+  claim_hash: 23789147c3a741d552f32c5cbe09e59b09754f268a4477c666dbb46ba8a25a3e
+  content: In the spring of 2022, the Wilson/Davis memo was submitted into the Congressional
+    Record and became one of the talking points during public UAP hearings in Congress.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3cfa2c1d-bde7-4d83-b6bd-de6fd4f8d8e8
+    title: Wilson Davis Memo Congressional Record Submission 2022
+    slug: wilson-davis-memo-congressional-record-submission-2022
+  - node_id: 8e99ae7d-3c45-4414-95ac-b7c3c8d0c072
+    title: First Open Congressional UAP Hearing 2022
+    slug: first-open-congressional-uap-hearing-2022
+  - node_id: be1c5291-2a16-4e69-b6ae-6e8761ff5e7c
+    title: Wilson Davis Memo
+    slug: wilson-davis-memo
+  date: '2022'
+  date_end: null
+  location_in_record: Chapter 4, paragraph 18
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed

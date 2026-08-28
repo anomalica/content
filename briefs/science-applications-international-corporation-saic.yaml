@@ -1,0 +1,246 @@
+schema: anomalica/brief/1
+brief_hash: 5dd818624284d7e96041261b86bf67fcdf423955ca7ab456633e4410ea8ebcc2
+page:
+  kind: entity
+  node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
+  node_type: organisation
+  title: Science Applications International Corporation (SAIC)
+  slug: science-applications-international-corporation-saic
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+  title: Joseph McMoneagle
+  node_type: person
+  slug: joseph-mcmoneagle
+  shared_claims: 2
+- node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+  title: SRI International
+  node_type: organisation
+  slug: sri-international
+  shared_claims: 2
+- node_id: c1d948fe-a528-4991-b4e9-016068805888
+  title: Amy Zalman
+  node_type: person
+  slug: amy-zalman
+  shared_claims: 1
+- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+  title: Chris Ramsay
+  node_type: person
+  slug: chris-ramsay
+  shared_claims: 1
+- node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+  title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+  node_type: organisation
+  slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+  shared_claims: 1
+- node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+  title: Tom DeLonge
+  node_type: person
+  slug: tom-delonge
+  shared_claims: 1
+- node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
+  title: psi
+  node_type: topic
+  slug: psi
+  shared_claims: 1
+claims:
+- claim_id: 8ef3e7ae-5cf9-466e-a5e1-c27cd67312a2
+  claim_hash: 7c8f93161f2f98f139438ffb067107c487cd01bfda4b3b46c58ff0d6798d8fc1
+  content: Amy Zalman worked in New Markets Strategy, Cultural and Language Analysis
+    Division at Science Applications International Corporation (SAIC).
+  original_excerpt: Dr. Amy Zalman, New Markets Strategy, Cultural and Language Analysis
+    Division, SAIC
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'Conference Report: Cultural and Linguistic Advancement for Mission Success
+      (DRDC Toronto TN 2012-055)'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c1d948fe-a528-4991-b4e9-016068805888
+    title: Amy Zalman
+    slug: amy-zalman
+  - node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
+    title: Science Applications International Corporation (SAIC)
+    slug: science-applications-international-corporation-saic
+  date: null
+  date_end: null
+  location_in_record: char:17568-17650
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9a707eda-ccde-4e3e-a3a7-bc928dcbb59d
+    record_title: 'Conference Report: Cultural and Linguistic Advancement for Mission
+      Success: Enhancing Language, Regional and Cultural Capabilities Across Whole
+      of Government for an Effective COIN Strategy'
+    record_date: 2012-05
+    record_reference: https://apps.dtic.mil/sti/tr/pdf/ADA568628.pdf
+    content_hash: sha256:be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b1fab985b
+    friendly_name: 2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for
+- claim_id: e88f1608-8dc9-40f7-94d8-b2d302a3059f
+  claim_hash: 4b8cca00a472fb855ed35625f687adc01fe84245e25053671bda26b757b7441f
+  content: Joseph McMoneagle observed that over the course of their careers, every
+    exceptional viewer studied at the SRI International Cognitive Sciences Laboratory
+    and Science Applications International Corporation, Inc. essentially produced
+    a near flat-line in ability, with the best remote viewers performing about as
+    well at the start of their careers as at the end.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  - node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
+    title: Science Applications International Corporation (SAIC)
+    slug: science-applications-international-corporation-saic
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch27:8265-8655
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: c192c295-77a8-4e36-bcec-4154556902f9
+  claim_hash: ebbaecc7cb38aa4951006421c14bc8159c8de58a549c4fbaf013df87e9345343
+  content: Joseph McMoneagle consulted for SRI International and Science Applications
+    International Corporation, Inc. from 1984 through 1995.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  - node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
+    title: Science Applications International Corporation (SAIC)
+    slug: science-applications-international-corporation-saic
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: '1984'
+  date_end: null
+  location_in_record: ch4:1171-1286
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: ae62493e-2055-4095-a41b-f002c45b1a06
+  claim_hash: e610620ba245358e2a269502a1da4c95572c357cd20dc9bda183c199e5c3fbd6
+  content: Tom DeLonge said Science Applications International Corporation (SAIC),
+    the sixth biggest defence contractor in the world, has eight-foot-tall statues
+    of Atlanteans on thrones in the front of its building.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
+    title: Science Applications International Corporation (SAIC)
+    slug: science-applications-international-corporation-saic
+  date: null
+  date_end: null
+  location_in_record: ch21:7658-7856
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 54376d9f-114f-4267-a50c-80da27df8326
+  claim_hash: 3e6d79b6c11c1c13a89f883703654e9d0baba83a53399556a7f554eca3453602
+  content: Chris Ramsay sees a contradiction between public dismissal of psi and continued
+    work on it at Science Applications International Corporation and similar places.
+  original_excerpt: you see this dichotomy of them trying to like, no, you know, it's
+    stay, this mind stuff is nothing. Don't worry about that. Meanwhile, you know,
+    they're doing all the work at SAIC and all these other places
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsay
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
+    title: Science Applications International Corporation (SAIC)
+    slug: science-applications-international-corporation-saic
+  - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
+    title: psi
+    slug: psi
+  date: null
+  date_end: null
+  location_in_record: 02:50:56.4-02:51:08.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null

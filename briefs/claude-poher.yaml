@@ -1,0 +1,435 @@
+schema: anomalica/brief/1
+brief_hash: 3654aa0b13be10bb46a6882688fd3d12c31207b20dbad3974833aed271009efc
+page:
+  kind: entity
+  node_id: d59b3e14-cb0b-451d-9864-be08bc78133d
+  node_type: person
+  title: Claude Poher
+  slug: claude-poher
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: bdf81b1d-d06b-492c-b020-d3926fc76b14
+  title: National Centre for Space Studies (CNES)
+  node_type: organisation
+  slug: national-centre-for-space-studies-cnes
+  shared_claims: 3
+- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+  title: Jacques Vallée
+  node_type: person
+  slug: jacques-vallee
+  shared_claims: 2
+- node_id: da036800-30a7-4c4d-b57a-21dca53ce073
+  title: Pierre Guérin
+  node_type: person
+  slug: pierre-guerin
+  shared_claims: 2
+- node_id: 2c57037a-db11-4c30-b871-4f8a98603310
+  title: 1974 photograph of the Invisible College members in Boulder, Colorado
+  node_type: event
+  slug: colorado-1974-photograph-of-the-invisible-college-members-in-boulder
+  shared_claims: 1
+- node_id: 3abd8bc9-ef78-4110-9694-0e28d97751e7
+  title: 1978 Jacques Vallée United Nations Unidentified Flying Object (UFO) statement
+  node_type: event
+  slug: 1978-jacques-vallee-united-nations-unidentified-flying-object-ufo-statement
+  shared_claims: 1
+- node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+  title: Aimé Michel
+  node_type: person
+  slug: aime-michel
+  shared_claims: 1
+- node_id: f1f0eba2-92c4-4a7c-9cd1-f8024d23c3df
+  title: David Saunders
+  node_type: person
+  slug: david-saunders
+  shared_claims: 1
+- node_id: 3b9ac1cc-2d03-4a0b-885f-2b3e0bd3e550
+  title: Dick Henry
+  node_type: person
+  slug: dick-henry
+  shared_claims: 1
+- node_id: a0643448-eca0-4b08-9036-658daf27b1a3
+  title: Douglass Price-Williams
+  node_type: person
+  slug: douglass-price-williams
+  shared_claims: 1
+- node_id: 32cf1aa3-de3a-4858-a7c5-aec70b89a39a
+  title: Fred Beckman
+  node_type: person
+  slug: fred-beckman
+  shared_claims: 1
+- node_id: edc1d63e-c37a-4a14-a771-3129910e4794
+  title: French Ministry of Defense
+  node_type: organisation
+  slug: french-ministry-of-defense
+  shared_claims: 1
+- node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+  title: J. Allen Hynek
+  node_type: person
+  slug: j-allen-hynek
+  shared_claims: 1
+- node_id: 78757372-37ca-4745-bcfd-51c88102c351
+  title: Leo Sprinkle
+  node_type: person
+  slug: leo-sprinkle
+  shared_claims: 1
+- node_id: 7d9d2f1c-57b1-4801-97b3-fafbb1278ea9
+  title: Olivier Costa de Beauregard
+  node_type: person
+  slug: olivier-costa-de-beauregard
+  shared_claims: 1
+- node_id: 4c55705a-5699-455d-8776-4ec6fb590fae
+  title: Paris Astrophysical Institute
+  node_type: organisation
+  slug: paris-astrophysical-institute
+  shared_claims: 1
+- node_id: b10fea6a-5a53-4a73-8a08-4089498c3a47
+  title: Robert Galley
+  node_type: person
+  slug: robert-galley
+  shared_claims: 1
+- node_id: b3a417af-0df0-46fd-b152-f6200dcc81bb
+  title: Rémy Chauvin
+  node_type: person
+  slug: remy-chauvin
+  shared_claims: 1
+- node_id: 006b3ab1-13d0-406c-919a-ef4c0681b996
+  title: USA, Colorado, Boulder
+  node_type: place
+  slug: colorado-boulder-usa
+  shared_claims: 1
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 1
+- node_id: 01bdd3c4-9335-494b-9206-2615f7453f73
+  title: United Nations Special Political Committee
+  node_type: organisation
+  slug: united-nations-special-political-committee
+  shared_claims: 1
+- node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
+  title: the Invisible College
+  node_type: topic
+  slug: the-invisible-college
+  shared_claims: 1
+claims:
+- claim_id: 4eea3e1c-58fd-47be-ad85-9bfa5a38a07a
+  claim_hash: 330965abcbd334f169fef2e4bfc004fb058df56e4c0f3125f1983baf7ab3ed99
+  content: Claude Poher stated the essential facts of the UFO phenomenon in documents
+    circulated before the 1978 United Nations Special Political Committee meeting.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 01bdd3c4-9335-494b-9206-2615f7453f73
+    title: United Nations Special Political Committee
+    slug: united-nations-special-political-committee
+  - node_id: 3abd8bc9-ef78-4110-9694-0e28d97751e7
+    title: 1978 Jacques Vallée United Nations Unidentified Flying Object (UFO) statement
+    slug: 1978-jacques-vallee-united-nations-unidentified-flying-object-ufo-statement
+  - node_id: d59b3e14-cb0b-451d-9864-be08bc78133d
+    title: Claude Poher
+    slug: claude-poher
+  date: '1978-11-27'
+  date_end: null
+  location_in_record: ch16:1214-1320
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 11fcad75-5062-4e2a-9cc6-abd0c34fa919
+  claim_hash: 66affc8cc31bf15db1d586db135c2a41747798f0d28dd70a78485973bff99098
+  content: Claude Poher conducted a study of the UFO phenomenon sponsored by an agency
+    of the French Government.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: d59b3e14-cb0b-451d-9864-be08bc78133d
+    title: Claude Poher
+    slug: claude-poher
+  date: '1978-11-27'
+  date_end: null
+  location_in_record: ch16:2064-2193
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: e866529d-cc94-4ac5-b17e-47e463cc29b8
+  claim_hash: 8b561cf244a375cc27547221a80c97e54e789d9f10d4c4777147133a23999200
+  content: 'In March 1974, French Minister of Defense Robert Galley agreed to participate
+    in a series of radio interviews that included reports from witnesses and statements
+    by three French scientists who had studied the UFO phenomenon: Pierre Guerin of
+    the Paris Astrophysical Institute, Claude Poher, and Jacques Vallee.'
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallee
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 4c55705a-5699-455d-8776-4ec6fb590fae
+    title: Paris Astrophysical Institute
+    slug: paris-astrophysical-institute
+  - node_id: b10fea6a-5a53-4a73-8a08-4089498c3a47
+    title: Robert Galley
+    slug: robert-galley
+  - node_id: d59b3e14-cb0b-451d-9864-be08bc78133d
+    title: Claude Poher
+    slug: claude-poher
+  - node_id: da036800-30a7-4c4d-b57a-21dca53ce073
+    title: Pierre Guérin
+    slug: pierre-guerin
+  - node_id: edc1d63e-c37a-4a14-a771-3129910e4794
+    title: French Ministry of Defense
+    slug: french-ministry-of-defense
+  date: 1974-03
+  date_end: null
+  location_in_record: ch10:30594-30987
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: dd67f8f9-12aa-4ed9-8ecf-0875d1657cd4
+  claim_hash: 3d43c6516d8daa8a3082293be4da7398c716f6261d32dd45500941086d09da06
+  content: Claude Poher was head of scientific studies for the French equivalent of
+    NASA.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallee
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: bdf81b1d-d06b-492c-b020-d3926fc76b14
+    title: National Centre for Space Studies (CNES)
+    slug: national-centre-for-space-studies-cnes
+  - node_id: d59b3e14-cb0b-451d-9864-be08bc78133d
+    title: Claude Poher
+    slug: claude-poher
+  date: null
+  date_end: null
+  location_in_record: ch10:30902-30976
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: ca686ac8-499f-4334-bcd5-63b35bcb5044
+  claim_hash: 21ea217318857d546daf7db063f9d5d139a72d0e80f7cff39957ed8e0eeb124d
+  content: Fred Beckman, William T. Powers, Douglass Price-Williams and Ted Phillips
+    were joined by French researchers in philosopher Aimé Michel's circle, including
+    planetary astronomer Pierre Guérin, Sorbonne biologist and parapsychologist Rémy
+    Chauvin, relativist Olivier Costa de Beauregard, and aerospace expert Claude Poher
+    at the National Centre for Space Studies (CNES).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallee
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+    title: Aimé Michel
+    slug: aime-michel
+  - node_id: 7d9d2f1c-57b1-4801-97b3-fafbb1278ea9
+    title: Olivier Costa de Beauregard
+    slug: olivier-costa-de-beauregard
+  - node_id: b3a417af-0df0-46fd-b152-f6200dcc81bb
+    title: Rémy Chauvin
+    slug: remy-chauvin
+  - node_id: bdf81b1d-d06b-492c-b020-d3926fc76b14
+    title: National Centre for Space Studies (CNES)
+    slug: national-centre-for-space-studies-cnes
+  - node_id: d59b3e14-cb0b-451d-9864-be08bc78133d
+    title: Claude Poher
+    slug: claude-poher
+  - node_id: da036800-30a7-4c4d-b57a-21dca53ce073
+    title: Pierre Guérin
+    slug: pierre-guerin
+  date: null
+  date_end: null
+  location_in_record: ch7:1818-2095
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: aa8ddcfe-3eca-491e-8fd0-281f3c2246c8
+  claim_hash: 492749eac1eee86019c8dca7a106de6f4d1a2d6f8a37e9a693d40e831d4f10b7
+  content: Claude Poher was an aerospace expert at the National Centre for Space Studies
+    (CNES).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallee
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: bdf81b1d-d06b-492c-b020-d3926fc76b14
+    title: National Centre for Space Studies (CNES)
+    slug: national-centre-for-space-studies-cnes
+  - node_id: d59b3e14-cb0b-451d-9864-be08bc78133d
+    title: Claude Poher
+    slug: claude-poher
+  date: null
+  date_end: null
+  location_in_record: ch7:2058-2095
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 091e8aba-510e-4784-a7e6-d6e4604f2518
+  claim_hash: 1eb469bcb00fa05c3f56ef69deb9acffa6e321555f46e47d3b2f344f407ccd22
+  content: A 1974 photograph of some members of the Invisible College was taken in
+    Boulder, Colorado, around J. Allen Hynek, including Douglass Price-Williams, David
+    Saunders, Leo Sprinkle, Dick Henry, Jacques Vallee, J. Allen Hynek, Claude Poher,
+    and Fred Beckman.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 006b3ab1-13d0-406c-919a-ef4c0681b996
+    title: USA, Colorado, Boulder
+    slug: colorado-boulder-usa
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
+    title: the Invisible College
+    slug: the-invisible-college
+  - node_id: 2c57037a-db11-4c30-b871-4f8a98603310
+    title: 1974 photograph of the Invisible College members in Boulder, Colorado
+    slug: colorado-1974-photograph-of-the-invisible-college-members-in-boulder
+  - node_id: 32cf1aa3-de3a-4858-a7c5-aec70b89a39a
+    title: Fred Beckman
+    slug: fred-beckman
+  - node_id: 3b9ac1cc-2d03-4a0b-885f-2b3e0bd3e550
+    title: Dick Henry
+    slug: dick-henry
+  - node_id: 78757372-37ca-4745-bcfd-51c88102c351
+    title: Leo Sprinkle
+    slug: leo-sprinkle
+  - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+    slug: j-allen-hynek
+  - node_id: a0643448-eca0-4b08-9036-658daf27b1a3
+    title: Douglass Price-Williams
+    slug: douglass-price-williams
+  - node_id: d59b3e14-cb0b-451d-9864-be08bc78133d
+    title: Claude Poher
+    slug: claude-poher
+  - node_id: f1f0eba2-92c4-4a7c-9cd1-f8024d23c3df
+    title: David Saunders
+    slug: david-saunders
+  date: '1974'
+  date_end: null
+  location_in_record: ch7:2562-2837
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted

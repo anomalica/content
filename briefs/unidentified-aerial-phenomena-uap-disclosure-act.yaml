@@ -1,0 +1,778 @@
+schema: anomalica/brief/1
+brief_hash: c3e736e4b8c3335cf0920bd8f84e89a84f9a6a384798a2ac42bf51dcd34f896c
+page:
+  kind: entity
+  node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+  node_type: document
+  title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+  slug: unidentified-aerial-phenomena-uap-disclosure-act
+  claim_count: 18
+  claim_count_total: 18
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+  title: Chuck Schumer
+  node_type: person
+  slug: chuck-schumer
+  shared_claims: 4
+- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+  title: United States Congress
+  node_type: organisation
+  slug: united-states-congress
+  shared_claims: 4
+- node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+  title: Legacy Program
+  node_type: project
+  slug: legacy-program
+  shared_claims: 3
+- node_id: 30940882-37a5-4db5-980d-282dafd2df49
+  title: nonhuman intelligence (Nonhuman Intelligence (NHI))
+  node_type: topic
+  slug: nonhuman-intelligence-nonhuman-intelligence-nhi
+  shared_claims: 3
+- node_id: 64b5d145-8c58-4c80-86ba-628da6aee6ec
+  title: Mike Rounds
+  node_type: person
+  slug: mike-rounds
+  shared_claims: 2
+- node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+  title: Joe Biden
+  node_type: person
+  slug: joe-biden
+  shared_claims: 1
+- node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+  title: Kirsten Gillibrand
+  node_type: person
+  slug: kirsten-gillibrand
+  shared_claims: 1
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 1
+- node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+  title: Marco Rubio
+  node_type: person
+  slug: marco-rubio
+  shared_claims: 1
+- node_id: 98854ad7-62f2-4fb3-a75d-409d16c3a625
+  title: Mike Turner
+  node_type: person
+  slug: mike-turner
+  shared_claims: 1
+- node_id: d610b99e-0cd6-4504-a7d7-2ba324bd38aa
+  title: Mitch McConnell
+  node_type: person
+  slug: mitch-mcconnell
+  shared_claims: 1
+- node_id: ba62e949-f94e-43f1-8d23-62ff30099381
+  title: National Security Archive
+  node_type: organisation
+  slug: national-security-archive
+  shared_claims: 1
+- node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+  title: Senate Armed Services Committee
+  node_type: organisation
+  slug: senate-armed-services-committee
+  shared_claims: 1
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+- node_id: a9438ed9-456e-46b1-b314-e15a27416615
+  title: United States Senate
+  node_type: organisation
+  slug: united-states-senate
+  shared_claims: 1
+claims:
+- claim_id: 1dc36bd4-3c1a-4ea3-908e-ce508321b2b9
+  claim_hash: c6237c442a6878f46b58c979ab6fe2d0dc6431aea7f58bd257cb932861a80279
+  content: In the summer of 2023, Senate Majority Leader Chuck Schumer, Senator Mike
+    Rounds, Senator Marco Rubio, and Senator Kirsten Gillibrand sponsored the UAP
+    Disclosure Act.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+    title: Chuck Schumer
+    slug: chuck-schumer
+  - node_id: 64b5d145-8c58-4c80-86ba-628da6aee6ec
+    title: Mike Rounds
+    slug: mike-rounds
+  - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+    title: Kirsten Gillibrand
+    slug: kirsten-gillibrand
+  - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+    title: Marco Rubio
+    slug: marco-rubio
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: 2023-07
+  date_end: null
+  location_in_record: ch32:3989-4205
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 8cb34a02-ba42-4bab-9a7d-e337f4f7b622
+  claim_hash: 07da47915e2e9a50d2c463509877bcd8fba9d83b017d5f7ab0893ae612032faf
+  content: The UAP Disclosure Act shows the United States Congress is aware of the
+    Legacy Program's possession of nonhuman bodies and advanced technology not made
+    on Earth or by human beings.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+    title: Legacy Program
+    slug: legacy-program
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: null
+  date_end: null
+  location_in_record: ch32:4211-4390
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 485f26c2-e6f5-4b26-9229-a92c6ab66139
+  claim_hash: c54190edaa86794d58391c5a249bba875f016b4862a4045af26c22f03ea618ea
+  content: The UAP Disclosure Act proposed that the US government be able to exercise
+    eminent domain over biological evidence of nonhuman intelligence (NHI) and any
+    recovered technology of nonhuman origin held by any element of the government
+    or defence contractors.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+    title: nonhuman intelligence (Nonhuman Intelligence (NHI))
+    slug: nonhuman-intelligence-nonhuman-intelligence-nhi
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: null
+  date_end: null
+  location_in_record: ch32:4529-4775
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 3c6731e1-ed4e-4f61-b7ab-2ffddbb6c8e8
+  claim_hash: 27bf3c4812290f2e6d48a7a97043a2db5ea582fa51ee56cd2dd83e8c545440fb
+  content: The UAP Disclosure Act creates a review board that answers directly to
+    the president to create a roadmap for controlled disclosure to the American people.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: null
+  date_end: null
+  location_in_record: ch32:4789-4958
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 5303835b-b843-4604-96e3-61a11063937d
+  claim_hash: 2ef4ab6628fba7ef10bb9fa3572af9f27864844117dd61a3f315db52b6b1a89a
+  content: The language of the UAP Disclosure Act is a direct result of whistleblowers
+    briefing members of the United States Congress and their staff at the classified
+    level, and under oath, about nonhuman intelligence (NHI) and the Legacy Program's
+    efforts to capture, collect, and reverse-engineer nonhuman-origin vehicles and,
+    in some cases, nonhuman specimens.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+    title: nonhuman intelligence (Nonhuman Intelligence (NHI))
+    slug: nonhuman-intelligence-nonhuman-intelligence-nhi
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+    title: Legacy Program
+    slug: legacy-program
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: null
+  date_end: null
+  location_in_record: ch32:4967-5333
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 7d40db6d-8e3c-4f0a-858f-ac5da73d6ba7
+  claim_hash: 250bb7b496d0b3be1df153ebe2db1fe7ec70fd42b877be9f35971d86f0c68c15
+  content: Throughout the fall of 2023, Senate leadership requested Luis Elizondo's
+    help in clarifying facts as they sharpened the language of the UAP Disclosure
+    Act.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    slug: senate-armed-services-committee
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: '2023'
+  date_end: null
+  location_in_record: ch32:6163-6329
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 7feab3e4-6466-48be-aec8-0165a236a9f2
+  claim_hash: 67bc4abcacdacf7a904a065ca051656a8c1f164f68c463ab23c8848ce730eeea
+  content: Congressman Mike Turner fought against the UAP Disclosure Act and stopped
+    much of what the act tried to make law.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 98854ad7-62f2-4fb3-a75d-409d16c3a625
+    title: Mike Turner
+    slug: mike-turner
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: '2023'
+  date_end: null
+  location_in_record: ch32:6902-6986
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 6340b994-e401-4601-a3d1-e49044dcf716
+  claim_hash: 42ce5277e8051b6d7a32c208e2448a41d77f4393af12a62d3412c4355af8f55f
+  content: Senators Chuck Schumer and Mike Rounds fought for the UAP Disclosure Act
+    to be passed with some historic wins.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+    title: Chuck Schumer
+    slug: chuck-schumer
+  - node_id: 64b5d145-8c58-4c80-86ba-628da6aee6ec
+    title: Mike Rounds
+    slug: mike-rounds
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: 2023-12
+  date_end: null
+  location_in_record: ch32:6999-7079
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 76e8c6c2-a112-4164-9f68-cb723b8843c2
+  claim_hash: 9b5b802d09a740e416691135e8d51c156a75ba5d95cc1fe4a96c44282f01ef46
+  content: In late December 2023, President Joe Biden signed the UAP Disclosure Act
+    into law.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+    title: Joe Biden
+    slug: joe-biden
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: 2023-12
+  date_end: null
+  location_in_record: ch32:7089-7132
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: f0cc10b5-0ced-45d4-b487-b579560c7753
+  claim_hash: 8cbf76abeb46e8f9c913ae1232be5d63cf7db5258bba7cea4fee78389b1bae81
+  content: The UAP Disclosure Act pulls the funding of any activity involving UAP
+    that has not been approved by the appropriate congressional committees.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: null
+  date_end: null
+  location_in_record: ch32:7152-7258
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 817b6454-ee77-494f-8ea4-458d3476a430
+  claim_hash: 9dc7a41aeffef9f13b6d7fc207991f8f614ecacd46fa06b11281f3219be407b3
+  content: The UAP Disclosure Act makes it illegal for the Legacy Program or anyone
+    to use taxpayer money for UAP-related matters unless approved by the United States
+    Congress.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+    title: Legacy Program
+    slug: legacy-program
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: null
+  date_end: null
+  location_in_record: ch32:7282-7417
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 2dc9c087-4b56-4a6c-ae66-725119807e9c
+  claim_hash: 9be16d1037d748fb80c5b1916a908561239886cb1322fd3e81e3cb68f0372554
+  content: The UAP Disclosure Act directs the National Archives to collect government
+    documents about unidentified anomalous phenomena, technologies of unknown origin,
+    and nonhuman intelligence (NHI).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+    title: nonhuman intelligence (Nonhuman Intelligence (NHI))
+    slug: nonhuman-intelligence-nonhuman-intelligence-nhi
+  - node_id: ba62e949-f94e-43f1-8d23-62ff30099381
+    title: National Security Archive
+    slug: national-security-archive
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: null
+  date_end: null
+  location_in_record: ch32:7492-7657
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 66c65384-1288-4b82-92ac-2ab177a2ba9a
+  claim_hash: 9ba8d9b014e5eb1e706744149f7d0f0adc7f6acce123568bfae0ce568de77e97
+  content: The UAP Disclosure Act requires any UAP-related records not already disclosed
+    to be made public within twenty-five years of their creation, unless the president
+    determines they must remain classified for national security reasons.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: null
+  date_end: null
+  location_in_record: ch32:7672-7896
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 5095999d-d448-4b11-8605-31b6c4aa7053
+  claim_hash: d3c3a1dd3ec2fecfd4338251a6096a7f89fae2948d0cff7404e48856105ea62a
+  content: The proposal for a presidential review board in the UAP Disclosure Act
+    was removed before the act was passed.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: 2023-12
+  date_end: null
+  location_in_record: ch32:7905-7958
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: a659a8ca-9c90-4023-8586-e6d646818d56
+  claim_hash: 809aeadf15977679bc34be938df5ad844e0b59485898381442ef01ce333001fe
+  content: Chuck Schumer said it is an outrage the House did not work with the Senate
+    on adopting the proposal for a review board, meaning declassification of UAP records
+    will largely be up to the same entities that have blocked and obfuscated their
+    disclosure for decades.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+    title: Chuck Schumer
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chuck Schumer
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+    title: Chuck Schumer
+    slug: chuck-schumer
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: 2023-12
+  date_end: null
+  location_in_record: ch32:8005-8244
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: c850b26b-8936-4a1d-a2ee-16a4efd85b05
+  claim_hash: f7ca25a416656196b049d0780703e825b7a55c4f927fa2e425bf51cbd54650e1
+  content: Chuck Schumer continues to push for the passage of the UAP Disclosure Act,
+    which would require declassification of government-held UAP related documents,
+    similar to the JFK files.
+  original_excerpt: Senator Chuck Schumer continues to push for the passage of the
+    UAP Disclosure Act, which would require the declassification of government held
+    UAP related documents, much like they did with the JFK files.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+    title: Chuck Schumer
+    slug: chuck-schumer
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: null
+  date_end: null
+  location_in_record: 00:02:38.3-00:02:50.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: cba0d55b-adea-411f-9937-fa491d3a2c35
+    record_title: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
+    record_date: '2024-09-13'
+    record_reference: https://www.youtube.com/watch?v=YtfMhIbdc98
+    content_hash: sha256:64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff45095cfc
+    friendly_name: null
+- claim_id: ed3655e8-3359-45d6-840a-2333bcd2e474
+  claim_hash: 1ba159d49d59fccba9078070a08d88d6aa439c4b6a4b5c89eee18e2a97ebd3f1
+  content: The UAP Disclosure Act was pushed back again, this time by Senator Mitch
+    McConnell.
+  original_excerpt: We also found out recently that the UAP Disclosure Act had been
+    pushed back yet again, this time by Senator Mitch McConnell.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: a9438ed9-456e-46b1-b314-e15a27416615
+    title: United States Senate
+    slug: united-states-senate
+  - node_id: d610b99e-0cd6-4504-a7d7-2ba324bd38aa
+    title: Mitch McConnell
+    slug: mitch-mcconnell
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: '2024'
+  date_end: null
+  location_in_record: 00:19:59.4-00:20:07.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+    record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+    record_date: '2024-10-02'
+    record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+    content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+    friendly_name: null
+- claim_id: cbbc563e-ca4d-48b6-a994-2c0377490b73
+  claim_hash: c079bc2e62d319566b09691d35f82ee0ec02c4a94c321e749b30830a6dc0d444
+  content: If passed, the UAP Disclosure Act would allow investigation and disclosure
+    of past UAP events to the public, similar to the release of the JFK assassination
+    records.
+  original_excerpt: this disclosure act if passed would mean that we can look into
+    past uap events and disclose them to the public much like they would with the
+    jfk assassination
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+  date: '2024'
+  date_end: null
+  location_in_record: 00:20:08.6-00:20:18.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+    record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+    record_date: '2024-10-02'
+    record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+    content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+    friendly_name: null

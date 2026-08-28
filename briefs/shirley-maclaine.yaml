@@ -1,0 +1,365 @@
+schema: anomalica/brief/1
+brief_hash: 3337d9589ee0e7186a350ac0e311f7866a4e7fef536bd7ad40af6d344df75702
+page:
+  kind: entity
+  node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+  node_type: person
+  title: Shirley MacLaine
+  slug: shirley-maclaine
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 62136055-e8e7-4269-b624-9cee709b51cf
+  title: Going Within
+  node_type: document
+  slug: going-within
+  shared_claims: 4
+- node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+  title: USA, District of Columbia, Washington
+  node_type: place
+  slug: district-of-columbia-washington-usa
+  shared_claims: 4
+- node_id: 86d529a9-c010-4226-9d3a-a0736144ceec
+  title: Claiborne Pell
+  node_type: person
+  slug: claiborne-pell
+  shared_claims: 2
+- node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+  title: Anne Strieber
+  node_type: person
+  slug: anne-strieber
+  shared_claims: 1
+- node_id: 035d430f-e166-402a-9c79-0c085a20a611
+  title: Bolivia, Santa Cruz
+  node_type: place
+  slug: santa-cruz-bolivia
+  shared_claims: 1
+- node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+  title: Budd Hopkins
+  node_type: person
+  slug: budd-hopkins
+  shared_claims: 1
+- node_id: 1b706134-940a-4110-809b-ae3c42dcc2f4
+  title: Hans-Adam II
+  node_type: person
+  slug: hans-adam-ii
+  shared_claims: 1
+- node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+  title: USA, California, Los Angeles
+  node_type: place
+  slug: california-los-angeles-usa
+  shared_claims: 1
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 1
+- node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+  title: alien abduction
+  node_type: topic
+  slug: alien-abduction
+  shared_claims: 1
+- node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+  title: human-alien hybridization
+  node_type: topic
+  slug: human-alien-hybridization
+  shared_claims: 1
+claims:
+- claim_id: acafea30-aa20-4779-96a1-8b060048b940
+  claim_hash: 7124a022a11ee37005ab291cbde5b0102ed76b10de18af8f2c254df3d58e8737
+  content: Whitley Strieber recalls sitting on the deck of a Malibu oceanside restaurant
+    with Anne Strieber and Shirley MacLaine, listening to them discuss conflict between
+    the dark and the light.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 035d430f-e166-402a-9c79-0c085a20a611
+    title: Bolivia, Santa Cruz
+    slug: santa-cruz-bolivia
+  - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+    title: Anne Strieber
+    slug: anne-strieber
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+    title: Shirley MacLaine
+    slug: shirley-maclaine
+  date: null
+  date_end: null
+  location_in_record: ch17:4639-4809
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: be4b5b6b-918b-47ff-affb-6d80afe4a6c9
+  claim_hash: b25cfb2059cd0f4f6fb10c98b3652b44089016c99773ff1af8aa82b491083c34
+  content: Shirley MacLaine considered the light an intrusion into the peace of the
+    dark, which she said wanted to hasten entropy by spreading chaos of all kinds
+    in human life.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: named
+    origin: Shirley MacLaine
+    relay:
+    - Whitley Strieber
+  attribution_mode: unknown
+  node_refs:
+  - node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+    title: Shirley MacLaine
+    slug: shirley-maclaine
+  date: null
+  date_end: null
+  location_in_record: ch17:4849-5027
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 790b17fc-9209-4414-96d8-029244a730f1
+  claim_hash: c58882008f34d803744e80b94a112474c6211855ce9a66ea00b3d5de6556f299
+  content: Shirley MacLaine is a famous actor based in Los Angeles and a spiritual,
+    new-age but thoughtful figure, in Jesse Michels's characterisation.
+  original_excerpt: this book by Shirley MacLaine, this famous actor out here in LA.
+    She's this very spiritual figure, kind of new agey, but really thoughtful as well.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michels
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+    title: USA, California, Los Angeles
+    slug: california-los-angeles-usa
+  - node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+    title: Shirley MacLaine
+    slug: shirley-maclaine
+  date: null
+  date_end: null
+  location_in_record: 02:00:48.7-02:01:00.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 9b3d708c-f50a-4ef6-b3de-e048d7203187
+  claim_hash: b7b499ae9e45c9e492f209edab989b9189d5d8bf29b4278d7c9e9ec346df8baa
+  content: In her book Going Within, Shirley MacLaine describes being in a government
+    office in Washington DC with Claiborne Pell.
+  original_excerpt: she was writing about being in some government office in DC, and
+    she's with Claiborne Pell.
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: document
+    origin: Going Within by Shirley MacLaine
+    relay:
+    - Jesse Michels's girlfriend
+    - Jesse Michels
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
+    title: Going Within
+    slug: going-within
+  - node_id: 86d529a9-c010-4226-9d3a-a0736144ceec
+    title: Claiborne Pell
+    slug: claiborne-pell
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+    title: Shirley MacLaine
+    slug: shirley-maclaine
+  date: null
+  date_end: null
+  location_in_record: 02:01:06.5-02:01:13.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: c0cdc7ac-ec66-4824-9754-1dda596628ef
+  claim_hash: 3f8921568f524b099eff75290ab8c90363af144211325357e4173922b487b19c
+  content: Budd Hopkins was present at the Washington DC meeting described by Shirley
+    MacLaine in Going Within.
+  original_excerpt: Senator Pell and the Budd Hopkins is there as well.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: document
+    origin: Going Within by Shirley MacLaine
+    relay:
+    - Jesse Michels
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
+    title: Going Within
+    slug: going-within
+  - node_id: 86d529a9-c010-4226-9d3a-a0736144ceec
+    title: Claiborne Pell
+    slug: claiborne-pell
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+    title: Budd Hopkins
+    slug: budd-hopkins
+  - node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+    title: Shirley MacLaine
+    slug: shirley-maclaine
+  date: null
+  date_end: null
+  location_in_record: 02:01:26.6-02:01:31.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: ef4a09d0-8187-4dd0-844f-8cb32c0bd023
+  claim_hash: fb9fa3191a43816fc01b339ed326ab9cbca3429ba7c30b48e64e1cf447efc93a
+  content: An experiencer present at the Washington DC meeting described in Shirley
+    MacLaine's Going Within claimed she was part of an alien hybrid programme and
+    that her foetus went missing three months into the pregnancy, according to Jesse
+    Michels.
+  original_excerpt: And I think has an experiencer there who she claims that like
+    she was, you know, there was part of some alien hybrid program or whatever. And
+    her fetus went missing three months in.
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be an alien abduction experiencer
+    relay:
+    - Going Within by Shirley MacLaine
+    - Jesse Michels
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+    title: human-alien hybridization
+    slug: human-alien-hybridization
+  - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
+    title: Going Within
+    slug: going-within
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: alien abduction
+    slug: alien-abduction
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+    title: Shirley MacLaine
+    slug: shirley-maclaine
+  date: null
+  date_end: null
+  location_in_record: 02:01:31.6-02:01:41.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 043c6f2a-dd3b-42bc-baab-0c09a657a666
+  claim_hash: d72b658889548f589d1486b23e9f74efd0ee1229fdb5bd17ff92907b5ef55a11
+  content: Hans-Adam II, the Prince of Liechtenstein, was present at the Washington
+    DC meeting described in Shirley MacLaine's Going Within.
+  original_excerpt: and then the Royal Prince of Lichtenstein is there as well. And
+    she's just writing about this casually
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: document
+    origin: Going Within by Shirley MacLaine
+    relay:
+    - Jesse Michels
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1b706134-940a-4110-809b-ae3c42dcc2f4
+    title: Hans-Adam II
+    slug: hans-adam-ii
+  - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
+    title: Going Within
+    slug: going-within
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+    title: Shirley MacLaine
+    slug: shirley-maclaine
+  date: null
+  date_end: null
+  location_in_record: 02:01:48.8-02:01:52.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

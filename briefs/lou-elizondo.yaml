@@ -1,0 +1,14 @@
+schema: anomalica/brief/1
+brief_hash: 0485919d8f69a16f0de15907307283a80bd236b1398d778cbc716d916e60c5c4
+page:
+  kind: entity
+  node_id: 43b7bda1-9879-42a5-91ae-4e7ab87f120c
+  node_type: person
+  title: Lou Elizondo
+  slug: lou-elizondo
+  claim_count: 0
+  claim_count_total: 0
+generated:
+  graph_version: '2026-08-19T15:02:21.942378+00:00'
+related_nodes: []
+claims: []

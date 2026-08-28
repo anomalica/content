@@ -1,0 +1,458 @@
+schema: anomalica/brief/1
+brief_hash: 70e0ad5fef0e19986147e1e6b52255e97cab5f9843aa9ef32eb659e7bd2e4266
+page:
+  kind: entity
+  node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+  node_type: organisation
+  title: United States Atomic Energy Commission
+  slug: united-states-atomic-energy-commission
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+  title: Harry S. Truman
+  node_type: person
+  slug: harry-s-truman
+  shared_claims: 2
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 1
+- node_id: e764620e-fd8c-48ec-87c3-f95cd7a5cbf3
+  title: Blair House meeting of 1949-07-14
+  node_type: event
+  slug: blair-house-meeting-of-1949-07-14
+  shared_claims: 1
+- node_id: f4ac4a3a-893b-40ef-a8f4-3b9c16695d62
+  title: David Lilienthal
+  node_type: person
+  slug: david-lilienthal
+  shared_claims: 1
+- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+  title: Eric Davis
+  node_type: person
+  slug: eric-davis
+  shared_claims: 1
+- node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+  title: J. Robert Oppenheimer
+  node_type: person
+  slug: j-robert-oppenheimer
+  shared_claims: 1
+- node_id: 8f7f2a6e-3af3-4ff9-abc0-d3d868958f00
+  title: Joint Research and Development Board
+  node_type: organisation
+  slug: joint-research-and-development-board
+  shared_claims: 1
+- node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+  title: Jonathan Caplan
+  node_type: person
+  slug: jonathan-caplan
+  shared_claims: 1
+- node_id: 93df8d48-8068-409a-a198-27e923af6cde
+  title: Majestic 12 (MJ-12)
+  node_type: project
+  slug: majestic-12-mj-12
+  shared_claims: 1
+- node_id: b612d415-9e40-4e28-ac70-54f1ade35c47
+  title: Presidential Emergency Action Documents (PEADs)
+  node_type: document
+  slug: presidential-emergency-action-documents-peads
+  shared_claims: 1
+- node_id: ca94539f-f05b-49b1-a87a-1d87583f0374
+  title: T. Keith Glennan
+  node_type: person
+  slug: t-keith-glennan
+  shared_claims: 1
+- node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+  title: USA, District of Columbia, Washington
+  node_type: place
+  slug: district-of-columbia-washington-usa
+  shared_claims: 1
+- node_id: 5ae3af33-c204-4a42-bfbd-a63f2de3a4df
+  title: USA, Nevada, Frenchman's Flat
+  node_type: place
+  slug: nevada-frenchmans-flat-usa
+  shared_claims: 1
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 1
+- node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+  title: Vannevar Bush
+  node_type: person
+  slug: vannevar-bush
+  shared_claims: 1
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 1
+claims:
+- claim_id: 0002e733-638b-40b7-ad30-226d289de300
+  claim_hash: e7265b3d5400d695ebb9e17e119b09694f8f4ae9bffa09b5067c67d9fa69e7be
+  content: The GTE Sylvania manager was on loan to the Atomic Energy Commission at
+    Frenchman's Flat, Nevada, assessing damage to bridges and buildings subjected
+    to atomic bomb tests from towers and parachutes at different heights.
+  original_excerpt: he was on loan to the Atomic Energy Commission out at Frenchman's
+    Flats, Nevada at the time. and he was assessing damage done to bridges and different
+    types of buildings that were subjected to atomic bomb tests from different heights.
+    There'd be atomic bombs on towers and parachutes and so forth.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be a GTE Sylvania manager with top-secret clearance
+      who worked as a civilian for the Air Force in 1953
+    relay:
+    - told Raymond Fowler directly
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ae3af33-c204-4a42-bfbd-a63f2de3a4df
+    title: USA, Nevada, Frenchman's Flat
+    slug: nevada-frenchmans-flat-usa
+  - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+    title: United States Atomic Energy Commission
+    slug: united-states-atomic-energy-commission
+  date: null
+  date_end: null
+  location_in_record: 00:36:45.0-00:37:02.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 59929c6d-4fc8-4a06-ac56-0ce76c3401e4
+  claim_hash: 22dc2d2467cb1a1cf1dd5329163d1a42031eae7c15dcda41c2a34fee887d92c8
+  content: T. Keith Glennan was a former member of the Atomic Energy Commission with
+    the highest level security clearances.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+    title: United States Atomic Energy Commission
+    slug: united-states-atomic-energy-commission
+  - node_id: ca94539f-f05b-49b1-a87a-1d87583f0374
+    title: T. Keith Glennan
+    slug: t-keith-glennan
+  date: null
+  date_end: null
+  location_in_record: ch12:112254-112339
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 9c47ce30-b15e-4d0e-ad48-6ddefc27335d
+  claim_hash: 9dfc5a70cf4fa5dd47d73143dea7223357170c353e03cf60d5dada3c7ab39e64
+  content: In July 1952, two pilots witnessed a flat and round flying saucer-shaped
+    object hovering over the Atomic Energy Commission's Hanford nuclear bomb factory
+    in Richland, Washington.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: two unnamed pilots
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+    title: United States Atomic Energy Commission
+    slug: united-states-atomic-energy-commission
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: 1952-07
+  date_end: null
+  location_in_record: ch8:15524-15636
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 53713bdb-ece7-45d3-a75f-48cae69e6972
+  claim_hash: 9ba71012f34c5c72422ee4047a25d62835800a567395922de76642c3793e61d8
+  content: J. Robert Oppenheimer served as chairman of the Atomic Energy Commission.
+  original_excerpt: Oppenheimer was actually a key figure and served as chairman of
+    the Atomic Energy Commission.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+    title: United States Atomic Energy Commission
+    slug: united-states-atomic-energy-commission
+  date: null
+  date_end: null
+  location_in_record: 00:09:57.8-00:10:02.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 19775d2f-267b-4e4d-a0e8-8ddc3db6728f
+  claim_hash: 19b14451a14288aedfeb7b39e22575a3ece76adf9727842a486ade924aeceda6
+  content: Jonathan Caplan has examined the diaries of the head of the United States
+    Atomic Energy Commission and found they corroborate the Majestic 12 documents.
+  original_excerpt: I've looked at the diaries of the head of the Atomic Energy Commission,
+    and it just does knit together.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jonathan Caplan
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+    title: United States Atomic Energy Commission
+    slug: united-states-atomic-energy-commission
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    slug: majestic-12-mj-12
+  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+    slug: jonathan-caplan
+  date: null
+  date_end: null
+  location_in_record: 00:20:32.1-00:20:41.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: 55e6e27c-cb56-415d-a2dc-4b450ae1ebb4
+  claim_hash: fff539752c3825c6619decde079252908d60f71d63fe7195cb474270d8b773d9
+  content: David Lilienthal was chairman of the United States Atomic Energy Commission
+    and was present at the Blair House meeting of 14 July 1949.
+  original_excerpt: That was a meeting held in... July 1949, and one of the people
+    that was present there was the chairman of the Atomic Energy Commission, David
+    Lilienthal.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jonathan Caplan
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+    title: United States Atomic Energy Commission
+    slug: united-states-atomic-energy-commission
+  - node_id: e764620e-fd8c-48ec-87c3-f95cd7a5cbf3
+    title: Blair House meeting of 1949-07-14
+    slug: blair-house-meeting-of-1949-07-14
+  - node_id: f4ac4a3a-893b-40ef-a8f4-3b9c16695d62
+    title: David Lilienthal
+    slug: david-lilienthal
+  date: '1949-07-14'
+  date_end: null
+  location_in_record: 00:24:37.6-00:24:53.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: aba985af-7ac6-4601-8b1c-24495a9218df
+  claim_hash: e2ace5a091f06ec4fa596bfcf174842d74b68e532186dfc700befd3d9c6763d9
+  content: In 1948, President Harry Truman is alleged to have established classified
+    presidential executive orders, referred to by Eric Davis as Presidential Emergency
+    Action Documents (PEADs), that relegated custody of recovered disks to Atomic
+    Energy Commission National Lab Control to be studied under Vannevar Bush's Joint
+    Research and Development Board and its successor, the Research and Development
+    Board.
+  original_excerpt: there are serious credible allegations that within the late 40s,
+    1948, to be specific, President Harry Truman established classified presidential
+    executive orders, also referred to by your colleague, Dr. Eric Davis, as PEADS,
+    presidential emergency action documents, that relegated custody of recovered disks
+    to Atomic Energy Commission National Lab Control to be studied under Vannevar
+    Bush, his soon to be Joint Research and Development Board and then Research and
+    Development Board
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+    title: UAP Gerb
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unnamed allegations
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    slug: vannevar-bush
+  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+    title: Harry S. Truman
+    slug: harry-s-truman
+  - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+    title: United States Atomic Energy Commission
+    slug: united-states-atomic-energy-commission
+  - node_id: 8f7f2a6e-3af3-4ff9-abc0-d3d868958f00
+    title: Joint Research and Development Board
+    slug: joint-research-and-development-board
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: b612d415-9e40-4e28-ac70-54f1ade35c47
+    title: Presidential Emergency Action Documents (PEADs)
+    slug: presidential-emergency-action-documents-peads
+  date: '1948'
+  date_end: null
+  location_in_record: 00:56:53.3-00:57:19.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: 33a819dc-587d-454b-9e28-bffa996c2794
+  claim_hash: 80faaaab99018809634fae39238babd01d9dcd9fecaf7e1a962b50b3d694e655
+  content: UAP Gerb considers the allegation that President Harry Truman established
+    classified 1948 presidential executive orders relegating recovered disks to Atomic
+    Energy Commission National Lab Control factually correct.
+  original_excerpt: And I do think that is factually correct.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+    title: UAP Gerb
+  provenance_chain:
+    origin_kind: speaker
+    origin: UAP Gerb
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+    title: Harry S. Truman
+    slug: harry-s-truman
+  - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+    title: United States Atomic Energy Commission
+    slug: united-states-atomic-energy-commission
+  date: null
+  date_end: null
+  location_in_record: 00:57:20.0-00:57:22.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: 7f1360df-e157-4093-b663-6ebc4eb0bc78
+  claim_hash: 9510ac4111b3de925507c22599cc17d7f8e53f8f530f7e6a8310e4d90e18b3fb
+  content: Whitley Strieber's uncle was detailed to the Atomic Energy Commission for
+    the rest of his career in the United States Air Force and was an intelligence
+    officer of some kind.
+  original_excerpt: And then had been detailed to the Atomic Energy Commission for
+    the rest of his life in the Air Force. And he was an intelligence officer of some
+    kind.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+    title: United States Atomic Energy Commission
+    slug: united-states-atomic-energy-commission
+  date: null
+  date_end: null
+  location_in_record: 00:39:17.5-00:39:25.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
+      | Reality Check Rewind
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+    friendly_name: null

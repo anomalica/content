@@ -1,0 +1,617 @@
+schema: anomalica/brief/1
+brief_hash: 8f600646c2d94e053ba56341e7a3d8849e220fce3473f1d0b04820e4c5fd8a62
+page:
+  kind: entity
+  node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+  node_type: person
+  title: William Perry
+  slug: william-perry
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+  title: Thomas Wilson
+  node_type: person
+  slug: thomas-wilson
+  shared_claims: 8
+- node_id: e7f3d6ad-d005-4f5c-b8ea-4c8b8ec47bc3
+  title: Michael Kostelnik
+  node_type: person
+  slug: michael-kostelnik
+  shared_claims: 4
+- node_id: dd3dc1d6-39d0-4811-839d-8c0fd4d819fb
+  title: Paul Kaminski
+  node_type: person
+  slug: paul-kaminski
+  shared_claims: 3
+- node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+  title: Peter Khoury
+  node_type: person
+  slug: peter-khoury
+  shared_claims: 2
+- node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+  title: The Admiral Wilson Memo
+  node_type: document
+  slug: the-admiral-wilson-memo
+  shared_claims: 2
+- node_id: 441b178f-e664-4843-8f83-eafdf3c16d97
+  title: Marshal Ward
+  node_type: person
+  slug: marshal-ward
+  shared_claims: 1
+- node_id: f522e4cc-76e6-4d35-942a-d13c0b7a57e6
+  title: Office of the Under Secretary of Defense for Acquisition, Technology and
+    Logistics (OUSDAT)
+  node_type: organisation
+  slug: technology-and-logistics-ousdat-office-of-the-under-secretary-of-defense-for-acquisition
+  shared_claims: 1
+- node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
+  title: Reverse-engineering program of recovered technological hardware (unnamed
+    Special Access Program (SAP))
+  node_type: project
+  slug: reverse-engineering-program-of-recovered-technological-hardware-unnamed-special-access-program-sap
+  shared_claims: 1
+- node_id: f0beb736-433e-441a-a999-a4a12fb06881
+  title: Skeptics Association (Australia)
+  node_type: organisation
+  slug: skeptics-association-australia
+  shared_claims: 1
+- node_id: 6dc9d57e-784d-4528-b532-4a533d16782a
+  title: Special Access Program Oversight Committee
+  node_type: organisation
+  slug: special-access-program-oversight-committee
+  shared_claims: 1
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 1
+- node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+  title: alien abduction
+  node_type: topic
+  slug: alien-abduction
+  shared_claims: 1
+claims:
+- claim_id: 68c7a6ae-e100-4ba4-a871-8a208015dfbe
+  claim_hash: 86206e5fc87adde3348cfecb2ab913a52cf199cba5b99329dd86510ff61b5dec
+  content: Thomas Wilson ran into William Perry in May 1997 and discussed the matter
+    quietly, and Perry suggested the same approach as General M. Ward.
+  original_excerpt: Ran into Bill Perry in May '97 - talked about this quietly - he
+    suggested the same thing
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+    title: William Perry
+    slug: william-perry
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  date: 1997-05
+  date_end: null
+  location_in_record: char:11578-11661
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 6b81ff82-0030-43b5-bb9d-87ba44604433
+  claim_hash: 0c0758bb69380ab8f8d1e13dec246f7c4b8e207c07345eb64e03989460de5a80
+  content: Thomas Wilson was told of a special projects record group that did not
+    belong to the usual Special Access Programs (SAP), being a special subset of unacknowledged,
+    carve-out, and waived programmes not belonging to the usual SAP divisions organised
+    in 1994 by William Perry, set apart from and buried or covered by conventional
+    SAPs.
+  original_excerpt: They told me of a special projects record group not belonging
+    to usual SAP - a special subset of the unacknowledged/carve-outs/waived programs
+    - not belonging to usual SAP divisions as organized in '94 by Perry himself -
+    set apart from rest but buried/covered by conventional SAPs
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+    title: William Perry
+    slug: william-perry
+  - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
+    title: Reverse-engineering program of recovered technological hardware (unnamed
+      Special Access Program (SAP))
+    slug: reverse-engineering-program-of-recovered-technological-hardware-unnamed-special-access-program-sap
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  date: '1994'
+  date_end: null
+  location_in_record: char:11669-11945
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: a8d5ff50-17ee-4bf9-8ad8-fc4559ef64be
+  claim_hash: 161bdd54a12525eb4fd81dc091b1149f9b2d343d1596abd99c1526408fd6d745
+  content: Michael Kostelnik was director of special programmes in the Office of the
+    Under Secretary of Defense for Acquisition, Technology and Logistics (OUSDAT),
+    as reorganised by William Perry in 1994.
+  original_excerpt: In Paul's office (OUSDAT) - dir. of special programs in OUSDAT
+    (Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics)
+    as organized (re-organized) by Perry in '94
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+    title: William Perry
+    slug: william-perry
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: e7f3d6ad-d005-4f5c-b8ea-4c8b8ec47bc3
+    title: Michael Kostelnik
+    slug: michael-kostelnik
+  - node_id: f522e4cc-76e6-4d35-942a-d13c0b7a57e6
+    title: Office of the Under Secretary of Defense for Acquisition, Technology and
+      Logistics (OUSDAT)
+    slug: technology-and-logistics-ousdat-office-of-the-under-secretary-of-defense-for-acquisition
+  date: '1994'
+  date_end: null
+  location_in_record: char:12087-12277
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: b96a9a92-b893-4903-a0f3-9db8fcfca529
+  claim_hash: 485027bb283fe87ed788fb4253f29918d83805b5b5e39ccac6ed0edc6ea9ff85
+  content: Michael Kostelnik told Thomas Wilson the programme's security budget was
+    typically two to three times the programme budget, but at times went as high as
+    six to seven times the core budget, which Kostelnik thought was absurdly high;
+    William Perry wanted an investigation into that but was told to drop it.
+  original_excerpt: Talked to Mike who said it was like 2-3 times the program budget,
+    but there were times when it went as high as 6-7 times core budget, thought it
+    was absurdly high, said Perry wanted investigation on that but was told to drop
+    it.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: named
+    origin: Michael Kostelnik
+    relay:
+    - Michael Kostelnik's account to Thomas Wilson
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+    title: William Perry
+    slug: william-perry
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: e7f3d6ad-d005-4f5c-b8ea-4c8b8ec47bc3
+    title: Michael Kostelnik
+    slug: michael-kostelnik
+  date: null
+  date_end: null
+  location_in_record: char:12879-13104
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 378c4c64-b883-478d-8589-4b921c78dba8
+  claim_hash: d001031a62c3963f4839a1e83b0476c2fd6fadd5558e9ea2699e82e4ab05a086
+  content: William Perry ordered the security budget reporting issues to be reorganised
+    and straightened out to improve audit transparency.
+  original_excerpt: 'TW: Perry ordered all these issues to be reorganized and straightened
+    out to improve audit transparency.'
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+    title: William Perry
+    slug: william-perry
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  date: null
+  date_end: null
+  location_in_record: char:13754-13841
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: f9736829-e823-4c7b-a7e3-5958371fd07a
+  claim_hash: 53ecf9ae6d3fe336a75a6b85f5c09c1e8ff90358cc304f419338e6ad787d8f5a
+  content: Thomas Wilson made several calls at the end of May 1997, first to Paul
+    Kaminski, Michael Kostelnik and William Perry, to confirm he had the right contractor
+    and programme manager to talk to, and they confirmed it.
+  original_excerpt: 'TW: I made several calls (end of May ''97), first to Paul, Mike
+    & Perry to confirm I had right contractor and program manager to talk to.
+
+
+    EWD: They confirm?
+
+
+    TW: Yes.'
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+    title: William Perry
+    slug: william-perry
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: dd3dc1d6-39d0-4811-839d-8c0fd4d819fb
+    title: Paul Kaminski
+    slug: paul-kaminski
+  - node_id: e7f3d6ad-d005-4f5c-b8ea-4c8b8ec47bc3
+    title: Michael Kostelnik
+    slug: michael-kostelnik
+  date: 1997-05
+  date_end: null
+  location_in_record: char:14381-14539
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: 2cfc9df5-134f-459d-8895-36e57b5660a3
+  claim_hash: e9cce0a7c735256dca591476d02e2c6562169faa60ff75393e4903db9cc6103e
+  content: The programme manager asked Thomas Wilson who he had talked to before calling
+    them, and was unhappy with his answer, but Wilson did not tell them he had talked
+    to William Perry and Paul Kaminski.
+  original_excerpt: 'TW: Yes! Asked who I talked to before I called them so I told
+    them and they weren''t happy with that answer.
+
+    ...
+
+    TW: Oh, no! I didn''t tell them I talked to those guys!'
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Thomas Wilson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+    title: William Perry
+    slug: william-perry
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: dd3dc1d6-39d0-4811-839d-8c0fd4d819fb
+    title: Paul Kaminski
+    slug: paul-kaminski
+  date: null
+  date_end: null
+  location_in_record: char:15351-15545
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: b60643c4-f1a0-42d9-9eb4-4770bce10585
+  claim_hash: bbb5f97b1a3891fcd734725de8ca7771f445ab855c82d963e94a9a3e5d09564b
+  content: The Admiral Wilson memo named Department of Defence Major General Marshal
+    Ward and William Perry, a former Secretary of Defence, as having told Tom Wilson
+    he should examine files in the Office of the Under Secretary of Defence for Acquisition
+    and Technology.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Admiral Wilson Memo (EWD Notes)
+    relay:
+    - Eric Davis
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+    title: William Perry
+    slug: william-perry
+  - node_id: 441b178f-e664-4843-8f83-eafdf3c16d97
+    title: Marshal Ward
+    slug: marshal-ward
+  - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+    title: The Admiral Wilson Memo
+    slug: the-admiral-wilson-memo
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  date: null
+  date_end: null
+  location_in_record: ch26:13574-13804
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 56fcbb7e-48a2-47eb-a05c-37051064bd8b
+  claim_hash: 1272e92192ecc340e3777451b60e1aa70bdf6956a9055c5e1fee6ca33f3ef62d
+  content: The memo names the three people Tom Wilson confirmed the Program's contractor
+    with as Paul Kaminski, Director of Special Programs in the Office of the Under
+    Secretary of Defence for Acquisition, Technology and Logistics; Mike Kostelnik,
+    Director of the Special Access Programs Coordination Office and executive secretary
+    for the SAP Oversight Committee; and former Defence Secretary William Perry.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Admiral Wilson Memo (EWD Notes)
+    relay:
+    - Eric Davis
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+    title: William Perry
+    slug: william-perry
+  - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+    title: The Admiral Wilson Memo
+    slug: the-admiral-wilson-memo
+  - node_id: 6dc9d57e-784d-4528-b532-4a533d16782a
+    title: Special Access Program Oversight Committee
+    slug: special-access-program-oversight-committee
+  - node_id: dd3dc1d6-39d0-4811-839d-8c0fd4d819fb
+    title: Paul Kaminski
+    slug: paul-kaminski
+  - node_id: e7f3d6ad-d005-4f5c-b8ea-4c8b8ec47bc3
+    title: Michael Kostelnik
+    slug: michael-kostelnik
+  date: null
+  date_end: null
+  location_in_record: ch26:15339-15691
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9cddb9ef-8588-41bc-b546-e70fceda2634
+  claim_hash: c7323ac40473f29a0a4ab5354349e89bcd656d2bf53669a7ff2a7290c91eb883
+  content: Barry Williams was the president of the Skeptics Association (Australia).
+  original_excerpt: Barry Williams, who was the president of the skeptics association.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+  provenance_chain:
+    origin_kind: speaker
+    origin: Peter Khoury
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+    title: William Perry
+    slug: william-perry
+  - node_id: f0beb736-433e-441a-a999-a4a12fb06881
+    title: Skeptics Association (Australia)
+    slug: skeptics-association-australia
+  date: null
+  date_end: null
+  location_in_record: 01:38:20.2-01:38:22.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+    record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury
+      - DEBRIEFED ep. 58
+    record_date: '2025-10-17'
+    record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+    content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+    friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+- claim_id: 6a03a8a6-24de-4276-9ae6-43629105e467
+  claim_hash: f5b9639fb04aee0bf4c2936f64a46737c96005598253e14da293101bf34ab3df
+  content: Barry Williams stated in a lecture that alien abductions involving female
+    witnesses are attributable to the menstrual cycle.
+  original_excerpt: he's another one that made a comment that, um, uh, alien abductions
+    with females happens due to the menstrual cycle.
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+  provenance_chain:
+    origin_kind: named
+    origin: Barry Williams
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+    title: William Perry
+    slug: william-perry
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: alien abduction
+    slug: alien-abduction
+  date: null
+  date_end: null
+  location_in_record: 01:38:25.3-01:38:32.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+    record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury
+      - DEBRIEFED ep. 58
+    record_date: '2025-10-17'
+    record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+    content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+    friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+- claim_id: 00820ce7-e549-44fc-8978-d12237ae5c5e
+  claim_hash: 4326b2834639670147f034a23b0c5764bfefac4ca60784bbfb0303f0ae832ee2
+  content: During the lecture, Peter Khoury stood up and challenged Barry Williams
+    to explain how his menstrual-cycle explanation accounted for male alien abduction
+    witnesses, and Barry Williams responded by asserting control of the lecture and
+    telling Peter Khoury to sit down.
+  original_excerpt: So I stood up and said, but how do you explain men? And he's like,
+    this is my lecture, my talk, you sit down, you know, he attacked the hell out
+    of me.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+  provenance_chain:
+    origin_kind: speaker
+    origin: Peter Khoury
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+    title: William Perry
+    slug: william-perry
+  - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+    slug: peter-khoury
+  date: null
+  date_end: null
+  location_in_record: 01:38:52.7-01:38:59.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+    record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury
+      - DEBRIEFED ep. 58
+    record_date: '2025-10-17'
+    record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+    content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+    friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+- claim_id: 0607487e-9e5c-483d-9db9-a8799288bbd2
+  claim_hash: d764801660e48211112cc90721f584ca7cdb5b873771eaa8b31705a7fe51ef7b
+  content: Peter Khoury told Barry Williams that he was giving him permission to examine
+    and try to destroy his case, and told him he could not do it.
+  original_excerpt: And I said, Barry, take on my case and destroy it. I'm giving
+    you permission, destroy it if you can. I go, but you know, you can't.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+  provenance_chain:
+    origin_kind: speaker
+    origin: Peter Khoury
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+    title: William Perry
+    slug: william-perry
+  - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+    slug: peter-khoury
+  date: null
+  date_end: null
+  location_in_record: 01:39:01.9-01:39:09.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+    record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury
+      - DEBRIEFED ep. 58
+    record_date: '2025-10-17'
+    record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+    content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+    friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2

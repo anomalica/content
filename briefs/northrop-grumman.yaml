@@ -1,0 +1,540 @@
+schema: anomalica/brief/1
+brief_hash: bea21ba56ac767ad4ce8607a5c0daa0908b3025cca6af8859041c29a494e5358
+page:
+  kind: entity
+  node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+  node_type: organisation
+  title: Northrop Grumman
+  slug: northrop-grumman
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+  title: Crew Exploration Vehicle (CEV)
+  node_type: object
+  slug: crew-exploration-vehicle-cev
+  shared_claims: 4
+- node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+  title: Lockheed Martin
+  node_type: organisation
+  slug: lockheed-martin
+  shared_claims: 4
+- node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+  title: Boeing
+  node_type: organisation
+  slug: boeing
+  shared_claims: 3
+- node_id: ab61de92-c966-4cab-a3c5-05208029f462
+  title: Lockheed Martin Space Systems Company
+  node_type: organisation
+  slug: lockheed-martin-space-systems-company
+  shared_claims: 2
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 2
+- node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+  title: TRW Inc.
+  node_type: organisation
+  slug: trw-inc
+  shared_claims: 2
+- node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
+  title: Aerospace Corporation
+  node_type: organisation
+  slug: aerospace-corporation
+  shared_claims: 1
+- node_id: 0017e9ea-ba2f-4c15-9767-6f5a0f4035a0
+  title: BAE Systems
+  node_type: organisation
+  slug: bae-systems
+  shared_claims: 1
+- node_id: c09e3558-1732-4676-a218-d67d285d98ef
+  title: David Fravor
+  node_type: person
+  slug: david-fravor
+  shared_claims: 1
+- node_id: bcec6900-fcc4-4e5d-b241-cf73e3755094
+  title: Global Hawk
+  node_type: object
+  slug: global-hawk
+  shared_claims: 1
+- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+  title: Harold E. Puthoff
+  node_type: person
+  slug: harold-e-puthoff
+  shared_claims: 1
+- node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+  title: Legacy Program
+  node_type: project
+  slug: legacy-program
+  shared_claims: 1
+- node_id: 6814b080-a222-4c03-9e18-877cf868e816
+  title: Lockheed
+  node_type: organisation
+  slug: lockheed
+  shared_claims: 1
+- node_id: d3f1910c-f3bf-4eff-b952-3d38b54e9876
+  title: McDonnell Douglas
+  node_type: organisation
+  slug: mcdonnell-douglas
+  shared_claims: 1
+- node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
+  title: Raytheon
+  node_type: organisation
+  slug: raytheon
+  shared_claims: 1
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 1
+claims:
+- claim_id: f7b82c88-30ae-4318-a71c-8dfbff6c4a7b
+  claim_hash: 0c53844aab45052b3135ab96c9c7e23fa00308f2ff232cc1df0bf300f7515771
+  content: By spring 2006 all signs pointed to Northrop Grumman and Boeing winning
+    the initial Crew Exploration Vehicle (CEV) contract.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+    title: Boeing
+    slug: boeing
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+    title: Crew Exploration Vehicle (CEV)
+    slug: crew-exploration-vehicle-cev
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  date: 2006-03
+  date_end: null
+  location_in_record: ch19:80349-80445
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 35472f81-4786-4edc-a01b-01b1a7f92436
+  claim_hash: 3c2c9a4390e71b01b56d19be72d8f24dd7a37644a99bb0afa0c18e6ae79833d1
+  content: In March, at a preliminary design review, the National Aeronautics and
+    Space Administration (NASA) told Lockheed Martin to redesign its Crew Exploration
+    Vehicle proposal to more closely resemble an Apollo-style capsule similar to Northrop
+    Grumman's concept.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+    title: Crew Exploration Vehicle (CEV)
+    slug: crew-exploration-vehicle-cev
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  date: 2006-03
+  date_end: null
+  location_in_record: ch19:80643-80852
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 5036a5ea-d555-42f0-be8f-fa95c1da950a
+  claim_hash: d64739b5ad451f3216fae73ca2a08a07a197f8e4af52413a85b59d3581c2952e
+  content: Lockheed Martin proposed a new suite of avionics for the Crew Exploration
+    Vehicle that would require extensive technological development, while Northrop
+    Grumman's proposal emphasised existing, proven electronics.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+    title: Crew Exploration Vehicle (CEV)
+    slug: crew-exploration-vehicle-cev
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  date: null
+  date_end: null
+  location_in_record: ch19:82402-82548
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 25cd09e2-4179-4144-b7c5-519ca13ee8c2
+  claim_hash: c2d1060a1ae175cde65a03ed3a219dbfcd7476c04d089951d05bbf2f3d079c74
+  content: When final Crew Exploration Vehicle designs were submitted in 2006-05,
+    Northrop Grumman officials were confident their proposal had surpassed the Lockheed
+    Martin design.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+    title: Crew Exploration Vehicle (CEV)
+    slug: crew-exploration-vehicle-cev
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  date: 2006-05
+  date_end: null
+  location_in_record: ch19:82709-82841
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 43130faf-5eb5-42b4-8861-c28b2737d2a0
+  claim_hash: 14f23774f455d0759e1681f4b694a6399655394551800eb17247319d1081123a
+  content: David Fravor considers Northrop Grumman, Lockheed Martin, and Boeing to
+    be the big three companies in the United States defence industry.
+  original_excerpt: there's the big three in defense, which is really, you know, Northrop,
+    Lockheed, and Boeing.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+    title: Boeing
+    slug: boeing
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: 02:17:17.4-02:17:22.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: 7ec460a8-44f4-49ad-9cde-b1c5a56ae2ba
+  claim_hash: caef8d2df0c5bf459d19744dadbe8b15432c961f9c2de7557abb52401b37a687
+  content: TRW was eventually purchased by Northrop Grumman.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+    title: TRW Inc.
+    slug: trw-inc
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  date: null
+  date_end: null
+  location_in_record: ch19:1719-1791
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 661177b7-7703-49db-9802-432de87cb4cc
+  claim_hash: 2fb2414ed57882c5ed07fdc2389a7c7649c3a1724bf243edb88cc2c0eee20e7e
+  content: Northrop Grumman is a major United States defence contractor.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  date: null
+  date_end: null
+  location_in_record: ch19:1769-1791
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: a7f3a152-7714-45c3-8e1e-ff2cbc757810
+  claim_hash: 281fc939cb04016c833f8699869b5933f65d4b0429016c9e9d48e0317178588c
+  content: Lockheed Martin, TRW, McDonnell Douglas, Northrop Grumman, Boeing, Raytheon,
+    BAE Systems, and the Aerospace Corporation were named by senior officials as aerospace
+    and defence companies involved in the Legacy Program to retrieve and reverse-engineer
+    crash materials.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: anonymous
+    origin: persons claiming to be senior officials
+    relay:
+    - told confidentially to Lue Elizondo
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0017e9ea-ba2f-4c15-9767-6f5a0f4035a0
+    title: BAE Systems
+    slug: bae-systems
+  - node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
+    title: Aerospace Corporation
+    slug: aerospace-corporation
+  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+    title: Boeing
+    slug: boeing
+  - node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
+    title: Raytheon
+    slug: raytheon
+  - node_id: 6814b080-a222-4c03-9e18-877cf868e816
+    title: Lockheed
+    slug: lockheed
+  - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+    title: TRW Inc.
+    slug: trw-inc
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+    title: Legacy Program
+    slug: legacy-program
+  - node_id: d3f1910c-f3bf-4eff-b952-3d38b54e9876
+    title: McDonnell Douglas
+    slug: mcdonnell-douglas
+  date: null
+  date_end: null
+  location_in_record: ch21:4633-4853
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: d0708ea5-ccbc-48bf-96de-e6520c0c7110
+  claim_hash: 0e7fdbc6d78afb3118c93d0c293cb90257f5a5ff6b6f285b99d42a74e3bc42c2
+  content: The RQ-4 Global Hawk, built by Northrop Grumman, is the largest unmanned
+    aerial system (UAS) in operation by the United States Air Force (USAF).
+  original_excerpt: Built by Northrop Grumman, the RQ-4 Global Hawk is the largest
+    UAS in operation by the USAF.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Congressional Research Service report R47067
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: bcec6900-fcc4-4e5d-b241-cf73e3755094
+    title: Global Hawk
+    slug: global-hawk
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  date: null
+  date_end: null
+  location_in_record: char:143423-143510
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 31626a94-6157-4424-9461-695aaaf77fc7
+  claim_hash: ce6bfc1666e185695fc560369b6053217bb2367b3db347a582268be9834177cb
+  content: There are allegations that Lockheed Martin Space Systems Company and Northrop
+    Grumman established their own retrieval and recovery activities, self-funded through
+    Independent Research and Development (IRAD) funds.
+  original_excerpt: specific aerospace contractors, I'll name them Lucky Martin and
+    Northrop Grumman, established their own retrieval and recovery activities with
+    self-fund through independent research and development funds
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+    title: UAP Gerb
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unnamed allegations
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ab61de92-c966-4cab-a3c5-05208029f462
+    title: Lockheed Martin Space Systems Company
+    slug: lockheed-martin-space-systems-company
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  date: null
+  date_end: null
+  location_in_record: 00:58:17.5-00:58:27.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null
+- claim_id: de48055e-72ce-417d-bec1-f8c675938df8
+  claim_hash: f5156a7f608d9a37dcde6ac4a00355102ef2395e5ec224d38f6610d5582a39e3
+  content: Hal Puthoff has come across similar allegations that Lockheed Martin Space
+    Systems Company and Northrop Grumman established their own self-funded retrieval
+    and recovery activities.
+  original_excerpt: 'UAP Gerb: Have you come across similar allegations, Dr. Puthoff?
+    Hal Puthoff: I''ve come across similar allegations, yes.'
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hal Puthoff
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: ab61de92-c966-4cab-a3c5-05208029f462
+    title: Lockheed Martin Space Systems Company
+    slug: lockheed-martin-space-systems-company
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  date: null
+  date_end: null
+  location_in_record: 00:58:27.8-00:58:32.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+    record_title: 'Episode 73: Science vs. Secrecy'
+    record_date: '2026-06-30'
+    record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+    content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+    friendly_name: null

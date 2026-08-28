@@ -1,0 +1,195 @@
+schema: anomalica/brief/1
+brief_hash: 72bbf205c1c44b2fc3b105f0f962559973410c2442f27e637f33ea065f269785
+page:
+  kind: entity
+  node_id: aa0bdc53-6ad5-4d69-824f-182736d35a63
+  node_type: organisation
+  title: National Institutes of Health
+  slug: national-institutes-of-health
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 0e2d31cb-dd61-40e0-8c7d-8f59e64ab05f
+  title: Centers for Disease Control and Prevention
+  node_type: organisation
+  slug: centers-for-disease-control-and-prevention
+  shared_claims: 1
+- node_id: c8520928-93f3-4579-8259-dbe0aeeec7c3
+  title: Elisabeth Targ
+  node_type: person
+  slug: elisabeth-targ
+  shared_claims: 1
+- node_id: dfce3759-436e-4f9b-8f4a-5c720eb6cfde
+  title: Elisabeth Targ's distant-healing prayer studies on glioblastoma multiforme
+  node_type: project
+  slug: elisabeth-targs-distant-healing-prayer-studies-on-glioblastoma-multiforme
+  shared_claims: 1
+- node_id: 93d7d899-82f6-424c-aa3b-ae310423b72a
+  title: Food and Drug Administration
+  node_type: organisation
+  slug: food-and-drug-administration
+  shared_claims: 1
+- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+  title: Jacques Vallée
+  node_type: person
+  slug: jacques-vallee
+  shared_claims: 1
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 1
+- node_id: e4c073e9-3046-44ee-9b85-0c03473434df
+  title: USA, Maryland, Fort Detrick
+  node_type: place
+  slug: maryland-fort-detrick-usa
+  shared_claims: 1
+- node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+  title: United States Department of Energy (DOE)
+  node_type: organisation
+  slug: united-states-department-of-energy-doe
+  shared_claims: 1
+- node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+  title: alien implant
+  node_type: topic
+  slug: alien-implant
+  shared_claims: 1
+- node_id: 315a987e-d776-40fe-b4e2-c8827f659722
+  title: glioblastoma multiforme
+  node_type: topic
+  slug: glioblastoma-multiforme
+  shared_claims: 1
+claims:
+- claim_id: 2b096ce7-9ebf-47e6-83be-034037d7c85a
+  claim_hash: fcf40bb20a715b27c722460f7559d2d2551ee81d158ba1a5b0bda04662be444e
+  content: Jacques Vallée questioned why the National Aeronautics and Space Administration
+    (NASA), rather than the United States Department of Energy or the National Institutes
+    of Health (NIH), was chosen to handle UFO inquiries.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+    title: United States Department of Energy (DOE)
+    slug: united-states-department-of-energy-doe
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: aa0bdc53-6ad5-4d69-824f-182736d35a63
+    title: National Institutes of Health
+    slug: national-institutes-of-health
+  date: null
+  date_end: null
+  location_in_record: ch4:4942-5168
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 872ab4b3-5c8d-46cf-88da-b2885dcaf67b
+  claim_hash: 3ecdb55dc271670f1c14778fc9e7b626cd3528c7395f11a6981e8da7f766a669
+  content: In January 2002, Elisabeth Targ was awarded a National Institutes of Health
+    grant of 1.5 million US dollars to carry out two distant-healing prayer studies,
+    one on patients with glioblastoma multiforme, a rare and aggressive brain tumour.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 315a987e-d776-40fe-b4e2-c8827f659722
+    title: glioblastoma multiforme
+    slug: glioblastoma-multiforme
+  - node_id: aa0bdc53-6ad5-4d69-824f-182736d35a63
+    title: National Institutes of Health
+    slug: national-institutes-of-health
+  - node_id: c8520928-93f3-4579-8259-dbe0aeeec7c3
+    title: Elisabeth Targ
+    slug: elisabeth-targ
+  - node_id: dfce3759-436e-4f9b-8f4a-5c720eb6cfde
+    title: Elisabeth Targ's distant-healing prayer studies on glioblastoma multiforme
+    slug: elisabeth-targs-distant-healing-prayer-studies-on-glioblastoma-multiforme
+  date: 2002-01
+  date_end: null
+  location_in_record: ch30:4902-5112
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: b209c57f-868e-4370-972b-bd88af38addc
+  claim_hash: a68d895bccff0bd029ec4de909eb39875e4e5246782162b6ee7bb1d31b5a7d7b
+  content: Alleged alien implants removed from individuals were reportedly sent to
+    medical institutions including the Centers for Disease Control and Prevention
+    (CDC), the Food and Drug Administration (FDA), the National Institutes of Health
+    (NIH), and a US Army research facility at Fort Detrick, Maryland.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming knowledge of the handling of alleged alien implant specimens
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0e2d31cb-dd61-40e0-8c7d-8f59e64ab05f
+    title: Centers for Disease Control and Prevention
+    slug: centers-for-disease-control-and-prevention
+  - node_id: 93d7d899-82f6-424c-aa3b-ae310423b72a
+    title: Food and Drug Administration
+    slug: food-and-drug-administration
+  - node_id: aa0bdc53-6ad5-4d69-824f-182736d35a63
+    title: National Institutes of Health
+    slug: national-institutes-of-health
+  - node_id: e4c073e9-3046-44ee-9b85-0c03473434df
+    title: USA, Maryland, Fort Detrick
+    slug: maryland-fort-detrick-usa
+  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+    title: alien implant
+    slug: alien-implant
+  date: null
+  date_end: null
+  location_in_record: ch16:26675-26966
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted

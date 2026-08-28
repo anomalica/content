@@ -1,0 +1,404 @@
+schema: anomalica/brief/1
+brief_hash: e6516f881b1b714bde1253e0a094988eb63983745080ce32871336b82c99dce0
+page:
+  kind: entity
+  node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+  node_type: person
+  title: Plato
+  slug: plato
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+  title: Aimé Michel
+  node_type: person
+  slug: aime-michel
+  shared_claims: 1
+- node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+  title: Atlantis
+  node_type: topic
+  slug: atlantis
+  shared_claims: 1
+- node_id: 33f33971-ed63-4558-9881-e771eb40022b
+  title: Book of Revelation (Apocalypse)
+  node_type: document
+  slug: book-of-revelation-apocalypse
+  shared_claims: 1
+- node_id: 3132a680-4a91-4dbc-9fc3-9ab6b53129f4
+  title: Confucius
+  node_type: person
+  slug: confucius
+  shared_claims: 1
+- node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+  title: Jason Samosa
+  node_type: person
+  slug: jason-samosa
+  shared_claims: 1
+- node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+  title: Jesse Mitchells
+  node_type: person
+  slug: jesse-mitchells
+  shared_claims: 1
+- node_id: becc1fa1-610e-446b-bd6b-48ecc083b5c0
+  title: Lindy effect
+  node_type: topic
+  slug: lindy-effect
+  shared_claims: 1
+- node_id: f6a2f44e-c0e2-41e3-a681-d768e04f582c
+  title: Pythagoras
+  node_type: person
+  slug: pythagoras
+  shared_claims: 1
+- node_id: b54fcf2e-35dc-4c05-baae-e892c1a79140
+  title: The Bible
+  node_type: document
+  slug: the-bible
+  shared_claims: 1
+- node_id: 07ec895b-0109-49cc-bb4b-651478d4b5e2
+  title: The Gospels
+  node_type: document
+  slug: the-gospels
+  shared_claims: 1
+- node_id: 4a5f3ce6-bc0b-4064-b849-498204e1f76a
+  title: Younger Dryas
+  node_type: event
+  slug: younger-dryas
+  shared_claims: 1
+claims:
+- claim_id: e9110d3e-f4c7-4df5-9542-969e9be8bf9b
+  claim_hash: 6007d38b4cb4eeee15c9d05c39b21a32285dd4d9ea0f094040e02818472b36d0
+  content: The Greek mathematician Plato was one of the first to popularise the five
+    Platonic solids, having borrowed them from the earlier insights of Pythagoras.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+    title: Plato
+    slug: plato
+  - node_id: f6a2f44e-c0e2-41e3-a681-d768e04f582c
+    title: Pythagoras
+    slug: pythagoras
+  date: null
+  date_end: null
+  location_in_record: ch12:126586-126797
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 1396bba9-beb8-4c22-ba79-fdd2976e8514
+  claim_hash: 921d55e440ff995158410260dd00dd004da5e2dd18231aa75ebfe0c8b0e03c58
+  content: The pre-Egyptian, potentially high-tech global civilisation described in
+    the Pyramid Texts became known in later Greek tradition, transmitted through Plato's
+    Egyptian sources, as "Atlantis."
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Robert Bauval and Graham Hancock
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+    title: Atlantis
+    slug: atlantis
+  - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+    title: Plato
+    slug: plato
+  date: null
+  date_end: null
+  location_in_record: ch12:16338-16595
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 1a7e6bcd-0739-4927-8e45-23b243e3617e
+  claim_hash: e3009323b6e598663ce047aad6cb3451f967cff0ef0b7c647587d87cf921b262
+  content: Plato was believed to be the issue of a peculiar coupling.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: unattributed
+    origin: legendary tradition about Plato
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+    title: Plato
+    slug: plato
+  date: null
+  date_end: null
+  location_in_record: ch14:45422-45487
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: dcf77260-f229-481f-88a4-d2ecc3d747eb
+  claim_hash: 3b7953964173f0d4da6981b87905b277b000e154d32775e6fc4b8f641a122878
+  content: Aimé Michel considers that the counterculture expressed through the Apocalypse
+    (Book of Revelation) eventually triumphed and Plato was forgotten for a thousand
+    years.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+    title: Aimé Michel
+  provenance_chain:
+    origin_kind: named
+    origin: Aimé Michel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 33f33971-ed63-4558-9881-e771eb40022b
+    title: Book of Revelation (Apocalypse)
+    slug: book-of-revelation-apocalypse
+  - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+    title: Plato
+    slug: plato
+  - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+    title: Aimé Michel
+    slug: aime-michel
+  date: null
+  date_end: null
+  location_in_record: ch14:4226-4368
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: cc14ab8b-7a4f-41dc-b6bb-f8a4bdcfa286
+  claim_hash: 564299bef648c58316a2625b2c905787f56902ae8a95e99eac23c6a3ec04dac2
+  content: Whitley Strieber considers it beyond dispute that a crisis occurred whose
+    memory still lingered in the fifth century BCE when Plato was writing.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+    title: Plato
+    slug: plato
+  date: null
+  date_end: null
+  location_in_record: ch26:33301-33439
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 45b343d1-ef3a-4139-8c4b-6f192b1cb0fc
+  claim_hash: e02b1d1a805de066652b6bbcf4d4549ddfc453b718cfabbff7cb99113bab1346
+  content: Whitley Strieber believes that, given what is now known about the dating
+    of the Younger Dryas and how it unfolded, Plato was reporting something handed
+    down in memory rather than confabulated.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4a5f3ce6-bc0b-4064-b849-498204e1f76a
+    title: Younger Dryas
+    slug: younger-dryas
+  - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+    title: Plato
+    slug: plato
+  date: null
+  date_end: null
+  location_in_record: ch26:33621-33793
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 648ac9ec-d3d5-420f-b336-2aa5588f101f
+  claim_hash: 29e9f766e8c0292a6ab59ebc2032dac21fceaaf8cdc432f89c921d6c600f3c3d
+  content: Whitley Strieber proposes that a more developed civilisation existing near
+    the oceans at the time would have experienced sudden inundations from the sea
+    rising and submerging it, rather than the land sinking into the sea as Plato assumed.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+    title: Plato
+    slug: plato
+  date: null
+  date_end: null
+  location_in_record: ch26:34540-34784
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 0559d2ac-36ed-435f-85c7-35ee770d1745
+  claim_hash: d2aae96bfa1d3b3f259b662cdda01a4dde929a6a402a6a4b710b29c67ede9134
+  content: Jesse Michels considers the works of Plato and the Bible probably more
+    valuable than recent contemporary works, by the Lindy effect measure of how long
+    an idea has survived.
+  original_excerpt: And so Plato and the Bible are probably more valuable than like,
+    I don't know the pet shop boys or something, you know, some like random contemporary
+    thing.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michels
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    slug: jesse-mitchells
+  - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+    title: Plato
+    slug: plato
+  - node_id: b54fcf2e-35dc-4c05-baae-e892c1a79140
+    title: The Bible
+    slug: the-bible
+  - node_id: becc1fa1-610e-446b-bd6b-48ecc083b5c0
+    title: Lindy effect
+    slug: lindy-effect
+  date: null
+  date_end: null
+  location_in_record: 00:21:48.9-00:21:58.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 94d4d339-8b4e-467f-a130-55e88acbcdcb
+  claim_hash: 5172fc1308ae0aa493f3ee0258951b2af50fc6e48aa44deee920cc3aed53c58b
+  content: Jason Samosa places the works of Plato, the Gospels and Confucius at the
+    top of human literature, noting they all emerged at roughly the same period in
+    human history.
+  original_excerpt: at the very top of that stack, you've got the Plato's and the
+    Gospels and these books... You can see some of it in Confucius, you can see it
+    in the Gospels. It's all kind of popping up at the same time in human history,
+    and it's all beautiful and impactful.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jason Samosa
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 07ec895b-0109-49cc-bb4b-651478d4b5e2
+    title: The Gospels
+    slug: the-gospels
+  - node_id: 3132a680-4a91-4dbc-9fc3-9ab6b53129f4
+    title: Confucius
+    slug: confucius
+  - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+    title: Plato
+    slug: plato
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    slug: jason-samosa
+  date: null
+  date_end: null
+  location_in_record: 00:29:26.5-00:29:48.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

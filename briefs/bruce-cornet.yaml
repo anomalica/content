@@ -1,0 +1,188 @@
+schema: anomalica/brief/1
+brief_hash: 099c5ff80dc060e8b0a35d7a06fdb78f19a095bd3f0bb5e3142f0910f919afb5
+page:
+  kind: entity
+  node_id: be1a22dd-c820-4bdf-9b9e-01f5a6d352c2
+  node_type: person
+  title: Bruce Cornet
+  slug: bruce-cornet
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 2
+- node_id: e002eed3-4e45-4049-af0b-600c1214e623
+  title: David Stinnett
+  node_type: person
+  slug: david-stinnett
+  shared_claims: 1
+- node_id: 437ce294-3b6f-4dfe-9abe-0b6847fb5687
+  title: Ken Johnston Collection
+  node_type: document
+  slug: ken-johnston-collection
+  shared_claims: 1
+- node_id: 7cf30d3b-0060-4aca-aab3-c91874d779d6
+  title: National Press Club press conference, Washington DC, 1996-03-21
+  node_type: event
+  slug: washington-dc-1996-03-21-national-press-club-press-conference
+  shared_claims: 1
+- node_id: 8fe6d645-b27f-4713-8381-3f2e135132c0
+  title: New Jersey Unidentified Flying Object (UFO) Congress
+  node_type: organisation
+  slug: new-jersey-unidentified-flying-object-ufo-congress
+  shared_claims: 1
+claims:
+- claim_id: 18d7b980-8343-43c9-a477-5e31208c5e3b
+  claim_hash: dc0de6234bd7a97b08c450bbc97c32e1382fd920b005759570e087a397db7994
+  content: Bruce Cornet is a geologist who had independently reviewed Richard C. Hoagland's
+    initial lunar findings.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: be1a22dd-c820-4bdf-9b9e-01f5a6d352c2
+    title: Bruce Cornet
+    slug: bruce-cornet
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch11:133697-133812
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 3f1ffec3-dfe7-4c4f-b7bc-f7a083d83dd2
+  claim_hash: 7b87a954387755357dc34f48006ca6c72be9694ea8320c85b17fd2b72de6119b
+  content: Bruce Cornet did not appear at the March 1996 National Press Club press
+    conference because personal problems left him unable to publicly handle press
+    on the subject.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7cf30d3b-0060-4aca-aab3-c91874d779d6
+    title: National Press Club press conference, Washington DC, 1996-03-21
+    slug: washington-dc-1996-03-21-national-press-club-press-conference
+  - node_id: be1a22dd-c820-4bdf-9b9e-01f5a6d352c2
+    title: Bruce Cornet
+    slug: bruce-cornet
+  date: 1996-03
+  date_end: null
+  location_in_record: ch11:133824-133962
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 9676d3f2-d641-474b-9083-af96a5dc8050
+  claim_hash: 9011d6be6b207fc15735e65c73f16e185348df28c7e260156c66d31d9aa22690
+  content: Because of Bruce Cornet's personal problems, Richard C. Hoagland was unable
+    to consult him about subsequent discoveries stemming from access to the Ken Johnston
+    Collection.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 437ce294-3b6f-4dfe-9abe-0b6847fb5687
+    title: Ken Johnston Collection
+    slug: ken-johnston-collection
+  - node_id: be1a22dd-c820-4bdf-9b9e-01f5a6d352c2
+    title: Bruce Cornet
+    slug: bruce-cornet
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch11:133980-134144
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: b9896db0-0052-4b66-a4f2-8aa9568c7ca7
+  claim_hash: e03f659b631ed369ceb255aea9598fef129963ff6ccced6dd72f17ab237b67ff
+  content: David Stinnett said that after the sighting, instead of grabbing a convenient
+    paper from his library of UFO research, he reached under a stack of papers and
+    pulled out a VHS tape of Dr. Bruce Cornet giving a lecture to the New Jersey UFO
+    Congress in which Cornet described, in perfect detail, the craft David Stinnett
+    had just seen.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e002eed3-4e45-4049-af0b-600c1214e623
+    title: David Stinnett
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Stinnett
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8fe6d645-b27f-4713-8381-3f2e135132c0
+    title: New Jersey Unidentified Flying Object (UFO) Congress
+    slug: new-jersey-unidentified-flying-object-ufo-congress
+  - node_id: be1a22dd-c820-4bdf-9b9e-01f5a6d352c2
+    title: Bruce Cornet
+    slug: bruce-cornet
+  - node_id: e002eed3-4e45-4049-af0b-600c1214e623
+    title: David Stinnett
+    slug: david-stinnett
+  date: null
+  date_end: null
+  location_in_record: ch3:38557-38780
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted

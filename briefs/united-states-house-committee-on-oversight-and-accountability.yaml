@@ -1,0 +1,637 @@
+schema: anomalica/brief/1
+brief_hash: bbfe9579ffa6366a20f2efc57cb04fa282ed76023c67c1d5b13b448dc632885a
+page:
+  kind: entity
+  node_id: 240453b5-254d-479a-a39f-4340fec022c8
+  node_type: organisation
+  title: United States House Committee on Oversight and Accountability
+  slug: united-states-house-committee-on-oversight-and-accountability
+  claim_count: 14
+  claim_count_total: 14
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
+  title: 2024 United States congressional hearing on UAPs (13 November)
+  node_type: event
+  slug: 2024-united-states-congressional-hearing-on-uaps-13-november
+  shared_claims: 1
+- node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+  title: Anna Paulina Luna
+  node_type: person
+  slug: anna-paulina-luna
+  shared_claims: 1
+- node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+  title: Glenn Grothman
+  node_type: person
+  slug: glenn-grothman
+  shared_claims: 1
+- node_id: eafa91b8-bb84-4307-824d-1a303fff531d
+  title: Grayson Westmoreland
+  node_type: person
+  slug: grayson-westmoreland
+  shared_claims: 1
+- node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+  title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+  node_type: event
+  slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+  shared_claims: 1
+- node_id: de3e896e-c2b5-4cd6-8507-dd4f3acf4486
+  title: James Comer
+  node_type: person
+  slug: james-comer
+  shared_claims: 1
+- node_id: cb9ba091-aeb7-41fd-8753-15754baa8762
+  title: Jamie Raskin
+  node_type: person
+  slug: jamie-raskin
+  shared_claims: 1
+- node_id: 5ea5b48a-079a-4de6-9fe1-5139d2c6ce37
+  title: Jessica Donlon
+  node_type: person
+  slug: jessica-donlon
+  shared_claims: 1
+- node_id: bbfad6fe-2c90-4cfc-893a-394811eea7e4
+  title: Julie Tagen
+  node_type: person
+  slug: julie-tagen
+  shared_claims: 1
+- node_id: 3a2600f6-351b-4b37-831c-6a394f285e4e
+  title: Kaity Wolfe
+  node_type: person
+  slug: kaity-wolfe
+  shared_claims: 1
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 1
+- node_id: 79390a8d-8877-48d2-b870-e43ff40a9a4a
+  title: Mallory Cogar
+  node_type: person
+  slug: mallory-cogar
+  shared_claims: 1
+- node_id: ed814411-d0bb-4634-9309-6602dd1064c1
+  title: Mark Marin
+  node_type: person
+  slug: mark-marin
+  shared_claims: 1
+- node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+  title: Matt Gaetz
+  node_type: person
+  slug: matt-gaetz
+  shared_claims: 1
+- node_id: ace70b8c-19ab-4ba0-b0ff-b8daf00a03bb
+  title: Subcommittee on National Security, the Border, and Foreign Affairs
+  node_type: organisation
+  slug: the-border-and-foreign-affairs-subcommittee-on-national-security
+  shared_claims: 1
+- node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+  title: Tim Burchett
+  node_type: person
+  slug: tim-burchett
+  shared_claims: 1
+- node_id: 97d91726-1081-4b69-86d9-aa0dd761386b
+  title: US House of Representatives
+  node_type: organisation
+  slug: us-house-of-representatives
+  shared_claims: 1
+- node_id: 1ef2907b-d608-4a71-b164-05ea785b5765
+  title: USA, Florida, Eglin Air Force Base
+  node_type: place
+  slug: florida-eglin-air-force-base-usa
+  shared_claims: 1
+- node_id: d6c976e4-72f8-4dcd-9a97-e38804ec50a0
+  title: USA, Washington, D.C., Rayburn House Office Building
+  node_type: place
+  slug: washington-dc-rayburn-house-office-building-usa
+  shared_claims: 1
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+claims:
+- claim_id: 24992c22-ebcb-4bfc-be9f-cf0cb8b18526
+  claim_hash: 1377ea911aa156726f679ac11d62f2ef36691a4302b631bb622ca39887bc94d3
+  content: Matt Gaetz recommended that the radar images collected of the formation
+    of craft from the Eglin Air Force Base UAP incident, including the image taken
+    by the flight crew, be provided to the House Committee on Oversight and Accountability,
+    subpoenaed if necessary.
+  original_excerpt: I would suggest that the radar images that were collected of this
+    formation of craft out of Eglin Air Force Base and specifically the actual image
+    taken by the actual flight crew that we can actually validate be provided to the
+    Committee, subpoenaed if necessary
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+    title: Matt Gaetz
+  provenance_chain:
+    origin_kind: speaker
+    origin: Matt Gaetz
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1ef2907b-d608-4a71-b164-05ea785b5765
+    title: USA, Florida, Eglin Air Force Base
+    slug: florida-eglin-air-force-base-usa
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    slug: united-states-house-committee-on-oversight-and-accountability
+  - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+    title: Matt Gaetz
+    slug: matt-gaetz
+  date: null
+  date_end: null
+  location_in_record: char:116120-116373
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: f984cfbf-a4f3-4551-9908-a6177f78c2eb
+  claim_hash: eb3a4f4bb4e6b42f3158eb22e05e4929bdcc741f46573bd9a6818c67c732c78d
+  content: Glenn Grothman thanked Tim Burchett and Anna Paulina Luna for bringing
+    the topic of Unidentified Anomalous Phenomena to the House Committee on Oversight
+    and Accountability's attention.
+  original_excerpt: I would like to one more time thank Mr. Burchett and Ms. Luna
+    for bringing this to our attention.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Glenn Grothman
+  provenance_chain:
+    origin_kind: speaker
+    origin: Glenn Grothman
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    slug: united-states-house-committee-on-oversight-and-accountability
+  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+    title: Tim Burchett
+    slug: tim-burchett
+  - node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Glenn Grothman
+    slug: glenn-grothman
+  date: null
+  date_end: null
+  location_in_record: char:146912-146999
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: a87e5d13-f646-48fc-9be2-f7eb8938ac1b
+  claim_hash: 60680a850393e97f6c3d031381c66163b605f52c2a343db2cf1e399fbf7ddda2
+  content: Jamie Raskin served as Ranking Minority Member of the House Committee on
+    Oversight and Accountability during the 118th Congress.
+  original_excerpt: JAMIE RASKIN, Maryland, Ranking Minority Member
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: the printed hearing volume
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    slug: united-states-house-committee-on-oversight-and-accountability
+  - node_id: cb9ba091-aeb7-41fd-8753-15754baa8762
+    title: Jamie Raskin
+    slug: jamie-raskin
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:1534-1575
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 4b0b59fb-d23d-4934-ba8e-fbc22611928d
+  claim_hash: 39a3182d8a9a116ff245065e235e918a0af6e9853c34fb53376cc714c08861e4
+  content: 'The hearing "Unidentified Anomalous Phenomena: Implications on National
+    Security, Public Safety, and Government Transparency" was held on 2023-07-26 before
+    the House Subcommittee on National Security, the Border, and Foreign Affairs of
+    the House Committee on Oversight and Accountability.'
+  original_excerpt: HEARING BEFORE THE SUBCOMMITTEE ON NATIONAL SECURITY, THE BORDER,
+    AND FOREIGN AFFAIRS OF THE COMMITTEE ON OVERSIGHT AND ACCOUNTABILITY HOUSE OF
+    REPRESENTATIVES ... JULY 26, 2023
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: the printed hearing volume
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    slug: united-states-house-committee-on-oversight-and-accountability
+  - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+    title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+    slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+  - node_id: 97d91726-1081-4b69-86d9-aa0dd761386b
+    title: US House of Representatives
+    slug: us-house-of-representatives
+  - node_id: ace70b8c-19ab-4ba0-b0ff-b8daf00a03bb
+    title: Subcommittee on National Security, the Border, and Foreign Affairs
+    slug: the-border-and-foreign-affairs-subcommittee-on-national-security
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:200-423
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 4a814c2c-5283-47e9-bed8-6658261f8b35
+  claim_hash: 4367b95ee590f328dc02a9310bcac0f94c68baea3bedea89f382be8ae4fcd0a0
+  content: Mark Marin served as Staff Director of the House Committee on Oversight
+    and Accountability.
+  original_excerpt: MARK MARIN, Staff Director
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: the printed hearing volume
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    slug: united-states-house-committee-on-oversight-and-accountability
+  - node_id: ed814411-d0bb-4634-9309-6602dd1064c1
+    title: Mark Marin
+    slug: mark-marin
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:2088-2106
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: bfe14b48-8a0f-4ae2-b39e-3791db9741f5
+  claim_hash: a0251b99522512991ae7e5cabd328ee462697594a80a1eaaa8d237df57f6c3bc
+  content: Jessica Donlon served as Deputy Staff Director and General Counsel of the
+    House Committee on Oversight and Accountability.
+  original_excerpt: JESSICA DONLON, Deputy Staff Director and General Counsel
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: the printed hearing volume
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    slug: united-states-house-committee-on-oversight-and-accountability
+  - node_id: 5ea5b48a-079a-4de6-9fe1-5139d2c6ce37
+    title: Jessica Donlon
+    slug: jessica-donlon
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:2115-2165
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: ad74d685-7b6a-4623-8560-e31abaf16a23
+  claim_hash: 5c57b6decf4b9895299b71284faf8202ace2ac76bb57f9300ac3cfc455166ade
+  content: Kaity Wolfe served as Senior Professional Staff Member of the House Committee
+    on Oversight and Accountability.
+  original_excerpt: KAITY WOLFE, Senior Professional Staff Member
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: the printed hearing volume
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    slug: united-states-house-committee-on-oversight-and-accountability
+  - node_id: 3a2600f6-351b-4b37-831c-6a394f285e4e
+    title: Kaity Wolfe
+    slug: kaity-wolfe
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:2173-2212
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 96b5bc90-f6d5-40be-94a0-ce8e62787c0a
+  claim_hash: b2d4037a3a92a9c019bb42c03a07bba8060a08ecff4aaeb1e390b2e7bac2e6f8
+  content: Grayson Westmoreland served as Senior Professional Staff Member of the
+    House Committee on Oversight and Accountability.
+  original_excerpt: GRAYSON WESTMORELAND, Senior Professional Staff Member
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: the printed hearing volume
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    slug: united-states-house-committee-on-oversight-and-accountability
+  - node_id: eafa91b8-bb84-4307-824d-1a303fff531d
+    title: Grayson Westmoreland
+    slug: grayson-westmoreland
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:2219-2267
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: ba40b28b-2ec4-48fa-ad3e-f36c654a9ab9
+  claim_hash: a6c4cbfd52b7fc2af174b35e235977f8af04657f8ffb22395433b08fe86a5a2f
+  content: Mallory Cogar served as Deputy Director of Operations and Chief Clerk of
+    the House Committee on Oversight and Accountability.
+  original_excerpt: MALLORY COGAR, Deputy Director of Operations and Chief Clerk
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: the printed hearing volume
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    slug: united-states-house-committee-on-oversight-and-accountability
+  - node_id: 79390a8d-8877-48d2-b870-e43ff40a9a4a
+    title: Mallory Cogar
+    slug: mallory-cogar
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:2274-2329
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: c4b5bd1a-cf8c-4b87-af08-850a56696f60
+  claim_hash: 644c25c78433e643c31f5a9beeccb44ccf7dfc9a38cdb4d87d89665642dcc12f
+  content: Julie Tagen served as Minority Staff Director of the House Committee on
+    Oversight and Accountability.
+  original_excerpt: JULIE TAGEN, Minority Staff Director
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: the printed hearing volume
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    slug: united-states-house-committee-on-oversight-and-accountability
+  - node_id: bbfad6fe-2c90-4cfc-893a-394811eea7e4
+    title: Julie Tagen
+    slug: julie-tagen
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:2365-2393
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 730c8f72-b6c5-49e3-adc3-dd48e78e780a
+  claim_hash: 6ba70571c8a8f28f7e8ecb31f9353831319a7df264b61b28eaea0abcd7192aa8
+  content: The House Committee on Oversight and Accountability was denied access to
+    a Sensitive Compartmented Information Facility (SCIF) for a confidential discussion
+    during the hearing.
+  original_excerpt: Maybe in a—if we could get in a confidential area, a SCIF, we
+    could talk about that. But unfortunately, we were denied access to the SCIF and
+    that is very unfortunate in this scenario.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+    title: Tim Burchett
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tim Burchett
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    slug: united-states-house-committee-on-oversight-and-accountability
+  date: null
+  date_end: null
+  location_in_record: char:63706-63932
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: c2dd1df4-34de-4dd8-aba7-e874858cbb0d
+  claim_hash: 5229661f88f23d92193f35ca9c550ba6eddbf12a20a699bd07e284cefb90217d
+  content: James Comer served as Chairman of the House Committee on Oversight and
+    Accountability during the 118th Congress.
+  original_excerpt: JAMES COMER, Kentucky, Chairman
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: the printed hearing volume
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    slug: united-states-house-committee-on-oversight-and-accountability
+  - node_id: de3e896e-c2b5-4cd6-8507-dd4f3acf4486
+    title: James Comer
+    slug: james-comer
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:887-910
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 8776646a-5326-4fe2-b769-63ff9f2e5f9e
+  claim_hash: 1b607af50fc83fd755d9a160d89179b5aaf7e767dda44f072ec0ca3bcbf8a203
+  content: Luis Elizondo proposes that Members of the United States House Committee
+    on Oversight and Accountability and other lawmakers wield subpoena power against
+    hostile witnesses and prevent additional government funding to UAP efforts that
+    remain hidden from Congressional oversight.
+  original_excerpt: it is up to the Members of this Committee and other lawmakers
+    to wield their subpoena power against hostile witnesses and prevent additional
+    Government funding to those UAP efforts that remain hidden from Congressional
+    oversight
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Luis Elizondo
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    slug: united-states-house-committee-on-oversight-and-accountability
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  date: '2024-11-13'
+  date_end: null
+  location_in_record: char:4562-4781
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 72cc1cf9-c482-4e0e-8629-c9d2fb101493
+    record_title: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena:
+      Exposing the Truth'
+    record_date: '2024-11-13'
+    record_reference: null
+    content_hash: sha256:f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce064218b64
+    friendly_name: 2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the
+- claim_id: 0b98d3b5-f7bf-4024-b3ce-c48c82d4531c
+  claim_hash: 305c32686c44be4cbdfb5c8483aa091bbd63612cc4857e802abfdbab6c3918df
+  content: The 2024 United States congressional hearing on UAPs (13 November) was
+    held at the Rayburn House Office Building, hosted by the Oversight Committee.
+  original_excerpt: we are at rayburn house office building where the uh the oversight
+    committee hearing is going to happen on uap and ufos
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: e56d277c-d570-40f3-a409-73a86e5616ac
+    title: Sean
+  provenance_chain:
+    origin_kind: speaker
+    origin: Sean
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    slug: united-states-house-committee-on-oversight-and-accountability
+  - node_id: d6c976e4-72f8-4dcd-9a97-e38804ec50a0
+    title: USA, Washington, D.C., Rayburn House Office Building
+    slug: washington-dc-rayburn-house-office-building-usa
+  - node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
+    title: 2024 United States congressional hearing on UAPs (13 November)
+    slug: 2024-united-states-congressional-hearing-on-uaps-13-november
+  date: '2024-11-13'
+  date_end: null
+  location_in_record: 00:07:03.9-00:07:12.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+    record_title: UAPs in Washington - I wasn't supposed to be there..
+    record_date: '2024-11-24'
+    record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+    content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+    friendly_name: null

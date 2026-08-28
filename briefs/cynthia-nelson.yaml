@@ -1,0 +1,137 @@
+schema: anomalica/brief/1
+brief_hash: f9b48b3487c36cb9211bd693fda5b41a5048184a79f5e5f5542acf3ca64b1d33
+page:
+  kind: entity
+  node_id: 2f5d1ccf-30ca-411a-8f55-e78873ade25a
+  node_type: person
+  title: Cynthia Nelson
+  slug: cynthia-nelson
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 6de49de1-168c-4eb0-87a7-f89bba769591
+  title: 1968 Zeitoun apparitions of the Virgin Mary
+  node_type: event
+  slug: 1968-zeitoun-apparitions-of-the-virgin-mary
+  shared_claims: 1
+- node_id: ce4ced41-7a8c-4d38-95e1-05c0e4449fd1
+  title: descriptive phenomenology
+  node_type: topic
+  slug: descriptive-phenomenology
+  shared_claims: 1
+claims:
+- claim_id: 683960f7-a31e-4cbb-9e83-6fadd9ee4f78
+  claim_hash: 68d3e362a35e69721cbec6653590475ccb363fa79275578b958fbc9995fea52a
+  content: Cynthia Nelson defined descriptive phenomenology as an attempt to communicate
+    the quality and structure of experiences, whether clear and symbolically defined
+    or diffuse and unsymbolised, with any concrete phenomenon in experience as its
+    subject matter.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 2f5d1ccf-30ca-411a-8f55-e78873ade25a
+    title: Cynthia Nelson
+  provenance_chain:
+    origin_kind: named
+    origin: Cynthia Nelson
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2f5d1ccf-30ca-411a-8f55-e78873ade25a
+    title: Cynthia Nelson
+    slug: cynthia-nelson
+  - node_id: ce4ced41-7a8c-4d38-95e1-05c0e4449fd1
+    title: descriptive phenomenology
+    slug: descriptive-phenomenology
+  date: null
+  date_end: null
+  location_in_record: ch8:3063-3281
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 3320d029-5774-4140-b655-6949ddddc59f
+  claim_hash: 4d95d8dbd15f90a06f1a7958c0ddbffbe4f3fd09464e173c62b3698490df8a70
+  content: Cynthia Nelson, as a phenomenologist, suspends judgment as to whether the
+    Zeitoun apparition of the Virgin Mary is really real, and instead attempts to
+    understand what people do when confronting stress, holding that if people define
+    situations as real they are real in their consequences.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 2f5d1ccf-30ca-411a-8f55-e78873ade25a
+    title: Cynthia Nelson
+  provenance_chain:
+    origin_kind: named
+    origin: Cynthia Nelson
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2f5d1ccf-30ca-411a-8f55-e78873ade25a
+    title: Cynthia Nelson
+    slug: cynthia-nelson
+  - node_id: 6de49de1-168c-4eb0-87a7-f89bba769591
+    title: 1968 Zeitoun apparitions of the Virgin Mary
+    slug: 1968-zeitoun-apparitions-of-the-virgin-mary
+  date: null
+  date_end: null
+  location_in_record: ch8:3965-4219
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 742c237b-fe56-4d94-ab0f-9be06a8b8349
+  claim_hash: 499317935d01c220d43172805950d745abfa14c29c2c55351de356f316be266c
+  content: Cynthia Nelson wrote that as phenomenologists, researchers suspend judgment
+    as to whether an apparition is really real and instead attempt to understand what
+    people do when confronting stress, because if people define situations as real,
+    they are real in their consequences.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 2f5d1ccf-30ca-411a-8f55-e78873ade25a
+    title: Cynthia Nelson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Cynthia Nelson
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2f5d1ccf-30ca-411a-8f55-e78873ade25a
+    title: Cynthia Nelson
+    slug: cynthia-nelson
+  date: null
+  date_end: null
+  location_in_record: ch5:28485-28757
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted

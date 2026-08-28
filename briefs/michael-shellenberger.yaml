@@ -1,0 +1,459 @@
+schema: anomalica/brief/1
+brief_hash: ca6e04a1809f9c8f268ebc6c60d2ba9daf5c9bd99615c0668fb037308e385c60
+page:
+  kind: entity
+  node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+  node_type: person
+  title: Michael Shellenberger
+  slug: michael-shellenberger
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+  title: Immaculate Constellation
+  node_type: project
+  slug: immaculate-constellation
+  shared_claims: 4
+- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+  title: David Charles Grusch
+  node_type: person
+  slug: david-charles-grusch
+  shared_claims: 1
+- node_id: bcd2daec-173c-4de9-a762-66b84bbe6bdf
+  title: Michael Shellenberger Substack article on David Grusch allegations
+  node_type: document
+  slug: michael-shellenberger-substack-article-on-david-grusch-allegations
+  shared_claims: 1
+- node_id: b9f1e9f5-3f87-4ae1-8444-c97a5897a335
+  title: Public
+  node_type: organisation
+  slug: public
+  shared_claims: 1
+- node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
+  title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program
+    (alleged)
+  node_type: project
+  slug: unidentified-flying-object-ufo-retrieval-and-reverse-engineering-program-alleged
+  shared_claims: 1
+claims:
+- claim_id: 814790c3-1ba7-4304-98c2-70de1b2ca913
+  claim_hash: 7d524b59f6e87ce93c9f60ad99502c41967a8d4b28ba327cc0e406fec087c869
+  content: Michael Shellenberger is an author and political commentator.
+  original_excerpt: author and political commentator Michael Shellenberger
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+    title: Marik von Rennenkampff
+  provenance_chain:
+    origin_kind: unattributed
+    origin: Marik von Rennenkampff's narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+    slug: michael-shellenberger
+  date: null
+  date_end: null
+  location_in_record: char:4643-4684
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+    record_title: Claims that UFO information was inappropriately withheld from Congress
+      deemed ‘credible,’ ‘urgent’
+    record_date: '2023-06-09'
+    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+    content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+- claim_id: 7f3b89d9-b792-4be1-a9aa-66c179128db6
+  claim_hash: b8f1cf2b9c3c6dfdc64fe9b4e396d89810a53d07c907ba35b07c7854ff09b2c2
+  content: Officials interviewed by Michael Shellenberger provided context and descriptions
+    of vehicles allegedly recovered by the UFO Retrieval and Reverse Engineering Program.
+  original_excerpt: The officials also provided context and descriptions of the vehicles
+    allegedly recovered by the surreptitious UFO retrieval and reverse engineering
+    effort.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+  provenance_chain:
+    origin_kind: anonymous
+    origin: unnamed officials
+    relay:
+    - Michael Shellenberger
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
+    title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program
+      (alleged)
+    slug: unidentified-flying-object-ufo-retrieval-and-reverse-engineering-program-alleged
+  - node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+    slug: michael-shellenberger
+  date: null
+  date_end: null
+  location_in_record: char:4932-5080
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+    record_title: Claims that UFO information was inappropriately withheld from Congress
+      deemed ‘credible,’ ‘urgent’
+    record_date: '2023-06-09'
+    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+    content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+- claim_id: 9f00bf3e-dddd-4acf-bffb-34acfa692755
+  claim_hash: 36d200e567e82404995611f875972c6cd96ff0a6f1c26247df7e4558804ac4bb
+  content: In the Michael Shellenberger Substack article on David Grusch allegations,
+    numerous current and former officials confirmed the outlines of David Grusch's
+    allegations.
+  original_excerpt: As Shellenberger writes, numerous current and former officials
+    confirmed the outlines of Grusch’s explosive allegations.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+  provenance_chain:
+    origin_kind: anonymous
+    origin: numerous unnamed current and former officials
+    relay:
+    - Michael Shellenberger
+  attribution_mode: unknown
+  node_refs:
+  - node_id: bcd2daec-173c-4de9-a762-66b84bbe6bdf
+    title: Michael Shellenberger Substack article on David Grusch allegations
+    slug: michael-shellenberger-substack-article-on-david-grusch-allegations
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  - node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+    slug: michael-shellenberger
+  date: null
+  date_end: null
+  location_in_record: para 26
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+    record_title: Claims that UFO information was inappropriately withheld from Congress
+      deemed ‘credible,’ ‘urgent’
+    record_date: '2023-06-09'
+    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+    content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+- claim_id: 45a90ef3-1c1a-4dd0-afa2-1cad1f798581
+  claim_hash: bc9c03f6f22be8756998ea5895ca3bbe86bcfd459092c375c4d7df55a3cad9de
+  content: Michael Schellenberger was told that revealing the name Immaculate Constellation
+    would probably result in him being placed under surveillance.
+  original_excerpt: I also was told that if we revealed the name that we would probably
+    get under surveillance.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Schellenberger
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+    slug: michael-shellenberger
+  date: null
+  date_end: null
+  location_in_record: 00:00:31.1-00:00:35.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 94ff7dd4-74f6-4bb7-90a6-816dd01d1a6e
+  claim_hash: a8996b47104a6f3e308283b7fa8b97312a728802dfba3736f2a69e4fcc5a00ae
+  content: Michael Schellenberger's Immaculate Constellation piece is about a new
+    whistleblower who is either a government employee or a government contractor,
+    who has written a report.
+  original_excerpt: Today's piece is about a new whistleblower. who has come forward
+    and has written a report. And this is somebody that is either in government or
+    is a government contractor.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+  provenance_chain:
+    origin_kind: named
+    origin: an anonymous whistleblower interviewed by Michael Schellenberger
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+    slug: michael-shellenberger
+  date: null
+  date_end: null
+  location_in_record: 00:01:59.6-00:02:10.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 7a797692-183d-4039-9889-d70a240c0220
+  claim_hash: 01ce3982fa9257179c815e31b1538040bd298dc17d105680e7b3c1b5cfa43af2
+  content: Michael Schellenberger interviewed the Immaculate Constellation whistleblower
+    multiple times in person and checked their credentials.
+  original_excerpt: I've interviewed this person multiple times in person. I've checked
+    their credentials. They are who they say they are.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Schellenberger
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+    slug: michael-shellenberger
+  date: null
+  date_end: null
+  location_in_record: 00:02:11.2-00:02:17.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: daaa1bf4-6b82-4f99-b079-a3d7d836fd4a
+  claim_hash: 524f34d29ef98c8ae421c7306128a9fb012fdb75986dbe5dd6690a51d2e6705d
+  content: The Immaculate Constellation whistleblower wrote a report and provided
+    it to members of the United States Congress.
+  original_excerpt: They have written a report and provided it to members of Congress.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+  provenance_chain:
+    origin_kind: named
+    origin: an anonymous whistleblower interviewed by Michael Schellenberger
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  date: null
+  date_end: null
+  location_in_record: 00:02:17.5-00:02:20.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 4c95df5a-a713-459c-afb0-2a616b3074f0
+  claim_hash: aaf5d54c19ad681a5651a2774bc6737a6f3c64771e8b1f7c55d605f2ab07031a
+  content: The Immaculate Constellation whistleblower's report claims that the United
+    States Department of Defense (Pentagon) is illegally withholding information from
+    the United States Congress about a secret UAP program.
+  original_excerpt: And in that report, they claim that the Pentagon is illegally
+    withholding information from Congress about a secret UAP program.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+  provenance_chain:
+    origin_kind: named
+    origin: an anonymous whistleblower interviewed by Michael Schellenberger
+    relay:
+    - Michael Schellenberger
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  date: null
+  date_end: null
+  location_in_record: 00:02:21.6-00:02:31.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 5c008153-2eba-4248-9392-a4f9c44d8d79
+  claim_hash: c1217907bafa01fc6281f19f507b6ece82683ccf1d93b6466682aa6205043b54
+  content: The secret UAP program described by the whistleblower is called Immaculate
+    Constellation and is considered a parent program of other, subordinate programs.
+  original_excerpt: And that secret UAP program is considered a parent program of
+    other programs, but it's called Immaculate Constellation.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+  provenance_chain:
+    origin_kind: named
+    origin: an anonymous whistleblower interviewed by Michael Schellenberger
+    relay:
+    - Michael Schellenberger
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  date: null
+  date_end: null
+  location_in_record: 00:02:32.3-00:02:38.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 81da8e55-2465-4fe4-a092-b0bd5f504d29
+  claim_hash: d9cc060d800ece18af7243cdff518a4e6e1937e5411970e9dcf1aba8878b1ade
+  content: Michael Schellenberger had the name Immaculate Constellation confirmed
+    by a second source.
+  original_excerpt: I had it confirmed by a second source that this is the name.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Schellenberger
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+    slug: michael-shellenberger
+  date: null
+  date_end: null
+  location_in_record: 00:02:39.8-00:02:44.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null
+- claim_id: 1bb955ec-4520-4be5-ba0c-965b3c104969
+  claim_hash: 12e832d5cd4af45bf5116b51ef3e65e0f085b51137404abe530de6f024ec4547
+  content: Michael Schellenberger published an in-depth report on Immaculate Constellation
+    on 2024-10-09 on his platform Public.
+  original_excerpt: He published an in-depth report on October 9th, 2024 on his platform
+    Public.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    slug: immaculate-constellation
+  - node_id: b9f1e9f5-3f87-4ae1-8444-c97a5897a335
+    title: Public
+    slug: public
+  - node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+    title: Michael Shellenberger
+    slug: michael-shellenberger
+  date: '2024-10-09'
+  date_end: null
+  location_in_record: 00:02:50.5-00:02:55.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+    record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED
+      ep. 10
+    record_date: '2024-10-18'
+    record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+    content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+    friendly_name: null

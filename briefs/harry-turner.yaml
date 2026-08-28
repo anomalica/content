@@ -1,0 +1,2196 @@
+schema: anomalica/brief/1
+brief_hash: d380915f5abda6c0db334f6a851871d332bf0ddc1f5db8b2c571d32521c43486
+page:
+  kind: entity
+  node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+  node_type: person
+  title: Harry Turner
+  slug: harry-turner
+  claim_count: 53
+  claim_count_total: 53
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 3ff75793-423c-4333-8402-d5c543074091
+  title: Bill Chalker
+  node_type: person
+  slug: bill-chalker
+  shared_claims: 9
+- node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+  title: Vicki Klein
+  node_type: person
+  slug: vicki-klein
+  shared_claims: 9
+- node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
+  title: Royal Australian Air Force
+  node_type: organisation
+  slug: royal-australian-air-force
+  shared_claims: 6
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 6
+- node_id: 6a0908ae-a9fa-4a24-9c24-20573b939788
+  title: 1954 Harry Turner Directorate of Air Force Intelligence (DAFI) Unidentified
+    Aerial Phenomena (UAP) review
+  node_type: event
+  slug: 1954-harry-turner-directorate-of-air-force-intelligence-dafi-unidentified-aerial-phenomena-uap-review
+  shared_claims: 5
+- node_id: 26e4a0c7-7da3-4001-8f87-118941d1961c
+  title: Directorate of Air Force Intelligence Australia
+  node_type: organisation
+  slug: directorate-of-air-force-intelligence-australia
+  shared_claims: 5
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 5
+- node_id: d19c2e48-f370-4c2d-b1b8-a18cea1dca92
+  title: 1971-72 Vicki Klein alien contact and abduction investigation
+  node_type: event
+  slug: 1971-72-vicki-klein-alien-contact-and-abduction-investigation
+  shared_claims: 3
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 3
+- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+  title: Project Blue Book
+  node_type: project
+  slug: project-blue-book
+  shared_claims: 3
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 3
+- node_id: 2b3277e1-39df-40ca-861d-a750053b7aa5
+  title: 1971 Harry Turner report 'Scientific and Intelligence Aspects of the Unidentified
+    Flying Object (UFO) Problem'
+  node_type: document
+  slug: 1971-harry-turner-report-scientific-and-intelligence-aspects-of-the-unidentified-flying-object-ufo-problem
+  shared_claims: 2
+- node_id: a28ce6e6-7598-40c7-9580-9dd1bb14b6f7
+  title: Bill Chalker's 2001-07 visit to Oliver Harry Turner
+  node_type: event
+  slug: bill-chalkers-2001-07-visit-to-oliver-harry-turner
+  shared_claims: 2
+- node_id: e93618ca-92e3-4c2d-8da2-838f8af77d3f
+  title: Canberra civilian UFO society (formed 1967)
+  node_type: organisation
+  slug: canberra-civilian-ufo-society-formed-1967
+  shared_claims: 2
+- node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+  title: Condon Report
+  node_type: document
+  slug: condon-report
+  shared_claims: 2
+- node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+  title: Donald Keyhoe
+  node_type: person
+  slug: donald-keyhoe
+  shared_claims: 2
+- node_id: edfd1d0c-64c5-4efc-b923-08b2cbeb19ff
+  title: Dr. Michael Duggin
+  node_type: person
+  slug: dr-michael-duggin
+  shared_claims: 2
+- node_id: 2a87be5f-5c89-44c6-adcd-191d187c0dba
+  title: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+  node_type: document
+  slug: harry-turners-ten-pages-of-handwritten-notes-on-mrs-klein
+  shared_claims: 2
+- node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+  title: J. Allen Hynek
+  node_type: person
+  slug: j-allen-hynek
+  shared_claims: 2
+- node_id: c0e8f513-a6bb-48d1-9d2a-1e4de82b5202
+  title: Maralinga nuclear tests
+  node_type: project
+  slug: maralinga-nuclear-tests
+  shared_claims: 2
+- node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+  title: Air Force Office of Special Investigations (AFOSI)
+  node_type: organisation
+  slug: air-force-office-of-special-investigations-afosi
+  shared_claims: 1
+- node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+  title: Anti-Gravity Propulsion
+  node_type: topic
+  slug: anti-gravity-propulsion
+  shared_claims: 1
+- node_id: f3b124a9-9a7e-4e61-a6dc-22368ccbb689
+  title: Australia, Joint Intelligence Bureau, Directorate of Scientific and Technical
+    Intelligence (DSTI)
+  node_type: organisation
+  slug: joint-intelligence-bureau-directorate-of-scientific-and-technical-intelligence-dsti-australia
+  shared_claims: 1
+- node_id: 2ad3b630-e5c8-441f-84ac-94dc07fafb12
+  title: Australia, Melbourne University
+  node_type: organisation
+  slug: melbourne-university-australia
+  shared_claims: 1
+- node_id: fef1488e-e3ee-40dc-b5c1-b2e0f8697eda
+  title: Australia, South Australia, Maralinga
+  node_type: place
+  slug: south-australia-maralinga-australia
+  shared_claims: 1
+- node_id: bf3ad97d-fbe8-49f2-a18f-1027c475eb2c
+  title: Australia, South Australia, Woomera Rocket Range
+  node_type: place
+  slug: south-australia-woomera-rocket-range-australia
+  shared_claims: 1
+- node_id: 4d5a560d-05e0-4645-8208-846e7f661854
+  title: Australian Department of Defense Directorate of Air Force Intelligence
+  node_type: organisation
+  slug: australian-department-of-defense-directorate-of-air-force-intelligence
+  shared_claims: 1
+- node_id: 0be54222-7550-4b02-b1c0-8ea8ef5736c7
+  title: Australian Department of Supply
+  node_type: organisation
+  slug: australian-department-of-supply
+  shared_claims: 1
+- node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+  title: Budd Hopkins
+  node_type: person
+  slug: budd-hopkins
+  shared_claims: 1
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 1
+claims:
+- claim_id: c7c8e447-23ae-4e78-a8d3-8df349aa17f5
+  claim_hash: ca8bae0129c0fd93f8fd2820bd50c1eba07e972244541ff6545827c37926b970
+  content: Bill Chalker visited Oliver Harry Turner, a retired Australian government
+    scientist, at his home in the summer of 2001.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: a28ce6e6-7598-40c7-9580-9dd1bb14b6f7
+    title: Bill Chalker's 2001-07 visit to Oliver Harry Turner
+    slug: bill-chalkers-2001-07-visit-to-oliver-harry-turner
+  date: '2001'
+  date_end: null
+  location_in_record: ch16:109-266
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 224cd309-3d48-4eaa-9c17-534f3acadf6d
+  claim_hash: 086d1ea4f6292eed95a6082d7ec4229896be9919dbe4bd31bca9d7a09aae3de2
+  content: By the early 1970s Oliver Harry Turner was a scientific analyst with the
+    Directorate of Scientific and Technical Intelligence of the Joint Intelligence
+    Bureau.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: d95dbc04-9b49-4404-abd3-b144ea431f9b
+    title: Directorate of Scientific and Technical Intelligence of the Joint Intelligence
+      Bureau
+    slug: directorate-of-scientific-and-technical-intelligence-of-the-joint-intelligence-bureau
+  date: null
+  date_end: null
+  location_in_record: ch16:1141-1265
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: c8d60ffb-e649-4480-b985-597fb6ec4f3b
+  claim_hash: 18e69691ecad1e08be0f285d31eba9e9d0b51f016cd11c5a03a7c4172ae0ca5f
+  content: Vicki Klein told Oliver Harry Turner that the signal for the beginning
+    of the end would be the disappearance of a small island followed by a larger one,
+    which she suspected would be in the New Guinea area, with the ensuing chaos lasting
+    three days and getting progressively worse, after which the world would be cleansed
+    and a new development would take place in lands newly arisen.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+    title: Vicki Klein
+    slug: vicki-klein
+  date: null
+  date_end: null
+  location_in_record: ch16:11602-11895
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: edfd5e46-43bb-4ad3-b528-206b427ff338
+  claim_hash: 1a9197accb6ea6e667e340f7ad8bed87c5cc417a3dd2056168cffd121bba5a47
+  content: Bill Chalker found what followed in Oliver Harry Turner's notes striking
+    for how closely it resembled the alien abduction accounts that would come to dominate
+    UFO controversy fifteen years later.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+    title: Vicki Klein
+    slug: vicki-klein
+  date: null
+  date_end: null
+  location_in_record: ch16:14879-15069
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 22e83c81-9400-42ed-9019-c99aca0367e8
+  claim_hash: 567528d1d3ccabe160cc5472a685107e33e62b67bbb0b503fa5031fd5fdbd9e9
+  content: Oliver Harry Turner was not sure what to make of Vicki Klein's information
+    in the early 1970s and was simply trying to make an accurate report of her claims.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+    title: Vicki Klein
+    slug: vicki-klein
+  date: null
+  date_end: null
+  location_in_record: ch16:15077-15230
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 7cecd7bb-b107-47ef-b423-5a2bd3a5645e
+  claim_hash: a99d9c54d433daac83e3c54a782e07809f3570c6affa3fa5c072a160931e4fb6
+  content: During his 2001 visit, Oliver Harry Turner handed Bill Chalker ten pages
+    of his handwritten notes on his 1971-1972 investigation of a Canberra woman named
+    Mrs. Klein.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2a87be5f-5c89-44c6-adcd-191d187c0dba
+    title: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+    slug: harry-turners-ten-pages-of-handwritten-notes-on-mrs-klein
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: a28ce6e6-7598-40c7-9580-9dd1bb14b6f7
+    title: Bill Chalker's 2001-07 visit to Oliver Harry Turner
+    slug: bill-chalkers-2001-07-visit-to-oliver-harry-turner
+  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+    title: Vicki Klein
+    slug: vicki-klein
+  - node_id: d19c2e48-f370-4c2d-b1b8-a18cea1dca92
+    title: 1971-72 Vicki Klein alien contact and abduction investigation
+    slug: 1971-72-vicki-klein-alien-contact-and-abduction-investigation
+  date: '2001'
+  date_end: null
+  location_in_record: ch16:1511-1720
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 9f4efbc7-0872-40d1-982f-88f30e61b10c
+  claim_hash: 48569d5352afc428192c5f6cf4423ab4e354ab04a2fbde494058b8170e4c7eea
+  content: Ron Summers confirmed to Bill Chalker the basic story that Vicki Klein
+    had revealed to Oliver Harry Turner.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 8f5dd852-91c9-4ba6-bd1d-ff7ddfb9211a
+    title: Ron Summers
+  provenance_chain:
+    origin_kind: named
+    origin: Ron Summers
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 8f5dd852-91c9-4ba6-bd1d-ff7ddfb9211a
+    title: Ron Summers
+    slug: ron-summers
+  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+    title: Vicki Klein
+    slug: vicki-klein
+  date: null
+  date_end: null
+  location_in_record: ch16:22338-22439
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 98bbbad0-1ccf-42ff-83fc-c4c9eb33397f
+  claim_hash: 0b9546fba1e40f83020627f0ba177d0f258073673ff763594c3213811afba192
+  content: Oliver Harry Turner was a nuclear physicist.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  date: null
+  date_end: null
+  location_in_record: ch16:273-382
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 827b0825-87b6-4590-8caa-ac40ee128674
+  claim_hash: 64e038de8fdb7bd9e25984637dc3d620e429b386de097c46f8fe654dee28e948
+  content: Oliver Harry Turner was the chief health physics officer for the Maralinga
+    atomic bomb trials during the 1950s and early 1960s.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ddb11f7-0d9f-4f61-b6e2-97fcf5ec70ad
+    title: Maralinga atomic bomb trials
+    slug: maralinga-atomic-bomb-trials
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  date: null
+  date_end: null
+  location_in_record: ch16:294-416
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 66be3fe0-d0ca-441f-93d8-0c00ce26042b
+  claim_hash: 4ffcb936006aaef982595a5b6e0db203059c8d8028825ff2bee9ee28fbc494db
+  content: Oliver Harry Turner's 1971-72 notes on Vicki Klein's experiences prefigured
+    several extraordinary elements of the alien abduction phenomenon that would not
+    become public until researcher Budd Hopkins first described them in his 1987 best-selling
+    book Intruders.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+    title: Budd Hopkins
+    slug: budd-hopkins
+  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+    title: Vicki Klein
+    slug: vicki-klein
+  - node_id: d19c2e48-f370-4c2d-b1b8-a18cea1dca92
+    title: 1971-72 Vicki Klein alien contact and abduction investigation
+    slug: 1971-72-vicki-klein-alien-contact-and-abduction-investigation
+  - node_id: dd1a6f25-fc57-45c3-9b7c-cb49fc6efe1a
+    title: Intruders
+    slug: intruders
+  date: null
+  date_end: null
+  location_in_record: ch16:3092-3395
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 94a2635b-332b-4d94-977f-0877f24f5996
+  claim_hash: 65d78f18a616da9a83b02616d1748c62e30d9e6c3f0496160bb52a3f48230bf5
+  content: Oliver Harry Turner wrote a classified scientific appreciation report on
+    UFOs for the Australian Department of Defense Directorate of Air Force Intelligence
+    in 1954.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Harry Turner's 1954 classified UFO scientific appreciation report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 4d5a560d-05e0-4645-8208-846e7f661854
+    title: Australian Department of Defense Directorate of Air Force Intelligence
+    slug: australian-department-of-defense-directorate-of-air-force-intelligence
+  - node_id: 82058332-da91-4ed0-96ed-dbe570d48389
+    title: Harry Turner's 1954 classified UFO scientific appreciation report
+    slug: harry-turners-1954-classified-ufo-scientific-appreciation-report
+  date: '1954'
+  date_end: null
+  location_in_record: ch16:523-674
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: ef8ac887-ce94-47dc-86f4-6e2e0c00f7e5
+  claim_hash: a3de9197fbb95c4dbe0f7b4e4c1c813aba400111fcfc1c4a095099247b846921
+  content: Oliver Harry Turner's notes of his interviews with Vicki Klein do not record
+    the date of her fourth UFO sighting.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2a87be5f-5c89-44c6-adcd-191d187c0dba
+    title: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+    slug: harry-turners-ten-pages-of-handwritten-notes-on-mrs-klein
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+    title: Vicki Klein
+    slug: vicki-klein
+  date: null
+  date_end: null
+  location_in_record: ch16:7630-7732
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 103c95f2-34e6-4120-8811-27edf0c9032c
+  claim_hash: 1f4086e312dea88f2127097282bd092c33e5d89ab12bf94721b58f00107e6865
+  content: Oliver Harry Turner corresponded with fellow Australian scientist Dr. Michael
+    Duggin, who also had a deep interest in the UFO phenomenon, to supplement details
+    of Vicki Klein's fourth sighting.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: edfd1d0c-64c5-4efc-b923-08b2cbeb19ff
+    title: Dr. Michael Duggin
+    slug: dr-michael-duggin
+  date: null
+  date_end: null
+  location_in_record: ch16:7897-8083
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: bca1b989-8a74-4bf4-aad4-4601473eb8d0
+  claim_hash: ce192c5bc0d00e47e71452b029df838ddb5714ca7cfa3dae35c94b88706951ec
+  content: Oliver Harry Turner and Dr. Michael Duggin were part of a secret invisible
+    college of scientists conducting research into the UFO mystery.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 17f4d90d-ea64-4696-818f-d0d11b10cf42
+    title: invisible college of UFO researchers
+    slug: invisible-college-of-ufo-researchers
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: edfd1d0c-64c5-4efc-b923-08b2cbeb19ff
+    title: Dr. Michael Duggin
+    slug: dr-michael-duggin
+  date: null
+  date_end: null
+  location_in_record: ch16:8095-8213
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 1920d8df-ae66-4eb5-94f4-aa724a8b162b
+  claim_hash: cf1fb799b7aa4460648aa14a08221dd997bef8884ded38c202f9329455d4adcf
+  content: The rash of Canberra-area UFO sightings in mid-1971 prompted Oliver Harry
+    Turner to contact the local civilian UFO society in Canberra, which had been formed
+    in 1967.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: e93618ca-92e3-4c2d-8da2-838f8af77d3f
+    title: Canberra civilian UFO society (formed 1967)
+    slug: canberra-civilian-ufo-society-formed-1967
+  date: '1971'
+  date_end: null
+  location_in_record: ch16:8401-8500
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: b22228a2-1521-42fe-b43c-80588db4fdc7
+  claim_hash: 9934e3e899a2ac5af530a407e5871c1adc008c66f03dd6e4441deab35e9196ab
+  content: Oliver Harry Turner told Bill Chalker that while Vicki Klein told the Canberra
+    UFO group of her sightings, she was careful not to mention the unfolding alien
+    dynamic happening in her own house.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: named
+    origin: Oliver Harry Turner
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+    title: Vicki Klein
+    slug: vicki-klein
+  - node_id: e93618ca-92e3-4c2d-8da2-838f8af77d3f
+    title: Canberra civilian UFO society (formed 1967)
+    slug: canberra-civilian-ufo-society-formed-1967
+  date: null
+  date_end: null
+  location_in_record: ch16:8570-8717
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 4848424a-64c8-468f-8f32-f95c44e82038
+  claim_hash: 1ccf689194b07de1182f81fe321d041b30b0f183ccf495b65c8c18c92d333a9c
+  content: Following Oliver Harry Turner's contact with the Canberra UFO group, Vicki
+    Klein privately made contact with him and, during a series of meetings at her
+    home between July 1971 and February 1972, described her unfolding alien contact
+    calling.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+    title: Vicki Klein
+    slug: vicki-klein
+  - node_id: d19c2e48-f370-4c2d-b1b8-a18cea1dca92
+    title: 1971-72 Vicki Klein alien contact and abduction investigation
+    slug: 1971-72-vicki-klein-alien-contact-and-abduction-investigation
+  date: 1971-07
+  date_end: null
+  location_in_record: ch16:8856-9072
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 40d0f4ba-2b7c-4f0e-87a2-077ec9ab8431
+  claim_hash: 8e2cc8f85abc3cdaafec023bbd5be1715fea1bbb2f7bb50e7f3acc3ae77e09a6
+  content: During the late 1960s and early 1970s, Oliver Harry Turner fought a secret
+    battle to encourage a more scientific and comprehensive examination of the UFO
+    mystery within the clandestine world of intelligence and the military.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  date: null
+  date_end: null
+  location_in_record: ch16:926-1131
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: f58cbbcb-43cb-4be7-ac9c-93873c62e5ee
+  claim_hash: 828eec41f39041c342350f86e81066622312d9c13f771629d5f4ca7cbe31b8a5
+  content: Harry Turner was privately pushing at the highest levels of Australia's
+    Defence Department for a scientific military investigation into the UAP phenomenon
+    while sightings were being played down in the media and by the air force.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  date: null
+  date_end: null
+  location_in_record: ch11:1114-1264
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: cb57ebc7-f074-4333-9eb2-854b88fa3663
+  claim_hash: e5e198591511290b4f794b03e22d6ed8cf24494861018e4dcbc8ee14583cd349
+  content: Harry Turner's declassified 1971 paper 'Scientific and Intelligence Aspects
+    of the UFO Problem' asserted that unidentified objects were real.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+  provenance_chain:
+    origin_kind: named
+    origin: Harry Turner
+    relay:
+    - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2b3277e1-39df-40ca-861d-a750053b7aa5
+    title: 1971 Harry Turner report 'Scientific and Intelligence Aspects of the Unidentified
+      Flying Object (UFO) Problem'
+    slug: 1971-harry-turner-report-scientific-and-intelligence-aspects-of-the-unidentified-flying-object-ufo-problem
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  date: '1971'
+  date_end: null
+  location_in_record: ch11:1276-1449
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f3902ea0-3d24-4922-8a11-70a868f409f5
+  claim_hash: 5ff7a35c6c2ae7559e48ac46bc3de65d85a6d937038508eaafaaa3f33608052e
+  content: Harry Turner's 1971 report asserted there was an ongoing deliberate official
+    US policy to ridicule UFO sighting events in order to stifle public awareness
+    of the phenomenon.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+  provenance_chain:
+    origin_kind: named
+    origin: Harry Turner
+    relay:
+    - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2b3277e1-39df-40ca-861d-a750053b7aa5
+    title: 1971 Harry Turner report 'Scientific and Intelligence Aspects of the Unidentified
+      Flying Object (UFO) Problem'
+    slug: 1971-harry-turner-report-scientific-and-intelligence-aspects-of-the-unidentified-flying-object-ufo-problem
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  date: '1971'
+  date_end: null
+  location_in_record: ch11:1459-1591
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 8aa4a6a2-2468-42f0-a56b-c1eec9517369
+  claim_hash: 85fe0ede52648f5e002d1abd10afd45986a87addeadb7ba783360ab06c8882d0
+  content: Harry Turner considered that by erecting a facade of ridicule, the US hoped
+    to allay public alarm, reduce the possibility of the Soviets exploiting UFO mass
+    sightings for psychological or actual warfare purposes, and cover for a real US
+    programme developing vehicles that emulate UFO performance.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+  provenance_chain:
+    origin_kind: named
+    origin: Harry Turner
+    relay:
+    - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+    title: Soviet Union
+    slug: soviet-union
+  date: '1971'
+  date_end: null
+  location_in_record: ch11:1605-1911
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 12a5052a-09e6-49d3-9bd6-e3625b026942
+  claim_hash: 79db29a70e6d7a70e1501e91f90378ce6472d1aad7a1e0d4a5056b34082804b6
+  content: Harry Turner asserted that in 1953 the US Air Force Office of Special Investigations
+    persuaded the US Air Force to use the Project Blue Book investigation as a means
+    of publicly debunking UFOs.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+  provenance_chain:
+    origin_kind: named
+    origin: Harry Turner
+    relay:
+    - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+    title: Air Force Office of Special Investigations (AFOSI)
+    slug: air-force-office-of-special-investigations-afosi
+  date: '1953'
+  date_end: null
+  location_in_record: ch11:1921-2112
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b883c7f3-f341-4e39-bc66-adaf37a613c5
+  claim_hash: f59eb30af7a447ed35d1a8e8bf1983d9d017f0fa4e5eb0db6f1cc3ef03eb87de
+  content: Harry Turner asserted that while publicly debunking UFOs, the US was secretly
+    launching a crash programme into anti-gravity power.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+  provenance_chain:
+    origin_kind: named
+    origin: Harry Turner
+    relay:
+    - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  date: null
+  date_end: null
+  location_in_record: ch11:2118-2205
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 4eb91b39-5333-4306-9775-240aa24a8dcd
+  claim_hash: 832369022a1dafecc37a5a9dd29f757f3379dcaac82adf91141bc83c076a1ab5
+  content: Harry Turner's paper criticised the 1968 Condon Committee Report, the US
+    Air Force-funded study of UFOs directed by physicist Edward Condon.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+  provenance_chain:
+    origin_kind: named
+    origin: Harry Turner
+    relay:
+    - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
+    title: Edward U. Condon
+    slug: edward-u-condon
+  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+    title: Condon Report
+    slug: condon-report
+  date: '1968'
+  date_end: null
+  location_in_record: ch11:2213-2352
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: fe60a4f0-944f-4aa3-b476-3e38c92462dc
+  claim_hash: 197b59fdd6e49f278910431a46fa6f2311e043ed24b0be1caa071641048fce49
+  content: Harry Turner considered that the conclusions of the Condon report conflict
+    with its own contents and have been discredited by many reputable scientists.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+  provenance_chain:
+    origin_kind: named
+    origin: Harry Turner
+    relay:
+    - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+    title: Condon Report
+    slug: condon-report
+  date: null
+  date_end: null
+  location_in_record: ch11:2370-2565
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c4452189-b996-4b80-991f-2d3fd8482f30
+  claim_hash: fc9c6a97783fd5bd7776b50de8fad7b0563d3e4b993f83a6457bf63f4ab22d86
+  content: Harry Turner dismissed the official Project Blue Book UFO investigation,
+    which had been shut down by the US Air Force in 1969.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+  provenance_chain:
+    origin_kind: named
+    origin: Harry Turner
+    relay:
+    - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  date: '1969'
+  date_end: null
+  location_in_record: ch11:2577-2696
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f2bc05b7-75f8-4e7e-8a9d-e29a1f770adb
+  claim_hash: e5fad396903aa0d28773a472c26075db2eae159ee931e5b1d5f05b8c0cae8177
+  content: Harry Turner said many intelligence officers associated with the UFO problem,
+    including former CIA director Roscoe Hillenkoetter, had stated that the US government
+    knew UFOs were extra-terrestrial but was withholding this fact from the public.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+  provenance_chain:
+    origin_kind: named
+    origin: Harry Turner
+    relay:
+    - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+    title: Roscoe Hillenkoetter
+    slug: roscoe-hillenkoetter
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  date: null
+  date_end: null
+  location_in_record: ch11:2703-2929
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 4d6c5d4e-78e7-4377-b2a7-46947be11b2c
+  claim_hash: 5e7b4425b10a0c51e72ff73e46b5f550decd1e310744af0e6b9fe22dd63d7259
+  content: Harry Turner met the Project Blue Book expert Dr J. Allen Hynek when Hynek
+    visited Australia.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+    slug: j-allen-hynek
+  date: null
+  date_end: null
+  location_in_record: ch11:2938-3020
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 94962b37-fc07-46da-8a2f-17d47021a081
+  claim_hash: d02f14e23c82bfff05eae48ef64ddf2c8734d27760cfa7ae616753b4cde6c098
+  content: Harry Turner told his superiors that J. Allen Hynek, along with many other
+    reputable scientists, did not accept the US Air Force explanation of misidentification,
+    hysteria or hoax for UFO sightings.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+  provenance_chain:
+    origin_kind: named
+    origin: Harry Turner
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+    slug: j-allen-hynek
+  date: null
+  date_end: null
+  location_in_record: ch11:3032-3199
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: eb4ca4bc-3221-4b55-b57e-6a40774aa21f
+  claim_hash: 8fec88a86d6e3f95b9ba4d968d914b9549a5d75e164d733a21de3b1bb6d52fe5
+  content: Harry Turner obtained access to the Australian Air Force's UAP sightings
+    reports.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
+    title: Royal Australian Air Force
+    slug: royal-australian-air-force
+  date: null
+  date_end: null
+  location_in_record: ch11:3211-3284
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 8c5c1392-4b94-49f7-b7b6-63ecf4c1e3e4
+  claim_hash: 521b03f70f63b8474ca913f5d3e072fbc5ec350b71e3938058dc2b8f72d23a9f
+  content: Harry Turner proposed an Australian 'rapid intervention team' to investigate
+    UFO events, for which an aircraft was to be on standby.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  date: null
+  date_end: null
+  location_in_record: ch11:3293-3440
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c80663d5-cf42-466c-85a5-f50bebd26ee6
+  claim_hash: 3e0cd2d570636d8d8fb0a42c41ce14d8d80b618b400b801768fc81f9b774b51c
+  content: Harry Turner had the approval of Australia's Chief Defence Scientist for
+    his proposed rapid intervention team to investigate UFO events.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: named
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  date: null
+  date_end: null
+  location_in_record: ch11:3512-3643
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b5bc0d11-8436-42ef-8a93-221145e03f8c
+  claim_hash: 23729ef630f01a52e132059415e0edaf0f5a01e4c0cbc8c55e677a4a9b2524fd
+  content: Harry Turner's concern about UFOs was taken very seriously, possibly because
+    sightings of strange unidentified objects at the Woomera test site were still
+    occurring.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: bf3ad97d-fbe8-49f2-a18f-1027c475eb2c
+    title: Australia, South Australia, Woomera Rocket Range
+    slug: south-australia-woomera-rocket-range-australia
+  date: null
+  date_end: null
+  location_in_record: ch11:3649-3792
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 117a892d-5a95-4994-a038-ded72dbd27cf
+  claim_hash: 2870c5d9559dc6df751d67e3ad90f78c84b67a4cebd8676643a9b7ffc71e0d5f
+  content: There was bad blood between Harry Turner and the Directorate of Air Force
+    Intelligence (DAFI) because Turner had criticised DAFI's past handling of UAP
+    sightings reports.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 26e4a0c7-7da3-4001-8f87-118941d1961c
+    title: Directorate of Air Force Intelligence Australia
+    slug: directorate-of-air-force-intelligence-australia
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  date: null
+  date_end: null
+  location_in_record: ch11:3803-3928
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: cd9da1b0-ddcf-4763-a938-6ebffb0b6f44
+  claim_hash: d84623b5f460a1271cb317677070af2f6e10b48260714d39888a185ded96591f
+  content: By 1971, Australian Defence Department scientist Harry Turner was firmly
+    convinced the UAP phenomenon was real and required urgent investigation.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  date: '1971'
+  date_end: null
+  location_in_record: ch11:384-638
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7d8dcfdf-3e75-4f74-853e-16f02d4d8366
+  claim_hash: a930dcf8c23a0a936662c6c6965ae83da2a1cc771b34324611c68bc07cd839a0
+  content: The Australian Air Force withdrew Harry Turner's access to their UAP sightings
+    files.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
+    title: Royal Australian Air Force
+    slug: royal-australian-air-force
+  date: null
+  date_end: null
+  location_in_record: ch11:3937-4013
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 17200cfd-a055-4fae-8db0-39d670e2c0c5
+  claim_hash: 340db798502ff75dec0b61dfc9640e5e4d8b9634fd84d1a842625fc4a518d6f6
+  content: Harry Turner's plan for a rapid intervention team to investigate UFOs was
+    subsequently spiked.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  date: null
+  date_end: null
+  location_in_record: ch11:4020-4094
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 25bd986e-a3ea-48f7-991c-5cf51eb03ffb
+  claim_hash: df4c20b6ec6ab5ec000fc8fa4b75939a4882fd8ba280724d38636794550caf78
+  content: Bill Chalker considers that Harry Turner was actually arguing for the air
+    force to be given more resources and help to investigate UFOs so their reports
+    would be more scientific, but that the Directorate of Air Force Intelligence (DAFI)
+    took it as criticism and shut him out out of sheer bloody-mindedness.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 26e4a0c7-7da3-4001-8f87-118941d1961c
+    title: Directorate of Air Force Intelligence Australia
+    slug: directorate-of-air-force-intelligence-australia
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  date: null
+  date_end: null
+  location_in_record: ch11:4102-4369
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9c006640-c295-4e7e-a60c-93061511747e
+  claim_hash: 9159b9831ae9e1509ff62bc5c56a00bbd0cb07f855ca80bcf08fb3d77fbd6cd8
+  content: Harry Turner's curiosity about UAPs was piqued by the mysterious sightings
+    at Maralinga in the South Australian desert in 1960.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: fef1488e-e3ee-40dc-b5c1-b2e0f8697eda
+    title: Australia, South Australia, Maralinga
+    slug: south-australia-maralinga-australia
+  date: '1960'
+  date_end: null
+  location_in_record: ch11:447-560
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 216f18be-3da7-4b23-b13a-401c3bb9a0b7
+  claim_hash: f7a19c0a59f86d1f8d45624d094bd13ec49f2f515f58ffcb397efe09919484eb
+  content: Harry Turner was the head of the nuclear science section of the Australian
+    Joint Intelligence Bureau's Directorate of Scientific and Technical Intelligence
+    (DSTI).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: f3b124a9-9a7e-4e61-a6dc-22368ccbb689
+    title: Australia, Joint Intelligence Bureau, Directorate of Scientific and Technical
+      Intelligence (DSTI)
+    slug: joint-intelligence-bureau-directorate-of-scientific-and-technical-intelligence-dsti-australia
+  date: '1971'
+  date_end: null
+  location_in_record: ch11:653-809
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 041eaaed-dd44-41af-94cb-bf193a63862b
+  claim_hash: 6c4bba73c20464e46c44f9821c15ecaca6b8c52545152f3ef698b97e75498d90
+  content: Harry Turner was rebuffed in 1954 when he made findings about UAPs being
+    extra-terrestrial in his original report to the Royal Australian Air Force's intelligence
+    branch.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 6a0908ae-a9fa-4a24-9c24-20573b939788
+    title: 1954 Harry Turner Directorate of Air Force Intelligence (DAFI) Unidentified
+      Aerial Phenomena (UAP) review
+    slug: 1954-harry-turner-directorate-of-air-force-intelligence-dafi-unidentified-aerial-phenomena-uap-review
+  - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
+    title: Royal Australian Air Force
+    slug: royal-australian-air-force
+  date: '1954'
+  date_end: null
+  location_in_record: ch11:816-996
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ddde7cb4-bb1f-423c-846f-8551fc0b53e3
+  claim_hash: 88eb78c6b6ad757c0dbaf8dcef867eb41ac8fb3a02dc8f4bdabb344c0801dced
+  content: Australia's Director of Air Force Intelligence said Harry Turner had erred
+    in quoting Donald Keyhoe because Keyhoe supposedly gave the misleading impression
+    his books had some official US government sanction.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be Australia's Director of Air Force Intelligence
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 26e4a0c7-7da3-4001-8f87-118941d1961c
+    title: Directorate of Air Force Intelligence Australia
+    slug: directorate-of-air-force-intelligence-australia
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+    title: Donald Keyhoe
+    slug: donald-keyhoe
+  date: '1954'
+  date_end: null
+  location_in_record: ch9:10023-10194
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 4a3b19e1-ff22-4bde-b746-a4a99d5e1176
+  claim_hash: 0e45aa4ae9a4687727fc4d7cf07add5b11bacdda7e94b8814158bac7cf852d13
+  content: The Royal Australian Air Force elected to heed its American ally and play
+    down Harry Turner's flying saucer extra-terrestrial hypothesis.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 6a0908ae-a9fa-4a24-9c24-20573b939788
+    title: 1954 Harry Turner Directorate of Air Force Intelligence (DAFI) Unidentified
+      Aerial Phenomena (UAP) review
+    slug: 1954-harry-turner-directorate-of-air-force-intelligence-dafi-unidentified-aerial-phenomena-uap-review
+  - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
+    title: Royal Australian Air Force
+    slug: royal-australian-air-force
+  date: '1954'
+  date_end: null
+  location_in_record: ch9:11055-11166
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 4150be47-e9c1-47b2-919f-e5a8719b786f
+  claim_hash: f720df2699c7843ce64be170258289ef36d6f9c754c5910b58821ff2ca419724
+  content: Bill Chalker befriended Harry Turner late in Turner's life.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  date: null
+  date_end: null
+  location_in_record: ch9:11388-11427
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 8ea173fb-d2bc-4f5c-9e21-0ba491e345d8
+  claim_hash: 59c7250848d197a3201857318dd7797c72fe70c057975c17f46a013e3f9ae310
+  content: Bill Chalker considers that political myopia from both the US and Australian
+    military effectively scuttled Australia's first serious flirtation with scientific
+    investigation of UFOs.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+  provenance_chain:
+    origin_kind: named
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    slug: bill-chalker
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
+    title: Royal Australian Air Force
+    slug: royal-australian-air-force
+  date: null
+  date_end: null
+  location_in_record: ch9:11436-11612
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 118d81b9-28a2-4ae3-8dc8-78c6a3e7d14e
+  claim_hash: a84bd486c138e8f6c9b627061276d33082dad3f58cfba087730df127eb485910
+  content: Now-declassified files show that Oliver Harry Turner, the same Professor
+    Harry Turner hired in 1954 to conduct the classified UAP review for Australia's
+    Defence Department, took part in the British nuclear tests at Maralinga from 1956
+    to 1963 as a health physics officer.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: now-declassified files in Australia's National Archives
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0be54222-7550-4b02-b1c0-8ea8ef5736c7
+    title: Australian Department of Supply
+    slug: australian-department-of-supply
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: c0e8f513-a6bb-48d1-9d2a-1e4de82b5202
+    title: Maralinga nuclear tests
+    slug: maralinga-nuclear-tests
+  date: '1956'
+  date_end: null
+  location_in_record: ch9:12761-13036
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 23905e98-4d35-4b63-9628-6629b6192b0f
+  claim_hash: 691021f64018bf9f3dc42c6866dc34d31325e73ab817274451738fb8a7a1a842
+  content: Previously secret files in Australia's National Archives reveal that Harry
+    Turner investigated strange sightings of anomalous objects in the skies over Maralinga
+    throughout the British atmospheric nuclear bomb testing.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: previously secret files in Australia's National Archives
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: c0e8f513-a6bb-48d1-9d2a-1e4de82b5202
+    title: Maralinga nuclear tests
+    slug: maralinga-nuclear-tests
+  - node_id: c315e24b-354f-4b59-81dc-12ade831108c
+    title: National Archives of Australia
+    slug: national-archives-of-australia
+  date: null
+  date_end: null
+  location_in_record: ch9:13048-13249
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d99944cc-1ff1-4fcf-b240-d1d944ad29de
+  claim_hash: 9f78a78a0983461573b406a2947a4f618e82bd0981efa8d7eea1183394f087e6
+  content: Harry Turner concluded that the light seen during the 1960 Wewak Maralinga
+    UAP sighting was not the result of a natural phenomenon but was caused by an unidentified
+    flying object, either a cone from a satellite or a flying saucer.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+  provenance_chain:
+    origin_kind: named
+    origin: Harry Turner
+    relay:
+    - the Range's security officer's report
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: 1960-07
+  date_end: null
+  location_in_record: ch9:13791-14037
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7fc67c6a-41cc-47bb-bc20-732f009d5f62
+  claim_hash: 26cee533633f1d8e6f377c72ce62bd6ebc396bd1e9ea1aa391a4cba3bfaa8b41
+  content: The Range's security officer ignored Harry Turner's conclusion about the
+    1960 Wewak Maralinga UAP sighting and instead speculated that the light was either
+    a meteor or static electricity.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be the Maralinga Range's security officer
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: 1960-07
+  date_end: null
+  location_in_record: ch9:14045-14172
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 63bfc483-2011-4b0f-9a50-e264fb3c920e
+  claim_hash: 37d5150c2e93a55258570355faffee7240db05b439dfe852fd85378549a61b9e
+  content: In 1954, Harry Turner, a Melbourne University nuclear physics professor
+    with an existing security clearance, approached the air force asking to read its
+    UAP files, and was hired by the Directorate of Air Force Intelligence to do a
+    classified review of recent sightings.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 26e4a0c7-7da3-4001-8f87-118941d1961c
+    title: Directorate of Air Force Intelligence Australia
+    slug: directorate-of-air-force-intelligence-australia
+  - node_id: 2ad3b630-e5c8-441f-84ac-94dc07fafb12
+    title: Australia, Melbourne University
+    slug: melbourne-university-australia
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 6a0908ae-a9fa-4a24-9c24-20573b939788
+    title: 1954 Harry Turner Directorate of Air Force Intelligence (DAFI) Unidentified
+      Aerial Phenomena (UAP) review
+    slug: 1954-harry-turner-directorate-of-air-force-intelligence-dafi-unidentified-aerial-phenomena-uap-review
+  date: '1954'
+  date_end: null
+  location_in_record: ch9:9151-9447
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b3db168e-8883-4891-9e54-1d7f11f66f91
+  claim_hash: 7a282d422cb571fbfd057dc636e7b5c0e336094cfe9e3082a6a0c151301a35dc
+  content: Harry Turner's report to the Directorate of Air Force Intelligence concluded
+    that the evidence presented by the Royal Australian Air Force tends to support
+    the conclusion that certain strange aircraft have been observed to behave in a
+    manner suggestive of extra-terrestrial origin.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Harry Turner
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 6a0908ae-a9fa-4a24-9c24-20573b939788
+    title: 1954 Harry Turner Directorate of Air Force Intelligence (DAFI) Unidentified
+      Aerial Phenomena (UAP) review
+    slug: 1954-harry-turner-directorate-of-air-force-intelligence-dafi-unidentified-aerial-phenomena-uap-review
+  - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
+    title: Royal Australian Air Force
+    slug: royal-australian-air-force
+  date: '1954'
+  date_end: null
+  location_in_record: ch9:9458-9683
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: dd1d2293-344b-4e05-9d78-cde44a42bd21
+  claim_hash: 1ce9aa94e80c2ed94d9da7816827a626d8e339c9d80dbba192694f6096325e81
+  content: Because Harry Turner quoted US flying saucer author and National Investigations
+    Committee on Aerial Phenomena director Donald Keyhoe in his research, Australia's
+    Director of Air Force Intelligence dismissed Turner's findings after consulting
+    with the US Air Force.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 26e4a0c7-7da3-4001-8f87-118941d1961c
+    title: Directorate of Air Force Intelligence Australia
+    slug: directorate-of-air-force-intelligence-australia
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+    title: National Investigations Committee on Aerial Phenomena (NICAP)
+    slug: national-investigations-committee-on-aerial-phenomena-nicap
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  - node_id: 6a0908ae-a9fa-4a24-9c24-20573b939788
+    title: 1954 Harry Turner Directorate of Air Force Intelligence (DAFI) Unidentified
+      Aerial Phenomena (UAP) review
+    slug: 1954-harry-turner-directorate-of-air-force-intelligence-dafi-unidentified-aerial-phenomena-uap-review
+  - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+    title: Donald Keyhoe
+    slug: donald-keyhoe
+  date: '1954'
+  date_end: null
+  location_in_record: ch9:9728-10016
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted

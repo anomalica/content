@@ -1,0 +1,1328 @@
+schema: anomalica/brief/1
+brief_hash: 72e929c080a6b48e38ddb5c0c905eed0edf6aff47b8f531f73f5e8b3912d4a0d
+page:
+  kind: entity
+  node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+  node_type: topic
+  title: Anti-Gravity Propulsion
+  slug: anti-gravity-propulsion
+  claim_count: 30
+  claim_count_total: 30
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+  title: Nat Kobitz
+  node_type: person
+  slug: nat-kobitz
+  shared_claims: 6
+- node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+  title: Tom DeLonge
+  node_type: person
+  slug: tom-delonge
+  shared_claims: 5
+- node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
+  title: Gordon Novel
+  node_type: person
+  slug: gordon-novel
+  shared_claims: 3
+- node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+  title: Ross Coulthart
+  node_type: person
+  slug: ross-coulthart
+  shared_claims: 3
+- node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+  title: To the Stars Academy of Arts and Science (TTSA)
+  node_type: organisation
+  slug: to-the-stars-academy-of-arts-and-science-ttsa
+  shared_claims: 3
+- node_id: 1e606273-9d93-42b4-ad59-c38e6c66302d
+  title: 2016-03 George Knapp interview with Tom DeLonge
+  node_type: document
+  slug: 2016-03-george-knapp-interview-with-tom-delonge
+  shared_claims: 2
+- node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+  title: George Knapp
+  node_type: person
+  slug: george-knapp
+  shared_claims: 2
+- node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+  title: Jesse Mitchells
+  node_type: person
+  slug: jesse-mitchells
+  shared_claims: 2
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 2
+- node_id: 9caeaff0-3abf-4a8b-b10b-54f883a431d6
+  title: Nazi underground
+  node_type: topic
+  slug: nazi-underground
+  shared_claims: 2
+- node_id: fadbf742-c344-49b5-a6c6-c6d10b2e6cdc
+  title: Rudolf Schriever
+  node_type: person
+  slug: rudolf-schriever
+  shared_claims: 2
+- node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
+  title: Sur Novel
+  node_type: person
+  slug: sur-novel
+  shared_claims: 2
+- node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
+  title: Thomas Townsend Brown
+  node_type: person
+  slug: thomas-townsend-brown
+  shared_claims: 2
+- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+  title: United States Navy (USN)
+  node_type: organisation
+  slug: united-states-navy-usn
+  shared_claims: 2
+- node_id: f664eac3-734e-435c-b87b-2ac2431134fc
+  title: Agnew Bahnson
+  node_type: person
+  slug: agnew-bahnson
+  shared_claims: 1
+- node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
+  title: Art's Parts (alleged Roswell metal samples)
+  node_type: object
+  slug: arts-parts-alleged-roswell-metal-samples
+  shared_claims: 1
+- node_id: fb349523-76fb-4f68-ad4c-e11301eb09f8
+  title: Fluxliner alien reproduction vehicle
+  node_type: object
+  slug: fluxliner-alien-reproduction-vehicle
+  shared_claims: 1
+- node_id: 3986c08a-c162-4654-8522-227f2e721ff6
+  title: Giuseppe Belluzzo
+  node_type: person
+  slug: giuseppe-belluzzo
+  shared_claims: 1
+- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+  title: Harold E. Puthoff
+  node_type: person
+  slug: harold-e-puthoff
+  shared_claims: 1
+- node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+  title: Harry Turner
+  node_type: person
+  slug: harry-turner
+  shared_claims: 1
+- node_id: 42d28ff6-8f03-45b3-8d09-9bd001cd6230
+  title: Nick Cook
+  node_type: person
+  slug: nick-cook
+  shared_claims: 1
+- node_id: 6131015e-9308-4c36-bc89-ca45be5f90be
+  title: Robert Richards
+  node_type: person
+  slug: robert-richards
+  shared_claims: 1
+- node_id: 60717a85-0753-40e2-8ff3-aa15895c8c52
+  title: Supreme Cosmic Secret - How the U.S. Government Reverse-Engineered An Extra-terrestrial
+    Spacecraft
+  node_type: document
+  slug: supreme-cosmic-secret---how-the-us-government-reverse-engineered-an-extra-terrestrial-spacecraft
+  shared_claims: 1
+- node_id: 73706b06-50cc-47bb-9336-2e52d9c3ab04
+  title: Transmedium Travel
+  node_type: concept
+  slug: transmedium-travel
+  shared_claims: 1
+- node_id: 75080c1c-2b3c-4e17-87c9-0096b1c8e930
+  title: Twitter
+  node_type: organisation
+  slug: twitter
+  shared_claims: 1
+- node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+  title: USA, Nevada, Area 51
+  node_type: place
+  slug: nevada-area-51-usa
+  shared_claims: 1
+- node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+  title: World War II
+  node_type: event
+  slug: world-war-ii
+  shared_claims: 1
+- node_id: 2e3b1f38-f41e-4ced-9ec0-812b17e942d3
+  title: metamaterials (Art's Parts context)
+  node_type: topic
+  slug: metamaterials-arts-parts-context
+  shared_claims: 1
+- node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+  title: zero-point energy
+  node_type: topic
+  slug: zero-point-energy
+  shared_claims: 1
+claims:
+- claim_id: b883c7f3-f341-4e39-bc66-adaf37a613c5
+  claim_hash: f59eb30af7a447ed35d1a8e8bf1983d9d017f0fa4e5eb0db6f1cc3ef03eb87de
+  content: Harry Turner asserted that while publicly debunking UFOs, the US was secretly
+    launching a crash programme into anti-gravity power.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+  provenance_chain:
+    origin_kind: named
+    origin: Harry Turner
+    relay:
+    - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    slug: harry-turner
+  date: null
+  date_end: null
+  location_in_record: ch11:2118-2205
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 10a95105-449a-44ec-aa8e-e7daf42e2bc0
+  claim_hash: 6281a53947ff24753313553498c615f7c48832cc83d30f1dfc84cb1ebb5d6061
+  content: By 1989 there was widespread speculation that America had developed a new
+    super-stealthy craft inside Area 51, perhaps involving a breakthrough in anti-gravity
+    propulsion, giving rise to the mythical 'Aurora'.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: widespread speculation
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: '1989'
+  date_end: null
+  location_in_record: ch13:10654-10824
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: adcee64e-207f-480e-8eae-2125b6d87cff
+  claim_hash: 6ed2f49c94cb5d69e7877d28981331fc38dca5175e52af1b2f64bf780c47cbaf
+  content: Tom DeLonge said he was told the US government has cracked gravity and
+    is building machinery with anti-gravity capability.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: first_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  date: null
+  date_end: null
+  location_in_record: ch19:14761-14953
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3eba7266-76f9-487d-887f-12f495e7b711
+  claim_hash: d36bb54bcaac4b21f9e62fd98359b297feb29255d9d07ff4e2983b5c5fafd825
+  content: People who had invested in To The Stars Academy of Arts & Sciences on the
+    promise of a major breakthrough in anti-gravity propulsion would be sorely disappointed
+    by Hal Puthoff's departure.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  date: null
+  date_end: null
+  location_in_record: ch21:24490-24597
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 055b386c-8123-4f44-83ea-c45273951127
+  claim_hash: ace89035ec5271856f5babacc52883a9a3eaca279cfedd67c5ab05f40bdea5f9
+  content: In his interview with Joe Rogan, Tom DeLonge claimed that To The Stars
+    Academy of Arts & Sciences expected to soon build a working anti-gravity craft.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  date: null
+  date_end: null
+  location_in_record: ch21:8743-8874
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 20ab0937-c8ba-4290-b502-1d63569472c8
+  claim_hash: 57485eaf359242de78c28e5513b83ef50c32499a04e77e4486f3e738a5095801
+  content: Numerous US corporations funded research into anti-gravity propulsion in
+    the 1950s and 1960s, with no apparent result.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  date: null
+  date_end: null
+  location_in_record: ch21:9017-9162
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 975e1cf0-c90b-4c70-b162-8e3bb4f94317
+  claim_hash: 96d26becbe3b7f5388a145bb4c62e78feed3b142d8babbe8de592d7cc8ac87d3
+  content: The first of Luis Elizondo's Five Observables is that UAP display an apparent
+    ability to fly with positive lift or anti-gravity, without any apparent means
+    of propulsion or lift.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Luis Elizondo
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  date: null
+  date_end: null
+  location_in_record: ch22:13097-13258
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 06d15060-3d73-4e11-8a77-a67f2d7285e2
+  claim_hash: 5dcbb9c7ad85f0ef139922d0d0f067716cbf08c656ff1593274e357466b9df2b
+  content: In March 2016, Tom DeLonge told George Knapp that he had learned from government
+    insiders that the United States had made a secret technological breakthrough in
+    anti-gravity propulsion.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: named
+    origin: Tom DeLonge's government insiders
+    relay:
+    - Tom DeLonge
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1e606273-9d93-42b4-ad59-c38e6c66302d
+    title: 2016-03 George Knapp interview with Tom DeLonge
+    slug: 2016-03-george-knapp-interview-with-tom-delonge
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    slug: george-knapp
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  date: 2016-03
+  date_end: null
+  location_in_record: ch22:21754-22103
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d1dc1ad7-f05f-4843-9dfa-421d4b48ad6e
+  claim_hash: 2a5a29d746fc4501b3d726f6ef9fbf97de3bd1a5b83e5834b91358a03fbca2c6
+  content: Tom DeLonge told George Knapp that the United States is building machinery
+    that has anti-gravity capability and that this is a big deal.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: named
+    origin: Tom DeLonge's government sources
+    relay:
+    - Tom DeLonge
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1e606273-9d93-42b4-ad59-c38e6c66302d
+    title: 2016-03 George Knapp interview with Tom DeLonge
+    slug: 2016-03-george-knapp-interview-with-tom-delonge
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    slug: george-knapp
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  date: 2016-03
+  date_end: null
+  location_in_record: ch22:22118-22225
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 342acff8-25d7-4c05-81ba-0fbb01240a68
+  claim_hash: 4ff958aef62fd1b87d18010dcc81a83a58453ac0011028b6568c787911fb55ac
+  content: There is speculation that metamaterials could be used to alter magnetic
+    properties, potentially enabling manipulation of gravity and revolutionary propulsion
+    systems such as anti-gravity.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unattributed speculation
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 2e3b1f38-f41e-4ced-9ec0-812b17e942d3
+    title: metamaterials (Art's Parts context)
+    slug: metamaterials-arts-parts-context
+  date: null
+  date_end: null
+  location_in_record: ch24:1996-2174
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d5959894-d9da-48ae-8dc0-9b160284b178
+  claim_hash: 86e76051e5da0ade61442171ca79569eca6543435ad8244a3042394bfb34e926
+  content: One hypothesis about the Art's Parts samples is that their structure may
+    work as a waveguide, so that the material could display anti-gravitic levitation
+    when the right electromagnetic signal is applied.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unattributed hypothesis about the Art's Parts samples
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
+    title: Art's Parts (alleged Roswell metal samples)
+    slug: arts-parts-alleged-roswell-metal-samples
+  date: null
+  date_end: null
+  location_in_record: ch24:228-449
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5c817205-d557-4f48-aafd-687ac99993da
+  claim_hash: c20be74eb08e3c43e52aaa889f35c621b20b7fd3c0646153d17d8aea1ef8e725
+  content: Nat Kobitz confirmed he worked on anti-gravity or field propulsion technology
+    and that the United States Navy was researching it, though he described his work
+    as relatively unexciting.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+  provenance_chain:
+    origin_kind: speaker
+    origin: Nat Kobitz
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+    slug: nat-kobitz
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  date: null
+  date_end: null
+  location_in_record: ch27:12080-12316
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: df642a3a-01de-4baa-8908-1ecc551bf44e
+  claim_hash: dd9bfaac481c3284465524f11fe7efbb0264c41c1cb5473f8eb717a3d47f5426
+  content: Nat Kobitz did not believe the United States had cracked the secret of
+    anti-gravity despite years of secret research.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+  provenance_chain:
+    origin_kind: speaker
+    origin: Nat Kobitz
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+    slug: nat-kobitz
+  date: null
+  date_end: null
+  location_in_record: ch27:12443-12616
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b286cb60-8582-455d-8786-f151a3188b47
+  claim_hash: fd357e14e3db78eb68b53df45e88be2de1fba839331b9786adf5e72d3c42845c
+  content: Nat Kobitz said that if he had not retired, he would eventually have been
+    drawn into the anti-gravity research effort.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+  provenance_chain:
+    origin_kind: speaker
+    origin: Nat Kobitz
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+    slug: nat-kobitz
+  date: null
+  date_end: null
+  location_in_record: ch27:12627-12725
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6b8354c6-110a-4284-9c52-9fa70bbda8e6
+  claim_hash: f7a84d69eb20bc2b7184306841995985fbbccb6c5f4ff1b75ee9fe219fe462ed
+  content: Gordon Novel's book quoted 'Wally Katz' as reluctantly admitting the alien
+    reproduction vehicle (ARV) was a reproduction of a universal UFO drive design,
+    that he was willing to fund Hal Puthoff's zero-point energy research and development
+    program and secretly show how to do it, but that the antigravity system of the
+    ARV had to remain a 'Supreme Cosmic Secret' and the number one national security
+    issue.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Gordon Novel
+    relay:
+    - Gordon Novel's book on the ARV Fluxliner
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+    title: zero-point energy
+    slug: zero-point-energy
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+    slug: nat-kobitz
+  - node_id: 60717a85-0753-40e2-8ff3-aa15895c8c52
+    title: Supreme Cosmic Secret - How the U.S. Government Reverse-Engineered An Extra-terrestrial
+      Spacecraft
+    slug: supreme-cosmic-secret---how-the-us-government-reverse-engineered-an-extra-terrestrial-spacecraft
+  - node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
+    title: Gordon Novel
+    slug: gordon-novel
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: fb349523-76fb-4f68-ad4c-e11301eb09f8
+    title: Fluxliner alien reproduction vehicle
+    slug: fluxliner-alien-reproduction-vehicle
+  date: null
+  date_end: null
+  location_in_record: ch27:2788-3160
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c4660e3c-8199-4d72-9670-63bd7f1cc5be
+  claim_hash: 65ccfab5b307d9a83f710eec3fe5b55ddaf1c0ff8fdb73bbb25e013d01f93202
+  content: Sur Novel believes his father Gordon Novel was genuinely onto something
+    in his belief that the United States was secretly researching anti-gravity technology
+    and was trying to work out how it functioned.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
+    title: Sur Novel
+  provenance_chain:
+    origin_kind: speaker
+    origin: Sur Novel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
+    title: Sur Novel
+    slug: sur-novel
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
+    title: Gordon Novel
+    slug: gordon-novel
+  date: null
+  date_end: null
+  location_in_record: ch27:8434-8629
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 13b8ede5-3762-41ab-852c-6a0a431180bc
+  claim_hash: 2ac52f2e0d4e4fbc12759fc53f4252f618a1a1eb7f49c89161c0a8d2167eaa92
+  content: Sur Novel believes the United States government already has its hands on
+    anti-gravity technology.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
+    title: Sur Novel
+  provenance_chain:
+    origin_kind: speaker
+    origin: Sur Novel
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
+    title: Sur Novel
+    slug: sur-novel
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  date: null
+  date_end: null
+  location_in_record: ch27:8656-8727
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 233601f6-f420-4744-bcc3-b001daacd399
+  claim_hash: 6e65fe50736d98e9aee2dc2ea12d401449894415bcc41193e86ead5dbe9a68e4
+  content: Ross Coulthart has a sceptical hunch that Gordon Novel embellished what
+    Nat Kobitz said at the Pentagon meeting in order to lure readers of his book into
+    funding his anti-gravity propulsion project.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+    slug: nat-kobitz
+  - node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
+    title: Gordon Novel
+    slug: gordon-novel
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    slug: ross-coulthart
+  date: null
+  date_end: null
+  location_in_record: ch27:9019-9178
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b93bd1a6-c8b0-473c-a34c-4cd02c4aafab
+  claim_hash: f48142dde16f9a3f6d6533c0eb746aeffa55b75baeb5ee13dc732af310a1fdc1
+  content: Nick Cook believes there is a kernel of reality in the anti-gravity and
+    UAP story, though he does not know for certain whether the United States has developed
+    anti-gravity technology.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 42d28ff6-8f03-45b3-8d09-9bd001cd6230
+    title: Nick Cook
+  provenance_chain:
+    origin_kind: speaker
+    origin: Nick Cook
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 42d28ff6-8f03-45b3-8d09-9bd001cd6230
+    title: Nick Cook
+    slug: nick-cook
+  date: null
+  date_end: null
+  location_in_record: ch28:21716-21895
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a67b6d8d-c5ac-4e5e-b7c6-00995f6cb201
+  claim_hash: 1d559de9ec6e78fc45f827f151e64dcbbdd6e714d6a1593b5ef606734bff3ae5
+  content: If a working anti-gravity (AG) craft exists, the United States Navy has
+    kept it very quiet.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+  provenance_chain:
+    origin_kind: named
+    origin: Nat Kobitz
+    relay:
+    - Ross Coulthart
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+    slug: nat-kobitz
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  date: null
+  date_end: null
+  location_in_record: ch28:22433-22529
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 58085174-e75a-418a-a076-66b89f091945
+  claim_hash: ab864e221526acabde11389c68cb1c88ef4af6f41bd9c934a31670efe82e0e4f
+  content: United States anti-gravity research went dark, becoming classified and
+    secret, in the 1960s but never actually stopped.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    slug: ross-coulthart
+  date: null
+  date_end: null
+  location_in_record: ch28:22922-23044
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 57295540-3258-4bd2-8bc7-269b30b5e9c0
+  claim_hash: ed63fededed1aa4c463ea3c4e7c5b352eed976802ae9d935fcf26114ae5f09b2
+  content: Ross Coulthart is sceptical that the United States has cracked anti-gravity
+    but is confident that an intensive secret effort into anti-gravity is still underway.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    slug: ross-coulthart
+  date: null
+  date_end: null
+  location_in_record: ch28:23053-23196
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 1663b21b-68b7-4cc8-8901-bf16f83e46a8
+  claim_hash: 196c2139fc6e0327504add74c626cdffa743edb356a9102be2596437fbe97536
+  content: On 2020-07-25, Tom DeLonge tweeted that he was working on the first plans
+    for an anti-gravitic propulsion experiment for To The Stars Academy.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 75080c1c-2b3c-4e17-87c9-0096b1c8e930
+    title: Twitter
+    slug: twitter
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  date: '2020-07-25'
+  date_end: null
+  location_in_record: ch34:41321-41443
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 8c8d8de3-129e-40fe-9a7d-109e4da0da46
+  claim_hash: 134aa42a3f48446ba03fc3d4b7992ddc7634548106a17e3494fd671286ff7fa7
+  content: During the 1950s and early 1960s, American science magazines openly touted
+    rumours of imminent United States breakthroughs in anti-gravitic propulsion.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  date: null
+  date_end: null
+  location_in_record: ch37:1267-1427
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9f72d4e3-1d9b-4e53-840d-ca1a6fdee035
+  claim_hash: 87dc5074222e03f6e6e1c0446cbe09b796421d5dba5e238b609aafe49c9ed59e
+  content: Luis Elizondo described the observed UAP technology as capable of instantaneous
+    acceleration, hypersonic velocities, low observability, trans-medium travel, and
+    anti-gravity, and able to fly unimpeded over controlled US airspace at will.
+  original_excerpt: If there is a technology that has somehow leapfrogged ahead of
+    us, that has the capabilities that we're seeing, instantaneous acceleration, hypersonic
+    velocities, low observability, trans-medium travel, and anti-gravity, and it has
+    the ability to fly unimpeded over our controlled US airspace at will, and there's
+    nothing we can do about it, yes, that's the national security imperative.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Luis Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 73706b06-50cc-47bb-9336-2e52d9c3ab04
+    title: Transmedium Travel
+    slug: transmedium-travel
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  date: null
+  date_end: null
+  location_in_record: 00:11:17.6-00:11:40.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+- claim_id: e353db4c-2510-4aef-baf1-0031b1251902
+  claim_hash: 667d01a516f1b426415e7740457b1dc39af51b37e9892d3d47dae52cf4282e76
+  content: Jesse Michels previously suspected a conflation between an anti-gravity
+    exotic propulsion lineage possibly created in Nazi Germany or during World War
+    II and reports of alien craft.
+  original_excerpt: i thought you know there was a conflation maybe going on between
+    kind of some anti-gravity lineage of you know some exotic propulsion that maybe
+    uh was created in nazi germany or you know maybe world war ii and then ... they
+    conflate it with these alien things
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michels
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    slug: jesse-mitchells
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+    title: World War II
+    slug: world-war-ii
+  date: null
+  date_end: null
+  location_in_record: 01:01:10.8-01:01:26.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 0c6f595b-5cfc-4a27-8e6b-efabad0b88ba
+  claim_hash: 0cde4e85794f90711b354e9e7ef0054e28f7a2856935ea7c08ee7a2d43b85b46
+  content: Jesse Michels is interested in Thomas Townsend Brown and his anti-gravity
+    research.
+  original_excerpt: I'm obsessed with, you know, Thomas Townsend Brown and his anti-gravity
+    research.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michels
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    slug: jesse-mitchells
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
+    title: Thomas Townsend Brown
+    slug: thomas-townsend-brown
+  date: null
+  date_end: null
+  location_in_record: 01:09:56.6-01:09:59.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: a044c042-1d54-44b5-b2a8-acc15c716883
+  claim_hash: 38b31e189b07fcc082f5ec34c0f3cc0c36fff9ea4bbe462721a29421f38264c4
+  content: Richard Miethe, Rudolf Schriever, Giuseppe Belluzzo and four or five other
+    individuals all claimed to have worked on what appear to be multiple separate
+    attempts to build disc-shaped craft in the Nazi era.
+  original_excerpt: You've got Miethe, Schriever, Belluzzo. There's like four or five
+    other individuals who all claim to have worked on what appear to be multiple different
+    attempts to build disc-shaped craft.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: named
+    origin: Richard Miethe, Rudolf Schriever, Giuseppe Belluzzo and others
+    relay:
+    - Jason Samosa
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 3986c08a-c162-4654-8522-227f2e721ff6
+    title: Giuseppe Belluzzo
+    slug: giuseppe-belluzzo
+  - node_id: 6131015e-9308-4c36-bc89-ca45be5f90be
+    title: Robert Richards
+    slug: robert-richards
+  - node_id: 9caeaff0-3abf-4a8b-b10b-54f883a431d6
+    title: Nazi underground
+    slug: nazi-underground
+  - node_id: fadbf742-c344-49b5-a6c6-c6d10b2e6cdc
+    title: Rudolf Schriever
+    slug: rudolf-schriever
+  date: null
+  date_end: null
+  location_in_record: 01:12:23.2-01:12:34.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 7e58c791-be8d-41bc-bdd2-a1d54b2d7ed9
+  claim_hash: 6749e0e0322b1a79f5bc24cf3671c0f7a787f439acf05e0b0fb8b85b9d6733db
+  content: Rudolf Schriever said that in 1944 a disc-shaped craft was finally flown
+    and rose to approximately 12,000 metres in a few minutes.
+  original_excerpt: And you have Rudolph Schriever and I think, you know, saying that
+    in 1944, we finally flew this craft and it rose to, you know, 40,000 feet in a
+    few minutes.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: named
+    origin: Rudolf Schriever
+    relay:
+    - Jesse Michels
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: 9caeaff0-3abf-4a8b-b10b-54f883a431d6
+    title: Nazi underground
+    slug: nazi-underground
+  - node_id: fadbf742-c344-49b5-a6c6-c6d10b2e6cdc
+    title: Rudolf Schriever
+    slug: rudolf-schriever
+  date: '1944'
+  date_end: null
+  location_in_record: 01:13:21.8-01:13:31.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 566c9374-89b2-473d-b128-342885b44c4b
+  claim_hash: 07f590c0dc6cb1fd5098e53e5b177041a2341a6e0a4412ba9cc40a074bb5cefd
+  content: Agnew Bahnson funded the top theoretical physicists of his time, including
+    Thomas Townsend Brown, who was working on anti-gravity experiments.
+  original_excerpt: you have Agnew Bahnson who's funding all the top theoretical physicists
+    at the time, but also a lot of interesting people like Townsend Brown, literally
+    working on anti-gravity, doing anti-gravity experiments.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michels
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    slug: anti-gravity-propulsion
+  - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
+    title: Thomas Townsend Brown
+    slug: thomas-townsend-brown
+  - node_id: f664eac3-734e-435c-b87b-2ac2431134fc
+    title: Agnew Bahnson
+    slug: agnew-bahnson
+  date: null
+  date_end: null
+  location_in_record: 01:31:26.0-01:31:38.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

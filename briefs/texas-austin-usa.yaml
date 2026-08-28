@@ -1,0 +1,615 @@
+schema: anomalica/brief/1
+brief_hash: 5a532e84a5de5e0c47d3dfa04cfba1d972dbd1a1bbb40f9b5ecd6e35f8436d64
+page:
+  kind: entity
+  node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+  node_type: place
+  title: USA, Texas, Austin
+  slug: texas-austin-usa
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 8
+- node_id: 9e507893-568b-4911-a7e3-06d38dc14cfc
+  title: 1967-09 Austin missing-time experience
+  node_type: event
+  slug: 1967-09-austin-missing-time-experience
+  shared_claims: 2
+- node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+  title: Anne Strieber
+  node_type: person
+  slug: anne-strieber
+  shared_claims: 2
+- node_id: 14a28fcf-6ed3-45c5-b107-e46117e024b7
+  title: 1957 train trip abduction memory (age twelve)
+  node_type: event
+  slug: 1957-train-trip-abduction-memory-age-twelve
+  shared_claims: 1
+- node_id: 3be338eb-f5a2-4edb-957d-6f9a0006c99a
+  title: Bleeding Heart of Jesus picture, Austin, Texas (1991-01-11)
+  node_type: event
+  slug: austin-texas-1991-01-11-bleeding-heart-of-jesus-picture
+  shared_claims: 1
+- node_id: da4e456b-8469-4607-a574-46bef4b028e5
+  title: December 26, 1985 abduction experience
+  node_type: event
+  slug: 1985-abduction-experience-december-26
+  shared_claims: 1
+- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+  title: Eric Davis
+  node_type: person
+  slug: eric-davis
+  shared_claims: 1
+- node_id: 01901068-df09-4d46-8c2d-aca4db216069
+  title: Gulf War
+  node_type: event
+  slug: gulf-war
+  shared_claims: 1
+- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+  title: Harold E. Puthoff
+  node_type: person
+  slug: harold-e-puthoff
+  shared_claims: 1
+- node_id: b0d5191d-177f-42ee-ba57-9783bdf7820c
+  title: James Kunetka
+  node_type: person
+  slug: james-kunetka
+  shared_claims: 1
+- node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+  title: Nat Kobitz
+  node_type: person
+  slug: nat-kobitz
+  shared_claims: 1
+- node_id: a8ed9d6c-a24c-4413-93b7-e67c8ff3fd63
+  title: Puthoff Institute for Advanced Studies Austin
+  node_type: organisation
+  slug: puthoff-institute-for-advanced-studies-austin
+  shared_claims: 1
+- node_id: a05ad862-464f-41e8-89c7-6c855bde77ad
+  title: Ray Stanford
+  node_type: person
+  slug: ray-stanford
+  shared_claims: 1
+- node_id: b116c42c-dedf-43ca-b1f0-3010b7c2f921
+  title: San José parish, Austin
+  node_type: organisation
+  slug: austin-san-jose-parish
+  shared_claims: 1
+- node_id: 0663c113-a006-4e4b-a284-8cca01b78c4e
+  title: Sea Scout unmanned aerial vehicle
+  node_type: object
+  slug: sea-scout-unmanned-aerial-vehicle
+  shared_claims: 1
+- node_id: 627b2576-c191-49e4-8f9a-509dc530d908
+  title: USA, Texas, San Antonio
+  node_type: place
+  slug: texas-san-antonio-usa
+  shared_claims: 1
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 1
+- node_id: 5f0ccc2a-7721-4f34-a529-3811bc6f16b5
+  title: University of Texas at Austin
+  node_type: organisation
+  slug: university-of-texas-at-austin
+  shared_claims: 1
+claims:
+- claim_id: 5ae2d15b-e2d6-4b07-8bbf-91e571d43037
+  claim_hash: 7d05df78e836d8aff0234b783cde2333fbedcf96d7e0d5958b8679c2abc26b20
+  content: Ray Stanford, reversing his earlier position about the inadequacy of science,
+    operates a UFO detection station in Austin, Texas using donated electronic equipment.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: a05ad862-464f-41e8-89c7-6c855bde77ad
+    title: Ray Stanford
+    slug: ray-stanford
+  - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+    title: USA, Texas, Austin
+    slug: texas-austin-usa
+  date: null
+  date_end: null
+  location_in_record: ch13:14007-14274
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 1dcca6f6-ca1c-4292-bfe0-4f0af890251a
+  claim_hash: 1a15124e8413c7f1fbe594ed633e6be164b54c58f31de1e7eb789fe78f7a51f3
+  content: A picture depicting the Heart of Jesus belonging to a member of the San
+    José parish of Austin, Texas, began to bleed on 1991-01-11, the day the Gulf War
+    started.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 01901068-df09-4d46-8c2d-aca4db216069
+    title: Gulf War
+    slug: gulf-war
+  - node_id: 3be338eb-f5a2-4edb-957d-6f9a0006c99a
+    title: Bleeding Heart of Jesus picture, Austin, Texas (1991-01-11)
+    slug: austin-texas-1991-01-11-bleeding-heart-of-jesus-picture
+  - node_id: b116c42c-dedf-43ca-b1f0-3010b7c2f921
+    title: San José parish, Austin
+    slug: austin-san-jose-parish
+  - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+    title: USA, Texas, Austin
+    slug: texas-austin-usa
+  date: '1991-01-11'
+  date_end: null
+  location_in_record: ch23:2724-2883
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 821b55fb-9694-49b1-937b-588709d0a4b4
+  claim_hash: f622f348975d7faa2dc1a9ab0e73edd9605c12016d0a3d10c628db370cd27f92
+  content: Whitley Strieber describes long visitation-type experiences as including
+    the 1957 train trip, an incident in Austin the August before the encounter at
+    his grandmother's house, and the December 26, 1985 abduction experience.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 14a28fcf-6ed3-45c5-b107-e46117e024b7
+    title: 1957 train trip abduction memory (age twelve)
+    slug: 1957-train-trip-abduction-memory-age-twelve
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: da4e456b-8469-4607-a574-46bef4b028e5
+    title: December 26, 1985 abduction experience
+    slug: 1985-abduction-experience-december-26
+  - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+    title: USA, Texas, Austin
+    slug: texas-austin-usa
+  date: null
+  date_end: null
+  location_in_record: ch12:100068-100232
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: ab9ec0c7-2bca-48ae-8e55-77ea9d826bbc
+  claim_hash: aec88fad75d634cacbf06823f470ddeef483e133ca72179d1606aeda83d9fb7f
+  content: In late August 1967, Whitley Strieber had rented a new studio apartment
+    and moved back to Austin, Texas, from San Antonio for the semester at the University
+    of Texas at Austin.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 5f0ccc2a-7721-4f34-a529-3811bc6f16b5
+    title: University of Texas at Austin
+    slug: university-of-texas-at-austin
+  - node_id: 627b2576-c191-49e4-8f9a-509dc530d908
+    title: USA, Texas, San Antonio
+    slug: texas-san-antonio-usa
+  - node_id: 9e507893-568b-4911-a7e3-06d38dc14cfc
+    title: 1967-09 Austin missing-time experience
+    slug: 1967-09-austin-missing-time-experience
+  - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+    title: USA, Texas, Austin
+    slug: texas-austin-usa
+  date: 1967-08
+  date_end: null
+  location_in_record: ch12:43767-43885
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: b644a76e-412c-4bd1-ad06-2f81166267d8
+  claim_hash: ef6a8b651595c5918a9dd543ca0a7147b4c7728a6e449b257bdaa7451c3ec168
+  content: Whitley Strieber recalls that the entity that haunted him in Austin in
+    1967 made a high-pitched sound similar to the one described in Sinistrari de Ameno's
+    treatise.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 9e507893-568b-4911-a7e3-06d38dc14cfc
+    title: 1967-09 Austin missing-time experience
+    slug: 1967-09-austin-missing-time-experience
+  - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+    title: USA, Texas, Austin
+    slug: texas-austin-usa
+  date: '1967'
+  date_end: null
+  location_in_record: ch14:45872-46023
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: ead47be1-a63b-4a5c-a189-5221d4cda2c8
+  claim_hash: 458fa4787bce2c4e5d2611fb3cb960ff1ef5d4526855cd1f22810a24d4033c26
+  content: Whitley Strieber decided he wanted to move to Austin, Texas, a city he
+    and Anne Strieber both loved.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+    title: Anne Strieber
+    slug: anne-strieber
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+    title: USA, Texas, Austin
+    slug: texas-austin-usa
+  date: null
+  date_end: null
+  location_in_record: ch9:63038-63160
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 64a142e8-4310-4aeb-8241-991bab38c680
+  claim_hash: 079224fbfa8dca5426e5b6546cbd67b16da0ede413bbd1f42a0c02d2ef8a41fe
+  content: Whitley Strieber's collaborator James Kunetka lived in Austin, Texas.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: b0d5191d-177f-42ee-ba57-9783bdf7820c
+    title: James Kunetka
+    slug: james-kunetka
+  - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+    title: USA, Texas, Austin
+    slug: texas-austin-usa
+  date: null
+  date_end: null
+  location_in_record: ch9:63166-63238
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: bfa53fba-d7a1-45b4-92f2-58c68c892f52
+  claim_hash: d53b041f0632c373112358547452551d0b3d27184382d777239ff9b59c1328e7
+  content: After Halloween 1985, Whitley Strieber and his family went to Texas, arranged
+    for their son to attend a local private school, and began the process of buying
+    a house.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+    title: USA, Texas, Austin
+    slug: texas-austin-usa
+  date: 1985-11
+  date_end: null
+  location_in_record: ch9:63317-63447
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: e760db1c-f3cb-4c59-870a-952d5ee3bdef
+  claim_hash: 4f52521af30ff275d3e9dc2ccd4bafcfe812286907f74f493f1f47fb8379133a
+  content: One evening in Austin, while Anne Strieber talked with the realtor and
+    owners of a house they had chosen to buy, Whitley Strieber walked out onto the
+    deck.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+    title: Anne Strieber
+    slug: anne-strieber
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+    title: USA, Texas, Austin
+    slug: texas-austin-usa
+  date: null
+  date_end: null
+  location_in_record: ch9:63520-63673
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: b0ed0569-3d6f-456e-b702-30ca415326c1
+  claim_hash: f03ae17730e03a1f6ed9a41c3bf08ee5840b88cd64fe8beca61f7a0c1c9194cb
+  content: Looking at the dark canyon and stars from the deck of the Austin house,
+    Whitley Strieber felt suddenly and absolutely afraid, as if the sky were a living
+    thing watching him.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+    title: USA, Texas, Austin
+    slug: texas-austin-usa
+  date: null
+  date_end: null
+  location_in_record: ch9:63680-63893
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 4a38e6e8-6fa0-474f-82bf-4dbcfcfe3682
+  claim_hash: b8f65dc4c7a173e03b1680e848e06150b96e80c2f62fa63fce9f9e055634a680
+  content: Whitley Strieber could not live in, and never entered again, the Austin
+    house they had chosen to buy.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+    title: USA, Texas, Austin
+    slug: texas-austin-usa
+  date: null
+  date_end: null
+  location_in_record: ch9:64110-64178
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 62a9b15b-bb51-4da8-8efa-4011d9fa6136
+  claim_hash: 9c77643c156799cda7e861f1e2a131aca1fc7576ac7521ad8e2c9d4f9bb96509
+  content: Eric Davis was, more recently, chief scientist for Hal Puthoff's Institute
+    for Advanced Studies at Austin, Texas.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: a8ed9d6c-a24c-4413-93b7-e67c8ff3fd63
+    title: Puthoff Institute for Advanced Studies Austin
+    slug: puthoff-institute-for-advanced-studies-austin
+  - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+    title: USA, Texas, Austin
+    slug: texas-austin-usa
+  date: null
+  date_end: null
+  location_in_record: ch26:5135-5234
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9e57fc8a-6903-49d3-be72-7017c2fc1dae
+  claim_hash: af455e0ccefc72a170cb4016f900bb1c8bc1b97e079b6fca30f4c140d79589a3
+  content: The Sea Scout unmanned aerial vehicle prototype was lost when it flew too
+    near the Texas wedding of President Bush's daughter and the president's security
+    protection jammers knocked the drone out.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+  provenance_chain:
+    origin_kind: speaker
+    origin: Nat Kobitz
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0663c113-a006-4e4b-a284-8cca01b78c4e
+    title: Sea Scout unmanned aerial vehicle
+    slug: sea-scout-unmanned-aerial-vehicle
+  - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+    title: Nat Kobitz
+    slug: nat-kobitz
+  - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+    title: USA, Texas, Austin
+    slug: texas-austin-usa
+  date: null
+  date_end: null
+  location_in_record: ch27:11714-11901
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted

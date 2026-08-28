@@ -1,0 +1,618 @@
+schema: anomalica/brief/1
+brief_hash: f5f40badbc50e1e2cc88d39be23ed35c8f1de5151711d61b4263b6a7b7f52a63
+page:
+  kind: entity
+  node_id: 25a71281-35a6-4636-ada3-b0d727672634
+  node_type: document
+  title: National Defense Authorization Act for Fiscal Year 2023
+  slug: national-defense-authorization-act-for-fiscal-year-2023
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+  title: All-domain Anomaly Resolution Office (AARO)
+  node_type: organisation
+  slug: all-domain-anomaly-resolution-office-aaro
+  shared_claims: 3
+- node_id: 498754fb-7980-482c-b877-57fbe17e1889
+  title: All-domain Anomaly Resolution Office (AARO) Historical Record Report (HR2)
+  node_type: project
+  slug: all-domain-anomaly-resolution-office-aaro-historical-record-report-hr2
+  shared_claims: 3
+- node_id: c586d8fe-4b68-497b-919d-c707c4e0d0fd
+  title: Unidentified Anomalous Phenomena
+  node_type: concept
+  slug: unidentified-anomalous-phenomena
+  shared_claims: 3
+- node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 3
+- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+  title: United States Congress
+  node_type: organisation
+  slug: united-states-congress
+  shared_claims: 3
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 3
+- node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+  title: Biden, Joe
+  node_type: person
+  slug: joe-biden
+  shared_claims: 2
+- node_id: e3fc3ebb-8722-4b72-bfc3-3886b3bb167d
+  title: Department of Energy
+  node_type: organisation
+  slug: department-of-energy
+  shared_claims: 1
+- node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+  title: Department of Homeland Security (DHS)
+  node_type: organisation
+  slug: department-of-homeland-security-dhs
+  shared_claims: 1
+- node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+  title: Gillibrand, Kirsten
+  node_type: person
+  slug: kirsten-gillibrand
+  shared_claims: 1
+- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+  title: Grusch, David Charles
+  node_type: person
+  slug: david-charles-grusch
+  shared_claims: 1
+- node_id: 7289db7e-21cd-43b3-a857-f630fd54bbbd
+  title: Intelligence Authorization Act for Fiscal Year 2023
+  node_type: document
+  slug: intelligence-authorization-act-for-fiscal-year-2023
+  shared_claims: 1
+- node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+  title: Office of the Director of National Intelligence (ODNI)
+  node_type: organisation
+  slug: office-of-the-director-of-national-intelligence-odni
+  shared_claims: 1
+- node_id: ac0a3953-65c8-4992-9593-dca07245bd20
+  title: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  node_type: document
+  slug: volume-i-report-on-the-historical-record-of-us-government-involvement-with-unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+- node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+  title: Reverse engineering of recovered craft of non-human origin
+  node_type: topic
+  slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  shared_claims: 1
+- node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+  title: Rubio, Marco
+  node_type: person
+  slug: marco-rubio
+  shared_claims: 1
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 1
+- node_id: d533d5f1-774a-486d-a688-23033b701562
+  title: United States Intelligence Community
+  node_type: organisation
+  slug: united-states-intelligence-community
+  shared_claims: 1
+claims:
+- claim_id: 903ee8c8-139c-44a4-8137-5cff95c6c005
+  claim_hash: 4ce504641f3bd08b6e79b1d56417f8941ff5747d9ef9c2cbe1c2fc2612cb1033
+  content: The National Defense Authorization Act for FY2023 tasked the Secretary
+    of Defense, in consultation with the Director of National Intelligence, with establishing
+    for the first time a secure mechanism for the authorised reporting of sensitive
+    information to defence channels.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 25a71281-35a6-4636-ada3-b0d727672634
+    title: National Defense Authorization Act for Fiscal Year 2023
+    slug: national-defense-authorization-act-for-fiscal-year-2023
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+    title: Office of the Director of National Intelligence (ODNI)
+    slug: office-of-the-director-of-national-intelligence-odni
+  date: null
+  date_end: null
+  location_in_record: line 126
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: 17aaa392-8955-46b9-a761-0b17871cd57c
+  claim_hash: e2197fa7007f4f0e2160daf8a23c5d4457021311061977675c656be486d6f430
+  content: The National Defense Authorization Act for FY2023 asks for reporting on
+    material retrieval, material analysis, reverse engineering, research, and development
+    involving unidentified anomalous phenomena currently and going back decades.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 25a71281-35a6-4636-ada3-b0d727672634
+    title: National Defense Authorization Act for Fiscal Year 2023
+    slug: national-defense-authorization-act-for-fiscal-year-2023
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  date: null
+  date_end: null
+  location_in_record: line 128
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: 5f654271-edf1-43d6-a3eb-ae9c9f4d5001
+  claim_hash: 158cfb5187e84470a46b232b1f3f620a5e87d3ffac7d3588101577fecbb4b94f
+  content: The whistleblower legislation forbids any federal employee from retaliating
+    against anyone providing authorised disclosure.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 25a71281-35a6-4636-ada3-b0d727672634
+    title: National Defense Authorization Act for Fiscal Year 2023
+    slug: national-defense-authorization-act-for-fiscal-year-2023
+  date: null
+  date_end: null
+  location_in_record: line 140
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: 849fccd6-7d02-4e97-b831-ea229e34ace9
+  claim_hash: e0d574691e1f37e6ebdb8a2120723a9409e914863121bab2acf65a8dfd0ad312
+  content: The FY2023 National Defense Authorization Act provision states that any
+    person with relevant UAP information can inform Congress without retaliation,
+    regardless of any previous non-disclosure agreements.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 25a71281-35a6-4636-ada3-b0d727672634
+    title: National Defense Authorization Act for Fiscal Year 2023
+    slug: national-defense-authorization-act-for-fiscal-year-2023
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  date: null
+  date_end: null
+  location_in_record: line 55
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: e3de5e1f-804b-448e-9d04-d676aa3c42da
+  claim_hash: 3b7cf8277369187f32906866b2a19890c1875f2067007ccc56e152a6519c4d46
+  content: The FY2023 National Defense Authorization Act was spearheaded by Senators
+    Kirsten Gillibrand and Marco Rubio and signed into law by President Joe Biden
+    in December 2022.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+    title: Biden, Joe
+    slug: joe-biden
+  - node_id: 25a71281-35a6-4636-ada3-b0d727672634
+    title: National Defense Authorization Act for Fiscal Year 2023
+    slug: national-defense-authorization-act-for-fiscal-year-2023
+  - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+    title: Gillibrand, Kirsten
+    slug: kirsten-gillibrand
+  - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+    title: Rubio, Marco
+    slug: marco-rubio
+  date: 2022-12
+  date_end: null
+  location_in_record: line 55
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: fdf1d9b0-dae4-4267-95e6-7b5317c30e79
+  claim_hash: 1eefbe85684d0b6355bbf574000b8a469d7061ec93b30d1963e6633e2f77de73
+  content: David Charles Grusch prepared many briefs on unidentified aerial phenomena
+    for Congress while in government and helped draft the language on UAP for the
+    FY2023 National Defense Authorization Act.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 25a71281-35a6-4636-ada3-b0d727672634
+    title: National Defense Authorization Act for Fiscal Year 2023
+    slug: national-defense-authorization-act-for-fiscal-year-2023
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: line 55
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5ffe3b6dcc
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  excerpt_withheld: unknown
+- claim_id: a6cd11e8-c9ff-4b2e-b8bb-0b6ff1730956
+  claim_hash: f61fbe215d561fc458a452ab0a0af70d673abb314882936908c3bf1deb26a5f2
+  content: A major defence bill, the National Defense Authorization Act for Fiscal
+    Year 2023, signed by Joe Biden in December 2022, establishes whistleblower protections
+    for individuals with knowledge of UFO programs engaged in 'material retrieval,
+    material analysis, reverse engineering [and] research and development.'
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+    title: Biden, Joe
+    slug: joe-biden
+  - node_id: 25a71281-35a6-4636-ada3-b0d727672634
+    title: National Defense Authorization Act for Fiscal Year 2023
+    slug: national-defense-authorization-act-for-fiscal-year-2023
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  date: 2022-12
+  date_end: null
+  location_in_record: line 47
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+    record_title: Claims that UFO information was inappropriately withheld from Congress
+      deemed ‘credible,’ ‘urgent’
+    record_date: '2023-06-09'
+    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+    content_hash: sha256:ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afaec39dc71
+    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+  excerpt_withheld: unknown
+- claim_id: 73f3812d-ce21-4fc3-9207-eb7539b07e7a
+  claim_hash: 467d683a00cf8b7613bb2ee68d80f2293abf34f53c702e578c74975c3fc03014
+  content: The Fiscal Year 2023 National Defense Authorization Act defined UAP as
+    unidentified anomalous phenomena, which include airborne objects that are not
+    immediately identifiable, transmedium objects or devices, and submerged objects
+    or devices that are not immediately identifiable.
+  original_excerpt: 'The FY 2023 National Defense Authorization Act (NDAA) defined
+    UAP as "unidentified anomalous phenomena," which include: (a) airborne objects
+    that are not immediately identifiable, (b) transmedium objects or devices, and
+    (c) submerged objects or devices that are not immediately identifiable.'
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 25a71281-35a6-4636-ada3-b0d727672634
+    title: National Defense Authorization Act for Fiscal Year 2023
+    slug: national-defense-authorization-act-for-fiscal-year-2023
+  - node_id: c586d8fe-4b68-497b-919d-c707c4e0d0fd
+    title: Unidentified Anomalous Phenomena
+    slug: unidentified-anomalous-phenomena
+  date: null
+  date_end: null
+  location_in_record: printed_page 2, Background
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+    record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of
+      the DoD's Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+    record_date: '2024-01-24'
+    record_reference: null
+    content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+    friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+- claim_id: 0f7c2b21-8127-4505-bf0b-2a333c29806c
+  claim_hash: 13eefe4196617b749b049d974b9b432524302aaeb6f14a506c481d47fdc0373b
+  content: The Fiscal Year 2023 National Defense Authorization Act contained additional
+    requirements for the All-domain Anomaly Resolution Office (AARO) to establish
+    a secure way for persons to report a UAP incident without being subject to a nondisclosure
+    agreement or reprisal.
+  original_excerpt: The FY 2023 NDAA contained additional requirements for AARO to
+    establish a secure way for persons to report a UAP incident without being subject
+    to a nondisclosure agreement or reprisal.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 25a71281-35a6-4636-ada3-b0d727672634
+    title: National Defense Authorization Act for Fiscal Year 2023
+    slug: national-defense-authorization-act-for-fiscal-year-2023
+  - node_id: c586d8fe-4b68-497b-919d-c707c4e0d0fd
+    title: Unidentified Anomalous Phenomena
+    slug: unidentified-anomalous-phenomena
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    slug: all-domain-anomaly-resolution-office-aaro
+  date: null
+  date_end: null
+  location_in_record: printed_page 3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+    record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of
+      the DoD's Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+    record_date: '2024-01-24'
+    record_reference: null
+    content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+    friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+- claim_id: 263245c8-6411-415a-9c5e-ac2038922b55
+  claim_hash: 67de74ffdb365831fe00741b44dbd11cdf224c7946abf15bbd2aec7bf0028238
+  content: To meet the direction of Section 1673 of the National Defense Authorization
+    Act for Fiscal Year 2023, the All-Domain Anomaly Resolution Office (AARO) sent
+    guidance and requests to the Department of Defense (DoD), Intelligence Community
+    elements, the Department of Energy (DOE), and the Department of Homeland Security
+    (DHS) to review and provide any nondisclosure agreements (NDAs) pertaining to
+    UAP.
+  original_excerpt: In the conduct of this review, and to meet the direction of Section
+    1673 of the NDAA for FY 2023, AARO sent guidance and requests to DoD, IC elements,
+    DOE, and DHS to review and provide any NDAs pertaining to UAP (or its previous
+    names).
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 25a71281-35a6-4636-ada3-b0d727672634
+    title: National Defense Authorization Act for Fiscal Year 2023
+    slug: national-defense-authorization-act-for-fiscal-year-2023
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    slug: department-of-homeland-security-dhs
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: c586d8fe-4b68-497b-919d-c707c4e0d0fd
+    title: Unidentified Anomalous Phenomena
+    slug: unidentified-anomalous-phenomena
+  - node_id: d533d5f1-774a-486d-a688-23033b701562
+    title: United States Intelligence Community
+    slug: united-states-intelligence-community
+  - node_id: e3fc3ebb-8722-4b72-bfc3-3886b3bb167d
+    title: Department of Energy
+    slug: department-of-energy
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    slug: all-domain-anomaly-resolution-office-aaro
+  date: null
+  date_end: null
+  location_in_record: No Official UAP Nondisclosure Agreements Discovered, printed_page
+    31
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: f62d69aa-502d-4878-bdaa-3b5795213895
+  claim_hash: ad2dec28d25d60053dadc05f197d5ab623574c236785d5bd23b0694677e03718
+  content: The HR2 is provided by DoD in response to a requirement established in
+    the National Defense Authorization Act for Fiscal Year 2023, Section 6802(j),
+    which requires the Director of the Office to submit to the congressional defence
+    committees, the congressional intelligence committees, and congressional leadership
+    a written report detailing the historical record of the United States Government
+    relating to unidentified anomalous phenomena not later than 540 days after enactment
+    of the Intelligence Authorization Act for Fiscal Year 2023.
+  original_excerpt: 'This HR2 is provided by DoD in response to a requirement established
+    in the National Defense Authorization Act (NDAA) for FY 2023, Section 6802(j),
+    which states: "Not later than 540 days after the date of the enactment of the
+    Intelligence Authorization Act for Fiscal Year 2023, the Director of the Office
+    shall submit to the congressional defense committees, the congressional intelligence
+    committees and the congressional leadership a written report detailing the historical
+    record of the United States Government relating to unidentified anomalous phenomena."'
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 25a71281-35a6-4636-ada3-b0d727672634
+    title: National Defense Authorization Act for Fiscal Year 2023
+    slug: national-defense-authorization-act-for-fiscal-year-2023
+  - node_id: 498754fb-7980-482c-b877-57fbe17e1889
+    title: All-domain Anomaly Resolution Office (AARO) Historical Record Report (HR2)
+    slug: all-domain-anomaly-resolution-office-aaro-historical-record-report-hr2
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: 7289db7e-21cd-43b3-a857-f630fd54bbbd
+    title: Intelligence Authorization Act for Fiscal Year 2023
+    slug: intelligence-authorization-act-for-fiscal-year-2023
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  date: null
+  date_end: null
+  location_in_record: file_page 11, Section III
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 28881734-3622-463e-9c25-03abcf27e4d1
+  claim_hash: 50e862ee5db71a13892985b10e62d995a7cf314ab87d6626c351d2f370c4c679
+  content: Volume II of the Historical Record Report will be published in accordance
+    with the date established in Section 6802 of the National Defense Authorization
+    Act for Fiscal Year 2023 (FY23) and will provide additional analysis on information
+    not yet secured and analysed, interviews not yet conducted, and additional avenues
+    of investigation not yet completed by the date of publication of Volume I.
+  original_excerpt: Volume II will be published in accordance with the date established
+    in Section 6802 of the National Defense Authorization Act for Fiscal Year 2023
+    (FY23) and will provide additional analysis on information not yet secured and
+    analyzed, interviews not yet conducted, and additional avenues of investigation
+    not yet completed by the date of the publication of Volume I.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 25a71281-35a6-4636-ada3-b0d727672634
+    title: National Defense Authorization Act for Fiscal Year 2023
+    slug: national-defense-authorization-act-for-fiscal-year-2023
+  - node_id: 498754fb-7980-482c-b877-57fbe17e1889
+    title: All-domain Anomaly Resolution Office (AARO) Historical Record Report (HR2)
+    slug: all-domain-anomaly-resolution-office-aaro-historical-record-report-hr2
+  date: null
+  date_end: null
+  location_in_record: file_page 45, Section IX Conclusion
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 44317159-9e4a-44e4-b6e9-7421218627a5
+  claim_hash: aede9e80e3f5ffd3b72f292ed63522b8b33f21ea751825e32061ac61a983150a
+  content: AARO will publish Volume II of the Historical Record Report in accordance
+    with the date established in Section 6802 of the National Defense Authorization
+    Act for Fiscal Year 2023, and Volume II will provide analysis of information acquired
+    by AARO after the publication of Volume I.
+  original_excerpt: AARO will publish Volume II in accordance with the date established
+    in Section 6802 of the National Defense Authorization Act for Fiscal Year 2023
+    (FY23); Volume II will provide analysis of information acquired by AARO after
+    the date of the publication of Volume I.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 25a71281-35a6-4636-ada3-b0d727672634
+    title: National Defense Authorization Act for Fiscal Year 2023
+    slug: national-defense-authorization-act-for-fiscal-year-2023
+  - node_id: 498754fb-7980-482c-b877-57fbe17e1889
+    title: All-domain Anomaly Resolution Office (AARO) Historical Record Report (HR2)
+    slug: all-domain-anomaly-resolution-office-aaro-historical-record-report-hr2
+  - node_id: ac0a3953-65c8-4992-9593-dca07245bd20
+    title: Report on the Historical Record of U.S. Government Involvement with Unidentified
+      Anomalous Phenomena (UAP), Volume I
+    slug: volume-i-report-on-the-historical-record-of-us-government-involvement-with-unidentified-anomalous-phenomena-uap
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    slug: all-domain-anomaly-resolution-office-aaro
+  date: null
+  date_end: null
+  location_in_record: file_page 6, Section I
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

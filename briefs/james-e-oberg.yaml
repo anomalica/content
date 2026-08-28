@@ -1,0 +1,1250 @@
+schema: anomalica/brief/1
+brief_hash: 2b889a68734637ef4220b9237f566966a674c1c246556f57e232ef791fa5a75d
+page:
+  kind: entity
+  node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+  node_type: person
+  title: James E. Oberg
+  slug: james-e-oberg
+  claim_count: 27
+  claim_count_total: 27
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 6
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 6
+- node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+  title: NASA Jet Propulsion Laboratory (JPL)
+  node_type: organisation
+  slug: nasa-jet-propulsion-laboratory-jpl
+  shared_claims: 4
+- node_id: 9446003e-30ac-4b79-a1be-8f8d67800fd0
+  title: Story Musgrave
+  node_type: person
+  slug: story-musgrave
+  shared_claims: 3
+- node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+  title: Ken Johnston
+  node_type: person
+  slug: ken-johnston
+  shared_claims: 2
+- node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+  title: Mark C. Carlotto
+  node_type: person
+  slug: mark-c-carlotto
+  shared_claims: 2
+- node_id: e3dff71a-051d-4241-9052-848760263a29
+  title: Mars Polar Lander (MPL)
+  node_type: object
+  slug: mars-polar-lander-mpl
+  shared_claims: 2
+- node_id: fd137783-3f34-4376-80ec-dc54cf61bec8
+  title: Reaction Control System (RCS) thrusters
+  node_type: object
+  slug: reaction-control-system-rcs-thrusters
+  shared_claims: 2
+- node_id: 3cf7bf8d-af91-4258-a6a9-8ea21ed756cd
+  title: United Press International
+  node_type: organisation
+  slug: united-press-international
+  shared_claims: 2
+- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+  title: Advanced Aerospace Threat Identification Program (AATIP)
+  node_type: project
+  slug: advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 1
+- node_id: 03b7390b-c6ee-4c68-9536-b6f547c4734d
+  title: Dan Goldin
+  node_type: person
+  slug: dan-goldin
+  shared_claims: 1
+- node_id: 7896e551-150b-4bc8-a027-f96bb66a96a4
+  title: Dr. Mark Carlotto's 2005 STS-80 analysis paper
+  node_type: document
+  slug: dr-mark-carlottos-2005-sts-80-analysis-paper
+  shared_claims: 1
+- node_id: a7401fee-f052-47b4-95d5-4ce7f695aa7d
+  title: Florenze Mansmann
+  node_type: person
+  slug: florenze-mansmann
+  shared_claims: 1
+- node_id: 162f3564-874e-44de-815d-91045cdfd9c7
+  title: Goldin address to Jet Propulsion Laboratory (JPL) personnel, 2000-03-29
+  node_type: event
+  slug: 2000-03-29-goldin-address-to-jet-propulsion-laboratory-jpl-personnel
+  shared_claims: 1
+- node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
+  title: Jack Kasher
+  node_type: person
+  slug: jack-kasher
+  shared_claims: 1
+- node_id: ec68a8d8-8b95-44fe-a90a-23f15cf861b4
+  title: James Oberg 1997-02 web posting on the STS-80 video
+  node_type: document
+  slug: james-oberg-1997-02-web-posting-on-the-sts-80-video
+  shared_claims: 1
+- node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+  title: John Glenn
+  node_type: person
+  slug: john-glenn
+  shared_claims: 1
+- node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
+  title: John Glenn Frasier appearance, 2001-03
+  node_type: event
+  slug: 2001-03-john-glenn-frasier-appearance
+  shared_claims: 1
+- node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+  title: Maaneli "Max" Derakhshani
+  node_type: person
+  slug: maaneli-max-derakhshani
+  shared_claims: 1
+- node_id: ec2da781-5dde-4849-8a69-dd4a8b44480d
+  title: Moon landing hoax conspiracy theory
+  node_type: topic
+  slug: moon-landing-hoax-conspiracy-theory
+  shared_claims: 1
+- node_id: d4b0a6cf-6630-4d28-8113-3447bd0b09fb
+  title: National Broadcasting Company (NBC) News
+  node_type: organisation
+  slug: national-broadcasting-company-nbc-news
+  shared_claims: 1
+- node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
+  title: Philip Klass
+  node_type: person
+  slug: philip-klass
+  shared_claims: 1
+- node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
+  title: Robert Jacobs
+  node_type: person
+  slug: robert-jacobs
+  shared_claims: 1
+- node_id: cc62731b-9dd3-4ce3-8d82-5337036f8e7d
+  title: STS-48
+  node_type: project
+  slug: sts-48
+  shared_claims: 1
+- node_id: 08e11144-52fa-48d1-9e87-a29b9253d02f
+  title: STS-48 video anomalous objects incident (1991-09)
+  node_type: event
+  slug: sts-48-video-anomalous-objects-incident-1991-09
+  shared_claims: 1
+- node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
+  title: STS-80
+  node_type: project
+  slug: sts-80
+  shared_claims: 1
+- node_id: c0176fab-652b-4872-a2f9-1063f80b9389
+  title: STS-80 video disk-like object sightings (1996-12-02)
+  node_type: event
+  slug: sts-80-video-disk-like-object-sightings-1996-12-02
+  shared_claims: 1
+- node_id: 53d36b51-c65d-4870-965b-fd1d31d80460
+  title: Tom Young
+  node_type: person
+  slug: tom-young
+  shared_claims: 1
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 1
+- node_id: f1d67f05-cc9b-4cce-8353-c542fd4a3580
+  title: Young Report (Mars Polar Lander failure investigation)
+  node_type: document
+  slug: young-report-mars-polar-lander-failure-investigation
+  shared_claims: 1
+claims:
+- claim_id: 137cc196-db0b-46f2-9200-d2489d4eb8fb
+  claim_hash: 7cf52faebdff985ca9c7c7fee489bd20f01a968bdf4cc8c83db50a191d3e6945
+  content: Space Shuttle crewman Story Musgrave, asked by James Oberg about the STS-80
+    disk-like objects, said he saw nothing unusual on the flight at that point or
+    at any other point.
+  original_excerpt: '"When I asked crewman Story Musgrave, who is not shy about talking
+    about anomalies of any kind, he assured me he saw nothing unusual on the flight,
+    at this point or at any other."'
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+  provenance_chain:
+    origin_kind: named
+    origin: Story Musgrave
+    relay:
+    - James Oberg
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 9446003e-30ac-4b79-a1be-8f8d67800fd0
+    title: Story Musgrave
+    slug: story-musgrave
+  - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
+    title: STS-80
+    slug: sts-80
+  date: null
+  date_end: null
+  location_in_record: char:1970-2141
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+    record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+    record_date: '2005'
+    record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+    content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+    friendly_name: null
+- claim_id: f83c91d6-908e-4a98-a0aa-94ad2e43df90
+  claim_hash: e065d628bf8f3dfceac3bed044f284fd56f9ee0052dc8302967a71d126fdd80a
+  content: James Oberg described Story Musgrave as not shy about talking about anomalies
+    of any kind.
+  original_excerpt: crewman Story Musgrave, who is not shy about talking about anomalies
+    of any kind
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+  provenance_chain:
+    origin_kind: speaker
+    origin: James Oberg
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 9446003e-30ac-4b79-a1be-8f8d67800fd0
+    title: Story Musgrave
+    slug: story-musgrave
+  date: null
+  date_end: null
+  location_in_record: char:1983-2059
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+    record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+    record_date: '2005'
+    record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+    content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+    friendly_name: null
+- claim_id: 9d8d69ec-32a3-4cab-bd3f-b559c0a79eb4
+  claim_hash: 5a9128b26d058636c66048f61f6a45a492e05a91ea7f0fd3d18f56c43cf02ac0
+  content: In a web posting of February 1997, James Oberg dismissed the STS-80 disk-like
+    object event as identical in origin to the STS-48 scenes and to numerous others
+    throughout the space shuttle flight programme.
+  original_excerpt: In a February 1997 web posting¹, Oberg dismisses the event as
+    being "identical in origin to the infamous STS-48 scenes and to numerous others
+    throughout the shuttle flight program."
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+  provenance_chain:
+    origin_kind: document
+    origin: James Oberg February 1997 web posting on the STS-80 video
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: c0176fab-652b-4872-a2f9-1063f80b9389
+    title: STS-80 video disk-like object sightings (1996-12-02)
+    slug: sts-80-video-disk-like-object-sightings-1996-12-02
+  - node_id: cc62731b-9dd3-4ce3-8d82-5337036f8e7d
+    title: STS-48
+    slug: sts-48
+  - node_id: ec68a8d8-8b95-44fe-a90a-23f15cf861b4
+    title: James Oberg 1997-02 web posting on the STS-80 video
+    slug: james-oberg-1997-02-web-posting-on-the-sts-80-video
+  date: 1997-02
+  date_end: null
+  location_in_record: char:2149-2321
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+    record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+    record_date: '2005'
+    record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+    content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+    friendly_name: null
+- claim_id: 7a9e9827-91ac-4d95-915e-1a41290bb5ea
+  claim_hash: f4b45b671193ae90b68c5a413b0c8f9aef07812d870fe1fbc32742f624904c7e
+  content: James Oberg claimed that the flash in the STS-48 video was from a thruster
+    firing.
+  original_excerpt: Oberg⁶ claimed that the flash in the STS-48 video was from a thruster
+    firing.
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+  provenance_chain:
+    origin_kind: named
+    origin: James Oberg
+    relay:
+    - Mark J. Carlotto
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 08e11144-52fa-48d1-9e87-a29b9253d02f
+    title: STS-48 video anomalous objects incident (1991-09)
+    slug: sts-48-video-anomalous-objects-incident-1991-09
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: fd137783-3f34-4376-80ec-dc54cf61bec8
+    title: Reaction Control System (RCS) thrusters
+    slug: reaction-control-system-rcs-thrusters
+  date: null
+  date_end: null
+  location_in_record: char:3637-3707
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+    record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+    record_date: '2005'
+    record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+    content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+    friendly_name: null
+- claim_id: d5b6e54e-5d7c-4c8d-90eb-f8a8a8f61431
+  claim_hash: 4587bc9061c0516bd21b99be7341a2d457bb5145df27023c2132972179f39627
+  content: When sunrise occurs due to the orbiter's motion along its orbit, the orbiter
+    is bathed in sunlight while the camera is still trained on the dark side of Earth,
+    so floating particles that routinely accompany every shuttle flight can become
+    visible in the sunlight.
+  original_excerpt: '"When sunrise occurs (due to the Orbiter''s motion along its
+    orbit), even though the Orbiter is now bathed in sunlight, the camera is still
+    trained on the dark side of Earth. But now the floating particles which routinely
+    accompany every shuttle flight ... can become visible in the sunlight"'
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+  provenance_chain:
+    origin_kind: named
+    origin: James Oberg
+    relay:
+    - Mark J. Carlotto
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  date: null
+  date_end: null
+  location_in_record: char:3950-4243
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+    record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+    record_date: '2005'
+    record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+    content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+    friendly_name: null
+- claim_id: aafc3b16-4de6-4fef-aa5c-7e91eef9db96
+  claim_hash: 0e604cbc2cac853d66837c8bded719f0bfa1adb847d22577a09fddbf59ff4bbc
+  content: According to James Oberg, the floating particles accompanying shuttle flights
+    come from a dozen or more distinctly different sources, often being ice particles
+    and sometimes junk from the payload bay or pieces of insulation blankets.
+  original_excerpt: (often ice particles, sometimes junk from the payload bay, pieces
+    of insulation blankets, a dozen or more distinctly different sources)
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+  provenance_chain:
+    origin_kind: named
+    origin: James Oberg
+    relay:
+    - Mark J. Carlotto
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  date: null
+  date_end: null
+  location_in_record: char:4202-4328
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+    record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+    record_date: '2005'
+    record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+    content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+    friendly_name: null
+- claim_id: af32c7f8-5e38-4ffd-a033-b0d24b839f8a
+  claim_hash: 0f2fe4b0f738824970a4d6aabc01db509cd1637ea6645bdb4517e63f676def42
+  content: According to James Oberg, particles accompanying a shuttle flight can move
+    into sunlight from the umbra of the orbiter and thus appear suddenly.
+  original_excerpt: sometimes even moving into sunlight from the umbra of the Orbiter
+    (and thus 'appearing suddenly')
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+  provenance_chain:
+    origin_kind: named
+    origin: James Oberg
+    relay:
+    - Mark J. Carlotto
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  date: null
+  date_end: null
+  location_in_record: char:4373-4460
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+    record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+    record_date: '2005'
+    record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+    content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+    friendly_name: null
+- claim_id: b85ff274-abac-4154-bf77-84c87a459036
+  claim_hash: 26593bdccf7734cbeedc719c3e2abf6411948f9cb6669e89cde93ee9dd330baa
+  content: According to James Oberg, the floating particles seen in shuttle video
+    are close to the camera, sometimes a few metres away and at most a few tens of
+    metres.
+  original_excerpt: These are close to the camera, sometimes a few feet, at most a
+    few hundred feet.
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+  provenance_chain:
+    origin_kind: named
+    origin: James Oberg
+    relay:
+    - Mark J. Carlotto
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  date: null
+  date_end: null
+  location_in_record: char:4472-4547
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+    record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+    record_date: '2005'
+    record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+    content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+    friendly_name: null
+- claim_id: a2425d57-7a8d-4476-be8f-4a952869fba2
+  claim_hash: 1108dfecc7859a87aac3e96ff814a2955ed9ba1ac8e418b3c5ea8df0b7d6b9e0
+  content: According to James Oberg, particles near the shuttle are sometimes hit
+    by pulses of gas from the Reaction Control System (RCS) jets as they automatically
+    fire to nudge the spacecraft back towards a preset orientation.
+  original_excerpt: Sometimes they are hit by pulses of gas from the RCS jets as they
+    automatically fire to gently nudge the spaceship back towards a preset orientation.
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+  provenance_chain:
+    origin_kind: named
+    origin: James Oberg
+    relay:
+    - Mark J. Carlotto
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: fd137783-3f34-4376-80ec-dc54cf61bec8
+    title: Reaction Control System (RCS) thrusters
+    slug: reaction-control-system-rcs-thrusters
+  date: null
+  date_end: null
+  location_in_record: char:4553-4690
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+    record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+    record_date: '2005'
+    record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+    content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+    friendly_name: null
+- claim_id: 97fbbabd-748b-422f-87db-335178e24745
+  claim_hash: 62dde841457e4b448ab1b5a5625826e74d24ba2fbf70e987e3e47e5147f5cfe3
+  content: In 2006 the National Aeronautics and Space Administration (NASA) formally
+    commissioned James Oberg, a leading space authority, to write an official NASA
+    book on why the Moon Hoax conspiracy theory is unfounded.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: ec2da781-5dde-4849-8a69-dd4a8b44480d
+    title: Moon landing hoax conspiracy theory
+    slug: moon-landing-hoax-conspiracy-theory
+  date: '2006'
+  date_end: null
+  location_in_record: ch11:145503-145695
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 371d215c-5590-4f15-956c-471264a4995b
+  claim_hash: a5894acac7b6025ea1bc10dbc81fff1477ae654354093256086d28ff3df06622
+  content: Another part of the National Aeronautics and Space Administration (NASA)
+    abruptly cancelled James Oberg's contract to write the official NASA book debunking
+    the Moon Hoax conspiracy theory, withdrawing from publishing it.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  date: null
+  date_end: null
+  location_in_record: ch11:145704-145823
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 8148aac3-0cac-480d-b0af-7c92e8905e4d
+  claim_hash: 87ac82b2e77b3fa0280266610014f7a2a38872f2ef8c23cb1f13743c9b42052c
+  content: A few days before Thomas Young issued his report, former National Aeronautics
+    and Space Administration chief debunker James Oberg published a story via United
+    Press International (UPI) accusing Jet Propulsion Laboratory (JPL) employees of
+    knowing that the Mars Polar Lander was doomed, due to software problems related
+    to the spacecraft's landing legs, from early in the mission.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: James Oberg
+    relay:
+    - United Press International (UPI) story
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 3cf7bf8d-af91-4258-a6a9-8ea21ed756cd
+    title: United Press International
+    slug: united-press-international
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: 53d36b51-c65d-4870-965b-fd1d31d80460
+    title: Tom Young
+    slug: tom-young
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: e3dff71a-051d-4241-9052-848760263a29
+    title: Mars Polar Lander (MPL)
+    slug: mars-polar-lander-mpl
+  date: null
+  date_end: null
+  location_in_record: ch14:19256-19540
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 8e972af6-9930-40e4-937f-192186bc52b5
+  claim_hash: b0c009a8745c1cdfdf8318aa2d9e0c912d57484c9fe61c66810e7bb349b6ede2
+  content: Jet Propulsion Laboratory (JPL) employees denied James Oberg's report about
+    the Mars Polar Lander using terms such as "bunk," "complete nonsense," and "wacko."
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Jet Propulsion Laboratory (JPL) employees
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: e3dff71a-051d-4241-9052-848760263a29
+    title: Mars Polar Lander (MPL)
+    slug: mars-polar-lander-mpl
+  date: null
+  date_end: null
+  location_in_record: ch14:19549-19686
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 8412c745-ebba-4c91-8a2b-42ab3e02c277
+  claim_hash: b09b0c725031a7d901ad0219accaf67ab5e20d9078b561082e32a71793e1adca
+  content: On 2000-03-29, Dan Goldin flew to the Jet Propulsion Laboratory (JPL) to
+    address its personnel following two damaging weeks that included James Oberg's
+    initial United Press International (UPI) accusation and the release of the Young
+    Report.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03b7390b-c6ee-4c68-9536-b6f547c4734d
+    title: Dan Goldin
+    slug: dan-goldin
+  - node_id: 162f3564-874e-44de-815d-91045cdfd9c7
+    title: Goldin address to Jet Propulsion Laboratory (JPL) personnel, 2000-03-29
+    slug: 2000-03-29-goldin-address-to-jet-propulsion-laboratory-jpl-personnel
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 3cf7bf8d-af91-4258-a6a9-8ea21ed756cd
+    title: United Press International
+    slug: united-press-international
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: f1d67f05-cc9b-4cce-8353-c542fd4a3580
+    title: Young Report (Mars Polar Lander failure investigation)
+    slug: young-report-mars-polar-lander-failure-investigation
+  date: '2000-03-29'
+  date_end: null
+  location_in_record: ch14:21689-21871
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 33f3e80f-1176-4380-8479-88f1a225f0ee
+  claim_hash: 663ad2bc3c1312191479312f7a10b9b66af5e11cf8bd025f87b5263f8f5d11ee
+  content: James Oberg dismissed John Glenn's 2001 Frasier comments as simple humour
+    because of their comedic context.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+  provenance_chain:
+    origin_kind: named
+    origin: James Oberg
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+    title: John Glenn
+    slug: john-glenn
+  - node_id: fbcce27f-e52f-4e3d-b040-df0fb10a2160
+    title: John Glenn Frasier appearance, 2001-03
+    slug: 2001-03-john-glenn-frasier-appearance
+  date: 2001-03
+  date_end: null
+  location_in_record: ch19:27202-27361
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 53a14b17-7848-48c9-a029-3164bb6d8257
+  claim_hash: d1a72d4bc78e9920c129b80f5b7b440d7297a073779e17ea3ea57c6e1257f2ee
+  content: James Oberg's intervention led to Ken Johnston's dismissal from his unpaid
+    position as a JPL Solar System Ambassador.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  date: null
+  date_end: null
+  location_in_record: ch5:1246-1417
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 0c15234c-49ad-479a-b5bb-f932119605db
+  claim_hash: 5865e6fd777ef6a1cc1ab9f21c9ad0dbd55baa5c1418065be8438832af1713d2
+  content: James Oberg of National Broadcasting Company (NBC) News made an assault
+    on the integrity of Ken Johnston.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mike Bara
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  - node_id: d4b0a6cf-6630-4d28-8113-3447bd0b09fb
+    title: National Broadcasting Company (NBC) News
+    slug: national-broadcasting-company-nbc-news
+  date: null
+  date_end: null
+  location_in_record: ch5:614-689
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 8b0a9a42-d5aa-447d-97bd-922cc98ce41b
+  claim_hash: b7d6a4bfccc0631a7bbe80e0d6b0fb54b412e1bbd68136305839eed2d3b73325
+  content: James E. Oberg is a former NASA space shuttle engineer and the author of
+    ten books on spaceflight who often debunks UFO sightings.
+  original_excerpt: James E. Oberg, a former NASA space shuttle engineer and the author
+    of 10 books on spaceflight who often debunks U.F.O. sightings, was also doubtful.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  date: null
+  date_end: null
+  location_in_record: char:4400-4521
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: fd6369cc-93c0-41d3-9afc-58c8e4436f24
+  claim_hash: 8cee6046bbdbe84ce11266ce4ded38cfad0d45fd57d74e759f43a59b4681f901
+  content: James E. Oberg was doubtful about the Advanced Aerospace Threat Identification
+    Program (AATIP), considering that there are plenty of prosaic events and human
+    perceptual traits that can account for such stories.
+  original_excerpt: was also doubtful. “There are plenty of prosaic events and human
+    perceptual traits that can account for these stories,” Mr. Oberg said.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+  provenance_chain:
+    origin_kind: speaker
+    origin: Oberg, James E.
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  date: null
+  date_end: null
+  location_in_record: char:4632-4762
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 1865e771-b7ed-48c8-98a3-269a93349144
+  claim_hash: 207b6e92782e8694185cdac79f2bb401d01b2fbf2a78f6a5938331423318112e
+  content: James E. Oberg said many people are active in the air and don't want others
+    to know about it, and are happy to lurk unrecognised in the noise or even stir
+    it up as camouflage.
+  original_excerpt: “Lots of people are active in the air and don’t want others to
+    know about it. They are happy to lurk unrecognized in the noise, or even to stir
+    it up as camouflage.”
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+  provenance_chain:
+    origin_kind: speaker
+    origin: Oberg, James E.
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  date: null
+  date_end: null
+  location_in_record: char:4769-4921
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 9140ebaf-97bc-404b-b75a-2736be5ce077
+  claim_hash: 6b022e864ad00b4fa69642d7e639731fdde9437477db6c0f9fd3e600f7fb3475
+  content: James E. Oberg said he welcomed research into unidentified flying objects
+    (UFOs), and considered there could well be a 'pearl there'.
+  original_excerpt: Still, Mr. Oberg said he welcomed research. “There could well
+    be a pearl there,” he said.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+  provenance_chain:
+    origin_kind: speaker
+    origin: Oberg, James E.
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  date: null
+  date_end: null
+  location_in_record: char:4935-5019
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 0c37f328-192b-410d-b232-7a7fa1bd9144
+  claim_hash: 81f27a41daac714a6b871925454e36dca1234e558596585b3fd5e5ebd84498c6
+  content: Florenze Mansmann backed Robert Jacobs' account of the 1964 Vandenberg
+    incident after reading that sceptics James Oberg and Philip Klass were attacking
+    Jacobs with claims that his sighting was fanciful and uncorroborated.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
+    title: Philip Klass
+    slug: philip-klass
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
+    title: Robert Jacobs
+    slug: robert-jacobs
+  - node_id: a7401fee-f052-47b4-95d5-4ce7f695aa7d
+    title: Florenze Mansmann
+    slug: florenze-mansmann
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: ch10:6482-6647
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ca174e0c-7265-4a6f-9bf3-7b213b7090d9
+  claim_hash: 9a86bdc64eb447bc7a49be8db210cc6529eac1fe8ffe9ecbd76d4d65932cfad8
+  content: James Oberg, described as a notorious skeptic debunker, attempted a rebuttal
+    of the STS-48 UAP incident footage, suggesting the objects were ice particles
+    from the space shuttle's thrusters and that the movement seen was caused by thruster
+    manoeuvres.
+  original_excerpt: there's been an attempt at a rebuttal by I think it was Dr. James
+    Oberg, a notorious skeptic debunker, and he suggested that these were ice particles
+    that had come from the thrusters on the shuttle and that what you were seeing
+    were thruster maneuvers that were causing the movement of ice particles.
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: named
+    origin: James Oberg
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: 00:22:32.1-00:22:49.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null
+- claim_id: 004dac5c-f4ae-4161-8490-23e7475edb06
+  claim_hash: 3d8de0fff6040295f4bba12466dabd67add968d0c6d34c9b8d272f9a34312796
+  content: Maaneli "Max" Derakhshani considers James Oberg's ice-particle explanation
+    a plausible first guess, but finds the available data in the STS-48 UAP incident
+    video do not fit that explanation well.
+  original_excerpt: that is, I think, a plausible first guess. However, when you look
+    more closely at the details of this particular video, I think one quickly sees
+    that the available data in the video do not fit that explanation well at all.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+  provenance_chain:
+    origin_kind: speaker
+    origin: Maaneli "Max" Derakhshani
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+    slug: maaneli-max-derakhshani
+  date: null
+  date_end: null
+  location_in_record: 00:22:55.6-00:23:15.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null
+- claim_id: 0f63e416-be58-40c7-b227-5668e16084dc
+  claim_hash: 1374b02486db8a4b6b29b3c2b9b4bbac97681e2ecba3dd3f234d5d93646e87e0
+  content: James Oberg of National Aeronautics and Space Administration (NASA) has
+    had back-and-forth exchanges with Mark Carlotto and Jack Kasher regarding the
+    STS-48 UAP incident, but did not do so officially on behalf of NASA.
+  original_excerpt: There is one person from NASA, James Oberg, who has had some back
+    and forth with Dr. Carlotto, as well as my colleague, Jack Kasher, who also wrote
+    this really extensive study of the STS-48 video. But he seemed to do this basically
+    on his own. not necessarily officially on behalf of NASA.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+  provenance_chain:
+    origin_kind: speaker
+    origin: Maaneli "Max" Derakhshani
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
+    title: Jack Kasher
+    slug: jack-kasher
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+    slug: mark-c-carlotto
+  date: null
+  date_end: null
+  location_in_record: 00:32:50.5-00:33:12.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null
+- claim_id: c2ee3d86-f2ad-493e-b531-450f0ee26189
+  claim_hash: 7ce83d7d444275519e8b5ff565e2cf47a02be647ae909fa451aa607e8da5d8d7
+  content: James Oberg and National Aeronautics and Space Administration (NASA) have
+    suggested the main unidentified aerial phenomenon (UAP) of interest in the STS-48
+    UAP incident is an ice particle coming out of the space shuttle's shadow into
+    sunlight.
+  original_excerpt: if it is just an ice particle that's coming out of the space shuttle's
+    shadow and into sunlight as Oberg and NASA have suggested
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+  provenance_chain:
+    origin_kind: named
+    origin: James Oberg and National Aeronautics and Space Administration (NASA)
+    relay:
+    - Maaneli "Max" Derakhshani
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: 00:38:05.4-00:38:16.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null
+- claim_id: 77b6465b-6b85-4961-b771-ce51764b409d
+  claim_hash: cc796d26003dad9af081d1ba9ab2248ed73c64326f5679a98f8810e0ec88f737
+  content: According to James Oberg as quoted by Mark Carlotto, when Oberg asked Story
+    Musgrave, who is not shy about discussing anomalies, Musgrave assured Oberg that
+    he saw nothing unusual during the STS-80 flight.
+  original_excerpt: According to James Ober, quote, when I asked crewman Story Musgrave,
+    who is not shy about talking about anomalies of any kind, he assured me he saw
+    nothing unusual on the flight STS-80.
+  claim_type: testimony
+  attestation: third_hand
+  speaker:
+    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+  provenance_chain:
+    origin_kind: named
+    origin: James Oberg
+    relay:
+    - Dr. Mark Carlotto's 2005 STS-80 analysis paper
+    - Maaneli "Max" Derakhshani
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    slug: james-e-oberg
+  - node_id: 7896e551-150b-4bc8-a027-f96bb66a96a4
+    title: Dr. Mark Carlotto's 2005 STS-80 analysis paper
+    slug: dr-mark-carlottos-2005-sts-80-analysis-paper
+  - node_id: 9446003e-30ac-4b79-a1be-8f8d67800fd0
+    title: Story Musgrave
+    slug: story-musgrave
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+    slug: mark-c-carlotto
+  date: null
+  date_end: null
+  location_in_record: 00:57:11.8-00:57:21.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null

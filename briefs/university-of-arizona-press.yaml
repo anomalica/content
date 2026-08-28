@@ -1,0 +1,341 @@
+schema: anomalica/brief/1
+brief_hash: 878cec5b7f1795d0253db0f261c4abafcc8447de0aea9e01f1f21033cacc8560
+page:
+  kind: entity
+  node_id: 2857f17e-454a-472d-a73a-b616686f7964
+  node_type: organisation
+  title: University of Arizona Press
+  slug: university-of-arizona-press
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+  title: James MacDonald
+  node_type: person
+  slug: james-macdonald
+  shared_claims: 2
+- node_id: cb65862c-4896-41a1-978e-64faa46e87e1
+  title: Are We Alone? (book by Paul Davies)
+  node_type: document
+  slug: are-we-alone-book-by-paul-davies
+  shared_claims: 1
+- node_id: cee7c30c-d1e9-423f-b8b5-e876eb672265
+  title: Gary Schwartz
+  node_type: person
+  slug: gary-schwartz
+  shared_claims: 1
+- node_id: 81999e13-93e8-4815-8b1a-7f5b14f67464
+  title: Guy Consolmagno
+  node_type: person
+  slug: guy-consolmagno
+  shared_claims: 1
+- node_id: d6b228be-fea4-4ba4-b904-a457de004fcb
+  title: High Resolution Imaging Science Experiment (HiRISE) camera
+  node_type: object
+  slug: high-resolution-imaging-science-experiment-hirise-camera
+  shared_claims: 1
+- node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+  title: Hillary Clinton
+  node_type: person
+  slug: hillary-clinton
+  shared_claims: 1
+- node_id: 67f59ff8-1f6d-4264-936a-2cc4f344f117
+  title: Julie Beischel
+  node_type: person
+  slug: julie-beischel
+  shared_claims: 1
+- node_id: b90e3988-450d-4707-acec-5e38934c4722
+  title: Mars Reconnaissance Orbiter (MRO)
+  node_type: object
+  slug: mars-reconnaissance-orbiter-mro
+  shared_claims: 1
+- node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+  title: Massachusetts Institute of Technology (MIT)
+  node_type: organisation
+  slug: massachusetts-institute-of-technology-mit
+  shared_claims: 1
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 1
+- node_id: 521300b4-8a92-4419-a368-f7697c583708
+  title: Paul Davies
+  node_type: person
+  slug: paul-davies
+  shared_claims: 1
+- node_id: e3ced5ef-15d5-4ac8-b81e-fc56aab736e2
+  title: USA, Maryland, Camp David
+  node_type: place
+  slug: maryland-camp-david-usa
+  shared_claims: 1
+claims:
+- claim_id: b7eefea6-830c-4205-a9f5-f05290ad60fd
+  claim_hash: 196da6a009314e7c3e9515c65d195822b051ef15ddff39b74df3f5cc19427478
+  content: The official HiRISE archive of Mars Reconnaissance Orbiter (MRO) ultra-high-resolution
+    imaging, jointly stored and published by the University of Arizona and NASA, consists
+    of tens of thousands of digital Mars images taken over almost two years.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2857f17e-454a-472d-a73a-b616686f7964
+    title: University of Arizona Press
+    slug: university-of-arizona-press
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: b90e3988-450d-4707-acec-5e38934c4722
+    title: Mars Reconnaissance Orbiter (MRO)
+    slug: mars-reconnaissance-orbiter-mro
+  - node_id: d6b228be-fea4-4ba4-b904-a457de004fcb
+    title: High Resolution Imaging Science Experiment (HiRISE) camera
+    slug: high-resolution-imaging-science-experiment-hirise-camera
+  date: null
+  date_end: null
+  location_in_record: ch6:13073-13332
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 74f4d88f-3ab3-491f-84f4-d841e5246917
+  claim_hash: e79eab4cf58148a74547109a00edab2ba4d848b92d622a8a907decbc52dd53d4
+  content: Gary Schwartz and colleagues at the University of Arizona performed experiments
+    providing statistical evidence for mediums' abilities to report accurate and specific
+    information about the deceased under controlled conditions.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 67f59ff8-1f6d-4264-936a-2cc4f344f117
+    title: Julie Beischel
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julie Beischel
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2857f17e-454a-472d-a73a-b616686f7964
+    title: University of Arizona Press
+    slug: university-of-arizona-press
+  - node_id: cee7c30c-d1e9-423f-b8b5-e876eb672265
+    title: Gary Schwartz
+    slug: gary-schwartz
+  date: null
+  date_end: null
+  location_in_record: ch25:1992-2042
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 8a826507-f560-4a58-9671-47d34a00875e
+  claim_hash: 24ed74adb5ab07fff15f750f97eed14f19b665226ed0df86855e99e0b5c9c228
+  content: Julie Beischel received her doctorate in Pharmacology and Toxicology from
+    the University of Arizona in 2003.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2857f17e-454a-472d-a73a-b616686f7964
+    title: University of Arizona Press
+    slug: university-of-arizona-press
+  - node_id: 67f59ff8-1f6d-4264-936a-2cc4f344f117
+    title: Julie Beischel
+    slug: julie-beischel
+  date: null
+  date_end: null
+  location_in_record: ch25:888-982
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: b1285c2d-949b-4bbc-b701-57f4b809b2da
+  claim_hash: 1147dd327390b2b6d24ed78a2b255f8c6578505f979b4f7ecd128b72273598f5
+  content: Guy Consolmagno is an American Jesuit with degrees from the Massachusetts
+    Institute of Technology (MIT) and the University of Arizona.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2857f17e-454a-472d-a73a-b616686f7964
+    title: University of Arizona Press
+    slug: university-of-arizona-press
+  - node_id: 81999e13-93e8-4815-8b1a-7f5b14f67464
+    title: Guy Consolmagno
+    slug: guy-consolmagno
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  date: null
+  date_end: null
+  location_in_record: ch7:24020-24089
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 13e01c8f-7660-442b-8746-dd94bbaa6183
+  claim_hash: 93454335e530768f7edcd70f02f42327a70bb029f6a9c89727e359a26f77bd57
+  content: A photograph shows Hillary Clinton, apparently at Camp David, holding the
+    book "Are We Alone?" by University of Arizona physicist Paul Davies.
+  original_excerpt: There's a photo of Hillary Clinton, and I think she's at camp
+    David and she's holding a book and it's a book by, uh, university of Arizona physicist,
+    Paul Davies. And the book is titled, Are We Alone?
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: document
+    origin: a photograph of Hillary Clinton
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2857f17e-454a-472d-a73a-b616686f7964
+    title: University of Arizona Press
+    slug: university-of-arizona-press
+  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+    title: Hillary Clinton
+    slug: hillary-clinton
+  - node_id: 521300b4-8a92-4419-a368-f7697c583708
+    title: Paul Davies
+    slug: paul-davies
+  - node_id: cb65862c-4896-41a1-978e-64faa46e87e1
+    title: Are We Alone? (book by Paul Davies)
+    slug: are-we-alone-book-by-paul-davies
+  - node_id: e3ced5ef-15d5-4ac8-b81e-fc56aab736e2
+    title: USA, Maryland, Camp David
+    slug: maryland-camp-david-usa
+  date: null
+  date_end: null
+  location_in_record: 00:48:40.1-00:48:52.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 5f304e80-13c7-4179-86b0-88d1de3ecb26
+  claim_hash: ed48a62239d84b683f851576e8998f4949a8725fcb7b39319cdb5dabe48db140
+  content: James E. McDonald is a professor at the University of Arizona.
+  original_excerpt: Professor James MacDonald, the University of Arizona, talking
+    about unidentified flying objects.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: c5025e21-b806-4c9f-9fed-20c72443705b
+    title: Barry Jones
+  provenance_chain:
+    origin_kind: unattributed
+    origin: the programme presenter Barry Jones
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2857f17e-454a-472d-a73a-b616686f7964
+    title: University of Arizona Press
+    slug: university-of-arizona-press
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    slug: james-macdonald
+  date: null
+  date_end: null
+  location_in_record: 00:04:12.0-00:04:16.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
+      His Investigative Tour (1967)
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+    friendly_name: null
+- claim_id: 94655dee-c68c-449f-b866-0e8140f3401f
+  claim_hash: 0c018b1910be64e929e0541268b2b88789428789dff6415a777d2a373f60f9dc
+  content: James E. McDonald held the title of professor at the University of Arizona.
+  original_excerpt: American physicist Professor James E. MacDonald of the University
+    of Arizona
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: the programme's closing narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2857f17e-454a-472d-a73a-b616686f7964
+    title: University of Arizona Press
+    slug: university-of-arizona-press
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    slug: james-macdonald
+  date: null
+  date_end: null
+  location_in_record: 00:43:29.4-00:43:34.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+    record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During
+      His Investigative Tour (1967)
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+    content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+    friendly_name: null

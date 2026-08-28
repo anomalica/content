@@ -1,0 +1,3274 @@
+schema: anomalica/brief/1
+brief_hash: 616e6fc18a130d3e3eff6fe45604f81843adbc1f619a18b70c0f6b7aacdff605
+page:
+  kind: entity
+  node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+  node_type: topic
+  title: Precognition
+  slug: precognition
+  claim_count: 79
+  claim_count_total: 79
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+  title: Julia Mossbridge
+  node_type: person
+  slug: julia-mossbridge
+  shared_claims: 16
+- node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+  title: Loyd Auerbach
+  node_type: person
+  slug: loyd-auerbach
+  shared_claims: 12
+- node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+  title: Robert Monroe
+  node_type: person
+  slug: robert-monroe
+  shared_claims: 10
+- node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+  title: Lois
+  node_type: person
+  slug: lois
+  shared_claims: 8
+- node_id: acd92bbb-a5de-40b0-b511-cad866103001
+  title: Donna McCormick
+  node_type: person
+  slug: donna-mccormick
+  shared_claims: 7
+- node_id: 3d7a3a98-eb61-403d-9c2c-d228b86e9c56
+  title: Chris (Pat's son)
+  node_type: person
+  slug: chris-pats-son
+  shared_claims: 5
+- node_id: c3e9bb65-7e60-4ffd-a7b8-dc49ba4d39ae
+  title: Graham Nichols
+  node_type: person
+  slug: graham-nichols
+  shared_claims: 5
+- node_id: 4af113d4-cbaa-45d5-82b1-279d7b68d016
+  title: Daryl Bem
+  node_type: person
+  slug: daryl-bem
+  shared_claims: 4
+- node_id: fe6edf88-0be3-453e-8a6b-449709eae1e7
+  title: haunting (place memory)
+  node_type: topic
+  slug: haunting-place-memory
+  shared_claims: 4
+- node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+  title: time travel
+  node_type: topic
+  slug: time-travel
+  shared_claims: 4
+- node_id: 8b2d5e30-ca94-4926-98c5-70566c0988e4
+  title: 1999 Admiral Duncan pub bombing
+  node_type: event
+  slug: 1999-admiral-duncan-pub-bombing
+  shared_claims: 3
+- node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
+  title: Pat
+  node_type: person
+  slug: pat
+  shared_claims: 3
+- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+  title: Remote Viewing (RV)
+  node_type: topic
+  slug: remote-viewing-rv
+  shared_claims: 3
+- node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+  title: informational substrate
+  node_type: topic
+  slug: informational-substrate
+  shared_claims: 3
+- node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+  title: telepathy
+  node_type: topic
+  slug: telepathy
+  shared_claims: 3
+- node_id: d144aa64-9866-4afd-a25b-9c905c57614d
+  title: Alex Tanous
+  node_type: person
+  slug: alex-tanous
+  shared_claims: 2
+- node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+  title: Erlendur Haraldsson
+  node_type: person
+  slug: erlendur-haraldsson
+  shared_claims: 2
+- node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+  title: Precognitive Remote Viewing
+  node_type: topic
+  slug: precognitive-remote-viewing
+  shared_claims: 2
+- node_id: 2392cee9-5f74-465f-9e78-b6e4aaab6c16
+  title: boundary conditions
+  node_type: topic
+  slug: boundary-conditions
+  shared_claims: 2
+- node_id: f00ee898-537f-4c5e-986c-88511f61b0a2
+  title: deathbed visions
+  node_type: topic
+  slug: deathbed-visions
+  shared_claims: 2
+- node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
+  title: perceptual insertion
+  node_type: topic
+  slug: perceptual-insertion
+  shared_claims: 2
+- node_id: cb4a5fa0-4215-4340-8c43-4e7091f6b650
+  title: poltergeist
+  node_type: topic
+  slug: poltergeist
+  shared_claims: 2
+- node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
+  title: psi (psychic functioning)
+  node_type: topic
+  slug: psi-psychic-functioning
+  shared_claims: 2
+- node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+  title: survival hypothesis
+  node_type: topic
+  slug: survival-hypothesis
+  shared_claims: 2
+- node_id: ec527113-0912-4b33-81d6-d58f7df79dc1
+  title: After-death communication (after-death communication (ADC))
+  node_type: topic
+  slug: after-death-communication-after-death-communication-adc
+  shared_claims: 1
+- node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+  title: Betty Hill
+  node_type: person
+  slug: betty-hill
+  shared_claims: 1
+- node_id: 597b84fc-ecd1-421e-86dd-481a291dceb1
+  title: Betty Hill's star map
+  node_type: object
+  slug: betty-hills-star-map
+  shared_claims: 1
+- node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+  title: Chris
+  node_type: person
+  slug: chris
+  shared_claims: 1
+- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+  title: Chris Ramsay
+  node_type: person
+  slug: chris-ramsay
+  shared_claims: 1
+- node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+  title: Hereward Carrington
+  node_type: person
+  slug: hereward-carrington
+  shared_claims: 1
+claims:
+- claim_id: c0177d30-d413-4d2f-b8e7-ff00bf47c136
+  claim_hash: e200fb245d29f8554babc1bccbcb39ce745e16e6f7964b932ee8d95c5c1384a1
+  content: Benjamin Simon considers that if Betty Hill's claim about a recently-discovered
+    star on her star map is true and the map is valid, the only explanation would
+    be that she has precognition.
+  original_excerpt: If that is true, of course, and if her map is valid, then the
+    only thing she can claim is that she has precognition.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+    title: Benjamin Simon
+  provenance_chain:
+    origin_kind: speaker
+    origin: Benjamin Simon
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 597b84fc-ecd1-421e-86dd-481a291dceb1
+    title: Betty Hill's star map
+    slug: betty-hills-star-map
+  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+    title: Betty Hill
+    slug: betty-hill
+  date: null
+  date_end: null
+  location_in_record: 00:25:11.4-00:25:17.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
+    record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories
+      | Dr. Benjamin Simon Speaks
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
+    content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
+    friendly_name: null
+- claim_id: 34a981a7-b793-419f-956b-6ddcf392d378
+  claim_hash: 129c4098802f3abd14e87d7fe4384b77fa505db1510335802f2000484f98521e
+  content: Precognition is producing information about a target prior to that information
+    actually existing in time and space, such as describing an event before it happens.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch28:5901-6042
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: e8d86075-0c73-4d99-951b-c0765f401df0
+  claim_hash: d3c96a0dd68bbe77ed983c8b47c9b7079c8699f476a9948c056fa309c4587c97
+  content: A subject in a psi experiment could either be using precognition to predict
+    when a variance from the norm will occur, or could be causing the variance through
+    direct mental intervention, with no formal experiment yet designed to differentiate
+    between the two.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 13974edc-43fa-472c-9482-e4e5dc5fa85f
+    title: Micro-Psychokinesis (micro-Psychokinesis (PK))
+    slug: micro-psychokinesis-micro-psychokinesis-pk
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch34:1558-1883
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: d9aa6f4a-ee8a-4c91-9e6e-1f55ed5cb932
+  claim_hash: 04d53a4eb6dbc8871bd547d609d1d695596c9a36811ec7aafbebe3e7b2e8df2a
+  content: Diseases for which only a very small percentage of patients will ever get
+    well or recover should be the ones targeted while attempting to prove remote influencing,
+    since even precognitive selection cannot significantly bend the bottom-line statistic
+    for how many patients recover.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0ec85735-02ef-409f-a54c-c763da7087b9
+    title: Remote Influencing
+    slug: remote-influencing
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch34:3746-4089
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 85671ae6-d85a-441d-b339-5f5356118446
+  claim_hash: 6c183f9da74c7841a4379255646a9250b4a6edcb1a5f31c71cb6370505ac2bcd
+  content: Robert Monroe initially attributed his dream visions to release of material
+    from the unconscious mind before a major event brought the phenomenon strongly
+    to his attention.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch19:1007-1182
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 9f5ae6b4-5ce3-4f2c-837d-95da084ef486
+  claim_hash: 11d054aede343d69fb4788f61b4f4fedbe9d9528f93353f7c3a2621f8fe4632f
+  content: Robert Monroe recorded approximately eighteen more personal precognitive
+    incidents of varied magnitude, previewed via the valve mechanism and later coming
+    to pass as noted, allowing for minor errors in interpretation.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch19:13902-14085
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: e5a9fdef-6551-41c1-8893-44b35174860f
+  claim_hash: 42dc731b906b67aabc7f9759140b7b4873d27859eb53b4c705d5e54c4d94e4b0
+  content: 'Robert Monroe established a pattern of consistency in his precognitive
+    experiences: a hissing sound plus a valve-opening sensation equals a future event
+    vision.'
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch19:14102-14224
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 4f8f36f2-df81-4310-9548-9d3b7661103d
+  claim_hash: 83f48305be6a0a8a731324dce7188f1f3fd173dcc66d2566f6905bfdeedc530e
+  content: Robert Monroe stated that his hissing-valve-vision formula had been applicable
+    and proved twenty-two times.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch19:14234-14388
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: da1720e2-3260-4ecb-a9f0-075deb185a19
+  claim_hash: 64cb0581beeb1fc9d7ac9923c9d74c663a38ac237aabf94370b535c382363414
+  content: Robert Monroe describes the phenomenon he experienced as being called "precognition"
+    in the trade.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch19:254-291
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 4fd3590d-8ea9-4a02-b1bc-73df04769924
+  claim_hash: 9fb2e685f35493f271557bfa1dcaa77fe226fed2661ad34ecdc5ea5282478091
+  content: Robert Monroe experienced a hissing sound localised in the forebrain preceding
+    his precognitive visions, followed by a sensation of a small rectangular door
+    hinged at one end swinging downward to an angle of about 45 degrees, exposing
+    a round hole.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch19:409-622
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 95a29641-3f1a-4440-8225-5b45d2fd3bb6
+  claim_hash: a4713caeccdde72007affd4051d8c766e80a735f4d4724192d4f58cb59a12018
+  content: During his precognitive visions, Robert Monroe would see and semi-experience
+    an event or incident like a dream, but retained all of his consciousness and sense
+    awareness, with the dream superimposed directly over outside stimuli, perceiving
+    both readily.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch19:628-877
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: a5dccec0-d07e-458b-a234-0f215d78f65f
+  claim_hash: ea5d5f8131f9d6f90c05974209a361cd8dfc5682de57ff2183c00a5c327b890e
+  content: Early in Robert Monroe's out-of-body experimentation, a side effect began
+    to manifest that was not an out-of-body activity but occurred during states of
+    deep relaxation prior to any separation.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch19:71-242
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: e08fcb8c-292c-4ea9-b82f-781af4fad5f3
+  claim_hash: 9134f4236e07631b30e9dae24b134657a066864745dd96f98d8903c06ed1710d
+  content: Robert Monroe could not and cannot produce his precognitive vision effect
+    at will; it merely happened or was triggered by some non-conscious mechanism.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch19:886-995
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 4c42277d-03d8-434b-85de-e0c4f571ea80
+  claim_hash: a76e5c300f70fbe5cdd046b7d7bc0e5d5ba894648f283795007a5842501dbd8c
+  content: Robert Monroe believed that when the mind is unable to identify something
+    truly, it picks the nearest thing to it in the mind's experience.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch19:8911-8996
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 31af4ba4-074f-4bea-ab52-e7a5be9151f4
+  claim_hash: 50a07607ddde8fb2c780175a2226a6aceff7ddc79319ca8b0f882bcdb4ce5a92
+  content: The first attempt at a systematic scientific study of deathbed apparitions
+    was made by Sir William Barrett, a physicist.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 533f1693-aed7-4da9-ad5a-88921e78adc8
+    title: William Barrett
+    slug: william-barrett
+  - node_id: f00ee898-537f-4c5e-986c-88511f61b0a2
+    title: deathbed visions
+    slug: deathbed-visions
+  date: null
+  date_end: null
+  location_in_record: ch20:3490-3597
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 72d494e6-c910-4b8b-9e29-f8c3069e5d66
+  claim_hash: 3329723d89211918dbe2bc14164797e872ff28193f0af041e7ac523da8af8d8e
+  content: Deathbed-vision cases where the visitor is occasionally seen by other people,
+    in Peter Fenwick's assessment, exclude those visions from the category of hallucination,
+    so they must instead be regarded as apparitions.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 0994420f-7645-4f8c-b2ea-7d18f2e0146d
+    title: Peter Fenwick
+  provenance_chain:
+    origin_kind: speaker
+    origin: Peter Fenwick
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0994420f-7645-4f8c-b2ea-7d18f2e0146d
+    title: Peter Fenwick
+    slug: peter-fenwick
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: f00ee898-537f-4c5e-986c-88511f61b0a2
+    title: deathbed visions
+    slug: deathbed-visions
+  date: null
+  date_end: null
+  location_in_record: ch20:9395-9557
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 8dcd0da7-b856-4734-9772-1a1122b2d95e
+  claim_hash: 89d97bf57eabcad767d765e3b4e9def99ee2d988c9677916a62134e1d3d32c9c
+  content: After many years of research, Erlendur Haraldsson found that apparition
+    cases also contained a much higher percentage of appearances from those who had
+    suffered a violent death, compared with the general population.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Erlendur Haraldsson
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+    title: Erlendur Haraldsson
+    slug: erlendur-haraldsson
+  date: null
+  date_end: null
+  location_in_record: ch30:11443-11656
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 0b9ec2ce-df90-4c36-9c75-d6ff69144339
+  claim_hash: c40ebfb5ea4f7e14f48a9547d67cacbd49ea3d330ac142044e1b7cd39f6ffe57
+  content: Erlendur Haraldsson states that persons suffering a violent death feature
+    predominantly in cases of apparitions of the dead, in cases of the reincarnation
+    type, and in mediumship, including both direct communicators and drop-ins.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+    title: Erlendur Haraldsson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Erlendur Haraldsson
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
+    title: drop-in communicators
+    slug: drop-in-communicators
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+    title: Erlendur Haraldsson
+    slug: erlendur-haraldsson
+  - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+    title: reincarnation
+    slug: reincarnation
+  date: null
+  date_end: null
+  location_in_record: ch30:11722-11925
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 59bb984a-93aa-4ad2-8f1e-ac83d8881d19
+  claim_hash: 24386d58b02e57ae4deb692217eb0a37b401e0e8862df1c6ef0907e12d5054a8
+  content: During Leslie Kean's apparition experience at the family summer house,
+    she was suddenly and instantaneously awoken and saw a dark, cloaked, headless-featured
+    figure standing near the window at the foot of the bed.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+  provenance_chain:
+    origin_kind: speaker
+    origin: Leslie Kean
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+    slug: leslie-kean
+  - node_id: c7cb0a60-3b8d-4284-a8ad-03f3c24d4c3c
+    title: Leslie Kean's apparition experience at the family summer house (2015-08)
+    slug: leslie-keans-apparition-experience-at-the-family-summer-house-2015-08
+  date: null
+  date_end: null
+  location_in_record: ch30:28202-28317
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 2a7858c6-9a99-404d-bc7a-41835fbb3dcd
+  claim_hash: 25ef1a26293456d10a830f40a9f5bfaddca16e54966a2bc48990bd509c4175dd
+  content: In 1985, Donna McCormick provided Loyd Auerbach with an example of an ongoing
+    apparition case.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+    slug: loyd-auerbach
+  - node_id: acd92bbb-a5de-40b0-b511-cad866103001
+    title: Donna McCormick
+    slug: donna-mccormick
+  date: '1985'
+  date_end: null
+  location_in_record: ch31:10787-10959
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 758ba7dc-7310-4816-8d6a-69cfe51f6263
+  claim_hash: 860a563ec1ab16fcb33c8013998d0475b37902044eced0624ba1f08313fa9bd8
+  content: A family began hearing footsteps coming up the stairs, a lock turning,
+    a door opening and closing, ending at the children's bedroom, shortly after the
+    grandfather of the woman of the couple died.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: acd92bbb-a5de-40b0-b511-cad866103001
+    title: Donna McCormick
+  provenance_chain:
+    origin_kind: named
+    origin: Donna McCormick
+    relay:
+    - Donna McCormick's investigation notes relayed to Loyd Auerbach
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: acd92bbb-a5de-40b0-b511-cad866103001
+    title: Donna McCormick
+    slug: donna-mccormick
+  date: null
+  date_end: null
+  location_in_record: ch31:11214-11585
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: bcce36f4-b279-4233-b4e2-5f3a78fd3835
+  claim_hash: 8fef42e3aabdde70fb854dcb1e8420f75adf9030a2f2a58b90bed7d387404f22
+  content: Visitors to the family's house sometimes saw clear, concrete-seeming apparitions
+    of the individual and asked who was in the house, while other times only vague
+    shadows were seen.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: acd92bbb-a5de-40b0-b511-cad866103001
+    title: Donna McCormick
+  provenance_chain:
+    origin_kind: named
+    origin: Donna McCormick
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: acd92bbb-a5de-40b0-b511-cad866103001
+    title: Donna McCormick
+    slug: donna-mccormick
+  date: null
+  date_end: null
+  location_in_record: ch31:11717-11941
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 9b4a82a0-2246-4ac3-9810-9f47c7e53098
+  claim_hash: 1fa15ec179c8401c6bc0ad4eb6cc72fbaa8cea7ea1b2c41ae56eb4958663d3e0
+  content: Loyd Auerbach's apparition experience was silent and disappeared quickly,
+    possibly in reaction to his fear.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+    slug: loyd-auerbach
+  date: null
+  date_end: null
+  location_in_record: ch31:119-211
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 254d90c1-9b4d-431e-ac85-5239a91dc6ae
+  claim_hash: 6907ce50adf14b57e30e37703386e33c91909bcc71d0429e0ad561e21fa7f20e
+  content: Psychics Alex Tanous and two others, presented with several photographs
+    including one of the grandfather, each independently picked the grandfather's
+    photograph and gave descriptions matching what he was like in life.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: acd92bbb-a5de-40b0-b511-cad866103001
+    title: Donna McCormick
+  provenance_chain:
+    origin_kind: named
+    origin: Donna McCormick
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 4fd84898-ccea-43c2-83f0-3f8ff9289979
+    title: psychometry
+    slug: psychometry
+  - node_id: acd92bbb-a5de-40b0-b511-cad866103001
+    title: Donna McCormick
+    slug: donna-mccormick
+  - node_id: d144aa64-9866-4afd-a25b-9c905c57614d
+    title: Alex Tanous
+    slug: alex-tanous
+  date: null
+  date_end: null
+  location_in_record: ch31:12009-12410
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: c66668dd-d96b-4bdc-8528-f0b331f175fa
+  claim_hash: 4cb8f99fef5328b79e359351018c2eed1485a00c1561bf624e0229af27ef5822
+  content: After the family in the case investigated by Donna McCormick moved to a
+    new location, the apparition phenomena continued there, suggesting the phenomena
+    were person-related rather than house-related.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: acd92bbb-a5de-40b0-b511-cad866103001
+    title: Donna McCormick
+  provenance_chain:
+    origin_kind: named
+    origin: Donna McCormick
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: acd92bbb-a5de-40b0-b511-cad866103001
+    title: Donna McCormick
+    slug: donna-mccormick
+  - node_id: fe6edf88-0be3-453e-8a6b-449709eae1e7
+    title: haunting (place memory)
+    slug: haunting-place-memory
+  date: null
+  date_end: null
+  location_in_record: ch31:12419-12572
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: f59d8e7b-4692-41d9-a05d-675dd458e672
+  claim_hash: f4c5326a19c429ca9d43f51cb9f2242d6f36737981f5e59eb08df0153cc74538
+  content: The psychics investigating the case explained that the grandfather's apparition
+    was watching over the family, knowing he was dead and keeping an eye on them rather
+    than being earthbound.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: acd92bbb-a5de-40b0-b511-cad866103001
+    title: Donna McCormick
+  provenance_chain:
+    origin_kind: named
+    origin: Alex Tanous
+    relay:
+    - Donna McCormick
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: acd92bbb-a5de-40b0-b511-cad866103001
+    title: Donna McCormick
+    slug: donna-mccormick
+  - node_id: d144aa64-9866-4afd-a25b-9c905c57614d
+    title: Alex Tanous
+    slug: alex-tanous
+  date: null
+  date_end: null
+  location_in_record: ch31:12581-12791
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 87ee3562-2c16-4244-a333-adf7c749dd85
+  claim_hash: d99219fb73ed331e3156d9bbeec8220c507e4a37454310fac2c9662fb7db55bf
+  content: The family in the apparition case reported experiences suggesting the children
+    were being looked after, such as finding a blanket pulled up over the baby who
+    previously had no blanket.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: acd92bbb-a5de-40b0-b511-cad866103001
+    title: Donna McCormick
+  provenance_chain:
+    origin_kind: named
+    origin: Donna McCormick
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: acd92bbb-a5de-40b0-b511-cad866103001
+    title: Donna McCormick
+    slug: donna-mccormick
+  date: null
+  date_end: null
+  location_in_record: ch31:12984-13218
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: ae5202dd-d547-4d88-ae45-ab3ebcb590bd
+  claim_hash: 27e9de321dea3552456ae163df9a602bfad66ead40faf5b73990512adf48d6d6
+  content: The grandfather in the case investigated by Donna McCormick had not lived
+    with the family, and the apparition's activity was seemingly independent of his
+    activity when he was alive.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch31:13224-13361
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: bd59dac0-5ced-4e67-83bd-341fb7871fa2
+  claim_hash: afe455b5e4ef0b801509c45712efcb698bdef2daa4b6dcfab774716157a425e5
+  content: Pat learned that her son Chris had been having conversations with a ghost
+    he identified as the previous owner of their home, occurring almost daily for
+    well over a year.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: named
+    origin: Pat
+    relay:
+    - Loyd Auerbach
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+    title: Lois
+    slug: lois
+  - node_id: 3d7a3a98-eb61-403d-9c2c-d228b86e9c56
+    title: Chris (Pat's son)
+    slug: chris-pats-son
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
+    title: Pat
+    slug: pat
+  date: null
+  date_end: null
+  location_in_record: ch31:13930-14206
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 9effca54-3121-43fe-8dcf-97a8e02a8c7a
+  claim_hash: 3ab1b50838f416161cf5fcadd0a7923524c6a4957aa44a313cd75598a52f9776
+  content: Since moving into the house, Pat, her husband, her mother, and more frequently
+    her son Chris had seen an apparition of an elderly woman appearing and disappearing
+    in the house.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: named
+    origin: Pat
+    relay:
+    - Loyd Auerbach
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+    title: Lois
+    slug: lois
+  - node_id: 3d7a3a98-eb61-403d-9c2c-d228b86e9c56
+    title: Chris (Pat's son)
+    slug: chris-pats-son
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 8d646306-6faf-4916-9946-256c1d8478af
+    title: Mark (Pat's husband)
+    slug: mark-pats-husband
+  - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
+    title: Pat
+    slug: pat
+  date: null
+  date_end: null
+  location_in_record: ch31:14688-14862
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 1cd2e486-062d-424b-8415-19763900b761
+  claim_hash: 12892800e61b8208911ae88584ba89ca0df17ebc85daa57ff3f1830fda1d3505
+  content: The initial apparition sightings in Pat's house came shortly after the
+    family moved in, when Chris was eleven, showing the figure of an elderly woman
+    walking through the living room, typically toward the stairs.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: named
+    origin: Pat
+    relay:
+    - Loyd Auerbach
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+    title: Lois
+    slug: lois
+  - node_id: 3d7a3a98-eb61-403d-9c2c-d228b86e9c56
+    title: Chris (Pat's son)
+    slug: chris-pats-son
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch31:14869-15054
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 6a047c19-0658-4f8b-a101-e10f5c75b3f9
+  claim_hash: 931f635f42b4a5dd58ea833df140e6c20e33326e19ac7c9cf67bbb211755e6e1
+  content: In a number of instances, the apparition figure in Pat's house waved at
+    the percipient and disappeared a few seconds later.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: named
+    origin: Pat
+    relay:
+    - Loyd Auerbach
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+    title: Lois
+    slug: lois
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch31:15062-15157
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: dc0afe6a-62ec-4187-aec9-a63d68f0e77f
+  claim_hash: 6faefeed1eb963d4ff04bbd8d2c3ddc346f683f8c0d4c88699f1393f1c292043
+  content: Loyd Auerbach considered the interactive waving behaviour of the apparition
+    in Pat's house more likely to demonstrate awareness of witnesses than to be a
+    psychic imprint of the woman's past activity.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+    title: Lois
+    slug: lois
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+    slug: loyd-auerbach
+  - node_id: fe6edf88-0be3-453e-8a6b-449709eae1e7
+    title: haunting (place memory)
+    slug: haunting-place-memory
+  date: null
+  date_end: null
+  location_in_record: ch31:15164-15486
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 8916e582-b386-45a0-9248-3cf28320e21f
+  claim_hash: a7d46058024a59961dad4ccca94379e9a58d7c7c3dcd5a63c04d1dc09305e020
+  content: Loyd Auerbach has been investigating cases of apparitions, hauntings, and
+    poltergeists for over thirty-five years.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+    slug: loyd-auerbach
+  - node_id: cb4a5fa0-4215-4340-8c43-4e7091f6b650
+    title: poltergeist
+    slug: poltergeist
+  - node_id: fe6edf88-0be3-453e-8a6b-449709eae1e7
+    title: haunting (place memory)
+    slug: haunting-place-memory
+  date: null
+  date_end: null
+  location_in_record: ch31:1584-1681
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: cb0ccffa-4817-45a0-b348-77426989276e
+  claim_hash: 3e438096b49a1129c48811a9e7e3a3b19d1d35837c113023c2ede00d0b97d7c0
+  content: Chris reported that the apparition of Lois had appeared to him every day
+    since he first saw her and waved back, and that she approached him and began communicating
+    rather than disappearing.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: third_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: named
+    origin: Chris (Pat's son)
+    relay:
+    - Pat
+    - Loyd Auerbach
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+    title: Lois
+    slug: lois
+  - node_id: 3d7a3a98-eb61-403d-9c2c-d228b86e9c56
+    title: Chris (Pat's son)
+    slug: chris-pats-son
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch31:17342-17583
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 115bd7fb-7870-45d5-81c8-4172d58c4ee0
+  claim_hash: 3a73eb4d94c6a62f15180f4d9fd2f0c7baedda6fda3564027f26f94f4f304ea5
+  content: Pat told Loyd Auerbach that Chris was able to get verifiable information
+    from Lois, which Loyd Auerbach considers a rarity in apparition cases.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+    title: Lois
+    slug: lois
+  - node_id: 3d7a3a98-eb61-403d-9c2c-d228b86e9c56
+    title: Chris (Pat's son)
+    slug: chris-pats-son
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+    slug: loyd-auerbach
+  - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
+    title: Pat
+    slug: pat
+  date: null
+  date_end: null
+  location_in_record: ch31:18009-18216
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: b10a7f9d-7dd3-407b-95d4-71a545b7437b
+  claim_hash: 3f0d1c542db96b4bfe334aa5118121d3d88675a9d488143026861bab37fec8eb
+  content: Loyd Auerbach considers perceptual insertion an explanation for why only
+    some people experience apparitions, since their perceptual processes are susceptible
+    to telepathic projection.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
+    title: perceptual insertion
+    slug: perceptual-insertion
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+    slug: loyd-auerbach
+  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+    title: telepathy
+    slug: telepathy
+  date: null
+  date_end: null
+  location_in_record: ch31:25780-25919
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 85e44f7d-7276-469e-9e54-8351fb6076a7
+  claim_hash: 54a6cb7a859a952b2b8907f7a2cb6f11e6304be0fd3ce477a122a3bccceb154a
+  content: Loyd Auerbach considers perceptual insertion an explanation for why genuine
+    photos or videos of ghosts are not seen, since apparitions have no physical form
+    to reflect light.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
+    title: perceptual insertion
+    slug: perceptual-insertion
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+    slug: loyd-auerbach
+  date: null
+  date_end: null
+  location_in_record: ch31:25931-26043
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: d6e9a6b3-8174-4ff2-9ce6-9e8874feed92
+  claim_hash: e7199ce6509c66e51723e9079285d1bcf0d310e354f7f84b389b2166b91bb54b
+  content: Loyd Auerbach considers it more likely, given corroborating witnesses to
+    Lois manifesting visually and Chris's lack of any other psychic perceptions, that
+    Lois was an interacting apparition rather than Chris being a super-psychic accessing
+    information through clairvoyance or retrocognition.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+    title: Lois
+    slug: lois
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+    title: clairvoyance
+    slug: clairvoyance
+  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+    slug: loyd-auerbach
+  - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
+    title: Chris
+    slug: chris
+  date: null
+  date_end: null
+  location_in_record: ch31:31549-31880
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 7353bbc0-e6d6-4d4e-a1b5-80fd31555c06
+  claim_hash: d47604d4ed2d4d8b32163dad05073e121deaa055aaf75d10dbfce5ce104482e6
+  content: Loyd Auerbach directly experienced an apparition himself as part of another
+    investigation.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+    slug: loyd-auerbach
+  date: null
+  date_end: null
+  location_in_record: ch31:32771-32893
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: e44b2947-5ce4-4e4b-88e6-710819be8f17
+  claim_hash: eb0616b517314db0b69a600bd17a7e53913d8b883559eb2bf9c883abc682e19f
+  content: Loyd Auerbach considers most apparition cases to be onetime and personal,
+    involving perception of a just-deceased loved one, relative, or friend, rather
+    than continuing over time.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+    slug: loyd-auerbach
+  date: null
+  date_end: null
+  location_in_record: ch31:37175-37335
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 20be2967-df7e-4b92-a393-6a503bc490dd
+  claim_hash: be3bb9487ed26d4796427e258eaf96ad0dd12f7573338b69e15d061e8c28cb2d
+  content: Loyd Auerbach considers the philosophical divide in parapsychology to be
+    not whether apparitional phenomena exist, but whether they are caused by human
+    psi alone rather than by a disembodied consciousness.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+    slug: loyd-auerbach
+  - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
+    title: psi (psychic functioning)
+    slug: psi-psychic-functioning
+  date: null
+  date_end: null
+  location_in_record: ch31:37892-38083
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: dd13000f-3f3c-44c5-b1ff-13d1ecfd006c
+  claim_hash: 6eb79536d1629e319a1c73cd9bc39f515d678a960b59a9e8be00e24122ceaf32
+  content: Loyd Auerbach considers, based on his many years of investigations and
+    experiences, the evidence weighted heavily toward the survival hypothesis in explaining
+    apparitions.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+    title: survival hypothesis
+    slug: survival-hypothesis
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+    slug: loyd-auerbach
+  date: null
+  date_end: null
+  location_in_record: ch31:38907-39051
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 64ef0025-7a9b-4f38-9adc-2fc5065ecc54
+  claim_hash: 650b3a24c613dea255bfb92ade815287a6e56b057a1c9739ca716664ff7564c3
+  content: For an apparition to represent evidence for survival past death, it must
+    be capable of communicating or interacting with those around it in a conscious
+    way.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+    title: survival hypothesis
+    slug: survival-hypothesis
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch31:3919-4072
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 09cb2858-2994-4879-b630-8da0f86a6184
+  claim_hash: f79a3ba8b1660d5869c0950b4b2b4c1e8d6b9fc8f40bc5ebca22b0d59d2572e9
+  content: 'The key element distinguishing apparitions from hauntings is consciousness:
+    hauntings cannot interact or adapt to new people or situations, while apparitions,
+    representing a person''s consciousness, can.'
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: fe6edf88-0be3-453e-8a6b-449709eae1e7
+    title: haunting (place memory)
+    slug: haunting-place-memory
+  date: null
+  date_end: null
+  location_in_record: ch31:7754-8047
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: a86b9ba2-c020-497f-a84e-ce01e0b3aabb
+  claim_hash: 720e4b6cd9de446df7120b8c8848b27430dc09958ab29fae32b43955a9e5aab2
+  content: Collective apparitions, seen by multiple witnesses at the same time or
+    by several witnesses at different times, are considered the most persuasive apparition
+    cases.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch31:781-922
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 52fad5a8-597a-4299-a22f-d206dc94451d
+  claim_hash: 22cef05f518ac1a5aed95df6986ba1f50a94fbb1bbcb3d85381306558d290552
+  content: Apparitional psychokinesis (PK) appears to be more deliberate than the
+    more common, chaotic PK stemming from living people, caused by poltergeists.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 5b384d44-dd7a-44bb-aaca-69cd59b8bb75
+    title: Psychokinesis (PK)
+    slug: psychokinesis-pk
+  - node_id: cb4a5fa0-4215-4340-8c43-4e7091f6b650
+    title: poltergeist
+    slug: poltergeist
+  date: null
+  date_end: null
+  location_in_record: ch31:8405-8561
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 76a42eca-70f5-4030-b236-5894d5e3fe3e
+  claim_hash: 6f4f5638454d481a5b2a25346f2e4c11c3a707a1b9ca887116c76c40cbacd409
+  content: Loyd Auerbach considers a postmortem apparition's perception of the world
+    to involve psi, the same mechanism by which a medium understands communications
+    from a consciousness speaking through her.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: ba0c3542-ce21-4be8-b13d-89820c11475f
+    title: trance mediumship
+    slug: trance-mediumship
+  - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
+    title: psi (psychic functioning)
+    slug: psi-psychic-functioning
+  date: null
+  date_end: null
+  location_in_record: ch31:8825-9192
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 895dd746-f037-435b-a61f-33a7ab85986f
+  claim_hash: 22f1e3d7b666e20a0e043c09c0645157304ea381a53f01ea262b7a1858936aee
+  content: Apparitions can directly affect the environment and are not solely visual,
+    creating sounds or smells.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+  provenance_chain:
+    origin_kind: speaker
+    origin: Loyd Auerbach
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch31:929-1100
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 13811789-0024-43c3-b0ad-1d8345dbf5a5
+  claim_hash: ae58d7cbb6dc2de23ff488c149e6206ca88abc24147c98f2d265cfba23048148
+  content: Hereward Carrington acknowledged that mediumship phenomena can sometimes
+    manifest spontaneously, as seen with after-death communications (ADC) and apparitions.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: ec527113-0912-4b33-81d6-d58f7df79dc1
+    title: After-death communication (after-death communication (ADC))
+    slug: after-death-communication-after-death-communication-adc
+  date: null
+  date_end: null
+  location_in_record: ch37:31097-31270
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: d7c96567-a3bb-446b-8816-ddb63f9b56fe
+  claim_hash: d861f4fdd17b1c051b7b80c7387aa8d10e93fbabb695e01edc2a09b9bda4725f
+  content: Precognition involves an awareness of future events before they happen.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Leslie Kean
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  date: null
+  date_end: null
+  location_in_record: ch7:14403-14467
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: d56e4855-a2f5-4943-83f5-5880d38a56a8
+  claim_hash: fe38727d89d89e6951426bba15625253f634e424f391498d60289893fb21bb01
+  content: Graham Nichols's 1999 precognitive experience of the London bombing was
+    also witnessed by five other people.
+  original_excerpt: And this case of precognition was unique in that it was also witnessed
+    by five other people.
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 8b2d5e30-ca94-4926-98c5-70566c0988e4
+    title: 1999 Admiral Duncan pub bombing
+    slug: 1999-admiral-duncan-pub-bombing
+  - node_id: c3e9bb65-7e60-4ffd-a7b8-dc49ba4d39ae
+    title: Graham Nichols
+    slug: graham-nichols
+  date: '1999'
+  date_end: null
+  location_in_record: 00:06:32.4-00:06:37.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9d72a455-1dcf-44ac-8093-2fe566032264
+    record_title: I LEFT MY BODY - The Gateway Experience (Part 3)
+    record_date: '2024-08-24'
+    record_reference: https://www.youtube.com/watch?v=GRqPnRcfMIY
+    content_hash: sha256:4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972be64eb926
+    friendly_name: null
+- claim_id: 03db061d-5f48-429e-b567-c0a258253b5f
+  claim_hash: f9d67e1a5b3982093573eb0165b9dbd21454b48f546d4f51a85ef090928029a1
+  content: During his 1999 out-of-body experience, Graham Nichols had the conviction
+    that a precognitive bombing was going to happen on Old Compton Street.
+  original_excerpt: I said that I felt that it was precognitive and I'd seen this
+    bombing on Old Compton Street at the far right of the street and that, you know,
+    I had this, I didn't know why, but I had this conviction that I felt that it was
+    going to happen.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c3e9bb65-7e60-4ffd-a7b8-dc49ba4d39ae
+    title: Graham Nichols
+  provenance_chain:
+    origin_kind: speaker
+    origin: Graham Nichols
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 4af83358-958a-4db1-a9e8-01a486c7d91d
+    title: United Kingdom, England, London, Soho, Old Compton Street
+    slug: england-london-soho-old-compton-street-united-kingdom
+  - node_id: 8b2d5e30-ca94-4926-98c5-70566c0988e4
+    title: 1999 Admiral Duncan pub bombing
+    slug: 1999-admiral-duncan-pub-bombing
+  - node_id: c3e9bb65-7e60-4ffd-a7b8-dc49ba4d39ae
+    title: Graham Nichols
+    slug: graham-nichols
+  date: '1999'
+  date_end: null
+  location_in_record: 00:09:42.3-00:09:54.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9d72a455-1dcf-44ac-8093-2fe566032264
+    record_title: I LEFT MY BODY - The Gateway Experience (Part 3)
+    record_date: '2024-08-24'
+    record_reference: https://www.youtube.com/watch?v=GRqPnRcfMIY
+    content_hash: sha256:4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972be64eb926
+    friendly_name: null
+- claim_id: 4ddb9716-e057-4fa8-bbe8-9b9cf2ffd4f4
+  claim_hash: 36c8032c570c4dd0b9c9c3d8e65c51a37a0c139ed429bbda9e224fc59dc7cf24
+  content: A few days after the 1999 bombing, Graham Nichols got on a bus and, after
+    having a strong feeling about a friend he had not seen in about two years, that
+    same friend boarded the bus a few stops later.
+  original_excerpt: I got on a bus a few days after... I had a strong feeling of a
+    friend who I'd known in the past and I hadn't seen for I think at least two years...
+    he got onto the bus so that was a that was again like another sign
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c3e9bb65-7e60-4ffd-a7b8-dc49ba4d39ae
+    title: Graham Nichols
+  provenance_chain:
+    origin_kind: speaker
+    origin: Graham Nichols
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: c3e9bb65-7e60-4ffd-a7b8-dc49ba4d39ae
+    title: Graham Nichols
+    slug: graham-nichols
+  date: '1999'
+  date_end: null
+  location_in_record: 00:13:32.2-00:13:52.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9d72a455-1dcf-44ac-8093-2fe566032264
+    record_title: I LEFT MY BODY - The Gateway Experience (Part 3)
+    record_date: '2024-08-24'
+    record_reference: https://www.youtube.com/watch?v=GRqPnRcfMIY
+    content_hash: sha256:4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972be64eb926
+    friendly_name: null
+- claim_id: 333732c5-26ff-4bd5-8e94-8537301d163c
+  claim_hash: 5bd8ddb85c81554698ed971b6fa6e5053614faec2dcff49790b0f9ab29943cdd
+  content: Graham Nichols first learned of the 1999 Admiral Duncan bombing through
+    television news coverage, and only gradually realised the coverage matched what
+    he had perceived during his precognitive out-of-body experience.
+  original_excerpt: i believe that i saw it on just on the the television on on the
+    news... it's slowly dawning on me that oh this is exactly what i saw
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c3e9bb65-7e60-4ffd-a7b8-dc49ba4d39ae
+    title: Graham Nichols
+  provenance_chain:
+    origin_kind: speaker
+    origin: Graham Nichols
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 8b2d5e30-ca94-4926-98c5-70566c0988e4
+    title: 1999 Admiral Duncan pub bombing
+    slug: 1999-admiral-duncan-pub-bombing
+  - node_id: c3e9bb65-7e60-4ffd-a7b8-dc49ba4d39ae
+    title: Graham Nichols
+    slug: graham-nichols
+  date: '1999'
+  date_end: null
+  location_in_record: 00:14:30.2-00:14:40.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9d72a455-1dcf-44ac-8093-2fe566032264
+    record_title: I LEFT MY BODY - The Gateway Experience (Part 3)
+    record_date: '2024-08-24'
+    record_reference: https://www.youtube.com/watch?v=GRqPnRcfMIY
+    content_hash: sha256:4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972be64eb926
+    friendly_name: null
+- claim_id: 9748223e-e5ef-488c-91f7-7af1f8a322a7
+  claim_hash: d83491204eb43290d8b2509a382ca451e7e96cf51679a0da2bcd667acccf2117
+  content: Graham Nichols considers emotional bond or emotional impact between participants
+    to be a key factor in the success of psychic phenomena such as precognition and
+    telepathy.
+  original_excerpt: i tend to talk about it in terms of maybe emotional impact...
+    when there's a strong bond between the two participants it tends to be more successful
+    in terms of psychic research so I guess I tend to frame it in the sense of emotion
+    or emotional impact
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c3e9bb65-7e60-4ffd-a7b8-dc49ba4d39ae
+    title: Graham Nichols
+  provenance_chain:
+    origin_kind: speaker
+    origin: Graham Nichols
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: c3e9bb65-7e60-4ffd-a7b8-dc49ba4d39ae
+    title: Graham Nichols
+    slug: graham-nichols
+  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+    title: telepathy
+    slug: telepathy
+  date: null
+  date_end: null
+  location_in_record: 00:16:15.8-00:16:37.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9d72a455-1dcf-44ac-8093-2fe566032264
+    record_title: I LEFT MY BODY - The Gateway Experience (Part 3)
+    record_date: '2024-08-24'
+    record_reference: https://www.youtube.com/watch?v=GRqPnRcfMIY
+    content_hash: sha256:4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972be64eb926
+    friendly_name: null
+- claim_id: dc725a03-5046-4121-a0e4-93b27c860caf
+  claim_hash: aa93b328f9d582d6fe3cc8403ab438d8600fbab16f7c6748513000768a969603
+  content: Julia Mossbridge has carried out work in the study of psi and of precognition.
+  original_excerpt: You've done incredible work in the study of psi and the study
+    of precognitive you know, precognition, all sorts of really interesting size stuff.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: unattributed
+    origin: the episode narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
+    title: psi
+    slug: psi
+  date: null
+  date_end: null
+  location_in_record: 00:03:23.5-00:03:33.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: f7a4b7ca-d24c-4364-8628-b311e6eea41f
+  claim_hash: 12de6040ed25002c2769621941ef48d56b9f323961db7703be346067b1706643
+  content: Julia Mossbridge is comfortable treating some of her dreams as data because
+    her own dreams have been highly evidential in terms of precognition.
+  original_excerpt: The reason I feel comfortable using dreams sometimes as data is
+    because I know my own dreams have been highly evidential in terms of precognition
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 00:37:39.5-00:37:49.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 70d4c9fd-44f2-4f3d-bfb8-06a233616ce5
+  claim_hash: e54b730aa55467cfb44b99691ddc34d989cf5b9e4ae05c6eeb38878e6b649bea
+  content: Julia Mossbridge holds that not all dreams are precognitive, and that any
+    given dream, including her dream of the childhood counsellor, could instead be
+    a psychological metaphor for how an experience felt.
+  original_excerpt: not all of them and so that's ... and so with each dream it's
+    sort of like well maybe this is just my opinion this could be a psychological
+    metaphor ... for how it felt but it's still it's describes how it might have felt
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 00:38:03.3-00:38:14.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 0ccdb2fa-5713-42da-98e4-fcec98b9e219
+  claim_hash: 0a7b34c0a18fc2daf2c1f3cc74ee40335c8561003c3182e69ab37b7d23a84dd3
+  content: Chris Ramsay considers that humankind has not, throughout history, been
+    able to use the mind to perceive the past or future in a way that is repeatable
+    or measurable, and infers there must be a benefit to that inability.
+  original_excerpt: if we go if we look throughout history humankind has not been
+    able to do that in a way that is uh repeatable or at all like measurable so there
+    has to be a benefit to us not being able to do that
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsay
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  date: null
+  date_end: null
+  location_in_record: 00:55:10.0-00:55:24.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: a556ff8a-21ac-42fb-bfbd-1043e20fb7df
+  claim_hash: e9e2835c080ad1fccf3e84db130404d2dead979b15f0620dd70bb096d3cf21b2
+  content: In Julia Mossbridge's scheme, mental time travel covers precognition and
+    also memory, knowing something about the future that cannot be known by other
+    means.
+  original_excerpt: Mental time travel is like precognition. And it's also like memory
+    ... precognition is like mental time travel, knowing something about the future
+    that you can't know through other means.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+    title: time travel
+    slug: time-travel
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 01:07:59.6-01:08:08.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: d1b6281c-1b12-4729-a396-d3cdf7b7a419
+  claim_hash: 08ea76cdc088f297ac875796eb191cee3bdb229b27dd1e18ccf82b2d4cc98f8b
+  content: In Julia Mossbridge's scheme, informational time travel is information
+    being sent back to a person in time without the use of precognition, for example
+    by a device.
+  original_excerpt: There's informational time travel, which is just getting information
+    sent back to you in time. without using precognition. So like potentially using
+    a device
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+    title: time travel
+    slug: time-travel
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 01:08:21.0-01:08:29.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: c6217bb3-7dcf-43f3-b2fb-eaeaf3558162
+  claim_hash: 1c87d076a293310405d4422628f9e3edd7101439f21a0919eb61b88a9d8c7221
+  content: Photons emitted by a light source during a fixed on-period behave as if
+    the system already knows how long it will be on, with both the switch-on and the
+    future switch-off acting as boundary conditions shaping the group's behaviour.
+  original_excerpt: they start to behave as if the system knows it's gonna be on for
+    five minutes. So it's like for the photons, they know that they're in this group,
+    it's called boundary conditions in physics, the boundary condition of the on and
+    the boundary condition of the off and the future are both shaping this group's
+    behavior.
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2392cee9-5f74-465f-9e78-b6e4aaab6c16
+    title: boundary conditions
+    slug: boundary-conditions
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 01:10:54.5-01:11:17.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 4a67a3b4-b1e6-4faf-a187-286f0424fdcd
+  claim_hash: eea4f295b93b2b91303c34c0b3a7f14e3fdd3e8f359e8e5ef7e9608b5afd503f
+  content: Examining the first minute of a five-minute light emission allows the total
+    on-duration to be predicted at a relatively high accuracy rate, even when the
+    person holding the light source does not yet know when they will switch it off,
+    because the emission behaves differently from one that will be switched off after
+    two minutes.
+  original_excerpt: you can then look at the first minute of this five minutes and
+    know that at a relatively high accuracy rate that it's going to be on for five
+    minutes even if the person who's holding the flashlight doesn't know that in five
+    minutes they're going to turn it off because it behaves differently than something
+    that's going to be turned off in two minutes
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2392cee9-5f74-465f-9e78-b6e4aaab6c16
+    title: boundary conditions
+    slug: boundary-conditions
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 01:11:49.6-01:12:13.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 4eb27e8d-ce89-44d2-bac3-96f1211162f9
+  claim_hash: 57cb61f8e3ff53504306575dac13c65993717b065d394db32de635613b2bbead
+  content: Julia Mossbridge's startup is building technology that examines the first
+    chunk of a time period in order to predict the future.
+  original_excerpt: So that's my startup is we're creating technology that can then
+    look at that first chunk of time to predict the future. Period.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: da534c9a-7c8b-4ed3-a029-ab3d5310903f
+    title: Intuitive Forecasting
+    slug: intuitive-forecasting
+  date: null
+  date_end: null
+  location_in_record: 01:12:16.6-01:12:26.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 5661d124-7de9-4d88-97da-7c99ec0e13b7
+  claim_hash: 179edff53a65bbc7fa00d85bbbcf1f93150198be366e888b29b5420821f59fb7
+  content: Precognitive effects found with remote viewing can occur over days, weeks
+    or years, not only seconds or minutes.
+  original_excerpt: when you find it on the seconds or minutes time scale or with
+    remote viewing precognitive remote viewing it could be days, weeks, years.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  date: null
+  date_end: null
+  location_in_record: 01:21:43.5-01:21:50.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: c9bc3ca6-7c42-4e48-a11e-411f23935c03
+  claim_hash: ae204d3cdf280fbd806f9a35b504ef5b5419b0949b1f4e8e594fb634872c975a
+  content: 'Julia Mossbridge has studied precognition at two scales: unconscious physiological
+    responses on the 100-millisecond to seconds scale, and conscious, deliberate precognitive
+    remote viewing on the minutes, days and weeks scale.'
+  original_excerpt: I've gone to the really unconscious physiological scale and doing
+    things at the 100 milliseconds to seconds time scale. And then on the other end,
+    the more conscious, more deliberate precognitive remote viewing, you know, minutes,
+    days, weeks, et cetera, scale. So I've studied both of those.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 01:22:10.2-01:22:35.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: fda4c04a-7712-4d2c-bbe4-f3c9955754fa
+  claim_hash: c9083f0bf156ad5ffddbf7f3967aaf144a72fd8809c6e6bbdbc6e4b190905d20
+  content: Studying precognition in the body physiologically is called presentiment,
+    which means pre-feeling.
+  original_excerpt: It's called pre-sentiment. ... It means pre-feeling.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 72cb2492-82b5-41c3-938e-122b8d563316
+    title: presentiment
+    slug: presentiment
+  date: null
+  date_end: null
+  location_in_record: 01:22:47.1-01:22:49.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 8e1e2025-3082-42b0-a0aa-7993c943c5e3
+  claim_hash: ad49ac9c42e7b6f0af4d06dc15b42c84b7a609dccad6eefed4b404219e384fc6
+  content: Daryl Bem conducted a series of precognition studies.
+  original_excerpt: Yeah, he did a bunch of precognition studies. He did a bunch of
+    them.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: unattributed
+    origin: Julia Mossbridge in conversation
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 4af113d4-cbaa-45d5-82b1-279d7b68d016
+    title: Daryl Bem
+    slug: daryl-bem
+  date: null
+  date_end: null
+  location_in_record: 01:44:22.9-01:44:26.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: f9b4fcaf-ccda-41e6-b8ad-3f32abe24fb8
+  claim_hash: 6326769e52b18fd116ca3fe125f359e78d41eb4ff06be26cf49106c8c5d15e10
+  content: A meta-analysis conducted after Daryl Bem's precognition studies found
+    that the more replicable results were the fast, unconscious ones, while the slower
+    studies with a longer gap between the information and its future presentation
+    did not replicate as well.
+  original_excerpt: the real upshot at a meta-analysis that came after him is that
+    the ones that were more replicable were the ones that were unconscious. So they
+    were the ones that were fast, unconscious, not trying to do things. The slower
+    ones that took more time in between the information and when it was given in the
+    future, they did not replicate as well.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: document
+    origin: a meta-analysis of precognition studies published after Daryl Bem's work
+    relay:
+    - Julia Mossbridge
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 4af113d4-cbaa-45d5-82b1-279d7b68d016
+    title: Daryl Bem
+    slug: daryl-bem
+  - node_id: ae2a3399-8c70-4272-a9c0-5250f2f5cb4b
+    title: meta-analysis
+    slug: meta-analysis
+  date: null
+  date_end: null
+  location_in_record: 01:44:29.5-01:44:52.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 2aec39e2-9060-46fe-b05d-8e633d72fbd5
+  claim_hash: b008e9a5d64f9df8a29997c01f3c02d79758c50d469cd9cc6b8f7dbef51b8dd3
+  content: None of Daryl Bem's precognition studies involved remote viewing.
+  original_excerpt: None of them were remote viewing.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: unattributed
+    origin: Julia Mossbridge in conversation
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 4af113d4-cbaa-45d5-82b1-279d7b68d016
+    title: Daryl Bem
+    slug: daryl-bem
+  date: null
+  date_end: null
+  location_in_record: 01:44:56.3-01:44:57.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 74c7eff4-2da4-4afd-a74e-3fddd7b7f077
+  claim_hash: e6500cb4fea309d1971a04fadd859000e2c687458d042277b2a81b65dffac1da
+  content: Daryl Bem's precognition work has been subject to numerous critical takedowns,
+    and Julia Mossbridge accepts there were some errors in it.
+  original_excerpt: And there's been a lot of takedowns of his work, and that's okay.
+    I think there were some errors in there, and I think it's okay to criticize work.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 4af113d4-cbaa-45d5-82b1-279d7b68d016
+    title: Daryl Bem
+    slug: daryl-bem
+  date: null
+  date_end: null
+  location_in_record: 01:44:58.6-01:45:08.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: ed9ea029-27b9-4ce2-bb83-ca27783e91a7
+  claim_hash: 6ec546ca07c068364451ab441d059eefc9a82de37810e87667e3cc0de4d4a189
+  content: Julia Mossbridge describes herself as gifted at precognition, telepathy
+    and remote viewing.
+  original_excerpt: as a person who's gifted at precognition and telepathy, remote
+    viewing, that kind of stuff
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+    title: telepathy
+    slug: telepathy
+  date: null
+  date_end: null
+  location_in_record: 02:50:06.2-02:50:11.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 42c67257-ac32-423d-a62f-5096811aea0c
+  claim_hash: dab3408d843f576bfe03d4bb423b5d1437fb3862079e858588efc41258ce6133
+  content: An audience member identified only as Stan B. asked what causes a precognition
+    of an event that then no longer happens after the precognition has been acted
+    upon.
+  original_excerpt: Stan B. Yesterday at 1:33. What causes precognition of an event
+    that doesn't happen anymore after you acted upon the precognition?
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person posting a question in the episode's audience question thread
+      under the handle Stan B.
+    relay:
+    - Julia Mossbridge reading the question aloud
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 02:52:14.2-02:52:22.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 7672438e-7b26-457d-b713-d8ad365c0188
+  claim_hash: c7e2ef9cd7fce09ec3d995a675afa7f6fea8cc90541796b28c2b2870470e4360
+  content: The conventional way of explaining an averted precognitive event is that
+    the event feeds information back to the earlier moment and the person then moves
+    onto a new timeline in which that event did not happen.
+  original_excerpt: So we usually think about that scenario as if this B, the missile
+    launch that did happen in North Korea, feeds back to day 1A ... And now you're
+    on a new timeline where that event B didn't happen. It's like it allows you to
+    select a better timeline.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+    title: time travel
+    slug: time-travel
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 02:54:25.4-02:54:46.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: a85a2847-17ea-4b41-974a-ab6bfb10ac63
+  claim_hash: 4c31737c42b5c4a1d7fdd9a8de9c533fd4ca4b715ee596db1be401de4484a203
+  content: Julia Mossbridge dislikes the branching-timeline explanation of averted
+    precognition, calling it ugly.
+  original_excerpt: The way I like to think about it, because I hate this, is I just
+    think it's ugly.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+    title: time travel
+    slug: time-travel
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 02:54:52.3-02:55:00.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: f490e8d2-7fbc-485e-ab3b-aaf9baef862f
+  claim_hash: ec33ddb6d50053f16e28a8c1d53c6ed6eef999fde9d7e1c061632e59d19d8a87
+  content: Julia Mossbridge holds that in an averted precognition the informational
+    substrate already contains the intention behind the event, the giving of the warning,
+    the fact that the person could foil the intention, and the fact that they will
+    foil it, so no timeline is changed.
+  original_excerpt: the informational substrate knows that there's going to be this
+    missile launch. It gives you this information at the football game. and you prepare
+    to destroy the missile ... The knowledge that there's this intention for the missile
+    launch ... and the knowledge that you will foil that intention.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+    title: informational substrate
+    slug: informational-substrate
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 02:55:25.1-02:55:48.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 8bad31d7-b327-4b3a-b100-0dd006d44a4a
+  claim_hash: 1f7c1cea8c6fa9e715a1e69a436389eb8ff3157b41628f205006e09bff11d4fa
+  content: Julia Mossbridge holds that under the informational substrate model precognition
+    works with a substrate aware of what needs to happen, rather than only with events
+    that reach physical manifestation in time.
+  original_excerpt: Where it's no longer that you have to work with the events in
+    time that actually make it up to physical manifestation. You're working with this
+    substrate that is actually aware, its mind, its universal mind is aware of what
+    needs to happen.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+    title: informational substrate
+    slug: informational-substrate
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+    title: nonlocal consciousness
+    slug: nonlocal-consciousness
+  date: null
+  date_end: null
+  location_in_record: 02:56:03.9-02:56:18.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 8f3115fc-8e8d-4429-80eb-f2ed1c38c295
+  claim_hash: a4a2958f43ef92a14daa3fb8d819bcc1c794989a9cd07b253caee8aeb64a09cb
+  content: Julia Mossbridge holds that acting on a precognition to prevent an event
+    is not a change to the timeline.
+  original_excerpt: Well, this was not a change. No, there's no. Your activity that
+    made this missile test.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+    title: informational substrate
+    slug: informational-substrate
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 02:56:53.6-02:56:58.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null

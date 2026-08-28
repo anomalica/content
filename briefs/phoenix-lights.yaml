@@ -1,0 +1,229 @@
+schema: anomalica/brief/1
+brief_hash: 213a3f6177d2589050ccb21e9c77b6879f1c7ce002091e10a8384269e88d8517
+page:
+  kind: entity
+  node_id: 5a14f91d-37b8-4659-87f7-15501bca4c61
+  node_type: event
+  title: Phoenix Lights
+  slug: phoenix-lights
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: c09e3558-1732-4676-a218-d67d285d98ef
+  title: David Fravor
+  node_type: person
+  slug: david-fravor
+  shared_claims: 2
+- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+  title: David Charles Grusch
+  node_type: person
+  slug: david-charles-grusch
+  shared_claims: 1
+- node_id: 02dfdc15-2bec-48cc-b5c2-d0280ca72844
+  title: USA, Arizona, Barry M. Goldwater Range
+  node_type: place
+  slug: arizona-barry-m-goldwater-range-usa
+  shared_claims: 1
+- node_id: 7471a0e6-3f63-4c34-ab0b-9d56084a75b5
+  title: USA, Arizona, Luke Air Force Base
+  node_type: place
+  slug: arizona-luke-air-force-base-usa
+  shared_claims: 1
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 1
+claims:
+- claim_id: 69845000-f6c9-48d5-ba9e-226ef49fa0d0
+  claim_hash: 59396506424df3350537a8d946bbcd198f6aac48ebc75a0edca6e4d65d350366
+  content: David Fravor considers the 1997 Phoenix Lights to be unexplainable.
+  original_excerpt: So the Phoenix Lights is unexplainable, although I know the Air
+    Force had said something about it.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5a14f91d-37b8-4659-87f7-15501bca4c61
+    title: Phoenix Lights
+    slug: phoenix-lights
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: 03:29:39.9-03:29:43.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: 23212b46-6a94-42db-9e46-64206b214971
+  claim_hash: e698ff38878a9f4e4a1601208f7c7589becf31fc193343d1931d3c1660786642
+  content: The United States Air Force attributed the 1997 Phoenix Lights to flares
+    dropped by an A-10 aircraft.
+  original_excerpt: It was an A-10 drop in flares.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: named
+    origin: United States Air Force
+    relay:
+    - David Fravor relaying the Air Force's public statement
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 5a14f91d-37b8-4659-87f7-15501bca4c61
+    title: Phoenix Lights
+    slug: phoenix-lights
+  date: null
+  date_end: null
+  location_in_record: 03:29:43.5-03:29:44.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: 53793acf-ef4c-40f3-b43b-e475c5bb6634
+  claim_hash: 63a6d425fff4b7af01e7ec720c946e84a280888111d71e60bdbc06c2739c3f14
+  content: David Fravor disputes that flares explain the 1997 Phoenix Lights, noting
+    that flares do not burn as long as the lights were reported to have lasted.
+  original_excerpt: No, I don't think so. You know, flares don't burn that long. They
+    just come out and they, you know, they detract and they go away.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5a14f91d-37b8-4659-87f7-15501bca4c61
+    title: Phoenix Lights
+    slug: phoenix-lights
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: 03:29:44.6-03:29:50.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: 42eece88-1508-4f3e-af13-8489456e4386
+  claim_hash: 8e86d44437a598c46318a71751d4bc648d10810c532438b5a6fef482b5600d9a
+  content: In 1997, the Phoenix Lights case in the Phoenix Valley area of Arizona
+    was officially explained as a military training exercise conducted near USA, Arizona,
+    Luke Air Force Base and the USA, Arizona, Barry Goldwater Range.
+  original_excerpt: In 1997, we had the famous Phoenix Lights case. I do not know
+    if any of you are familiar with that. There were two things that went along with
+    that and the explanation was military training range off Luke and the Barry Goldwater
+    range.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: a818643c-d43f-4cc2-b79b-13a87ecf6700
+    title: Andy Biggs
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 02dfdc15-2bec-48cc-b5c2-d0280ca72844
+    title: USA, Arizona, Barry M. Goldwater Range
+    slug: arizona-barry-m-goldwater-range-usa
+  - node_id: 5a14f91d-37b8-4659-87f7-15501bca4c61
+    title: Phoenix Lights
+    slug: phoenix-lights
+  - node_id: 7471a0e6-3f63-4c34-ab0b-9d56084a75b5
+    title: USA, Arizona, Luke Air Force Base
+    slug: arizona-luke-air-force-base-usa
+  date: null
+  date_end: null
+  location_in_record: char:102061-102290
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 50d452e3-f295-43d9-ade7-ecc9878d8cde
+  claim_hash: a7f152159fbe33db3efc05097d91d80212973b2c780147874d6205f5c05ccb32
+  content: David Grusch said his knowledge of the Phoenix Lights case is limited to
+    what is publicly known, as it fell outside the scope of his official duties.
+  original_excerpt: Only what is in the public vernacular about it. That was outside
+    the scope of my duties.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5a14f91d-37b8-4659-87f7-15501bca4c61
+    title: Phoenix Lights
+    slug: phoenix-lights
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: char:102395-102476
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety

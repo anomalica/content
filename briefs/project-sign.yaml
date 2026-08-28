@@ -1,0 +1,1460 @@
+schema: anomalica/brief/1
+brief_hash: 0b303aaad752a4a62aff413fedd153cdf59fe712536a7ea6bf7e4ab6f766594b
+page:
+  kind: entity
+  node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+  node_type: project
+  title: Project Sign
+  slug: project-sign
+  claim_count: 38
+  claim_count_total: 38
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 7a2adbe8-5a43-4700-a844-a24d35748e19
+  title: Project GRUDGE (Original Organization)
+  node_type: project
+  slug: project-grudge-original-organization
+  shared_claims: 5
+- node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+  title: Project GRUDGE
+  node_type: project
+  slug: project-grudge
+  shared_claims: 4
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 4
+- node_id: 4fca1350-3310-4376-94f8-19d3ddff86d6
+  title: Air Technical Intelligence Center (ATIC)
+  node_type: organisation
+  slug: air-technical-intelligence-center-atic
+  shared_claims: 3
+- node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+  title: Edward Ruppelt
+  node_type: person
+  slug: edward-ruppelt
+  shared_claims: 3
+- node_id: d604549a-40b2-441c-9756-9b27ffdc6925
+  title: Estimate of the Situation (1948)
+  node_type: document
+  slug: estimate-of-the-situation-1948
+  shared_claims: 3
+- node_id: a17d713f-41a9-48a3-82c7-f41c7745522f
+  title: Hoyt S. Vandenberg
+  node_type: person
+  slug: hoyt-s-vandenberg
+  shared_claims: 3
+- node_id: cc888145-58ee-42f5-b3c9-7a90e71ae117
+  title: Project SAUCER
+  node_type: project
+  slug: project-saucer
+  shared_claims: 3
+- node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+  title: J. Allen Hynek
+  node_type: person
+  slug: j-allen-hynek
+  shared_claims: 2
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 2
+- node_id: feb18c3b-2337-473e-8811-5e4841b32107
+  title: A. Ray Gordon
+  node_type: person
+  slug: a-ray-gordon
+  shared_claims: 1
+- node_id: 14b86ce0-520c-4311-a6fd-390be693d24d
+  title: CIA Special Study Group 1952
+  node_type: organisation
+  slug: cia-special-study-group-1952
+  shared_claims: 1
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 1
+- node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+  title: Nathan Twining
+  node_type: person
+  slug: nathan-twining
+  shared_claims: 1
+- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+  title: Project Blue Book
+  node_type: project
+  slug: project-blue-book
+  shared_claims: 1
+- node_id: abe07382-c992-4549-b0ff-6d2bc0b3e3e0
+  title: Project GRUDGE (Reestablishment)
+  node_type: project
+  slug: project-grudge-reestablishment
+  shared_claims: 1
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+- node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+  title: United States Army
+  node_type: organisation
+  slug: united-states-army
+  shared_claims: 1
+claims:
+- claim_id: 2a23664b-8541-47a1-8dcf-ab5a77e6f7aa
+  claim_hash: bb63eadac8c5a0c5b9a66e46925a667f229f34847714e1495b71df9175c69726
+  content: Project Sign was initiated in January 1948.
+  original_excerpt: And in January of 1948, Project Sign was initiated.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: unattributed
+    origin: historical reports
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: 1948-01
+  date_end: null
+  location_in_record: 00:11:52.0-00:11:55.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 52e00073-3c90-462f-9792-6be63d37331d
+  claim_hash: d44365e2d678dc7b7b119262069601a2ff0332f2af8836904231204a7e905a09
+  content: Project Sign concluded that after eliminating Russian and domestic origin,
+    UFOs could be extraterrestrial.
+  original_excerpt: Sign concluded, after eliminating Russian and domestic origin,
+    that they could be extraterrestrial.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: document
+    origin: Project Sign's estimate of the situation
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: 00:11:57.0-00:12:03.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 16d714ae-fe3c-4f1f-b2ba-e4e528ed5023
+  claim_hash: 7506374ba41152d054562c5e3077844794319f2a785cf9f6e2f7cef5fd08b516
+  content: Project Sign sent a top-secret estimate of the situation to General Hoyt
+    Vandenberg, who was commander of the Army Air Force at that time.
+  original_excerpt: they sent a top secret estimate of the situation to General Vandenberg,
+    who was the commander of the Army Air Force at that particular time.
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: unattributed
+    origin: historical reports
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: a17d713f-41a9-48a3-82c7-f41c7745522f
+    title: Hoyt S. Vandenberg
+    slug: hoyt-s-vandenberg
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: 00:12:04.7-00:12:11.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 3bd202ec-5b71-4510-b760-528a2ace4bb1
+  claim_hash: f81af17196238fe6f975c458350a982f385f05cf812931da4f90662e2080d7be
+  content: Hoyt Vandenberg publicly rejected the estimate of the situation from Project
+    Sign, saying there was no proof.
+  original_excerpt: On the surface, General Vandenberg rejected the estimate of the
+    situation. He said there was no proof.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: unattributed
+    origin: historical reports
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: a17d713f-41a9-48a3-82c7-f41c7745522f
+    title: Hoyt S. Vandenberg
+    slug: hoyt-s-vandenberg
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: 00:12:13.1-00:12:18.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 3be92c08-91d7-48ed-b931-514b8b0363bc
+  claim_hash: 586e4525e570c471c1af81c1f1157d83bf133b2f035e8a09ac1ced8e65eb5092
+  content: Hoyt Vandenberg concurrently replaced the personnel on Project Sign with
+    new people and directed them to provide explanations for UFOs to the public.
+  original_excerpt: But concurrently, he replaced everybody on Project Sign that was
+    on Project Sign and brought in new people and told them, as far as UFOs in the
+    public went, that they were to provide explanations.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: unattributed
+    origin: historical reports
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: a17d713f-41a9-48a3-82c7-f41c7745522f
+    title: Hoyt S. Vandenberg
+    slug: hoyt-s-vandenberg
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: 00:12:19.4-00:12:33.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 8b00ba96-0c3d-431d-882b-0c10195db4d4
+  claim_hash: b4209fdd67de5e47490281405a4d8211892d6f28d954293a0256fc825cd2ce47
+  content: The public was told that Project Sign was closed, while covertly Project
+    Grudge continued until March 1952.
+  original_excerpt: The public was told that the project was closed, in fact. And
+    meanwhile, Project Grudge continued covertly. This was until March of 1952
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: unattributed
+    origin: historical reports
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+    title: Project GRUDGE
+    slug: project-grudge
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: 1952-03
+  date_end: null
+  location_in_record: 00:12:34.7-00:12:43.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 41df29fa-62e9-409e-82d6-024099f70f30
+  claim_hash: fca253e4115d86754069884e4f233be2381760554b6770d8d9636959b39fab44
+  content: Nathan Twining recommended a detailed study of UAPs, which became known
+    as Project Sign.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+    title: Nathan Twining
+    slug: nathan-twining
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: ch8:1148-1223
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d5123701-5106-4f8c-800d-79c3d4cd3731
+  claim_hash: 3b2e4c28518c4d3ddc85d6a4ff6cab0a8eb7e48935391ef6d40dca074e061e83
+  content: J. Allen Hynek had previously worked as an advisor for Project Sign.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+    slug: j-allen-hynek
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: ch8:11805-11857
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 25989dbe-e0cf-4289-84ab-cefa36a563b6
+  claim_hash: 9e88d8d104e5841c2a35d3a8a1ada135f9080522b06f806bfc696d4851040f7a
+  content: J. Allen Hynek was initially extremely sceptical of UFO reports, having
+    said in his first year on Project Sign that the whole issue 'seems utterly ridiculous'.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+  provenance_chain:
+    origin_kind: speaker
+    origin: J. Allen Hynek
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+    slug: j-allen-hynek
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: ch8:11863-12015
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 4e84dc1a-ffd3-4323-8349-b3c5085dd9b5
+  claim_hash: 3edd2e4d0307406e563f31b11d2a881bafaf141fcd0947667de83274c09c5a27
+  content: Project Sign commenced in December 1947.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: 1947-12
+  date_end: null
+  location_in_record: ch8:1193-1254
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7515f8c5-6065-43ca-9f51-1e8f606a36c5
+  claim_hash: 29f4974f1cc773ff7078ef4269d86c12fabcafb6afbd34d73461530113a5bb6f
+  content: Project Sign was originally dubbed Project Saucer.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: ch8:1297-1371
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ca8ce4dd-73b6-41a1-b017-926ef93a487b
+  claim_hash: 2d2244117c0cf4f6e580267f1e6148a612090b364e95d65b88b297a1e830b6c1
+  content: The air force-controlled Project Sign investigation ran for one year.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: ch8:1320-1371
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5b6c1dde-c122-4963-bdb5-c22d7a45ee96
+  claim_hash: 7ba541e70d75b9fc01eb2dc6821e2d74e1092581bf8d7e2007996d601b4b054f
+  content: Edward Ruppelt was a US Air Force officer privy to the Project Sign investigations.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+    title: Edward Ruppelt
+    slug: edward-ruppelt
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: ch8:1378-1466
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 134134c4-f096-495f-822f-d3b62a245591
+  claim_hash: b18ad8e5fdb11a30087d07ec6857af4817df92bdd0312e9d2ff4290127fa83c8
+  content: Project Sign was renamed Project Grudge.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+    title: Project GRUDGE
+    slug: project-grudge
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: ch8:2280-2331
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5d634a25-d1ea-42a7-b2ea-2f4c1a649b47
+  claim_hash: 76fe04b9db10e858be764b26c7076fb78a78c83a7bf007940e4c957cef9e59d4
+  content: The United States Air Force studied Unidentified Aerial Phenomena (UAP)
+    in 1948 and 1949 under Project Sign and Project Grudge.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+    title: Project GRUDGE
+    slug: project-grudge
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: ch12:27859-27984
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 3c6a7780-f5d1-4b64-af32-3f2843e4e221
+  claim_hash: 71b409effea6976282f3ad0621cacd2d1791844a0ca5eb5ee12e6b683a86553e
+  content: Project Sign's findings on Unidentified Aerial Phenomena (UAP) were inconclusive
+    but open to the possibility of extraterrestrial origins for the craft.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: ch12:27992-28090
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 9a5cd75b-2ebf-43ea-94a6-2ff3fcf6f924
+  claim_hash: d95943c247f6e93ebeb4041f8ae6f71f8a2e9c2e6211b90b31e617247c36131d
+  content: Luis Elizondo conducted a deep dive into government historical records
+    including Project Blue Book and its predecessors, Project Sign and Project Grudge.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+    title: Project GRUDGE
+    slug: project-grudge
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: ch25:13747-13833
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 0fb0177d-e6b8-4815-80bf-3d33b244703a
+  claim_hash: d80f9ae582e33939a88d2bffb75f92079177b39b492664acd5cbaf7abf28b3f3
+  content: In December 1947, the United States Air Force Chief of Staff established
+    Project Sign to investigate the first recorded observations of Unidentified Flying
+    Objects (UFO).
+  original_excerpt: The DoD's first official UAP-focused activities occurred in December
+    1947, when the U.S. Air Force Chief of Staff established PROJECT SIGN to investigate
+    the first recorded observations of unidentified flying objects.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: 1947-12
+  date_end: null
+  location_in_record: char:1302-1511
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+    record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of
+      the DoD's Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+    record_date: '2024-01-24'
+    record_reference: null
+    content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+    friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+- claim_id: 447d013a-77f2-4f73-a343-741ae02dda20
+  claim_hash: 3f65da3ed4560ee6ca6233583ce1cf63f9a7ac10113fe396e4007bb6f341183d
+  content: Between 1947 and 1949, United States Air Force personnel investigated 243
+    reported Unidentified Anomalous Phenomena (UAP) sightings.
+  original_excerpt: From 1947 to 1949, Air Force personnel investigated 243 reported
+    UAP sightings.
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: char:1520-1589
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+    record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of
+      the DoD's Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+    record_date: '2024-01-24'
+    record_reference: null
+    content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+    friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+- claim_id: fde445ac-828e-47ad-97fc-01db680f2c9a
+  claim_hash: 312ebba0d2c2c13a15cd900db965b97b07911715cc423dc575567685eb8071cb
+  content: Edward J. Ruppelt claimed that Project SAUCER was the informal name of
+    Project SIGN and that it was designated a high priority.
+  original_excerpt: Captain Edward Ruppelt claimed that Project SAUCER was the informal
+    name of Project SIGN and it was designated a high priority.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+    title: Edward Ruppelt
+  provenance_chain:
+    origin_kind: speaker
+    origin: Edward J. Ruppelt
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+    title: Edward Ruppelt
+    slug: edward-ruppelt
+  - node_id: cc888145-58ee-42f5-b3c9-7a90e71ae117
+    title: Project SAUCER
+    slug: project-saucer
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: char:25290-25408
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: ac62cbd0-e319-4d58-9ee4-f7c768d9b76d
+  claim_hash: b7bd86a9d24204bce6aca1b359521e4956d4f4d2d7b03e6239b7bccd648618b6
+  content: An employee of Project SIGN, interviewed by All-Domain Anomaly Resolution
+    Office (AARO), claimed the project started a year earlier, in 1946, and that Project
+    SAUCER was its original, informal name.
+  original_excerpt: in an interview with an employee of Project SIGN, the employee
+    claimed the project started a year earlier, in 1946, and that Project SAUCER was
+    its original, informal name.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be a former employee of Project SIGN
+    relay:
+    - an AARO historical interview
+  attribution_mode: unknown
+  node_refs:
+  - node_id: cc888145-58ee-42f5-b3c9-7a90e71ae117
+    title: Project SAUCER
+    slug: project-saucer
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: char:25427-25594
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 5272ceb4-83f0-40a9-86c5-0a0e4035e9b3
+  claim_hash: a2fad8e506d78f846b4a1e41dc9f3f69af4f94324c0645d87be07bd3e2d170ae
+  content: Project SAUCER was formalised into an official, high-priority programme
+    named Project SIGN.
+  original_excerpt: Project SAUCER was formalized into an official, high-priority
+    program named Project SIGN.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: cc888145-58ee-42f5-b3c9-7a90e71ae117
+    title: Project SAUCER
+    slug: project-saucer
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: char:27122-27206
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 3f5a1312-4839-4879-9aaa-6823c1093f3d
+  claim_hash: 92ea91ee5975512bda3fe8d870af54e99d9bc4cf2f22be9fe9bc505b6ab5cc11
+  content: The Air Technical Intelligence Center (ATIC) assumed control of Project
+    SIGN on 1948-01-23.
+  original_excerpt: The Air Technical Intelligence Center (ATIC) assumed control of
+    Project SIGN on January 23, 1948.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4fca1350-3310-4376-94f8-19d3ddff86d6
+    title: Air Technical Intelligence Center (ATIC)
+    slug: air-technical-intelligence-center-atic
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: '1948-01-23'
+  date_end: null
+  location_in_record: char:27212-27304
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: ea3ea9d3-b623-48e6-83ef-c847aedd6082
+  claim_hash: 0e6a8af19f16a778408dc9e7147259f4e7cd222263dd1f9c90b364afae6e47ae
+  content: The impetus for Project SIGN was to determine whether unidentified objects
+    might be Soviet secret weapons or "extra-planetary" objects.
+  original_excerpt: The impetus for this effort was to determine if these objects
+    might be Soviet secret weapons or "extra-planetary" objects.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: char:27386-27500
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 83d711a1-8b87-4afd-b4ef-54bc0be5d4aa
+  claim_hash: 84faecbe28432f8b4efa3506eafabebd128511aa13563468691e66b65809bb9d
+  content: As part of its work, the staff at Project SIGN reviewed all of the military's
+    intelligence on German weaponry and aeronautical capabilities to determine if
+    any had fallen into Soviet possession.
+  original_excerpt: As part of their work, the staff at Project SIGN reviewed all
+    of the military's intelligence on German weaponry and aeronautical capabilities
+    to determine if some might have fallen into Soviet possession.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: char:27599-27792
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: f441dac4-6f3e-4798-a995-21ba81ca010b
+  claim_hash: 5ff49ec57197cf3c43289db308c00ea638c075fdab324f4f36e8dbee1dd90b8a
+  content: Project SIGN evaluated 243 reported UFO sightings.
+  original_excerpt: The project evaluated 243 reported UFO sightings
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: char:27995-28034
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 7c2b249b-c511-472b-94ac-a55b65c1d047
+  claim_hash: 9bea62f4cba7e875e6d5ce91613ff3f9dc93da02687dbdab776677dc50261bd6
+  content: In 1949-02, Project SIGN concluded that no definite and conclusive evidence
+    was yet available that would prove or disprove the existence of the unidentified
+    objects as real aircraft of unknown and unconventional configuration.
+  original_excerpt: in February 1949, it concluded that "no definite and conclusive
+    evidence is yet available that would prove or disprove the existence of these
+    unidentified objects as real aircraft of unknown and unconventional configuration."
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Project SIGN final report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: 1949-02
+  date_end: null
+  location_in_record: char:28049-28259
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 9511da36-d1dc-4fe1-b777-8ae900fe2db7
+  claim_hash: 3708b609f2c83bda7ee8441c636f56e2c13ec532f7c379da84845ba299559561
+  content: Project SIGN determined that nearly all UFO sightings it reviewed were
+    caused by either misinterpretation of known objects, hysteria, hallucination,
+    or hoax.
+  original_excerpt: Project SIGN determined that nearly all were caused by either
+    misinterpretation of known objects, hysteria, hallucination, or hoax.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Project SIGN final report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: char:28492-28618
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: d92f0a36-784b-49c1-8b6c-b2341cb0de4d
+  claim_hash: a2cf3813ef3cf6278da399e89cd58b841785f398ee7dd875dc37a3eb60e20f13
+  content: Project SIGN recommended continued military intelligence control over the
+    investigation of all UFO sightings.
+  original_excerpt: It also recommended continued military intelligence control over
+    the investigation of all sightings.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Project SIGN final report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: char:28878-28968
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: cc43f225-4abf-4682-ad42-4f0b02413ec7
+  claim_hash: 1dc848f21ea6702458d4c6b933b7d3c0c160f44a6388975312291194d262bbfb
+  content: Project SIGN did not rule out the possibility of extraterrestrial phenomena
+    in its findings.
+  original_excerpt: It did not rule out the possibility of extraterrestrial phenomena.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Project SIGN final report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: char:28979-29035
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 3d22e6c9-0bab-445a-8150-a229d38f8597
+  claim_hash: 2a541c012c1db1266eaed56e2375146215aa2db80900b47f327baba8b101b0a5
+  content: According to an unsubstantiated historical account derived from only one
+    source, Project SIGN staff in late July 1948 allegedly drafted, signed, and sent
+    a report titled "Estimate of the Situation" up the military chain for approval,
+    which allegedly concluded that UFOs were "interplanetary" in origin.
+  original_excerpt: Project SIGN staff in late July 1948 allegedly drafted, signed,
+    and sent a report ("Estimate of the Situation") up the military chain for approval.
+    This report allegedly concluded that UFOs were "interplanetary" in origin
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be a Project SIGN staff member involved in drafting
+      the report
+    relay:
+    - an unsubstantiated historical account
+  attribution_mode: unknown
+  node_refs:
+  - node_id: d604549a-40b2-441c-9756-9b27ffdc6925
+    title: Estimate of the Situation (1948)
+    slug: estimate-of-the-situation-1948
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: 1948-07
+  date_end: null
+  location_in_record: char:29134-29349
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: e984df86-4539-467a-8a19-1d2ece79ac6f
+  claim_hash: fbee4ba0dfb985c708e41a1dbe2ceaeba0cc187f91dddebcd07c23ac5da3b6de
+  content: The rejection of the Estimate of the Situation report may have resulted
+    in Pentagon leadership's loss of confidence in the staff at Project SIGN, leading
+    to the establishment of Project GRUDGE.
+  original_excerpt: This rejected report may have resulted in the Pentagon leadership's
+    loss of confidence in the staff at Project SIGN leading to the establishment of
+    Project GRUDGE
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 7a2adbe8-5a43-4700-a844-a24d35748e19
+    title: Project GRUDGE (Original Organization)
+    slug: project-grudge-original-organization
+  - node_id: d604549a-40b2-441c-9756-9b27ffdc6925
+    title: Estimate of the Situation (1948)
+    slug: estimate-of-the-situation-1948
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: char:29652-29808
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 6c49323d-2552-4b92-8403-073fb6b8cf75
+  claim_hash: 3eed9c59d91fafe244a9869e4c0bcd632fbb04a95b72c702fec563a318c01612
+  content: Project SIGN was renamed Project GRUDGE in approximately 1949-02.
+  original_excerpt: Project SIGN was renamed Project GRUDGE in approximately February
+    1949.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7a2adbe8-5a43-4700-a844-a24d35748e19
+    title: Project GRUDGE (Original Organization)
+    slug: project-grudge-original-organization
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: 1949-02
+  date_end: null
+  location_in_record: char:30110-30176
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 3ac27daf-5c26-4b31-9cb6-7bb714d9f16b
+  claim_hash: a7964e4622f35ac6988b03023f50c3caadca22137f2e354047d79b72b7d9616c
+  content: Staff at Project SIGN who leaned towards belief in the "interplanetary"
+    origin of UFOs were reportedly purged from the organisation.
+  original_excerpt: The staff, especially those who seemed to lean towards belief
+    in the "interplanetary" origin of UFOs, were reportedly purged from the organization.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Edward J. Ruppelt
+    relay:
+    - The Report on Unidentified Flying Objects
+  attribution_mode: unknown
+  node_refs:
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: char:30182-30316
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 6b01fcf7-8c6a-4532-9941-e4e51335c363
+  claim_hash: 2f7bd293ec19ef31ff917058980f1be0867311422f286e1c2e0ccad3e5fe2447
+  content: Edward J. Ruppelt sought to correct the mistakes of Project SIGN and the
+    former Project GRUDGE.
+  original_excerpt: By his own account, Capt Ruppelt sought to correct the mistakes
+    of Project SIGN and the former Project GRUDGE.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+    title: Edward Ruppelt
+  provenance_chain:
+    origin_kind: speaker
+    origin: Edward J. Ruppelt
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7a2adbe8-5a43-4700-a844-a24d35748e19
+    title: Project GRUDGE (Original Organization)
+    slug: project-grudge-original-organization
+  - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+    title: Edward Ruppelt
+    slug: edward-ruppelt
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: char:33624-33727
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: acaf2b07-3d2b-4f35-8fd2-7c54cef6ed99
+  claim_hash: b04e26155fe4a3336f4d4b99eed0b31d783264af2a07f1b26073b582f449c7c9
+  content: The reestablished Project GRUDGE reviewed all of the previous cases from
+    Project SIGN, the original Project GRUDGE, and the Air Technical Intelligence
+    Center (ATIC) interim period.
+  original_excerpt: The new Project GRUDGE reviewed all of the previous cases in Project
+    SIGN, old Project GRUDGE, and from the ATIC interim period.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4fca1350-3310-4376-94f8-19d3ddff86d6
+    title: Air Technical Intelligence Center (ATIC)
+    slug: air-technical-intelligence-center-atic
+  - node_id: 7a2adbe8-5a43-4700-a844-a24d35748e19
+    title: Project GRUDGE (Original Organization)
+    slug: project-grudge-original-organization
+  - node_id: abe07382-c992-4549-b0ff-6d2bc0b3e3e0
+    title: Project GRUDGE (Reestablishment)
+    slug: project-grudge-reestablishment
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: char:34365-34486
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: d8dbcd58-dfbf-4b6a-8471-d9b86c7bceae
+  claim_hash: e51756ad8f9d27abfab6173ca95c24eb714c620ff6027454103069fae8af088f
+  content: A. Ray Gordon took lead on the CIA Special Study Group, which reviewed
+    all of the Air Technical Intelligence Center's (ATIC) data from Projects SIGN
+    through GRUDGE.
+  original_excerpt: A. Ray Gordon took lead on this project, and the Study Group he
+    established reviewed all of ATIC's data (from Projects SIGN through GRUDGE).
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 14b86ce0-520c-4311-a6fd-390be693d24d
+    title: CIA Special Study Group 1952
+    slug: cia-special-study-group-1952
+  - node_id: 4fca1350-3310-4376-94f8-19d3ddff86d6
+    title: Air Technical Intelligence Center (ATIC)
+    slug: air-technical-intelligence-center-atic
+  - node_id: 7a2adbe8-5a43-4700-a844-a24d35748e19
+    title: Project GRUDGE (Original Organization)
+    slug: project-grudge-original-organization
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  - node_id: feb18c3b-2337-473e-8811-5e4841b32107
+    title: A. Ray Gordon
+    slug: a-ray-gordon
+  date: null
+  date_end: null
+  location_in_record: char:36884-37016
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 02b02936-f9c9-4184-b8d5-698bd1eb362d
+  claim_hash: 51506ecc57e060da0196312a4a89622b0e0905751180b0eb474b328cb1fa5d2e
+  content: Project SIGN staff allegedly drafted and signed a report titled "The Estimate
+    of the Situation" that was circulated for review and approval and assessed that
+    at least some UFOs were of "interplanetary" origin.
+  original_excerpt: 'Project SIGN staff allegedly drafted and signed a report that
+    was circulated for review and approval. It was titled: "The Estimate of the Situation"
+    and assessed that at least some UFOs were of "interplanetary" origin.'
+  claim_type: hearsay
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: d604549a-40b2-441c-9756-9b27ffdc6925
+    title: Estimate of the Situation (1948)
+    slug: estimate-of-the-situation-1948
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    slug: project-sign
+  date: null
+  date_end: null
+  location_in_record: char:78505-78716
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

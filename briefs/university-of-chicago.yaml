@@ -1,0 +1,127 @@
+schema: anomalica/brief/1
+brief_hash: b52f488550ea25eeb85b7da96596bf3cc73a62b3a4d88d516687190836e9d177
+page:
+  kind: entity
+  node_id: a10e5cac-30e6-48b2-8eae-82c45f4dc894
+  node_type: organisation
+  title: University of Chicago
+  slug: university-of-chicago
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 32cf1aa3-de3a-4858-a7c5-aec70b89a39a
+  title: Fred Beckman
+  node_type: person
+  slug: fred-beckman
+  shared_claims: 2
+- node_id: 772ef688-4b82-45a2-b234-e90ca5d07c3f
+  title: Michael S. Turner
+  node_type: person
+  slug: michael-s-turner
+  shared_claims: 1
+claims:
+- claim_id: 5700da78-e612-4121-a5ca-a01643338ecf
+  claim_hash: e62aaa67e4a554d07e94e73ec968234a2f56a9e128b23d89b50a3af9d9fa6aa8
+  content: Fred Beckman is affiliated with the University of Chicago.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32cf1aa3-de3a-4858-a7c5-aec70b89a39a
+    title: Fred Beckman
+    slug: fred-beckman
+  - node_id: a10e5cac-30e6-48b2-8eae-82c45f4dc894
+    title: University of Chicago
+    slug: university-of-chicago
+  date: null
+  date_end: null
+  location_in_record: ch17:6963-7001
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 045ebbf1-5a51-4941-8b51-10b9b5e02a07
+  claim_hash: b8a9ccd61d20a35701ee1209c1fd24c7a3311f92a3df96647e29d70e8ac699f8
+  content: Fred Beckman was based at the University of Chicago.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallee
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32cf1aa3-de3a-4858-a7c5-aec70b89a39a
+    title: Fred Beckman
+    slug: fred-beckman
+  - node_id: a10e5cac-30e6-48b2-8eae-82c45f4dc894
+    title: University of Chicago
+    slug: university-of-chicago
+  date: null
+  date_end: null
+  location_in_record: ch7:1602-1636
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 5a8584b7-54d8-4f8a-91ff-57cfe2dbc14e
+  claim_hash: d46c96ffec2763387c31bf308e0bc706db8a8ff8f061704b23fba6d1910b1739
+  content: Michael S. Turner is a University of Chicago cosmologist.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 772ef688-4b82-45a2-b234-e90ca5d07c3f
+    title: Michael S. Turner
+    slug: michael-s-turner
+  - node_id: a10e5cac-30e6-48b2-8eae-82c45f4dc894
+    title: University of Chicago
+    slug: university-of-chicago
+  date: null
+  date_end: null
+  location_in_record: ch7:16354-16399
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed

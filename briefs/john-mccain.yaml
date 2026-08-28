@@ -1,0 +1,455 @@
+schema: anomalica/brief/1
+brief_hash: d5154b3a9bfaf51a882737bceb2580f6d85a114fc2e1b839f4e6e5902784c4be
+page:
+  kind: entity
+  node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+  node_type: person
+  title: John McCain
+  slug: john-mccain
+  claim_count: 10
+  claim_count_total: 10
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 3
+- node_id: 224e26e2-c488-413d-9693-7726f1481df8
+  title: 1980 Rendlesham Forest incident
+  node_type: event
+  slug: 1980-rendlesham-forest-incident
+  shared_claims: 2
+- node_id: 03b7390b-c6ee-4c68-9536-b6f547c4734d
+  title: Dan Goldin
+  node_type: person
+  slug: dan-goldin
+  shared_claims: 2
+- node_id: f1d67f05-cc9b-4cce-8353-c542fd4a3580
+  title: Young Report (Mars Polar Lander failure investigation)
+  node_type: document
+  slug: young-report-mars-polar-lander-failure-investigation
+  shared_claims: 2
+- node_id: c09e3558-1732-4676-a218-d67d285d98ef
+  title: David Fravor
+  node_type: person
+  slug: david-fravor
+  shared_claims: 1
+- node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+  title: Face on Mars
+  node_type: object
+  slug: face-on-mars
+  shared_claims: 1
+- node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+  title: John Burroughs
+  node_type: person
+  slug: john-burroughs
+  shared_claims: 1
+- node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+  title: Michael Malin
+  node_type: person
+  slug: michael-malin
+  shared_claims: 1
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 1
+- node_id: 29f67de5-25fc-4964-8e5b-d7e9862366e0
+  title: Scottsdale Center for the Arts
+  node_type: place
+  slug: scottsdale-center-for-the-arts
+  shared_claims: 1
+- node_id: e188280d-e2e7-4012-81bc-f4cd5fa6ed28
+  title: USA, Arizona, Scottsdale
+  node_type: place
+  slug: arizona-scottsdale-usa
+  shared_claims: 1
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 1
+claims:
+- claim_id: 7859c515-0ed4-4b5e-bd63-3fee86e27763
+  claim_hash: d71c297adbc8f7ab1f983079d1475e798dc69a899eee59110c483f187ca4be6a
+  content: Senator John McCain sat on the senatorial committee that oversaw the National
+    Aeronautics and Space Administration (NASA).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+    title: John McCain
+    slug: john-mccain
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  date: null
+  date_end: null
+  location_in_record: ch14:25250-25333
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a30c3f07-c6da-4391-b9a4-8e0a167518d8
+  claim_hash: 470c51f2a25d29ee9d889084afb117b4f5e6f21f9150c524f21a94058f121974
+  content: Senator John McCain called Senate hearings on the contents of the Young
+    Report and criticised Dan Goldin in front of the committee.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03b7390b-c6ee-4c68-9536-b6f547c4734d
+    title: Dan Goldin
+    slug: dan-goldin
+  - node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+    title: John McCain
+    slug: john-mccain
+  - node_id: f1d67f05-cc9b-4cce-8353-c542fd4a3580
+    title: Young Report (Mars Polar Lander failure investigation)
+    slug: young-report-mars-polar-lander-failure-investigation
+  date: null
+  date_end: null
+  location_in_record: ch14:25342-25446
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: cd71eb5e-861b-43ea-becb-593a5c863768
+  claim_hash: bd3b221b5eab3e2ee3d79ca2f4ccd5138ccb670d6e39d3ea4c30985632ae8529
+  content: Senator John McCain stated that if the National Aeronautics and Space Administration
+    (NASA) withheld critical information from the public and elected officials, the
+    trust between government and citizens had been violated and warranted a serious
+    examination of how the agency operates.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+    title: John McCain
+  provenance_chain:
+    origin_kind: speaker
+    origin: John McCain
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+    title: John McCain
+    slug: john-mccain
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  date: null
+  date_end: null
+  location_in_record: ch14:25459-25717
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c08532c7-dcb8-48eb-bf78-17eeb99da1cd
+  claim_hash: 16eeeef49ed336efc454d1ccc6542c2b6adfc76731aa78e5cd98bd1ab48d039f
+  content: Senator John McCain said the Young Report was an embarrassment to the National
+    Aeronautics and Space Administration (NASA) and that the committee should exercise
+    more rigorous oversight of NASA going forward.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+    title: John McCain
+  provenance_chain:
+    origin_kind: speaker
+    origin: John McCain
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+    title: John McCain
+    slug: john-mccain
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: f1d67f05-cc9b-4cce-8353-c542fd4a3580
+    title: Young Report (Mars Polar Lander failure investigation)
+    slug: young-report-mars-polar-lander-failure-investigation
+  date: null
+  date_end: null
+  location_in_record: ch14:25815-25965
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: d19b9845-80aa-48f4-bba2-658a303b5563
+  claim_hash: 46e4795af4583fecbe112e825dc853b305fe2aa03a276e58101fe83219be9782
+  content: On 2000-05-07, Richard C. Hoagland gave a public lecture at the Scottsdale
+    Center for the Arts in Scottsdale, Arizona, and invited Senator John McCain, his
+    wife and his staff to attend.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+    title: John McCain
+    slug: john-mccain
+  - node_id: 29f67de5-25fc-4964-8e5b-d7e9862366e0
+    title: Scottsdale Center for the Arts
+    slug: scottsdale-center-for-the-arts
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  - node_id: e188280d-e2e7-4012-81bc-f4cd5fa6ed28
+    title: USA, Arizona, Scottsdale
+    slug: arizona-scottsdale-usa
+  date: '2000-05-07'
+  date_end: null
+  location_in_record: ch14:32534-32676
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 4198303e-fb33-4e54-8638-936b0f253b1d
+  claim_hash: eb343f71049fc7a1c3b7cf9671f23024f4f9f147af7a92ee35505a2e1dcc0551
+  content: Michael Malin was under intense pressure from NASA Administrator Dan Goldin
+    and Senator John McCain but neglected to include a particular image of the Face
+    on Mars in his April 2000 Cydonia data release.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 03b7390b-c6ee-4c68-9536-b6f547c4734d
+    title: Dan Goldin
+    slug: dan-goldin
+  - node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+    title: John McCain
+    slug: john-mccain
+  - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
+    title: Michael Malin
+    slug: michael-malin
+  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+    title: Face on Mars
+    slug: face-on-mars
+  date: null
+  date_end: null
+  location_in_record: ch14:39987-40124
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 984e1ec6-d822-441a-8794-8dc6950aa539
+  claim_hash: e4069ea4eed499a710d15cc513dbde3b7b4d1a4678a6c46a043a00981435842d
+  content: One of the United States military witnesses to the 1980 Rendlesham Forest
+    incident was medically disabled, and John McCain's office helped him get his disability
+    status reestablished after it had initially been denied.
+  original_excerpt: One guy was medically disabled, but they weren't going to give
+    it, and he got help from John McCain. His office helped get the guy's disability
+    reestablished.
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+    title: John McCain
+    slug: john-mccain
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: 03:26:09.6-03:26:18.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: c57a3cab-38ea-455f-aa73-7ac415325c86
+  claim_hash: ec94ef6a4e3392767eb5a9af95a1be3a406e5bb56d901a603dc5ac03a1afb062
+  content: Senator John McCain successfully had the service records of one of the
+    service members involved in the 1980 Rendlesham Forest incident declassified.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+    title: John McCain
+    slug: john-mccain
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  date: null
+  date_end: null
+  location_in_record: ch12:33999-34150
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 897e98d2-d27c-405f-acc5-3b18b097b64f
+  claim_hash: 98c9e450e6fa81edf2b05360cfc16bc0067a065dc224c02c9abb7463a7637623
+  content: US Senator John McCain of Arizona was one of the first to recognise the
+    need to assess and provide assistance to servicemen suffering medical issues from
+    UAP encounters.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+    title: John McCain
+    slug: john-mccain
+  date: null
+  date_end: null
+  location_in_record: ch18:8073-8208
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 71ebf44c-6c4f-4627-8edf-c5f530a037d1
+  claim_hash: 645bdf42a723910568d7b6bad891f53aebd4bb6c8fafae8767e82d10866809e9
+  content: Senator John McCain intervened to force the Department of Defense to declassify
+    John Burroughs's medical records so he could receive treatment for his continuing
+    health problems.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unattributed accounts
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+    title: John McCain
+    slug: john-mccain
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    slug: john-burroughs
+  date: null
+  date_end: null
+  location_in_record: ch14:21737-21904
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted

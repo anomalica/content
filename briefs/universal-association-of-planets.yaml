@@ -1,0 +1,124 @@
+schema: anomalica/brief/1
+brief_hash: f42f91d84ababf5b1f347e21584d29ff4f7971af20369ad4a96e6a6548b10a80
+page:
+  kind: entity
+  node_id: fd0a3c05-c411-4714-8f38-962bb503c4b6
+  node_type: organisation
+  title: Universal Association of Planets
+  slug: universal-association-of-planets
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 4c8a2a8d-4542-4b8d-bf52-a8ebcade3342
+  title: UMMO organization
+  node_type: organisation
+  slug: ummo-organization
+  shared_claims: 1
+claims:
+- claim_id: e2bed85b-aab7-4144-9cb7-8ac954904fc1
+  claim_hash: 93c925b625ad3ec7dc8952f5344c1acee6daae6d3bdc65ddf9df1537516dab43
+  content: In Europe, followers of the Universal Association of Planets seriously
+    believe that cosmic messages are coming to them from that organisation.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: fd0a3c05-c411-4714-8f38-962bb503c4b6
+    title: Universal Association of Planets
+    slug: universal-association-of-planets
+  date: null
+  date_end: null
+  location_in_record: ch8:6708-6856
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 9eea76b0-79a2-413a-87e3-8ab7b3b1f1a2
+  claim_hash: b1e1ee4f93d3723396a909566c969f867d575f6a331d19e3b7ba301ba91d8269
+  content: The documents on the contact case described an organisation called OEEU,
+    meaning 'Universal Association of Planets', which had a project called EU or EREVZA
+    meaning 'Earth', whose aim was never specified.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: a Project Blue Book memorandum
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: fd0a3c05-c411-4714-8f38-962bb503c4b6
+    title: Universal Association of Planets
+    slug: universal-association-of-planets
+  date: null
+  date_end: null
+  location_in_record: ch11:15270-15472
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 6cb26da2-f4b9-4bc3-b0c7-3c9f932b1512
+  claim_hash: f91517a0f6eefddbe891d47ea5a421833476f9e3ce181e5959186eba82063bdd
+  content: A woman who was in contact with the entity AFFA (alleged entity from Uranus)
+    gave information on a 'Universal Association of Planets' called OEEU, a term with
+    a certain morphological similarity to UMMO.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: named
+    origin: a woman claiming to be in contact with the entity AFFA
+    relay:
+    - Jacques Vallee's account in a previous chapter
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4c8a2a8d-4542-4b8d-bf52-a8ebcade3342
+    title: UMMO organization
+    slug: ummo-organization
+  - node_id: fd0a3c05-c411-4714-8f38-962bb503c4b6
+    title: Universal Association of Planets
+    slug: universal-association-of-planets
+  date: null
+  date_end: null
+  location_in_record: ch12:29061-29288
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted

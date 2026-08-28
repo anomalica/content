@@ -1,0 +1,501 @@
+schema: anomalica/brief/1
+brief_hash: c04e204ea760489b975cf5f77a5d66222264be02a7898137adb1da82097ef021
+page:
+  kind: entity
+  node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
+  node_type: place
+  title: USA, New Mexico, White Sands
+  slug: new-mexico-white-sands-usa
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: b2b68c44-13a0-4331-b763-a14205c0f895
+  title: McLaughlin
+  node_type: person
+  slug: mclaughlin
+  shared_claims: 3
+- node_id: 13e2ea77-4ec3-4295-b3e8-d64defd4dead
+  title: Project TWINKLE
+  node_type: project
+  slug: project-twinkle
+  shared_claims: 2
+- node_id: 7d19e13c-5183-4156-acfd-c8ebd546e942
+  title: V-2 rocket
+  node_type: object
+  slug: v-2-rocket
+  shared_claims: 2
+- node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
+  title: Art's Parts (alleged Roswell metal samples)
+  node_type: object
+  slug: arts-parts-alleged-roswell-metal-samples
+  shared_claims: 1
+- node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+  title: Edward Ruppelt
+  node_type: person
+  slug: edward-ruppelt
+  shared_claims: 1
+- node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+  title: Linda Moulton Howe
+  node_type: person
+  slug: linda-moulton-howe
+  shared_claims: 1
+- node_id: 2d88d531-67ae-418c-824b-cb18c6fa867c
+  title: Trinity nuclear test
+  node_type: event
+  slug: trinity-nuclear-test
+  shared_claims: 1
+- node_id: 42b00410-92bc-4d5d-b215-163c33b39639
+  title: USA, Nevada
+  node_type: place
+  slug: nevada-usa
+  shared_claims: 1
+- node_id: 23f17da9-6fea-4e9a-99a8-c9f5e0a08098
+  title: USA, New Mexico, Los Alamos-Albuquerque
+  node_type: place
+  slug: new-mexico-los-alamos-albuquerque-usa
+  shared_claims: 1
+- node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+  title: USA, New Mexico, Roswell
+  node_type: place
+  slug: new-mexico-roswell-usa
+  shared_claims: 1
+- node_id: a316cbb9-b90f-422a-9329-9be7414bda65
+  title: USA, Tennessee, Oak Ridge
+  node_type: place
+  slug: tennessee-oak-ridge-usa
+  shared_claims: 1
+- node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+  title: United States Army
+  node_type: organisation
+  slug: united-states-army
+  shared_claims: 1
+- node_id: 92652d9c-8dac-4fcd-837d-3b2ffa24749c
+  title: WAC Corporal rocket
+  node_type: object
+  slug: wac-corporal-rocket
+  shared_claims: 1
+claims:
+- claim_id: 79906ce3-a8a0-417f-afe0-22b64d3ef5cd
+  claim_hash: 6a2c7ec377fe4543698169b08dcbba7a4b5a411da41e89c94f0ae2f341b8cbd1
+  content: In the 1950s, a US Navy commander named McLaughlin, who was in charge of
+    V-2 rocket experiments at White Sands, New Mexico, used a theodolite to track
+    an unidentified egg-shaped object travelling at approximately 90 kilometres altitude
+    and about 11 kilometres per second while tracking a V-2 rocket and a WAC Corporal
+    rocket.
+  original_excerpt: In the 1950s, a Commander McLaughlin, a Navy commander who was
+    in charge of V-2 experiments down in White Sands, New Mexico, they were using
+    a theodolite, which essentially is a telescope that also gives you readings of
+    altitude and azimuth. And they were tracking a V-2 and a WAC corporal, I think,
+    attached to it when they saw something else. And they managed to get the theodolites
+    on this object, and it was about 56 miles up and going about 7 miles per second.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: named
+    origin: Commander McLaughlin
+    relay:
+    - Raymond Fowler
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
+    title: USA, New Mexico, White Sands
+    slug: new-mexico-white-sands-usa
+  - node_id: 7d19e13c-5183-4156-acfd-c8ebd546e942
+    title: V-2 rocket
+    slug: v-2-rocket
+  - node_id: 92652d9c-8dac-4fcd-837d-3b2ffa24749c
+    title: WAC Corporal rocket
+    slug: wac-corporal-rocket
+  - node_id: b2b68c44-13a0-4331-b763-a14205c0f895
+    title: McLaughlin
+    slug: mclaughlin
+  date: '1950'
+  date_end: null
+  location_in_record: 00:09:45.5-00:10:12.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 114aaa98-8bdf-4b52-9a86-dcad436b576d
+  claim_hash: 5fae714ae7967af893ab5e060b8c9182b3121c9268e775853973082b77da7240
+  content: Photographs of the unidentified object tracked by Commander McLaughlin
+    at White Sands were taken but have never been released.
+  original_excerpt: They actually got photographs of it which have never been released,
+    but that was a terrific speed for that time.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: named
+    origin: Commander McLaughlin
+    relay:
+    - Raymond Fowler
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
+    title: USA, New Mexico, White Sands
+    slug: new-mexico-white-sands-usa
+  - node_id: b2b68c44-13a0-4331-b763-a14205c0f895
+    title: McLaughlin
+    slug: mclaughlin
+  date: null
+  date_end: null
+  location_in_record: 00:10:12.8-00:10:18.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 02c785bd-18d4-4338-a1cb-e4818bae8eb9
+  claim_hash: ad1748187269799128a44009978274d9c102e11ffa4e8c3d22f91e3d4f605458
+  content: The unidentified object tracked by Commander McLaughlin at White Sands
+    was egg-shaped and visible through the theodolite as it was tracked.
+  original_excerpt: It was egg-shaped, and they could actually see it through the
+    theodolite as they tracked it.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: named
+    origin: Commander McLaughlin
+    relay:
+    - Raymond Fowler
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
+    title: USA, New Mexico, White Sands
+    slug: new-mexico-white-sands-usa
+  - node_id: b2b68c44-13a0-4331-b763-a14205c0f895
+    title: McLaughlin
+    slug: mclaughlin
+  date: null
+  date_end: null
+  location_in_record: 00:10:20.7-00:10:24.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 1e778bf2-0633-4b8b-ab27-8549a87fd6fc
+  claim_hash: 1fdabcd216dbd86a02fa41aded9721c8e6d5ef795c7377e37879a0b03c0903b7
+  content: Some of the 1947 New Mexico sightings may have been a result of confused
+    observations of two V-2 rocket launches at White Sands, one on June 12 and another
+    on July 3.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
+    title: USA, New Mexico, White Sands
+    slug: new-mexico-white-sands-usa
+  - node_id: 7d19e13c-5183-4156-acfd-c8ebd546e942
+    title: V-2 rocket
+    slug: v-2-rocket
+  date: null
+  date_end: null
+  location_in_record: ch14:13771-13934
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 0e8a73c4-8820-4f3b-83fc-94b67d12c25c
+  claim_hash: c4a95e6878d91f74845dffbd22557039f0ac28ed7af4fb6da75ed1d46c6e1b10
+  content: Linda Moulton Howe's website describes one of the Art's Parts metal pieces
+    as micron-layered bismuth and magnesium zinc from the bottom of a wedge-shaped
+    UFO near White Sands Proving Ground, New Mexico in the late 1940s.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Linda Moulton Howe's Earthfiles website caption
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
+    title: USA, New Mexico, White Sands
+    slug: new-mexico-white-sands-usa
+  - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+    title: Linda Moulton Howe
+    slug: linda-moulton-howe
+  - node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
+    title: Art's Parts (alleged Roswell metal samples)
+    slug: arts-parts-alleged-roswell-metal-samples
+  date: null
+  date_end: null
+  location_in_record: ch23:7731-7856
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: cf4bf759-8ebf-4025-afbf-0331ff4eebf4
+  claim_hash: 9cb0563a58d52727b2e305e0b10aa8fdeaf3176bd7c48ff892357c64413cbdff
+  content: The New Mexico White Sands testing ground is a two-hour drive west of the
+    Roswell crash site.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
+    title: USA, New Mexico, White Sands
+    slug: new-mexico-white-sands-usa
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  date: null
+  date_end: null
+  location_in_record: ch7:9314-9537
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 863ee149-dab3-44ce-a30a-9eb766283745
+  claim_hash: ba53d091a06eafc74f03904d0bfe31319324557c38b4e0710b813447780babc2
+  content: The United States Army conducted the world's first-ever detonation of the
+    Trinity nuclear device at White Sands, New Mexico, on 16 July 1945.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
+    title: USA, New Mexico, White Sands
+    slug: new-mexico-white-sands-usa
+  - node_id: 2d88d531-67ae-418c-824b-cb18c6fa867c
+    title: Trinity nuclear test
+    slug: trinity-nuclear-test
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: '1945-07-16'
+  date_end: null
+  location_in_record: ch7:9398-9537
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f7accff2-a5e3-4a23-8069-7b4129c05418
+  claim_hash: df0c052a936ed3aa99a15cc42d85633ee53c5a2a0991944362067809b9070f24
+  content: Atomic bombs and rockets were still being tested at White Sands, New Mexico,
+    in 1947.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
+    title: USA, New Mexico, White Sands
+    slug: new-mexico-white-sands-usa
+  date: '1947'
+  date_end: null
+  location_in_record: ch7:9543-9601
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: bc8c238a-6d69-4ae3-b977-e417d4eb7ab5
+  claim_hash: d594345ecbfd641009ebec580aa0fb9589c4111701e0bb6a93477d548c3106e0
+  content: Project TWINKLE was established in the summer of 1949 to investigate a
+    series of UFO reports witnessed by numerous observers in Nevada and New Mexico.
+  original_excerpt: Project TWINKLE was established in the summer of 1949 to investigate
+    a series of UFO reports witnessed by numerous observers in Nevada and New Mexico.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
+    title: USA, New Mexico, White Sands
+    slug: new-mexico-white-sands-usa
+  - node_id: 13e2ea77-4ec3-4295-b3e8-d64defd4dead
+    title: Project TWINKLE
+    slug: project-twinkle
+  - node_id: 42b00410-92bc-4d5d-b215-163c33b39639
+    title: USA, Nevada
+    slug: nevada-usa
+  date: '1949'
+  date_end: null
+  location_in_record: char:32349-32492
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: fc5d43da-23e1-4075-9648-9cd272a8550a
+  claim_hash: 8ee5f6a8377e2795da25e233e0de200772c2c259a971679f05e82f1a4ab850ae
+  content: The goal of the Project TWINKLE investigation was to use multiple high-powered
+    cameras near White Sands with the hope that if at least two images of the fireballs
+    were captured, their speed, altitude, and time could be discerned.
+  original_excerpt: The goal of this investigation was to use multiple high-powered
+    cameras near White Sands with the hope that if at least two images of the fireballs
+    were captured, then their speed, altitude, and time could be discerned.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
+    title: USA, New Mexico, White Sands
+    slug: new-mexico-white-sands-usa
+  - node_id: 13e2ea77-4ec3-4295-b3e8-d64defd4dead
+    title: Project TWINKLE
+    slug: project-twinkle
+  date: null
+  date_end: null
+  location_in_record: char:32918-33127
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 8ed631d3-3c5f-42b4-b351-aa6cfbfc25b0
+  claim_hash: 9fa923eba96dc9ee2183c03f03a1f2535732ed0dbea310c7c2c5c98130320c0e
+  content: Edward J. Ruppelt noted concentrations of UFO sighting cases in the Los
+    Alamos-Albuquerque area, Oak Ridge, White Sands, Strategic Air Command locations,
+    ports, and industrial sites.
+  original_excerpt: Capt Ruppelt noted that there were concentrations of cases in
+    the Los Alamos-Albuquerque area, Oak Ridge, White Sands, Strategic Air Command
+    locations, ports, and industrial sites.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+    title: Edward Ruppelt
+  provenance_chain:
+    origin_kind: speaker
+    origin: Edward J. Ruppelt
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
+    title: USA, New Mexico, White Sands
+    slug: new-mexico-white-sands-usa
+  - node_id: 23f17da9-6fea-4e9a-99a8-c9f5e0a08098
+    title: USA, New Mexico, Los Alamos-Albuquerque
+    slug: new-mexico-los-alamos-albuquerque-usa
+  - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+    title: Edward Ruppelt
+    slug: edward-ruppelt
+  - node_id: a316cbb9-b90f-422a-9329-9be7414bda65
+    title: USA, Tennessee, Oak Ridge
+    slug: tennessee-oak-ridge-usa
+  date: null
+  date_end: null
+  location_in_record: char:34646-34820
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

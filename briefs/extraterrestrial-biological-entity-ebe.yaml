@@ -1,0 +1,319 @@
+schema: anomalica/brief/1
+brief_hash: 2c7a2a065b4af649989895c8845cd84110caa516a03f098aa96934d450f45c53
+page:
+  kind: entity
+  node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+  node_type: topic
+  title: extraterrestrial biological entity (EBE)
+  slug: extraterrestrial-biological-entity-ebe
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+  title: Roswell Unidentified Flying Object (UFO) crash
+  node_type: event
+  slug: roswell-unidentified-flying-object-ufo-crash
+  shared_claims: 2
+- node_id: 913881ee-38df-400d-8494-6c84d853b010
+  title: Shirley Wright
+  node_type: person
+  slug: shirley-wright
+  shared_claims: 2
+- node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+  title: Albert Einstein
+  node_type: person
+  slug: albert-einstein
+  shared_claims: 1
+- node_id: c8714c2d-7549-440a-b4d4-8abd2e7a131f
+  title: MJ-12 documents
+  node_type: document
+  slug: mj-12-documents
+  shared_claims: 1
+- node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+  title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+  node_type: document
+  slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+  shared_claims: 1
+- node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+  title: USA, New Mexico, Roswell
+  node_type: place
+  slug: new-mexico-roswell-usa
+  shared_claims: 1
+- node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+  title: United Nations (UN)
+  node_type: organisation
+  slug: united-nations-un
+  shared_claims: 1
+claims:
+- claim_id: 90d7a6ae-6d0a-4d8c-bf2a-c2d13a3f1370
+  claim_hash: efe10187a2f6f8381c046271fd822e7b9baa9f2b1775c6bdb5978fbe1f2f54f7
+  content: J. Robert Oppenheimer and Albert Einstein term the inhabitants of celestial
+    bodies "extraterrestrial biological entities (EBE)" when considering what to do
+    if such beings desire to settle on Earth.
+  original_excerpt: Now we come to the problem of determining what to do if the inhabitants
+    of celestial bodies, or extraterrestrial biological entitles (EBE) desire to settle
+    here.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+    title: extraterrestrial biological entity (EBE)
+    slug: extraterrestrial-biological-entity-ebe
+  date: null
+  date_end: null
+  location_in_record: char:3970-4126
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: f9788bdf-c056-4d45-88fa-5fc389a2cb74
+  claim_hash: 438022c1106b85d344de144518113eb305e44ebeae3283b541ba64cc0953caa3
+  content: J. Robert Oppenheimer and Albert Einstein propose that if extraterrestrial
+    biological entities are politically organised and possess a culture similar to
+    humanity's, they may be recognised as an independent people who could determine
+    what degree of development would be required on Earth for colonising.
+  original_excerpt: If they are politically organised and possess a certain culture
+    similar to our own, they may be recognized as a independent people. They could
+    consider what degree of development would be required on earth for colonizing.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+    title: extraterrestrial biological entity (EBE)
+    slug: extraterrestrial-biological-entity-ebe
+  date: null
+  date_end: null
+  location_in_record: char:4136-4346
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: e7b17fdc-40c6-4c53-9644-9b3eae789255
+  claim_hash: f5215455fe9ecb4d4151739aaf1d10188253a60003b4d99403ffe98dd7cbbff0
+  content: J. Robert Oppenheimer and Albert Einstein propose that if extraterrestrial
+    biological entities consider human culture to lack political unity, they would
+    have the right to colonise Earth, though not on classic colonial lines.
+  original_excerpt: If they consider our culture to be devoid of political unity,
+    they would have the right to colonize. Of course, this colonization cannot be
+    conducted on classic lines.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+    title: extraterrestrial biological entity (EBE)
+    slug: extraterrestrial-biological-entity-ebe
+  date: null
+  date_end: null
+  location_in_record: char:4362-4523
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 8fb1b337-1197-473a-b3d5-9a1f0e16daac
+  claim_hash: cb7c83a1f0a9c832bbb2a062577b32f14f857077727fc52f27cec3d67ee7042b
+  content: J. Robert Oppenheimer and Albert Einstein propose that a superior form
+    of colonisation, possibly a kind of tutelage, could be conceived through the tacit
+    approval of the United Nations (UN).
+  original_excerpt: A superior form of colonizing will have to be conceived, that
+    could be a kind of tutelage, possibly through the tacit approval of the United
+    Nations.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+    title: extraterrestrial biological entity (EBE)
+    slug: extraterrestrial-biological-entity-ebe
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: null
+  date_end: null
+  location_in_record: char:4531-4672
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 05c80664-5109-486c-a318-4c8b7ef1fd18
+  claim_hash: 6c821f4527124c8b4dda8b616a7bde845d4dccad5580862a44e04d31a6859299
+  content: In a confession tape, Shirley Wright said she studied under Albert Einstein
+    at Princeton and was taken to the crash site of the 1947 Roswell UFO crash, given
+    a tour inside the craft, shown eight dead bodies and one living entity, and had
+    an exchange and communication with one of the entities.
+  original_excerpt: This is a confession tape by Dr. Wright, who says that she studied
+    under Albert Einstein at Princeton and was... I guess, taken to the crash at Roswell
+    and was given a tour inside the craft, shown the bodies where there lay eight
+    dead and one alive, and even had an exchange and communication with one of these
+    entities.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 913881ee-38df-400d-8494-6c84d853b010
+    title: Shirley Wright
+  provenance_chain:
+    origin_kind: named
+    origin: Shirley Wright
+    relay:
+    - a confession tape recorded by Shirley Wright
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+    title: Roswell Unidentified Flying Object (UFO) crash
+    slug: roswell-unidentified-flying-object-ufo-crash
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  - node_id: 913881ee-38df-400d-8494-6c84d853b010
+    title: Shirley Wright
+    slug: shirley-wright
+  - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+    title: extraterrestrial biological entity (EBE)
+    slug: extraterrestrial-biological-entity-ebe
+  date: null
+  date_end: null
+  location_in_record: 00:09:12.0-00:09:34.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 4ffbb1f8-9c1a-4c28-abd2-c6bb95123eea
+  claim_hash: f747d4f4789041fbf96e52f8c893a811bfe6900810b6517595fa4d0cc5b5c13e
+  content: On the confession tape, Shirley Wright said the surviving entity indicated
+    to those present that it was not from their galaxy.
+  original_excerpt: They indicated to us that they were not from our galaxy, definitely
+    not from our galaxy.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 913881ee-38df-400d-8494-6c84d853b010
+    title: Shirley Wright
+  provenance_chain:
+    origin_kind: named
+    origin: Shirley Wright
+    relay:
+    - a confession tape recorded by Shirley Wright
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 150da24f-5993-46e1-aa1e-7f324bd75bb0
+    title: Roswell Unidentified Flying Object (UFO) crash
+    slug: roswell-unidentified-flying-object-ufo-crash
+  - node_id: 913881ee-38df-400d-8494-6c84d853b010
+    title: Shirley Wright
+    slug: shirley-wright
+  - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+    title: extraterrestrial biological entity (EBE)
+    slug: extraterrestrial-biological-entity-ebe
+  date: null
+  date_end: null
+  location_in_record: 00:09:36.2-00:09:40.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: a18a5f14-e30e-4aa6-aefb-d041754a77bf
+  claim_hash: ce11f3dd0a403d63829b18848485f5c5f6f2f0967b58ca554af1e5bc49c73969
+  content: The terminology "extraterrestrial biological entity (EBE)" used in The
+    Relationships with Inhabitants of Celestial Bodies (1947 document) is the same
+    wording used in the MJ-12 documents.
+  original_excerpt: extraterrestrial biological entities, EBEs, same wording as the
+    MJ-12 documents, by the way.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+    title: extraterrestrial biological entity (EBE)
+    slug: extraterrestrial-biological-entity-ebe
+  - node_id: c8714c2d-7549-440a-b4d4-8abd2e7a131f
+    title: MJ-12 documents
+    slug: mj-12-documents
+  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+  date: null
+  date_end: null
+  location_in_record: 00:21:13.8-00:21:21.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null

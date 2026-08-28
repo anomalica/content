@@ -1,0 +1,328 @@
+schema: anomalica/brief/1
+brief_hash: aaa65b79f6da9202021a284c3cdcf1f1135b43d46dd61592799b5b0dec27de59
+page:
+  kind: entity
+  node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
+  node_type: person
+  title: Frank Edwards
+  slug: frank-edwards
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+  title: Albert Einstein
+  node_type: person
+  slug: albert-einstein
+  shared_claims: 2
+- node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+  title: Harry S. Truman
+  node_type: person
+  slug: harry-s-truman
+  shared_claims: 2
+- node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+  title: Vannevar Bush
+  node_type: person
+  slug: vannevar-bush
+  shared_claims: 2
+- node_id: b2fbe5b0-23fe-483b-b999-45527a0cdee8
+  title: 1952 Washington, D.C. Unidentified Flying Object (UFO) sightings
+  node_type: event
+  slug: dc-unidentified-flying-object-ufo-sightings-1952-washington
+  shared_claims: 1
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 1
+- node_id: 89cd90dc-96d7-4d6c-9768-0d5ab823d93a
+  title: Canada
+  node_type: organisation
+  slug: canada
+  shared_claims: 1
+- node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+  title: Condon Report
+  node_type: document
+  slug: condon-report
+  shared_claims: 1
+- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+  title: United States Navy (USN)
+  node_type: organisation
+  slug: united-states-navy-usn
+  shared_claims: 1
+claims:
+- claim_id: 8abab771-4a88-4818-9dfa-29bd6410acd9
+  claim_hash: f3ef084707ea03518164b1e75427b3b002f9dcb8de66ae793589f3a00c68aecc
+  content: Radio broadcaster Frank Edwards claimed in a 1966 book that a piece of
+    a UFO was recovered near Washington, D.C. in the summer of 1952 during the spike
+    in UFO sightings over the U.S. Capitol in July and August, when he alleged that
+    a United States Navy jet fired on a 0.6-metre diameter glowing disc and dislodged
+    a 0.45-kilogram fragment that was recovered by a ground team.
+  original_excerpt: He claimed that a USN jet fired on a two-foot diameter glowing
+    disc and dislodged a one-pound fragment that was recovered by a ground team.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Frank Edwards
+    relay:
+    - a 1966 book
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: b2fbe5b0-23fe-483b-b999-45527a0cdee8
+    title: 1952 Washington, D.C. Unidentified Flying Object (UFO) sightings
+    slug: dc-unidentified-flying-object-ufo-sightings-1952-washington
+  - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
+    title: Frank Edwards
+    slug: frank-edwards
+  date: 1952-07
+  date_end: null
+  location_in_record: char:50982-51116
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: b1bcace5-88b7-431d-b0ee-81a0a0317077
+  claim_hash: 8291d7069bc699e2753f1a19baf8e79124ea8ba520d6b19128db1fc620589b3d
+  content: Frank Edwards also claimed in 1966 that the United States Government had
+    loaned the Canadian government fragments of a UFO it had allegedly recovered.
+  original_excerpt: Edwards also made the claim in 1966 that the USG had loaned the
+    Canadian government fragments of a UFO it had allegedly recovered.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Frank Edwards
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 89cd90dc-96d7-4d6c-9768-0d5ab823d93a
+    title: Canada
+    slug: canada
+  - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
+    title: Frank Edwards
+    slug: frank-edwards
+  date: '1966'
+  date_end: null
+  location_in_record: char:51436-51556
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: dea9ec81-7fe6-45c5-9237-81be34af98c9
+  claim_hash: 43fd6ba94900cbb4a76b4d9f04d93506954f41874fc17e6799d7eaae073ed34f
+  content: Frank Edwards claimed that Dr. Vannevar Bush, a prominent inventor, defence
+    industry scientist, and founder of the National Science Foundation, led the effort
+    to study the alleged UFO fragment.
+  original_excerpt: He also claimed that Dr. Vannevar Bush, a prominent inventor,
+    defense industry scientist, and founder of the National Science Foundation, led
+    the effort to study the fragment.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Frank Edwards
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    slug: vannevar-bush
+  - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
+    title: Frank Edwards
+    slug: frank-edwards
+  date: null
+  date_end: null
+  location_in_record: char:51650-51816
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: c0b94ac9-4985-4b42-9af8-eeb13438b84e
+  claim_hash: b91a5824e9e717f5e6d5428421178d256581b26518120e34a7d134bf02854d71
+  content: The Condon Report panel determined that Frank Edwards's claims about a
+    UFO fragment and Vannevar Bush's involvement most likely were false.
+  original_excerpt: The Condon panel determined that these claims most likely were
+    false.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: The Condon Report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    slug: vannevar-bush
+  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+    title: Condon Report
+    slug: condon-report
+  - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
+    title: Frank Edwards
+    slug: frank-edwards
+  date: null
+  date_end: null
+  location_in_record: char:51826-51889
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 551705c2-3d8e-4194-9b07-1b2dca26495e
+  claim_hash: 8b6fb555fbeb75cb299ca5e988d7ba5382ffdb2008ceeecb7124a2988fd231a2
+  content: Frank Edwards, an early radio pioneer and author of several UFO books,
+    gave a lecture to a Detroit, Michigan audience in 1956.
+  original_excerpt: Frank Edwards an early radio pioneer and author of several UFO
+    books was giving a lecture to a Detroit, Michigan audience in 1956.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
+    title: Frank Edwards
+    slug: frank-edwards
+  date: '1956'
+  date_end: null
+  location_in_record: 00:08:24.8-00:08:32.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 2692579f-295f-44c3-af8f-05a20f269bc5
+  claim_hash: 68de96e44f6b85146b5a6cc9300ec8cac1442854670bfa39323ae71f3fe764b8
+  content: Frank Edwards, in a 1956 lecture, maintained that in 1952 Albert Einstein
+    had delivered an urgent message to then-President Harry Truman warning that Truman's
+    shoot-down policy toward UFOs over Washington, D.C. was unwise.
+  original_excerpt: Edwards maintained that just four years prior in 1952, Albert
+    Einstein had delivered an urgent message to then-President Harry Truman. Einstein
+    warned that Truman's shoot-down policy of UFOs over DC was unwise.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
+    title: Frank Edwards
+  provenance_chain:
+    origin_kind: named
+    origin: Frank Edwards
+    relay:
+    - Frank Edwards's sources and understanding of historical circumstance
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+    title: Harry S. Truman
+    slug: harry-s-truman
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
+    title: Frank Edwards
+    slug: frank-edwards
+  date: '1956'
+  date_end: null
+  location_in_record: 00:08:40.5-00:08:54.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: ca577fb1-275c-4677-a085-3d18202af3bf
+  claim_hash: 64e60749a327cacbb3925d832a34920641344f0f2bc231c95ff1a87685ba1761
+  content: According to Frank Edwards's account, Albert Einstein's message to Harry
+    Truman said, "Mr. President, anyone who can cross millions of miles of space will
+    be able to take care of himself after he gets there. Don't start something you
+    can't finish."
+  original_excerpt: I know what Mr. Einstein told him. He said, Mr. President, Anyone
+    who can cross millions of miles of space will be able to take care of himself
+    after he gets there. Don't start something you can't finish.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
+    title: Frank Edwards
+  provenance_chain:
+    origin_kind: named
+    origin: Frank Edwards
+    relay:
+    - Frank Edwards's sources and understanding of historical circumstance
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+    title: Harry S. Truman
+    slug: harry-s-truman
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
+    title: Frank Edwards
+    slug: frank-edwards
+  date: null
+  date_end: null
+  location_in_record: 00:08:55.3-00:09:08.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null

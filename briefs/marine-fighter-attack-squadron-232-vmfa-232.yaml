@@ -1,0 +1,1038 @@
+schema: anomalica/brief/1
+brief_hash: 898619edf9dcd14c27d3178344c17228ed6bf9e62ea07b80b61f00476366d51f
+page:
+  kind: entity
+  node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+  node_type: organisation
+  title: Marine Fighter Attack Squadron 232 (VMFA-232)
+  slug: marine-fighter-attack-squadron-232-vmfa-232
+  claim_count: 25
+  claim_count_total: 25
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
+  title: Anomalous Aerial Vehicle (AAV)
+  node_type: topic
+  slug: anomalous-aerial-vehicle-aav
+  shared_claims: 9
+- node_id: ee17578b-5916-4836-a6a7-75b0fac21ac7
+  title: F/A-18C
+  node_type: object
+  slug: fa-18c
+  shared_claims: 3
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 2
+- node_id: 00525b7a-3ae7-44d8-a86a-0b98d1489142
+  title: Carrier Airborne Early Warning Squadron 117 (VAW-117)
+  node_type: organisation
+  slug: carrier-airborne-early-warning-squadron-117-vaw-117
+  shared_claims: 2
+- node_id: 34f211a3-1169-4e94-b3c6-017f77c8c3bf
+  title: F/A-18F
+  node_type: object
+  slug: fa-18f
+  shared_claims: 2
+- node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
+  title: Strike Fighter Squadron 41 (VFA-41)
+  node_type: organisation
+  slug: strike-fighter-squadron-41-vfa-41
+  shared_claims: 2
+- node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+  title: USS Nimitz (CVN-68)
+  node_type: object
+  slug: uss-nimitz-cvn-68
+  shared_claims: 2
+- node_id: f27b7936-8f06-4ad0-8398-0306c310dda2
+  title: C-2A
+  node_type: object
+  slug: c-2a
+  shared_claims: 1
+- node_id: 55a1da38-fcd1-4e55-b32b-0782c6391461
+  title: Carrier Air Wing 11 (CVW-11)
+  node_type: organisation
+  slug: carrier-air-wing-11-cvw-11
+  shared_claims: 1
+- node_id: 6d5de790-f16c-4d75-8be1-05cde1ccba70
+  title: Carrier Intelligence Center (CVIC)
+  node_type: place
+  slug: carrier-intelligence-center-cvic
+  shared_claims: 1
+- node_id: b7775fbd-22bb-4708-a65e-2a7f1a5a1d2d
+  title: E-2C Hawkeye
+  node_type: object
+  slug: e-2c-hawkeye
+  shared_claims: 1
+- node_id: 764ec02e-5a9b-4660-84d1-0ebcfc00b692
+  title: EA-6B
+  node_type: object
+  slug: ea-6b
+  shared_claims: 1
+- node_id: 103e6721-9c94-499b-b5aa-6d4aadf1e8bf
+  title: Electronic Attack Squadron 135 (VAQ-135)
+  node_type: organisation
+  slug: electronic-attack-squadron-135-vaq-135
+  shared_claims: 1
+- node_id: 562446a2-dde3-4278-a7dc-d3f420db1a7e
+  title: F/A-18E
+  node_type: object
+  slug: fa-18e
+  shared_claims: 1
+- node_id: 928674c8-0fdd-4745-9ecb-0a914d79a5e2
+  title: Fleet Logistics Support Squadron 30 Detachment 3 (VRC-30 Det 3)
+  node_type: organisation
+  slug: fleet-logistics-support-squadron-30-detachment-3-vrc-30-det-3
+  shared_claims: 1
+- node_id: dfdb094b-5c53-4b30-96e2-d15c6510019d
+  title: H-60
+  node_type: object
+  slug: h-60
+  shared_claims: 1
+- node_id: 26a5dc22-a600-48f0-a6db-e4984a4d32a4
+  title: Helicopter Antisubmarine Squadron 6 (Helicopter Anti-Submarine Squadron 6
+    (HS-6))
+  node_type: organisation
+  slug: helicopter-antisubmarine-squadron-6-helicopter-anti-submarine-squadron-6-hs-6
+  shared_claims: 1
+- node_id: d4162461-75fe-493a-8618-9ab2e7e51d55
+  title: Strike Fighter Squadron 14 (VFA-14)
+  node_type: organisation
+  slug: strike-fighter-squadron-14-vfa-14
+  shared_claims: 1
+- node_id: 31c334f7-65a4-42c1-81e4-27494109e267
+  title: Strike Fighter Squadron 94 (VFA-94)
+  node_type: organisation
+  slug: strike-fighter-squadron-94-vfa-94
+  shared_claims: 1
+- node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+  title: USS Princeton (CG-59)
+  node_type: object
+  slug: uss-princeton-cg-59
+  shared_claims: 1
+claims:
+- claim_id: f9936de4-c141-4c93-af10-37e7d96e072c
+  claim_hash: 28c5edfd02f234dc4afbc79ae6433af5c445ea70be3a43bb1e7ae01ae9a8c0d2
+  content: The Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    also provided a statement regarding the 2004 USS Nimitz UAP encounter.
+  original_excerpt: Additionally the statement provided by the Commanding Officer
+    (CO) of VMFA-232.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:12740-12815
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: bf152d12-9c95-4f8e-9da9-2dc125ce959f
+  claim_hash: 56563888fff0fbcf7e658de2514d246a2163bf643a8f68bd9cb409f28c4f2fa8
+  content: The Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    launched from USS Nimitz (CVN-68) at approximately 1030 local time in a single-seat
+    F/A-18C to conduct a Functional Check Flight of an aircraft that had recently
+    completed significant maintenance.
+  original_excerpt: 'Lt. Col {{redacted: ~1 word}} Commanding Officer VMFA-232, was
+    flying a single-seat F/A-18C that launched from the USS Nimitz at approximately
+    1030L to conduct a Functional Check Flight of an aircraft that had recently completed
+    significant maintenance.'
+  claim_type: testimony
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+    title: USS Nimitz (CVN-68)
+    slug: uss-nimitz-cvn-68
+  - node_id: ee17578b-5916-4836-a6a7-75b0fac21ac7
+    title: F/A-18C
+    slug: fa-18c
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:13202-13443
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: fc293de6-849d-4cab-9ffb-13f4721f5d4e
+  claim_hash: 945d204cc01559cee13320f33b895befe0ec739e12a0be9693644c88d85c87e8
+  content: The Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    recalled the weather on 2004-11-14 as blue skies, no clouds, and unlimited visibility.
+  original_excerpt: He noted the weather that day was blue skies, no clouds, and unlimited
+    visibility.
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:13456-13527
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: bd7ed997-206e-4bd2-85b1-e7d2f0a478e8
+  claim_hash: 054daf42b3cba167cc2afdab44933a04ee9e0b895c543f01f7dd76ac66044077
+  content: The Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    received a radio call from his air controller, 30 minutes into his flight, asking
+    him to investigate an unidentified airborne contact, which was not a standard
+    request.
+  original_excerpt: After 30 minutes into his flight he received a radio call from
+    his air controller asking him to investigate an unidentified airborne contact.
+    This was not a standard request.
+  claim_type: testimony
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:13539-13705
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: a2b1699a-f453-44de-bce7-08a4c570b76a
+  claim_hash: 734541452c8b9918c1b7d26f814027ec31ea10314d0895ee09ea1b502fdc16d2
+  content: The air controller asked the Commanding Officer of Marine Fighter Attack
+    Squadron 232 (VMFA-232) if he had ordnance onboard, which the pilot considered
+    odd since no controller had ever asked that question during identification of
+    an unknown contact over U.S. or international territory.
+  original_excerpt: Additionally the controller asked if he had ordnance onboard,
+    which was odd since no controller had ever asked that question during a situation
+    of identifying an unknown contact over U.S. or International territory.
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:13714-13919
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 1d4fdcfc-3bb8-4cea-bfb4-853ee9b71fdc
+  claim_hash: a379c45adef5528790e1597f35cc0018162c7be0c6de22f57a2fe7f7719dc244
+  content: The Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    had no ordnance onboard his F/A-18C.
+  original_excerpt: He responded that he had no ordnance onboard.
+  claim_type: testimony
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  - node_id: ee17578b-5916-4836-a6a7-75b0fac21ac7
+    title: F/A-18C
+    slug: fa-18c
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:13930-13967
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: b5be2c72-fb4e-4be0-aa0a-9d9b44d5e872
+  claim_hash: d620683de18d732f9fdaf87a8b5abf32c74fc922028b1c5147cf81109ebeb6dd
+  content: While en route at approximately 460 kilometres per hour indicated (approximately
+    740 kilometres per hour ground speed) at medium altitude between approximately
+    4,600 and 7,600 metres, the Commanding Officer of Marine Fighter Attack Squadron
+    232 (VMFA-232) gained radar contact of what he believed to be two F/A-18Fs approaching
+    the Anomalous Aerial Vehicle (AAV) from the west at low altitude, between approximately
+    150 and 1,500 metres.
+  original_excerpt: While enroute at approximately 250 knots indicated/400 knots groundspeed
+    at medium altitude (15-25,000 feet), he gained radar contact of what he believed
+    to be two F/A-18Fs that were approaching the AAV from the west at low altitude
+    (500-5,000 feet).
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 34f211a3-1169-4e94-b3c6-017f77c8c3bf
+    title: F/A-18F
+    slug: fa-18f
+  - node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
+    title: Anomalous Aerial Vehicle (AAV)
+    slug: anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:14101-14345
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: dc2696b2-c1f7-44fe-85e6-75b7a60b0274
+  claim_hash: d6315fa1424edc18bed67f6957f294a25b8aeb8a1cffbf8ae65f88264688c16a
+  content: The Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    observed no other traffic on his radar besides the two F/A-18Fs approaching the
+    Anomalous Aerial Vehicle (AAV).
+  original_excerpt: There was no other traffic on the radar.
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
+    title: Anomalous Aerial Vehicle (AAV)
+    slug: anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:14352-14386
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 6df8e8f8-5a4d-4a8c-96ce-33b0d0175324
+  claim_hash: 142627a86fb7e124e8448ea4af2515a23efc73e97160eb183e653918fc929515
+  content: The controller informed the Commanding Officer of Marine Fighter Attack
+    Squadron 232 (VMFA-232) to remain above approximately 3,000 metres, as there was
+    other fighter traffic at low altitude investigating the Anomalous Aerial Vehicle
+    (AAV).
+  original_excerpt: The controller informed him to remain above 10,000 feet, as there
+    was other fighter traffic at low altitude investigating the AAV.
+  claim_type: testimony
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
+    title: Anomalous Aerial Vehicle (AAV)
+    slug: anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:14393-14519
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 0a21e434-a070-4249-b414-1c3500159d17
+  claim_hash: 73c22c076fb4d18d42749a771409ed0fa97be0a6823e606562110400372766c1
+  content: As the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    approached approximately 28 kilometres from the Anomalous Aerial Vehicle (AAV)
+    while descending through approximately 4,600 metres, he could see a water disturbance
+    on the ocean surface.
+  original_excerpt: As he approached approximately 15nm from the AAV descending through
+    approximately 15,000 feet, he could see a water disturbance in the ocean surface.
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
+    title: Anomalous Aerial Vehicle (AAV)
+    slug: anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:14524-14665
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: d00b8d52-5850-41fa-91c1-7a8748c2cc58
+  claim_hash: 4af01db45202aa2970cc1f625af237fb94746fdb49d6115bdeb6c41a734ad1e0
+  content: The Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    recalled that the sea state was low and calm at the time of the water disturbance
+    sighting on 2004-11-14.
+  original_excerpt: He recalled that the sea state was low (calm).
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:14674-14714
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 308722df-bdd7-44a7-a7aa-4ffacadb874f
+  claim_hash: 28ce459fa3671b31a84c516216855199b77e564b61f5f8dd14c2f5a643e2f965
+  content: At approximately 9 to 19 kilometres away from the Anomalous Aerial Vehicle
+    (AAV), the controller told the Commanding Officer of Marine Fighter Attack Squadron
+    232 (VMFA-232) to 'skip it' and return to his operating area.
+  original_excerpt: At approximately 5-10 nm away from the AAV, the controller told
+    him to "skip it" and return to his operating area.
+  claim_type: testimony
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
+    title: Anomalous Aerial Vehicle (AAV)
+    slug: anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:14721-14830
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: da1b8f07-afeb-4235-a913-38fe7722fbef
+  claim_hash: ae5b82e9b4143a5bc3f60b25cda75364238bc113ddf940ac72162911003eb0bc
+  content: The Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    elected to fly over the water disturbance to see what was causing it, since he
+    was already close.
+  original_excerpt: Since he was close he elected to fly over the water disturbance
+    to try and see what was causing it.
+  claim_type: testimony
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:14836-14932
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: cd8af3d3-e929-4b25-966b-dd2bb15ca2c7
+  claim_hash: 2e30e3abc137065b648527a01f046a3e76ae3d57c7d8f4519a6add39429416d3
+  content: The water disturbance observed by the Commanding Officer of Marine Fighter
+    Attack Squadron 232 (VMFA-232) appeared to be approximately 50 to 100 metres in
+    diameter and close to round.
+  original_excerpt: The disturbance appeared to be 50 to 100 meters in diameter and
+    close to round.
+  claim_type: measurement
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:14937-15010
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 79aa9be7-5707-4473-801e-bdd46fbce79d
+  claim_hash: 19959c367bb89ca1fc74ecedfd7769913cecbdaf3a17d6ac50836df7d0cef707
+  content: The Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    considered the water disturbance the only area and type of whitewater activity
+    visible, and it reminded him of images of something rapidly submerging from the
+    surface like a submarine or ship sinking.
+  original_excerpt: It was the only area and type of whitewater activity that could
+    be seen and reminded him of images of something rapidly submerging from the surface
+    like a submarine or ship sinking.
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:15017-15190
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 6017905e-7a59-439d-a86c-16c2f76f0265
+  claim_hash: 7c5cc01afc94aadee004674b111d1edfcec1cf7bddf39feeaa415b90162ab0ea
+  content: The Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    considered the water disturbance could look like a possible area of shoal water
+    where the swell was breaking over a barely submerged reef or island.
+  original_excerpt: It also looked like a possible area of shoal water where the swell
+    was breaking over a barely submerged reef or island.
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:15199-15311
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 41db5f8c-bfaa-4343-9207-377f4b1b97e5
+  claim_hash: f719ff2baeb8c513f721f16c3188b0e39e2764ada80cb9ce1b5bfa151238a8a5
+  content: The Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    overflew the water disturbance and turned back to the northwest, observing it
+    clearing and no longer identifiable.
+  original_excerpt: He overflew the disturbance and turned back to the northwest.
+    As he was flying away he could see the disturbance clearing and could no longer
+    identify the place where it occurred.
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:15319-15489
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 5c382f5d-655f-4cec-bd4a-a2a4d2f8199f
+  claim_hash: 65d77223cd679ac3ab393b47c05b28479f622a6aaacdb46acff1a83205a2bed3
+  content: The Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    did not see any object or vessel associated with the water disturbance above,
+    on, or below the surface.
+  original_excerpt: He did not see any object or vessel associated with the disturbance
+    either above the surface, on the surface, or below the surface.
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:15499-15622
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 38582597-56b1-4357-b9e8-feec18e51fd4
+  claim_hash: 55db85c31a267dd152d92db7ba5f3693beb07433d850c2799958d5b8ac6b88bd
+  content: The Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    never made visual contact with the other fighter aircraft vectored to the location,
+    nor with the Anomalous Aerial Vehicle (AAV) itself.
+  original_excerpt: He also never made visual contact with the other fighter aircraft
+    that were vectored to the location or the AAV.
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
+    title: Anomalous Aerial Vehicle (AAV)
+    slug: anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:15631-15739
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 4b32214e-9b86-404e-86f0-88ed67f3cda9
+  claim_hash: 9fa222d82184d4c0a09fa9001791c90b3c9dc0f3b6106d0686ebb5ce4e0a2d34
+  content: The Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    considered it possible that the water disturbance was caused by an Anomalous Aerial
+    Vehicle (AAV) that was 'cloaked' or invisible to the human eye.
+  original_excerpt: It is possible that the disturbance was being caused by an AAV
+    but that the AAV was 'cloaked' or invisible to the human eye.
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
+    title: Anomalous Aerial Vehicle (AAV)
+    slug: anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:15744-15864
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: bd5527b3-a9ca-4476-9894-e3bac304af74
+  claim_hash: 972180f90de9e6521976e148ce37c3000df0e4e945af9c32aa75c86a63bab240
+  content: The Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    recovered aboard USS Nimitz (CVN-68) at approximately 1200 local time on 2004-11-14.
+  original_excerpt: 'Lt Col {{redacted: ~1 word}} recovered aboard the Nimitz at approximately
+    1200L.'
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+    title: USS Nimitz (CVN-68)
+    slug: uss-nimitz-cvn-68
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:15870-15944
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 18bb1db1-c115-47a9-8860-88eda02b38e9
+  claim_hash: aa44352f66e87baaa1f2bed95eb3e2c29a105b987ddf1f19a1896cd3919711fc
+  content: The Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    reported to the Carrier Intelligence Center (CVIC) after his flight and was asked
+    by his Intelligence Officer whether he had seen the 'supersonic Tic Tac'.
+  original_excerpt: 'He reported to the Carrier Intelligence Center (CVIC) and was
+    asked by his Intelligence Officer, 1stLt {{redacted: ~2 words}} if he saw the
+    "supersonic Tic Tac"?'
+  claim_type: testimony
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: the Commanding Officer of Marine Fighter Attack Squadron 232 (VMFA-232)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
+    title: Anomalous Aerial Vehicle (AAV)
+    slug: anomalous-aerial-vehicle-aav
+  - node_id: 6d5de790-f16c-4d75-8be1-05cde1ccba70
+    title: Carrier Intelligence Center (CVIC)
+    slug: carrier-intelligence-center-cvic
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: char:15951-16107
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: a8c5e314-ee6a-40f1-8e67-82b965f2030b
+  claim_hash: 05c4e651c481b2e966ecdc49f834fc5b786cb506b1d5e497afdde5bb1ede4874
+  content: Carrier Air Wing 11 (CVW-11) was comprised of Marine Fighter Attack Squadron
+    232 (VMFA-232) flying F/A-18C, Strike Fighter Squadron 14 (VFA-14) flying F/A-18E,
+    Strike Fighter Squadron 41 (VFA-41) flying F/A-18F, Strike Fighter Squadron 94
+    (VFA-94) flying F/A-18C, Electronic Attack Squadron 135 (VAQ-135) flying EA-6B,
+    Carrier Airborne Early Warning Squadron 117 (VAW-117) flying E-2C, Helicopter
+    Antisubmarine Squadron 6 (HS-6) flying H-60, and Fleet Logistics Support Squadron
+    30 Detachment 3 (VRC-30 Det 3) flying C-2A.
+  original_excerpt: comprised of VMFA-232 (USMC F/A-18C), VFA-14 (F/A-18E), VFA-41
+    (F/A-18F), VFA-94 (F/A-18C), VAQ-135 (EA-6B), VAW-117 (E-2C), HS-6 (H-60), and
+    VRC-30 Det 3 (C-2A).
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 00525b7a-3ae7-44d8-a86a-0b98d1489142
+    title: Carrier Airborne Early Warning Squadron 117 (VAW-117)
+    slug: carrier-airborne-early-warning-squadron-117-vaw-117
+  - node_id: 103e6721-9c94-499b-b5aa-6d4aadf1e8bf
+    title: Electronic Attack Squadron 135 (VAQ-135)
+    slug: electronic-attack-squadron-135-vaq-135
+  - node_id: 26a5dc22-a600-48f0-a6db-e4984a4d32a4
+    title: Helicopter Antisubmarine Squadron 6 (Helicopter Anti-Submarine Squadron
+      6 (HS-6))
+    slug: helicopter-antisubmarine-squadron-6-helicopter-anti-submarine-squadron-6-hs-6
+  - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
+    title: Strike Fighter Squadron 41 (VFA-41)
+    slug: strike-fighter-squadron-41-vfa-41
+  - node_id: 31c334f7-65a4-42c1-81e4-27494109e267
+    title: Strike Fighter Squadron 94 (VFA-94)
+    slug: strike-fighter-squadron-94-vfa-94
+  - node_id: 34f211a3-1169-4e94-b3c6-017f77c8c3bf
+    title: F/A-18F
+    slug: fa-18f
+  - node_id: 55a1da38-fcd1-4e55-b32b-0782c6391461
+    title: Carrier Air Wing 11 (CVW-11)
+    slug: carrier-air-wing-11-cvw-11
+  - node_id: 562446a2-dde3-4278-a7dc-d3f420db1a7e
+    title: F/A-18E
+    slug: fa-18e
+  - node_id: 764ec02e-5a9b-4660-84d1-0ebcfc00b692
+    title: EA-6B
+    slug: ea-6b
+  - node_id: 928674c8-0fdd-4745-9ecb-0a914d79a5e2
+    title: Fleet Logistics Support Squadron 30 Detachment 3 (VRC-30 Det 3)
+    slug: fleet-logistics-support-squadron-30-detachment-3-vrc-30-det-3
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  - node_id: b7775fbd-22bb-4708-a65e-2a7f1a5a1d2d
+    title: E-2C Hawkeye
+    slug: e-2c-hawkeye
+  - node_id: d4162461-75fe-493a-8618-9ab2e7e51d55
+    title: Strike Fighter Squadron 14 (VFA-14)
+    slug: strike-fighter-squadron-14-vfa-14
+  - node_id: dfdb094b-5c53-4b30-96e2-d15c6510019d
+    title: H-60
+    slug: h-60
+  - node_id: ee17578b-5916-4836-a6a7-75b0fac21ac7
+    title: F/A-18C
+    slug: fa-18c
+  - node_id: f27b7936-8f06-4ad0-8398-0306c310dda2
+    title: C-2A
+    slug: c-2a
+  date: null
+  date_end: null
+  location_in_record: char:3291-3449
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 62c54f11-a6af-4fff-a758-dd84cf34bb3e
+  claim_hash: d47e1eed98ae7f143823e69e4d7d11abc7014dbe25004ad5e684522d15861a85
+  content: The only participants in the events surrounding the detection and intercept
+    of the Anomalous Aerial Vehicle (AAV) were USS Princeton (CG-59), Carrier Airborne
+    Early Warning Squadron 117 (VAW-117), Marine Fighter Attack Squadron 232 (VMFA-232),
+    and Strike Fighter Squadron 41 (VFA-41).
+  original_excerpt: The only participants in the events surrounding the detection
+    and intercept of the AAV are the USS Princeton, VAW-117, VMFA-232, and VFA-41.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 00525b7a-3ae7-44d8-a86a-0b98d1489142
+    title: Carrier Airborne Early Warning Squadron 117 (VAW-117)
+    slug: carrier-airborne-early-warning-squadron-117-vaw-117
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
+    title: Strike Fighter Squadron 41 (VFA-41)
+    slug: strike-fighter-squadron-41-vfa-41
+  - node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
+    title: Anomalous Aerial Vehicle (AAV)
+    slug: anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: null
+  date_end: null
+  location_in_record: char:3454-3591
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 3ef376fd-7b3a-42f0-b5df-554467f95ba0
+  claim_hash: c0bf0a00e898e920285e354c726b7965acb5cbdfa445d67460135deab1f470e2
+  content: During the 2004 USS Nimitz UAP encounter training exercise, the Red Air
+    role was flown by Marine Fighter Attack Squadron 232 (VMFA-232).
+  original_excerpt: The Red Air was being flown by our Marine F/A-18 squadron VMFA-232.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: 2004-11
+  date_end: null
+  location_in_record: char:1280-1343
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d123926b-16b5-462d-86e0-d3b77fa6b2c0
+    record_title: David Fravor Statement for the House Oversight Committee
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b9448520c64a
+    friendly_name: 2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee

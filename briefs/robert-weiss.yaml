@@ -1,0 +1,842 @@
+schema: anomalica/brief/1
+brief_hash: f51705ff8ce4307b151dd550eb8e26f0dd5d6a10b18c3192602f669953856054
+page:
+  kind: entity
+  node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+  node_type: person
+  title: Robert Weiss
+  slug: robert-weiss
+  claim_count: 19
+  claim_count_total: 19
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+  title: Tom DeLonge
+  node_type: person
+  slug: tom-delonge
+  shared_claims: 16
+- node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+  title: Lockheed Martin Skunk Works
+  node_type: organisation
+  slug: lockheed-martin-skunk-works
+  shared_claims: 6
+- node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+  title: John Podesta
+  node_type: person
+  slug: john-podesta
+  shared_claims: 4
+- node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+  title: Michael Carey
+  node_type: person
+  slug: michael-carey
+  shared_claims: 3
+- node_id: ee0c01e2-9f22-416a-9450-67d7b46d9ac5
+  title: United States Air Force generals and intelligence officials briefing Tom
+    DeLonge
+  node_type: organisation
+  slug: united-states-air-force-generals-and-intelligence-officials-briefing-tom-delonge
+  shared_claims: 2
+- node_id: 59476464-a679-46ce-9247-b0adcb287762
+  title: Edgar Mitchell
+  node_type: person
+  slug: edgar-mitchell
+  shared_claims: 1
+- node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
+  title: Hillary Clinton presidential campaign
+  node_type: organisation
+  slug: hillary-clinton-presidential-campaign
+  shared_claims: 1
+- node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+  title: Lockheed Martin
+  node_type: organisation
+  slug: lockheed-martin
+  shared_claims: 1
+- node_id: 13dd6341-c313-47b9-b7cd-07f36290876d
+  title: Milia Fisher
+  node_type: person
+  slug: milia-fisher
+  shared_claims: 1
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 1
+- node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
+  title: Neil McCasland
+  node_type: person
+  slug: neil-mccasland
+  shared_claims: 1
+- node_id: ef2bb79d-43f0-4dd8-8a98-f100f3269e92
+  title: Podesta email leak correspondence with Tom DeLonge
+  node_type: document
+  slug: podesta-email-leak-correspondence-with-tom-delonge
+  shared_claims: 1
+- node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+  title: The White House
+  node_type: organisation
+  slug: the-white-house
+  shared_claims: 1
+- node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+  title: William McCasland
+  node_type: person
+  slug: william-mccasland
+  shared_claims: 1
+claims:
+- claim_id: ba26da13-3d8c-4159-b75e-d3d9da7ee769
+  claim_hash: 15ab996cafd242c9f5c88f734371568fe078816d90971556cdc6d17f656fbd1c
+  content: The other attendees listed for the proposed Google Hangout meeting were
+    Tom DeLonge, John Podesta, Lockheed Martin Skunk Works' boss Rob Weiss, Hillary
+    Clinton campaign assistant Milia Fisher, and retired Major General Michael Carey.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: a leaked Podesta email
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 13dd6341-c313-47b9-b7cd-07f36290876d
+    title: Milia Fisher
+    slug: milia-fisher
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    slug: john-podesta
+  - node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
+    title: Hillary Clinton presidential campaign
+    slug: hillary-clinton-presidential-campaign
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    slug: lockheed-martin-skunk-works
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+    title: Michael Carey
+    slug: michael-carey
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  date: null
+  date_end: null
+  location_in_record: 29-31
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b598b750-4b72-4858-ba32-3b0989f6df0c
+  claim_hash: 8b981e910b67ed21e9c6bc0d91de354f02faa84cd5dfe91eaa482d8257a47c7a
+  content: Ross Coulthart considers it a fair bet that the executive Tom DeLonge met
+    at the families' event was Rob Weiss, the Lockheed executive vice-president and
+    general manager of Skunk Works until 2019.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    slug: lockheed-martin-skunk-works
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  date: null
+  date_end: null
+  location_in_record: ch18:16530-16704
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6f56908d-013c-498a-b193-4d2489034a3b
+  claim_hash: 0f774b945aa10cc5767c9b2ed852450a62db8129b2e19ec762c132949ac6f1ba
+  content: Rob Weiss was executive vice-president and general manager of Lockheed
+    Martin Skunk Works until 2019.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    slug: lockheed-martin-skunk-works
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  date: '2019'
+  date_end: null
+  location_in_record: ch18:16627-16704
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
+  claim_hash: 131c9b4ab4264cb3dc1a370e63d39498f1ab5754b8c0da8c006f3d46abd9f326
+  content: Tom DeLonge says the executive he called 'BossMan', probably Rob Weiss,
+    told him that Lockheed Martin could not be involved in any project associated
+    with the UAP topic, specifically because there had never been any evidence that
+    it exists.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay:
+    - 'SeKret Machines: Chasing Shadows'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    slug: lockheed-martin-skunk-works
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  date: null
+  date_end: null
+  location_in_record: ch18:18088-18422
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5469aa79-f093-4aea-a702-02c08b60e360
+  claim_hash: a2a0043be5a846fd34511abaa5532ee1ba2a5c37bcbefcc9bc62f85b91b25c50
+  content: Tom DeLonge says he told Rob Weiss ('BossMan') that if Edgar Mitchell,
+    the sixth man to walk on the Moon, was telling every kid in the world that the
+    Unidentified Aerial Phenomena (UAP) topic is real, then there was a problem, and
+    asked for time to address credibility issues and to be heard out.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay:
+    - 'SeKret Machines: Chasing Shadows'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  date: null
+  date_end: null
+  location_in_record: ch18:18434-18833
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 186d086e-269e-41b8-81b1-756accd7391a
+  claim_hash: d73fbc6796bcff7cd35f493ff6a5533b1903910255be37223f2ab59f6b6f6ec6
+  content: Tom DeLonge asked for a five-minute meeting alone with 'BossMan' and it
+    was agreed that all other executives and engineers would leave the room.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay:
+    - 'SeKret Machines: Chasing Shadows'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  date: null
+  date_end: null
+  location_in_record: ch18:18841-18982
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9c91e433-c606-45fe-a914-a76f86b34b64
+  claim_hash: 7292e443fda7e27fb7bfb55f54a6f1cfdf890eafdd1edfeacdd89d38e43630bf
+  content: Tom DeLonge says that over the next few months after his private meeting
+    with 'BossMan', things started to go very quickly for his project.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay:
+    - 'SeKret Machines: Chasing Shadows'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  date: null
+  date_end: null
+  location_in_record: ch18:18989-19264
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 75ee8e19-8c01-4976-ba60-9440b2bb7b17
+  claim_hash: a48aa93eb73b0b15c97ede0f730e621e16c0a73a8c736301554f04c7bfb33a57
+  content: Tom DeLonge told 'BossMan' that he understood the national security implications
+    about Unidentified Aerial Phenomena (UAP) and was not naive to the topic, and
+    asked to be heard out because there was merit in what he was about to propose.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay:
+    - March 2016 George Knapp interview with Tom DeLonge
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  date: 2016-03
+  date_end: null
+  location_in_record: ch18:19425-19798
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 50fc2dd4-d7dd-45db-8a10-e874e56e8830
+  claim_hash: 79c4ed6240b09c58cd5db27c5c44d7fb7385cf554fd8cc3ab295159209c13e2f
+  content: Tom DeLonge told 'BossMan' that over the past thirty years there had been
+    a program to indoctrinate people to the idea that UFOs/UAPs might be real.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay:
+    - March 2016 George Knapp interview with Tom DeLonge
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  date: 2016-03
+  date_end: null
+  location_in_record: ch18:19808-19973
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 1c0a9def-96f1-4822-bae6-362c7f093c0f
+  claim_hash: c81ece1cb4870615ecce664410a6d4750793101ab831385fb4d45b437bd71d52
+  content: Tom DeLonge says he told Rob Weiss that he knew about 'some bad things'
+    the government had done regarding the UAP subject.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  date: null
+  date_end: null
+  location_in_record: ch18:20290-20384
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6c577b93-42d1-4808-9484-ffec5e9925c5
+  claim_hash: b64b33751b9ade3881715c67fdd3162c59d5a00ad48d139c93cec16c19e93572
+  content: Rob Weiss demanded to know what kind of bad things the government had done
+    regarding the UAP subject.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  date: null
+  date_end: null
+  location_in_record: ch18:20394-20487
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3d517f13-3bf3-40ef-a4a6-1bdef8cf643b
+  claim_hash: 75f8ac77025b094db8a2506e736f7e0b4c4b7a6007f7498b9d8c1aaef9e68cbc
+  content: Tom DeLonge told Rob Weiss that if he was allowed to pursue his UAP disclosure
+    work, he would need advisers to help guide him so he did not keep disinforming
+    people.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  date: null
+  date_end: null
+  location_in_record: ch18:20577-20747
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b6ac7585-c645-4c09-9c60-e7861caf8963
+  claim_hash: 6e9d37760b193240aeae91031ccc5b1860a3fa72788041d88575ac22795eabf6
+  content: Tom DeLonge considers this exchange with Rob Weiss the breakthrough point
+    in gaining access to military and intelligence gatekeepers on the UAP subject.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  date: null
+  date_end: null
+  location_in_record: ch18:20758-20797
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 271deefa-c35a-4e99-ab78-659455e671d2
+  claim_hash: cfbcb539f214258cffad4825eb3882e2e7590d53b69c44ae13041e93af97487f
+  content: Tom DeLonge says that within two weeks of his meeting with Rob Weiss, he
+    was introduced to senior military and government figures including US Air Force
+    generals, intelligence officials, high-ranking NASA bureaucrats, and senior officials
+    in the White House.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom DeLonge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+    title: The White House
+    slug: the-white-house
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  - node_id: ee0c01e2-9f22-416a-9450-67d7b46d9ac5
+    title: United States Air Force generals and intelligence officials briefing Tom
+      DeLonge
+    slug: united-states-air-force-generals-and-intelligence-officials-briefing-tom-delonge
+  date: null
+  date_end: null
+  location_in_record: ch18:21797-22035
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: af2a5199-eea9-4b16-b522-84f8a0533deb
+  claim_hash: 162d48a1a9408a2ffc0c8c478e11623f0ad5e10c34848a6058d585d6a5b0c0e6
+  content: The leaked Podesta emails reveal that Tom DeLonge was in contact with one
+    of America's most senior private aerospace chief executives, a campaign manager
+    for Hillary Clinton, and two senior recently retired US Air Force generals, and
+    that UAP were discussed among them.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: leaked Podesta emails
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    slug: john-podesta
+  - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
+    title: Neil McCasland
+    slug: neil-mccasland
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+    title: Michael Carey
+    slug: michael-carey
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  date: null
+  date_end: null
+  location_in_record: ch20:10178-10455
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 541e7b0f-e70b-4f52-802b-a63c58b9c921
+  claim_hash: 9cf657f79070be08eb638041da9ebcfbeec7417ca896250c39e52af382a1f5de
+  content: The leaked Podesta emails contained a string of exchanges between John
+    Podesta and Tom DeLonge revealing plans for a Google Hangout meeting between DeLonge,
+    two US Air Force generals, and Rob Weiss, the Lockheed Martin executive vice-president
+    and general manager of its advanced development programs known as Skunk Works.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: leaked Podesta emails
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    slug: john-podesta
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    slug: lockheed-martin-skunk-works
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    slug: lockheed-martin
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  - node_id: ee0c01e2-9f22-416a-9450-67d7b46d9ac5
+    title: United States Air Force generals and intelligence officials briefing Tom
+      DeLonge
+    slug: united-states-air-force-generals-and-intelligence-officials-briefing-tom-delonge
+  date: null
+  date_end: null
+  location_in_record: ch20:4492-4853
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 62ab67fe-a75a-486b-9791-6af6f69bf5e5
+  claim_hash: 29e6f3231571fab905ad891a8f9b4c8ac2f6743c3e9c993de6d8642470bf2f82
+  content: Rob Weiss was probably the executive DeLonge referred to as BossMan, with
+    whom DeLonge claims to have had a one-on-one chat discussing the potential disclosure
+    of the US government's purported secret UAP program.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    slug: tom-delonge
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  date: null
+  date_end: null
+  location_in_record: ch20:4860-5039
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 0d828226-9b96-46eb-aa06-83df347c5b0a
+  claim_hash: b63c07cdcf9c940b6c82d6e260dbeedb9cd410c8a6447e44b3ecb8818d9661e1
+  content: The leaked John Podesta correspondence describes a meeting involving William
+    Neal McCasland, Michael Carey, Robert Weiss and John Podesta.
+  original_excerpt: There's that meeting where you've got General Neil McCasland and
+    Michael Carey and Robert Weiss, the president of the Skunk Works, along with Podesta
+    and along...
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: document
+    origin: the leaked John Podesta emails
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    slug: john-podesta
+  - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+    title: William McCasland
+    slug: william-mccasland
+  - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+    title: Michael Carey
+    slug: michael-carey
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  - node_id: ef2bb79d-43f0-4dd8-8a98-f100f3269e92
+    title: Podesta email leak correspondence with Tom DeLonge
+    slug: podesta-email-leak-correspondence-with-tom-delonge
+  date: null
+  date_end: null
+  location_in_record: 00:40:10.4-00:40:19.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 287efd3c-a220-4ec0-b163-1fb449fe5c66
+  claim_hash: 7fdbe5279e2085c8c8c038355909f42f9f831529ae39d1c6790b1710baf40645
+  content: Robert Weiss was executive vice president of Lockheed Martin Skunk Works.
+  original_excerpt: '[note: Robert Weiss - Lockheed Skunk Works executive vice president]'
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: source record annotation
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    slug: lockheed-martin-skunk-works
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    slug: robert-weiss
+  date: null
+  date_end: null
+  location_in_record: line 37
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

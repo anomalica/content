@@ -1,0 +1,720 @@
+schema: anomalica/brief/1
+brief_hash: 05451f9a054885b71e44d5588fc65b4fdc40ab801308c2ad8bb2e0dc52d7314a
+page:
+  kind: entity
+  node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+  node_type: organisation
+  title: Inspector General of the Intelligence Community
+  slug: inspector-general-of-the-intelligence-community
+  claim_count: 15
+  claim_count_total: 15
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+  title: David Charles Grusch
+  node_type: person
+  slug: david-charles-grusch
+  shared_claims: 12
+- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+  title: United States Congress
+  node_type: organisation
+  slug: united-states-congress
+  shared_claims: 4
+- node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+  title: Joe Biden
+  node_type: person
+  slug: joe-biden
+  shared_claims: 3
+- node_id: dea6fa7c-2ed1-4328-aac1-6b8e077f00b1
+  title: Charles McCullough III
+  node_type: person
+  slug: charles-mccullough-iii
+  shared_claims: 2
+- node_id: 0d3e437a-0ee4-4b16-bbf3-7bfb15d1fe8a
+  title: Thomas Monheim
+  node_type: person
+  slug: thomas-monheim
+  shared_claims: 2
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 2
+- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+  title: Christopher K. Mellon
+  node_type: person
+  slug: christopher-k-mellon
+  shared_claims: 1
+- node_id: 51360b23-b55e-4e40-881e-c828b07f01ef
+  title: House Permanent Select Committee on Intelligence
+  node_type: organisation
+  slug: house-permanent-select-committee-on-intelligence
+  shared_claims: 1
+- node_id: 173ea73f-e010-4cf4-bd34-db8a03f84623
+  title: Jake Sullivan
+  node_type: person
+  slug: jake-sullivan
+  shared_claims: 1
+- node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+  title: Reverse engineering of recovered craft of non-human origin
+  node_type: topic
+  slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  shared_claims: 1
+- node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+  title: Special Access Program (SAP)
+  node_type: topic
+  slug: special-access-program-sap
+  shared_claims: 1
+- node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+  title: US Senate Select Committee on Intelligence
+  node_type: organisation
+  slug: us-senate-select-committee-on-intelligence
+  shared_claims: 1
+- node_id: 1167bc16-5d36-4162-90ca-ea7c3218bad5
+  title: Unclassified complaint of David Charles Grusch
+  node_type: document
+  slug: unclassified-complaint-of-david-charles-grusch
+  shared_claims: 1
+- node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+  title: Unidentified Aerial Phenomena Task Force (UAPTF)
+  node_type: project
+  slug: unidentified-aerial-phenomena-task-force-uaptf
+  shared_claims: 1
+- node_id: 22ebcb6f-d93b-46d7-909c-c068a7de1ef8
+  title: White House Office of the Counsel to the President
+  node_type: organisation
+  slug: white-house-office-of-the-counsel-to-the-president
+  shared_claims: 1
+claims:
+- claim_id: 9f47da4b-2f10-4022-8c59-3653ca169f7c
+  claim_hash: 44eaff5cde01e977365a2acd3d2fc27d8b8cdc7bad405e33143da34091bf1b8d
+  content: Charles McCullough III was the original Inspector General of the Intelligence
+    Community, confirmed by the U.S. Senate in 2011.
+  original_excerpt: the original Inspector General of the Intelligence Community,
+    confirmed by the U.S. Senate in 2011.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    slug: inspector-general-of-the-intelligence-community
+  - node_id: dea6fa7c-2ed1-4328-aac1-6b8e077f00b1
+    title: Charles McCullough III
+    slug: charles-mccullough-iii
+  date: '2011'
+  date_end: null
+  location_in_record: char:10834-10928
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+- claim_id: b8f5797b-b025-41ec-88c0-6d7b33671345
+  claim_hash: 672347496277ef25793a46b8431a0e806c73171e9202fd603587abd3c70d1d32
+  content: In May 2022, Charles McCullough III filed a Disclosure of Urgent Concern(s);
+    Complaint of Reprisal on behalf of David Charles Grusch with the Office of the
+    Inspector General of the Intelligence Community about detailed information Grusch
+    had gathered beginning in 2019 while working for the Unidentified Aerial Phenomena
+    Task Force.
+  original_excerpt: In May 2022, McCullough filed a Disclosure of Urgent Concern(s);
+    Complaint of Reprisal on behalf of Grusch with the ICIG about detailed information
+    that Grusch had gathered beginning in 2019 while working for the UAP Task Force.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    slug: inspector-general-of-the-intelligence-community
+  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+    title: Unidentified Aerial Phenomena Task Force (UAPTF)
+    slug: unidentified-aerial-phenomena-task-force-uaptf
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  - node_id: dea6fa7c-2ed1-4328-aac1-6b8e077f00b1
+    title: Charles McCullough III
+    slug: charles-mccullough-iii
+  date: 2022-05
+  date_end: null
+  location_in_record: char:11134-11356
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+- claim_id: f3775f95-cefc-426b-9814-2302f7413a7a
+  claim_hash: cf1214f40ac1d621bccbd0b31ec19863f42731bb2103a203a35e87834b4ebc8b
+  content: The Office of the Inspector General of the Intelligence Community found
+    David Charles Grusch's complaint "credible and urgent" in July 2022.
+  original_excerpt: The Intelligence Community Inspector General found his complaint
+    “credible and urgent” in July 2022.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Office of the Inspector General of the Intelligence Community (ICIG) finding
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    slug: inspector-general-of-the-intelligence-community
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: 2022-07
+  date_end: null
+  location_in_record: char:12533-12628
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+- claim_id: b65ab58d-46e3-4239-b43f-6d3ceea426f0
+  claim_hash: 3a730fbf0b51ef9f036deb09afdfa8ebe5be9a716f0bbf5f033572edc9693240
+  content: Christopher Mellon says that once members of the United States Congress
+    gain greater awareness of the information provided to their staff and the Office
+    of the Inspector General of the Intelligence Community, they will be in a position
+    to quickly determine the truth if they have the will to do so.
+  original_excerpt: Mellon says that once the members of Congress gain greater awareness
+    of the information provided to their staff and the Inspector General, they will
+    be in a position to quickly determine the truth if they have the will to do so.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+  provenance_chain:
+    origin_kind: speaker
+    origin: Christopher Mellon
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    slug: inspector-general-of-the-intelligence-community
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  date: null
+  date_end: null
+  location_in_record: char:16932-17157
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+- claim_id: 820875ac-d3d4-4970-9972-12fdd2ad8726
+  claim_hash: 000c8909a2034d60ec34b65162ccc4a63474ee3fcb1c6cf0a14025d7b5117383
+  content: David Charles Grusch, a former intelligence official turned whistleblower,
+    gave the United States Congress and the Office of the Inspector General of the
+    Intelligence Community (ICIG) extensive classified information about deeply covert
+    programmes that he says possess retrieved intact and partially intact craft of
+    non-human origin.
+  original_excerpt: A former intelligence official turned whistleblower has given
+    Congress and the Intelligence Community Inspector General extensive classified
+    information about deeply covert programs that he says possess retrieved intact
+    and partially intact craft of non-human origin.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Charles Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    slug: inspector-general-of-the-intelligence-community
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: '2023-06-05'
+  date_end: null
+  location_in_record: char:258-518
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+- claim_id: b589669d-2ade-4118-8612-f832a03960ea
+  claim_hash: 4fbc4e19916e18e9dbf3293d47cc71d3adc3ef13fd9ef9ab44e27631bc6d99c0
+  content: 'David Charles Grusch said: "We are not talking about prosaic origins or
+    identities. The material includes intact and partially intact vehicles."'
+  original_excerpt: “We are not talking about prosaic origins or identities,” Grusch
+    said, referencing information he provided Congress and the current ICIG. “The
+    material includes intact and partially intact vehicles.”
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Charles Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    slug: inspector-general-of-the-intelligence-community
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: char:2765-2953
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+- claim_id: 9bcddcbe-6f67-4575-b3d8-01180582be09
+  claim_hash: 5bf22c71847a95994f5e9653a53187288287ea4a0ed01912896b1a89b57aedc2
+  content: Although locations, program names, and other specific data related to David
+    Charles Grusch's complaint remain classified, the Office of the Inspector General
+    of the Intelligence Community and intelligence committee staff were provided with
+    these details.
+  original_excerpt: Although locations, program names, and other specific data remain
+    classified, the Inspector General and intelligence committee staff were provided
+    with these details.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    slug: inspector-general-of-the-intelligence-community
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: char:9519-9677
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+- claim_id: be6bd8eb-ffa6-496d-8114-ebeb5f5fab2c
+  claim_hash: c10785e019d5be36fcf9d4d893c975dddbcd5ade562f9b5febb9b339387cb1e0
+  content: Several current members of the non-human craft recovery programme spoke
+    to the Office of the Inspector General of the Intelligence Community and corroborated
+    the information David Charles Grusch had provided for his classified complaint.
+  original_excerpt: Several current members of the recovery program spoke to the Inspector
+    General’s office and corroborated the information Grusch had provided for the
+    classified complaint.
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1167bc16-5d36-4162-90ca-ea7c3218bad5
+    title: Unclassified complaint of David Charles Grusch
+    slug: unclassified-complaint-of-david-charles-grusch
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    slug: inspector-general-of-the-intelligence-community
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: char:9686-9846
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+    record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human
+      Origin
+    record_date: '2023-06-05'
+    record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+    content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+    friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+- claim_id: 5d92d7ac-169a-4074-b10e-596900bc2664
+  claim_hash: f32d6f9847b12e413f45c5bf248d097bee4a8b770c485242b153a2bc310404b3
+  content: David Grusch brought to the Inspector General of the Intelligence Community
+    and briefed United States Congress, both in classified and public settings, that
+    the United States has had a programme recovering empirical evidence from landed
+    or crashed Unidentified Aerial Phenomena.
+  original_excerpt: simply what I brought to the Inspector General and what I briefed
+    Congress both, you know, classified and in a public setting is the fact that we've
+    had this recovery program of actually recovering that empirical evidence.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    slug: inspector-general-of-the-intelligence-community
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: 00:06:34.9-00:06:45.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null
+- claim_id: df0c7ca6-4c07-48a1-aa88-8f7a980db525
+  claim_hash: b77773ca23b6ad8788a96159f79174281bb026cd12a548d5f4b2459b720e7f66
+  content: David Grusch brought people with close personal participation in the Unidentified
+    Aerial Phenomena (UAP) subject, reaching up to the cabinet and White House level,
+    to the Inspector General of the Intelligence Community (ICIG) under the Joe Biden
+    administration, because he had not personally handled the material himself.
+  original_excerpt: way up to the cabinet White House level that had close personal
+    participation in this subject. And of course, because I wasn't hands on, so to
+    speak, and saw this in person, I brought a lot of those people to the intelligence
+    community inspector general under the Biden administration.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+    title: Joe Biden
+    slug: joe-biden
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    slug: inspector-general-of-the-intelligence-community
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: 00:25:51.4-00:26:06.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null
+- claim_id: ddc221a7-323a-437f-8cc9-367892083ed9
+  claim_hash: 0b9b8780d65b90ed2e7cc34662df0ccb390a8cb0ce5272f0db15ad2489f63322
+  content: The witnesses David Grusch referred to the Inspector General of the Intelligence
+    Community could provide information on the locations where recovered material
+    is held and where the archive facilities holding the programme records are.
+  original_excerpt: They can get information on the locations of where this is being
+    hold, where the archives facilities are, where they hold all the program records,
+    et cetera.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    slug: inspector-general-of-the-intelligence-community
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: 00:26:10.8-00:26:18.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null
+- claim_id: 300a8fa1-7752-4831-bc3d-e1be2bb218f7
+  claim_hash: 2678f8540988bee3dfd201f6dc43c1a3e85e5478103cb51f4b3fc0da680e9265
+  content: David Grusch's complaint to the Inspector General of the Intelligence Community
+    was assessed as credible and urgent.
+  original_excerpt: And of course, this complaint was considered credible and urgent.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    slug: inspector-general-of-the-intelligence-community
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: 00:26:19.7-00:26:23.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null
+- claim_id: 1f7ea2ec-6855-4b18-8a9c-addffa69e14b
+  claim_hash: 16ac880b16f57ee9122dd36ad3fefdf6364ff2d633f5853ae80c3dd280de1842
+  content: In the summer of 2022, the Inspector General of the Intelligence Community
+    was required to forward David Grusch's complaint to the United States Senate Select
+    Committee on Intelligence and the United States House Permanent Select Committee
+    on Intelligence.
+  original_excerpt: Admiral Haynes was forced to send it to the Senate and House Intelligence
+    Committees. in summer 2022
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+    title: US Senate Select Committee on Intelligence
+    slug: us-senate-select-committee-on-intelligence
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    slug: inspector-general-of-the-intelligence-community
+  - node_id: 51360b23-b55e-4e40-881e-c828b07f01ef
+    title: House Permanent Select Committee on Intelligence
+    slug: house-permanent-select-committee-on-intelligence
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: '2022'
+  date_end: null
+  location_in_record: 00:26:23.9-00:26:29.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null
+- claim_id: ffc4a78b-15f9-4f6e-9ca7-118e448a675f
+  claim_hash: 5910537f7c516d91ae045a28eefeebccfc072f176fc6ff9a92792ea63182361b
+  content: David Grusch was told unofficially through a back channel that Jake Sullivan
+    and the White House Office of the Counsel to the President instructed Thomas Monheim,
+    the Inspector General of the Intelligence Community under Joe Biden, and his staff
+    to stop their investigation because it was running into White House classified
+    special access programs.
+  original_excerpt: back channeled to me unofficially is uh Jake Sullivan and White
+    House General Counsel Office basically told Tom Monheim who was the inspector
+    general for the intelligence community under Biden and his staff to stop and and
+    they realized they were bumping into White House uh classified programs something
+    called special access programs
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming knowledge of the Inspector General of the Intelligence
+      Community investigation
+    relay:
+    - an unofficial back channel to David Grusch
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d3e437a-0ee4-4b16-bbf3-7bfb15d1fe8a
+    title: Thomas Monheim
+    slug: thomas-monheim
+  - node_id: 173ea73f-e010-4cf4-bd34-db8a03f84623
+    title: Jake Sullivan
+    slug: jake-sullivan
+  - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+    title: Joe Biden
+    slug: joe-biden
+  - node_id: 22ebcb6f-d93b-46d7-909c-c068a7de1ef8
+    title: White House Office of the Counsel to the President
+    slug: white-house-office-of-the-counsel-to-the-president
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    slug: inspector-general-of-the-intelligence-community
+  - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+    title: Special Access Program (SAP)
+    slug: special-access-program-sap
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: 00:27:04.0-00:27:22.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null
+- claim_id: 366a7a7b-e994-4618-b0ff-7e8296bfe3f7
+  claim_hash: 4cb82dcf1484e852d3b3240d59cdaa170d8a573d1cff59eed4633b195093afd7
+  content: Thomas Monheim was the Inspector General of the Intelligence Community
+    under the Joe Biden administration.
+  original_excerpt: Tom Monheim who was the inspector general for the intelligence
+    community under Biden
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d3e437a-0ee4-4b16-bbf3-7bfb15d1fe8a
+    title: Thomas Monheim
+    slug: thomas-monheim
+  - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+    title: Joe Biden
+    slug: joe-biden
+  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+    title: Inspector General of the Intelligence Community
+    slug: inspector-general-of-the-intelligence-community
+  date: null
+  date_end: null
+  location_in_record: 00:27:10.6-00:27:14.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null

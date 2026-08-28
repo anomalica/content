@@ -1,0 +1,364 @@
+schema: anomalica/brief/1
+brief_hash: 4efcc79e53f82ff0c6fad9f1cb00c2b46b0a9a16a51e6f02d088dd6a4cf3557d
+page:
+  kind: entity
+  node_id: 65480ae6-531e-4a7b-878c-cae6bd0bac3e
+  node_type: organisation
+  title: Princeton Engineering Anomalies Research (PEAR)
+  slug: princeton-engineering-anomalies-research-pear
+  claim_count: 8
+  claim_count_total: 8
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: abcb5364-007d-441a-b246-86e28f74227d
+  title: Anomalous Cognition (AC)
+  node_type: topic
+  slug: anomalous-cognition-ac
+  shared_claims: 2
+- node_id: e6dedf4e-2500-4eac-8289-0589be5e0c8c
+  title: George Hansen
+  node_type: person
+  slug: george-hansen
+  shared_claims: 2
+- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+  title: Remote Viewing (RV)
+  node_type: topic
+  slug: remote-viewing-rv
+  shared_claims: 2
+- node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
+  title: S. James P. Spottiswoode
+  node_type: person
+  slug: s-james-p-spottiswoode
+  shared_claims: 2
+- node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
+  title: Geomagnetic Fluctuations (GMF)
+  node_type: topic
+  slug: geomagnetic-fluctuations-gmf
+  shared_claims: 1
+- node_id: c4326751-4d10-464f-bcba-741ed0f797ca
+  title: Local Sidereal Time
+  node_type: topic
+  slug: local-sidereal-time
+  shared_claims: 1
+- node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+  title: Stanford Research Institute (SRI)
+  node_type: organisation
+  slug: stanford-research-institute-sri
+  shared_claims: 1
+- node_id: beb59557-4bc6-4822-b57b-9fffa1d3bc80
+  title: York Dobyns
+  node_type: person
+  slug: york-dobyns
+  shared_claims: 1
+claims:
+- claim_id: a40f630a-f11f-4035-9b80-f6db72afc09d
+  claim_hash: 4f7ba1d160df1b1f34daa621ef86c14f639a1ec8483b0a332f11ede2430efef6
+  content: An increase in effect size at 6 hours local clock time in the analysed
+    anomalous cognition data was found to be due to only 4 data points, 3 of which
+    came from one experiment conducted by Princeton Engineering Anomalies Research,
+    which had a relatively high average effect size of 0.33.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Apparent Association Between Effect Size in Free Response Anomalous Cognition
+      Experiments and Local Sidereal Time
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 65480ae6-531e-4a7b-878c-cae6bd0bac3e
+    title: Princeton Engineering Anomalies Research (PEAR)
+    slug: princeton-engineering-anomalies-research-pear
+  date: null
+  date_end: null
+  location_in_record: ch29:21055-21238
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 4e1a2097-d091-4ab7-a125-4091c66f3ac3
+  claim_hash: 6d25d833ce31119f84d099e024db431ad59d4cdb7097b39d974157dfc046f3c1
+  content: George Hansen raised methodological criticism of the Princeton Engineering
+    Anomalies Research (PEAR) group's data.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
+    title: S. James P. Spottiswoode
+  provenance_chain:
+    origin_kind: named
+    origin: George Hansen
+    relay:
+    - S. James P. Spottiswoode's paper
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 65480ae6-531e-4a7b-878c-cae6bd0bac3e
+    title: Princeton Engineering Anomalies Research (PEAR)
+    slug: princeton-engineering-anomalies-research-pear
+  - node_id: e6dedf4e-2500-4eac-8289-0589be5e0c8c
+    title: George Hansen
+    slug: george-hansen
+  date: '1992'
+  date_end: null
+  location_in_record: ch29:8667-8753
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: b39e8dac-a8e6-4896-8657-e472d7d1881c
+  claim_hash: 618ecf82b823445b0df4be017f9c4656cd809c27e9469c268d35d32e662656f1
+  content: The effect size and associated 95% confidence interval of the Princeton
+    Engineering Anomalies Research (PEAR) data fall within the range reported by other
+    free-response anomalous cognition investigations.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
+    title: S. James P. Spottiswoode
+  provenance_chain:
+    origin_kind: speaker
+    origin: S. James P. Spottiswoode
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
+    title: S. James P. Spottiswoode
+    slug: s-james-p-spottiswoode
+  - node_id: 65480ae6-531e-4a7b-878c-cae6bd0bac3e
+    title: Princeton Engineering Anomalies Research (PEAR)
+    slug: princeton-engineering-anomalies-research-pear
+  - node_id: abcb5364-007d-441a-b246-86e28f74227d
+    title: Anomalous Cognition (AC)
+    slug: anomalous-cognition-ac
+  date: null
+  date_end: null
+  location_in_record: ch29:8768-8894
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 75483371-7650-4a93-8012-ac7cf2cfe680
+  claim_hash: bcbb2aa6d091299b1c542fc2cf0978600927beecf63b71748405d3a7d8db5b01
+  content: The Princeton Engineering Anomalies Research remote viewing experiments
+    were subjected to methodological criticism by George Hansen in 1992.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: e6dedf4e-2500-4eac-8289-0589be5e0c8c
+    title: George Hansen
+  provenance_chain:
+    origin_kind: named
+    origin: George Hansen
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 65480ae6-531e-4a7b-878c-cae6bd0bac3e
+    title: Princeton Engineering Anomalies Research (PEAR)
+    slug: princeton-engineering-anomalies-research-pear
+  - node_id: e6dedf4e-2500-4eac-8289-0589be5e0c8c
+    title: George Hansen
+    slug: george-hansen
+  date: '1992'
+  date_end: null
+  location_in_record: ch31:5265-5387
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 9d810660-1a4e-4a0e-a819-f917fac6744a
+  claim_hash: dc76ba61d93f7f28224e449e316aee979ee06bd89ea09ed85351b1c827714b08
+  content: The Princeton Engineering Anomalies Research remote viewing experiments
+    were subjected to methodological criticism by York Dobyns in 1992.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: beb59557-4bc6-4822-b57b-9fffa1d3bc80
+    title: York Dobyns
+  provenance_chain:
+    origin_kind: named
+    origin: York Dobyns
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 65480ae6-531e-4a7b-878c-cae6bd0bac3e
+    title: Princeton Engineering Anomalies Research (PEAR)
+    slug: princeton-engineering-anomalies-research-pear
+  - node_id: beb59557-4bc6-4822-b57b-9fffa1d3bc80
+    title: York Dobyns
+    slug: york-dobyns
+  date: '1992'
+  date_end: null
+  location_in_record: ch31:5265-5387
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: c765be3b-770b-41d3-af9c-4b58519f5475
+  claim_hash: 41956d48dadc277b275ce418a8229ca08971d0f3bfc9234a40fb3252332fe1ba
+  content: S. James P. Spottiswoode included the Princeton Engineering Anomalies Research
+    remote viewing data despite methodological criticism because its observed effect
+    size is comparable to that seen in other laboratories using a similar protocol.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
+    title: S. James P. Spottiswoode
+  provenance_chain:
+    origin_kind: speaker
+    origin: S. James P. Spottiswoode
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
+    title: S. James P. Spottiswoode
+    slug: s-james-p-spottiswoode
+  - node_id: 65480ae6-531e-4a7b-878c-cae6bd0bac3e
+    title: Princeton Engineering Anomalies Research (PEAR)
+    slug: princeton-engineering-anomalies-research-pear
+  date: null
+  date_end: null
+  location_in_record: ch31:5393-5516
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 0705d1da-86ff-4a17-8670-321c40dd020c
+  claim_hash: 83056caedb5d04eb2aa0c76babd389b2dd692ea87e0fd9f72e16af9697fc5f44
+  content: In the Princeton Engineering Anomalies Research (PEAR) study, the overall
+    anomalous cognition (AC) effect size was 0.33, with the Geomagnetic Fluctuations
+    (GMF) correlation close to zero for the whole study but clearly seen in the in-band
+    region of local sidereal time.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: second_hand
+  speaker:
+    node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
+    title: S. James P. Spottiswoode
+  provenance_chain:
+    origin_kind: named
+    origin: S. James P. Spottiswoode
+    relay:
+    - 'research paper reprinted in Remote Viewing Secrets: A Handbook'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
+    title: Geomagnetic Fluctuations (GMF)
+    slug: geomagnetic-fluctuations-gmf
+  - node_id: 65480ae6-531e-4a7b-878c-cae6bd0bac3e
+    title: Princeton Engineering Anomalies Research (PEAR)
+    slug: princeton-engineering-anomalies-research-pear
+  - node_id: abcb5364-007d-441a-b246-86e28f74227d
+    title: Anomalous Cognition (AC)
+    slug: anomalous-cognition-ac
+  - node_id: c4326751-4d10-464f-bcba-741ed0f797ca
+    title: Local Sidereal Time
+    slug: local-sidereal-time
+  date: null
+  date_end: null
+  location_in_record: ch32:131-290
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: d11f0dc4-78dd-4f4f-8884-193266ac4961
+  claim_hash: dc9868a36dca32c824116c9a01ac7718feeb43564a6c67b4952c59b11fa285ef
+  content: Parapsychologists at institutions such as the Princeton Engineering Anomalies
+    Research (PEAR) Lab and the Stanford Research Institute (SRI) conducted consciousness
+    research studies.
+  original_excerpt: with all the studies done by parapsychologists at, you know, places
+    like Princeton Parapsychology Lab, SRI, all of this stuff goes through the same
+    thing.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+    title: Stanford Research Institute (SRI)
+    slug: stanford-research-institute-sri
+  - node_id: 65480ae6-531e-4a7b-878c-cae6bd0bac3e
+    title: Princeton Engineering Anomalies Research (PEAR)
+    slug: princeton-engineering-anomalies-research-pear
+  date: null
+  date_end: null
+  location_in_record: 02:09:02.7-02:09:10.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+    record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury
+      - DEBRIEFED ep. 58
+    record_date: '2025-10-17'
+    record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+    content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+    friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2

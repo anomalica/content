@@ -1,0 +1,513 @@
+schema: anomalica/brief/1
+brief_hash: 51e6cad02931007bf1eff2858aa0088ead8685e6a511aef52afa5cc06639d419
+page:
+  kind: entity
+  node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+  node_type: place
+  title: USA, Maryland, Fort Meade
+  slug: maryland-fort-meade-usa
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+  title: Project STARGATE
+  node_type: project
+  slug: project-stargate
+  shared_claims: 6
+- node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+  title: Joseph McMoneagle
+  node_type: person
+  slug: joseph-mcmoneagle
+  shared_claims: 2
+- node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+  title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+  node_type: organisation
+  slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+  shared_claims: 2
+- node_id: c8f044e1-3c34-42bd-99f6-da6639785196
+  title: 902nd Military Intelligence Group
+  node_type: organisation
+  slug: 902nd-military-intelligence-group
+  shared_claims: 1
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 1
+- node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+  title: Defense Intelligence Agency (DIA)
+  node_type: organisation
+  slug: defense-intelligence-agency-dia
+  shared_claims: 1
+- node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+  title: Dowsing
+  node_type: topic
+  slug: dowsing
+  shared_claims: 1
+- node_id: a098a3c1-35d3-4498-b58e-a55d2e8d8a28
+  title: Extended Remote Viewing (ERV)
+  node_type: topic
+  slug: extended-remote-viewing-erv
+  shared_claims: 1
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 1
+- node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+  title: The Monroe Institute
+  node_type: organisation
+  slug: the-monroe-institute
+  shared_claims: 1
+- node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
+  title: The Stargate Project
+  node_type: project
+  slug: the-stargate-project
+  shared_claims: 1
+- node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
+  title: USA, California, Menlo Park
+  node_type: place
+  slug: california-menlo-park-usa
+  shared_claims: 1
+- node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+  title: United States Army
+  node_type: organisation
+  slug: united-states-army
+  shared_claims: 1
+- node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+  title: extrasensory perception (ESP)
+  node_type: topic
+  slug: extrasensory-perception-esp
+  shared_claims: 1
+claims:
+- claim_id: 1c2c0e2f-393a-4a4f-a93c-6dd7beb87e61
+  claim_hash: 9ea112fb2d7015fb4ecbfd229e92749d817647f1a3a45a969315ad181921d417
+  content: Joseph McMoneagle was originally trained in dowsing while assigned to Project
+    STARGATE at Fort Meade, Maryland.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+    title: Dowsing
+    slug: dowsing
+  date: null
+  date_end: null
+  location_in_record: ch17:36051-36131
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: b281ed59-ea05-4eae-9dfe-3f65ddf05b3b
+  claim_hash: 2e129c795ce4a2ab32ee37e7e293e61e6c07ed2ae96dc369f457a5ea24024a8f
+  content: Extended Remote Viewing (ERV) is the name given to some of the original
+    remote viewing methodologies used by remote viewers at Fort Meade, Maryland, USA.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: a098a3c1-35d3-4498-b58e-a55d2e8d8a28
+    title: Extended Remote Viewing (ERV)
+    slug: extended-remote-viewing-erv
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: ch17:47576-47683
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 5238c66b-a9f5-4778-8e30-ea34350a5640
+  claim_hash: 49fd88cf5d14aafb96199edb96420f51f3fa8de47f214e7c2e912241f3d877a5
+  content: As of the writing of this handbook, ninety-nine percent of the material
+    relating to the operational Fort Meade unit of Project STARGATE had not yet been
+    declassified or made available to the public.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: ch9:12963-13101
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: e74a0e85-b437-4e01-9e67-d3bd94306800
+  claim_hash: 9b4e506254348fc6f3baa5cee78bf51cf49af6160db4343062a00be60f2e00bf
+  content: Findings and materials from the Cognitive Sciences Laboratory were shared
+    with and used within the operational element of Project STARGATE, located at Fort
+    Meade, Maryland, for most of the time it existed.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: ch9:8678-8853
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 03ab0d79-abbb-4414-82e9-789754dd07da
+  claim_hash: a420b44325c668f23d78698413f2714e2228bd6719cc793b2b8fa8cd89a2149a
+  content: Research findings at the Cognitive Sciences Laboratory that established
+    changes to specific remote viewing applications were sometimes dismissed as unnecessary
+    or discarded by the Fort Meade project managers of Project STARGATE.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: ch9:9090-9364
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: b5c01ea5-830a-4b1d-9946-ff3825a6e6cc
+  claim_hash: e0503387d8c55f827142e9f57e6a272089791910518beb81391bca35e36c24b1
+  content: There was a large discrepancy between good and bad managers within Project
+    STARGATE, with full managerial responsibility for the project residing within
+    the Fort Meade unit.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: para 44
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: d37c3643-5c69-4a19-8ba7-d255bcbf15ec
+  claim_hash: c64a23f7ebb39c583ec0ea8039ea721643b1787d580003e9cb0b9efc21fe7e5a
+  content: Project Stargate began as a highly classified project in a research lab
+    in California in the 1970s before moving to a Maryland army base.
+  original_excerpt: they initiated a highly classified project that began in a research
+    lab in California in the 70s before moving to a Maryland army base
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
+    title: USA, California, Menlo Park
+    slug: california-menlo-park-usa
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: 00:02:54.5-00:03:01.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 9bd53a7a-30db-4e4c-b61d-91d4d1f3007a
+  claim_hash: 15d49e928fb7a4078dea883852b623f726a1ae531c602d3041bb7acd8ebbec0b
+  content: The Central Intelligence Agency (CIA)'s work on extrasensory perception
+    (ESP) concluded in the late 1970s, and the programme moved to the United States
+    Army's base at Fort Meade, Maryland.
+  original_excerpt: The CIA's work on ESP concluded in the late 1970s, and the program
+    moved to the US Army's Fort Meade in Maryland.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+    title: extrasensory perception (ESP)
+    slug: extrasensory-perception-esp
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: 00:06:58.2-00:07:05.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 0f64cf8f-62f7-41f1-bf67-5b1b8ac5c9e7
+  claim_hash: 2745dae735b665f6f76ec4ae415a92eb9963c698773c71b468deb9e298719667
+  content: After moving to Fort Meade, Maryland, the remote-viewing programme was
+    funded by the Defense Intelligence Agency (DIA).
+  original_excerpt: where it was funded by the Defense Intelligence Agency.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: 00:07:06.2-00:07:08.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 686a1c0e-375b-41ae-bbd5-bcc68121eeb0
+  claim_hash: a3e67a7f8dc2464ab500b3383fe45ec33e7f754d88fdf411ca2cb6ce049bab60
+  content: The 902nd Military Intelligence Group, headquartered at Fort Meade, Maryland,
+    was Luis Elizondo's second assignment.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: c8f044e1-3c34-42bd-99f6-da6639785196
+    title: 902nd Military Intelligence Group
+    slug: 902nd-military-intelligence-group
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: ch11:20145-20233
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 23dd5ec0-79c7-4414-9e3f-276f88b19a65
+  claim_hash: 97280fa7d8cbb557e0e3858011b19c3ab8a059fdf658a7a9343b18ccfec70e36
+  content: Joseph McMoneagle travelled from Fort Meade to the Monroe Institute at
+    weekends for out-of-body training during the Stargate Project.
+  original_excerpt: And so he would do this over the weekends, right? From Fort Meade
+    and go there.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: named
+    origin: Joseph McMoneagle
+    relay:
+    - a conversation with Chris Ramsay
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  - node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
+    title: The Stargate Project
+    slug: the-stargate-project
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: 00:41:47.5-00:41:49.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null

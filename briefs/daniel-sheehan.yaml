@@ -1,0 +1,424 @@
+schema: anomalica/brief/1
+brief_hash: b366031e1908f73a4cb01bfc0ac83bcff995c7a89861833debf7870881032a26
+page:
+  kind: entity
+  node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+  node_type: person
+  title: Sheehan, Daniel
+  slug: daniel-sheehan
+  claim_count: 10
+  claim_count_total: 10
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+  title: Project Blue Book
+  node_type: project
+  slug: project-blue-book
+  shared_claims: 5
+- node_id: dca2ff64-1e5f-4f6c-876c-1329944995fa
+  title: Daniel Sheehan Blue Book Viewing
+  node_type: event
+  slug: daniel-sheehan-blue-book-viewing
+  shared_claims: 4
+- node_id: 898c410a-7789-4762-b6dd-1139ced89658
+  title: Carter, Jimmy
+  node_type: person
+  slug: jimmy-carter
+  shared_claims: 3
+- node_id: f1c896e7-b9bb-47af-8e12-c0ff6e373d47
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 2
+- node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+  title: Bush, George Herbert Walker
+  node_type: person
+  slug: george-herbert-walker-bush
+  shared_claims: 1
+- node_id: ab3190cf-7fe2-43de-becf-488f960bf840
+  title: Disclosure Project 2001
+  node_type: event
+  slug: disclosure-project-2001
+  shared_claims: 1
+- node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+  title: Elizondo, Luis
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 1
+- node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+  title: Greer, Steven
+  node_type: person
+  slug: steven-greer
+  shared_claims: 1
+- node_id: f5f0345a-5fab-49d5-a2f9-222f896e4293
+  title: Library of Congress
+  node_type: organisation
+  slug: library-of-congress
+  shared_claims: 1
+claims:
+- claim_id: e304c7fd-8aa6-47f3-9c51-57f5f4b767a4
+  claim_hash: 55ed7a391608f22dc70ee41f7f7ecbde81361d7a4c5ceb18b3fcba55cbe177c6
+  content: Daniel Sheehan was interviewed by the author on 17 October 2019 and 10
+    July 2020 about UAP/Project Blue Book matters.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Sheehan, Daniel
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Sheehan, Daniel
+    slug: daniel-sheehan
+  date: '2019-10-17'
+  date_end: null
+  location_in_record: Chapter 6, endnotes 9-10
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 0f2e5ae8-9a0e-404a-bbd6-4d0a4c27ee19
+  claim_hash: 6e98d59cb765c7cbf034872549d3b5ddeefa02af16d8f392db49e427767989d9
+  content: According to Daniel Sheehan, before Carter's January 1977 inauguration,
+    Carter sought a meeting with CIA Director George Herbert Walker Bush to get a
+    briefing on UFOs, but Bush flatly refused, saying Carter had no need to know.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Sheehan, Daniel
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+    title: Carter, Jimmy
+    slug: jimmy-carter
+  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+    title: Bush, George Herbert Walker
+    slug: george-herbert-walker-bush
+  - node_id: f1c896e7-b9bb-47af-8e12-c0ff6e373d47
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Sheehan, Daniel
+    slug: daniel-sheehan
+  date: 1977-01
+  date_end: null
+  location_in_record: Chapter 6, paragraph 15
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 5c6f267c-760a-428f-a660-a49b9b3b58fe
+  claim_hash: 023c0b7297f46b3d8d25f2ca0c3b8da7275e0757519720f776fe339e3deac5d5
+  content: On a Saturday morning in late spring 1977, Daniel Sheehan arrived at the
+    Madison wing of the Library of Congress to view classified Project Blue Book microfiche
+    documents.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Sheehan, Daniel
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: dca2ff64-1e5f-4f6c-876c-1329944995fa
+    title: Daniel Sheehan Blue Book Viewing
+    slug: daniel-sheehan-blue-book-viewing
+  - node_id: f5f0345a-5fab-49d5-a2f9-222f896e4293
+    title: Library of Congress
+    slug: library-of-congress
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Sheehan, Daniel
+    slug: daniel-sheehan
+  date: '1977'
+  date_end: null
+  location_in_record: Chapter 6, paragraph 16
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 868d9ce1-e5d4-4a31-a82f-470790c8ee8e
+  claim_hash: efe9a1afd1e34f1fd596d3c090534778de8719d601a7c1558ae204ffab955a81
+  content: Daniel Sheehan states he found in the classified Project Blue Book microfiche
+    a photograph of a crashed full-scale saucer with a dome, which had ploughed a
+    trench across a snow-covered field and was stuck at a 45-degree angle in a snowbank,
+    with US Air Force personnel around it.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Sheehan, Daniel
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: dca2ff64-1e5f-4f6c-876c-1329944995fa
+    title: Daniel Sheehan Blue Book Viewing
+    slug: daniel-sheehan-blue-book-viewing
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Sheehan, Daniel
+    slug: daniel-sheehan
+  date: '1977'
+  date_end: null
+  location_in_record: Chapter 6, paragraph 18
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 25e8c290-ae61-4fcb-aead-bf798e9d8601
+  claim_hash: af236c7ad06e8a4a2a848584e4120a937d7a4f83bca0c5e15496dff7e318a470
+  content: Daniel Sheehan states one of the photographs showed symbols etched into
+    the side of the craft just below the dome; he traced these symbols onto the inside
+    cardboard backing of a yellow legal notepad he had smuggled into the room.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Sheehan, Daniel
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: dca2ff64-1e5f-4f6c-876c-1329944995fa
+    title: Daniel Sheehan Blue Book Viewing
+    slug: daniel-sheehan-blue-book-viewing
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Sheehan, Daniel
+    slug: daniel-sheehan
+  date: '1977'
+  date_end: null
+  location_in_record: Chapter 6, paragraph 19
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 16080b7f-c265-4241-8915-3f2a8f9e87de
+  claim_hash: 8d362798224e6e6fcf3401f98162d8a35a19ec12d74b53748afa9978166efb57
+  content: Daniel Sheehan is convinced the CIA Director denied President Carter a
+    briefing on UAPs, and that the briefing documents subsequently given to Carter
+    did not reveal the crashed craft images Sheehan claims he saw in the classified
+    Blue Book files.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Sheehan, Daniel
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    slug: project-blue-book
+  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+    title: Carter, Jimmy
+    slug: jimmy-carter
+  - node_id: f1c896e7-b9bb-47af-8e12-c0ff6e373d47
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Sheehan, Daniel
+    slug: daniel-sheehan
+  date: '1977'
+  date_end: null
+  location_in_record: Chapter 6, paragraph 21
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 21276b3d-9973-4575-96ac-377f06e46a78
+  claim_hash: ecabb99eb6de57d66e58f581f9983301863f8d12d267f36e69b3a2a7fb9ff877
+  content: Daniel Sheehan worked with Steven Greer vetting and legally representing
+    dozens of government and military witnesses who came forward at the Disclosure
+    Project National Press Club event in 2001.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ab3190cf-7fe2-43de-becf-488f960bf840
+    title: Disclosure Project 2001
+    slug: disclosure-project-2001
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Greer, Steven
+    slug: steven-greer
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Sheehan, Daniel
+    slug: daniel-sheehan
+  date: '2001'
+  date_end: null
+  location_in_record: Chapter 6, paragraph 21
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: ab1ec282-9e47-4a21-a603-e9a3dde3e8b0
+  claim_hash: 2444fa671de3496cac4fbc6b9071d65086f90bfd243282de0386576d763073af
+  content: In 1977, civil rights attorney Daniel Sheehan, while investigating what
+    the US Government knew about UFOs for President Jimmy Carter, discovered archival
+    photographs of a 'flying saucer' craft being retrieved by US military; the images
+    remain classified.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+    title: Carter, Jimmy
+    slug: jimmy-carter
+  - node_id: dca2ff64-1e5f-4f6c-876c-1329944995fa
+    title: Daniel Sheehan Blue Book Viewing
+    slug: daniel-sheehan-blue-book-viewing
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Sheehan, Daniel
+    slug: daniel-sheehan
+  date: '1977'
+  date_end: null
+  location_in_record: Photo Section caption 15
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: c1cdaa4f-dd1e-4251-ae9c-db5ae10f50d2
+  claim_hash: 2401cfc9014f9ba4c98c3a4443d8a3dd5886e014ca9c9029940b8547053ae29d
+  content: Daniel Sheehan has served as legal counsel for Luis Elizondo.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+    slug: luis-elizondo
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Sheehan, Daniel
+    slug: daniel-sheehan
+  date: null
+  date_end: null
+  location_in_record: Acknowledgments, paragraph 8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: dc8e7e9b-1be1-4a70-ac58-bef6a1964602
+  claim_hash: 2ceea3c765da0db5430225377d4b4aa3597d8f7b836039291732c89081210323
+  content: Daniel Sheehan is known by the nickname 'The People's Advocate'.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Sheehan, Daniel
+    slug: daniel-sheehan
+  date: null
+  date_end: null
+  location_in_record: Acknowledgments, paragraph 8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed

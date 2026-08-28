@@ -1,0 +1,1279 @@
+schema: anomalica/brief/1
+brief_hash: 8297661ed01934a5368694aef341a69d422e3877ff2ab6cb8ceb610484a545b0
+page:
+  kind: entity
+  node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+  node_type: project
+  title: Apollo 14
+  slug: apollo-14
+  claim_count: 31
+  claim_count_total: 31
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 59476464-a679-46ce-9247-b0adcb287762
+  title: Edgar Mitchell
+  node_type: person
+  slug: edgar-mitchell
+  shared_claims: 17
+- node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+  title: Ken Johnston
+  node_type: person
+  slug: ken-johnston
+  shared_claims: 7
+- node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+  title: The Spaceman
+  node_type: person
+  slug: the-spaceman
+  shared_claims: 7
+- node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+  title: Alan Shepard
+  node_type: person
+  slug: alan-shepard
+  shared_claims: 6
+- node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
+  title: Apollo 12
+  node_type: project
+  slug: apollo-12
+  shared_claims: 4
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 4
+- node_id: 685367bb-a13b-42f9-b706-613e8517e1ee
+  title: Apollo 14 landing, 1971
+  node_type: event
+  slug: 1971-apollo-14-landing
+  shared_claims: 2
+- node_id: 5994d3a9-ed93-4a00-8267-33e05e34aafb
+  title: AS14-66-9301 "Mitchell Under Glass" (Apollo 14 photograph)
+  node_type: document
+  slug: as14-66-9301-mitchell-under-glass-apollo-14-photograph
+  shared_claims: 1
+- node_id: b700ed0f-c9a8-4832-8295-f5d5eb2fa085
+  title: Ancient lunar dome hypothesis
+  node_type: topic
+  slug: ancient-lunar-dome-hypothesis
+  shared_claims: 1
+- node_id: 0810d173-c9d7-4b6e-85c5-816faa0fbae9
+  title: Antares (Apollo 14 Lunar Module)
+  node_type: object
+  slug: antares-apollo-14-lunar-module
+  shared_claims: 1
+- node_id: c43a35ec-a72d-4b83-92e7-00ff3d162195
+  title: Coast to Coast AM
+  node_type: document
+  slug: coast-to-coast-am
+  shared_claims: 1
+- node_id: c7c6c7da-5558-4a8c-acd3-2b4798c34ae7
+  title: Fra Mauro (Apollo 14 landing site)
+  node_type: place
+  slug: fra-mauro-apollo-14-landing-site
+  shared_claims: 1
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 1
+- node_id: c343da6b-4b14-4ada-96c3-42b8dbff22bf
+  title: Oceanus Procellarum
+  node_type: place
+  slug: oceanus-procellarum
+  shared_claims: 1
+- node_id: 4592ea5a-7396-4f70-8467-ac3d01058a48
+  title: Thornton Page
+  node_type: person
+  slug: thornton-page
+  shared_claims: 1
+- node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
+  title: gold visors (Apollo helmet visors)
+  node_type: object
+  slug: gold-visors-apollo-helmet-visors
+  shared_claims: 1
+claims:
+- claim_id: 4a578788-0f16-45b5-b3ac-882c9fc2c3af
+  claim_hash: d51a8fd60fd279083a56c01593de57f0d23904f6294e2a19d06fe199f529760e
+  content: In scanning Ken Johnston's Apollo 14 C-prints, Richard C. Hoagland discovered
+    that a computer could reveal geometric detail in the pitch black areas of the
+    lunar sky that the human eye could not see.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch11:103352-103544
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 9389b618-91af-4eeb-8c80-e5f38f09bba5
+  claim_hash: 2b5fa021179ec3f9268bc34e4ce2acb1d93bd845be118f153a11865af21ecf27
+  content: Richard C. Hoagland became more convinced that his lunar dome theory was
+    correct given that Apollo 14 and Apollo 12 had photographed the same crystalline
+    geometry in generally the same location.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
+    title: Apollo 12
+    slug: apollo-12
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  - node_id: b700ed0f-c9a8-4832-8295-f5d5eb2fa085
+    title: Ancient lunar dome hypothesis
+    slug: ancient-lunar-dome-hypothesis
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch11:106030-106287
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 51bf05ae-fd21-49e3-8be1-1649504c77bf
+  claim_hash: 261edbc43537b3256a29eac1229ca8665aed171162b109411d69beda0356dd48
+  content: The Apollo 14 and Apollo 12 landing sites are approximately 196 kilometres
+    apart.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
+    title: Apollo 12
+    slug: apollo-12
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: ch11:106226-106241
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 9ba2ec08-0532-4f87-8a76-5ae1f5bf505b
+  claim_hash: 193d95a4b7b0f6abf5c38b4d6c53ed36598f950f3b4ce82865e4b235763e2353
+  content: During the 1996 Hoagland-Mitchell debate on Coast to Coast AM with Apollo
+    14 astronaut Edgar Mitchell, Richard C. Hoagland considered that the distant lunar
+    ruins might have been very faint and further filtered by the gold visors worn
+    by the astronauts on the lunar surface.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
+    title: gold visors (Apollo helmet visors)
+    slug: gold-visors-apollo-helmet-visors
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  - node_id: c43a35ec-a72d-4b83-92e7-00ff3d162195
+    title: Coast to Coast AM
+    slug: coast-to-coast-am
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: '1996'
+  date_end: null
+  location_in_record: ch11:150096-150388
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c2dbbe9a-23d5-4e2b-9182-ccefd688b2c2
+  claim_hash: 76089d0521990881e5334351b4e7e46309b27f9b5bef07ee13a3b46a88b25bf0
+  content: Ken Johnston recounted that during Apollo 14, after the mission film was
+    processed at the NASA photo lab, he organised a private viewing for chief astronomer
+    Dr. Thornton Page and his associates.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ken Johnston
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4592ea5a-7396-4f70-8467-ac3d01058a48
+    title: Thornton Page
+    slug: thornton-page
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  date: null
+  date_end: null
+  location_in_record: ch11:78934-79231
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: dfbf7bfb-a969-434e-9864-4aa0eb80d0c4
+  claim_hash: 054cc4389e7ba37dbb165a987e1e609edc3884e5ac16432e91aad90abdbe68bf
+  content: Ken Johnston recalled setting up the Apollo 14 film in a sequence projector,
+    similar to a reversed gun camera, that allowed stopping, freeze-framing, forwarding,
+    reversing and zooming.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ken Johnston
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  date: null
+  date_end: null
+  location_in_record: ch11:79243-79482
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: acb09157-919c-4118-b0d6-bfafcae36685
+  claim_hash: 8cf5284fa62db1860f3af305e9b869401a029019d005472f919066e797ff736f
+  content: Ken Johnston recounted that during the Apollo 14 footage of the Moon's
+    backside, in the shadows of a large crater, a cluster of about five or six lights
+    was visible inside the crater's rim.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ken Johnston
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  date: null
+  date_end: null
+  location_in_record: ch11:79492-79794
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 95c2ab93-66a5-41d7-8c38-2341af42e231
+  claim_hash: c70e51dc3a5751ff4c8ef23470e8e1cfab69627eedf8dd5db34ef14e7274fdf2
+  content: Ken Johnston recounted that during the private viewing of Apollo 14 footage
+    of the far side of the Moon, as the spacecraft approached a large crater, the
+    sun angle meant the crater's shadowed interior covered about half the crater.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ken Johnston
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  date: null
+  date_end: null
+  location_in_record: ch11:79609-79932
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: fd72b636-ce0d-41e3-a8d3-7c624aaee29d
+  claim_hash: 4902161a7baceee457714665e54df11bec40fe5fa816aff2f239aff016c450df
+  content: Most of the prints in Ken Johnston's collection were from the Apollo 12
+    and Apollo 14 missions.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
+    title: Apollo 12
+    slug: apollo-12
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  date: null
+  date_end: null
+  location_in_record: ch11:91735-91906
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: fc765127-3627-43b5-94eb-5e8f151ad58b
+  claim_hash: 2cb14208005f8e0b37c06f4413ac9399442bb216b99b2209f8bc31de5a506093
+  content: The Apollo 12 and Apollo 14 landing sites were closer together than any
+    other Apollo landings, separated by approximately 196 kilometres in Oceanus Procellarum.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
+    title: Apollo 12
+    slug: apollo-12
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  - node_id: c343da6b-4b14-4ada-96c3-42b8dbff22bf
+    title: Oceanus Procellarum
+    slug: oceanus-procellarum
+  date: null
+  date_end: null
+  location_in_record: ch11:91959-92232
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 9420adcb-eaf3-456f-8f55-8562561b5e5f
+  claim_hash: 435a334cdfede668aa342a0690d5debea6e7c368700340e52115d9730f2d533b
+  content: Richard C. Hoagland discovered two untouched panoramas of the Apollo 14
+    landing site among Ken Johnston's photographs, each a mosaic of individual Hasselblad
+    images printed on two 8x10 glossies.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    slug: ken-johnston
+  - node_id: c7c6c7da-5558-4a8c-acd3-2b4798c34ae7
+    title: Fra Mauro (Apollo 14 landing site)
+    slug: fra-mauro-apollo-14-landing-site
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch11:93570-93735
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c45e53aa-b1bf-4fd7-8228-ca0408a0d814
+  claim_hash: da5d6a67b61702da2b7f817d7cd4c9f9af8642bdc8af5d42e2bca624464ee6bd
+  content: Alan Shepard underwent a secret and then-innovative inner-ear surgical
+    procedure that allowed him to command Apollo 14 to the Moon in 1971.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 685367bb-a13b-42f9-b706-613e8517e1ee
+    title: Apollo 14 landing, 1971
+    slug: 1971-apollo-14-landing
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: '1971'
+  date_end: null
+  location_in_record: ch19:34452-34583
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: d7a03f8c-b796-4237-9c59-a16e5f9e7d78
+  claim_hash: d94fd42fe147bb81ec11d9e240b9683861dec3525b6e34abd0d40c2510ac5659
+  content: During the last extra-vehicular activity of Apollo 14, Alan Shepard surprised
+    NASA and the nation on live television by taking the first golf shot on the Moon.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 685367bb-a13b-42f9-b706-613e8517e1ee
+    title: Apollo 14 landing, 1971
+    slug: 1971-apollo-14-landing
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: '1971-02-05'
+  date_end: null
+  location_in_record: ch19:34590-34807
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: e9bf340f-dc5d-4c26-804b-bac10119d765
+  claim_hash: 1557b6b509c051fb99f30d1274e9a458891b85391c7a4c8354363b52d943e07c
+  content: Only two Apollo 14 astronauts, Alan Shepard and Edgar Mitchell, landed
+    on the Moon, and each had one Hasselblad camera.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: ch19:36190-36332
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 2aaa09b3-55dd-4b26-86f9-311caaa19463
+  claim_hash: 06ab99be140dd38666dad0af427d566907ddb4331718ee7097ff80ad7164f485
+  content: Edgar Mitchell erected a colour television camera at the Apollo 14 landing
+    site two days before Alan Shepard's golf shot, and it broadcast a running sequence
+    of images to Earth in parallel with Shepard's live radio transmission.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 0810d173-c9d7-4b6e-85c5-816faa0fbae9
+    title: Antares (Apollo 14 Lunar Module)
+    slug: antares-apollo-14-lunar-module
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: '1971-02-05'
+  date_end: null
+  location_in_record: ch19:36582-36965
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 61287fc3-812c-4c3d-8045-4a0a4dd70685
+  claim_hash: f61fc51ee377b2c832f4aed6ea38cd94d3c96d56187e27ba6009717037ab85cb
+  content: Alan Shepard boasted during his live radio transmission of the Apollo 14
+    golf shot that the ball "went miles and miles."
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+  provenance_chain:
+    origin_kind: speaker
+    origin: Alan Shepard
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: '1971-02-05'
+  date_end: null
+  location_in_record: ch19:36976-37014
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 83e3e30b-fe6e-4481-8925-19e8273ad710
+  claim_hash: f3a3c46d5610405cb8254041c579e8b119e3463cb9bbd09f80ada094d013f46c
+  content: AS14-66-9301, known as "Mitchell under glass," is a real Apollo 14 photograph
+    taken by Alan Shepard of Edgar Mitchell setting up the television camera at the
+    beginning of their first lunar extra-vehicular activity.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+    title: Alan Shepard
+    slug: alan-shepard
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 5994d3a9-ed93-4a00-8267-33e05e34aafb
+    title: AS14-66-9301 "Mitchell Under Glass" (Apollo 14 photograph)
+    slug: as14-66-9301-mitchell-under-glass-apollo-14-photograph
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: '1971-02-05'
+  date_end: null
+  location_in_record: ch19:39378-39574
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: cca95f70-b9fa-4162-ae14-2adae45045ae
+  claim_hash: cd2325bba192dae9acf5111a066424d76a3d19bc3fbe2b0064c89f13ac8f70e0
+  content: Apollo 14 astronaut Edgar Mitchell piloted the lunar module on 5 February
+    1971, becoming the sixth man to walk on the Moon.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: '1971-02-05'
+  date_end: null
+  location_in_record: ch14:8412-8552
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: db38f3c5-b403-4b9c-95a2-503f3b18dea9
+  claim_hash: bdca4b1cc541c9e161843f0d315cf3105639a94a48077ecf9b5c516c4f0d1572
+  content: Edgar Mitchell dismissed the possibility that the blue lights he saw were
+    lens flares, reflections from inside the lunar module, or camera glitches, because
+    he saw them with his own eyes and later checked they appeared on film.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+  provenance_chain:
+    origin_kind: speaker
+    origin: Edgar Mitchell
+    relay:
+    - The Spaceman
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+    slug: the-spaceman
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: ch25:10159-10385
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5b679c65-a7fe-4865-baed-cbdeecabc868
+  claim_hash: 0cec1e06996349555af5dbb2045bd04e1d40454157d04543f5f6d8b8c4a2da5b
+  content: The Spaceman, who wishes to remain anonymous, was a very close friend of
+    Apollo 14 astronaut Edgar Mitchell.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+    slug: the-spaceman
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: ch25:2064-2211
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3c60b194-cb19-4631-910b-68ce15bc269a
+  claim_hash: ac634f8e2cfe48bbc7590c07ccd228ab821d908afd05da4e17dcd54b0cbf39ce
+  content: Privately, Edgar Mitchell confided to The Spaceman that he saw anomalous
+    objects during his Apollo 14 mission that he could not explain.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+  provenance_chain:
+    origin_kind: named
+    origin: Edgar Mitchell
+    relay:
+    - The Spaceman
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+    slug: the-spaceman
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: ch25:6903-7045
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 72407e94-cf18-498f-972b-8494ace077e6
+  claim_hash: d0cc1a4afc7de4ea0dc6ae09b8948e6cd1daf28345370baec7acc47bcdfe04dc
+  content: During his Apollo 14 mission, Edgar Mitchell saw anomalous well-defined
+    blue lights that appeared to have a structure behind them.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+  provenance_chain:
+    origin_kind: named
+    origin: Edgar Mitchell
+    relay:
+    - The Spaceman
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+    slug: the-spaceman
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: ch25:7434-7577
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 43b17135-ff09-4478-bf70-f4c211ae90a0
+  claim_hash: 1198c6eeb0930641b83f8bccb332f8967bf7d3426f603ab32e3bd78dc4d91342
+  content: A photograph taken outside the Apollo 14 lunar module on the Moon's surface
+    shows Edgar Mitchell posing in the foreground with a blue light hovering in the
+    distant blackness of space behind him.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: ch25:7592-7792
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9685e0a5-0402-4267-b92a-228d34e216e1
+  claim_hash: c066d561273dff117dabeb62772adc09b8ce59803b2e15fcf778262c77ad35c3
+  content: Edgar Mitchell told The Spaceman that critics would say the blue light
+    in the photograph was a lens artefact or a flare, but that he personally saw it
+    with his own eyes and did not believe that explanation.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+  provenance_chain:
+    origin_kind: named
+    origin: Edgar Mitchell
+    relay:
+    - The Spaceman
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+    slug: the-spaceman
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: ch25:7798-7934
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: abf4ebc2-ad5a-4df2-8ea0-bbca4e2bf399
+  claim_hash: 70de2d5e31e82893fca1165f731c65ca92aafa91d4553133bb37c8b5ab8a8840
+  content: High-resolution NASA lunar module film of the Apollo 14 return journey
+    from the Moon, taken as the lunar module waited for the command module to rotate
+    for docking, shows a trio of blue lights grouped in what looks like a dark triangular
+    shape to the left of the command module against the blackness of space.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: ch25:8070-8503
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e430d028-bfdb-4680-a795-a3a1b0c79b4f
+  claim_hash: 7ca07a16ddf65625a38ecb8b26509de391fe75aec0b7b9d006332fcc98e35032
+  content: Edgar Mitchell told The Spaceman that the same blue-light anomaly appeared
+    on two separate films from two separate cameras, anticipating claims it would
+    be dismissed as a lens flare or reflection.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+  provenance_chain:
+    origin_kind: named
+    origin: Edgar Mitchell
+    relay:
+    - The Spaceman
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+    slug: the-spaceman
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: ch25:8762-8965
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5bd209b4-54d0-460e-964c-2ed64e2ad452
+  claim_hash: bef460ab959e18f72d582086f18bdb8d22b771060a6a847a5cfab0bc5eacbdcf
+  content: The camera that photographed Edgar Mitchell on the lunar surface with the
+    mysterious blue light behind him remained on the Moon.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: ch25:8974-9097
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: aaa33b4f-fac4-48ff-a2bd-be6c79c47eeb
+  claim_hash: ad8c163be36d81db1b72211cde205e3ed189bb66394f0e635c228427aa8d7e9c
+  content: The camera that filmed the blue lights from the Apollo 14 lunar module
+    looking toward the command module returned to Earth with Edgar Mitchell.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: ch25:9103-9215
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a310ac0c-e354-4a52-a88b-8d7ffc29679f
+  claim_hash: 7f01eba42177407bff3b551ca05de9f23499009d59ea0d78369cd421a8a9bb97
+  content: There were no blue lights inside the Apollo 14 lunar module that could
+    have caused a reflection, as all interior lights were white.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: ch25:9225-9337
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5872a681-b95e-498e-91eb-bdc06694e0a6
+  claim_hash: f1d5e116082cb3b752a4e69be3cf687210579215360efa70f3d9ce55f7e30508
+  content: An object with a blue light was seen by Edgar Mitchell from Apollo 14's
+    Lunar Module just before docking with the Command Module.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+  provenance_chain:
+    origin_kind: speaker
+    origin: Edgar Mitchell
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: null
+  date_end: null
+  location_in_record: ch37:3772-3914
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e26da3fe-db13-421b-bad6-ace2ba1dbaf3
+  claim_hash: e9bd7a797eb8d766fba398f854285c921ddade94ef2263f48d7b73fee4a7a732
+  content: Edgar Mitchell always denied that he saw a UFO during his lunar mission,
+    but he told 'The Spaceman' that he saw strange objects throughout his lunar mission
+    in 1971.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+  provenance_chain:
+    origin_kind: named
+    origin: Edgar Mitchell
+    relay:
+    - The Spaceman
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+    slug: the-spaceman
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
+    title: Apollo 14
+    slug: apollo-14
+  date: '1971'
+  date_end: null
+  location_in_record: ch37:3923-4041
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted

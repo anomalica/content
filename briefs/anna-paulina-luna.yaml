@@ -1,0 +1,899 @@
+schema: anomalica/brief/1
+brief_hash: 614aec18971525a0f6fd47a14d948ae3ca8fbef0f91f21f79b734ea7651d8d7a
+page:
+  kind: entity
+  node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+  node_type: person
+  title: Anna Paulina Luna
+  slug: anna-paulina-luna
+  claim_count: 18
+  claim_count_total: 18
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+  title: Tim Burchett
+  node_type: person
+  slug: tim-burchett
+  shared_claims: 7
+- node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+  title: Matt Gaetz
+  node_type: person
+  slug: matt-gaetz
+  shared_claims: 5
+- node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+  title: Eric Burlison
+  node_type: person
+  slug: eric-burlison
+  shared_claims: 4
+- node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+  title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+  node_type: event
+  slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+  shared_claims: 3
+- node_id: 1ef2907b-d608-4a71-b164-05ea785b5765
+  title: USA, Florida, Eglin Air Force Base
+  node_type: place
+  slug: florida-eglin-air-force-base-usa
+  shared_claims: 3
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 3
+- node_id: f813951c-0161-4bab-ad93-06d5511adf8b
+  title: Alexandria Ocasio-Cortez
+  node_type: person
+  slug: alexandria-ocasio-cortez
+  shared_claims: 2
+- node_id: 1017eefe-05d5-4310-bc45-827bb449863f
+  title: Andrew Ogles
+  node_type: person
+  slug: andrew-ogles
+  shared_claims: 2
+- node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+  title: Glenn Grothman
+  node_type: person
+  slug: glenn-grothman
+  shared_claims: 2
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 2
+- node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
+  title: 2024 United States congressional hearing on UAPs (13 November)
+  node_type: event
+  slug: 2024-united-states-congressional-hearing-on-uaps-13-november
+  shared_claims: 1
+- node_id: dd625f67-d16a-4389-8a44-45fd7b791519
+  title: Congressional Unidentified Aerial Phenomena (UAP) Caucus
+  node_type: organisation
+  slug: congressional-unidentified-aerial-phenomena-uap-caucus
+  shared_claims: 1
+- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+  title: David Charles Grusch
+  node_type: person
+  slug: david-charles-grusch
+  shared_claims: 1
+- node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+  title: Donald Trump
+  node_type: person
+  slug: donald-trump
+  shared_claims: 1
+- node_id: de3e896e-c2b5-4cd6-8507-dd4f3acf4486
+  title: James Comer
+  node_type: person
+  slug: james-comer
+  shared_claims: 1
+- node_id: cb9ba091-aeb7-41fd-8753-15754baa8762
+  title: Jamie Raskin
+  node_type: person
+  slug: jamie-raskin
+  shared_claims: 1
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 1
+- node_id: 4d8a72a4-7ecf-4d18-b634-573e09b75b4f
+  title: Nick Langworthy
+  node_type: person
+  slug: nick-langworthy
+  shared_claims: 1
+- node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+  title: Phil McGraw
+  node_type: person
+  slug: phil-mcgraw
+  shared_claims: 1
+- node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+  title: Project MKUltra (MKUltra)
+  node_type: project
+  slug: project-mkultra-mkultra
+  shared_claims: 1
+- node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+  title: Stephen Miller
+  node_type: person
+  slug: stephen-miller
+  shared_claims: 1
+- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+  title: United States Congress
+  node_type: organisation
+  slug: united-states-congress
+  shared_claims: 1
+- node_id: 240453b5-254d-479a-a39f-4340fec022c8
+  title: United States House Committee on Oversight and Accountability
+  node_type: organisation
+  slug: united-states-house-committee-on-oversight-and-accountability
+  shared_claims: 1
+claims:
+- claim_id: 771089ea-4d90-4e9c-979c-a78b450716cc
+  claim_hash: 97b4736681ef703ffda33668e6fccd221ef4858428b1eb63da5a60845c034591
+  content: If not for Matt Gaetz's involvement, Tim Burchett, Anna Paulina Luna, and
+    Eric Burlison would still be at Eglin Air Force Base trying to get answers about
+    UAP.
+  original_excerpt: it is not in my notes here but Matt Gaetz—if it had not been for
+    Matt Gaetz, myself, him, and Luna would still be down at Eglin Air Force Base
+    trying to get some answers.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+    title: Tim Burchett
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tim Burchett
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  - node_id: 1ef2907b-d608-4a71-b164-05ea785b5765
+    title: USA, Florida, Eglin Air Force Base
+    slug: florida-eglin-air-force-base-usa
+  - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+    title: Matt Gaetz
+    slug: matt-gaetz
+  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+    title: Tim Burchett
+    slug: tim-burchett
+  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+    title: Eric Burlison
+    slug: eric-burlison
+  date: null
+  date_end: null
+  location_in_record: char:10458-10620
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 9725d5f4-e744-4876-a353-c6064d8da600
+  claim_hash: fc9578813e32fa44b7037bc9da650c8b2ded760fa2174bc82f13cf60db8206d0
+  content: Tim Burchett, Matt Gaetz, Anna Paulina Luna, and Eric Burlison visited
+    Eglin Air Force Base to try to get answers on UAP.
+  original_excerpt: if it had not been for Matt Gaetz, myself, him, and Luna would
+    still be down at Eglin Air Force Base trying to get some answers.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+    title: Tim Burchett
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tim Burchett
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  - node_id: 1ef2907b-d608-4a71-b164-05ea785b5765
+    title: USA, Florida, Eglin Air Force Base
+    slug: florida-eglin-air-force-base-usa
+  - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+    title: Matt Gaetz
+    slug: matt-gaetz
+  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+    title: Tim Burchett
+    slug: tim-burchett
+  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+    title: Eric Burlison
+    slug: eric-burlison
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:10500-10620
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: b109fc08-0df9-41e8-8f67-716f6ff7dd49
+  claim_hash: 3db0c4579fc904183b37889fd8976179a165122f578c7ccaba4cedc84a9baa64
+  content: Matt Gaetz sought a briefing about the Eglin Air Force Base UAP incident
+    and brought Tim Burchett and Anna Paulina Luna with him.
+  original_excerpt: I sought a briefing regarding that episode and brought with me
+    Congressman Burchett and Congresswoman Luna.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+    title: Matt Gaetz
+  provenance_chain:
+    origin_kind: speaker
+    origin: Matt Gaetz
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  - node_id: 1ef2907b-d608-4a71-b164-05ea785b5765
+    title: USA, Florida, Eglin Air Force Base
+    slug: florida-eglin-air-force-base-usa
+  - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+    title: Matt Gaetz
+    slug: matt-gaetz
+  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+    title: Tim Burchett
+    slug: tim-burchett
+  date: null
+  date_end: null
+  location_in_record: char:111658-111760
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: f984cfbf-a4f3-4551-9908-a6177f78c2eb
+  claim_hash: eb3a4f4bb4e6b42f3158eb22e05e4929bdcc741f46573bd9a6818c67c732c78d
+  content: Glenn Grothman thanked Tim Burchett and Anna Paulina Luna for bringing
+    the topic of Unidentified Anomalous Phenomena to the House Committee on Oversight
+    and Accountability's attention.
+  original_excerpt: I would like to one more time thank Mr. Burchett and Ms. Luna
+    for bringing this to our attention.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Glenn Grothman
+  provenance_chain:
+    origin_kind: speaker
+    origin: Glenn Grothman
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    slug: united-states-house-committee-on-oversight-and-accountability
+  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+    title: Tim Burchett
+    slug: tim-burchett
+  - node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Glenn Grothman
+    slug: glenn-grothman
+  date: null
+  date_end: null
+  location_in_record: char:146912-146999
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: cddd0cf8-288c-402c-8a7b-413793fb1fd9
+  claim_hash: e2170516a9ffbeb6465cdcfc9da06719f6f4e005800ad91c089910d84876d557
+  content: One poll found that 68 percent of Americans believe that the government
+    is hiding information about UAP and not being honest about what it knows about
+    them.
+  original_excerpt: One poll, in particular, found that 68 percent of Americans believe
+    that the government is hiding information about UAPs and not being honest about
+    what we know about them
+  claim_type: measurement
+  attestation: second_hand
+  speaker:
+    node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+  provenance_chain:
+    origin_kind: document
+    origin: an unnamed poll on UAP transparency
+    relay:
+    - Anna Paulina Luna
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:15402-15569
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 45c2ef01-45d4-436c-b11f-71f4f3ec0bcb
+  claim_hash: c5d9739f3dce7bd8a7a0b45f0e169d60cbe9de1363058902ab7543dc9ad29668
+  content: Another poll found that nearly half of Americans believe the Federal Government
+    is doing a very bad or somewhat bad job of dealing with reports of UFO sightings.
+  original_excerpt: Another poll found that nearly half of Americans believe that
+    the Federal Government is doing a very bad or somewhat bad job of dealing with
+    reports of UFO sightings.
+  claim_type: measurement
+  attestation: second_hand
+  speaker:
+    node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+  provenance_chain:
+    origin_kind: document
+    origin: an unnamed poll on Federal Government handling of UFO reports
+    relay:
+    - Anna Paulina Luna
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:15632-15788
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 9fd956f7-eb19-41b5-8a47-c0661b6bafed
+  claim_hash: e10c70ca52c77efaa528941abb7e5e8acd69f06faac9dedbb5ce2119978117e0
+  content: Anna Paulina Luna, while serving as an active-duty service member working
+    on an airfield, had conversations with pilots who were in fear of coming forward
+    about UAP sightings due to fear of retribution or being taken off flight status.
+  original_excerpt: In being an active-duty service member working on an airfield,
+    I have had conversations with many pilots where they were in fear of coming forward
+    for retribution and/or being taken off flight status.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+  provenance_chain:
+    origin_kind: speaker
+    origin: Anna Paulina Luna
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:16544-16737
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: c2505fa1-a887-4c55-98bf-ea49691be6a3
+  claim_hash: fab720cd8ec86616b4487d26dbb7f45db5d45117a54ee2f4dd7f8c50a2f4f136
+  content: Over 20 percent of Americans have reported having seen UFOs or UAP.
+  original_excerpt: They have also done nothing to calm the concerns of over 20 percent
+    of Americans who have reported to have seen UFOs or UAPs.
+  claim_type: measurement
+  attestation: null
+  speaker:
+    node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay:
+    - Anna Paulina Luna
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:16831-16951
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 493576cf-9e43-4417-93c8-5674b6d6b1d9
+  claim_hash: f660d49973833fcf58cb08c1e3d9f329c6402cd71f31bcaba26635f838355ea6
+  content: Members of Congress were denied access to a classified briefing in a Sensitive
+    Compartmented Information Facility (SCIF) prior to the 2023-07-26 House hearing
+    on Unidentified Anomalous Phenomena, due to the requirements to grant David Grusch
+    temporary clearance to witness.
+  original_excerpt: we were even denied access to a classified briefing in a SCIF
+    prior to this hearing due to the amount of hoops that we had to jump through to
+    grant temporary clearance to witness Grusch, who has knowledge of classified information.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+  provenance_chain:
+    origin_kind: speaker
+    origin: Anna Paulina Luna
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+    title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+    slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:17387-17606
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 1d9857d3-4ef7-4332-9c01-ea990c6b0b1f
+  claim_hash: 4de3ad0a05773d85414d4036baac174c49db9893f3c4f5db2522ed798b6f4e7d
+  content: David Grusch has knowledge of classified information.
+  original_excerpt: due to the amount of hoops that we had to jump through to grant
+    temporary clearance to witness Grusch, who has knowledge of classified information.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+  provenance_chain:
+    origin_kind: speaker
+    origin: Anna Paulina Luna
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: char:17471-17606
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: c1ffe66f-44ad-454e-9da3-c137060f20b5
+  claim_hash: b7e44f8e807d0097765051591663832168827bcbfca194fed9f6bd5638bf5d7e
+  content: Representatives Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy,
+    Raskin, and Ocasio-Cortez were also present at the 2023-07-26 House hearing on
+    Unidentified Anomalous Phenomena.
+  original_excerpt: 'Also present: Representatives Luna, Burlison, Gaetz, Burchett,
+    Comer, Ogles, Langworthy, Raskin, and Ocasio-Cortez.'
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: the printed hearing volume
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1017eefe-05d5-4310-bc45-827bb449863f
+    title: Andrew Ogles
+    slug: andrew-ogles
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  - node_id: 4d8a72a4-7ecf-4d18-b634-573e09b75b4f
+    title: Nick Langworthy
+    slug: nick-langworthy
+  - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+    title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+    slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+  - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+    title: Matt Gaetz
+    slug: matt-gaetz
+  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+    title: Tim Burchett
+    slug: tim-burchett
+  - node_id: cb9ba091-aeb7-41fd-8753-15754baa8762
+    title: Jamie Raskin
+    slug: jamie-raskin
+  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+    title: Eric Burlison
+    slug: eric-burlison
+  - node_id: de3e896e-c2b5-4cd6-8507-dd4f3acf4486
+    title: James Comer
+    slug: james-comer
+  - node_id: f813951c-0161-4bab-ad93-06d5511adf8b
+    title: Alexandria Ocasio-Cortez
+    slug: alexandria-ocasio-cortez
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:5085-5193
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 935ed13e-4329-4d08-80c6-2788a588a6d6
+  claim_hash: 5f92b778a6418a9c9665892db62ff319e8dd62efa72e6c47b185aab1d648d67c
+  content: Glenn Grothman waived Tim Burchett, Anna Paulina Luna, Matt Gaetz, Eric
+    Burlison, Alexandria Ocasio-Cortez, and Andy Ogles onto the Subcommittee for the
+    purpose of participating in the 2023-07-26 hearing.
+  original_excerpt: 'Additionally, without objection, the following Members are waived
+    on to the Subcommittee for the purpose of participating in today''s hearing: Mr.
+    Burchett of Tennessee, Ms. Luna of Florida, Mr. Gaetz of Florida, Mr. Burlison
+    of Missouri, Ms. Ocasio-Cortez of New York, and Mr. Ogles of Tennessee.'
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Glenn Grothman
+  provenance_chain:
+    origin_kind: speaker
+    origin: Glenn Grothman
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1017eefe-05d5-4310-bc45-827bb449863f
+    title: Andrew Ogles
+    slug: andrew-ogles
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+    title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+    slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+  - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+    title: Matt Gaetz
+    slug: matt-gaetz
+  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+    title: Tim Burchett
+    slug: tim-burchett
+  - node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Glenn Grothman
+    slug: glenn-grothman
+  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+    title: Eric Burlison
+    slug: eric-burlison
+  - node_id: f813951c-0161-4bab-ad93-06d5511adf8b
+    title: Alexandria Ocasio-Cortez
+    slug: alexandria-ocasio-cortez
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:5382-5668
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 642c7c22-f37a-4ef2-a0a7-017823384ca9
+  claim_hash: 30527e748e87e7f67e7d45d57476981ee789e9e42febb111b1e157d12ec788fb
+  content: On 2023-04-19, Sean Kirkpatrick, head of the All-Domain Anomaly Resolution
+    Office (AARO), stated that he did not find any evidence of unidentified anomalous
+    phenomena.
+  original_excerpt: On the 19th of April, Dr. Kirkpatrick, head of AARO, had said
+    that he did not find any evidence of UAPs.
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+  provenance_chain:
+    origin_kind: named
+    origin: Sean Kirkpatrick
+    relay:
+    - Anna Paulina Luna
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+    title: Sean Kirkpatrick
+    slug: sean-kirkpatrick
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    slug: all-domain-anomaly-resolution-office-aaro
+  date: '2023-04-19'
+  date_end: null
+  location_in_record: char:71855-71954
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: aac17227-c68e-4bd7-84c6-db38d114f85f
+  claim_hash: dcf5c91b9952b83906d603998d24b9040e0b17d5442dae14ae707b9e17cdcef6
+  content: Anna Paulina Luna asked Lou Elizondo at the 2024 United States congressional
+    hearing on UAPs (13 November) whether it is likely that non-human biologics piloting
+    aircraft are connected via a mind-body connection.
+  original_excerpt: Mr. Elizondo, in regards to these aircraft being piloted by whatever
+    they might be non-human biologics, are you, would you agree that it's likely that
+    they are being piloted by some mind-body connection?
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+  provenance_chain:
+    origin_kind: speaker
+    origin: Anna Paulina Luna
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
+    title: 2024 United States congressional hearing on UAPs (13 November)
+    slug: 2024-united-states-congressional-hearing-on-uaps-13-november
+  date: '2024-11-13'
+  date_end: null
+  location_in_record: 00:12:16.0-00:12:30.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+    record_title: UAPs in Washington - I wasn't supposed to be there..
+    record_date: '2024-11-24'
+    record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+    content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+    friendly_name: null
+- claim_id: a1e90b5b-97f0-44bb-86f1-b83151a3b0f0
+  claim_hash: 318e197e22d64fb6464478cd272d6469029fa3a6907e4c5271ba2341764216b8
+  content: As of the recording, it remained unknown whether Representative Anna Paulina
+    Luna would gain access to the approximately 46 requested videos from the Defense
+    Department.
+  original_excerpt: we're still waiting to find out whether Representative Anna Paulina
+    Luna... find out whether or not she's going to get access to those videos.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  date: '2026-08-10'
+  date_end: null
+  location_in_record: 01:00:13.7-01:00:17.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null
+- claim_id: 5821471e-86ed-48ee-a4a7-a7f87aecb9aa
+  claim_hash: b027a4acce41763c2c605b8418c3f7c9e706776695ed6656797f65e5f4229ae8
+  content: Representative Anna Paulina Luna, one of the principals of the UAP Caucus,
+    has been pushing for the disclosure of approximately 46 videos requested from
+    the Defense Department.
+  original_excerpt: Representative Anna Paulina Luna, who's one of the principles
+    of the UAP caucus, doing a heroic job in pushing for the disclosure of about 46
+    videos that have been requested from the Defense Department
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  - node_id: dd625f67-d16a-4389-8a44-45fd7b791519
+    title: Congressional Unidentified Aerial Phenomena (UAP) Caucus
+    slug: congressional-unidentified-aerial-phenomena-uap-caucus
+  date: null
+  date_end: null
+  location_in_record: 01:00:15.5-01:00:27.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null
+- claim_id: a6e0834d-0578-428c-9fcb-873040a56277
+  claim_hash: 98165398f373144cb89c2775ce34569b7a22bb91b9a6d9bc8ccee96e282d83e1
+  content: Anna Paulina Luna chaired a recent congressional hearing about Project
+    MKUltra.
+  original_excerpt: And Chairwoman Lunar had a hearing about it recently.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+    title: Project MKUltra (MKUltra)
+    slug: project-mkultra-mkultra
+  date: null
+  date_end: null
+  location_in_record: 00:11:27.3-00:11:31.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null
+- claim_id: 7e837b4f-a5d6-4671-9c49-b4dbf3980b11
+  claim_hash: f6ba8a1552cc91472bcf61f6d4f8c5964bb4d99ac3884eef0bdc2d4039319220
+  content: Phil McGraw has discussed the Unidentified Aerial Phenomena (UAP) subject
+    with Donald Trump, Stephen Miller, Tim Burchett and Anna Paulina Luna.
+  original_excerpt: And I've discussed this with the president. I've discussed it
+    with Stephen Miller. I've discussed it with Representative Burchard and Luna.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+    title: Phil McGraw
+  provenance_chain:
+    origin_kind: speaker
+    origin: Phil McGraw
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    slug: anna-paulina-luna
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+    title: Tim Burchett
+    slug: tim-burchett
+  - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+    title: Stephen Miller
+    slug: stephen-miller
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    slug: donald-trump
+  - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+    title: Phil McGraw
+    slug: phil-mcgraw
+  date: null
+  date_end: null
+  location_in_record: 00:47:40.5-00:47:51.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null

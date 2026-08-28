@@ -1,0 +1,228 @@
+schema: anomalica/brief/1
+brief_hash: 25e8e906eb19e25dd824559bd0feaf909b5ed196c4a8fdbd00954f13d5392cd7
+page:
+  kind: entity
+  node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+  node_type: person
+  title: Rennenkampff, Marik von
+  slug: marik-von-rennenkampff
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: 349ebc81-ebfb-4382-b471-c52aa90845f8
+  title: Bureau of International Security and Nonproliferation
+  node_type: organisation
+  slug: bureau-of-international-security-and-nonproliferation
+  shared_claims: 1
+- node_id: 05d9e009-f34e-4d32-b220-b4f20c52eee5
+  title: The Hill
+  node_type: organisation
+  slug: the-hill
+  shared_claims: 1
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 1
+- node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
+  title: United States Department of the Navy
+  node_type: organisation
+  slug: united-states-department-of-the-navy
+  shared_claims: 1
+claims:
+- claim_id: ec8db048-627f-4410-b11c-92b45a3f6161
+  claim_hash: b189fb2318e81e64e7643e5f12f0e4edcb899f41c90a98a9fd3444824245a43e
+  content: David Grusch has not provided proof of his allegations.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+    title: Rennenkampff, Marik von
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: f4ef4f38-6d19-4805-a720-3f03dff67602
+    title: Grusch, David
+    slug: david-grusch
+  date: null
+  date_end: null
+  location_in_record: line 21
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+    record_title: Claims that UFO information was inappropriately withheld from Congress
+      deemed ‘credible,’ ‘urgent’
+    record_date: '2023-06-09'
+    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+    content_hash: sha256:ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afaec39dc71
+    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+  excerpt_withheld: unknown
+- claim_id: 2b41b60d-2043-47ea-a1e0-b2a01afb36a9
+  claim_hash: 54b18acb9098ff9d54a95ee1a9f1ef33a36fc1c3dba5ff5861a50de7c2901db7
+  content: From what is known publicly, David Grusch is making use of the well-established,
+    legally protected whistleblower process rather than conducting a Daniel Ellsberg-style
+    leak of highly classified information.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+    title: Rennenkampff, Marik von
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e84e1f1e-84bb-439a-bdbe-1f56af133aa6
+    title: Ellsberg, Daniel
+    slug: daniel-ellsberg
+  - node_id: f4ef4f38-6d19-4805-a720-3f03dff67602
+    title: Grusch, David
+    slug: david-grusch
+  date: null
+  date_end: null
+  location_in_record: line 27
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+    record_title: Claims that UFO information was inappropriately withheld from Congress
+      deemed ‘credible,’ ‘urgent’
+    record_date: '2023-06-09'
+    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+    content_hash: sha256:ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afaec39dc71
+    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+  excerpt_withheld: unknown
+- claim_id: 0385cddd-3a2f-4ab8-8c90-94d8991ca8cc
+  claim_hash: cc5e47e270ebea5d7c7a32116765c2aacc0e88267c5478f89fc8e5eec428804e
+  content: Marik von Rennenkampff is a former top secret security clearance holder.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+    title: Rennenkampff, Marik von
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+    title: Rennenkampff, Marik von
+    slug: marik-von-rennenkampff
+  date: null
+  date_end: null
+  location_in_record: line 27
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+    record_title: Claims that UFO information was inappropriately withheld from Congress
+      deemed ‘credible,’ ‘urgent’
+    record_date: '2023-06-09'
+    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+    content_hash: sha256:ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afaec39dc71
+    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+  excerpt_withheld: unknown
+- claim_id: 2c7f119d-6159-4b8a-8ad1-0770e175689a
+  claim_hash: c1a45457b7f92142a31e09668123ca763e28059246faafc327b17fb0dfb83073
+  content: Marik von Rennenkampff served as an Obama administration appointee at the
+    United States Department of Defense.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+    title: Rennenkampff, Marik von
+    slug: marik-von-rennenkampff
+  date: null
+  date_end: null
+  location_in_record: line 51
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+    record_title: Claims that UFO information was inappropriately withheld from Congress
+      deemed ‘credible,’ ‘urgent’
+    record_date: '2023-06-09'
+    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+    content_hash: sha256:ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afaec39dc71
+    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+  excerpt_withheld: unknown
+- claim_id: 57ea8df9-d337-43d9-a47e-7f646e0e73f1
+  claim_hash: 114c54ba6a922901357fda6d6dd944650f5da1c44231fe3086e683bf7dedd858
+  content: Marik von Rennenkampff served as an analyst with the United States Department
+    of State's Bureau of International Security and Nonproliferation.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 349ebc81-ebfb-4382-b471-c52aa90845f8
+    title: Bureau of International Security and Nonproliferation
+    slug: bureau-of-international-security-and-nonproliferation
+  - node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+    title: Rennenkampff, Marik von
+    slug: marik-von-rennenkampff
+  - node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
+    title: United States Department of the Navy
+    slug: united-states-department-of-the-navy
+  date: null
+  date_end: null
+  location_in_record: line 51
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+    record_title: Claims that UFO information was inappropriately withheld from Congress
+      deemed ‘credible,’ ‘urgent’
+    record_date: '2023-06-09'
+    record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+    content_hash: sha256:ee8b31a4c86710d6c640e420e8e6e03b1c8ba6f46267d4746e997afaec39dc71
+    friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+  excerpt_withheld: unknown
+- claim_id: 877c8e06-c7ee-4e21-a3cf-f26c42bb33fe
+  claim_hash: 67845cf3c609256836270695f611122b9cccd2325942fc609e6a91cc79fd2b7a
+  content: Marik von Rennenkampff is an investigative journalist at The Hill.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 05d9e009-f34e-4d32-b220-b4f20c52eee5
+    title: The Hill
+    slug: the-hill
+  - node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+    title: Rennenkampff, Marik von
+    slug: marik-von-rennenkampff
+  date: null
+  date_end: null
+  location_in_record: Acknowledgments, paragraph 8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed

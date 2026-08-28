@@ -1,0 +1,1199 @@
+schema: anomalica/brief/1
+brief_hash: 58ca1e4a45545706f49bef31617b3b04647f59391472d7a74080568babdb4bb3
+page:
+  kind: entity
+  node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+  node_type: person
+  title: William J. Clinton
+  slug: william-j-clinton
+  claim_count: 27
+  claim_count_total: 27
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+  title: John Podesta
+  node_type: person
+  slug: john-podesta
+  shared_claims: 5
+- node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+  title: Barack Obama
+  node_type: person
+  slug: barack-obama
+  shared_claims: 4
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 3
+- node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+  title: Assassination of John F. Kennedy
+  node_type: event
+  slug: assassination-of-john-f-kennedy
+  shared_claims: 2
+- node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+  title: Hillary Clinton
+  node_type: person
+  slug: hillary-clinton
+  shared_claims: 2
+- node_id: ea8ea587-d42e-4dc4-83b4-3804488fe215
+  title: Jimmy Kimmel Live
+  node_type: document
+  slug: jimmy-kimmel-live
+  shared_claims: 2
+- node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+  title: Jonathan Caplan
+  node_type: person
+  slug: jonathan-caplan
+  shared_claims: 2
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 2
+- node_id: 4f348344-3469-496e-88e0-51e12603c5bf
+  title: Webster Hubbell
+  node_type: person
+  slug: webster-hubbell
+  shared_claims: 2
+- node_id: be164183-f1cf-461d-be1d-53fc0b830a84
+  title: 1947 Roswell Unidentified Aerial Phenomena (UAP) crash
+  node_type: event
+  slug: 1947-roswell-unidentified-aerial-phenomena-uap-crash
+  shared_claims: 1
+- node_id: 3c140cbe-42ad-4ff7-8132-11b3073e99db
+  title: 1995 General Accounting Office review of the Roswell incident
+  node_type: event
+  slug: 1995-general-accounting-office-review-of-the-roswell-incident
+  shared_claims: 1
+- node_id: 167b9461-2288-4c48-b9b5-7b798d883f4f
+  title: 2015-03 Obama Jimmy Kimmel Live interview on aliens
+  node_type: event
+  slug: 2015-03-obama-jimmy-kimmel-live-interview-on-aliens
+  shared_claims: 1
+- node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+  title: Bobby Inman
+  node_type: person
+  slug: bobby-inman
+  shared_claims: 1
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 1
+- node_id: db7bbf0d-f11e-4f91-aa05-29771dab68b7
+  title: Environmental Protection Agency (EPA)
+  node_type: organisation
+  slug: environmental-protection-agency-epa
+  shared_claims: 1
+- node_id: 818a10c9-e3e1-4110-b544-e1ca790fcfbd
+  title: Executive Order 12958
+  node_type: document
+  slug: executive-order-12958
+  shared_claims: 1
+- node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+  title: George Herbert Walker Bush
+  node_type: person
+  slug: george-herbert-walker-bush
+  shared_claims: 1
+- node_id: f273bab6-92d0-446a-b0a4-9d3988248228
+  title: James Woolsey
+  node_type: person
+  slug: james-woolsey
+  shared_claims: 1
+- node_id: 898c410a-7789-4762-b6dd-1139ced89658
+  title: Jimmy Carter
+  node_type: person
+  slug: jimmy-carter
+  shared_claims: 1
+- node_id: f657fb13-198a-45d6-9530-253f2784f9d2
+  title: Laurance Rockefeller
+  node_type: person
+  slug: laurance-rockefeller
+  shared_claims: 1
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 1
+- node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+  title: Ross Coulthart
+  node_type: person
+  slug: ross-coulthart
+  shared_claims: 1
+- node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+  title: Roswell incident (1947)
+  node_type: event
+  slug: roswell-incident-1947
+  shared_claims: 1
+- node_id: 8736cf6e-83e1-4516-b984-510af3062c7b
+  title: Sandy Berger
+  node_type: person
+  slug: sandy-berger
+  shared_claims: 1
+- node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
+  title: Sensitive Compartmented Information Facility (SCIF)
+  node_type: topic
+  slug: sensitive-compartmented-information-facility-scif
+  shared_claims: 1
+- node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
+  title: Space Exploration Initiative (SEI)
+  node_type: project
+  slug: space-exploration-initiative-sei
+  shared_claims: 1
+- node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+  title: Space Shuttle Columbia
+  node_type: object
+  slug: space-shuttle-columbia
+  shared_claims: 1
+- node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+  title: Steven Greer
+  node_type: person
+  slug: steven-greer
+  shared_claims: 1
+- node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+  title: The White House
+  node_type: organisation
+  slug: the-white-house
+  shared_claims: 1
+- node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+  title: USA, District of Columbia, Washington
+  node_type: place
+  slug: district-of-columbia-washington-usa
+  shared_claims: 1
+claims:
+- claim_id: 2cdf6062-e697-4622-ab4c-2d24ca982a0a
+  claim_hash: 7373c5f3ece3a2895e3565ca94704fe14792b6b619a4c05ba476fb7a4d0581d8
+  content: A White House press release issued in 1993 on the occasion of President
+    Bill Clinton's recommendation that Bobby Inman be confirmed as Secretary of Defense
+    noted that Inman won the Distinguished Service Medal, the Navy's highest non-combatant
+    award.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: White House press release on Bobby Inman nomination, 1993
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4a2bb43b-aefc-44d2-8ac8-822267983bd1
+    title: White House press release on Bobby Inman nomination, 1993
+    slug: 1993-white-house-press-release-on-bobby-inman-nomination
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+    title: Bobby Inman
+    slug: bobby-inman
+  date: '1993'
+  date_end: null
+  location_in_record: ch14:22901-23164
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 5745724a-4361-490c-8fd0-0690ceef489f
+  claim_hash: ff0f56016d032d130a528409bba1df9933718ef5f3e5788724a15f7e5ceefd11
+  content: NASA switched to an environmentally friendly external tank insulating foam
+    in 1996 to appease the Clinton administration's Environmental Protection Agency,
+    and had experienced trouble with it ever since.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+    title: Space Shuttle Columbia
+    slug: space-shuttle-columbia
+  - node_id: db7bbf0d-f11e-4f91-aa05-29771dab68b7
+    title: Environmental Protection Agency (EPA)
+    slug: environmental-protection-agency-epa
+  date: '1996'
+  date_end: null
+  location_in_record: ch17:94893-95112
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 154436ee-e289-4bb7-872c-f8942c6083a5
+  claim_hash: f32d52a2838fbb28edcc04f9cc4b957e90fd8163ae80b09bcf106b767827ada5
+  content: George Herbert Walker Bush proposed the Space Exploration Initiative in
+    1989, which met resistance over its large budgetary requirements and was subsequently
+    killed by his successor, President Bill Clinton.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
+    title: Space Exploration Initiative (SEI)
+    slug: space-exploration-initiative-sei
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+    title: George Herbert Walker Bush
+    slug: george-herbert-walker-bush
+  date: '1989'
+  date_end: null
+  location_in_record: ch19:1259-1547
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: ba58875b-e22d-4cfc-8f79-c77d046ba64e
+  claim_hash: 01f152b6989640b857c1c47ad1c3e3be15b13819a464e343c0d8e8638eeb52bb
+  content: When Bill Clinton became president in 1993, he asked questions about UAPs,
+    just as Jimmy Carter had done in 1977.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+    title: Jimmy Carter
+    slug: jimmy-carter
+  date: '1993'
+  date_end: null
+  location_in_record: ch14:104-212
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
+  claim_hash: 1c0c1b4622e2eac373a2c01aa2be82f2c7586c2cbdb7a735277527e89cceb39f
+  content: On entering the White House in 1993, both Bill Clinton and Hillary Clinton
+    took a strong interest in UAPs.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+    title: Hillary Clinton
+    slug: hillary-clinton
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  date: '1993'
+  date_end: null
+  location_in_record: ch14:1424-1540
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3df658f8-ae37-4065-bd87-f55e38d1eebe
+  claim_hash: 71be9221588d47566091324083f8939b79cd253ef4c568a347984a22c1503f1f
+  content: After lobbying from billionaire businessman and UAP believer Laurance Rockefeller,
+    President Bill Clinton ordered his new CIA Director James Woolsey to release more
+    of the files on UAPs.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: f273bab6-92d0-446a-b0a4-9d3988248228
+    title: James Woolsey
+    slug: james-woolsey
+  - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
+    title: Laurance Rockefeller
+    slug: laurance-rockefeller
+  date: '1993'
+  date_end: null
+  location_in_record: ch14:1550-1726
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a85aa7ce-bc27-482a-90eb-42fc1434d3e7
+  claim_hash: 04fd0dde9d370afd80bb5840d01c8083d474cba769f5ed4e1ff0d805570d9af8
+  content: Bill Clinton has admitted he had his aides research Area 51 'to make sure
+    there was no alien down there'.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Clinton
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    slug: nevada-area-51-usa
+  date: null
+  date_end: null
+  location_in_record: ch14:2073-2187
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 591daa3b-77e3-408b-9407-b98dc2f52f06
+  claim_hash: 97c6b5bd55e0cfcfd15f429c6d555ca0e8e229775963255ec4f39d274d3f090d
+  content: Bill Clinton's Associate Attorney General Webster Hubbell claimed he was
+    asked by the president to find out all he could about who killed John F. Kennedy
+    and whether UFOs are real.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 4f348344-3469-496e-88e0-51e12603c5bf
+    title: Webster Hubbell
+  provenance_chain:
+    origin_kind: speaker
+    origin: Webster Hubbell
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4f348344-3469-496e-88e0-51e12603c5bf
+    title: Webster Hubbell
+    slug: webster-hubbell
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+    title: Assassination of John F. Kennedy
+    slug: assassination-of-john-f-kennedy
+  date: '1993'
+  date_end: null
+  location_in_record: ch14:218-432
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 45cc9970-f422-4054-b1e7-4111983b6057
+  claim_hash: 7622b1755c2b5ef3bf907d9830c3913754ed639ef17ca7e869687aa0c7257eef
+  content: Bill Clinton pushed for the General Accounting Office's 1995 review of
+    all the Roswell papers.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3c140cbe-42ad-4ff7-8132-11b3073e99db
+    title: 1995 General Accounting Office review of the Roswell incident
+    slug: 1995-general-accounting-office-review-of-the-roswell-incident
+  - node_id: 685dcd0b-a551-4f95-81a7-df5a2632d2d1
+    title: United States Congress General Accounting Office
+    slug: united-states-congress-general-accounting-office
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  date: '1995'
+  date_end: null
+  location_in_record: ch14:2195-2277
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 107abe4e-2c1e-4796-b4b6-2afe76e93208
+  claim_hash: 72e5634ae114cba61eedc5e2b40c5aebbb7f1109215f0e3cfa49fd452a423574
+  content: In a 2014 interview on Jimmy Kimmel Live, Bill Clinton said that if he
+    saw that aliens existed, he would tell the public.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Clinton
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: ea8ea587-d42e-4dc4-83b4-3804488fe215
+    title: Jimmy Kimmel Live
+    slug: jimmy-kimmel-live
+  date: '2014'
+  date_end: null
+  location_in_record: ch14:2425-2575
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c05f26ce-efbe-4db6-bdb0-b94b017c4cee
+  claim_hash: 921803cc0a444d3a2d3ff9455301aee4d68e7a6e41f1c25b35738c7191240afe
+  content: Bill Clinton said, 'If we were visited someday, I wouldn't be surprised.'
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Clinton
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  date: '2014'
+  date_end: null
+  location_in_record: ch14:2579-2711
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 12340195-1080-4fa6-94bd-8fb2123d8392
+  claim_hash: 824dc16c97987cc9c618688b6d391ee338a2608907a8b7bcb56ce8f7009b3e28
+  content: John Podesta was a political consultant who served as President Bill Clinton's
+    Chief of Staff in the White House from 1998 to 2001.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    slug: john-podesta
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+    title: The White House
+    slug: the-white-house
+  date: '1998'
+  date_end: null
+  location_in_record: ch14:26259-26377
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
+  claim_hash: 2d99e2b7929dc8941a50c2f79905463df0bf3f98c95296b0f1c8c154eed07275
+  content: Steven Greer has claimed that when he sent a briefing document to Bill
+    Clinton, a response came back that the president couldn't get anywhere with UFOs
+    and didn't want to push on the issue because a very good friend of his came to
+    his home and said he would end up assassinated like John F. Kennedy.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+  provenance_chain:
+    origin_kind: named
+    origin: Steven Greer
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+    title: Assassination of John F. Kennedy
+    slug: assassination-of-john-f-kennedy
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+    slug: steven-greer
+  date: null
+  date_end: null
+  location_in_record: ch14:6076-6364
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d18570b9-0086-4346-ba6a-ef8f49fbcca9
+  claim_hash: ecf7c2646a4a9109cd654085c5111574647c9f0db5189557ab8cea2aafffe4d2
+  content: John Podesta had secured Executive Order 12958 under President Bill Clinton,
+    declassifying millions of pages of national security documents, including many
+    Unidentified Aerial Phenomena (UAP) files.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    slug: john-podesta
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: 818a10c9-e3e1-4110-b544-e1ca790fcfbd
+    title: Executive Order 12958
+    slug: executive-order-12958
+  date: null
+  date_end: null
+  location_in_record: ch18:3627-3799
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9c8ff4cf-926d-48ca-b2d8-182d91584074
+  claim_hash: b182c8ab22db361f28e5594f07c0ed4bf0ad421b74f579a993d829ad6513b97f
+  content: When told by Jimmy Kimmel in March 2015 that President Clinton had said
+    he checked and found nothing regarding UFOs, Barack Obama replied that saying
+    there was nothing is what presidents are instructed to say.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Barack Obama
+  provenance_chain:
+    origin_kind: speaker
+    origin: Barack Obama
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 167b9461-2288-4c48-b9b5-7b798d883f4f
+    title: 2015-03 Obama Jimmy Kimmel Live interview on aliens
+    slug: 2015-03-obama-jimmy-kimmel-live-interview-on-aliens
+  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Barack Obama
+    slug: barack-obama
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: ea8ea587-d42e-4dc4-83b4-3804488fe215
+    title: Jimmy Kimmel Live
+    slug: jimmy-kimmel-live
+  date: 2015-03
+  date_end: null
+  location_in_record: ch18:5144-5339
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3476f827-1a18-46dd-9d45-2c4cb30fc3b1
+  claim_hash: 0c37a3ee459ae207a17bdcd41e3d2acea2eb50387cf12d6d5369b7b279cad845
+  content: John Podesta held top-secret/Sensitive Compartmented Information (SCI)
+    clearances in his past roles with both Presidents Obama and Clinton.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    slug: john-podesta
+  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Barack Obama
+    slug: barack-obama
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
+    title: Sensitive Compartmented Information Facility (SCIF)
+    slug: sensitive-compartmented-information-facility-scif
+  date: null
+  date_end: null
+  location_in_record: ch20:17002-17135
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9f87020e-0b71-4a5c-96c1-665a4085bc5a
+  claim_hash: 17507cc7ac340628f769ca5c968cd239b659e228fcd8f94c6c33867355a68344
+  content: John Podesta is a confidant of Presidents Bill Clinton and Barack Obama.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    slug: john-podesta
+  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Barack Obama
+    slug: barack-obama
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  date: null
+  date_end: null
+  location_in_record: ch28:28552-28606
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 79bece11-f229-43bb-832d-42c337d7c6e9
+  claim_hash: 45754e20ef3a42e4bd4f398a9169de548f2afcc08e0200402a9014d6b868a5e2
+  content: John Podesta served as chief of staff to President Bill Clinton, counselor
+    to President Barack Obama, and campaign manager to Hillary Clinton.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    slug: john-podesta
+  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+    title: Hillary Clinton
+    slug: hillary-clinton
+  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Barack Obama
+    slug: barack-obama
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  date: null
+  date_end: null
+  location_in_record: ch29:13091-13242
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: a0a74bb4-f626-496e-977c-7b514fc1f1b4
+  claim_hash: f6e720a4e418f179ceade252176b6d127596569781deda4815deea3f82fa7793
+  content: Bill Clinton stated that while he was president, every attempt was made
+    to find out everything about the 1947 Roswell UAP crash.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Clinton
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: be164183-f1cf-461d-be1d-53fc0b830a84
+    title: 1947 Roswell Unidentified Aerial Phenomena (UAP) crash
+    slug: 1947-roswell-unidentified-aerial-phenomena-uap-crash
+  date: null
+  date_end: null
+  location_in_record: ch35:4245-4454
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 7b8e8b9c-bfce-4197-80c7-e9e7eb10119e
+  claim_hash: a6cca9917ae8513d17f10ca2174cd4478702f2d5c74e5d742c8daf4f1ceb3edd
+  content: Bill Clinton considers that many mysteries remain unexplained and that
+    this should keep people humble.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Clinton
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  date: null
+  date_end: null
+  location_in_record: ch35:4329-4429
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: c5c78cb8-b29c-4f33-ae47-44d5b2e924c2
+  claim_hash: c876243a831148253652c87acfe65baf9222b5506d92e440c7a2213e0d8252a8
+  content: According to press reports, President Bill Clinton tasked former National
+    Security Advisor Sandy Berger to determine if the United States Government held
+    aliens or alien technology.
+  original_excerpt: According to press reports, President Clinton tasked former National
+    Security Advisor Sandy Berger to determine if the USG held aliens or alien technology.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: press reports
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: 8736cf6e-83e1-4516-b984-510af3062c7b
+    title: Sandy Berger
+    slug: sandy-berger
+  date: null
+  date_end: null
+  location_in_record: char:53830-53974
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: e523c48c-aed3-4378-8039-aa38622d3a42
+  claim_hash: 371bbdc931b5136faec9453dc00fa683ed397adf9e1b96db7dd146de6e052660
+  content: President Bill Clinton said that as far as he knew, an alien spacecraft
+    did not crash in Roswell, New Mexico, in 1947, that if the United States Air Force
+    did recover alien bodies they did not tell him about it, and that he wanted to
+    know.
+  original_excerpt: President Clinton said, "As far as I know, an alien spacecraft
+    did not crash in Roswell, New Mexico, in 1947...if the USAF did recover alien
+    bodies, they didn't tell me about it...and I want to know."
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Clinton
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: char:53986-54180
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: e47754a6-8f6a-48c3-ac28-27e5dd2e3824
+  claim_hash: c823929cb9fde51982abb3de0d3a821913183f3ecd1476e056b5a2855277a522
+  content: It became known in intelligence circles that a non-human craft had landed
+    in the Russian Federation by arrangement, during the Bill Clinton administration.
+  original_excerpt: you mentioned that bill clinton it became known in intelligence
+    circles that a craft had landed in the russian federation by arrangement
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: anonymous
+    origin: an unnamed source Jonathan Caplan cannot identify
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  date: null
+  date_end: null
+  location_in_record: 01:16:23.8-01:16:31.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: 5b14dd79-01a8-4706-8df9-2cfc1d597b1c
+  claim_hash: 52e47580802d0442e0d8ed43bd56258ce55f5c260ae90e443f4d81925ad2cd2b
+  content: Bill Clinton, as president, was apprised of the knowledge of the incident
+    in which a non-human craft landed in the Russian Federation by arrangement.
+  original_excerpt: Is the implication there that Bill Clinton as president was apprised
+    of the knowledge of this incident? My understanding is that it is yes.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: anonymous
+    origin: an unnamed source Jonathan Caplan cannot identify
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+    slug: jonathan-caplan
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    slug: ross-coulthart
+  date: null
+  date_end: null
+  location_in_record: 01:17:02.9-01:17:12.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: 6191321c-3c04-4fb9-af73-d3c4c093bb34
+  claim_hash: 5a1ec9c4907e9610c90ba857ca74e681a3f5893ae4d9aa6734a079691fa5d3d9
+  content: Bill Clinton dispatched Webster Hubbell, one of his attorneys, in connection
+    with his interest in Unidentified Aerial Phenomena (UAP).
+  original_excerpt: I know he did dispatch one of his attorneys, Webster Hubble, a
+    controversial fellow who was subsequently convicted for fraud.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4f348344-3469-496e-88e0-51e12603c5bf
+    title: Webster Hubbell
+    slug: webster-hubbell
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  date: null
+  date_end: null
+  location_in_record: 01:17:19.7-01:17:26.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: 091bb999-cdfa-4067-8939-ebc8b3d73058
+  claim_hash: e828c5305999ab362bdf1a1c0c34d0107320b7f56f1eff296b3295788c2f5df2
+  content: Bill Clinton, as president, took a close interest in Unidentified Aerial
+    Phenomena (UAP) and asked questions about whether the United States had retrieved
+    craft, without getting anywhere.
+  original_excerpt: I know President Clinton did take a very close interest in UAPs
+    in his time as president, and he did ask questions about whether America... had
+    retrieved craft and didn't really get anywhere.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  date: null
+  date_end: null
+  location_in_record: 01:17:29.1-01:17:39.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null
+- claim_id: df99c833-c22b-4756-be20-1c19e66ab6bf
+  claim_hash: 5d93ec35badd6c25666385f590c935fc475f5dcd90a7699648ace59a5e3ff730
+  content: Jonathan Caplan considers that Bill Clinton probably knows more about non-human
+    craft retrieval than he has let on.
+  original_excerpt: I think he probably knows more than he's let on.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jonathan Caplan
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    slug: william-j-clinton
+  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+    slug: jonathan-caplan
+  date: null
+  date_end: null
+  location_in_record: 01:17:50.0-01:17:53.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null

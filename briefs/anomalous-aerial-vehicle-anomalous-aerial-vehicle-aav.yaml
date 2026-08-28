@@ -1,0 +1,3142 @@
+schema: anomalica/brief/1
+brief_hash: 8871d2b419aa7d02f4896358fe721404892601bc9f3301d3b446d0191368b338
+page:
+  kind: entity
+  node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+  node_type: topic
+  title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+  slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  claim_count: 85
+  claim_count_total: 85
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+  title: USS Princeton (CG-59)
+  node_type: object
+  slug: uss-princeton-cg-59
+  shared_claims: 22
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 21
+- node_id: c09e3558-1732-4676-a218-d67d285d98ef
+  title: Fravor, David
+  node_type: person
+  slug: david-fravor
+  shared_claims: 17
+- node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+  title: F/A-18
+  node_type: object
+  slug: fa-18
+  shared_claims: 12
+- node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+  title: Marine Fighter Attack Squadron 232 (VMFA-232)
+  node_type: organisation
+  slug: marine-fighter-attack-squadron-232-vmfa-232
+  shared_claims: 11
+- node_id: 66aaf90a-f903-447a-8757-fd952f585dd4
+  title: Carrier Strike Group 11 (CSG-11)
+  node_type: organisation
+  slug: carrier-strike-group-11-csg-11
+  shared_claims: 8
+- node_id: 5ea2fc59-cfad-408a-bf24-b88fadfd2ebc
+  title: E-2 Hawkeye
+  node_type: object
+  slug: e-2-hawkeye
+  shared_claims: 7
+- node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+  title: Underwood, Chad
+  node_type: person
+  slug: chad-underwood
+  shared_claims: 7
+- node_id: fe4e92e7-cf0f-4a48-818e-139ac34646c3
+  title: AN/SPY-1 radar
+  node_type: object
+  slug: anspy-1-radar
+  shared_claims: 4
+- node_id: 55a1da38-fcd1-4e55-b32b-0782c6391461
+  title: Carrier Air Wing 11 (CVW-11)
+  node_type: organisation
+  slug: carrier-air-wing-11-cvw-11
+  shared_claims: 3
+- node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
+  title: Strike Fighter Squadron 41 (VFA-41)
+  node_type: organisation
+  slug: strike-fighter-squadron-41-vfa-41
+  shared_claims: 3
+- node_id: 8aa84b57-4e77-4b65-8126-635654fe4eac
+  title: USS Louisville (SSN-724)
+  node_type: object
+  slug: uss-louisville-ssn-724
+  shared_claims: 3
+- node_id: 00525b7a-3ae7-44d8-a86a-0b98d1489142
+  title: Carrier Airborne Early Warning Squadron 117 (VAW-117)
+  node_type: organisation
+  slug: carrier-airborne-early-warning-squadron-117-vaw-117
+  shared_claims: 2
+- node_id: a89b8eec-51fe-4f69-bf98-89d3a8957a50
+  title: Link-16
+  node_type: topic
+  slug: link-16
+  shared_claims: 2
+- node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+  title: USS Nimitz (CVN-68)
+  node_type: object
+  slug: uss-nimitz-cvn-68
+  shared_claims: 2
+- node_id: 787a947b-f020-4f9a-bac8-72b82e5c1475
+  title: AN/APG-73 radar
+  node_type: object
+  slug: anapg-73-radar
+  shared_claims: 1
+- node_id: c42f4a70-d8a5-4760-8e5a-f6e3adf9bb24
+  title: AV-8B Harrier
+  node_type: object
+  slug: av-8b-harrier
+  shared_claims: 1
+- node_id: af6e1245-9594-41d7-854e-1a63d70a79ca
+  title: Advanced Aerospace Threat Identification Program (AATIP)
+  node_type: organisation
+  slug: advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 1
+- node_id: b0d1121b-e0c5-490b-8d6c-69a234cd1b36
+  title: Curtis, D. C.
+  node_type: person
+  slug: d-c-curtis
+  shared_claims: 1
+- node_id: 4d7e3d87-ae73-4f82-8bbe-fad543b58c7d
+  title: Joint Helmet Mounted Cueing System
+  node_type: object
+  slug: joint-helmet-mounted-cueing-system
+  shared_claims: 1
+- node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+  title: United States Navy (USN)
+  node_type: organisation
+  slug: united-states-navy-usn
+  shared_claims: 1
+claims:
+- claim_id: 13023b27-a79d-46f5-9bdc-a5ff40a53c03
+  claim_hash: 81b8304933d132139126d8f7f41ef78185308980cb388ad7337583f6fee9428b
+  content: During the 2004 USS Nimitz UAP encounter, the Anomalous Aerial Vehicles
+    (AAVs) would descend very rapidly from approximately 18,000 metres down to approximately
+    15 metres in a matter of seconds.
+  original_excerpt: The AAVs would descend "very rapidly" from approximately 60,000
+    feet down to approximately 50 feet in a matter of seconds.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: Executive Summary, p.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 497684f7-1aac-4de8-90ee-8def0c99baac
+  claim_hash: f6c8983c5de7aca34bf6a8398d6e3edd03ac358a4c3c017697acf5c8ea02c14b
+  content: On 2004-11-14, after again detecting the Anomalous Aerial Vehicle (AAV),
+    the USS Princeton (CG-59) used a flight of two F/A-18Fs returning from a training
+    mission to further investigate the AAV.
+  original_excerpt: On 14 November after again detecting the AAV, the USS Princeton
+    took the opportunity of having a flight of two F/A-18Fs returning from a training
+    mission to further investigate the AAV.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: Executive Summary, p.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 7250d3b9-a68c-443f-9876-a4645560ca92
+  claim_hash: 5d0c36860202fe0f3181431b2d673fc48865b00a36b9468741c636b2f9900d60
+  content: During the 2004 USS Nimitz UAP encounter, the Anomalous Aerial Vehicles
+    (AAVs) would hover or stay stationary on the radar for a short time and then depart
+    at high velocities and turn rates.
+  original_excerpt: They would then hover or stay stationary on the radar for a short
+    time and depart at high velocities and turn rates.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: Executive Summary, p.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 923bdac6-7619-40d9-946d-c094d9a55994
+  claim_hash: f14e18ca609ed935db85ce5dc85c3761edaed93b1b56a3ecfde8c336fc5cc4d3
+  content: During the 2004 USS Nimitz UAP encounter, the Anomalous Aerial Vehicle
+    (AAV) was reported to be an elongated egg or 'Tic Tac' shape with a discernable
+    midline horizontal axis.
+  original_excerpt: which was reported to be "an elongated egg or a 'Tic Tac' shape
+    with a discernable midline horizontal axis".
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: Executive Summary, p.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: d1b57c76-3352-4f71-9d89-6e82fb4d8674
+  claim_hash: aeefb9dc96d7665a855dc66fa7ca0dd0d45ee896b8949a0bebae66b602b2ca39
+  content: During the 2004 USS Nimitz UAP encounter, the F/A-18Fs radar could not
+    obtain a lock on the Anomalous Aerial Vehicle (AAV), but it could be tracked while
+    stationary and at slower speeds with the forward-looking infrared (FLIR).
+  original_excerpt: The F/A-18Fs radar could not obtain a 'lock' on the AAV; however
+    it could be tracked while stationary and at slower speeds with the Forward Looking
+    Infrared (FLIR).
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: Executive Summary, p.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: d8aec91b-3de5-4b40-a0c9-2bb3d73a7916
+  claim_hash: 727c76f16fda07f367b9b859b32f5f6cbc7311f93993a484ffb97853589aa3ec
+  content: During the 2004 USS Nimitz UAP encounter, the USS Princeton (CG-59) on
+    several occasions detected multiple Anomalous Aerial Vehicles (AAVs) operating
+    in and around the vicinity of the Carrier Strike Group.
+  original_excerpt: The USS Princeton on several occasions detected multiple Anomalous
+    Aerial Vehicles (AAVs) operating in and around the vicinity of the CSG.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 66aaf90a-f903-447a-8757-fd952f585dd4
+    title: Carrier Strike Group 11 (CSG-11)
+    slug: carrier-strike-group-11-csg-11
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: Executive Summary, p.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: e1ff4130-d4f5-4a03-a8ff-b2cb4d549837
+  claim_hash: 378d76cf5c0c63a73ee896b85a343a2f8fe4b933af1654440f44c809bd2e1e90
+  content: During the 2004 USS Nimitz UAP encounter, the Anomalous Aerial Vehicle
+    (AAV) did not take any offensive action against the Carrier Strike Group.
+  original_excerpt: The AAV did not take any offensive action against the CSG
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 66aaf90a-f903-447a-8757-fd952f585dd4
+    title: Carrier Strike Group 11 (CSG-11)
+    slug: carrier-strike-group-11-csg-11
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: Executive Summary, p.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: e79a49e5-ae51-4bbb-a26c-8cc654bb637e
+  claim_hash: c0a51b34af1e5862d1727759300e7bf55f19e74b58b6cc450cbd13d9350e8ead
+  content: During the 2004 USS Nimitz UAP encounter, the Anomalous Aerial Vehicle
+    (AAV) was solid white, smooth, with no edges, and approximately 14 metres in length.
+  original_excerpt: It was "solid white, smooth, with no edges. It was approximately
+    46 feet in length.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: Executive Summary, p.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: eb138b5e-68f8-48bc-b75f-4915559082be
+  claim_hash: ab6701cd2d8208e202d00e66204c96b3f5fcfed3b775263f7c4249dd25901970
+  content: During the 2004 USS Nimitz UAP encounter, the Anomalous Aerial Vehicle
+    (AAV) took evasive actions upon intercept by the F/A-18, demonstrating advanced
+    acceleration (G), aerodynamic, and propulsion capability.
+  original_excerpt: The AAV did take evasive actions upon intercept by the F/A-18
+    demonstrating an advanced acceleration (G), aerodynamic, and propulsion capability.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: Executive Summary, p.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: f6dae1a0-1bf5-4ed7-837f-ec626b758ad6
+  claim_hash: 263cec562ddb6c32ea52800fca7a743075dab0a145b2054d08a200db4d580956
+  content: During the 2004 USS Nimitz UAP encounter, the USS Princeton (CG-59) took
+    over control of the F/A-18s from the E-2C Airborne Early Warning aircraft and
+    vectored them in for intercept, leading to visual contact approximately 1.6 kilometres
+    away from the Anomalous Aerial Vehicle (AAV).
+  original_excerpt: The USS Princeton took over control of the F/A-18s from the E-2C
+    Airborne Early Warning aircraft and vectored in the F/A-18s for intercept leading
+    to visual contact approximately one mile away from the AAV
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 5ea2fc59-cfad-408a-bf24-b88fadfd2ebc
+    title: E-2 Hawkeye
+    slug: e-2-hawkeye
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: Executive Summary, p.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 3ed7ea64-2b78-4b7e-b35e-3aebda21c284
+  claim_hash: 3f8a0ac5d991cf68feb1aa963f8549ce6f649ec49d7188ad5ec5ad8512044cea
+  content: The Anomalous Aerial Vehicle (AAV) observed during the 2004 USS Nimitz
+    UAP encounter possibly demonstrated a highly advanced capability to operate undersea
+    completely undetectable by the most advanced sensors.
+  original_excerpt: The AAV possibly demonstrated a highly advanced capability to
+    operate undersea completely undetectable by our most advanced sensors.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: Key Assessments, p.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 65e46d7d-f1b6-4bfb-8d23-016f18de1066
+  claim_hash: dea98845ff954cd1b33cf15472905671639b9259f2cc74eded30bf2a0ee696fe
+  content: The Anomalous Aerial Vehicle (AAV) observed during the 2004 USS Nimitz
+    UAP encounter exhibited advanced propulsion capability by remaining stationary
+    with little to no variation in altitude and transitioning to horizontal and/or
+    vertical velocities far greater than any known aerial vehicle with little to no
+    visible signature.
+  original_excerpt: The AAV exhibited advanced propulsion capability by demonstrating
+    the ability to remain stationary with little to no variation in altitude transitioning
+    to horizontal and/or vertical velocities far greater than any known aerial vehicle
+    with little to no visible signature.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: Key Assessments, p.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 80d771d5-0e33-4b97-800e-85c9bc05c667
+  claim_hash: a10e3177ca4dd432a0d9151a905391a91aa2dc9961001d3443c07ff3e695008d
+  content: The Anomalous Aerial Vehicle (AAV) observed during the 2004 USS Nimitz
+    UAP encounter was no known aircraft or air vehicle currently in the inventory
+    of the United States or any foreign nation.
+  original_excerpt: The Anomalous Aerial Vehicle (AAV) was no known aircraft or air
+    vehicle currently in the inventory of the United States or any foreign nation.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: Key Assessments, p.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: ce4c5534-dec0-4516-873f-82e8c51bf1a4
+  claim_hash: 31b2abe448abc9fda22e62f0a4c31da977c69c8bacf3e7382de9745712dfc8c8
+  content: The Anomalous Aerial Vehicle (AAV) observed during the 2004 USS Nimitz
+    UAP encounter exhibited advanced low observable characteristics at multiple radar
+    bands, rendering US radar-based engagement capabilities ineffective.
+  original_excerpt: The AAV exhibited advanced low observable characteristics at multiple
+    radar bands rendering US radar based engagement capabilities ineffective.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: Key Assessments, p.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: d09b2d4a-15a6-465f-a8ca-48c4e80d2831
+  claim_hash: a9ffd6664ebca021bfeebe4ad1bce5c515f42c45e723aa58baf678c9ca04623e
+  content: The Anomalous Aerial Vehicle (AAV) observed during the 2004 USS Nimitz
+    UAP encounter possibly demonstrated the ability to cloak or become invisible to
+    the human eye or human observation.
+  original_excerpt: The AAV possibly demonstrated the ability to 'cloak' or become
+    invisible to the human eye or human observation.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: Key Assessments, p.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: fad7bd60-81b8-4ba2-a8d2-92f610aabe4f
+  claim_hash: df40fe3fc0569ba66876f86faaba2229118bb9a302ac2188387337e92ef9d48f
+  content: The Anomalous Aerial Vehicle (AAV) observed during the 2004 USS Nimitz
+    UAP encounter exhibited advanced aerodynamic performance with no visible control
+    surfaces and no visible means to generate lift.
+  original_excerpt: The AAV exhibited advanced aerodynamic performance with no visible
+    control surfaces and no visible means to generate lift.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: Key Assessments, p.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: a0cfa88e-5c9d-46de-9f8c-cdaaa163fc46
+  claim_hash: a43264534aed2407648ee547c569b876b060e7bbb90a60e1ad33c4891c62e096
+  content: Chad Underwood made no attempt to slew the forward-looking infrared (FLIR)
+    and subsequently lost situational awareness to the Anomalous Aerial Vehicle (AAV),
+    after which the flight continued the training mission with no further contact.
+  original_excerpt: LT Underwood made no attempt to slew the FLIR and subsequently
+    lost situational awareness to the object. The Flight continued with training mission
+    with no further contact with object.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+    title: Underwood, Chad
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+    title: Underwood, Chad
+    slug: chad-underwood
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.10
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 5fe34d4d-3c07-47f4-a9c8-2652d41d5012
+  claim_hash: 4f7ed49fdfe1252773a330c161f4455621b33efda5f21fea82bfbcb7a4d31346
+  content: Chad Underwood could not confirm that the object he observed was the same
+    one described by the FastEagle flight, as he never had visual contact and only
+    saw it via the forward-looking infrared (FLIR).
+  original_excerpt: LT Underwood was clear in that he couldn't confirm that it was
+    the same object as described by FASTEAGLE flight. He never had visual, only seeing
+    the object via the FLIR.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+    title: Underwood, Chad
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+    title: Underwood, Chad
+    slug: chad-underwood
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.11
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 0e85ea1d-8ded-40cf-ba02-0672998ea2d9
+  claim_hash: 4db23b23f77f40d7019f8673dab6483cf13fe789242e53a7a0bd9c5446215858
+  content: The USS Louisville (SSN-724) is a Los Angeles-class nuclear fast attack
+    submarine that was operating in the vicinity of the USS Nimitz (CVN-68) as part
+    of the Carrier Strike Group during the detection and intercept of the Anomalous
+    Aerial Vehicle (AAV).
+  original_excerpt: The USS Louisville USS Louisville (SSN-724) is a Los Angeles-class
+    nuclear fast attack submarine. She was operating in the vicinity of the USS Nimitz
+    as part of the CSG during the detection and intercept of the AAV.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 66aaf90a-f903-447a-8757-fd952f585dd4
+    title: Carrier Strike Group 11 (CSG-11)
+    slug: carrier-strike-group-11-csg-11
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: 8aa84b57-4e77-4b65-8126-635654fe4eac
+    title: USS Louisville (SSN-724)
+    slug: uss-louisville-ssn-724
+  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+    title: USS Nimitz (CVN-68)
+    slug: uss-nimitz-cvn-68
+  date: null
+  date_end: null
+  location_in_record: p.11-12
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 0c314912-97b9-4621-839f-64a017861612
+  claim_hash: c52b15ee5fb70229d6e3aecc0a8dbff69e098b6383559b107334e441c816311a
+  content: The Carrier Air Wing Intelligence Officer did not take David Fravor's Anomalous
+    Aerial Vehicle (AAV) report seriously at first, but had no reason to question
+    the report from a very experienced and well-respected F/A-18 squadron commanding
+    officer, and would have given it less attention from a lesser-experienced aviator.
+  original_excerpt: 'According to LCDR {{redacted: ~1 word}} he "wasn''t sure what
+    to do". He also stated that they "didn''t take it seriously" at first; however,
+    they had absolutely no reason to question the report from a very experienced and
+    well-respected F/A-18 squadron commanding officer. LCDR {{redacted: ~1 word}}
+    added that they likely would have not given as much attention if it came from
+    a lesser-experienced aviator.'
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 55a1da38-fcd1-4e55-b32b-0782c6391461
+    title: Carrier Air Wing 11 (CVW-11)
+    slug: carrier-air-wing-11-cvw-11
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.12
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 1314057f-b2ba-4136-96c2-c5cc20294467
+  claim_hash: b5d0cbb69f17956c688ad81288e368b86f635556545128cd8ae853bd6e032823
+  content: A live fire exercise was conducted by the USS Louisville (SSN-724) during
+    and in the vicinity of the Anomalous Aerial Vehicle (AAV) sightings, but the weapon
+    in use did not match the flight profile or visible characteristics of the AAV.
+  original_excerpt: There was a live fire exercise conducted by the USS Louisville
+    during the period of and in the vicinity of the AAV sightings; however, the weapon
+    in use did not match the flight profile or visible characteristics of the AAV.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: 8aa84b57-4e77-4b65-8126-635654fe4eac
+    title: USS Louisville (SSN-724)
+    slug: uss-louisville-ssn-724
+  date: null
+  date_end: null
+  location_in_record: p.12
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 4efc059b-7ef3-4c4a-9244-4229357534f6
+  claim_hash: c769c8013dbc8dd8c5be39ed734e20195950be1f83acaef6b4bb17a952ce48b0
+  content: The Carrier Air Wing Intelligence Officer reported the Anomalous Aerial
+    Vehicle (AAV) contact to the Commander of the Air Wing, a highly experienced aviator,
+    who did not take it very seriously.
+  original_excerpt: 'He reported it to the Commander of the Air Wing, CAPT {{redacted:
+    ~2 words}} also a highly experienced aviator but he did not take it very serious.'
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 55a1da38-fcd1-4e55-b32b-0782c6391461
+    title: Carrier Air Wing 11 (CVW-11)
+    slug: carrier-air-wing-11-cvw-11
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: null
+  date_end: null
+  location_in_record: p.12
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 63e9114d-539a-46e2-9a4c-c6be8748b47b
+  claim_hash: a4cf42f6d347ea1dec7a6f8b7cebd711c8e4985f975c3bb63192d7795cd86485
+  content: Any live fire would have been coordinated throughout the Carrier Strike
+    Group with all air traffic aware of the launch, and aircraft would not have been
+    vectored for the intercept of a US weapon in-flight.
+  original_excerpt: Additionally any live fire would have been coordinated throughout
+    the CSG and all air traffic would have been well aware of the launch and operation
+    of the weapon system. Aircraft would not have been vectored for the intercept
+    of a US Weapon in-flight.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 66aaf90a-f903-447a-8757-fd952f585dd4
+    title: Carrier Strike Group 11 (CSG-11)
+    slug: carrier-strike-group-11-csg-11
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: null
+  date_end: null
+  location_in_record: p.12
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 7dd59068-46c7-4f69-a2dc-58fab3a17adb
+  claim_hash: 296fd0348a7f5fd5ac981bf6359bb2c39c3025dff84d47e348f0b0fa102cf511
+  content: If the Anomalous Aerial Vehicle (AAV) did operate underwater undetected
+    during the 2004 USS Nimitz UAP encounter, it would represent a highly advanced
+    capability given the advanced capability of US sensors.
+  original_excerpt: 'Based on the assessment of Mr. {{redacted: ~2 words}} if the
+    AAV did operate underwater undetected it would represent a highly advanced capability
+    given the advanced capability of our sensors.'
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: p.12
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 82fd3d21-d33d-40bb-9b25-f71762c2775c
+  claim_hash: 68691082eaeae9f531b5ed8efdca3b50e4db88fdb6b6bec3cea53c27d447c231
+  content: A qualified Submarine Officer aboard the USS Louisville (SSN-724) in November
+    2004 reported there were no unidentified sonar contacts in the vicinity of the
+    aerial sightings or at any time during the operations off the coast of California.
+  original_excerpt: 'According to former LT {{redacted: ~3 words}} now a civilian
+    working for the US Navy, who was a qualified Submarine Officer onboard the Louisville
+    in November 2004 during the AAV activity there were no unidentified sonar contacts
+    in the vicinity of the aerial sightings or at anytime during the operations off
+    the coast of California.'
+  claim_type: testimony
+  attestation: first_hand
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: 8aa84b57-4e77-4b65-8126-635654fe4eac
+    title: USS Louisville (SSN-724)
+    slug: uss-louisville-ssn-724
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.12
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 9273e4d4-168c-4881-a603-d2f53a0758e6
+  claim_hash: cb7c649668742e11cfe0ad93c57b0f5173032476be6970514080016c76e5a7f5
+  content: Based on the lack of detection of any unidentified sonar contacts, it is
+    highly unlikely that an Anomalous Aerial Vehicle (AAV) operated below the surface
+    of the ocean during the 2004 USS Nimitz UAP encounter; it is possible the AAV
+    demonstrated the ability to be cloaked or invisible to the human eye based on
+    pilot reporting of the water disturbance with no visible craft.
+  original_excerpt: Based on the lack of detection of any unidentified sonar contacts
+    it is highly unlikely that an AAV operated below the surface of the ocean; it
+    is possible that the AAV demonstrated the ability to be cloaked or invisible to
+    the human eye based on pilot reporting of the water disturbance with no visible
+    craft.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: p.12
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: b60307f0-0d82-4183-98ae-2e513399cb4a
+  claim_hash: d5fe763dc2cd722016ca4f2b9e2a28c2364a11c68c660735e4073d4cdbe8185e
+  content: On 2004-11-14 following the intercept of the Anomalous Aerial Vehicle (AAV),
+    David Fravor reported to the Carrier Intelligence Center and discussed the entire
+    mission and AAV contact with the Carrier Air Wing Intelligence Officer.
+  original_excerpt: 'On 14 November following the intercept of the AAV, CDR Fravor
+    reported to CVIC to debrief with Intelligence. He discussed the entire mission
+    and AAV contact with LCDR {{redacted: ~2 words}} the Carrier Air Wing Intelligence
+    Officer.'
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 55a1da38-fcd1-4e55-b32b-0782c6391461
+    title: Carrier Air Wing 11 (CVW-11)
+    slug: carrier-air-wing-11-cvw-11
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.12
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 29da0649-6922-48f8-8774-485b436006e6
+  claim_hash: 6ac1b053775141dd1b304d54c3ad10140238efd78fa275ac97f990c62408ac36
+  content: The Carrier Strike Group 11 (CSG-11) Senior Intelligence Officer (N2) believed
+    the Anomalous Aerial Vehicle (AAV) was part of a counterdrug operation based on
+    the area of operations.
+  original_excerpt: When asked what he thought the AAV was he replied that he believed
+    it was part of a counterdrug operation based on the area of operations.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 66aaf90a-f903-447a-8757-fd952f585dd4
+    title: Carrier Strike Group 11 (CSG-11)
+    slug: carrier-strike-group-11-csg-11
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: null
+  date_end: null
+  location_in_record: p.13
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 63fe5710-4a21-44bd-aa8a-bf848c7e2a11
+  claim_hash: b5cb9db45572b373f39e9d2cd30b38e69cf83cacd9adbafd166971e72b5933d8
+  content: Carrier Strike Group 11 (CSG-11) had no advanced knowledge of live fire
+    events, US weapons testing, or any other experimental aircraft operating in the
+    area, and had never seen anything like the Anomalous Aerial Vehicle (AAV) before
+    or again.
+  original_excerpt: Additionally they had no advanced knowledge of live fire events,
+    US Weapons Testing or any other experimental aircraft operating in the area. Finally,
+    they had never seen anything like this before and never again.
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 66aaf90a-f903-447a-8757-fd952f585dd4
+    title: Carrier Strike Group 11 (CSG-11)
+    slug: carrier-strike-group-11-csg-11
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: null
+  date_end: null
+  location_in_record: p.13
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: ab59e186-1ed0-497b-877b-8762f5b2d898
+  claim_hash: dadcb1d74e41fe6fdcf1a288ebf258f692f8e4deda86d62935bf00c6b266b3ee
+  content: All of the Anomalous Aerial Vehicle (AAV) activity was reported to Vice
+    Admiral D.C. Curtis by the Commanding Officer of the USS Princeton (CG-59) and
+    the Commanding Officer of Strike Fighter Squadron 41 (VFA-41).
+  original_excerpt: All of the AAV activity was reported to VADM Curtis by the Commanding
+    Officer, USS Princeton and Commanding Officer, VFA-41.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
+    title: Strike Fighter Squadron 41 (VFA-41)
+    slug: strike-fighter-squadron-41-vfa-41
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: b0d1121b-e0c5-490b-8d6c-69a234cd1b36
+    title: Curtis, D. C.
+    slug: d-c-curtis
+  date: null
+  date_end: null
+  location_in_record: p.13
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: b56e8eb5-be1f-486f-94bf-d06fe14d5475
+  claim_hash: 8338ede820d06f78b427a10ed14acf8a6f8ded30e8259369560ded8023ca6266
+  content: The Director of Operations (N3) for Carrier Strike Group 11 (CSG-11) confirmed
+    that other than the Mission Report (MISREP) there was no other official report
+    or statement from the CSG, and that at no time did they consider the Anomalous
+    Aerial Vehicle (AAV) a threat to the battle group.
+  original_excerpt: Capt {{redacted}} was the Director of Operations (N3) for CSG-11
+    at the time of the intercept. Capt {{redacted}} confirmed that other than the
+    MISREP there was no other official report or statement from the CSG. He also stated
+    that at no time did they consider the AAV a threat to the battle group.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 66aaf90a-f903-447a-8757-fd952f585dd4
+    title: Carrier Strike Group 11 (CSG-11)
+    slug: carrier-strike-group-11-csg-11
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: null
+  date_end: null
+  location_in_record: p.13
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: fd90bfc5-1bc0-4f76-a3b9-62cd55bf0891
+  claim_hash: efa8264b92e5ad4df2981b78d6d81df0286f8ed5fc1f0ccddb29b9b4ebb7ca72
+  content: The only participants in the events surrounding the detection and intercept
+    of the Anomalous Aerial Vehicle (AAV) during the 2004 USS Nimitz UAP encounter
+    were the USS Princeton (CG-59), Carrier Airborne Early Warning Squadron 117 (VAW-117),
+    Marine Fighter Attack Squadron 232 (VMFA-232), and Strike Fighter Squadron 41
+    (VFA-41).
+  original_excerpt: The only participants in the events surrounding the detection
+    and intercept of the AAV are the USS Princeton, VAW-117, VMFA-232, and VFA-41.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 00525b7a-3ae7-44d8-a86a-0b98d1489142
+    title: Carrier Airborne Early Warning Squadron 117 (VAW-117)
+    slug: carrier-airborne-early-warning-squadron-117-vaw-117
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
+    title: Strike Fighter Squadron 41 (VFA-41)
+    slug: strike-fighter-squadron-41-vfa-41
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: p.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 2ba5ac0d-2529-4118-b922-55e68e747752
+  claim_hash: a7656d6873a5339835c201c1c293ff2e708ef874c6d62e137db3098b2fa0a425
+  content: If the AN/SPY-1 radar had been set up in a mode for ballistic missile tracking,
+    the USS Princeton (CG-59) likely would have had the capability to track the Anomalous
+    Aerial Vehicle (AAV).
+  original_excerpt: If the radar were set up in a mode for Ballistic Missile tracking
+    they likely would have had the capability to track the AAV.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: fe4e92e7-cf0f-4a48-818e-139ac34646c3
+    title: AN/SPY-1 radar
+    slug: anspy-1-radar
+  date: null
+  date_end: null
+  location_in_record: p.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 35198c9f-30e5-430f-87da-d3b0fd7306e4
+  claim_hash: a99ed379b3d5fd8d84f51d21023fbcc4189f6fea48ceeb1582f9bfc4b75393ba
+  content: Based on his 17 years of experience as a Fire Control on Aegis cruisers,
+    the senior chief aboard the USS Princeton (CG-59) assessed that the Anomalous
+    Aerial Vehicle (AAV) exhibited ballistic missile characteristics in its appearance,
+    velocity, and radar indications.
+  original_excerpt: 'Senior Chief {{redacted: ~1 word}} added that based on his experience,
+    which is 17 years as a Fire Control on Aegis cruisers, the AAV exhibited Ballistic
+    Missile Characteristics in reference to its appearance, velocity, and indications
+    on the radar.'
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: null
+  date_end: null
+  location_in_record: p.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 7a038a19-0bd0-4341-864a-179c59ca14ea
+  claim_hash: e30d6920e23727df0f35ec922ec54ae30042ffb56a760b7998cb17c5d1ca0695
+  content: Because the AN/SPY-1 radar aboard the USS Princeton (CG-59) was in the
+    mode to handle Air Intercept of conventional aircraft, it never obtained an accurate
+    track of the Anomalous Aerial Vehicles (AAVs) and quickly dropped them to reduce
+    radar clutter, as with any other false target.
+  original_excerpt: Since the radar was in the mode to handle Air Intercept of conventional
+    aircraft it never obtained an accurate track of the AAVs and was quickly "dropped"
+    by the radar meaning it was eliminated by the computer to reduce the amount of
+    clutter on the radar, as any other false target is handled.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: fe4e92e7-cf0f-4a48-818e-139ac34646c3
+    title: AN/SPY-1 radar
+    slug: anspy-1-radar
+  date: null
+  date_end: null
+  location_in_record: p.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 7ed26763-850d-43e2-afae-e03c7a707085
+  claim_hash: 698df16d64922d0fb0cdc76caa7cc0db98a27feecd6f7f4230116afadc050547
+  content: The Tactical Air Officer aboard the USS Princeton (CG-59) could not identify
+    the radar contact and, given the high speed and altitude, was perplexed.
+  original_excerpt: The Tactical Air Officer onboard the Princeton could not identify
+    the radar contact and given the high speed and altitude was perplexed.
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: null
+  date_end: null
+  location_in_record: p.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 9972f188-8e89-42d3-9eb4-d639f90820c4
+  claim_hash: 0f0869d2acee7f6086b3f0614402d0e1557a0408d4e02156784346cc6736847b
+  content: The Anomalous Aerial Vehicles (AAVs) detected by the USS Princeton (CG-59)
+    would descend from a very high altitude into the scan volume of the AN/SPY-1 radar
+    at a high velocity, with the top of the scan volume putting the AAVs at higher
+    than approximately 18,000 metres.
+  original_excerpt: 'According to Senior Chief {{redacted: ~1 word}} the AAVs would
+    descend from a very high altitude into the scan volume of the AN/SPY-1 at a high
+    velocity. The top of the scan volume would put the AAVs at higher than 60,000
+    feet.'
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: fe4e92e7-cf0f-4a48-818e-139ac34646c3
+    title: AN/SPY-1 radar
+    slug: anspy-1-radar
+  date: null
+  date_end: null
+  location_in_record: p.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: b970671d-bf1c-49d0-b30f-eeca650c3f8c
+  claim_hash: f6694b3c7cd543cfea7e33a0855b95851475fe2c182e67fc82db6446fac3c39a
+  content: The Fire Control Officer and his technician aboard the USS Princeton (CG-59)
+    initially thought the Anomalous Aerial Vehicle (AAV) contacts were part of the
+    Composite Training Unit Exercise (COMPTUEX).
+  original_excerpt: 'The Fire Control Officer, {{redacted: ~2 words}} and his technician,
+    FCSS {{redacted: ~2 words}} initially thought the contacts were part of the COMPTUX
+    exercise.'
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: null
+  date_end: null
+  location_in_record: p.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: ce715b17-d070-4e7f-be92-9315ad4b1ebd
+  claim_hash: d83144c1438ecc8ced439d885c10469de4ba55a4a3b4e096f7d5f42496a9d117
+  content: On 2004-11-14, after again detecting an Anomalous Aerial Vehicle (AAV),
+    the USS Princeton (CG-59) tasked two airborne F/A-18s in the vicinity for airborne
+    reconnaissance of the AAV.
+  original_excerpt: On 14 November 2004, after again detecting an AAV took the opportunity
+    of two F/A-18s airborne in the vicinity to task them for airborne reconnaissance
+    of the AAV.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: d2ee3b68-56e8-40d6-9905-07c12c1666c4
+  claim_hash: f43a9cedf162cdddc41a76450f493581322db82089e9f7a5c48c37464f944b6c
+  content: During the Composite Training Unit Exercise (COMPTUEX), the USS Princeton
+    (CG-59) on several occasions detected multiple Anomalous Aerial Vehicles (AAVs)
+    operating in and around the vicinity of the Carrier Strike Group.
+  original_excerpt: During COMPTUX, which is intermediate level training for elements
+    of the Nimitz Carrier Strike Group (CSG) prior to the deployment, the Princeton
+    on several occasions detected multiple AAVs operating in and around the vicinity
+    of the location shown in Figure 1.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 66aaf90a-f903-447a-8757-fd952f585dd4
+    title: Carrier Strike Group 11 (CSG-11)
+    slug: carrier-strike-group-11-csg-11
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: e56d249f-a080-437a-b4bf-f99a031daf0e
+  claim_hash: ae2ce1e58721fe49af1a9ce128ff3824e9a64e8b5d0f8202065f390f79fd4ec5
+  content: The Anomalous Aerial Vehicles (AAVs) were detected by the USS Princeton
+    (CG-59) three separate times during the week operating off the western coast of
+    the United States and Mexico.
+  original_excerpt: They were detected three separate times during the week operating
+    off the western coast of the United States and Mexico.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: null
+  date_end: null
+  location_in_record: p.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: ed7822b1-0390-479c-8361-1ce3b0b00d1f
+  claim_hash: 1d97cdd90892639bc8cbcab1121b4a045d46ef50437309e6b60d0eddf0abd049
+  content: The Anomalous Aerial Vehicles (AAVs) detected by the USS Princeton (CG-59)
+    would descend very rapidly from approximately 18,000 metres down to approximately
+    15 metres in a matter of seconds, then hover for a short time and depart at high
+    velocities and turn rates demonstrating advanced acceleration (G) capability.
+  original_excerpt: The AAVs would descend "very rapidly" from approximately 60,000
+    feet down to approximately 50 feet in a matter of seconds. They would then hover
+    for a short time and depart at high velocities and at turn rates demonstrating
+    an advanced acceleration (G) capability.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: null
+  date_end: null
+  location_in_record: p.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 3814c9e0-9d2f-4334-8a6e-777af999dd0e
+  claim_hash: cfe73912ba9291756b7fed14636bb3e06dd363455bf8246bde1c1520af4443b9
+  content: On 2004-11-14, a lieutenant was flying as the Air Control Officer (ACO)
+    controlling the flight of F/A-18s during the mission where the Anomalous Aerial
+    Vehicle (AAV) was observed.
+  original_excerpt: 'LT {{redacted: ~1 word}} was flying as the Air Control Officer
+    (ACO) on the mission where the AAV was observed by the flight of F/A-18s. He was
+    controlling the F/A-18s'
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 6f207d9a-c2a3-40df-b5d5-b74904b9f1e8
+  claim_hash: 4f502ddd3d84f5409382f1f1638f10cbf1b2d2d6fd846e559456eb56c3f5e25e
+  content: On 2004-11-14, an E-2C Naval Flight Officer from Carrier Airborne Early
+    Warning Squadron 117 (VAW-117) was airborne during the Anomalous Aerial Vehicle
+    (AAV) contact and was the squadron's avionics division officer responsible for
+    any radar recordings.
+  original_excerpt: 'On 14 November 2004, {{redacted: ~2 words}} E-2C NFO, was in
+    VAW-117 and airborne during the contact. Additionally, he was the squadron''s
+    avionics division officer and would be responsible for any and all RADAR recordings,
+    etc...'
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 00525b7a-3ae7-44d8-a86a-0b98d1489142
+    title: Carrier Airborne Early Warning Squadron 117 (VAW-117)
+    slug: carrier-airborne-early-warning-squadron-117-vaw-117
+  - node_id: 5ea2fc59-cfad-408a-bf24-b88fadfd2ebc
+    title: E-2 Hawkeye
+    slug: e-2-hawkeye
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 766ef188-1a29-4552-8dab-48ee96444aa3
+  claim_hash: ea1a2bee280deb12d816c67d67d9225c1dea7a0bdc5de9088f0f3a0189b31cb5
+  content: In the E-2C Hawkeye it is not routine to have any kind of recording engaged
+    unless it is pre-coordinated, and there was no recording of the 2004-11-14 Anomalous
+    Aerial Vehicle (AAV) event.
+  original_excerpt: Unfortunately in the E-2C, it is not routine to have any kind
+    of recording engaged unless it is pre coordinated which is typically only used
+    during airborne testing of new capabilities, etc... There was no recording of
+    this event.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ea2fc59-cfad-408a-bf24-b88fadfd2ebc
+    title: E-2 Hawkeye
+    slug: e-2-hawkeye
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 2d675600-a00e-48c4-9b7a-7a0c61dcd15b
+  claim_hash: 226963ef8910c514682bfbf9cab36746774b07a2a6b8f7c470ad97ea969eb9b1
+  content: The USS Princeton (CG-59) initially reported the Anomalous Aerial Vehicle
+    (AAV) target to be at approximately 4,600 to 6,100 metres above mean sea level,
+    and due to the intermittent radar return its velocity was unavailable.
+  original_excerpt: This was even more interesting because the USS Princeton initially
+    reported the target to be at 15,000 - 20,000 feet MSL. Due to the intermittent
+    radar return from the target, velocity was unavailable.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: null
+  date_end: null
+  location_in_record: p.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 59259f23-436c-48f4-bb58-e353b459fdcc
+  claim_hash: 16f46e36b8641d18449564cb0ab97b09a7ef03001036ad7c226837db68fd1dbe
+  content: On 2004-11-14, F/A-18 pilots and weapon system operators from Strike Fighter
+    Squadron 41 (VFA-41) obtained both visual and sensor contact with the Anomalous
+    Aerial Vehicle (AAV) at approximately N31 20' W117 10', about 130 kilometres south
+    of the U.S./Mexico border and 56 kilometres off the Baja Mexico coast.
+  original_excerpt: the F/A-18 pilots and weapon system operators (WSOs) from VFA-41
+    that were able to get both a visual and sensor contact with the AAV on 14 November
+    2004 at approximately N31 20' W117 10' about 70nm south of the U.S./Mexico Border
+    30 nm off the Baja Mexico Coast
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
+    title: Strike Fighter Squadron 41 (VFA-41)
+    slug: strike-fighter-squadron-41-vfa-41
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: a9f357c0-8dcf-4798-a2d8-1e32e5d2aaea
+  claim_hash: f4e6b5e3540608e26a6153dc55ab12bffad048e282de89b0699d827307651ce4
+  content: The Air Control Officer initially thought the E-2C radar return was a wave,
+    because in a high sea state of 4 or greater the E-2C radar can detect waves.
+  original_excerpt: 'LT {{redacted: ~1 word}} initially thought the return was a wave
+    because in a high sea state (4 or greater) the E-2C RADAR can actually detect
+    the waves.'
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ea2fc59-cfad-408a-bf24-b88fadfd2ebc
+    title: E-2 Hawkeye
+    slug: e-2-hawkeye
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: null
+  date_end: null
+  location_in_record: p.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: d5cabf31-834c-4bb2-ba08-e8815d2ec44c
+  claim_hash: 431163c270b68ffdb3e12cacf0afed7af34197c55661e5676390ec9f30302fe1
+  content: The Anomalous Aerial Vehicle (AAV) target was so low and the E-2C radar
+    return so faint that without the inputs from the USS Princeton (CG-59) the return
+    would have been missed or ignored.
+  original_excerpt: Additionally, the target was so low and the return was so faint
+    that without the inputs from the USS Princeton the return would have been missed/ignored.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 5ea2fc59-cfad-408a-bf24-b88fadfd2ebc
+    title: E-2 Hawkeye
+    slug: e-2-hawkeye
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: null
+  date_end: null
+  location_in_record: p.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: e619a92e-0ec3-412a-9e4d-237982bd50c7
+  claim_hash: 8d6e46304edcaf994467c30abc07c8cefa7dee0a489e8332adf54a2ce23b5b6a
+  content: The Air Control Officer did not see the Anomalous Aerial Vehicle (AAV)
+    on his E-2C radar until the USS Princeton (CG-59) directed the contact and gave
+    the E-2C the general direction to steer its radar.
+  original_excerpt: He did not see the object on his radar (raw video) until the USS
+    Princeton directed the contact and gave the E-2 the general direction to steer
+    its radar.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 5ea2fc59-cfad-408a-bf24-b88fadfd2ebc
+    title: E-2 Hawkeye
+    slug: e-2-hawkeye
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: null
+  date_end: null
+  location_in_record: p.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 0b1b164b-b11a-40f2-afb6-0c8345fbd5ec
+  claim_hash: 8b5dc1d1f6327ba5eed67636b29254bfc0213a82a9f613bf47550021eafd3d58
+  content: The Marine Fighter Attack Squadron 232 (VMFA-232) Commanding Officer never
+    made visual contact with the other fighter aircraft vectored to the location or
+    with the Anomalous Aerial Vehicle (AAV).
+  original_excerpt: He also never made visual contact with the other fighter aircraft
+    that were vectored to the location or the AAV.
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 1bd4ed7a-2ef2-4986-97bc-903db775e716
+  claim_hash: 1799178ae6801da2965b9ec0d0932d01bef06982476c85cb5c490ebcb6d2850d
+  content: The Marine Fighter Attack Squadron 232 (VMFA-232) Commanding Officer recovered
+    aboard the USS Nimitz (CVN-68) at approximately 12:00 local time and was asked
+    by his Intelligence Officer if he saw the 'supersonic Tic Tac'.
+  original_excerpt: 'Lt Col {{redacted: ~1 word}} recovered aboard the Nimitz at approximately
+    1200L. He reported to the Carrier Intelligence Center (CVIC) and was asked by
+    his Intelligence Officer, 1stLt {{redacted: ~2 words}} if he saw the "supersonic
+    Tic Tac"?'
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+    title: USS Nimitz (CVN-68)
+    slug: uss-nimitz-cvn-68
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 4e22e0d5-6814-42cb-b8b6-30c847209cd5
+  claim_hash: 5bbb99fc73e526eadeeb09b98f3c6d75a3adee401c04bd42871ceab406bc76bd
+  content: As he approached approximately 28 kilometres from the Anomalous Aerial
+    Vehicle (AAV), descending through approximately 4,600 metres, the Marine Fighter
+    Attack Squadron 232 (VMFA-232) Commanding Officer could see a water disturbance
+    on the ocean surface, with the sea state low and calm.
+  original_excerpt: As he approached approximately 15nm from the AAV descending through
+    approximately 15,000 feet, he could see a water disturbance in the ocean surface.
+    He recalled that the sea state was low (calm).
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 6890f1af-1b61-4252-bffe-3f227514b4f5
+  claim_hash: 1b652373b59846491ee3f2d8f78b4bcd2d04d63f35941236c523d79b5978652e
+  content: The Anomalous Aerial Vehicle (AAV) was reported to the Marine Fighter Attack
+    Squadron 232 (VMFA-232) Commanding Officer to be at slow speed and low altitude.
+  original_excerpt: The object was reported to be at "slow speed and low altitude".
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 8606cb8e-727e-41d6-8e4f-fe07d595dcad
+  claim_hash: ab9b7ff0a924a3546631710a11e3869c55c3b10951e4339c3e24acc9ce1a3995
+  content: While enroute at approximately 460 kilometres per hour indicated and 740
+    kilometres per hour groundspeed at 4,600 to 7,600 metres altitude, the Marine
+    Fighter Attack Squadron 232 (VMFA-232) Commanding Officer gained radar contact
+    of what he believed to be two F/A-18Fs approaching the Anomalous Aerial Vehicle
+    (AAV) from the west at low altitude of approximately 150 to 1,500 metres.
+  original_excerpt: While enroute at approximately 250 knots indicated/400 knots groundspeed
+    at medium altitude (15-25,000 feet), he gained radar contact of what he believed
+    to be two F/A-18Fs that were approaching the AAV from the west at low altitude
+    (500-5,000 feet).
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 87a618ba-d686-4ffe-b260-fa110a1e7de0
+  claim_hash: 1da9e69b44436ec201b963bac036a80165f892d78ca5da37fa2f781d8e951181
+  content: The water disturbance observed by the Marine Fighter Attack Squadron 232
+    (VMFA-232) Commanding Officer appeared to be 50 to 100 metres in diameter and
+    close to round, the only area of whitewater activity visible, reminding him of
+    something rapidly submerging like a submarine or ship sinking.
+  original_excerpt: The disturbance appeared to be 50 to 100 meters in diameter and
+    close to round. It was the only area and type of whitewater activity that could
+    be seen and reminded him of images of something rapidly submerging from the surface
+    like a submarine or ship sinking.
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 8e40d389-b904-450e-aa53-2ce9881b44a9
+  claim_hash: d5caf8c080f2455d766d5cde05bf799fa91bc9c9f5324d0a4aa863d9a8aea77c
+  content: As the Marine Fighter Attack Squadron 232 (VMFA-232) Commanding Officer
+    flew away, the water disturbance was clearing and he could no longer identify
+    where it had occurred, and he did not see any object or vessel associated with
+    it above, on, or below the surface.
+  original_excerpt: As he was flying away he could see the disturbance clearing and
+    could no longer identify the place where it occurred. He did not see any object
+    or vessel associated with the disturbance either above the surface, on the surface,
+    or below the surface.
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: afa4f2ee-d614-40e5-92d4-4042b5fbdf25
+  claim_hash: 0fc8b3df00384eed61a55e52922cc7ec07dfb50820658f82fd8c89d08a84fe49
+  content: At approximately 9 to 19 kilometres away from the Anomalous Aerial Vehicle
+    (AAV), the controller told the Marine Fighter Attack Squadron 232 (VMFA-232) Commanding
+    Officer to skip it and return to his operating area, but being close he elected
+    to fly over the water disturbance to see what was causing it.
+  original_excerpt: At approximately 5-10 nm away from the AAV, the controller told
+    him to "skip it" and return to his operating area. Since he was close he elected
+    to fly over the water disturbance to try and see what was causing it.
+  claim_type: testimony
+  attestation: first_hand
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: c01e2870-4be0-4956-92a1-a04e9e34708f
+  claim_hash: c4f9edcbe42bd1c81402de547148b26f8e2644136ac4d21d1a2117ac34c7f9c0
+  content: About 30 minutes into his flight, the Commanding Officer of Marine Fighter
+    Attack Squadron 232 (VMFA-232) received a non-standard radio call from his air
+    controller asking him to investigate an unidentified airborne contact.
+  original_excerpt: After 30 minutes into his flight he received a radio call from
+    his air controller asking him to investigate an unidentified airborne contact.
+    This was not a standard request.
+  claim_type: testimony
+  attestation: first_hand
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: cf2884ae-6e3f-4372-ab9d-1aa59617b996
+  claim_hash: 363014b80352b8b19ab19b438de3573c2670cc5eeff56209625d7dadac96acbf
+  content: The air controller informed the Marine Fighter Attack Squadron 232 (VMFA-232)
+    Commanding Officer to remain above approximately 3,000 metres as there was other
+    fighter traffic at low altitude investigating the Anomalous Aerial Vehicle (AAV).
+  original_excerpt: The controller informed him to remain above 10,000 feet, as there
+    was other fighter traffic at low altitude investigating the AAV.
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+    title: Marine Fighter Attack Squadron 232 (VMFA-232)
+    slug: marine-fighter-attack-squadron-232-vmfa-232
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: e64846bc-b199-4a05-bf06-7101056433b9
+  claim_hash: 388f7935c719f67215cc05de81e48d45e1cda5175183295a5fc570043be2c018
+  content: It is possible the water disturbance was being caused by an Anomalous Aerial
+    Vehicle (AAV) that was cloaked or invisible to the human eye.
+  original_excerpt: It is possible that the disturbance was being caused by an AAV
+    but that the AAV was 'cloaked' or invisible to the human eye.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: null
+  date_end: null
+  location_in_record: p.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 04992ee1-e63a-4ba1-9ab4-8733eaf18e80
+  claim_hash: 56e1bfda810d639f9dd5a979c624980edbd5ec99bae184a40ec3f1f76abf2e49
+  content: The first indication David Fravor had of the unknown contact was a visual
+    of a disturbance on the water below the Anomalous Aerial Vehicle (AAV), after
+    which he gained a visual on the object itself.
+  original_excerpt: According to CDR Fravor the first indication he had of the unknown
+    contact was a visual of a disturbance on the water below the AAV. As he scanned
+    the area he gained a visual on the object.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 17c71e79-f6d7-40be-8849-7fb1f4a024f6
+  claim_hash: f2b2d42fdd1a02de9433ab2b1d0f2d99a034c913a82aae1e5d8a1292d8ad81bc
+  content: David Fravor did not recall any indication of the object via on-board sensor,
+    and the lead F/A-18F was not carrying a forward-looking infrared (FLIR) pod onboard.
+  original_excerpt: CDR Fravor did not recall any indications via on-board sensor
+    of the object. Their aircraft was not carrying a Forward Looking Infrared (FLIR)
+    pod onboard.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 5ee2eeb8-4e21-4d21-aad3-0d6ab081a5d7
+  claim_hash: 6bd9d07b266b800ad78814c68d02d341c35e4da28e90282cab322bfdba62dc72
+  content: David Fravor's F/A-18F had an AN/APG-73 radar set to Range While Search
+    (RWS), Range Gated High, on the 150 kilometre scale, and the Radar Attack Display
+    was clean with no targets.
+  original_excerpt: 'As CDR Fravor remembers it, the Radar Attack Display was clean
+    (no targets). Their F/A-18F had an APG-73 radar and was set to the following parameters:
+    Range While Search (RWS), Range Gated High, 80NM scale'
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: 787a947b-f020-4f9a-bac8-72b82e5c1475
+    title: AN/APG-73 radar
+    slug: anapg-73-radar
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 5f94ddfb-3823-4af6-b0b0-61e5f60f0fea
+  claim_hash: cd25d5b20b31f82d25f9775c24531117f80dfc3ef6f73d6c219c8712a3596dc8
+  content: After completing their training portion, the FastEagle flight was handed
+    off by the E-2C controller to the USS Princeton (CG-59), callsign Poison, where
+    they received Bearing Range Altitude Aspect (BRAA) vectors to an unknown contact
+    flying into the working area from the south.
+  original_excerpt: After they completed their training the E-2C controller handed
+    them off to the USS Princeton callsign 'Poison' where they received vectors via
+    Bearing Range Altitude Aspect (BRAA) to an unknown contact flying into the working
+    area from the south.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 5ea2fc59-cfad-408a-bf24-b88fadfd2ebc
+    title: E-2 Hawkeye
+    slug: e-2-hawkeye
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 6fdef924-e715-4e2a-89f8-794811e57dfc
+  claim_hash: 01c8d17d228de10e17d53cd55dcd7d06ee4237108bb2c9a850b40feb234d6786
+  content: During the 2004-11-14 intercept, situational awareness to the Anomalous
+    Aerial Vehicle (AAV) was initially received via sporadic Link-16 tracks from an
+    off-board sensor, assumed to be the USS Princeton's AN/SPY-1 radar.
+  original_excerpt: 'Situational awareness to the object was initially received via
+    sporadic Link-16 tracks (Link-16 is a time division multiple access data-link)
+    via an off-board sensor. Lt {{redacted: ~1 word}} assumed that the sensor providing
+    the information was the USS Princeton''s SPY-1 radar.'
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: a89b8eec-51fe-4f69-bf98-89d3a8957a50
+    title: Link-16
+    slug: link-16
+  - node_id: fe4e92e7-cf0f-4a48-818e-139ac34646c3
+    title: AN/SPY-1 radar
+    slug: anspy-1-radar
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: a4192659-0ca2-4380-a286-8f0698f1d6ab
+  claim_hash: e42cad749e8b816a7e7047b4477b087d120fc10286df3168b7570a96bb6fac70
+  content: David Fravor described the water disturbance as localised underneath the
+    Anomalous Aerial Vehicle (AAV), not appearing as a trail or wake, looking like
+    frothy waves and foam almost as if the water was boiling.
+  original_excerpt: when asked to describe the disturbance on the water he stated
+    that it was localized underneath the object, did not appear as a trail or wake,
+    and looked like frothy waves and foam almost as if the water was boiling.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: a8858132-d923-4d8c-a36b-a467daf0ecf3
+  claim_hash: 99329ce0bf0084f82692325cbf185e8522ba757e55ecdc726012f11d34b6bd24
+  content: David Fravor attempted an unsuccessful helmet lock using the Joint Helmet
+    Mounted Cueing System during the 2004-11-14 intercept.
+  original_excerpt: CDR Fravor attempted a "helmet lock" that was unsuccessful. It
+    is important to note that CDR Fravor was using the Joint Helmet Mounted Cuing
+    System which will cue the aircraft sensors such as the radar to 'lock on' to what
+    the pilot is looking at and it also has a recording capability.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4d7e3d87-ae73-4f82-8bbe-fad543b58c7d
+    title: Joint Helmet Mounted Cueing System
+    slug: joint-helmet-mounted-cueing-system
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 26cda5d9-8c29-4d41-bfec-06af9d404f6a
+  claim_hash: 409ed1d2e73ff6a14c787b1382834df2471514ed6e9d1bcbc6038fe0e25f785c
+  content: David Fravor began a descent from about 3,000 metres and approximately
+    650 kilometres per hour to take a close aboard pass with the Anomalous Aerial
+    Vehicle (AAV) to visually identify it, pulling nose on and then pulling trail
+    aft of the object.
+  original_excerpt: They began the decent as they rolled in from about 10,000ft and
+    approximately 350 knots to take the object close aboard. CDR Fravor pulled nose
+    on and then pulled trail (aft) of the object.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 33da232c-08da-4fb4-98b1-ef7111b5cb91
+  claim_hash: c3c1c941195fdbf4e7571a719d5dfb886a49789b209d3dbdb1393a7e8ff8483e
+  content: David Fravor's weapon system operator reported the Anomalous Aerial Vehicle
+    (AAV) travelling level at approximately 150 to 300 metres at approximately 930
+    kilometres per hour, differing from David Fravor's account.
+  original_excerpt: His report differs from CDR Fravor in that he reported the object
+    traveling level at approximately 500-1000 feet at approximately 500 knots.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 370acb8a-2479-4fb1-87b1-1b100cc39912
+  claim_hash: 925db8e8731687f7f8c6d5bb170163331f38db0bfd6a249e492129183686ee01
+  content: David Fravor described the Anomalous Aerial Vehicle (AAV) shape as an elongated
+    egg or 'Tic Tac' with a discernable midline horizontal axis, uniformly white across
+    the entire body, and approximately 14 metres in length.
+  original_excerpt: According to CDR Fravor, the object's shape was like an elongated
+    egg or a 'Tic Tac' and had a discernable midline horizontal axis. However, the
+    object was uniformly white across the entire body. It was approximately 46 feet
+    in length.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 37a8de8e-8300-407f-b0a6-e879c938ccae
+  claim_hash: 1fc4f04ca59e1cec2f0b4d70c4e68bf0f80379a6bbb4c9b26d802ab207ec32d4
+  content: After the Anomalous Aerial Vehicle (AAV) ascended, the USS Princeton (CG-59)
+    initially reported the picture was clean with no contact, then reported the AAV
+    had flown to the flight's training combat air patrol at the southern end of the
+    training area and climbed to approximately 7,300 metres.
+  original_excerpt: Poison initially reported that the "picture was clean" (no contact)
+    but then stated "you're not going to believe this, its at your CAP" meaning that
+    the AAV had flown to their training CAP, which was located in the southern end
+    of the training area and had climbed to approximately 24,000 feet.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 49f52e76-fcc5-443e-99ff-1d6b695fc67d
+  claim_hash: 620ce0d2b987341cf65bd26f94c3eacf920872a62e2fc51c26a4df436c4f78c3
+  content: As David Fravor completed his manoeuvre, the Anomalous Aerial Vehicle (AAV)
+    ascended quickly and pulled lift vector on and aft of the F/A-18 at a supersonic
+    speed.
+  original_excerpt: As they completed this maneuver, the object ascended quickly and
+    pulled lift vector on and aft of them at a supersonic speed.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 75b32d3a-5a9a-4fd4-9410-5d319fc9e844
+  claim_hash: 8d9e08562b1974d57c4c166781300ce2626a55c0f36d030e40aedf787aefc3fa
+  content: The Anomalous Aerial Vehicle (AAV) was pointed in a north/south orientation
+    and was moving both north-south and east-west while maintaining a consistent altitude,
+    with the displacements being minor according to David Fravor.
+  original_excerpt: The object was pointed in a north/south orientation and was moving
+    both north & south and east & west, while maintaining a consistent altitude. These
+    displacements, according to CDR Fravor, were minor.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 76d1e777-e952-4a3a-b95a-14d583ad9eab
+  claim_hash: b14e9a846eac7648384dfdc95b6e1fb819e81632279650e5a6befc9fb6fd5964
+  content: David Fravor's weapon system operator described the Anomalous Aerial Vehicle
+    (AAV) as solid white, smooth, with no edges, uniformly coloured with no nacelles,
+    pylons, or wings, looking like it had a white candy-coated shell almost like a
+    white board, and neither glowing nor reflecting sunlight.
+  original_excerpt: 'LT {{redacted: ~1 word}} described it as "solid white, smooth,
+    with no edges. It was uniformly colored with no nacelles, pylons, or wings." When
+    asked to describe the appearance, if it glowed or reflected sunlight he said,
+    "neither, it looked like it had a white candy-coated shell, almost like a white
+    board."'
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: a5c6d62b-310c-4d1d-b342-542bcf42c2e9
+  claim_hash: 710b84abc622af1a7f6c5e0a6d4a1f10686feb8fd772986e3e3e78e01bc9f5cd
+  content: As David Fravor manoeuvred, the Anomalous Aerial Vehicle (AAV) appeared
+    to recognise the aircraft by pointing or realigning its axis toward them, and
+    at this time the disturbance on the water ceased.
+  original_excerpt: 'As they were maneuvering, the object appeared, according to CDR
+    Fravor: "to recognize us." He assessed this from the fact the object "pointed"
+    (realigned it''s axis) in the direction of their aircraft. At this time, according
+    to CDR Fravor, the disturbance on the water ceased.'
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: d1aa596d-59ac-402b-9f4b-12fc1e632be3
+  claim_hash: 5948bf93c908e73a160b946597e2ca8ce4ff40de2aea9ead0b2e96267c193bf2
+  content: David Fravor described the Anomalous Aerial Vehicle (AAV) as holding like
+    a Harrier, referring to the AV-8B aircraft capable of hovering and Vertical/Short
+    Takeoff and Landing (V/STOL) via thrust vectoring.
+  original_excerpt: CDR Fravor stated that the object was "holding like a Harrier."
+    (Referring to the AV-8B jet aircraft, which is capable of hovering and Vertical/Short
+    Takeoff and Landing (V/STOL) via thrust vectoring.)
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  - node_id: c42f4a70-d8a5-4760-8e5a-f6e3adf9bb24
+    title: AV-8B Harrier
+    slug: av-8b-harrier
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: ebbc6ece-e32f-46a4-8678-738fa165207f
+  claim_hash: 9ed6d04150f7833fb8cb2764651473fe5b5ce2e296500b604fbb811b18184cfe
+  content: David Fravor's flight attempted to locate both the Anomalous Aerial Vehicle
+    (AAV) and the water disturbance with no success, and nothing was seen on the surface
+    or subsurface with no indications of the previous disturbance.
+  original_excerpt: CDR Fravor stated that the flight attempted to locate both the
+    object and the disturbance with no success. CDR Fravor stated that nothing was
+    seen on the surface or subsurface and that there were no indications of the previous
+    disturbance.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: Fravor, David
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 1ddaf609-6205-4ef8-b103-0596c06fe604
+  claim_hash: 6e9d3287b677cc52dc24b9fa459e0efc926498baf2edc2dd6f793351aee7f660
+  content: On Chad Underwood's flight there was no radio or communication interference
+    and they had entry into the Link-16 network, with initial awareness of the object
+    coming via the radar at approximately 56 to 74 kilometres to the south of the
+    aircraft.
+  original_excerpt: There were no radio or communication interference and they had
+    entry into the Link-16 network. Initial awareness of an object came via the radar.
+    According to the radar display, the initial tracks were at approximately 30-40
+    nm to the south of the aircraft.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+    title: Underwood, Chad
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+    title: Underwood, Chad
+    slug: chad-underwood
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: a89b8eec-51fe-4f69-bf98-89d3a8957a50
+    title: Link-16
+    slug: link-16
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 8d6b293e-f6da-4501-8594-ec136032bd94
+  claim_hash: 34b53275410a96692684c7f2c984169130a537c6e73f8a1d83f8973894e79e85
+  content: Chad Underwood attempted multiple times to transition the radar to Single
+    Target Track (STT) mode on the object, but the radar could not take a lock; the
+    b-sweep would raster around the hit, build an initial aspect vector that never
+    stabilised, then drop and continue normal Range While Search b-sweep.
+  original_excerpt: LT Underwood was controlling the radar and FLIR and attempted
+    multiple times to transition the radar to Single Target Track (STT) mode on the
+    object. The radar could not take a lock, the b-sweep would raster around the hit,
+    build an initial aspect vector (which never stabilized) and then would drop and
+    continue normal RWS b-sweep.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+    title: Underwood, Chad
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+    title: Underwood, Chad
+    slug: chad-underwood
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: dd8cfc2e-5fef-4537-8690-36ca7bcd31a3
+  claim_hash: 3967eeea1179e9015e9c8cd853b9ac724741f53bcf047c00f4138bdd168cab7c
+  content: Chad Underwood observed no jamming cues during the radar lock attempts
+    on the Anomalous Aerial Vehicle (AAV), describing it as if the radar could not
+    receive enough information to create a single target track file.
+  original_excerpt: When asked, LT Underwood stated that there were no jamming cues
+    (strobe, champagne bubbles, "any normal EA indications"). It "just appeared as
+    if the radar couldn't hack it." The radar couldn't receive enough information
+    to create a single target track file.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+    title: Underwood, Chad
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+    title: Underwood, Chad
+    slug: chad-underwood
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 0be454eb-7373-45f1-8aab-b56a0d632b5f
+  claim_hash: 75cb71cff6d100b10570a0baff6999b421499c71acaf8e1aca1419c9c1824e0d
+  content: The forward-looking infrared (FLIR) on Chad Underwood's aircraft showed
+    the Anomalous Aerial Vehicle (AAV) at 0 antenna train angle and approximately
+    -5 degrees elevation, estimated to be co-altitude or a few thousand feet below,
+    between approximately 4,600 and 6,100 metres.
+  original_excerpt: The FLIR showed an object at 0 ATA and approximately -5deg elevation
+    (Figure 2). According to LT Underwood, "the target was best guess co-altitude
+    or a few thousand feet below," estimating the object to be between 15-20 thousand
+    feet.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+    title: Underwood, Chad
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+    title: Underwood, Chad
+    slug: chad-underwood
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.9-10
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: 62b191d7-a57f-4908-83ee-f40c22f15465
+  claim_hash: 27d22dd1987f20786cb908d849a87c4f510a8a2d13e89fa88cbf5b9496f7a035
+  content: According to the forward-looking infrared (FLIR), the Anomalous Aerial
+    Vehicle (AAV) appeared stationary with no discernable movement, the only closure
+    being a result of the aircraft's movement, before it began to move out of the
+    FLIR field of view to the left.
+  original_excerpt: The object, according to the FLIR, appeared stationary (Figure
+    3). There was no discernable movement from the object with the only closure being
+    a result of the aircraft's movement. As LT Underwood watched the object it began
+    to move out of FLIR field of view to the left.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+    title: Underwood, Chad
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+    title: Underwood, Chad
+    slug: chad-underwood
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: p.9-10
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
+    record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
+    record_date: '2004-11-14'
+    record_reference: null
+    content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
+    friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
+- claim_id: ae131adf-640a-4d03-b509-f0a9e1f04fc8
+  claim_hash: bc73710602ff65503f5ce8f963b73cc1a3a72e77ec4da0c40a72c28eac7826de
+  content: The mission of the Advanced Aerospace Threat Identification Program (AATIP)
+    was to collect and analyse information involving anomalous aerial vehicles (AAV),
+    known in the vernacular as UFOs.
+  original_excerpt: The mission of AATIP was quite simple. It was to collect and analyze
+    information involving anomalous aerial vehicles, what I guess in the vernacular
+    you call them UFOs. We call them UAPs.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204aa68d-9584-40c4-a40e-a6699395cf4b
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: af6e1245-9594-41d7-854e-1a63d70a79ca
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  date: null
+  date_end: null
+  location_in_record: 00:01:24.1-00:01:34.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+    record_title: Navy pilots describe encounters with UFOs
+    record_date: '2021-05-17'
+    record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+    content_hash: sha256:f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd02105b55b
+    friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos
+- claim_id: 65e79861-be56-4d79-ac97-b0f03c3c19ea
+  claim_hash: efeaa0fe87ce91d4008274aeac635d607022943c6f0bf4663037c37c4aee540b
+  content: For a week, the advanced new radar on the USS Princeton had detected what
+    operators called multiple anomalous aerial vehicles (AAV) over the horizon, descending
+    approximately 24,000 metres in less than a second.
+  original_excerpt: For a week, the advanced new radar on a nearby ship, the USS Princeton,
+    had detected what operators called multiple anomalous aerial vehicles over the
+    horizon, descending 80,000 feet in less than a second.
+  claim_type: observation
+  attestation: null
+  speaker:
+    node_id: 3583716e-2b2b-4b1d-8371-150e69b2a0f3
+    title: Whitaker, Bill
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: 76f817db-03c2-44c5-86b1-d30eae7ce2f6
+    title: anomalous aerial vehicle (Anomalous Aerial Vehicle (AAV))
+    slug: anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: 2004-11
+  date_end: null
+  location_in_record: 00:07:23.1-00:07:39.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+    record_title: Navy pilots describe encounters with UFOs
+    record_date: '2021-05-17'
+    record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+    content_hash: sha256:f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd02105b55b
+    friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos

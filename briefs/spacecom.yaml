@@ -1,0 +1,202 @@
+schema: anomalica/brief/1
+brief_hash: 7f5b1f8f2a934304bc1e50f19ed5a0d6ac59b27232af73b4088462d8e78c9d11
+page:
+  kind: entity
+  node_id: a46ce807-3f52-469e-81b5-0b859ce6dd6b
+  node_type: organisation
+  title: Space.com
+  slug: spacecom
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+  title: Arthur C. Clarke
+  node_type: person
+  slug: arthur-c-clarke
+  shared_claims: 2
+- node_id: 4056024b-6788-453b-a270-7b9890087c91
+  title: Buzz Aldrin
+  node_type: person
+  slug: buzz-aldrin
+  shared_claims: 1
+- node_id: 9b060781-71e6-41a0-9566-44ec9011a757
+  title: IEC (image source company)
+  node_type: organisation
+  slug: iec-image-source-company
+  shared_claims: 1
+- node_id: 9cb8665d-1cdf-40dc-87d4-566900f823cc
+  title: Leonard David
+  node_type: person
+  slug: leonard-david
+  shared_claims: 1
+- node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+  title: Mars
+  node_type: place
+  slug: mars
+  shared_claims: 1
+- node_id: 1b37dffd-3141-4b55-a371-69047a7f2b80
+  title: Mars Odyssey
+  node_type: project
+  slug: mars-odyssey
+  shared_claims: 1
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 1
+claims:
+- claim_id: 042c1ccb-0001-4227-a733-1a881c96809e
+  claim_hash: 8716010b5df94202edd4c331f4459fbc637c1d66b2f55882becf47399191c6fb
+  content: Arthur C. Clarke told SPACE.com that he is fairly convinced life has been
+    discovered on Mars.
+  original_excerpt: '"I''m fairly convinced that we have discovered life on Mars,"
+    Clarke told SPACE.com'
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+  provenance_chain:
+    origin_kind: speaker
+    origin: Arthur C. Clarke
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: a46ce807-3f52-469e-81b5-0b859ce6dd6b
+    title: Space.com
+    slug: spacecom
+  - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+    title: Mars
+    slug: mars
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: char:223-302
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+    record_title: Clarke's Believe It or Not
+    record_date: '2001-04-13'
+    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+    friendly_name: null
+- claim_id: 3c53b2e0-32af-4457-92f0-997e0c2c8d78
+  claim_hash: bf63e05cf92bf0b0b4010c057e21ec0eb2e7cdc520e4d5cd95fe5033bcb47c28
+  content: Arthur C. Clarke made his remarks about life on Mars to SPACE.com while
+    Buzz Aldrin listened.
+  original_excerpt: Sunday as Buzz Aldrin listened.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4056024b-6788-453b-a270-7b9890087c91
+    title: Buzz Aldrin
+    slug: buzz-aldrin
+  - node_id: a46ce807-3f52-469e-81b5-0b859ce6dd6b
+    title: Space.com
+    slug: spacecom
+  - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+    title: Arthur C. Clarke
+    slug: arthur-c-clarke
+  date: null
+  date_end: null
+  location_in_record: char:308-330
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: a9ae4655-296a-4774-99e7-46ef6350c6c4
+    record_title: Clarke's Believe It or Not
+    record_date: '2001-04-13'
+    record_reference: http://www.space.com/peopleinterviews/clarke_believe_010227.html
+    content_hash: sha256:e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3232e3c65
+    friendly_name: null
+- claim_id: 0ce86150-4e4f-494b-afb0-95ca9d38bd3d
+  claim_hash: ff99c9c7b4d93082b1c32369da7d87aaf60ac0e9c19947a404d25565869340c5
+  content: On 2002-02-26, a new story by Leonard David appeared on Space.com in which
+    NASA project scientists described the early data from the science phase of the
+    Mars Odyssey mission as amazing.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Space.com article by Leonard David
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1b37dffd-3141-4b55-a371-69047a7f2b80
+    title: Mars Odyssey
+    slug: mars-odyssey
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 9cb8665d-1cdf-40dc-87d4-566900f823cc
+    title: Leonard David
+    slug: leonard-david
+  - node_id: a46ce807-3f52-469e-81b5-0b859ce6dd6b
+    title: Space.com
+    slug: spacecom
+  date: '2002-02-26'
+  date_end: null
+  location_in_record: ch16:17405-17596
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a8ea6dcd-6946-47bb-897c-795adca0a8ed
+  claim_hash: f69481681c8eed0f5483ce9bd733d0cfde15b82919a83c3df4053fb033e70412
+  content: About two weeks before the late February Space.com article, a series of
+    images purportedly from Mars appeared on the web, leaked from a company called
+    IEC.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9b060781-71e6-41a0-9566-44ec9011a757
+    title: IEC (image source company)
+    slug: iec-image-source-company
+  - node_id: a46ce807-3f52-469e-81b5-0b859ce6dd6b
+    title: Space.com
+    slug: spacecom
+  date: null
+  date_end: null
+  location_in_record: ch16:20140-20379
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted

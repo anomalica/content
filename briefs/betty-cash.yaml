@@ -1,0 +1,383 @@
+schema: anomalica/brief/1
+brief_hash: c55748187d08cb3e2e96f38fe4de0b5732da8ccf4927ab9f10d2ef47520f39f8
+page:
+  kind: entity
+  node_id: 72a91174-7867-4e83-8182-2e8f5e47ea5b
+  node_type: person
+  title: Cash, Betty
+  slug: betty-cash
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: 1919d41b-3782-4459-a4a3-e420e455251e
+  title: Cash-Landrum Incident
+  node_type: event
+  slug: cash-landrum-incident
+  shared_claims: 9
+- node_id: 392cf5c5-db92-43f1-bd2a-76e55c2d80d6
+  title: Landrum, Vickie
+  node_type: person
+  slug: vickie-landrum
+  shared_claims: 8
+- node_id: 7f3c4397-7df4-43ce-a130-9d797315763d
+  title: Landrum, Colby
+  node_type: person
+  slug: colby-landrum
+  shared_claims: 3
+- node_id: 3a2c750e-a046-426e-bddf-bd68a1631851
+  title: UAP Biological Effects
+  node_type: matter
+  slug: uap-biological-effects
+  shared_claims: 2
+- node_id: b329877d-51db-4154-85f3-ff2c90f71e4c
+  title: USA, Texas, Dayton
+  node_type: place
+  slug: texas-dayton-usa
+  shared_claims: 1
+claims:
+- claim_id: 15b4b260-47f6-4669-9ee4-b4b3173e47bd
+  claim_hash: bbbe9c7eafed7ba4799a0780449fc281fd4bcaef75ec05d91f0c2b1136a79c6c
+  content: Betty Cash and Vickie Landrum reported that the object in the Cash-Landrum
+    Incident was dull metallic silver colour, shaped like an upright diamond with
+    the top and bottom flattened, with small blue lights ringing the centre.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 72a91174-7867-4e83-8182-2e8f5e47ea5b
+    title: Cash, Betty
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1919d41b-3782-4459-a4a3-e420e455251e
+    title: Cash-Landrum Incident
+    slug: cash-landrum-incident
+  - node_id: 392cf5c5-db92-43f1-bd2a-76e55c2d80d6
+    title: Landrum, Vickie
+    slug: vickie-landrum
+  - node_id: 72a91174-7867-4e83-8182-2e8f5e47ea5b
+    title: Cash, Betty
+    slug: betty-cash
+  date: '1980-12-29'
+  date_end: null
+  location_in_record: paragraph 4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 13e68308-9208-4462-97bb-1ef106203534
+  claim_hash: 44265599af870e37c1d9ec3dc173de6b4d96f62c2e1985abb167b2e98b93a8fc
+  content: On the evening of 29 December 1980, Betty Cash, Vickie Landrum and Colby
+    Landrum witnessed a huge glowing diamond-shaped object hovering above them while
+    driving near Dayton, Texas, radiating massive amounts of heat.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1919d41b-3782-4459-a4a3-e420e455251e
+    title: Cash-Landrum Incident
+    slug: cash-landrum-incident
+  - node_id: 392cf5c5-db92-43f1-bd2a-76e55c2d80d6
+    title: Landrum, Vickie
+    slug: vickie-landrum
+  - node_id: 72a91174-7867-4e83-8182-2e8f5e47ea5b
+    title: Cash, Betty
+    slug: betty-cash
+  - node_id: 7f3c4397-7df4-43ce-a130-9d797315763d
+    title: Landrum, Colby
+    slug: colby-landrum
+  - node_id: b329877d-51db-4154-85f3-ff2c90f71e4c
+    title: USA, Texas, Dayton
+    slug: texas-dayton-usa
+  date: '1980-12-29'
+  date_end: null
+  location_in_record: paragraph 4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 02460a5c-2191-47bb-ae99-4c083b9d2960
+  claim_hash: afa7d3e43d9157cf5c96d6f117ad65eb40d68bf64892cdbca814425786d6db29
+  content: Betty Cash and Vickie Landrum claimed they saw at least 23 helicopters,
+    including multiple massive Boeing CH-47 Chinooks, approaching the object in tight
+    formation during the Cash-Landrum Incident.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 72a91174-7867-4e83-8182-2e8f5e47ea5b
+    title: Cash, Betty
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1919d41b-3782-4459-a4a3-e420e455251e
+    title: Cash-Landrum Incident
+    slug: cash-landrum-incident
+  - node_id: 392cf5c5-db92-43f1-bd2a-76e55c2d80d6
+    title: Landrum, Vickie
+    slug: vickie-landrum
+  - node_id: 72a91174-7867-4e83-8182-2e8f5e47ea5b
+    title: Cash, Betty
+    slug: betty-cash
+  date: '1980-12-29'
+  date_end: null
+  location_in_record: paragraph 5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 09a6a08f-5543-4cfc-860c-990856861bff
+  claim_hash: cf1b89ae750475ea14d5603ff5888cd093b20e9320142d4161a112c9beb101b9
+  content: A radiologist asserted that the injuries suffered by the Cash-Landrum witnesses
+    could only have been caused by ionising radiation.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: third_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1919d41b-3782-4459-a4a3-e420e455251e
+    title: Cash-Landrum Incident
+    slug: cash-landrum-incident
+  - node_id: 392cf5c5-db92-43f1-bd2a-76e55c2d80d6
+    title: Landrum, Vickie
+    slug: vickie-landrum
+  - node_id: 72a91174-7867-4e83-8182-2e8f5e47ea5b
+    title: Cash, Betty
+    slug: betty-cash
+  - node_id: 7f3c4397-7df4-43ce-a130-9d797315763d
+    title: Landrum, Colby
+    slug: colby-landrum
+  date: null
+  date_end: null
+  location_in_record: paragraph 5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 37031212-10f3-4a0d-8539-82396b7732b9
+  claim_hash: 03a75334615aa89e22d179c056287ea5302ef14d528a3e82b4e3cb390b37e05b
+  content: In the days after the Cash-Landrum Incident, large painful blisters formed
+    on Betty Cash's skin and she began losing hair.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1919d41b-3782-4459-a4a3-e420e455251e
+    title: Cash-Landrum Incident
+    slug: cash-landrum-incident
+  - node_id: 72a91174-7867-4e83-8182-2e8f5e47ea5b
+    title: Cash, Betty
+    slug: betty-cash
+  date: 1980-12
+  date_end: null
+  location_in_record: paragraph 5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: a1369ad6-08d3-4b04-aa7e-ddfa8660d2ba
+  claim_hash: 02b748855fd7cccf9004f3ddba62986b3181add7aff7047bc8e08de8b5de8c16
+  content: Betty Cash, Vickie Landrum and Colby Landrum sued the federal government
+    for $20 million but in 1986 the case was dismissed for lack of proof that the
+    object was associated with the federal government.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Coulthart, Ross
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1919d41b-3782-4459-a4a3-e420e455251e
+    title: Cash-Landrum Incident
+    slug: cash-landrum-incident
+  - node_id: 392cf5c5-db92-43f1-bd2a-76e55c2d80d6
+    title: Landrum, Vickie
+    slug: vickie-landrum
+  - node_id: 72a91174-7867-4e83-8182-2e8f5e47ea5b
+    title: Cash, Betty
+    slug: betty-cash
+  - node_id: 7f3c4397-7df4-43ce-a130-9d797315763d
+    title: Landrum, Colby
+    slug: colby-landrum
+  date: '1986'
+  date_end: null
+  location_in_record: paragraph 5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 90c6f2e1-e65f-4f16-b6b9-051a2721e4ed
+  claim_hash: 2dd54a02c65498da40cf22d7a162a99f82484982d66021d59b5e77898a88a5dd
+  content: One of the women from the December 1980 Texas road incident later developed
+    severe cataracts; the other developed breast cancer.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1919d41b-3782-4459-a4a3-e420e455251e
+    title: Cash-Landrum Incident
+    slug: cash-landrum-incident
+  - node_id: 392cf5c5-db92-43f1-bd2a-76e55c2d80d6
+    title: Landrum, Vickie
+    slug: vickie-landrum
+  - node_id: 3a2c750e-a046-426e-bddf-bd68a1631851
+    title: UAP Biological Effects
+    slug: uap-biological-effects
+  - node_id: 72a91174-7867-4e83-8182-2e8f5e47ea5b
+    title: Cash, Betty
+    slug: betty-cash
+  date: 1980-12
+  date_end: null
+  location_in_record: Chapter 10, December 1980 case paragraph
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: b427ef19-3d9c-49d3-82b2-759af0f075d6
+  claim_hash: ffc793cccdc5234bd8cc63a4f523a4fb17766b53c868911dce15de5fd268cbc8
+  content: During the December 1980 Texas road incident, the witnesses sensed a massive
+    amount of heat emanating from the UAP object.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1919d41b-3782-4459-a4a3-e420e455251e
+    title: Cash-Landrum Incident
+    slug: cash-landrum-incident
+  - node_id: 392cf5c5-db92-43f1-bd2a-76e55c2d80d6
+    title: Landrum, Vickie
+    slug: vickie-landrum
+  - node_id: 72a91174-7867-4e83-8182-2e8f5e47ea5b
+    title: Cash, Betty
+    slug: betty-cash
+  date: 1980-12
+  date_end: null
+  location_in_record: Chapter 10, December 1980 case paragraph
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: eaf0fe1a-1e5e-4837-8487-476ba6690835
+  claim_hash: fef610a329496cb1dd40ce9f30035f24cdab25018d06a80671a9a37782d1edd9
+  content: After the December 1980 Texas road incident, the two women's symptoms progressed
+    from headaches to severe skin burns, nausea, diarrhoea, eye damage, lesions, exhaustion,
+    hair loss, and the shedding of their fingernails.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1919d41b-3782-4459-a4a3-e420e455251e
+    title: Cash-Landrum Incident
+    slug: cash-landrum-incident
+  - node_id: 392cf5c5-db92-43f1-bd2a-76e55c2d80d6
+    title: Landrum, Vickie
+    slug: vickie-landrum
+  - node_id: 3a2c750e-a046-426e-bddf-bd68a1631851
+    title: UAP Biological Effects
+    slug: uap-biological-effects
+  - node_id: 72a91174-7867-4e83-8182-2e8f5e47ea5b
+    title: Cash, Betty
+    slug: betty-cash
+  date: 1980-12
+  date_end: null
+  location_in_record: Chapter 10, December 1980 case paragraph
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed

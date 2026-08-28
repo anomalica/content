@@ -1,0 +1,879 @@
+schema: anomalica/brief/1
+brief_hash: e2e81669a52e8088b96e07aa765c76025e607efb17d8aadc56ebe61407278853
+page:
+  kind: entity
+  node_id: 224e26e2-c488-413d-9693-7726f1481df8
+  node_type: event
+  title: 1980 Rendlesham Forest incident
+  slug: 1980-rendlesham-forest-incident
+  claim_count: 22
+  claim_count_total: 22
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+  title: John Burroughs
+  node_type: person
+  slug: john-burroughs
+  shared_claims: 5
+- node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+  title: Air Force Office of Special Investigations (AFOSI)
+  node_type: organisation
+  slug: air-force-office-of-special-investigations-afosi
+  shared_claims: 2
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 2
+- node_id: c09e3558-1732-4676-a218-d67d285d98ef
+  title: David Fravor
+  node_type: person
+  slug: david-fravor
+  shared_claims: 2
+- node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+  title: Jim Penniston
+  node_type: person
+  slug: jim-penniston
+  shared_claims: 2
+- node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+  title: John McCain
+  node_type: person
+  slug: john-mccain
+  shared_claims: 2
+- node_id: 9a92b5dc-3563-481e-9a31-1f72a9455da1
+  title: United Kingdom, England, Rendlesham Forest
+  node_type: place
+  slug: england-rendlesham-forest-united-kingdom
+  shared_claims: 2
+- node_id: 1915ba67-3c4d-41a2-9376-29bda38fe841
+  title: United Kingdom, Suffolk, Rendlesham Forest
+  node_type: place
+  slug: suffolk-rendlesham-forest-united-kingdom
+  shared_claims: 2
+- node_id: 7e49b5dc-c78b-41c8-849f-5cfaca777b76
+  title: December 29, 1980 Huffman, Texas Unidentified Flying Object (UFO) incident
+  node_type: event
+  slug: 1980-huffman-texas-unidentified-flying-object-ufo-incident-december-29
+  shared_claims: 1
+- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+  title: Harold E. Puthoff
+  node_type: person
+  slug: harold-e-puthoff
+  shared_claims: 1
+- node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+  title: Jonathan Caplan
+  node_type: person
+  slug: jonathan-caplan
+  shared_claims: 1
+- node_id: dd84cf71-5c52-4cf7-a642-6ab34ec0c834
+  title: Rip Van Winkle Effect
+  node_type: topic
+  slug: rip-van-winkle-effect
+  shared_claims: 1
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 1
+- node_id: a0e01650-0dec-416c-a1d6-2daec8bd0e6b
+  title: flash override protocol
+  node_type: topic
+  slug: flash-override-protocol
+  shared_claims: 1
+claims:
+- claim_id: 2e55bf6c-6d57-47ff-8041-668ed1223926
+  claim_hash: 88ec48abc4f86251c05fa47c7ba8d60c06cd36ad0aad7ea079519208918a0585
+  content: The December 29, 1980 Huffman, Texas UFO incident occurred on the same
+    day and at about the same hour as the December 1980 Rendlesham Forest incident
+    in England.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: 7e49b5dc-c78b-41c8-849f-5cfaca777b76
+    title: December 29, 1980 Huffman, Texas Unidentified Flying Object (UFO) incident
+    slug: 1980-huffman-texas-unidentified-flying-object-ufo-incident-december-29
+  - node_id: 9a92b5dc-3563-481e-9a31-1f72a9455da1
+    title: United Kingdom, England, Rendlesham Forest
+    slug: england-rendlesham-forest-united-kingdom
+  date: '1980-12-29'
+  date_end: null
+  location_in_record: ch14:49413-49592
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 66f4e374-4358-4848-b051-b2059e92750b
+  claim_hash: b649308043c0394a0820b567f24d0e721223fd155111fdb87990f1dd7ac11cf0
+  content: During the 1980 Rendlesham Forest incident, United States military personnel
+    who witnessed the event received radiation burns.
+  original_excerpt: what is it, Rameshon Forest in England, the U.S. guys that saw
+    stuff and actually got radiation burns.
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 9a92b5dc-3563-481e-9a31-1f72a9455da1
+    title: United Kingdom, England, Rendlesham Forest
+    slug: england-rendlesham-forest-united-kingdom
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: 03:26:03.6-03:26:08.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: 984e1ec6-d822-441a-8794-8dc6950aa539
+  claim_hash: e4069ea4eed499a710d15cc513dbde3b7b4d1a4678a6c46a043a00981435842d
+  content: One of the United States military witnesses to the 1980 Rendlesham Forest
+    incident was medically disabled, and John McCain's office helped him get his disability
+    status reestablished after it had initially been denied.
+  original_excerpt: One guy was medically disabled, but they weren't going to give
+    it, and he got help from John McCain. His office helped get the guy's disability
+    reestablished.
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+    title: John McCain
+    slug: john-mccain
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: 03:26:09.6-03:26:18.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: 3da0d335-124f-469d-bf79-216973759877
+  claim_hash: 3af20350c3d129807e683579f661cdceca1eeafc5f71878e0bde6683313cf020
+  content: In 1980-12, Unidentified Aerial Phenomena (UAP) appeared over a joint UK-US
+    military facility near Rendlesham Forest in Suffolk, England and hovered over
+    an underground bunker where the two allies had secretly stockpiled nuclear weapons.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1915ba67-3c4d-41a2-9376-29bda38fe841
+    title: United Kingdom, Suffolk, Rendlesham Forest
+    slug: suffolk-rendlesham-forest-united-kingdom
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  date: 1980-12
+  date_end: null
+  location_in_record: ch12:32146-32411
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 9331fe6f-d569-4cb0-8040-07a35396bb91
+  claim_hash: 58fcb00d632a17aa78edc83d35f8ebafa1f2edeabd69efabff7dba54ac139b56
+  content: Multiple servicemen saw the Unidentified Aerial Phenomena (UAP) up close
+    during the 1980 Rendlesham Forest incident and have since gone public despite
+    being told not to talk about it.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: servicemen claiming to have witnessed the 1980 Rendlesham Forest incident
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  date: 1980-12
+  date_end: null
+  location_in_record: ch12:32516-32621
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: dbae433c-6d0f-4544-87c9-36db3b1ffd14
+  claim_hash: 233d16f97821260558a32890c43b629f3a1cdccafbc1df5615a972d6fbb2573c
+  content: During the 1980 Rendlesham Forest incident, all communications on the base
+    went to flash override protocol, which shuts down all communications lines so
+    that only the president of the United States can communicate directly with someone
+    on the base.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: servicemen claiming to have witnessed the 1980 Rendlesham Forest incident
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: a0e01650-0dec-416c-a1d6-2daec8bd0e6b
+    title: flash override protocol
+    slug: flash-override-protocol
+  date: 1980-12
+  date_end: null
+  location_in_record: ch12:32625-32854
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: e6f32947-0f17-496d-b901-7ff43fc908d2
+  claim_hash: 8ded5f6d78ccfe7f28347ac22a582eb2cde005e2ef71eea4b984397bfcd51d88
+  content: After the 1980 Rendlesham Forest incident, it was reported by servicemen
+    on the base that an unidentified private plane landed on a runway outside the
+    base, and a group of men said to be from a defence contractor exited the plane
+    and were driven onto the base.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: servicemen claiming to have witnessed the 1980 Rendlesham Forest incident
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  date: 1980-12
+  date_end: null
+  location_in_record: ch12:32997-33261
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: c142ed8c-a501-4384-9f93-0f9bb062f3ba
+  claim_hash: c263d8d4254c1b804db475d039fcc7359271e57e8d9fa81b6be2a3704c3053b8
+  content: The same men who arrived by private plane after the 1980 Rendlesham Forest
+    incident were later seen loading crates onto the plane before leaving for the
+    United States.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: servicemen claiming to have witnessed the 1980 Rendlesham Forest incident
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  date: 1980-12
+  date_end: null
+  location_in_record: ch12:33267-33349
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 21d4bb7f-0e42-4ac3-b3c1-8c990b6dacb2
+  claim_hash: b00495f8af528e82f8b44c893daadae26744726b8d5702db5f1e93ec299d07be
+  content: The day after the 1980 Rendlesham Forest incident, the servicemen who were
+    eyewitnesses were called to the base's office of the Air Force Office of Special
+    Investigations.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: servicemen claiming to have witnessed the 1980 Rendlesham Forest incident
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+    title: Air Force Office of Special Investigations (AFOSI)
+    slug: air-force-office-of-special-investigations-afosi
+  date: 1980-12
+  date_end: null
+  location_in_record: ch12:33353-33488
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: d6041fb8-9332-4385-b486-3c3183d58cf3
+  claim_hash: f447f13a97b27479f58b9f09864999820d3504a10f628cb1483096ff5389e29e
+  content: Some of the servicemen involved in the 1980 Rendlesham Forest incident
+    said they were told to never speak about what they saw and were administered a
+    drug and hypnotised, presumably to distort their memories.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: servicemen claiming to have witnessed the 1980 Rendlesham Forest incident
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  date: 1980-12
+  date_end: null
+  location_in_record: ch12:33565-33705
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: ee418f3c-c6ec-4bc1-a3ed-2c52d5997b21
+  claim_hash: 0e3cb7aae8ba8e851fd99e381f65aef4608d0d0f9b191357738aef5a8e202553
+  content: The speaker personally spoke to some of the servicemen involved in the
+    1980 Rendlesham Forest incident, who said there was someone from the Central Intelligence
+    Agency in the room with the men from the Air Force Office of Special Investigations.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: servicemen claiming to have witnessed the 1980 Rendlesham Forest incident
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+    title: Air Force Office of Special Investigations (AFOSI)
+    slug: air-force-office-of-special-investigations-afosi
+  date: 1980-12
+  date_end: null
+  location_in_record: ch12:33715-33812
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: b195e000-c947-4270-909f-e2a69520cf34
+  claim_hash: c3d2af7bc74b85a2a743bc34ece8dd9828d4866be80ba6e320e0ccf6af0d7759
+  content: Years after the 1980 Rendlesham Forest incident, one of the servicemen
+    saw a photo of a certain Central Intelligence Agency official who had long worked
+    on the Unidentified Aerial Phenomena (UAP) topic and claimed that official was
+    in the room the day after the event.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a serviceman claiming to have identified a Central Intelligence Agency
+      official present after the 1980 Rendlesham Forest incident
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  date: 1980-12
+  date_end: null
+  location_in_record: ch12:33817-33991
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: c57a3cab-38ea-455f-aa73-7ac415325c86
+  claim_hash: ec94ef6a4e3392767eb5a9af95a1be3a406e5bb56d901a603dc5ac03a1afb062
+  content: Senator John McCain successfully had the service records of one of the
+    service members involved in the 1980 Rendlesham Forest incident declassified.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+    title: John McCain
+    slug: john-mccain
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  date: null
+  date_end: null
+  location_in_record: ch12:33999-34150
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: bfec8596-31f4-48bf-944e-a68a7fac0af6
+  claim_hash: 3c1c3180056ff3dbba7feee648b92873c613a3401d8287cdc291c0032161d3f0
+  content: Two witnesses of the 1980 Rendlesham Forest incident were awarded permanent
+    disability by the United States government for their involvement and injury.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  date: null
+  date_end: null
+  location_in_record: ch12:34164-34282
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 3f1a0d3c-7e2f-4658-81e8-298b829d24fc
+  claim_hash: 283adde5d1228b6a7928b1b68eb9b63f08ddcf1a5a8bdfd4bbd8feb4c4f4b6ce
+  content: Witnesses to the 1980 Rendlesham Forest incident saw symbols on the craft
+    similar to those reported at other UAP encounters.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: unnamed witnesses to the 1980 Rendlesham Forest incident
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  date: 1980-12
+  date_end: null
+  location_in_record: ch13:571-663
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: d81cc4be-6bc9-487c-834e-f8cb317e3de9
+  claim_hash: 61a67059388181b63569268874a94d43a0a6a4434bd33fff0f0c93f21114fdc8
+  content: During the 1980 Rendlesham Forest incident, security policemen John Burroughs
+    and Jim Penniston found a landed Unidentified Aerial Phenomenon (UAP) in Rendlesham
+    Forest near a joint UK-US military facility in Suffolk, England, where the two
+    allies had stored nuclear weapons in a secret bunker.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1915ba67-3c4d-41a2-9376-29bda38fe841
+    title: United Kingdom, Suffolk, Rendlesham Forest
+    slug: suffolk-rendlesham-forest-united-kingdom
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+    title: Jim Penniston
+    slug: jim-penniston
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    slug: john-burroughs
+  date: 1980-12
+  date_end: null
+  location_in_record: ch18:4677-4925
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 1a4da6a6-833d-4b4c-93fa-2b6ed1ea36c9
+  claim_hash: 524edd6298a9196c82db8143e6a922c3f83004cc493a0fc6b829a5aa630c2c96
+  content: During the 1980 Rendlesham Forest incident, the watches worn by John Burroughs
+    and Jim Penniston lost forty-five minutes of time compared to the timepieces of
+    airmen back on base.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+    title: Jim Penniston
+    slug: jim-penniston
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    slug: john-burroughs
+  date: 1980-12
+  date_end: null
+  location_in_record: ch18:4972-5095
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 30b8f90f-131f-4d9c-97df-8a287beb39eb
+  claim_hash: 113544237cf7a8ac53c3dc080b182285d071d96e36ca4dd644eab41774056b2d
+  content: Harold Puthoff calls the phenomenon of missing or lost time associated
+    with UAP encounters, such as at the 1980 Rendlesham Forest incident, the Rip Van
+    Winkle Effect.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: named
+    origin: Harold Puthoff
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: dd84cf71-5c52-4cf7-a642-6ab34ec0c834
+    title: Rip Van Winkle Effect
+    slug: rip-van-winkle-effect
+  date: null
+  date_end: null
+  location_in_record: ch18:5102-5144
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 82288b0a-8414-4d85-9dc8-7e199716b606
+  claim_hash: f0d13c91d958ade817e64bbf6a8b338a45d6f7c9095244852723c146c1bfa1e4
+  content: After the 1980 Rendlesham Forest incident, John Burroughs experienced worsening
+    health effects including vision problems, white gums, heart murmurs and heart
+    tissue scarring, culminating in heart surgery to correct damaged leaflets in his
+    mitral valve.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    slug: john-burroughs
+  date: null
+  date_end: null
+  location_in_record: ch18:5153-5367
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 4037481f-1ab6-47e6-9b44-f06b06cef9e2
+  claim_hash: 707d01cc9fc68e5e2b07e57d31f7fa668bc91df47fb194e8f9a5e5f097aca8c7
+  content: John Burroughs experienced tissue degradation after he stood in close proximity
+    to a UFO during the 1980 Rendlesham Forest incident.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unattributed accounts
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    slug: john-burroughs
+  date: null
+  date_end: null
+  location_in_record: ch14:21487-21691
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 8f677546-d933-4d4d-9f0e-2b37f0cab4f1
+  claim_hash: 8abbf39f36a74749b29400a84d9774204a14a4265a72b5eb10197e9d1ea62258
+  content: John Burroughs experienced damage to his heart after his exposure to a
+    UFO during the 1980 Rendlesham Forest incident.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unattributed accounts
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    slug: john-burroughs
+  date: null
+  date_end: null
+  location_in_record: ch14:21697-21726
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: ed00bc5d-f801-4ed5-a994-6e04ec4bb7b0
+  claim_hash: 721d137dfcce6fdebb330f9d6f266d829fb94462c99e49ae84d2433228ef60e5
+  content: Jonathan Caplan considers the 1980 Rendlesham Forest incident an interesting
+    UK Unidentified Aerial Phenomena (UAP) case.
+  original_excerpt: I think Rendlesham was an interesting case.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jonathan Caplan
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+    slug: jonathan-caplan
+  date: null
+  date_end: null
+  location_in_record: 00:05:03.7-00:05:05.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+    record_title: Watergate, the JFK assassination and a UFO secret at the center
+      of it all | Reality Check
+    record_date: '2026-06-18'
+    record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+    content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+    friendly_name: null

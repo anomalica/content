@@ -1,0 +1,781 @@
+schema: anomalica/brief/1
+brief_hash: 1027b82b5d695247e36d1f9d3e9ca6a48b18047ebd8fa655e104c00e875ca533
+page:
+  kind: entity
+  node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+  node_type: person
+  title: Nikita Khrushchev
+  slug: nikita-khrushchev
+  claim_count: 16
+  claim_count_total: 16
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+  title: John Fitzgerald Kennedy
+  node_type: person
+  slug: john-fitzgerald-kennedy
+  shared_claims: 12
+- node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+  title: Sergei Khrushchev
+  node_type: person
+  slug: sergei-khrushchev
+  shared_claims: 5
+- node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+  title: Assassination of John F. Kennedy
+  node_type: event
+  slug: assassination-of-john-f-kennedy
+  shared_claims: 2
+- node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+  title: Cuba
+  node_type: place
+  slug: cuba
+  shared_claims: 2
+- node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+  title: Cuban Missile Crisis (1962-10)
+  node_type: event
+  slug: cuban-missile-crisis-1962-10
+  shared_claims: 2
+- node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+  title: Third Secret of Fatima
+  node_type: document
+  slug: third-secret-of-fatima
+  shared_claims: 2
+- node_id: e0e5506a-fc71-425f-a22a-755baba27d2a
+  title: Vienna summit, 1961-06
+  node_type: event
+  slug: 1961-06-vienna-summit
+  shared_claims: 2
+- node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
+  title: Bay of Pigs Invasion 1961
+  node_type: event
+  slug: bay-of-pigs-invasion-1961
+  shared_claims: 1
+- node_id: 17f8929f-cd7d-4062-bf3c-d3190de62d05
+  title: James Webb
+  node_type: person
+  slug: james-webb
+  shared_claims: 1
+- node_id: 688c96b1-566b-48fe-a7be-98d95e9d4691
+  title: Louis Emrich
+  node_type: person
+  slug: louis-emrich
+  shared_claims: 1
+- node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+  title: Lyndon B. Johnson
+  node_type: person
+  slug: lyndon-b-johnson
+  shared_claims: 1
+- node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+  title: Lúcia (Fatima seer)
+  node_type: person
+  slug: lucia-fatima-seer
+  shared_claims: 1
+- node_id: a3d7425b-b814-43c7-b4f4-a84328bded4f
+  title: Miracle of the Sun (1917-10-13)
+  node_type: event
+  slug: miracle-of-the-sun-1917-10-13
+  shared_claims: 1
+- node_id: e63698cc-274e-4e27-b576-a027fb10f37f
+  title: Paul VI
+  node_type: person
+  slug: paul-vi
+  shared_claims: 1
+- node_id: da6f939c-ab3a-4bfa-91d9-2737b24b1a68
+  title: Public Broadcasting Service (PBS)
+  node_type: organisation
+  slug: public-broadcasting-service-pbs
+  shared_claims: 1
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 1
+- node_id: c8e2f6fb-4a7e-497b-a1ee-d3061e6e450e
+  title: Sputnik (satellite)
+  node_type: object
+  slug: sputnik-satellite
+  shared_claims: 1
+- node_id: e4ac668d-d416-4931-ae19-e92c5bbe84dc
+  title: Tarcisio Bertone
+  node_type: person
+  slug: tarcisio-bertone
+  shared_claims: 1
+- node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+  title: U Thant
+  node_type: person
+  slug: u-thant
+  shared_claims: 1
+- node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+  title: USA, District of Columbia, Washington
+  node_type: place
+  slug: district-of-columbia-washington-usa
+  shared_claims: 1
+- node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+  title: United States
+  node_type: place
+  slug: united-states
+  shared_claims: 1
+- node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+  title: Vatican
+  node_type: organisation
+  slug: vatican
+  shared_claims: 1
+- node_id: 47028501-cc3d-46af-8adc-ff99fa96ca18
+  title: Watson Institute, Brown University
+  node_type: organisation
+  slug: brown-university-watson-institute
+  shared_claims: 1
+claims:
+- claim_id: 9d723809-bae4-4fbf-ba57-e261ea20aabf
+  claim_hash: be1592fffe94ea84644fce92e06a53c2f0a5a17be18c90d987522840c1c26b7d
+  content: During the Cuban Missile Crisis, tensions relaxed when Nikita Khrushchev
+    accepted U Thant's mediation offer and ordered Soviet vessels heading for Cuba
+    to change course.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+    title: U Thant
+    slug: u-thant
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+    title: Cuba
+    slug: cuba
+  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+    title: Cuban Missile Crisis (1962-10)
+    slug: cuban-missile-crisis-1962-10
+  date: 1962-10
+  date_end: null
+  location_in_record: ch17:1926-2048
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: e6588c00-a9e2-4b4c-ae52-9ab8ec5d4657
+  claim_hash: 0522f70d75606f273041870df875d2e1dfba30de406b20504e51fea4c21eb52f
+  content: On 1962-10-28, Nikita Khrushchev agreed to dismantle the Soviet missiles
+    on Cuba, after extracting a guarantee from the United States that it would not
+    invade Cuba.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+    title: United States
+    slug: united-states
+  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+    title: Cuba
+    slug: cuba
+  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+    title: Cuban Missile Crisis (1962-10)
+    slug: cuban-missile-crisis-1962-10
+  date: '1962-10-28'
+  date_end: null
+  location_in_record: ch17:2128-2255
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: f886db08-5655-4323-bee2-a1c7a66c419f
+  claim_hash: 797e207a953561b0d98d47c7101e243741bb391980323d11f1e3305ad86cf08c
+  content: According to European News, Pope Paul VI permitted John F. Kennedy and
+    Nikita Khrushchev to look at portions of the Third Secret of Fatima, which the
+    Mother of God revealed to Lúcia (Fatima seer) on 1917-10-13.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: European News magazine
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: a3d7425b-b814-43c7-b4f4-a84328bded4f
+    title: Miracle of the Sun (1917-10-13)
+    slug: miracle-of-the-sun-1917-10-13
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    slug: third-secret-of-fatima
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+    slug: lucia-fatima-seer
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    slug: john-fitzgerald-kennedy
+  - node_id: e63698cc-274e-4e27-b576-a027fb10f37f
+    title: Paul VI
+    slug: paul-vi
+  date: '1917-10-13'
+  date_end: null
+  location_in_record: ch17:790-1005
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: be2754c1-18b7-4a2f-baf9-06b08b2e7714
+  claim_hash: 426beeca59cac937f69a206935fe3a8b8ab03fe20a0d2d9978682fc531538c9c
+  content: Archbishop Tarcisio Bertone's research found no evidence of a Vatican leak
+    or support for Louis Emrich's claim that the Third Secret was shown to Nikita
+    Khrushchev or John F. Kennedy.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Bertone, Tarcisio
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: 688c96b1-566b-48fe-a7be-98d95e9d4691
+    title: Louis Emrich
+    slug: louis-emrich
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    slug: third-secret-of-fatima
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    slug: john-fitzgerald-kennedy
+  - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+    title: Vatican
+    slug: vatican
+  - node_id: e4ac668d-d416-4931-ae19-e92c5bbe84dc
+    title: Tarcisio Bertone
+    slug: tarcisio-bertone
+  date: null
+  date_end: null
+  location_in_record: ch24:26658-26801
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 497dffcd-c946-4306-93f2-3f2a3cd64a62
+  claim_hash: 384d979aca5f3f148b57d4e7f96ac05beead226bc26336581d731f5fb74ffbdd
+  content: Sergei Khrushchev, a senior fellow at the Watson Institute at Brown University,
+    is the son of Soviet premier Nikita Khrushchev.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: 47028501-cc3d-46af-8adc-ff99fa96ca18
+    title: Watson Institute, Brown University
+    slug: brown-university-watson-institute
+  - node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+    title: Sergei Khrushchev
+    slug: sergei-khrushchev
+  date: null
+  date_end: null
+  location_in_record: ch10:63125-63237
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 9bbd3707-78ec-45f7-a5e5-105f2428cd13
+  claim_hash: 6b064109edb027063b533a583dec8524ed2204e052ba463b40afa067c22a7abf
+  content: Less than ten days after his May 25 public call to go to the Moon, John
+    F. Kennedy secretly proposed to Nikita Khrushchev at the Vienna summit that the
+    United States and the Soviet Union merge their space programs to reach the Moon
+    together.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+    title: Sergei Khrushchev
+  provenance_chain:
+    origin_kind: named
+    origin: Sergei Khrushchev
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    slug: john-fitzgerald-kennedy
+  - node_id: e0e5506a-fc71-425f-a22a-755baba27d2a
+    title: Vienna summit, 1961-06
+    slug: 1961-06-vienna-summit
+  date: 1961-06
+  date_end: null
+  location_in_record: ch10:63358-63534
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a7856bfd-df9a-4a0a-8eaf-72246a9da24b
+  claim_hash: 9f2f27e6ef95547fc3806626fe791ea5fc9563c1fb2f809152034d1662bf3ab2
+  content: Nikita Khrushchev turned down John F. Kennedy's offer to merge the US and
+    Soviet space programmes, in part because he did not trust Kennedy after the Bay
+    of Pigs invasion.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
+    title: Bay of Pigs Invasion 1961
+    slug: bay-of-pigs-invasion-1961
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    slug: john-fitzgerald-kennedy
+  - node_id: e0e5506a-fc71-425f-a22a-755baba27d2a
+    title: Vienna summit, 1961-06
+    slug: 1961-06-vienna-summit
+  date: 1961-06
+  date_end: null
+  location_in_record: ch10:63546-63652
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 458fdc4e-a435-4c8d-b813-8a6b2905142b
+  claim_hash: bc8a5315e0c65f505745674c2bf9564b0b4c07db246631e3819523d37c8df2f5
+  content: Nikita Khrushchev also rejected the offer because he feared the United
+    States might learn technological secrets from the Soviet Union, which was still
+    ahead in heavy-lift launch vehicles.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    slug: john-fitzgerald-kennedy
+  date: 1961-06
+  date_end: null
+  location_in_record: ch10:63664-63823
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: b783198b-491d-4b93-9d15-60430a663968
+  claim_hash: 5b537aa39fff846ba5e094ea03825d763c99faa41fda3dc1006e234c3d0abdac
+  content: Nikita Khrushchev considered John F. Kennedy's August 1963 renewed offer
+    more seriously than before, but ultimately rejected it.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    slug: john-fitzgerald-kennedy
+  date: 1963-08
+  date_end: null
+  location_in_record: ch10:66341-66417
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 3b0a8b5d-7357-451a-b013-1e49eb9aedfd
+  claim_hash: b7120d891fac18be958b1769cc1cb882cb15ea29db3c537e23f35e2cb04235f9
+  content: James Webb was unaware of John F. Kennedy's previous two private offers
+    to Nikita Khrushchev, as they had been made in private talks with the Soviet premier.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 17f8929f-cd7d-4062-bf3c-d3190de62d05
+    title: James Webb
+    slug: james-webb
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    slug: john-fitzgerald-kennedy
+  date: '1963-09-18'
+  date_end: null
+  location_in_record: ch10:66800-66928
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: d1e4413b-f015-49e5-acc4-85fd123c8c82
+  claim_hash: 927cca031f411c166eddb6fccbeccf5bbcc9a7c1e259f8d809d9e5a36dfe93cd
+  content: Sergei Khrushchev, in a 1997 interview given after his presentation at
+    a NASA conference in Washington, DC, commemorating the fortieth anniversary of
+    Sputnik, said his father Nikita Khrushchev decided in early November 1963 to accept
+    John F. Kennedy's cooperation offer, having initially ignored it.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+    title: Sergei Khrushchev
+  provenance_chain:
+    origin_kind: speaker
+    origin: Sergei Khrushchev
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  - node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+    title: Sergei Khrushchev
+    slug: sergei-khrushchev
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    slug: john-fitzgerald-kennedy
+  - node_id: c8e2f6fb-4a7e-497b-a1ee-d3061e6e450e
+    title: Sputnik (satellite)
+    slug: sputnik-satellite
+  date: '1997'
+  date_end: null
+  location_in_record: ch10:72903-73207
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 7b8109cb-f66d-424f-abf4-dc75472b2804
+  claim_hash: af5d7b1447609bb5b1a7c70f6074230d22d5b5a221d5e7f81ee242b7296c7089
+  content: Sergei Khrushchev said in 1997 that his father decided that maybe he should
+    accept Kennedy's offer, given the state of the space programmes of the two countries
+    in 1963.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+    title: Sergei Khrushchev
+  provenance_chain:
+    origin_kind: speaker
+    origin: Sergei Khrushchev
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+    title: Sergei Khrushchev
+    slug: sergei-khrushchev
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    slug: john-fitzgerald-kennedy
+  date: '1997'
+  date_end: null
+  location_in_record: ch10:73212-73359
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 6a8299a2-fe7e-40e2-94da-315080cda987
+  claim_hash: 04f7b94ea490e72e3e57a46472e800990c94adb4874d1f2e2645b5590282f4f3
+  content: Sergei Khrushchev recalled walking with his father as they discussed his
+    father's decision, and placed the timing of that decision at about a week before
+    John F. Kennedy's assassination in Dallas, around 1963-11-12 to 1963-11-15.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+    title: Sergei Khrushchev
+  provenance_chain:
+    origin_kind: speaker
+    origin: Sergei Khrushchev
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+    title: Sergei Khrushchev
+    slug: sergei-khrushchev
+  - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+    title: Assassination of John F. Kennedy
+    slug: assassination-of-john-f-kennedy
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    slug: john-fitzgerald-kennedy
+  date: 1963-11
+  date_end: null
+  location_in_record: ch10:73367-73595
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 6dc83b93-f82c-4ec1-a96b-3cf8c3e73a24
+  claim_hash: ea1924de48e3214a2b99edd2c1d81842ef07c77cc9fd2168801ad2b27bab735f
+  content: In a 1999 Public Broadcasting Service (PBS) interview, Sergei Khrushchev
+    repeated that he walked with his father sometime in late October or November and
+    his father told him about all these things.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+    title: Sergei Khrushchev
+  provenance_chain:
+    origin_kind: speaker
+    origin: Sergei Khrushchev
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+    title: Sergei Khrushchev
+    slug: sergei-khrushchev
+  - node_id: da6f939c-ab3a-4bfa-91d9-2737b24b1a68
+    title: Public Broadcasting Service (PBS)
+    slug: public-broadcasting-service-pbs
+  date: '1999'
+  date_end: null
+  location_in_record: ch10:73599-73743
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: a18218e3-c452-47c8-83c1-8281b65721f3
+  claim_hash: 34b7d505094cd9965c78bca96dd8266b1ea82a48626e47dfd3c7731aee1bbf31
+  content: John F. Kennedy was generally unpopular in the South, but more popular
+    in Texas due to Lyndon B. Johnson's influence, his showdown with Nikita Khrushchev
+    over Cuba, and the money the space programme brought to Texas.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+    title: Lyndon B. Johnson
+    slug: lyndon-b-johnson
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    slug: john-fitzgerald-kennedy
+  date: '1963'
+  date_end: null
+  location_in_record: ch10:76474-76676
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: da91d716-d415-43ec-814e-275af9c3affe
+  claim_hash: 0cbd61d7b8b46fdb89e8ddfafd21f96460dd44c2bed6f04f279bed8a9298f3f5
+  content: Richard C. Hoagland speculates that John F. Kennedy's decision to propose
+    sharing the lunar programme with the Soviet Union, negotiated with Nikita Khrushchev,
+    may have led to his assassination.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    slug: nikita-khrushchev
+  - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+    title: Assassination of John F. Kennedy
+    slug: assassination-of-john-f-kennedy
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    slug: john-fitzgerald-kennedy
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch20:49269-49365
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted

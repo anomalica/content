@@ -1,0 +1,470 @@
+schema: anomalica/brief/1
+brief_hash: c8e1595723fdd0ec0c436db5e7631bffc86d1348e83b1f6dbcef2a020f34492d
+page:
+  kind: entity
+  node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+  node_type: person
+  title: Joseph Stalin
+  slug: joseph-stalin
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+  title: Annie Jacobsen
+  node_type: person
+  slug: annie-jacobsen
+  shared_claims: 2
+- node_id: 0ebef494-7138-409f-8759-58961e45979e
+  title: Area 51 (Annie Jacobsen book)
+  node_type: document
+  slug: area-51-annie-jacobsen-book
+  shared_claims: 2
+- node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+  title: Franklin D. Roosevelt
+  node_type: person
+  slug: franklin-d-roosevelt
+  shared_claims: 2
+- node_id: c512832d-ec9b-4c59-9229-495aaa7642ac
+  title: Stalin's five-year plan against religion (1932-05-15)
+  node_type: event
+  slug: stalins-five-year-plan-against-religion-1932-05-15
+  shared_claims: 2
+- node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
+  title: Winston Churchill
+  node_type: person
+  slug: winston-churchill
+  shared_claims: 2
+- node_id: 08a0520e-bf78-480f-b6ac-9cbb8021f20f
+  title: 1943 Tehran Conference
+  node_type: event
+  slug: 1943-tehran-conference
+  shared_claims: 1
+- node_id: fd98c5b1-c5f0-4c2c-a619-58e2035654e8
+  title: A Bodyguard of Lies
+  node_type: document
+  slug: a-bodyguard-of-lies
+  shared_claims: 1
+- node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+  title: Adolf Hitler
+  node_type: person
+  slug: adolf-hitler
+  shared_claims: 1
+- node_id: 2f2f008a-15f4-412c-b697-2496cccd2798
+  title: Joint Intelligence Objectives Agency (JIOA)
+  node_type: organisation
+  slug: joint-intelligence-objectives-agency-jioa
+  shared_claims: 1
+- node_id: d3174518-3c1c-49af-9030-76c10775bd1e
+  title: Josef Mengele
+  node_type: person
+  slug: josef-mengele
+  shared_claims: 1
+- node_id: 01ac6d11-095a-456f-9e5a-31bbf7be74d0
+  title: Linda Hunt
+  node_type: person
+  slug: linda-hunt
+  shared_claims: 1
+- node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+  title: Michael Hesemann
+  node_type: person
+  slug: michael-hesemann
+  shared_claims: 1
+- node_id: ea3e7b89-6994-43a0-9d5c-a95036c69a23
+  title: Pius XI
+  node_type: person
+  slug: pius-xi
+  shared_claims: 1
+- node_id: 60e50716-fa79-45d6-991c-49d084ff4183
+  title: Second Secret of Fatima
+  node_type: document
+  slug: second-secret-of-fatima
+  shared_claims: 1
+- node_id: a17397f1-2702-420a-9578-584220463893
+  title: The War of the Worlds
+  node_type: document
+  slug: the-war-of-the-worlds
+  shared_claims: 1
+- node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+  title: USA, New Mexico, Roswell
+  node_type: place
+  slug: new-mexico-roswell-usa
+  shared_claims: 1
+- node_id: 900639a0-e574-42d0-a69b-4a14de039967
+  title: Union of Militant Atheists
+  node_type: organisation
+  slug: union-of-militant-atheists
+  shared_claims: 1
+- node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+  title: Vannevar Bush
+  node_type: person
+  slug: vannevar-bush
+  shared_claims: 1
+- node_id: 3c8c0ba6-419a-4c1c-945e-22194a2b3c31
+  title: Vladimir Lenin
+  node_type: person
+  slug: vladimir-lenin
+  shared_claims: 1
+claims:
+- claim_id: 50a935ff-e2a6-42f7-a1b0-746d1e2ac42b
+  claim_hash: d975f5b0e00d488e8622203a287c3d92f166236f21b840eaeebfc1571149082d
+  content: 'The title of Anthony Brown''s book A Bodyguard of Lies comes from a remark
+    made by Winston Churchill at the Teheran Conference to Franklin D. Roosevelt and
+    Joseph Stalin: "In wartime, truth is so precious that she should always be attended
+    by a bodyguard of lies."'
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Winston Churchill
+    relay:
+    - A Bodyguard of Lies
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 08a0520e-bf78-480f-b6ac-9cbb8021f20f
+    title: 1943 Tehran Conference
+    slug: 1943-tehran-conference
+  - node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
+    title: Winston Churchill
+    slug: winston-churchill
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    slug: franklin-d-roosevelt
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    slug: joseph-stalin
+  - node_id: fd98c5b1-c5f0-4c2c-a619-58e2035654e8
+    title: A Bodyguard of Lies
+    slug: a-bodyguard-of-lies
+  date: '1943'
+  date_end: null
+  location_in_record: ch13:18891-19089
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: a51fa53c-8cee-4a99-8def-faf4e92f604c
+  claim_hash: 51730931425b1f1d9d5c09c27a13c9c7cab40b567623c9fe2e424f85d5c173c0
+  content: Vladimir Lenin's death in 1924 was followed by the rise of Joseph Stalin,
+    known as "the man of steel," who founded the Union of Militant Atheists, whose
+    chief aim was to spread atheism and eradicate religion.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3c8c0ba6-419a-4c1c-945e-22194a2b3c31
+    title: Vladimir Lenin
+    slug: vladimir-lenin
+  - node_id: 900639a0-e574-42d0-a69b-4a14de039967
+    title: Union of Militant Atheists
+    slug: union-of-militant-atheists
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    slug: joseph-stalin
+  date: '1924'
+  date_end: null
+  location_in_record: ch14:15189-15372
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 94bab534-a19c-467d-87b3-4ca0697637a0
+  claim_hash: 85db003da81943e1031180b489ed73e1d4913796354698033edb28d5da655bcb
+  content: On 1932-05-15, Joseph Stalin signed a five-year plan against religion.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    slug: joseph-stalin
+  - node_id: c512832d-ec9b-4c59-9229-495aaa7642ac
+    title: Stalin's five-year plan against religion (1932-05-15)
+    slug: stalins-five-year-plan-against-religion-1932-05-15
+  date: '1932-05-15'
+  date_end: null
+  location_in_record: ch14:15528-15585
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 27857843-02aa-4b26-80f7-32b483af3e77
+  claim_hash: f8b10884edbc4e30e5b3294a6d5c084303c5c0ff244ae9e58a7a981cbeab9f05
+  content: By 1937-05-01, the idea that there was a God was to be eradicated completely
+    from public life in the Soviet Union under Joseph Stalin's plan.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    slug: joseph-stalin
+  - node_id: c512832d-ec9b-4c59-9229-495aaa7642ac
+    title: Stalin's five-year plan against religion (1932-05-15)
+    slug: stalins-five-year-plan-against-religion-1932-05-15
+  date: '1937-05-01'
+  date_end: null
+  location_in_record: ch14:15596-15688
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: e6e4783f-dbb7-4bab-94c2-55a83c0df198
+  claim_hash: 26543119822e80dbf5250f119d0d90a5ffea7890dfc1ea0c18e75e97a5782b8c
+  content: Michael Hesemann considers that the terrible events in Russia under Stalin
+    fulfilled the predictions of the Second Secret of Fatima almost word for word.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hesemann, Michael
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 60e50716-fa79-45d6-991c-49d084ff4183
+    title: Second Secret of Fatima
+    slug: second-secret-of-fatima
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    slug: michael-hesemann
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    slug: joseph-stalin
+  date: null
+  date_end: null
+  location_in_record: ch14:15807-15922
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 2d50166e-9809-445c-9722-b1554e947b83
+  claim_hash: 6d167ff9f512c3e6ac5cb7332a3e1a265837bdcce7adb9c0cd28b4eeeffc19c2
+  content: During Pius XI's reign the Church had to withstand the persecutions of
+    Adolf Hitler and Joseph Stalin.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    slug: joseph-stalin
+  - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+    title: Adolf Hitler
+    slug: adolf-hitler
+  - node_id: ea3e7b89-6994-43a0-9d5c-a95036c69a23
+    title: Pius XI
+    slug: pius-xi
+  date: null
+  date_end: null
+  location_in_record: ch21:10489-10565
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 6b5bc520-6122-4f98-b77a-d8eb5416fcc0
+  claim_hash: 1b0093c41d908a5c0b325c245c8e33214d4d8e7d0a38bb76db7117b6bedceb67
+  content: When certain Nazi rocket scientists were deemed too unimportant to be brought
+    to the United States by a military panel, Vannevar Bush intervened with a scathing
+    letter to the Joint Intelligence Objectives Agency criticising the military for
+    not knowing elementary information on Germans as well known in scientific circles
+    as Churchill, Stalin and Roosevelt were in political circles.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Linda Hunt
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 01ac6d11-095a-456f-9e5a-31bbf7be74d0
+    title: Linda Hunt
+    slug: linda-hunt
+  - node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
+    title: Winston Churchill
+    slug: winston-churchill
+  - node_id: 2f2f008a-15f4-412c-b697-2496cccd2798
+    title: Joint Intelligence Objectives Agency (JIOA)
+    slug: joint-intelligence-objectives-agency-jioa
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    slug: vannevar-bush
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    slug: franklin-d-roosevelt
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    slug: joseph-stalin
+  date: null
+  date_end: null
+  location_in_record: ch12:67640-68040
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: f92dccd6-6838-41f4-992d-842e86b93ed2
+  claim_hash: ea2be95461443883e822e1e585d01084c278141e212e8c8832055d82aafe19d2
+  content: Annie Jacobsen's book claims that Nazi doctor Josef Mengele made a deal
+    with Joseph Stalin just before the end of the Second World War in which he was
+    allowed to continue his eugenics experiments, purportedly explaining the deformed
+    children found at the Roswell crash.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Annie Jacobsen's Area 51 book
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0ebef494-7138-409f-8759-58961e45979e
+    title: Area 51 (Annie Jacobsen book)
+    slug: area-51-annie-jacobsen-book
+  - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+    title: Annie Jacobsen
+    slug: annie-jacobsen
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    slug: joseph-stalin
+  - node_id: d3174518-3c1c-49af-9030-76c10775bd1e
+    title: Josef Mengele
+    slug: josef-mengele
+  date: '1945'
+  date_end: null
+  location_in_record: ch18:2431-2649
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 1afaeda5-e619-46d5-a742-917a46fd2196
+  claim_hash: a1a4fc038f2d13326810ac9d321f0b136a05dc077098c20e3b23b50677b97133
+  content: According to Annie Jacobsen's book, Joseph Stalin intended the Roswell
+    craft to land in New Mexico and cause a War of the Worlds-style panic.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Annie Jacobsen's Area 51 book
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0ebef494-7138-409f-8759-58961e45979e
+    title: Area 51 (Annie Jacobsen book)
+    slug: area-51-annie-jacobsen-book
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    slug: new-mexico-roswell-usa
+  - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+    title: Annie Jacobsen
+    slug: annie-jacobsen
+  - node_id: a17397f1-2702-420a-9578-584220463893
+    title: The War of the Worlds
+    slug: the-war-of-the-worlds
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    slug: joseph-stalin
+  date: '1947'
+  date_end: null
+  location_in_record: ch18:2655-2759
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted

@@ -1,0 +1,506 @@
+schema: anomalica/brief/1
+brief_hash: ba16976a8c462276add15729736646adcfd8fda4dcfa204466a239f1dc8ce294
+page:
+  kind: entity
+  node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+  node_type: organisation
+  title: Bigelow Aerospace Advanced Space Studies, LLC
+  slug: llc-bigelow-aerospace-advanced-space-studies
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+  title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+  node_type: project
+  slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  shared_claims: 4
+- node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+  title: Robert Bigelow
+  node_type: person
+  slug: robert-bigelow
+  shared_claims: 4
+- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+  title: Advanced Aerospace Threat Identification Program (AATIP)
+  node_type: project
+  slug: advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 2
+- node_id: cd0c7599-4dfa-410c-85e4-c2b7bc7a4b35
+  title: 2009 Harry Reid Special Access Program request for Advanced Aerospace Threat
+    Identification Program (AATIP)
+  node_type: event
+  slug: 2009-harry-reid-special-access-program-request-for-advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 1
+- node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+  title: Colm Kelleher
+  node_type: person
+  slug: colm-kelleher
+  shared_claims: 1
+- node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+  title: Defense Intelligence Agency (DIA)
+  node_type: organisation
+  slug: defense-intelligence-agency-dia
+  shared_claims: 1
+- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+  title: Eric Davis
+  node_type: person
+  slug: eric-davis
+  shared_claims: 1
+- node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+  title: George Knapp
+  node_type: person
+  slug: george-knapp
+  shared_claims: 1
+- node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+  title: Harry Reid
+  node_type: person
+  slug: harry-reid
+  shared_claims: 1
+- node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+  title: National Institute for Discovery Science
+  node_type: organisation
+  slug: national-institute-for-discovery-science
+  shared_claims: 1
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 1
+- node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+  title: United States Pentagon
+  node_type: place
+  slug: united-states-pentagon
+  shared_claims: 1
+- node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+  title: alien implant
+  node_type: topic
+  slug: alien-implant
+  shared_claims: 1
+claims:
+- claim_id: f3bb0a7a-8872-40bb-beb8-b9c0735620f7
+  claim_hash: ff40496399723e8007fce3b3bf88a48ed9635d818295e34262d6e84ab54aa45a
+  content: Bigelow Aerospace Advanced Space Studies, LLC initially won the contract
+    for the Advanced Aerospace Weapon System Applications Program (AAWSAP)/Advanced
+    Aerospace Threat Identification Program (AATIP) work.
+  original_excerpt: the contracted work by Bigelow Aerospace Advanced Space Studies,
+    LLC. who initially won the contract
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    slug: llc-bigelow-aerospace-advanced-space-studies
+  date: null
+  date_end: null
+  location_in_record: char:7289-7381
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+    record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities”
+      on AATIP; Senator Harry Reid’s 2009 Memo Changes Nothing - The Black Vault
+    record_date: '2019-06-14'
+    record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+    content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+    friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+- claim_id: 2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
+  claim_hash: 79ba60cc091a56972fda00f417f9780820c9166088be7c6a27ee57f44198203e
+  content: Eric Davis told George Knapp, discussing his work on the Bigelow Aerospace
+    Advanced Space Studies (BAASS) Defense Intelligence Agency contract, that there
+    were indeed recovered extra-terrestrial craft, the information about which had
+    not yet been revealed or published.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+  provenance_chain:
+    origin_kind: speaker
+    origin: Eric Davis
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    slug: george-knapp
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    slug: llc-bigelow-aerospace-advanced-space-studies
+  date: null
+  date_end: null
+  location_in_record: ch17:15421-15637
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b6aac8b7-ad7e-440d-a214-67a75d930903
+  claim_hash: d30c3ac740b31e32782739a9e8d91db50b7349c8b36494c870da77889c58a134
+  content: In 2009 Harry Reid sought Special Access Program status for the Advanced
+    Aerospace Threat Identification Program (AATIP) because Bigelow Aerospace Advanced
+    Space Studies (BAASS) investigators had already tracked down secret project codenames
+    pointing to a purported secret Unidentified Aerial Phenomena (UAP) program hidden
+    inside the US government and private aerospace industry, allegedly still attempting
+    to re-engineer recovered alien technology.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  - node_id: cd0c7599-4dfa-410c-85e4-c2b7bc7a4b35
+    title: 2009 Harry Reid Special Access Program request for Advanced Aerospace Threat
+      Identification Program (AATIP)
+    slug: 2009-harry-reid-special-access-program-request-for-advanced-aerospace-threat-identification-program-aatip
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    slug: llc-bigelow-aerospace-advanced-space-studies
+  date: null
+  date_end: null
+  location_in_record: ch17:19983-20345
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7201f205-c587-409e-baf3-a92002347e74
+  claim_hash: 5625d51176a2e056be90c8d82b58fd4ed8a7a0df59f0abb3bbbb189e14faba97
+  content: Much of the Pentagon funding for the UAP investigation went to Robert Bigelow's
+    company, Bigelow Aerospace Advanced Space Studies (BAASS).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+    title: United States Pentagon
+    slug: united-states-pentagon
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    slug: llc-bigelow-aerospace-advanced-space-studies
+  date: null
+  date_end: null
+  location_in_record: ch17:5141-5246
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: efdd0682-4b33-49e0-941b-2a6dae5438de
+  claim_hash: da1c6bd4f336e49ec9e45c815d0f3c78921bbe30270fc93e721c6aff4cd04a3f
+  content: Robert Bigelow hired several of the same scientists who had served on his
+    private decade-long National Institute for Discovery Science investigations to
+    work on the Bigelow Aerospace Advanced Space Studies program.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    slug: llc-bigelow-aerospace-advanced-space-studies
+  date: null
+  date_end: null
+  location_in_record: ch17:5254-5409
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 963896c5-b9ab-441f-a74a-b9134507125a
+  claim_hash: 3f01b019878a66ddd10385977fd6bac7924aac02b58ab2f8625a2ccd3a397621
+  content: Robert Bigelow's firm Bigelow Aerospace Advanced Space Studies (BAASS)
+    was the prime contractor for the programme Lue Elizondo joined.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    slug: llc-bigelow-aerospace-advanced-space-studies
+  date: null
+  date_end: null
+  location_in_record: ch10:1575-1687
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: d2a59530-ddb1-484f-846f-bed27dbb968d
+  claim_hash: 3b6752918019d935bf80dd62933be478ee9f2eb1938de4cd8733a7d4f58641c3
+  content: Bigelow Aerospace Advanced Space Studies (BAASS) was the primary contractor
+    firm for the Advanced Aerospace Weapons System Application Program (AAWSAP).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    slug: llc-bigelow-aerospace-advanced-space-studies
+  date: null
+  date_end: null
+  location_in_record: ch16:12266-12514
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 70f2b459-68d3-4b27-b0da-bb9d78d67724
+  claim_hash: eb19c4f0f36ab5040cbdeb13e669e40d5847c1901901a23ba3560d741b4bc431
+  content: Bigelow Aerospace Advanced Space Studies (BAASS) was owned by Robert Bigelow.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    slug: llc-bigelow-aerospace-advanced-space-studies
+  date: null
+  date_end: null
+  location_in_record: ch16:12347-12455
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: ce18a1af-e287-45f1-9134-34777fd4bf68
+  claim_hash: 66e3d8f7720ae32464113932d5c6e94debdb9602a3b77c9ec9d24afebc9f37bc
+  content: It was allegedly claimed that the names and contact information of civilian
+    eyewitnesses had been stripped from records before submission to the government,
+    but that the redacted reports had allegedly been uploaded to Department of Defense
+    (DoD) databases by someone in the Advanced Aerospace Weapons System Application
+    Program (AAWSAP) government chain of command rather than by Bigelow Aerospace
+    Advanced Space Studies (BAASS).
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unnamed allegations relayed within the AAWSAP controversy
+    relay:
+    - relayed by Lue Elizondo
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    slug: llc-bigelow-aerospace-advanced-space-studies
+  date: null
+  date_end: null
+  location_in_record: ch16:13031-13289
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 6bea6b1c-3eda-474e-b1b0-967c675b92a6
+  claim_hash: 2a10c30c3fa819191f23c60304780eac6cff3111a025bc2fb63f1783756e21d4
+  content: Colm Kelleher is a biochemist who was the deputy administrator for Bigelow
+    Aerospace Advanced Space Studies (BAASS) during the Advanced Aerospace Weapons
+    System Application Program (AAWSAP).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+    title: Colm Kelleher
+    slug: colm-kelleher
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    slug: llc-bigelow-aerospace-advanced-space-studies
+  date: null
+  date_end: null
+  location_in_record: ch18:14650-14728
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: a53a26a0-88b4-4e66-a751-4a02884239e6
+  claim_hash: aee94873b4ce0e1863dfabfa417d2c9c80c498fc7c400ee4cb15f70a32d7bdd4
+  content: The 2018 biological sample was very similar in appearance to other samples
+    collected earlier by the Bigelow Aerospace Advanced Space Studies (BAASS) team.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    slug: llc-bigelow-aerospace-advanced-space-studies
+  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+    title: alien implant
+    slug: alien-implant
+  date: null
+  date_end: null
+  location_in_record: ch37:2261-2378
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted

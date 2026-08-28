@@ -1,0 +1,429 @@
+schema: anomalica/brief/1
+brief_hash: bac3427477824330aa749777c2b014b683e5f240e00ed5410582ee12b5b94b32
+page:
+  kind: entity
+  node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+  node_type: person
+  title: Barry Goldwater
+  slug: barry-goldwater
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: acde03ee-7227-486d-854c-9673dd837619
+  title: USA, Ohio, Wright-Patterson Air Force Base
+  node_type: place
+  slug: ohio-wright-patterson-air-force-base-usa
+  shared_claims: 4
+- node_id: 56287749-46c9-4885-b98c-f188672d6edf
+  title: Curtis LeMay
+  node_type: person
+  slug: curtis-lemay
+  shared_claims: 2
+- node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+  title: Roswell incident (1947)
+  node_type: event
+  slug: roswell-incident-1947
+  shared_claims: 2
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 2
+- node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
+  title: 509th Bomb Group
+  node_type: organisation
+  slug: 509th-bomb-group
+  shared_claims: 1
+- node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+  title: Gang of Eight
+  node_type: organisation
+  slug: gang-of-eight
+  shared_claims: 1
+- node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+  title: John Fitzgerald Kennedy
+  node_type: person
+  slug: john-fitzgerald-kennedy
+  shared_claims: 1
+- node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+  title: Roswell Army Air Field
+  node_type: organisation
+  slug: roswell-army-air-field
+  shared_claims: 1
+- node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+  title: Senate Armed Services Committee
+  node_type: organisation
+  slug: senate-armed-services-committee
+  shared_claims: 1
+- node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+  title: US Senate Select Committee on Intelligence
+  node_type: organisation
+  slug: us-senate-select-committee-on-intelligence
+  shared_claims: 1
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 1
+- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+  title: United States Congress
+  node_type: organisation
+  slug: united-states-congress
+  shared_claims: 1
+- node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+  title: William Blanchard
+  node_type: person
+  slug: william-blanchard
+  shared_claims: 1
+claims:
+- claim_id: 70bd7fbb-1532-4e99-b444-247c1b392306
+  claim_hash: b00dc5c2fe2c64fb46483b32850cd077ef0626adf2252e3b4c95db7699d497c1
+  content: Republican Senator Barry Goldwater of Arizona objected to John F. Kennedy's
+    proposal for space cooperation with the Soviet Union.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+    slug: barry-goldwater
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    slug: john-fitzgerald-kennedy
+  date: 1963-09
+  date_end: null
+  location_in_record: ch10:69710-69804
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 9ce0e5f4-7a0c-4505-8037-2b7873b75ae5
+  claim_hash: b6c7855295029dbc709bda3ec7bc56165638afea3aa58334451f80fd4ec7ba50
+  content: In the 1970s, Senator Barry Goldwater was denied access to secret documents
+    concerning apparent research into UFOs being conducted at Wright-Patterson Air
+    Force Base.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+    slug: barry-goldwater
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: acde03ee-7227-486d-854c-9673dd837619
+    title: USA, Ohio, Wright-Patterson Air Force Base
+    slug: ohio-wright-patterson-air-force-base-usa
+  date: '1975'
+  date_end: null
+  location_in_record: ch14:20971-21131
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: d55dc692-b39c-4fe4-a1af-e1cf2cd75499
+  claim_hash: 8a959dfa1afc837479c509ec8a4ff80cc586a30dd1549c3632904a00aac57dd8
+  content: Barry Goldwater told Larry King that if you could get into certain places
+    at Wright-Patterson Air Force Base, you would find out what the air force and
+    government know about UFOs.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+  provenance_chain:
+    origin_kind: speaker
+    origin: Barry Goldwater
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+    slug: barry-goldwater
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: acde03ee-7227-486d-854c-9673dd837619
+    title: USA, Ohio, Wright-Patterson Air Force Base
+    slug: ohio-wright-patterson-air-force-base-usa
+  date: '1994'
+  date_end: null
+  location_in_record: ch27:18658-18818
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 8a4f8ce9-51da-429f-bbd3-49086f288c6e
+  claim_hash: 75678c726236a763b21a51a2e08441b66d8669e88d39bc7411d07b08816607b2
+  content: Barry Goldwater told Larry King that a spaceship reportedly landed and
+    was hushed up, and that he had called General Curtis LeMay to ask about a room
+    at Wright-Patterson Air Force Base where secret material was kept.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: first_hand
+  speaker:
+    node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+  provenance_chain:
+    origin_kind: speaker
+    origin: Barry Goldwater
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 56287749-46c9-4885-b98c-f188672d6edf
+    title: Curtis LeMay
+    slug: curtis-lemay
+  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+    slug: barry-goldwater
+  - node_id: acde03ee-7227-486d-854c-9673dd837619
+    title: USA, Ohio, Wright-Patterson Air Force Base
+    slug: ohio-wright-patterson-air-force-base-usa
+  date: '1994'
+  date_end: null
+  location_in_record: ch27:18825-19012
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ee13d4a0-bccb-4a00-82d7-d51057726c51
+  claim_hash: 33e61d3b6bdab36f39ec42481311c3b4181543668c380674753c5b5e70785337
+  content: Barry Goldwater told Larry King that General Curtis LeMay became very angry
+    at his request to access the secret room at Wright-Patterson Air Force Base and
+    told him never to ask that question again.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+  provenance_chain:
+    origin_kind: speaker
+    origin: Barry Goldwater
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 56287749-46c9-4885-b98c-f188672d6edf
+    title: Curtis LeMay
+    slug: curtis-lemay
+  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+    slug: barry-goldwater
+  - node_id: acde03ee-7227-486d-854c-9673dd837619
+    title: USA, Ohio, Wright-Patterson Air Force Base
+    slug: ohio-wright-patterson-air-force-base-usa
+  date: '1994'
+  date_end: null
+  location_in_record: ch27:19020-19137
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 8b72cc0d-2659-420d-ae47-138a2023f3f3
+  claim_hash: 79c8c7e7b1a93f86255235c9b6e97286a8e279eb09308465bef7ba7195f540fa
+  content: Barry Goldwater served on the United States Senate Armed Services Committee,
+    the Aeronautical and Space Sciences Committee, and was a former chairman of the
+    Senate Intelligence Committee.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+    title: US Senate Select Committee on Intelligence
+    slug: us-senate-select-committee-on-intelligence
+  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+    slug: barry-goldwater
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    slug: senate-armed-services-committee
+  date: null
+  date_end: null
+  location_in_record: ch27:19147-19327
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: de40f851-2cdb-4eb7-ad0a-858c3447e7be
+  claim_hash: 56ca73544589eb695ac9cd990d3ff049269f35615d02e6c91e6b55e8856806c5
+  content: As a member of the Gang of Eight in the United States Congress, Barry Goldwater
+    was cleared to know America's most sensitive secrets.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+    slug: barry-goldwater
+  - node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+    title: Gang of Eight
+    slug: gang-of-eight
+  date: null
+  date_end: null
+  location_in_record: ch27:19338-19442
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7358ddd1-c8b0-444b-9a99-70df9693516e
+  claim_hash: f76363b2d49f07fc362527cb21d2bf08fa086be81c8885b397f88d381fda1c88
+  content: Barry Goldwater was a close friend of Air Force General William 'Butch'
+    Blanchard, who as a colonel in 1947 was the commanding officer of the 509th Bomb
+    Group at Roswell Army Air Field when the supposed Roswell UFO crash happened.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    slug: william-blanchard
+  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+    title: Roswell Army Air Field
+    slug: roswell-army-air-field
+  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+    slug: barry-goldwater
+  - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
+    title: 509th Bomb Group
+    slug: 509th-bomb-group
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: '1947'
+  date_end: null
+  location_in_record: ch27:19451-19703
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 741d0f4c-434b-4370-b316-4a71ed9343b8
+  claim_hash: 7b25c3632a94541e574b9162fa7061f27612f0a130417dc098b85e5a3e66016e
+  content: Barry Goldwater knew several people with direct knowledge of what actually
+    happened at Roswell.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+    slug: barry-goldwater
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    slug: roswell-incident-1947
+  date: null
+  date_end: null
+  location_in_record: ch27:19713-19794
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted

@@ -1,0 +1,523 @@
+schema: anomalica/brief/1
+brief_hash: c87eef99f29163130f84d6e2b090ca9f71c3fd12222f7aff253a8db60051a697
+page:
+  kind: entity
+  node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+  node_type: organisation
+  title: UAP Task Force
+  slug: uap-task-force
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+  title: Stratton, Jay
+  node_type: person
+  slug: jay-stratton
+  shared_claims: 5
+- node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+  title: Elizondo, Luis
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 3
+- node_id: f4ef4f38-6d19-4805-a720-3f03dff67602
+  title: Grusch, David
+  node_type: person
+  slug: david-grusch
+  shared_claims: 3
+- node_id: f719a998-a6ce-462d-bf02-1f3884ec3a7a
+  title: UAP Legacy Programs
+  node_type: matter
+  slug: uap-legacy-programs
+  shared_claims: 3
+- node_id: 8e99ae7d-3c45-4414-95ac-b7c3c8d0c072
+  title: First Open Congressional UAP Hearing 2022
+  node_type: event
+  slug: first-open-congressional-uap-hearing-2022
+  shared_claims: 2
+- node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+  title: National Reconnaissance Office (NRO)
+  node_type: organisation
+  slug: national-reconnaissance-office-nro
+  shared_claims: 2
+- node_id: 67de1243-f3e0-4363-b6f7-01d23c6b42bb
+  title: Space Force
+  node_type: organisation
+  slug: space-force
+  shared_claims: 2
+- node_id: af6e1245-9594-41d7-854e-1a63d70a79ca
+  title: Advanced Aerospace Threat Identification Program (AATIP)
+  node_type: organisation
+  slug: advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 1
+- node_id: b515119c-8877-4000-bc20-ba005f50d1db
+  title: Australian Department of Defence
+  node_type: organisation
+  slug: australian-department-of-defence
+  shared_claims: 1
+- node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+  title: Bray, Scott W.
+  node_type: person
+  slug: scott-w-bray
+  shared_claims: 1
+- node_id: 29fcdd20-82d5-4d50-a151-f74714bdebe1
+  title: FBI
+  node_type: organisation
+  slug: fbi
+  shared_claims: 1
+- node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+  title: Federal Aviation Administration (FAA)
+  node_type: organisation
+  slug: federal-aviation-administration-faa
+  shared_claims: 1
+- node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+  title: Moultrie, Ronald S.
+  node_type: person
+  slug: ronald-s-moultrie
+  shared_claims: 1
+- node_id: ced3c1cf-6084-4869-ae54-9a5ba12c2fba
+  title: NASA
+  node_type: organisation
+  slug: nasa
+  shared_claims: 1
+- node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+  title: National Geospatial-Intelligence Agency (NGA)
+  node_type: organisation
+  slug: national-geospatial-intelligence-agency-nga
+  shared_claims: 1
+- node_id: 2fb6c48c-c08b-41f7-9591-1ed3c2cd2f9f
+  title: Non-Human Craft Recovery Programs
+  node_type: matter
+  slug: non-human-craft-recovery-programs
+  shared_claims: 1
+- node_id: 716df7ef-01d8-4af7-b7f5-6626475aa2a8
+  title: UAP Task Force Director Announcement
+  node_type: event
+  slug: uap-task-force-director-announcement
+  shared_claims: 1
+claims:
+- claim_id: 5331f3d5-1df4-4a11-9c69-c608bda85478
+  claim_hash: f255c7fae266649ca46de99b93341727ea014f88a655eb750ee68aa608cdea2d
+  content: Scott W. Bray stated at the first open congressional UAP hearing that he
+    was not aware of anything outside what was being done in the UAP Task Force.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+    title: Bray, Scott W.
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+    title: UAP Task Force
+    slug: uap-task-force
+  - node_id: 8e99ae7d-3c45-4414-95ac-b7c3c8d0c072
+    title: First Open Congressional UAP Hearing 2022
+    slug: first-open-congressional-uap-hearing-2022
+  - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+    title: Bray, Scott W.
+    slug: scott-w-bray
+  date: '2022-05-17'
+  date_end: null
+  location_in_record: Chapter 25
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: c16993b4-b830-4404-b1cc-2a7f0b7bd8ee
+  claim_hash: e67142f895ddd59319c0c313f961efcd7d2c14cb9edea8160a10561e069eb624
+  content: Ronald S. Moultrie stated at the first open congressional UAP hearing that
+    he was not aware of any contractual programs focused on anything related to UAPs
+    other than the Navy task force and a new effort being launched.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+    title: Moultrie, Ronald S.
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+    title: Moultrie, Ronald S.
+    slug: ronald-s-moultrie
+  - node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+    title: UAP Task Force
+    slug: uap-task-force
+  - node_id: 8e99ae7d-3c45-4414-95ac-b7c3c8d0c072
+    title: First Open Congressional UAP Hearing 2022
+    slug: first-open-congressional-uap-hearing-2022
+  date: '2022-05-17'
+  date_end: null
+  location_in_record: Chapter 25
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 2d183273-6a40-4b1a-9737-b80d3b5564c7
+  claim_hash: 64a2715d7d3ad84bfeae5137aaef9b734d01e8301b3efd94c0917d91c9740be5
+  content: The UAP Task Force built by Jay Stratton drew representatives from the
+    FBI, National Reconnaissance Office (NRO), NASA, and the Federal Aviation Administration
+    (FAA).
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 29fcdd20-82d5-4d50-a151-f74714bdebe1
+    title: FBI
+    slug: fbi
+  - node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+    title: UAP Task Force
+    slug: uap-task-force
+  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+    title: Stratton, Jay
+    slug: jay-stratton
+  - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+    title: Federal Aviation Administration (FAA)
+    slug: federal-aviation-administration-faa
+  - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+    title: National Reconnaissance Office (NRO)
+    slug: national-reconnaissance-office-nro
+  - node_id: ced3c1cf-6084-4869-ae54-9a5ba12c2fba
+    title: NASA
+    slug: nasa
+  date: null
+  date_end: null
+  location_in_record: Chapter 23, paragraph 11
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: e558b488-5da1-4454-ada2-31d06cc3f7d1
+  claim_hash: 1db53fe1ece3c772cfb8bb33c92f7034be74062a19944225bbe8c83b47757636
+  content: Jay Stratton was tasked by Navy intelligence leadership to quietly build
+    a whole-of-government interagency UAP task force with more authorities than the
+    Advanced Aerospace Threat Identification Program (AATIP) ever had.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+    title: UAP Task Force
+    slug: uap-task-force
+  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+    title: Stratton, Jay
+    slug: jay-stratton
+  - node_id: af6e1245-9594-41d7-854e-1a63d70a79ca
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  date: null
+  date_end: null
+  location_in_record: Chapter 23, paragraph 11
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: 8f6d1e4d-c1b5-4116-8ee9-f91fe71dcbea
+  claim_hash: e54acfeb9e875a67f146aacf9fad0417bb0569d0a06134c805eeebc2ae03fc01
+  content: Luis Elizondo started working as a contractor for the US Space Force on
+    UAP after friends connected him with Space Force leadership.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+    title: UAP Task Force
+    slug: uap-task-force
+  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+    title: Stratton, Jay
+    slug: jay-stratton
+  - node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+    slug: luis-elizondo
+  - node_id: 67de1243-f3e0-4363-b6f7-01d23c6b42bb
+    title: Space Force
+    slug: space-force
+  date: null
+  date_end: null
+  location_in_record: Chapter 23, paragraph 12
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: d6907b2b-8d94-4013-ba42-eacdf3b32aee
+  claim_hash: 442017c2dbde368439ebbedcc220db4d74be05f00a14cc16ce04653ff0287bcc
+  content: The Secretary of Defense announced the UAP Task Force and named Jay Stratton
+    as its first director.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+    title: UAP Task Force
+    slug: uap-task-force
+  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+    title: Stratton, Jay
+    slug: jay-stratton
+  - node_id: 716df7ef-01d8-4af7-b7f5-6626475aa2a8
+    title: UAP Task Force Director Announcement
+    slug: uap-task-force-director-announcement
+  - node_id: b515119c-8877-4000-bc20-ba005f50d1db
+    title: Australian Department of Defence
+    slug: australian-department-of-defence
+  date: null
+  date_end: null
+  location_in_record: Chapter 23, paragraph 13
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: add35c32-5fdb-4e5c-a324-dac5eaff5246
+  claim_hash: 19b853ab8a9dd8d76bc6ca13b4bd185f018da9e229597e4737ad8e26a586c699
+  content: From the moment the UAP Task Force became official, the Legacy Program
+    started quietly pushing back on Jay Stratton behind the scenes, creating bureaucratic
+    hurdles for him and his task force.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+    title: UAP Task Force
+    slug: uap-task-force
+  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+    title: Stratton, Jay
+    slug: jay-stratton
+  - node_id: f719a998-a6ce-462d-bf02-1f3884ec3a7a
+    title: UAP Legacy Programs
+    slug: uap-legacy-programs
+  date: null
+  date_end: null
+  location_in_record: Chapter 23, paragraph 14
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: dbb23af1-2de2-449e-9346-70fc36fad1bf
+  claim_hash: 8875690fa33799a8287d9f9b3c0bfb4ecebe75b57848009558db3f65f8ee46a2
+  content: The Legacy Program and those associated with it managed to block funding
+    appropriated to the UAP Task Force by Congress.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+    title: UAP Task Force
+    slug: uap-task-force
+  - node_id: f719a998-a6ce-462d-bf02-1f3884ec3a7a
+    title: UAP Legacy Programs
+    slug: uap-legacy-programs
+  date: null
+  date_end: null
+  location_in_record: Chapter 23, paragraph 46
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: 4eafd525-4946-4450-a406-dd90d2bfcdac
+  claim_hash: 27911686662732ac032f1a16b416b1d6c70852b5a426c6e81f1eb26d6c28fe68
+  content: David Grusch served as the National Reconnaissance Office's and National
+    Geospatial-Intelligence Agency's representative on the UAP Task Force.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+    title: UAP Task Force
+    slug: uap-task-force
+  - node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+    slug: luis-elizondo
+  - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+    title: National Geospatial-Intelligence Agency (NGA)
+    slug: national-geospatial-intelligence-agency-nga
+  - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+    title: National Reconnaissance Office (NRO)
+    slug: national-reconnaissance-office-nro
+  - node_id: f4ef4f38-6d19-4805-a720-3f03dff67602
+    title: Grusch, David
+    slug: david-grusch
+  date: '2023'
+  date_end: null
+  location_in_record: Chapter 24, paragraph 4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: 9a4722e4-ed5a-499d-92cf-98aca392367d
+  claim_hash: 0ce8230642b90a6531350c651462b3c417b28c18006c68104ada35ba789ea4a3
+  content: David Grusch stated that the UAP Task Force was refused access to a broad
+    crash retrieval program involving the retrieval of nonhuman-origin technical vehicles.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: f4ef4f38-6d19-4805-a720-3f03dff67602
+    title: Grusch, David
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2fb6c48c-c08b-41f7-9591-1ed3c2cd2f9f
+    title: Non-Human Craft Recovery Programs
+    slug: non-human-craft-recovery-programs
+  - node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+    title: UAP Task Force
+    slug: uap-task-force
+  - node_id: f4ef4f38-6d19-4805-a720-3f03dff67602
+    title: Grusch, David
+    slug: david-grusch
+  - node_id: f719a998-a6ce-462d-bf02-1f3884ec3a7a
+    title: UAP Legacy Programs
+    slug: uap-legacy-programs
+  date: '2023'
+  date_end: null
+  location_in_record: Chapter 24, paragraph 4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: 9c25e6e3-dbec-4cfc-af12-eccdb5a6ec98
+  claim_hash: 6e8b7f0128cc66d4a4415553ba7f22e1b3ac8aacd5acce7f95bc3f6498b762d8
+  content: David Grusch worked with Luis Elizondo at Space Force and contributed to
+    the UAP Task Force.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32c2bc9c-0f2d-4a53-8cfb-a874e361bb34
+    title: UAP Task Force
+    slug: uap-task-force
+  - node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+    slug: luis-elizondo
+  - node_id: 67de1243-f3e0-4363-b6f7-01d23c6b42bb
+    title: Space Force
+    slug: space-force
+  - node_id: f4ef4f38-6d19-4805-a720-3f03dff67602
+    title: Grusch, David
+    slug: david-grusch
+  date: '2023'
+  date_end: null
+  location_in_record: Chapter 24, paragraph 4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed

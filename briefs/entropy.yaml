@@ -1,0 +1,162 @@
+schema: anomalica/brief/1
+brief_hash: 2a58e984f52ae38c2d565c48531b4d845d6ccaf54691e5edcb92a8599eecc939
+page:
+  kind: entity
+  node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
+  node_type: topic
+  title: entropy
+  slug: entropy
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+  title: Remote Viewing (RV)
+  node_type: topic
+  slug: remote-viewing-rv
+  shared_claims: 2
+- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+  title: Chris Ramsay
+  node_type: person
+  slug: chris-ramsay
+  shared_claims: 1
+- node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+  title: Edwin C. May
+  node_type: person
+  slug: edwin-c-may
+  shared_claims: 1
+- node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+  title: Julia Mossbridge
+  node_type: person
+  slug: julia-mossbridge
+  shared_claims: 1
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 1
+claims:
+- claim_id: e104137a-b7ec-4674-bc9c-db5087dfa6ed
+  claim_hash: 48f59fc34975ceb782d3788738644cb6c714d9ed0c6f9fb286ea7ee11aa82180
+  content: Whitley Strieber believes that if the nonhuman visitors understand entropy
+    perfectly, as he thinks the evidence suggests, then they live outside the fourth
+    dimension of time.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
+    title: entropy
+    slug: entropy
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  date: null
+  date_end: null
+  location_in_record: ch17:10669-10817
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 46f2cd91-606e-4c25-9071-71bdc6885ec7
+  claim_hash: 9e7b4b92294dc9f0fe6a8bfde91ff2ae6d1e58314c6e9441bd73b46fe253a870
+  content: Chris Ramsay expects Edwin May would say physical contrast produces the
+    strongest remote viewing signal, on the basis that a target with high entropy
+    yields a more accurate reading.
+  original_excerpt: Ed May would say contrast, right? That would be like as soon as
+    something has entropy or high entropy would yield like a more accurate reading
+    of a target.
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: named
+    origin: Edwin May
+    relay:
+    - Chris Ramsay
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
+    title: entropy
+    slug: entropy
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  date: null
+  date_end: null
+  location_in_record: 02:41:26.9-02:41:40.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: add3952a-b3db-48f8-8339-13909d3bab11
+  claim_hash: 0c9673f6453d56404a19c58c9fe2ed0f5f2e3625361e39f606419028984cfcf0
+  content: Target entropy and target interestingness are hard to separate as explanations
+    of remote viewing performance, and further work is needed.
+  original_excerpt: But that's also more interesting. So it's really hard to separate
+    those. ... So more work needs to be done.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
+    title: entropy
+    slug: entropy
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 02:45:58.8-02:46:01.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null

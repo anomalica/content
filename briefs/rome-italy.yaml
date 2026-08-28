@@ -1,0 +1,1552 @@
+schema: anomalica/brief/1
+brief_hash: 2ca9e88a9e535ab8dbb98bbc613f74589055b76c2da1b3087a8751cc5ed39b79
+page:
+  kind: entity
+  node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+  node_type: place
+  title: Italy, Rome
+  slug: rome-italy
+  claim_count: 35
+  claim_count_total: 35
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: f2daae19-9351-4a8e-b466-664f83887f61
+  title: Diana Walsh Pasulka
+  node_type: person
+  slug: diana-walsh-pasulka
+  shared_claims: 8
+- node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+  title: Tyler D.
+  node_type: person
+  slug: tyler-d
+  shared_claims: 8
+- node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+  title: Third Secret of Fatima
+  node_type: document
+  slug: third-secret-of-fatima
+  shared_claims: 6
+- node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+  title: John Paul II
+  node_type: person
+  slug: john-paul-ii
+  shared_claims: 3
+- node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+  title: John XXIII
+  node_type: person
+  slug: john-xxiii
+  shared_claims: 3
+- node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+  title: Michael Hesemann
+  node_type: person
+  slug: michael-hesemann
+  shared_claims: 3
+- node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+  title: Vatican
+  node_type: organisation
+  slug: vatican
+  shared_claims: 3
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 3
+- node_id: 8edf7750-0939-496c-9749-2ddd6a426dd6
+  title: Apparition of Mary at Rome (363)
+  node_type: event
+  slug: apparition-of-mary-at-rome-363
+  shared_claims: 2
+- node_id: fdc92f43-5a64-4b26-8179-0bdd10da7c4d
+  title: Italy, Florence
+  node_type: place
+  slug: florence-italy
+  shared_claims: 2
+- node_id: 084bc6c4-00e8-4bed-9506-5a439fb3cc46
+  title: Italy, Rome, Santa Maria Maggiore
+  node_type: object
+  slug: rome-santa-maria-maggiore-italy
+  shared_claims: 2
+- node_id: 1f5d3803-7533-4068-b2b6-74da38556688
+  title: St. Peter's Square
+  node_type: place
+  slug: st-peters-square
+  shared_claims: 2
+- node_id: e4ac668d-d416-4931-ae19-e92c5bbe84dc
+  title: Tarcisio Bertone
+  node_type: person
+  slug: tarcisio-bertone
+  shared_claims: 2
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 1
+- node_id: 60dcc104-e9bd-4292-95fe-2584aa68ce44
+  title: Act of Consecration of Russia and the World to the Immaculate Heart of Mary
+    (1984-03-25)
+  node_type: event
+  slug: act-of-consecration-of-russia-and-the-world-to-the-immaculate-heart-of-mary-1984-03-25
+  shared_claims: 1
+- node_id: 9afbf5d7-cd86-45b5-a796-9b0d072949e2
+  title: Arrival of the wandering Madonna of Fatima statue in Rome (1950-10-29)
+  node_type: event
+  slug: arrival-of-the-wandering-madonna-of-fatima-statue-in-rome-1950-10-29
+  shared_claims: 1
+- node_id: 4131f5a3-e3fe-4e2e-b841-b362f49ea6e4
+  title: Asia
+  node_type: place
+  slug: asia
+  shared_claims: 1
+- node_id: 7afe3a5e-5d91-4a48-b48f-3c8c079f2521
+  title: Austria
+  node_type: place
+  slug: austria
+  shared_claims: 1
+- node_id: 3fd7170c-0437-4aa5-9494-7fc3db68b51a
+  title: Bullet from the assassination attempt on John Paul II inserted into the crown
+    of the Fatima statue
+  node_type: object
+  slug: bullet-from-the-assassination-attempt-on-john-paul-ii-inserted-into-the-crown-of-the-fatima-statue
+  shared_claims: 1
+- node_id: fb641c4d-01aa-4932-8d51-f0c8e8edc900
+  title: Father McDonnell
+  node_type: person
+  slug: father-mcdonnell
+  shared_claims: 1
+- node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
+  title: Germany
+  node_type: place
+  slug: germany
+  shared_claims: 1
+- node_id: 5184c2a5-ce2f-4148-a597-a7740969898b
+  title: Image of Guadalupe
+  node_type: object
+  slug: image-of-guadalupe
+  shared_claims: 1
+- node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+  title: Italy, Castel Gandolfo
+  node_type: place
+  slug: castel-gandolfo-italy
+  shared_claims: 1
+- node_id: 9900e821-3ba2-4337-9e3c-6ae540cf2fa1
+  title: Italy, Rome, Santa Sabina
+  node_type: place
+  slug: rome-santa-sabina-italy
+  shared_claims: 1
+- node_id: f9068bb3-5b45-4822-a040-3e2d3fc3b72a
+  title: Italy, Sarate bunker
+  node_type: place
+  slug: sarate-bunker-italy
+  shared_claims: 1
+- node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
+  title: James Master
+  node_type: person
+  slug: james-master
+  shared_claims: 1
+- node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+  title: Jesse Mitchells
+  node_type: person
+  slug: jesse-mitchells
+  shared_claims: 1
+- node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+  title: Joseph of Cupertino
+  node_type: person
+  slug: joseph-of-cupertino
+  shared_claims: 1
+- node_id: 9721056d-0ee7-4a63-9778-42cbc2d2b75b
+  title: Malachy (Saint)
+  node_type: person
+  slug: malachy-saint
+  shared_claims: 1
+- node_id: 1769148b-c279-4845-99a3-90c7f940450e
+  title: Maria Steiner
+  node_type: person
+  slug: maria-steiner
+  shared_claims: 1
+claims:
+- claim_id: 05c494de-8c8a-474c-b6e7-99f568842b2a
+  claim_hash: f439b43aeeac553e602bdd54e5d1851622e75056a7b05ea6a0dc8c296ffe864f
+  content: On 1950-10-29, the wandering Madonna of Fatima statue arrived in Rome after
+    having travelled through Asia.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: 4131f5a3-e3fe-4e2e-b841-b362f49ea6e4
+    title: Asia
+    slug: asia
+  - node_id: 9afbf5d7-cd86-45b5-a796-9b0d072949e2
+    title: Arrival of the wandering Madonna of Fatima statue in Rome (1950-10-29)
+    slug: arrival-of-the-wandering-madonna-of-fatima-statue-in-rome-1950-10-29
+  date: '1950-10-29'
+  date_end: null
+  location_in_record: ch15:16942-17042
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 900697e9-8732-4640-8d6d-e0e6870c4bc8
+  claim_hash: a8265caf1876672c4ddd5182299ffb918fe3c5229374ebd192bc3535d4c88c8c
+  content: Pope John XXIII put Sister Lúcia's letter back in its envelope along with
+    a personal note explaining the reasons for his decision not to publish the Third
+    Secret, then told his closest advisors about its contents and his decision, and
+    made them all swear to secrecy.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    slug: third-secret-of-fatima
+  - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+    title: John XXIII
+    slug: john-xxiii
+  date: '1959-08-17'
+  date_end: null
+  location_in_record: ch16:10501-10812
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: c06d6f46-81be-4206-895c-368100c0e43a
+  claim_hash: abc1702bd40cfba417f94afd5995d28ffc2218147ea34a2499590af625866d63
+  content: Fourteen months after the Third Secret was brought to Rome, a leak occurred.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    slug: third-secret-of-fatima
+  date: null
+  date_end: null
+  location_in_record: ch16:7082-7147
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 145be8d5-4a4f-4148-ac3d-0c073700d4de
+  claim_hash: 0769ee7016bba1dc56709364958e059f9c726f6d7a227877b47724a139cb732e
+  content: In early 1959 Rome was preparing for the Second Vatican Council, and Pope
+    John XXIII said he did not want to listen to "prophets of doom."
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+    title: John XXIII
+  provenance_chain:
+    origin_kind: speaker
+    origin: John XXIII
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 06d4e2fc-77bb-4c00-bb30-de3462fb11b1
+    title: Second Vatican Council
+    slug: second-vatican-council
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+    title: John XXIII
+    slug: john-xxiii
+  date: '1959'
+  date_end: null
+  location_in_record: ch16:9087-9271
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 4c3eddcf-876f-468c-9f8d-ffaf260f0c34
+  claim_hash: eb65c5518bc5bec594797533f69a4a7465727581a3452772324b550964834c0f
+  content: On his return to Rome, Father Schweigl said he could not reveal what he
+    learned at Fatima about the Third Secret, but that it has two parts, one of which
+    refers to the pope.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: b010bd9d-5d70-4405-997d-50e83b3bc3b6
+    title: Schweigl (Father)
+  provenance_chain:
+    origin_kind: speaker
+    origin: Schweigl (Father)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: b010bd9d-5d70-4405-997d-50e83b3bc3b6
+    title: Schweigl (Father)
+    slug: schweigl-father
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    slug: third-secret-of-fatima
+  date: null
+  date_end: null
+  location_in_record: ch18:4920-5087
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: fed577ca-1e70-4713-a344-f6e801047f56
+  claim_hash: 6af7f7ec747b63e863f9d939a5a73f21e64dccdba8017e90e208ba4e45dad3a6
+  content: On 1978-10-13, the sixty-first anniversary of the Miracle of the Sun of
+    1917-10-13, the cardinals arrived in Rome to elect the next pope.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: a3d7425b-b814-43c7-b4f4-a84328bded4f
+    title: Miracle of the Sun (1917-10-13)
+    slug: miracle-of-the-sun-1917-10-13
+  date: '1978-10-13'
+  date_end: null
+  location_in_record: ch18:630-765
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: f31f11de-022d-4f5c-8d71-0c5244d08d6a
+  claim_hash: 758b66de8e7779a5346282c9de64a0adea871f7ef55b05811765aef220ff6964
+  content: The Statue of Our Lady of Fatima was flown into Rome specially for the
+    1984-03-25 act of consecration.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: 60dcc104-e9bd-4292-95fe-2584aa68ce44
+    title: Act of Consecration of Russia and the World to the Immaculate Heart of
+      Mary (1984-03-25)
+    slug: act-of-consecration-of-russia-and-the-world-to-the-immaculate-heart-of-mary-1984-03-25
+  - node_id: 7960be39-3279-4d62-9deb-71ef5e6d71ca
+    title: Statue of Our Lady of Fatima
+    slug: statue-of-our-lady-of-fatima
+  date: '1984-03-25'
+  date_end: null
+  location_in_record: ch19:11172-11252
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 04d91266-bfcd-45e7-b8c7-c1b152fbc77b
+  claim_hash: c0a8ebb30b71e5941a6c8bc9b335065da54242753648cf3b75dec201fa124809
+  content: The Image of Guadalupe is considered similar to the Shroud of Turin in
+    Italy, believed to be the burial cloth of Jesus.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Hesemann
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: 5184c2a5-ce2f-4148-a597-a7740969898b
+    title: Image of Guadalupe
+    slug: image-of-guadalupe
+  - node_id: 9b1bc45c-4a84-42ef-9b4e-33d184dfc93e
+    title: Shroud of Turin
+    slug: shroud-of-turin
+  date: null
+  date_end: null
+  location_in_record: ch20:10924-11035
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: b5ccbc8e-1b11-44a3-bc1c-68f1816c3445
+  claim_hash: 8f0c0d83ba2b031029abd13a39334e08dd086ba9772bc7ee55c34b46c3349f91
+  content: In August of the year 363, the Mother of God appeared to a married couple
+    in Rome and asked for a church to be built at a spot where they would find snow
+    the next morning.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: 8edf7750-0939-496c-9749-2ddd6a426dd6
+    title: Apparition of Mary at Rome (363)
+    slug: apparition-of-mary-at-rome-363
+  date: 0363-08
+  date_end: null
+  location_in_record: ch20:171-333
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 918ba7ff-61aa-4df6-bc73-6522403a1c85
+  claim_hash: beb8048cdf486ea8e3cffc52ba5b11c0e07c9bf474da00bf0555aa1b5ad62384
+  content: A patch of snow was found at the site of the Apparition of Mary at Rome
+    in 363 and the Church of Santa Maria Maggiore was built there.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 084bc6c4-00e8-4bed-9506-5a439fb3cc46
+    title: Italy, Rome, Santa Maria Maggiore
+    slug: rome-santa-maria-maggiore-italy
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: 8edf7750-0939-496c-9749-2ddd6a426dd6
+    title: Apparition of Mary at Rome (363)
+    slug: apparition-of-mary-at-rome-363
+  date: null
+  date_end: null
+  location_in_record: ch20:396-542
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: ca1008a9-5756-4e2a-adad-406df7ad12d6
+  claim_hash: c52e19320155393e82c76424de917cdac8d87c060217d894b5538ea274314416
+  content: The Church of Santa Maria Maggiore in Rome is today one of the most important
+    shrines of Rome.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Hesemann
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 084bc6c4-00e8-4bed-9506-5a439fb3cc46
+    title: Italy, Rome, Santa Maria Maggiore
+    slug: rome-santa-maria-maggiore-italy
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  date: null
+  date_end: null
+  location_in_record: ch20:452-542
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 052ecffa-2493-476e-8a00-6cbc81dcddab
+  claim_hash: b3ba5886e8e24f918812fcf8effce2eff7e2132409f1e123bb4857f2938045d3
+  content: Further apparitions and messages associated with the María statue near
+    Los Angeles included secrets for the Vatican, which the community's priest brought
+    to Rome personally.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+    title: Vatican
+    slug: vatican
+  - node_id: d0cb0a3b-6a93-4390-911b-aba30e2289b3
+    title: Weeping oil-tear statue of María near Los Angeles (1991-01)
+    slug: weeping-oil-tear-statue-of-maria-near-los-angeles-1991-01
+  date: null
+  date_end: null
+  location_in_record: ch23:4928-5067
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 2959d381-4609-4ea4-a8c0-6fc72bb9b309
+  claim_hash: 09443845bd0d79c9de8b941e984fc13682b8032b4d296cff25c74c38f78d19ea
+  content: When the bishop of Portugal, Leiria and Fatima visited Italy, Rome, John
+    Paul II gave him the bullet found in his Jeep after the shots were fired on St.
+    Peter's Square.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f5d3803-7533-4068-b2b6-74da38556688
+    title: St. Peter's Square
+    slug: st-peters-square
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: 3fd7170c-0437-4aa5-9494-7fc3db68b51a
+    title: Bullet from the assassination attempt on John Paul II inserted into the
+      crown of the Fatima statue
+    slug: bullet-from-the-assassination-attempt-on-john-paul-ii-inserted-into-the-crown-of-the-fatima-statue
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 86a3d282-0dee-49af-8533-93f32405844e
+    title: Portugal, Leiria
+    slug: leiria-portugal
+  date: null
+  date_end: null
+  location_in_record: ch24:13154-13401
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: dea6f7d5-9783-4b78-809f-a0871f281508
+  claim_hash: 381a2a2bc0700eb75ff7cbaeee554c7eafda09bb6eef0abfe490b867a2acd5bf
+  content: Tarcisio Bertone showed Sister Lúcia the envelope containing the Third
+    Secret of Fatima that he had brought with him from Italy, Rome.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    slug: third-secret-of-fatima
+  - node_id: e4ac668d-d416-4931-ae19-e92c5bbe84dc
+    title: Tarcisio Bertone
+    slug: tarcisio-bertone
+  date: '2000-04-27'
+  date_end: null
+  location_in_record: ch24:15381-15488
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: babea78d-5eb5-4adb-bcbd-8f31e7ff501c
+  claim_hash: d7abeefc736131fdf9af26d93d647d8714c6f79e578fa8553ee407b33a5b9629
+  content: Michael Hesemann spent the week following the Vatican's press conference
+    in Rome, speaking to several Vatican sources and conducting a long interview with
+    Archbishop Tarcisio Bertone, to find answers about the Third Secret of Fatima.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hesemann, Michael
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    slug: michael-hesemann
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    slug: third-secret-of-fatima
+  - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+    title: Vatican
+    slug: vatican
+  - node_id: e4ac668d-d416-4931-ae19-e92c5bbe84dc
+    title: Tarcisio Bertone
+    slug: tarcisio-bertone
+  date: null
+  date_end: null
+  location_in_record: ch24:25751-25915
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: d27cca00-c98f-4242-bf99-ea5bf2153a6d
+  claim_hash: d8fcd03370e4ad3991a219c7050eaa8cf0982fc47ebd1b991536713223d57f42
+  content: Abbess Maria Steiner wrote a vision that she saw the Lord scourging and
+    chastising the world in a fearful manner so that few men and women would remain,
+    that monks would leave their monasteries and nuns would be driven out of their
+    convents especially in Italy, that the Holy Church would be persecuted, and that
+    unless people obtained pardon through prayer they would see the sword and death
+    and Rome would be without a shepherd.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 1769148b-c279-4845-99a3-90c7f940450e
+    title: Maria Steiner
+  provenance_chain:
+    origin_kind: speaker
+    origin: Steiner, Maria
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1769148b-c279-4845-99a3-90c7f940450e
+    title: Maria Steiner
+    slug: maria-steiner
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  date: null
+  date_end: null
+  location_in_record: ch24:30792-31213
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 7f16a9f7-0863-4268-b1de-6eac78912990
+  claim_hash: 32a597eedd0ee5003e795b76c66d94b721da45eddc49cb2a565c03f059a88a6d
+  content: According to Saint Malachy's prophecy, during the reign of the next-to-last
+    pope, Pope Peter II will guide his sheep through many tribulations, after which
+    the City of Seven Hills (Rome) will be destroyed and the terrible Judge will pass
+    judgment over His people.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Prophecy of the Popes (Saint Malachy)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: 7e8ee456-33e5-48b8-8089-95bfe3959a0a
+    title: Peter II (prophesied pope)
+    slug: peter-ii-prophesied-pope
+  - node_id: 9721056d-0ee7-4a63-9778-42cbc2d2b75b
+    title: Malachy (Saint)
+    slug: malachy-saint
+  - node_id: a67c07e8-2281-4146-a057-d5106c1a1495
+    title: Prophecy of the Popes (Saint Malachy)
+    slug: prophecy-of-the-popes-saint-malachy
+  date: null
+  date_end: null
+  location_in_record: ch24:32434-32645
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: c3bbc8e3-8b92-40c6-a5ea-64983ff3db69
+  claim_hash: d11e422817274793caa13790494ce3356838e21022aee7b4c48a9dd66dbe144a
+  content: Beatifications typically take place in Italy, Rome at St. Peter's Square,
+    especially during a Holy Year.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1f5d3803-7533-4068-b2b6-74da38556688
+    title: St. Peter's Square
+    slug: st-peters-square
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  date: null
+  date_end: null
+  location_in_record: ch24:3265-3412
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: a922258e-1bce-4615-865a-07c1702a0338
+  claim_hash: c3a67c20c805bf02ddc349ce23ff012ce5db2ad4f00dc333deca9ea07a5491fc
+  content: When the Portuguese bishops visited Italy, Rome in November 1999, John
+    Paul II bid them farewell with the words "Arrivederci a Fatima" ("See you in Fatima").
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 8fcbb3a6-412a-4fa1-bb53-4f878eaf8ce1
+    title: Serafim da Silva
+  provenance_chain:
+    origin_kind: named
+    origin: Silva, Serafim da
+    relay:
+    - press statement on 1999-11-26
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 8fcbb3a6-412a-4fa1-bb53-4f878eaf8ce1
+    title: Serafim da Silva
+    slug: serafim-da-silva
+  date: 1999-11
+  date_end: null
+  location_in_record: ch24:3466-3606
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 19b642f3-6687-4df4-b009-5da7e5a2c1d0
+  claim_hash: 3a16e399109e22010ce30917d0beeccbd621b0ae4e1a122625ab8d44a4794815
+  content: John Paul II wanted to renew the consecration of the world and Russia to
+    Our Lady of Fatima on 2000-10-08, when hundreds of bishops would arrive in Italy,
+    Rome for the Jubilee of the Bishops.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+  provenance_chain:
+    origin_kind: named
+    origin: John Paul II
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  date: '2000-10-08'
+  date_end: null
+  location_in_record: ch24:9012-9222
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 8783052e-e4d2-4454-9a65-1cf286ee0750
+  claim_hash: 45341cfda957e64f9149e410297e3917b4a33cb7de71b7a64e521aec07c147a9
+  content: Michael Hesemann has travelled to Italy, Rome many times from his home
+    in Germany and spoken with Vatican insiders about the contents of the Third Secret
+    of Fatima.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Hesemann
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
+    title: Germany
+    slug: germany
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    slug: michael-hesemann
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    slug: third-secret-of-fatima
+  - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+    title: Vatican
+    slug: vatican
+  date: null
+  date_end: null
+  location_in_record: ch7:4744-4868
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 07fee8ef-dc34-4330-83eb-4e24abd7045b
+  claim_hash: 0f4a2899cbf333730552d6118852c5017f020a7b524edb885f6ede7be58e3286
+  content: Michael Hesemann visited sites of Marian apparitions in Mexico, Italy,
+    Austria, Hungary, Spain, Bosnia and Herzegovina, Germany, and the United States.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Hesemann
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+    title: Mexico, Mexico City
+    slug: mexico-city-mexico
+  - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+    title: United States
+    slug: united-states
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: 39fedea5-7e5d-4af4-a829-bf842f70d142
+    title: Spain, Garabandal
+    slug: garabandal-spain
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    slug: michael-hesemann
+  - node_id: 7afe3a5e-5d91-4a48-b48f-3c8c079f2521
+    title: Austria
+    slug: austria
+  date: null
+  date_end: null
+  location_in_record: ch7:5137-5257
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: a69e5338-13ae-4f25-bf7a-3a40d4aa565b
+  claim_hash: 774ca579518626e19085748e8df975d210e02c90ed1c30e9057b2b2cb1108d34
+  content: Whitley Strieber travelled by second-class train to Italy, meeting a young
+    woman on the train with whom he began travelling.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: fdc92f43-5a64-4b26-8179-0bdd10da7c4d
+    title: Italy, Florence
+    slug: florence-italy
+  date: null
+  date_end: null
+  location_in_record: ch12:51316-51413
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: f192a660-1e5e-4091-bd9e-21a94170ca7e
+  claim_hash: 75230348761abecb46ca6935d2da0bc7ad1fd3cd55ebe35a48eb08768da615c3
+  content: Whitley Strieber and the young woman went to Rome, spending a few days
+    in Florence on the way.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: fdc92f43-5a64-4b26-8179-0bdd10da7c4d
+    title: Italy, Florence
+    slug: florence-italy
+  date: null
+  date_end: null
+  location_in_record: ch12:51575-51654
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: bf6106c4-8f15-438b-96fb-a55397fd21a8
+  claim_hash: 6d313e42363431a98c76754e51e63fc7a833e96c94fdfe48664957eee3764539
+  content: Whitley Strieber left the young woman in Rome and travelled by train with
+    no ticket, travelling almost at random.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  date: null
+  date_end: null
+  location_in_record: ch12:51929-52041
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: bd98440e-ec59-40b7-90d8-80198c16b026
+  claim_hash: 7236509cbbff99cba82f2fe97182ab22ecd8c3f7e3eacd8181500558a0b79df5
+  content: The day after visiting the hospital, D. W. Pasulka and Tyler D. took a
+    golf cart tour of Rome, Italy, during which they were pulled over by police for
+    approximately twenty minutes before reaching the church of Santa Sabina.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    slug: tyler-d
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: 9900e821-3ba2-4337-9e3c-6ae540cf2fa1
+    title: Italy, Rome, Santa Sabina
+    slug: rome-santa-sabina-italy
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    slug: diana-walsh-pasulka
+  date: null
+  date_end: null
+  location_in_record: '60'
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: b958e26a-6b63-49c2-bf14-f4ac327a786a
+  claim_hash: 1944d8351688e7f277522145ef30f4eff26b07257443543ae78ee9ad9f90b4ac
+  content: D. W. Pasulka took Tyler D. to Rome, Italy as the culmination of their
+    research collaboration, almost two years after Tyler D. had taken her and James
+    Master, blindfolded, to a UFO site in New Mexico.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    slug: tyler-d
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+    title: USA, New Mexico
+    slug: new-mexico-usa
+  - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
+    title: James Master
+    slug: james-master
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    slug: diana-walsh-pasulka
+  date: null
+  date_end: null
+  location_in_record: ch7:1290-1475
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 5d640313-c717-43ff-8dc7-064d85adccbb
+  claim_hash: 09eada38761e4e108b0ca86d12e23320f2de3ae2471e166a90b8237704c07922
+  content: On the second day of D. W. Pasulka's visit to Rome, Italy, she attended
+    Mass in St. Peter's Basilica with Father McDonnell, Tyler D., and six nuns.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    slug: tyler-d
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    slug: diana-walsh-pasulka
+  - node_id: fb641c4d-01aa-4932-8d51-f0c8e8edc900
+    title: Father McDonnell
+    slug: father-mcdonnell
+  date: null
+  date_end: null
+  location_in_record: ch7:14886-15002
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: bea4fae2-efb1-4ca4-95a2-ec29504d60c0
+  claim_hash: 7137207ad85fb31039b28801949045ffbb1cb106e943f230d9dcfb28f0ee77a3
+  content: During the trip to Rome, Italy, Tyler D. experienced a profound religious
+    conversion in front of D. W. Pasulka.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    slug: tyler-d
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    slug: diana-walsh-pasulka
+  date: null
+  date_end: null
+  location_in_record: ch7:1519-1588
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 8a853a83-b6f0-458f-b50d-adba3700c4ed
+  claim_hash: 15554e4bed42b86806a1395aed304794fcb7814783b303885c609e72ebf33ba9
+  content: D. W. Pasulka and Tyler D. discussed Pope John XXIII's preserved body on
+    the day after Tyler D.'s mother's funeral, two weeks after they returned from
+    Rome, Italy.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    slug: tyler-d
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    slug: diana-walsh-pasulka
+  - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+    title: John XXIII
+    slug: john-xxiii
+  date: null
+  date_end: null
+  location_in_record: ch7:16301-16407
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: f258b73f-1ad3-4475-b848-881608b3721a
+  claim_hash: c17668cfd65f5449ac45250f7b09118138c761d224bc79b783b1ac15aa6cd5ed
+  content: Tyler D. felt that his connection to the beings he believed to be extraterrestrials
+    had been 'supercharged' by the environment in Rome and Castel Gandolfo, while
+    also feeling he knew less about what they were, who they were, and their intentions.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tyler D.
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+    title: Italy, Castel Gandolfo
+    slug: castel-gandolfo-italy
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    slug: tyler-d
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  date: null
+  date_end: null
+  location_in_record: ch7:39649-39880
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: b47e619c-d304-4dae-9fba-1d472c1b7cb4
+  claim_hash: 725c5eaa07ce3339563d167a0654202a1e1f9584a6026da5ff2717b5a59c9991
+  content: An organisation funded D. W. Pasulka's research trip to Rome, Italy to
+    analyse the canonisation trial records of St. Joseph of Cupertino and Sister Maria
+    of Agreda.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+    title: Maria of Agreda
+    slug: maria-of-agreda
+  - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+    title: Joseph of Cupertino
+    slug: joseph-of-cupertino
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    slug: diana-walsh-pasulka
+  date: null
+  date_end: null
+  location_in_record: ch7:4403-4559
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 01248861-aab2-4f85-8dad-3ed6087472f6
+  claim_hash: f7de2d1f4cec95a09f418b70053075246f682e98a8b09341e19e0af9e7232a2a
+  content: Tyler D. proposed to accompany D. W. Pasulka to Rome, Italy, with the plan
+    that she would translate documents and he would offer analysis based on his work
+    in aeronautics.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    slug: tyler-d
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    slug: diana-walsh-pasulka
+  date: null
+  date_end: null
+  location_in_record: ch7:5974-6130
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 178b3477-2e76-46cb-bd1c-828b5bd44b67
+  claim_hash: 502225d370581da1c4eb94f3283d6e0a31258c36c2d5a175a01c67ba047b28c9
+  content: Tyler D. arrived in Rome, Italy a day before D. W. Pasulka.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    slug: tyler-d
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    slug: diana-walsh-pasulka
+  date: null
+  date_end: null
+  location_in_record: ch7:9457-9492
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 4f5c5cb2-0b9f-49df-ad42-f696b9e7c322
+  claim_hash: a8ed53d8b995e0639cd2f97cd86d73412bc89b06228c1efefe10cbce65fffe88
+  content: Jesse Michels believes material from the Magenta UFO crash was held at
+    the Sarate bunker outside Rome.
+  original_excerpt: I think it was held at the Sarate bunker, which was outside of
+    Rome
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michels
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    slug: jesse-mitchells
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    slug: rome-italy
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: f9068bb3-5b45-4822-a040-3e2d3fc3b72a
+    title: Italy, Sarate bunker
+    slug: sarate-bunker-italy
+  date: null
+  date_end: null
+  location_in_record: 02:22:53.0-02:22:55.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

@@ -1,0 +1,205 @@
+schema: anomalica/brief/1
+brief_hash: 01c0257418ec3463d8dd7919c37b09b5b5c5f25aabd8624d8a76b5694ddba53d
+page:
+  kind: entity
+  node_id: 5f2d4a5f-fa1f-4b35-89ac-4908fe41dee0
+  node_type: organisation
+  title: Asahi TV
+  slug: asahi-tv
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: bd40f236-496c-4574-b78a-8c1e9afcb3d4
+  title: 1991 Japanese ground-penetrating radar documentary on the Merivälja object
+  node_type: document
+  slug: 1991-japanese-ground-penetrating-radar-documentary-on-the-merivalja-object
+  shared_claims: 2
+- node_id: 4275e483-211d-4044-bf02-a9bde770199b
+  title: 1991 Japanese investigation of the Merivalja garden
+  node_type: event
+  slug: 1991-japanese-investigation-of-the-merivalja-garden
+  shared_claims: 2
+- node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+  title: Merivälja object
+  node_type: object
+  slug: merivalja-object
+  shared_claims: 2
+- node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+  title: Estonia, Tallinn, Merivälja
+  node_type: place
+  slug: tallinn-merivalja-estonia
+  shared_claims: 1
+- node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+  title: Ross Coulthart
+  node_type: person
+  slug: ross-coulthart
+  shared_claims: 1
+claims:
+- claim_id: 3f222ae6-0a3e-43db-8322-3f5972b4cfe8
+  claim_hash: f4eec3920dcaabdccaeaaffa9e4f7f2243ac45da1d158e3c36964ae38907a91f
+  content: A Japanese TV crew reportedly conducted a ground-penetrating radar study
+    at the Merivälja object site, documented in a surviving 1991 documentary available
+    on YouTube.
+  original_excerpt: there was allegedly a Japanese TV crew. And there is, in fact,
+    a documentary that survives that you can find on YouTube where the Japanese TV
+    crew is shown actually doing a ground penetrating radar study on the site.
+  claim_type: observation
+  attestation: null
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay:
+    - Ross Coulthart
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5f2d4a5f-fa1f-4b35-89ac-4908fe41dee0
+    title: Asahi TV
+    slug: asahi-tv
+  - node_id: bd40f236-496c-4574-b78a-8c1e9afcb3d4
+    title: 1991 Japanese ground-penetrating radar documentary on the Merivälja object
+    slug: 1991-japanese-ground-penetrating-radar-documentary-on-the-merivalja-object
+  - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+    title: Merivälja object
+    slug: merivalja-object
+  date: null
+  date_end: null
+  location_in_record: 00:19:37.8-00:19:53.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+    record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on
+      a door in Estonia? | Reality Check'
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+    content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+    friendly_name: null
+- claim_id: 183e1e59-88ab-487c-af11-cf460bfc6f1d
+  claim_hash: f4b33ec526cbc8943f39082eebc1521b62793d50b57105db11ad9d1ca34b3e62
+  content: There is some question over whether the 1991 Japanese investigation team
+    that examined the Merivälja object were genuinely all from Asahi TV.
+  original_excerpt: Some question marks about whether that Japanese team were indeed
+    all genuinely from Asahi TV.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5f2d4a5f-fa1f-4b35-89ac-4908fe41dee0
+    title: Asahi TV
+    slug: asahi-tv
+  - node_id: bd40f236-496c-4574-b78a-8c1e9afcb3d4
+    title: 1991 Japanese ground-penetrating radar documentary on the Merivälja object
+    slug: 1991-japanese-ground-penetrating-radar-documentary-on-the-merivalja-object
+  - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+    title: Merivälja object
+    slug: merivalja-object
+  date: null
+  date_end: null
+  location_in_record: 00:29:47.8-00:29:53.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+    record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on
+      a door in Estonia? | Reality Check'
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+    content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+    friendly_name: null
+- claim_id: ed02c0cc-778c-43a6-bed8-9526dd1a796d
+  claim_hash: 52ffed2ce64e267a404a550dfac523902f00eed9d35d111b0ae43685cbf8279a
+  content: Asahi TV, the biggest television network in Japan, reportedly turned up
+    and paid an enormous amount of money for access to the Merivalja garden.
+  original_excerpt: Japanese TV, Asahi TV, the biggest TV network in Japan, apparently
+    turned up. They paid an enormous amount of money, apparently, to get access to
+    the garden.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: named
+    origin: unspecified reports relayed by Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+    title: Estonia, Tallinn, Merivälja
+    slug: tallinn-merivalja-estonia
+  - node_id: 4275e483-211d-4044-bf02-a9bde770199b
+    title: 1991 Japanese investigation of the Merivalja garden
+    slug: 1991-japanese-investigation-of-the-merivalja-garden
+  - node_id: 5f2d4a5f-fa1f-4b35-89ac-4908fe41dee0
+    title: Asahi TV
+    slug: asahi-tv
+  date: null
+  date_end: null
+  location_in_record: 00:55:50.2-00:56:00.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+    record_title: 'Object M: The buried Estonian mystery the KGB spent years trying
+      to reach | Reality Check'
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+    content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+    friendly_name: null
+- claim_id: 8e50ad0d-081d-4736-a13d-83782b49b51a
+  claim_hash: ff419eb35cc6ba9709f4dae704c74c9570b2110fdfd687d06ef6dde8a02bfc1f
+  content: Ross Coulthart made inquiries with Asahi TV in Japan and found that nobody
+    at Asahi TV could find any record of the story about the 1991 investigation of
+    the Merivalja object in their files.
+  original_excerpt: I've actually made inquiries in Japan with Asahi TV because that's
+    who it was reported to be. And nobody at Asahi TV could find anything about this
+    UFO story in their files.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4275e483-211d-4044-bf02-a9bde770199b
+    title: 1991 Japanese investigation of the Merivalja garden
+    slug: 1991-japanese-investigation-of-the-merivalja-garden
+  - node_id: 5f2d4a5f-fa1f-4b35-89ac-4908fe41dee0
+    title: Asahi TV
+    slug: asahi-tv
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    slug: ross-coulthart
+  date: null
+  date_end: null
+  location_in_record: 00:56:53.7-00:57:06.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+    record_title: 'Object M: The buried Estonian mystery the KGB spent years trying
+      to reach | Reality Check'
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+    content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+    friendly_name: null

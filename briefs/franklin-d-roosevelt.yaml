@@ -1,0 +1,564 @@
+schema: anomalica/brief/1
+brief_hash: 2b6fc36e32ba5abf0727bd24f55b262d4410c3a4ea44ad13eccc567b47f29145
+page:
+  kind: entity
+  node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+  node_type: person
+  title: Franklin D. Roosevelt
+  slug: franklin-d-roosevelt
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
+  title: Winston Churchill
+  node_type: person
+  slug: winston-churchill
+  shared_claims: 3
+- node_id: e972a252-ed0d-4560-b0e5-b5193cede2d5
+  title: Business Plot
+  node_type: event
+  slug: business-plot
+  shared_claims: 2
+- node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+  title: Joseph Stalin
+  node_type: person
+  slug: joseph-stalin
+  shared_claims: 2
+- node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+  title: Vannevar Bush
+  node_type: person
+  slug: vannevar-bush
+  shared_claims: 2
+- node_id: 08a0520e-bf78-480f-b6ac-9cbb8021f20f
+  title: 1943 Tehran Conference
+  node_type: event
+  slug: 1943-tehran-conference
+  shared_claims: 1
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 1
+- node_id: fd98c5b1-c5f0-4c2c-a619-58e2035654e8
+  title: A Bodyguard of Lies
+  node_type: document
+  slug: a-bodyguard-of-lies
+  shared_claims: 1
+- node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+  title: Albert Einstein
+  node_type: person
+  slug: albert-einstein
+  shared_claims: 1
+- node_id: aa66857a-8795-4ea1-8910-86cca90f15f9
+  title: Andrew Jackson Davis
+  node_type: person
+  slug: andrew-jackson-davis
+  shared_claims: 1
+- node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+  title: Dwight D. Eisenhower
+  node_type: person
+  slug: dwight-d-eisenhower
+  shared_claims: 1
+- node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+  title: Jesse Mitchells
+  node_type: person
+  slug: jesse-mitchells
+  shared_claims: 1
+- node_id: 2f2f008a-15f4-412c-b697-2496cccd2798
+  title: Joint Intelligence Objectives Agency (JIOA)
+  node_type: organisation
+  slug: joint-intelligence-objectives-agency-jioa
+  shared_claims: 1
+- node_id: 01ac6d11-095a-456f-9e5a-31bbf7be74d0
+  title: Linda Hunt
+  node_type: person
+  slug: linda-hunt
+  shared_claims: 1
+- node_id: 96b642e6-02a9-4e45-a3fc-bb061b47f56e
+  title: London Controlling Section (LCS)
+  node_type: organisation
+  slug: london-controlling-section-lcs
+  shared_claims: 1
+- node_id: d598de6c-bff7-4393-8616-eb28f4401dd8
+  title: Mars Reconnaissance Orbiter (MRO) image PSP_008427_1380
+  node_type: document
+  slug: mars-reconnaissance-orbiter-mro-image-psp0084271380
+  shared_claims: 1
+- node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+  title: Pius XII
+  node_type: person
+  slug: pius-xii
+  shared_claims: 1
+- node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  title: Richard C. Hoagland
+  node_type: person
+  slug: richard-c-hoagland
+  shared_claims: 1
+- node_id: 8103e54b-3c46-43a4-b5e0-93a7437f9436
+  title: Smedley Butler
+  node_type: person
+  slug: smedley-butler
+  shared_claims: 1
+- node_id: 6ebe4a8f-c51e-421e-80a4-cb399c3a15d3
+  title: The New Deal
+  node_type: project
+  slug: the-new-deal
+  shared_claims: 1
+- node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+  title: United States Congress
+  node_type: organisation
+  slug: united-states-congress
+  shared_claims: 1
+- node_id: 2033dabc-4df6-41f0-b6d7-fede336c84c0
+  title: William Dudley Pelley
+  node_type: person
+  slug: william-dudley-pelley
+  shared_claims: 1
+claims:
+- claim_id: 9650d5bf-db39-4894-bbe1-c89ea6a74345
+  claim_hash: 77fea8b4250fcfa8e066834671cf0c1fb6e149ccb1fa5e48e60615db21565c13
+  content: William Dudley Pelley's opposition to Franklin D. Roosevelt increased until
+    his eight-year internment for sedition in 1942.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2033dabc-4df6-41f0-b6d7-fede336c84c0
+    title: William Dudley Pelley
+    slug: william-dudley-pelley
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    slug: franklin-d-roosevelt
+  date: '1942'
+  date_end: null
+  location_in_record: ch13:11524-11610
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 50a935ff-e2a6-42f7-a1b0-746d1e2ac42b
+  claim_hash: d975f5b0e00d488e8622203a287c3d92f166236f21b840eaeebfc1571149082d
+  content: 'The title of Anthony Brown''s book A Bodyguard of Lies comes from a remark
+    made by Winston Churchill at the Teheran Conference to Franklin D. Roosevelt and
+    Joseph Stalin: "In wartime, truth is so precious that she should always be attended
+    by a bodyguard of lies."'
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Winston Churchill
+    relay:
+    - A Bodyguard of Lies
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 08a0520e-bf78-480f-b6ac-9cbb8021f20f
+    title: 1943 Tehran Conference
+    slug: 1943-tehran-conference
+  - node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
+    title: Winston Churchill
+    slug: winston-churchill
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    slug: franklin-d-roosevelt
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    slug: joseph-stalin
+  - node_id: fd98c5b1-c5f0-4c2c-a619-58e2035654e8
+    title: A Bodyguard of Lies
+    slug: a-bodyguard-of-lies
+  date: '1943'
+  date_end: null
+  location_in_record: ch13:18891-19089
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: b7942d85-da22-421a-9099-baa6f053942e
+  claim_hash: 71262827db85159b0d13b57ebab57f1907370d3c0abd24f466a7fe781e86a828
+  content: During World War II, the activities of the London Controlling Section (LCS)
+    were known only to Winston Churchill, Franklin D. Roosevelt, Dwight D. Eisenhower,
+    and a handful of high officials, bypassing Congress and Parliament.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
+    title: Winston Churchill
+    slug: winston-churchill
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    slug: franklin-d-roosevelt
+  - node_id: 96b642e6-02a9-4e45-a3fc-bb061b47f56e
+    title: London Controlling Section (LCS)
+    slug: london-controlling-section-lcs
+  - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+    title: Dwight D. Eisenhower
+    slug: dwight-d-eisenhower
+  date: null
+  date_end: null
+  location_in_record: ch13:29827-30009
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 251d055c-d679-4cb7-87dc-adeb3b6ae95c
+  claim_hash: 3be51a7bc02f75088b110f2a2f05e4c6d40a66159b68c7bd95561b625c84b7d2
+  content: Vannevar Bush was President Franklin D. Roosevelt's scientific advisor.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    slug: vannevar-bush
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    slug: franklin-d-roosevelt
+  date: null
+  date_end: null
+  location_in_record: ch12:66719-66764
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 6b5bc520-6122-4f98-b77a-d8eb5416fcc0
+  claim_hash: 1b0093c41d908a5c0b325c245c8e33214d4d8e7d0a38bb76db7117b6bedceb67
+  content: When certain Nazi rocket scientists were deemed too unimportant to be brought
+    to the United States by a military panel, Vannevar Bush intervened with a scathing
+    letter to the Joint Intelligence Objectives Agency criticising the military for
+    not knowing elementary information on Germans as well known in scientific circles
+    as Churchill, Stalin and Roosevelt were in political circles.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Linda Hunt
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 01ac6d11-095a-456f-9e5a-31bbf7be74d0
+    title: Linda Hunt
+    slug: linda-hunt
+  - node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
+    title: Winston Churchill
+    slug: winston-churchill
+  - node_id: 2f2f008a-15f4-412c-b697-2496cccd2798
+    title: Joint Intelligence Objectives Agency (JIOA)
+    slug: joint-intelligence-objectives-agency-jioa
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    slug: vannevar-bush
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    slug: franklin-d-roosevelt
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    slug: joseph-stalin
+  date: null
+  date_end: null
+  location_in_record: ch12:67640-68040
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 136e268d-9a0f-4890-9b8e-b3f4c95ce160
+  claim_hash: a26f9a1a8bf35162b956915214edbdb59cdd6e2335d954c6d0979f08ed115208
+  content: Richard C. Hoagland believes the existence of the MRO image PSP_008427_1380
+    was part of a carefully calculated strategy by someone waiting for official proof
+    of architectural constructions on Mars, comparing this to Franklin D. Roosevelt's
+    statement that in politics nothing occurs by accident.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    slug: franklin-d-roosevelt
+  - node_id: d598de6c-bff7-4393-8616-eb28f4401dd8
+    title: Mars Reconnaissance Orbiter (MRO) image PSP_008427_1380
+    slug: mars-reconnaissance-orbiter-mro-image-psp0084271380
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    slug: richard-c-hoagland
+  date: null
+  date_end: null
+  location_in_record: ch6:17206-17479
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 27604bc0-92f9-4608-9fde-c4662dbf79a1
+  claim_hash: c5554cff5e07f6a45acf3e110f43636d84cf30bb92f512d5eaf0f8728b30ddb8
+  content: Albert Einstein later wrote a letter to President Franklin D. Roosevelt
+    that started the United States on the road to splitting the atom and creating
+    the atomic bomb.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    slug: franklin-d-roosevelt
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: ch15:3807-3961
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 44e78358-77fb-4d87-bb3b-66b428f501f6
+  claim_hash: 6f83c89cbda8b7779e877e7d895532049e18a3cf5823f6fadcbfff0a0fb3905a
+  content: The Business Plot was an attempt to remove Franklin D. Roosevelt from office,
+    exposed by Smedley Butler.
+  original_excerpt: Smedley Butler. Yeah. Yeah. They were trying to take out FDR.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration by Jesse Michels
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    slug: franklin-d-roosevelt
+  - node_id: 8103e54b-3c46-43a4-b5e0-93a7437f9436
+    title: Smedley Butler
+    slug: smedley-butler
+  - node_id: e972a252-ed0d-4560-b0e5-b5193cede2d5
+    title: Business Plot
+    slug: business-plot
+  date: null
+  date_end: null
+  location_in_record: 01:20:31.1-01:20:33.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: c9c1fd86-e8b4-403f-a55c-f7f29d60ac35
+  claim_hash: 0f76caabe5bd55b497a81ecd02788e58376da7a2899c5237518405bfe2cabd24
+  content: The Business Plot was planned by a group of transnational finance people
+    including Morgan and DuPont, with support and encouragement from their German
+    counterparts, in response to Franklin D. Roosevelt's New Deal plans.
+  original_excerpt: FDR came into government, had his plans for like The New Deal.
+    And so this group of transnational finance people, Morgan, DuPont, all of these
+    people, and with support and encouragement from their German counterparts, planned
+    this plot.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration by Jason Samosa
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6ebe4a8f-c51e-421e-80a4-cb399c3a15d3
+    title: The New Deal
+    slug: the-new-deal
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    slug: franklin-d-roosevelt
+  - node_id: e972a252-ed0d-4560-b0e5-b5193cede2d5
+    title: Business Plot
+    slug: business-plot
+  date: null
+  date_end: null
+  location_in_record: 01:20:34.9-01:20:47.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 020497ee-570b-46a2-9b57-8d8a3174b30d
+  claim_hash: a93f5485c729598027a05dd57216f531d11d8ef5fdcaab2da1fe6981a57ff0ca
+  content: Franklin D. Roosevelt wrote in a letter that financial interests had owned
+    America since the time of Andrew Jackson.
+  original_excerpt: And he said in a conversation, a letter that he wrote that The
+    financial interests had owned America since the time of Andrew Jackson.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: document
+    origin: a letter written by Franklin D. Roosevelt
+    relay:
+    - Jason Samosa's research
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    slug: franklin-d-roosevelt
+  - node_id: aa66857a-8795-4ea1-8910-86cca90f15f9
+    title: Andrew Jackson Davis
+    slug: andrew-jackson-davis
+  date: null
+  date_end: null
+  location_in_record: 01:21:55.4-01:22:02.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 86ca639a-0b26-4e25-ae60-cf7535396729
+  claim_hash: b695c2d9f699a113d7e4affa39713903a4bee9504fe0bcd9974b5db4e6a1884c
+  content: Information about the Magenta UFO crash was back-channelled through Pope
+    Pius XII to Franklin D. Roosevelt.
+  original_excerpt: but it was the information about it was back channeled through
+    Pope Pius the 12th to FDR
+  claim_type: hearsay
+  attestation: first_hand
+  speaker:
+    node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jesse Michels
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    slug: jesse-mitchells
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    slug: franklin-d-roosevelt
+  - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+    title: Pius XII
+    slug: pius-xii
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  date: null
+  date_end: null
+  location_in_record: 02:22:56.4-02:23:02.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

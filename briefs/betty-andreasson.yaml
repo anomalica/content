@@ -1,0 +1,851 @@
+schema: anomalica/brief/1
+brief_hash: f3a465a30e2ce9a35f0d7d51c26253aa71300c2aaab64f2a18e6d247dfceab7d
+page:
+  kind: entity
+  node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+  node_type: person
+  title: Betty Andreasson
+  slug: betty-andreasson
+  claim_count: 21
+  claim_count_total: 21
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 674210ee-99c3-4847-88a7-ce645376e815
+  title: Betty Andreasson abduction, South Ashburnham, 1967-01-25
+  node_type: event
+  slug: south-ashburnham-1967-01-25-betty-andreasson-abduction
+  shared_claims: 8
+- node_id: 945874ed-af8c-4b91-a3b9-1bf79622d872
+  title: The Andreasson Affair (book by Raymond E. Fowler)
+  node_type: document
+  slug: the-andreasson-affair-book-by-raymond-e-fowler
+  shared_claims: 4
+- node_id: 7eb0aa5c-cbaf-4130-b36b-eaff4c22fa34
+  title: Apollo
+  node_type: person
+  slug: apollo
+  shared_claims: 1
+- node_id: 5ecf74af-7060-498e-bc28-d05c2e95751d
+  title: April 13, 1986 colloquy at Budd Hopkins' home
+  node_type: event
+  slug: 1986-colloquy-at-budd-hopkins-home-april-13
+  shared_claims: 1
+- node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+  title: Raymond E. Fowler
+  node_type: person
+  slug: raymond-e-fowler
+  shared_claims: 1
+- node_id: ff079641-361e-4b11-8155-e0caff5b5fb2
+  title: Sally (colloquy participant, business executive)
+  node_type: person
+  slug: business-executive-sally-colloquy-participant
+  shared_claims: 1
+- node_id: facde779-13d3-4ae2-98b2-fbf4bf6b8d36
+  title: USA, Massachusetts, South Ashburnham
+  node_type: place
+  slug: massachusetts-south-ashburnham-usa
+  shared_claims: 1
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 1
+- node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
+  title: the visitors (nonhuman beings)
+  node_type: topic
+  slug: the-visitors-nonhuman-beings
+  shared_claims: 1
+claims:
+- claim_id: 5e99efa5-053d-4810-a5de-2c8a7e8b9012
+  claim_hash: 3528605b74b99042e0525e00f2b279feb722ecbd12128fe3f6f1388606e85074
+  content: The Betty Andreasson abduction concerned an alleged abduction of Betty
+    Andreasson from her home in South Ashburnham, Massachusetts, on 1967-01-25.
+  original_excerpt: The Andreasson Affair concerns an alleged abduction of a woman
+    back on January 25, 1967, from her home at South Ashburnham, Massachusetts.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: speaker
+    origin: Raymond Fowler
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 674210ee-99c3-4847-88a7-ce645376e815
+    title: Betty Andreasson abduction, South Ashburnham, 1967-01-25
+    slug: south-ashburnham-1967-01-25-betty-andreasson-abduction
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  - node_id: facde779-13d3-4ae2-98b2-fbf4bf6b8d36
+    title: USA, Massachusetts, South Ashburnham
+    slug: massachusetts-south-ashburnham-usa
+  date: '1967-01-25'
+  date_end: null
+  location_in_record: 00:45:12.6-00:45:23.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: d7104658-436f-4a6d-82ec-11da988a1846
+  claim_hash: 458e6b78edf0f4bd82e934152c78393855f39def6923cdee98d08776b15ee30b
+  content: During the Betty Andreasson abduction, Betty Andreasson was in her kitchen
+    while her mother, father, and seven children were in the living room watching
+    television.
+  original_excerpt: Betty Andreassen was in her kitchen. Her mother and father and
+    seven children were out in the living room watching TV.
+  claim_type: testimony
+  attestation: third_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: named
+    origin: Betty Andreasson
+    relay:
+    - hypnosis investigation
+    - Raymond Fowler
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 674210ee-99c3-4847-88a7-ce645376e815
+    title: Betty Andreasson abduction, South Ashburnham, 1967-01-25
+    slug: south-ashburnham-1967-01-25-betty-andreasson-abduction
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: '1967-01-25'
+  date_end: null
+  location_in_record: 00:45:31.8-00:45:38.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 53b2af46-3072-457c-bfd0-3f156232253c
+  claim_hash: 20afa9b8462093ae307fdcd220786cbe8e3eebd7e09da5278992dc8f67bfcde9
+  content: During the Betty Andreasson abduction, the creatures persuaded Betty Andreasson
+    to follow them while one of them stayed behind to watch the family.
+  original_excerpt: And they persuaded Betty to follow them. One of them left behind
+    to watch the family.
+  claim_type: testimony
+  attestation: third_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: named
+    origin: Betty Andreasson
+    relay:
+    - hypnosis investigation
+    - Raymond Fowler
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 674210ee-99c3-4847-88a7-ce645376e815
+    title: Betty Andreasson abduction, South Ashburnham, 1967-01-25
+    slug: south-ashburnham-1967-01-25-betty-andreasson-abduction
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: '1967-01-25'
+  date_end: null
+  location_in_record: 00:47:07.4-00:47:12.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: e8e4ff5d-cb37-470b-b652-12b1db13e74d
+  claim_hash: 9390e230961d88bc5fb8459dce54663cbfc1b5218d271d0a3097e28a677c92be
+  content: During the Betty Andreasson abduction, Betty Andreasson was lifted off
+    the ground and slid into a line of the creatures, then taken out through the door.
+  original_excerpt: She was lifted off the ground, slid into the slot of this line
+    of individuals, and out through the door they went.
+  claim_type: testimony
+  attestation: third_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: named
+    origin: Betty Andreasson
+    relay:
+    - hypnosis investigation
+    - Raymond Fowler
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 674210ee-99c3-4847-88a7-ce645376e815
+    title: Betty Andreasson abduction, South Ashburnham, 1967-01-25
+    slug: south-ashburnham-1967-01-25-betty-andreasson-abduction
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: '1967-01-25'
+  date_end: null
+  location_in_record: 00:47:14.0-00:47:19.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 7ded151a-b5e5-4a75-99bc-b0d556575668
+  claim_hash: eee4fd8ee277b77d233eea318bf01c8927463a6bb09490af8d269db81a1e65c6
+  content: During the Betty Andreasson abduction, Betty Andreasson was given a physical
+    examination.
+  original_excerpt: And she was given a very interesting physical examination.
+  claim_type: testimony
+  attestation: third_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: named
+    origin: Betty Andreasson
+    relay:
+    - hypnosis investigation
+    - Raymond Fowler
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 674210ee-99c3-4847-88a7-ce645376e815
+    title: Betty Andreasson abduction, South Ashburnham, 1967-01-25
+    slug: south-ashburnham-1967-01-25-betty-andreasson-abduction
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: '1967-01-25'
+  date_end: null
+  location_in_record: 00:47:20.5-00:47:24.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 66b55c12-11cb-4402-b4dd-44b0dbdff5ea
+  claim_hash: 442adf9cd2ea36483831c4c3c668db6584d8fffcf29bf8d5c421f0ad0cdd29e5
+  content: During the physical examination in the Betty Andreasson abduction, a long
+    pliable needle was inserted up Betty Andreasson's left nostril and used to pull
+    out a small BB-shaped object covered with wire-like whiskers.
+  original_excerpt: And during this physical examination, they took a long pliable
+    needle and put it up her left nostril and pulled out a little BB-shaped object
+    which was covered with like wire-like whiskies on it.
+  claim_type: testimony
+  attestation: third_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: named
+    origin: Betty Andreasson
+    relay:
+    - hypnosis investigation
+    - Raymond Fowler
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 674210ee-99c3-4847-88a7-ce645376e815
+    title: Betty Andreasson abduction, South Ashburnham, 1967-01-25
+    slug: south-ashburnham-1967-01-25-betty-andreasson-abduction
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: '1967-01-25'
+  date_end: null
+  location_in_record: 00:47:29.7-00:47:44.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 0028ba6f-e89d-49b6-af96-87ece6d00d9b
+  claim_hash: 156bcc503c2a99eee609fe316361fea08d68fd77af841715eb42d72fc2f884a2
+  content: During hypnosis in the investigation of the Betty Andreasson abduction,
+    when investigators tried to find out where the BB-shaped object came from, Betty
+    Andreasson became so upset that the hypnotist was afraid to continue.
+  original_excerpt: But under hypnosis, when we tried to find out where that came
+    from, she would get so upset that the hypnotist was afraid to go further.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: speaker
+    origin: Raymond Fowler
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 674210ee-99c3-4847-88a7-ce645376e815
+    title: Betty Andreasson abduction, South Ashburnham, 1967-01-25
+    slug: south-ashburnham-1967-01-25-betty-andreasson-abduction
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: null
+  date_end: null
+  location_in_record: 00:47:53.5-00:47:59.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: e09e0839-3f08-490c-8ddc-76a68823cdce
+  claim_hash: 19742397ba984edb0f5bfc835ca5faf682b7bfdd12072d5abc3463852b54306c
+  content: During a follow-on investigation with another hypnotist, Betty Andreasson
+    relived an experience from when she was 13 years old in which she was also allegedly
+    abducted.
+  original_excerpt: Later on, using another hypnotist, during a follow-on investigation,
+    she relived an experience when she was 13 years old and was also allegedly abducted.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: speaker
+    origin: Raymond Fowler
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 674210ee-99c3-4847-88a7-ce645376e815
+    title: Betty Andreasson abduction, South Ashburnham, 1967-01-25
+    slug: south-ashburnham-1967-01-25-betty-andreasson-abduction
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: null
+  date_end: null
+  location_in_record: 00:48:00.8-00:48:09.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 024d3c7b-56c3-40d8-badc-68b39ee35050
+  claim_hash: 7f2dbe41065213fd170848513b0834be5967a411924e85a8bff00e38acf610a0
+  content: In the abduction Betty Andreasson allegedly experienced at age 13, the
+    abductors placed an object within her by removing her eye.
+  original_excerpt: and they actually had placed this uh... within her by removing
+    her eye uh... it was a terrible thing to listen to under hypnosis
+  claim_type: testimony
+  attestation: third_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: named
+    origin: Betty Andreasson
+    relay:
+    - hypnosis session
+    - Raymond Fowler
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: null
+  date_end: null
+  location_in_record: 00:48:10.4-00:48:16.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: bac0d9dd-861d-4c1f-b19f-49708951ee3c
+  claim_hash: eb541ff3c04f8fbdd299c70c093dcddb0cfb769a7238df654d60ef965b607508
+  content: As of the time of this 1987 interview, Betty Andreasson was still alive.
+  original_excerpt: She is still alive.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: speaker
+    origin: Raymond Fowler
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: null
+  date_end: null
+  location_in_record: 00:49:43.0-00:49:43.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 0aff2043-d219-4836-a297-4bc403d8fcfd
+  claim_hash: a186d7b256dae250a79f88ba3a02af64ac38c4e7dee2ef8710c6f5b2e8495a8c
+  content: Raymond Fowler spoke to Betty Andreasson's husband about four or five days
+    before this interview.
+  original_excerpt: I talked to her husband just four or five days ago.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: speaker
+    origin: Raymond Fowler
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  - node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+    slug: raymond-e-fowler
+  date: null
+  date_end: null
+  location_in_record: 00:49:43.8-00:49:46.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 3c70b2eb-d5dd-45c9-86db-d410dde55698
+  claim_hash: 1887938479b7758680fc84205844ec471ea146fdba85bc9ce97b82090d77fd84
+  content: Betty Andreasson, upon hearing recordings of her own hypnosis sessions,
+    worried that she was going crazy and wanted a psychiatrist to examine her.
+  original_excerpt: Betty thought that this can't happen. I must be going crazy. She
+    wanted a psychiatrist to examine her because we were very glad that she did because
+    this helped us in our investigation.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: named
+    origin: Betty Andreasson
+    relay:
+    - Raymond Fowler
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: null
+  date_end: null
+  location_in_record: 00:51:12.5-00:51:22.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 8e9358bc-7018-4548-b3bf-67b8e7cab2c4
+  claim_hash: 739fb1d03da745725759d6fb8ff53aff4d2e14b615fe9212b05f20566af05732
+  content: A psychiatric examination found that Betty Andreasson was not psychotic,
+    and neither was her daughter.
+  original_excerpt: And she wasn't psychotic and neither was her daughter.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+  provenance_chain:
+    origin_kind: speaker
+    origin: Raymond Fowler
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: null
+  date_end: null
+  location_in_record: 00:51:23.7-00:51:26.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+    record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair
+      (Full Interview, 1987)
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+    content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+    friendly_name: null
+- claim_id: 4bb3df03-01bb-4432-bc21-c8ebcd893dc2
+  claim_hash: de1f0350def5d3542d934901552882b3231b97d169ed075136318ba3d47c5249
+  content: Betty Andreasson described standing before a large, warm, living bird that
+    looked like an eagle, with a white head and bright white light behind it sending
+    out rays that kept getting bigger, with strong heat.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: third_hand
+  speaker:
+    node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+  provenance_chain:
+    origin_kind: named
+    origin: Betty Andreasson
+    relay:
+    - The Andreasson Affair (book by Raymond E. Fowler)
+    - Whitley Strieber
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 945874ed-af8c-4b91-a3b9-1bf79622d872
+    title: The Andreasson Affair (book by Raymond E. Fowler)
+    slug: the-andreasson-affair-book-by-raymond-e-fowler
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: null
+  date_end: null
+  location_in_record: ch14:117493-117886
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 516025f9-7b71-411a-b96b-2b2c58fa7dac
+  claim_hash: dd222164c4afce2f4a7e74714441e53eb47d8c45ac980a9058848cadcc8568d5
+  content: Betty Andreasson was asked "Do you understand?" during her visionary experience
+    and replied that she did not understand what it was all about or why she was even
+    there.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: third_hand
+  speaker:
+    node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+  provenance_chain:
+    origin_kind: named
+    origin: Betty Andreasson
+    relay:
+    - The Andreasson Affair (book by Raymond E. Fowler)
+    - Whitley Strieber
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 945874ed-af8c-4b91-a3b9-1bf79622d872
+    title: The Andreasson Affair (book by Raymond E. Fowler)
+    slug: the-andreasson-affair-book-by-raymond-e-fowler
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: null
+  date_end: null
+  location_in_record: ch14:118643-118798
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 0cf3b335-cd59-4fed-a696-1c47d6d77d95
+  claim_hash: b82e3629338437ddee4909bf82ea23aba1621bddf66114fc91e69564b48c31f4
+  content: Betty Andreasson was later told in her transcript that she had been "chosen",
+    which confused her because she did not see the significance of what she had been
+    shown.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: third_hand
+  speaker:
+    node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+  provenance_chain:
+    origin_kind: named
+    origin: Betty Andreasson
+    relay:
+    - The Andreasson Affair (book by Raymond E. Fowler)
+    - Whitley Strieber
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 945874ed-af8c-4b91-a3b9-1bf79622d872
+    title: The Andreasson Affair (book by Raymond E. Fowler)
+    slug: the-andreasson-affair-book-by-raymond-e-fowler
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: null
+  date_end: null
+  location_in_record: ch14:119067-119256
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 3527eee4-34bf-4f22-9901-e84f12fdd3f8
+  claim_hash: b4a9f77cd9097cf4c900818a01d56fc317feb7f41ef120d5921933b81a63a9f0
+  content: Whitley Strieber does not believe that Betty Andreasson chose entirely
+    on her own to present the fiery drama of the risen eagle with such force in her
+    testimony.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: null
+  date_end: null
+  location_in_record: ch14:124505-124643
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 3a856353-667c-4145-9bdf-856437933e49
+  claim_hash: 29dd2982e67e64d1d10be38d95e5e4939ac53c00b4ec2a892eb6afa1b0e6b440
+  content: Betty Andreasson was terrified by the fire behind the eagle in her testimony,
+    which Whitley Strieber describes as the fire that consumes the self.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: named
+    origin: Betty Andreasson
+    relay:
+    - Whitley Strieber
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: null
+  date_end: null
+  location_in_record: ch14:125211-125323
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: f6ca0b28-e25a-49f8-a542-ab4961f2d18a
+  claim_hash: e11eb121f795d12e72c0c5fab43088aecc3e755e7db4ce5e496e1c01e78b0f5b
+  content: '"Know thyself" was the refrain of the old Greek mystical philosophers,
+    the admonition of Apollo and, according to Whitley Strieber, of the visitors who
+    took Betty Andreasson.'
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
+    title: the visitors (nonhuman beings)
+    slug: the-visitors-nonhuman-beings
+  - node_id: 7eb0aa5c-cbaf-4130-b36b-eaff4c22fa34
+    title: Apollo
+    slug: apollo
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: null
+  date_end: null
+  location_in_record: ch14:129227-129363
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: df133d70-ff06-4890-abcf-c1fb239e3f65
+  claim_hash: 7ffc1c8d91d8a4b9943240d06f538929618df3ec7430e09fee9188dabd8f0dda
+  content: Sally, during the April 13, 1986 colloquy at Budd Hopkins' home, said she
+    first realised her experience was not imagined after reading a description in
+    Betty Andreasson's account of crystal boots with clear, electrically-lit platform
+    bottoms that matched something she recalled having on her own feet.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: ff079641-361e-4b11-8155-e0caff5b5fb2
+    title: Sally (colloquy participant, business executive)
+  provenance_chain:
+    origin_kind: speaker
+    origin: Sally (colloquy participant, business executive)
+    relay:
+    - The Andreasson Affair (book by Raymond E. Fowler)
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5ecf74af-7060-498e-bc28-d05c2e95751d
+    title: April 13, 1986 colloquy at Budd Hopkins' home
+    slug: 1986-colloquy-at-budd-hopkins-home-april-13
+  - node_id: 945874ed-af8c-4b91-a3b9-1bf79622d872
+    title: The Andreasson Affair (book by Raymond E. Fowler)
+    slug: the-andreasson-affair-book-by-raymond-e-fowler
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  - node_id: ff079641-361e-4b11-8155-e0caff5b5fb2
+    title: Sally (colloquy participant, business executive)
+    slug: business-executive-sally-colloquy-participant
+  date: null
+  date_end: null
+  location_in_record: ch14:74297-74465
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 3f6f9ebf-32f4-4022-9f20-d8fcc656ef23
+  claim_hash: 07db4246921cbdcc43b786660042a9b9840c743f02ce74aceedc232c1cc94ee2
+  content: Betty Andreasson reported experiencing extreme heat during her primary
+    close encounter, when a phoenix rose before her.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+  provenance_chain:
+    origin_kind: named
+    origin: Betty Andreasson
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+    title: Betty Andreasson
+    slug: betty-andreasson
+  date: null
+  date_end: null
+  location_in_record: ch21:22026-22157
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted

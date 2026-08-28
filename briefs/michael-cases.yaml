@@ -1,0 +1,160 @@
+schema: anomalica/brief/1
+brief_hash: c0c00f5f5daacf067df86f32755bb3a5862caae488bd1a6e36fd73094b332497
+page:
+  kind: entity
+  node_id: 0c0b3b60-1298-4ff9-8ad7-43c3ccde1fc2
+  node_type: person
+  title: Michael Cases
+  slug: michael-cases
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+  title: Face on Mars
+  node_type: object
+  slug: face-on-mars
+  shared_claims: 2
+- node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+  title: Mark C. Carlotto
+  node_type: person
+  slug: mark-c-carlotto
+  shared_claims: 2
+- node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
+  title: Jacques Bordas
+  node_type: person
+  slug: jacques-bordas
+  shared_claims: 1
+- node_id: 8e362ffc-a950-4d9b-88b1-f898b3e6b1ec
+  title: Lumieres Dans La Nuit (LDLN)
+  node_type: organisation
+  slug: lumieres-dans-la-nuit-ldln
+  shared_claims: 1
+- node_id: 351f6817-9ed2-4167-986a-fcafa23af98c
+  title: The Fortress (Cydonia)
+  node_type: place
+  slug: the-fortress-cydonia
+  shared_claims: 1
+claims:
+- claim_id: f50855e1-bcfc-44fb-b834-6e1a8e422d9f
+  claim_hash: bd6d74e8dc463d5a00569d998d21c2f443d0cf4e1fe13ea5e31cc7027812ce1c
+  content: Restaurant-owner Michael Cases told the LDLN investigators that he had
+    known Jacques Bordas fairly well and regarded him as a nice guy who craved attention.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: third_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: named
+    origin: Michael Cases
+    relay:
+    - investigators from Lumieres Dans La Nuit (LDLN)
+    - Jacques Vallée
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0c0b3b60-1298-4ff9-8ad7-43c3ccde1fc2
+    title: Michael Cases
+    slug: michael-cases
+  - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
+    title: Jacques Bordas
+    slug: jacques-bordas
+  - node_id: 8e362ffc-a950-4d9b-88b1-f898b3e6b1ec
+    title: Lumieres Dans La Nuit (LDLN)
+    slug: lumieres-dans-la-nuit-ldln
+  date: null
+  date_end: null
+  location_in_record: ch9:34390-34554
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: b43502c0-a422-440d-8959-d594dab37855
+  claim_hash: 9d629978e41cb4b416356a7c6c94e28befb0bde7289a592b382093b3606920b4
+  content: After an initial study of about 3,000 square kilometres around the Face
+    on Mars, Mark Carlotto and Michael C. Stein determined that the Face and the Fortress
+    were the two most non-fractal objects in that terrain.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Mark Carlotto and Michael C. Stein
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0c0b3b60-1298-4ff9-8ad7-43c3ccde1fc2
+    title: Michael Cases
+    slug: michael-cases
+  - node_id: 351f6817-9ed2-4167-986a-fcafa23af98c
+    title: The Fortress (Cydonia)
+    slug: the-fortress-cydonia
+  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+    title: Face on Mars
+    slug: face-on-mars
+  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+    slug: mark-c-carlotto
+  date: null
+  date_end: null
+  location_in_record: ch8:15656-15863
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 9d4c97a9-c8fc-4a69-a3db-afe9ea58a521
+  claim_hash: 22af2e5331fe070aed09cb5a10c7edae9d20ca30f3fa3c93897193cb371e0a4a
+  content: Mark Carlotto and Michael C. Stein extended their fractal analysis to cover
+    approximately 15,000 square kilometres around the Face on Mars, and the results
+    were consistent with the earlier, smaller study, with the Face remaining by far
+    the most non-natural object in the surveyed terrain.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Mark Carlotto and Michael C. Stein
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0c0b3b60-1298-4ff9-8ad7-43c3ccde1fc2
+    title: Michael Cases
+    slug: michael-cases
+  - node_id: 5f813dc9-a873-428a-99ba-88d735d02699
+    title: Face on Mars
+    slug: face-on-mars
+  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+    slug: mark-c-carlotto
+  date: null
+  date_end: null
+  location_in_record: ch8:15872-16121
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted

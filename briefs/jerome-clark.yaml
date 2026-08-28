@@ -1,0 +1,257 @@
+schema: anomalica/brief/1
+brief_hash: 682719c0be6cd0bea079fc1c2b553eb2921bfa195b0803a07e0fc7cbe8ec2bd3
+page:
+  kind: entity
+  node_id: 02078575-6462-4874-ade3-beaacf18d46f
+  node_type: person
+  title: Jerome Clark
+  slug: jerome-clark
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+  title: Jacques Vallée
+  node_type: person
+  slug: jacques-vallee
+  shared_claims: 2
+- node_id: ee06af70-a173-47ff-9e77-864e17c7da7d
+  title: 1874 Mrs. Squires encounter with a Nephite, Utah
+  node_type: event
+  slug: utah-1874-mrs-squires-encounter-with-a-nephite
+  shared_claims: 1
+- node_id: 17a19f04-2b61-4e79-ad2b-bb0509a15e21
+  title: Donald Hanlon
+  node_type: person
+  slug: donald-hanlon
+  shared_claims: 1
+- node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
+  title: Gordon Creighton
+  node_type: person
+  slug: gordon-creighton
+  shared_claims: 1
+- node_id: 22df0786-7788-4823-9724-2321f761ce05
+  title: John Keel
+  node_type: person
+  slug: john-keel
+  shared_claims: 1
+- node_id: 1bfad5de-32a0-436c-b9d5-626889bb53ea
+  title: Loren Coleman
+  node_type: person
+  slug: loren-coleman
+  shared_claims: 1
+- node_id: 94c14b2c-5846-4718-a85c-c6291058e6c3
+  title: Mrs. Squires
+  node_type: person
+  slug: mrs-squires
+  shared_claims: 1
+- node_id: 7ff8bce5-e389-47de-ad40-637c36a14d53
+  title: USA, Utah
+  node_type: place
+  slug: utah-usa
+  shared_claims: 1
+claims:
+- claim_id: c8c3f769-fce9-4fff-b93e-df9c3286b010
+  claim_hash: 3e68a85cbe4f8fac1add6ce2485a3461cbd7138a1679ac05b8ace23ed1dce2e8
+  content: Jerome Clark regards excursions into fairy lore and folklore as untenable
+    and damaging to the credibility of serious UFO research.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 02078575-6462-4874-ade3-beaacf18d46f
+    title: Jerome Clark
+  provenance_chain:
+    origin_kind: named
+    origin: Jerome Clark
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 02078575-6462-4874-ade3-beaacf18d46f
+    title: Jerome Clark
+    slug: jerome-clark
+  date: null
+  date_end: null
+  location_in_record: ch23:56428-56583
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 1b2c3cd9-721d-47c3-a466-e87628a51a09
+  claim_hash: 4e7b33c22b6a8fe760d0090064bec0111c35888c56b59ba934ed673a9d725829
+  content: Jacques Vallee has verified observations made previously by Jerome Clark,
+    Donald Hanlon, Gordon Creighton, and John Keel, though he does not accept all
+    of their conclusions.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallee
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 02078575-6462-4874-ade3-beaacf18d46f
+    title: Jerome Clark
+    slug: jerome-clark
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 17a19f04-2b61-4e79-ad2b-bb0509a15e21
+    title: Donald Hanlon
+    slug: donald-hanlon
+  - node_id: 22df0786-7788-4823-9724-2321f761ce05
+    title: John Keel
+    slug: john-keel
+  - node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
+    title: Gordon Creighton
+    slug: gordon-creighton
+  date: null
+  date_end: null
+  location_in_record: ch13:12059-12301
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 7d4d6b62-c078-4d93-a966-dc218076605e
+  claim_hash: c3c65d17b5a2f10d88aee935101e488cdfe5851b1647c496cf66b73a72307758
+  content: Jerome Clark holds the view, contrary to Jacques Vallee's hypothesis that
+    contact between human percipients and the UFO phenomenon occurs under conditions
+    controlled by the phenomenon, that instead the percipient controls the conditions.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 02078575-6462-4874-ade3-beaacf18d46f
+    title: Jerome Clark
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jerome Clark
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 02078575-6462-4874-ade3-beaacf18d46f
+    title: Jerome Clark
+    slug: jerome-clark
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  date: null
+  date_end: null
+  location_in_record: ch13:14334-14405
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: a0bbe966-5eef-41cd-a8bd-1abb1d295f31
+  claim_hash: 265b212271c69a4a1ba94632db5661df22de78bb3a994d9c015330f69af4b6f9
+  content: Jerome Clark related that a young woman acquaintance, unaware of his views
+    on UFOs, told him she dreamed of a little man stepping out of a craft, weeping
+    and pleading with her to let him go, saying she had created him and he could not
+    exist without her.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 02078575-6462-4874-ade3-beaacf18d46f
+    title: Jerome Clark
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a young woman acquaintance of Jerome Clark
+    relay:
+    - told to Jerome Clark
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 02078575-6462-4874-ade3-beaacf18d46f
+    title: Jerome Clark
+    slug: jerome-clark
+  date: null
+  date_end: null
+  location_in_record: ch13:14417-14772
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: c0de1e25-5fb0-4095-a7fb-5750815a4232
+  claim_hash: 7dba624d4e37d612f28869a92b886e1f9d4b3a71ca2a6c05e760a91a6aa621f4
+  content: In a story quoted by Jerome Clark and Loren Coleman, a Utah woman named
+    Mrs. Squires, in the summer of 1874, encountered a gray-haired man with a long
+    white beard who requested food and told her she would never want for anything
+    again after she acknowledged she was suffering from pain under her shoulder; he
+    then vanished when she followed him outside.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Mrs. Squires
+    relay:
+    - Jerome Clark and Loren Coleman's Occult magazine article
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 02078575-6462-4874-ade3-beaacf18d46f
+    title: Jerome Clark
+    slug: jerome-clark
+  - node_id: 1bfad5de-32a0-436c-b9d5-626889bb53ea
+    title: Loren Coleman
+    slug: loren-coleman
+  - node_id: 7ff8bce5-e389-47de-ad40-637c36a14d53
+    title: USA, Utah
+    slug: utah-usa
+  - node_id: 94c14b2c-5846-4718-a85c-c6291058e6c3
+    title: Mrs. Squires
+    slug: mrs-squires
+  - node_id: ee06af70-a173-47ff-9e77-864e17c7da7d
+    title: 1874 Mrs. Squires encounter with a Nephite, Utah
+    slug: utah-1874-mrs-squires-encounter-with-a-nephite
+  date: '1874'
+  date_end: null
+  location_in_record: ch15:56153-56671
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted

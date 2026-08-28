@@ -1,0 +1,466 @@
+schema: anomalica/brief/1
+brief_hash: 841cf11ccea23fb83b0705f90586fe7d06b4612b98ab3b738f19916d83521d99
+page:
+  kind: entity
+  node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+  node_type: topic
+  title: 'topic: Atlantis'
+  slug: topic-atlantis
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-08-22T05:32:44.931587+00:00'
+related_nodes:
+- node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
+  title: Grace Hooper Pettipher
+  node_type: person
+  slug: grace-hooper-pettipher
+  shared_claims: 3
+- node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+  title: Jacques Vallée
+  node_type: person
+  slug: jacques-vallee
+  shared_claims: 2
+- node_id: 6e43e203-2a7e-4529-b917-d21f4a2b50a8
+  title: Maha (self-proclaimed superior being)
+  node_type: person
+  slug: maha-self-proclaimed-superior-being
+  shared_claims: 2
+- node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
+  title: Raymond Bernard
+  node_type: person
+  slug: raymond-bernard
+  shared_claims: 2
+- node_id: 43c9d059-a7f3-46da-86a7-d24eb6ed8322
+  title: Ancient and Mystical Order of the Rosy Cross (AMORC)
+  node_type: organisation
+  slug: ancient-and-mystical-order-of-the-rosy-cross-amorc
+  shared_claims: 1
+- node_id: e830d98d-6555-4898-9e4c-2808aac1e6c8
+  title: Emma Fox
+  node_type: person
+  slug: emma-fox
+  shared_claims: 1
+- node_id: 4a5f3ce6-bc0b-4064-b849-498204e1f76a
+  title: Younger Dryas
+  node_type: event
+  slug: younger-dryas
+  shared_claims: 1
+- node_id: fb350229-87cd-41df-98d3-016277d59b90
+  title: 'topic: ancient astronaut hypothesis'
+  node_type: topic
+  slug: topic-ancient-astronaut-hypothesis
+  shared_claims: 1
+claims:
+- claim_id: f1ec719b-3a15-4bed-867f-bb9743bb9dc1
+  claim_hash: 4553bb1d84cfdeb2b4d6447433017a3d32f1afdb6d72fd00813e8c07f105a1b4
+  content: Grace Hooper Pettipher told her Order of Melchizedek audience that they
+    had all met before near the Mediterranean, had lived in Egypt and Greece in past
+    lives, and had lived in Atlantis.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
+    title: Grace Hooper Pettipher
+  provenance_chain:
+    origin_kind: named
+    origin: Grace Hooper Pettipher
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+    title: 'topic: Atlantis'
+    slug: topic-atlantis
+  - node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
+    title: Grace Hooper Pettipher
+    slug: grace-hooper-pettipher
+  date: null
+  date_end: null
+  location_in_record: ch10:11857-12062
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 2bd95d10-3869-4a0a-83e9-435107358461
+  claim_hash: 34af81d7573bd80c259e7a23fd8e8c671c1bd928f6295764a47cd05712e05d6d
+  content: Grace Hooper Pettipher said Atlantis sank because of the heaviness of the
+    minds of its inhabitants.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
+    title: Grace Hooper Pettipher
+  provenance_chain:
+    origin_kind: named
+    origin: Grace Hooper Pettipher
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+    title: 'topic: Atlantis'
+    slug: topic-atlantis
+  - node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
+    title: Grace Hooper Pettipher
+    slug: grace-hooper-pettipher
+  date: null
+  date_end: null
+  location_in_record: ch10:12100-12320
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 8ed2f0e4-f9a8-4f68-a6bc-3df8542f43c6
+  claim_hash: f5cb8165eefe80e7d69c9b8233313d9ec2c4ac8e634b42b19c8ee338c374e592
+  content: Grace Hooper Pettipher said that ten or twelve years earlier, while walking
+    on Fifth Avenue on a hot summer day, she experienced a vision of Atlantis as an
+    ancient city alive with palaces and parks, and saw her friend Emma Fox in a doorway.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: named
+    origin: Grace Hooper Pettipher
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+    title: 'topic: Atlantis'
+    slug: topic-atlantis
+  - node_id: ba2cc414-e91a-470e-b672-fbab83dc4a6d
+    title: Grace Hooper Pettipher
+    slug: grace-hooper-pettipher
+  - node_id: e830d98d-6555-4898-9e4c-2808aac1e6c8
+    title: Emma Fox
+    slug: emma-fox
+  date: null
+  date_end: null
+  location_in_record: ch10:12326-12625
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 5eae526f-122f-4dc1-909e-dc941d269550
+  claim_hash: c52cc7f55ace1f1a8fc66bce22cb9aa73c0d6c429329c83c73dc09f47ef3388f
+  content: Many contactees mention Atlantis when describing the origins of their claimed
+    space-brother visitors.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+    title: 'topic: Atlantis'
+    slug: topic-atlantis
+  date: null
+  date_end: null
+  location_in_record: ch11:52263-52301
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 0e0477f0-d8c1-4a8c-bb62-b235e63074bc
+  claim_hash: 2c144047a242819aa5d8563763ca5aa99e46810a4ec6243ddcf38a8e8ab78aa9
+  content: The Ancient and Mystical Order of the Rosy Cross (AMORC) claims its ancient
+    knowledge originated from Atlantis and was preserved by Egyptian priests and their
+    descendants.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Ancient and Mystical Order of the Rosy Cross (AMORC)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+    title: 'topic: Atlantis'
+    slug: topic-atlantis
+  - node_id: 43c9d059-a7f3-46da-86a7-d24eb6ed8322
+    title: Ancient and Mystical Order of the Rosy Cross (AMORC)
+    slug: ancient-and-mystical-order-of-the-rosy-cross-amorc
+  date: null
+  date_end: null
+  location_in_record: ch11:65624-65739
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: c6c9fd98-3710-4ec4-9b7b-6a9bd29d2f11
+  claim_hash: ab2458140807e12e461b24b18746125d9cf7f5331689cdfa227b5897aa33759d
+  content: Maha told Raymond Bernard that the ancient knowledge came from another
+    galaxy and was brought to Earth by the founders of Atlantis.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
+    title: Raymond Bernard
+  provenance_chain:
+    origin_kind: named
+    origin: Maha (self-proclaimed superior being)
+    relay:
+    - Raymond Bernard
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+    title: 'topic: Atlantis'
+    slug: topic-atlantis
+  - node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
+    title: Raymond Bernard
+    slug: raymond-bernard
+  - node_id: 6e43e203-2a7e-4529-b917-d21f4a2b50a8
+    title: Maha (self-proclaimed superior being)
+    slug: maha-self-proclaimed-superior-being
+  date: null
+  date_end: null
+  location_in_record: ch11:74943-75084
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 0ebe9de4-32dd-4591-9a4e-8f424d272cb1
+  claim_hash: fc8135fbe4e6df1e3552fa5406fd8e7414ce395fda76fe59d195f6de97d24ab8
+  content: Maha claimed the pure race of the Atlanteans has continued throughout the
+    millennia but would not reveal to Raymond Bernard where they now live, hinting
+    they are linked to reports of unidentified beings who pay for goods with pure
+    gold.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
+    title: Raymond Bernard
+  provenance_chain:
+    origin_kind: named
+    origin: Maha (self-proclaimed superior being)
+    relay:
+    - Raymond Bernard
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+    title: 'topic: Atlantis'
+    slug: topic-atlantis
+  - node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
+    title: Raymond Bernard
+    slug: raymond-bernard
+  - node_id: 6e43e203-2a7e-4529-b917-d21f4a2b50a8
+    title: Maha (self-proclaimed superior being)
+    slug: maha-self-proclaimed-superior-being
+  date: null
+  date_end: null
+  location_in_record: ch11:75094-75404
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 0ea67b86-c5ab-453b-8fa6-582994d250e1
+  claim_hash: 2fc65cb295f0dbc957cfc070a7dce7dcfab10c6616002e6c30a51b9d42dde5ba
+  content: Jacques Vallée notes that contactee literature contains suggestions that
+    all major human achievements, including agriculture, the mastery of fire, the
+    wheel, and most religious traditions, would have been impossible without celestial
+    intervention, beginning with the idea of Atlantis and continuing with the "Chariots
+    of the Gods" hypothesis and interpretations of Yahweh as an extraterrestrial.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+    title: 'topic: Atlantis'
+    slug: topic-atlantis
+  - node_id: fb350229-87cd-41df-98d3-016277d59b90
+    title: 'topic: ancient astronaut hypothesis'
+    slug: topic-ancient-astronaut-hypothesis
+  date: null
+  date_end: null
+  location_in_record: ch13:66329-66612
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 92d8a685-8add-4969-8063-94a0350093d2
+  claim_hash: 2d9ddc7d687391999ec4c21103e141a56660b318ed3ceb0477ad908de655ee36
+  content: Jacques Vallée interviewed a woman psychic in the United States who argued
+    about Atlantis and the elimination of the money system.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: unattributed
+    origin: an unnamed woman psychic interviewed by Jacques Vallée
+    relay:
+    - Jacques Vallée
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+    title: 'topic: Atlantis'
+    slug: topic-atlantis
+  date: null
+  date_end: null
+  location_in_record: ch6:17966-18075
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 4913d5d9-5db0-49ea-9f18-ccf1a6055a51
+  claim_hash: 7c0b4f778c193a319e1d70df7f35f5d3129b91f1bb8224070fc9b9eedd525e0a
+  content: Whitley Strieber considers the Atlantis story likely a distant memory of
+    the Younger Dryas period, with a diffuse pre-catastrophe civilisation idealised
+    into a single grand city.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+    title: 'topic: Atlantis'
+    slug: topic-atlantis
+  - node_id: 4a5f3ce6-bc0b-4064-b849-498204e1f76a
+    title: Younger Dryas
+    slug: younger-dryas
+  date: null
+  date_end: null
+  location_in_record: ch26:10094-10216
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: f3e04354-6d2b-4056-ade4-c52c59d85acc
+  claim_hash: d998fbbe111e14e6294e6fed44a90ff763be377529a125c2f997d84c21f68b04
+  content: Whitley Strieber considers it obvious that some sort of lost civilisation
+    existed and that the archaeological evidence proves its people were master engineers.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+    title: 'topic: Atlantis'
+    slug: topic-atlantis
+  date: null
+  date_end: null
+  location_in_record: ch26:9066-9218
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted

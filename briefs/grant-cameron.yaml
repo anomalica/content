@@ -1,0 +1,473 @@
+schema: anomalica/brief/1
+brief_hash: ca889b85ba35e8f0925b9942a056c0f26bfff0d9928db184d447ba9de9eb8f6e
+page:
+  kind: entity
+  node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+  node_type: person
+  title: Grant Cameron
+  slug: grant-cameron
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 30498526-eedf-48ea-94c8-a2df235ae155
+  title: Unidentified Flying Object (UFO) Sky Pilots
+  node_type: document
+  slug: unidentified-flying-object-ufo-sky-pilots
+  shared_claims: 4
+- node_id: b3dbcbc1-3581-43e7-89f6-bf2c0fcc1997
+  title: the download (nonlocal intelligence contact)
+  node_type: topic
+  slug: the-download-nonlocal-intelligence-contact
+  shared_claims: 4
+- node_id: af3a6abe-1fea-4c64-9f94-e7be54f6b637
+  title: Desta Barnabe
+  node_type: person
+  slug: desta-barnabe
+  shared_claims: 1
+- node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+  title: James Rigney
+  node_type: person
+  slug: james-rigney
+  shared_claims: 1
+- node_id: 898c410a-7789-4762-b6dd-1139ced89658
+  title: Jimmy Carter
+  node_type: person
+  slug: jimmy-carter
+  shared_claims: 1
+- node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+  title: The Admiral Wilson Memo
+  node_type: document
+  slug: the-admiral-wilson-memo
+  shared_claims: 1
+- node_id: 006b3ab1-13d0-406c-919a-ef4c0681b996
+  title: USA, Colorado, Boulder
+  node_type: place
+  slug: colorado-boulder-usa
+  shared_claims: 1
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 1
+claims:
+- claim_id: 48b30ce3-5109-4623-9e5d-41e9d83f288f
+  claim_hash: 6136c35958a63e57ef8d9213c918aeea962e4f892c06e102a28f8682e11bcbb9
+  content: Grant Cameron writes about the 'download' experience and suggests that
+    creativity does not necessarily stem from a high IQ or special talent, but from
+    the ability to tap into 'nonlocal intelligence'.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+  provenance_chain:
+    origin_kind: speaker
+    origin: Grant Cameron
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b3dbcbc1-3581-43e7-89f6-bf2c0fcc1997
+    title: the download (nonlocal intelligence contact)
+    slug: the-download-nonlocal-intelligence-contact
+  - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+    slug: grant-cameron
+  date: null
+  date_end: null
+  location_in_record: ch1:47476-47684
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: cea80077-fe83-498f-a75f-8fb87b6977b2
+  claim_hash: aa88e84e51d59b78d6a74021d1238fa977d1cb9e2b7fc5dca1137ebf5bd091b6
+  content: Grant Cameron originally intended to write a book about the disclosure
+    by an alien force that humans are not alone, but the book's focus turned to the
+    process of the 'download'.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+  provenance_chain:
+    origin_kind: speaker
+    origin: Grant Cameron
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: b3dbcbc1-3581-43e7-89f6-bf2c0fcc1997
+    title: the download (nonlocal intelligence contact)
+    slug: the-download-nonlocal-intelligence-contact
+  - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+    slug: grant-cameron
+  date: null
+  date_end: null
+  location_in_record: ch1:47699-47898
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: d609c38d-30a1-46cf-a1bb-0a0b214d4bb1
+  claim_hash: 9fe0ade27927f2950067a50ce5a6b78904fcf10e31374fd8244ddfbf16424765
+  content: Following a lecture on the alien-music connection in Boulder, Colorado,
+    some audience members maintained it was the devil and evil forces influencing
+    modern music.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+  provenance_chain:
+    origin_kind: speaker
+    origin: Grant Cameron
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 006b3ab1-13d0-406c-919a-ef4c0681b996
+    title: USA, Colorado, Boulder
+    slug: colorado-boulder-usa
+  - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+    slug: grant-cameron
+  date: null
+  date_end: null
+  location_in_record: ch1:48218-48389
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 57ac0b66-cdc4-4f2a-87ae-68ce5ad0e16f
+  claim_hash: b9ae84473305dae296b323f5b6f8399e2e4d84fe338d8c5c1583d7dfcd653db2
+  content: Grant Cameron found that composers of church hymns experienced the same
+    downloads and inspirations as modern musicians.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+  provenance_chain:
+    origin_kind: speaker
+    origin: Grant Cameron
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: b3dbcbc1-3581-43e7-89f6-bf2c0fcc1997
+    title: the download (nonlocal intelligence contact)
+    slug: the-download-nonlocal-intelligence-contact
+  - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+    slug: grant-cameron
+  date: null
+  date_end: null
+  location_in_record: ch1:48633-48787
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 99f0ce68-ec28-435e-bb08-5a59a25ef1d4
+  claim_hash: 916032870075c131a4755b564124e1254c7e4ff587e85b6a26450f4799d89052
+  content: Grant Cameron believes the intelligence behind the download is nonhuman.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+  provenance_chain:
+    origin_kind: speaker
+    origin: Grant Cameron
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b3dbcbc1-3581-43e7-89f6-bf2c0fcc1997
+    title: the download (nonlocal intelligence contact)
+    slug: the-download-nonlocal-intelligence-contact
+  - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+    slug: grant-cameron
+  date: null
+  date_end: null
+  location_in_record: ch1:48947-49021
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 73e984d9-959b-4d91-84c2-6f08507fe3d9
+  claim_hash: e758fa5aca30cb4918fe52e1126b3ac599185bad02972978f060b85494af95e8
+  content: Grant Cameron's search of Jimmy Carter's Presidential Library archives
+    revealed Carter had an extremely high interest in UFOs during his administration,
+    but his efforts to disclose them were stymied.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+  provenance_chain:
+    origin_kind: named
+    origin: Grant Cameron
+    relay:
+    - research of Carter Presidential Library archives
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+    title: Jimmy Carter
+    slug: jimmy-carter
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+    slug: grant-cameron
+  date: null
+  date_end: null
+  location_in_record: ch11:14719-14936
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 0781eb49-133e-4d21-8022-43f44b209e9f
+  claim_hash: 922e44932229f7e2a0e8584cde789eda8c383b3284aa8738e6314e9b288fd98c
+  content: James Rigney sought out Canadian researcher Grant Cameron at a conference
+    in November 2018 and showed him a copy of the 'EWD Notes' document.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+    title: The Admiral Wilson Memo
+    slug: the-admiral-wilson-memo
+  - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+    slug: grant-cameron
+  - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+    title: James Rigney
+    slug: james-rigney
+  date: 2018-11
+  date_end: null
+  location_in_record: ch26:1284-1391
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 874532d9-1075-45b1-9e58-9698e1530fe7
+  claim_hash: b25d80f26e68799bcd17ecd254bb881cdf5b367dd26f8440a25c3fddf2d09772
+  content: According to accounts in UFO Sky Pilots, witnesses reported that upon touching
+    a shelf or console inside a UFO, their consciousness flowed out of their bodies
+    and into the craft's skin, allowing them to animate it and fly it anywhere they
+    wished.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: third_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: witnesses claiming to have flown UFOs by merging consciousness with the
+      craft
+    relay:
+    - Grant Cameron
+    - Desta Barnabe
+    - UFO Sky Pilots
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 30498526-eedf-48ea-94c8-a2df235ae155
+    title: Unidentified Flying Object (UFO) Sky Pilots
+    slug: unidentified-flying-object-ufo-sky-pilots
+  - node_id: af3a6abe-1fea-4c64-9f94-e7be54f6b637
+    title: Desta Barnabe
+    slug: desta-barnabe
+  - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+    slug: grant-cameron
+  date: null
+  date_end: null
+  location_in_record: ch21:17556-17789
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 63a3d962-7a50-4dcd-be97-5db0ddd8d39b
+  claim_hash: 71560ca96487956eeda15187e579c91de99e06d8199d786c51ae4877f1ec9311
+  content: Grant Cameron says he has interviewed nearly three dozen witnesses who
+    all reported the same sort of experience of becoming one with a UFO's controls.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+  provenance_chain:
+    origin_kind: named
+    origin: Grant Cameron
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 30498526-eedf-48ea-94c8-a2df235ae155
+    title: Unidentified Flying Object (UFO) Sky Pilots
+    slug: unidentified-flying-object-ufo-sky-pilots
+  - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+    slug: grant-cameron
+  date: null
+  date_end: null
+  location_in_record: ch21:17964-18070
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: c0f7e9fb-450e-4765-b729-589dc9e87c48
+  claim_hash: 67e0a5fdea7f1b8f51c4d6d7895ea685fbfdc65b1fa44061f7057dee0da4b467
+  content: Grant Cameron states that witnesses became one with the ship and used their
+    minds to move the craft around, and that although the individual stories vary,
+    the fundamental story is the same.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+  provenance_chain:
+    origin_kind: anonymous
+    origin: witnesses claiming to have flown UFOs by merging consciousness with the
+      craft
+    relay:
+    - Grant Cameron
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 30498526-eedf-48ea-94c8-a2df235ae155
+    title: Unidentified Flying Object (UFO) Sky Pilots
+    slug: unidentified-flying-object-ufo-sky-pilots
+  - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+    slug: grant-cameron
+  date: null
+  date_end: null
+  location_in_record: ch21:18082-18299
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 8ffaa211-db20-46a9-a9a8-7cf5f40ba1a0
+  claim_hash: 5c5cabd046572b6ff0952c4698ed5f21987b2b9f16e3bbb77071060903f90779
+  content: 'Grant Cameron describes witnesses interfacing with UFO controls in varied
+    ways: one placed a hand on a beehive-shaped object in the middle of the room,
+    some placed a hand on a ball on the console, some held a hand over the ball without
+    touching it, some placed a hand on a flat console, and some placed their fingers
+    in holes in the arms of a chair.'
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+  provenance_chain:
+    origin_kind: anonymous
+    origin: witnesses claiming to have flown UFOs by merging consciousness with the
+      craft
+    relay:
+    - Grant Cameron
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 30498526-eedf-48ea-94c8-a2df235ae155
+    title: Unidentified Flying Object (UFO) Sky Pilots
+    slug: unidentified-flying-object-ufo-sky-pilots
+  - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+    slug: grant-cameron
+  date: null
+  date_end: null
+  location_in_record: ch21:18306-18575
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted

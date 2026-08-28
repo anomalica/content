@@ -1,0 +1,353 @@
+schema: anomalica/brief/1
+brief_hash: 3ca470fea84a944de8d29ad98e4cdbdf843df493ea9fbd1ce8b79554552d65ee
+page:
+  kind: entity
+  node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+  node_type: object
+  title: International Space Station (ISS)
+  slug: international-space-station-iss
+  claim_count: 8
+  claim_count_total: 8
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 3
+- node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+  title: Crew Exploration Vehicle (CEV)
+  node_type: object
+  slug: crew-exploration-vehicle-cev
+  shared_claims: 2
+- node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+  title: George W. Bush
+  node_type: person
+  slug: george-w-bush
+  shared_claims: 2
+- node_id: 506dd33e-a568-4a5a-b296-3c82db541219
+  title: Space Shuttle
+  node_type: object
+  slug: space-shuttle
+  shared_claims: 2
+- node_id: c09e3558-1732-4676-a218-d67d285d98ef
+  title: David Fravor
+  node_type: person
+  slug: david-fravor
+  shared_claims: 1
+- node_id: d6836f10-2c28-42bb-befa-2ce018e49da2
+  title: Michael Griffin
+  node_type: person
+  slug: michael-griffin
+  shared_claims: 1
+- node_id: 0caff968-782b-4f02-bfcd-3be1c0810d20
+  title: Space Transportation System (Space Shuttle programme)
+  node_type: project
+  slug: space-transportation-system-space-shuttle-programme
+  shared_claims: 1
+- node_id: c9963801-6309-4edd-a803-5fd357dbcaf9
+  title: Vision for Space Exploration
+  node_type: project
+  slug: vision-for-space-exploration
+  shared_claims: 1
+claims:
+- claim_id: 3bd6d2ff-94df-4a7a-b0bb-1f192cb1033a
+  claim_hash: e7b26b2a94f974bc3a4d8f3f68c9963b64c30ec5aa30e02bb7f43fea91c45c98
+  content: After his appointment, Michael Griffin began cutting long-term science
+    programmes at the National Aeronautics and Space Administration (NASA) to fund
+    the Space Shuttle, the Space Station programme, and the Vision for Space Exploration.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+    title: International Space Station (ISS)
+    slug: international-space-station-iss
+  - node_id: 506dd33e-a568-4a5a-b296-3c82db541219
+    title: Space Shuttle
+    slug: space-shuttle
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: c9963801-6309-4edd-a803-5fd357dbcaf9
+    title: Vision for Space Exploration
+    slug: vision-for-space-exploration
+  - node_id: d6836f10-2c28-42bb-befa-2ce018e49da2
+    title: Michael Griffin
+    slug: michael-griffin
+  date: null
+  date_end: null
+  location_in_record: ch12:110247-110517
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 4528bcec-4278-4547-8fb3-5ed2791452de
+  claim_hash: 1e70474f1cfe67ac9465940c62362b40159d5e73442be61e90f793bd7195cf52
+  content: At the National Aeronautics and Space Administration (NASA) announcement
+    ceremony for the Vision for Space Exploration, President George W. Bush's first
+    goal was to complete the International Space Station by 2010 and then retire the
+    Space Shuttle.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: George W. Bush
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+    title: International Space Station (ISS)
+    slug: international-space-station-iss
+  - node_id: 506dd33e-a568-4a5a-b296-3c82db541219
+    title: Space Shuttle
+    slug: space-shuttle
+  - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+    title: George W. Bush
+    slug: george-w-bush
+  date: '2004-01-14'
+  date_end: null
+  location_in_record: ch19:676-758
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 16a54508-88c8-4f82-958b-7f735a26beb8
+  claim_hash: d112982b06a06432a2225c6c21c0bf5153a40ada5c27993cde496f68c0cdd563
+  content: President George W. Bush's second Vision for Space Exploration goal was
+    to develop a new Crew Exploration Vehicle (CEV) to carry astronauts to the International
+    Space Station and then to the Moon and Mars by 2008, with manned missions to start
+    no later than 2014.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: George W. Bush
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+    title: International Space Station (ISS)
+    slug: international-space-station-iss
+  - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+    title: George W. Bush
+    slug: george-w-bush
+  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+    title: Crew Exploration Vehicle (CEV)
+    slug: crew-exploration-vehicle-cev
+  date: '2004-01-14'
+  date_end: null
+  location_in_record: ch19:771-946
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c3ca613e-1116-4f69-a4fc-b1528e91b337
+  claim_hash: 3d34859b8c5cc491b36835a7b72dafbbafe76c76979ca107b788b87236074bb7
+  content: Unlike Apollo, which carried three men to the Moon and back, the new Crew
+    Exploration Vehicle was required to accommodate four men to the Moon and up to
+    six to the International Space Station.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+    title: International Space Station (ISS)
+    slug: international-space-station-iss
+  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+    title: Crew Exploration Vehicle (CEV)
+    slug: crew-exploration-vehicle-cev
+  date: null
+  date_end: null
+  location_in_record: ch19:80861-81027
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: 6cb0d9ed-8af3-4252-b343-c4f9a9a457d0
+  claim_hash: fa6092bbd5e8d3267bac0fea99bd7c30bbed90f5f6d1da41d7a4e74043c70eb3
+  content: The National Aeronautics and Space Administration (NASA) planned a new
+    heavy-lift vehicle that would strap as many as five solid rocket boosters onto
+    a new liquid-fuel rocket design to lift larger payloads of equipment and construction
+    supplies for the International Space Station and lunar bases.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+    title: International Space Station (ISS)
+    slug: international-space-station-iss
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  date: null
+  date_end: null
+  location_in_record: ch19:81419-81634
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: c498c93d-ff28-4e1a-af7d-2fcf9420aec2
+  claim_hash: f3fe82f92c67fe7400add70ae2fa45ccfa659a1076cd826f4e52dff2673c5ab3
+  content: David Fravor watched a friend of his perform a spacewalk at the International
+    Space Station via a NASA broadcast.
+  original_excerpt: I was in a meeting one day and I've got NASA on... And I saw one,
+    he's in the space station while they're doing a spacewalk.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+    title: International Space Station (ISS)
+    slug: international-space-station-iss
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: 02:19:28.0-02:19:34.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: 745bfdd3-052f-442b-b648-f26b2b4a5d00
+  claim_hash: 63d3b63cdac052361b528cbc29a49666be55551f6959b725ac948f95b03f97ac
+  content: The Space Shuttle fleet helped construct the International Space Station.
+  original_excerpt: helped construct the International Space Station
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0caff968-782b-4f02-bfcd-3be1c0810d20
+    title: Space Transportation System (Space Shuttle programme)
+    slug: space-transportation-system-space-shuttle-programme
+  - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+    title: International Space Station (ISS)
+    slug: international-space-station-iss
+  date: null
+  date_end: null
+  location_in_record: char:133122-133163
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: b0bbf0ea-3651-4d4a-83cf-77f66916a56a
+  claim_hash: a83db60cc01ca5ecf2a28d7e2f948708318ab600d1828098856ab0906574b7ce
+  content: A baby born on the International Space Station (ISS) would still have an
+    available soul because the Earth's magnetic field still reaches the ISS.
+  original_excerpt: Well, no, the soul's available on the ISS because the magnetic
+    field is still around.
+  claim_type: opinion
+  attestation: null
+  speaker:
+    node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+    title: International Space Station (ISS)
+    slug: international-space-station-iss
+  date: null
+  date_end: null
+  location_in_record: 01:35:28.2-01:35:35.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+    record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik
+      Nanstiel | DEBRIEFED ep. 85'
+    record_date: '2026-04-24'
+    record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+    content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+    friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2

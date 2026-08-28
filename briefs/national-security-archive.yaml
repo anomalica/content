@@ -1,0 +1,176 @@
+schema: anomalica/brief/1
+brief_hash: 893524a79f7e1569cfce15a8ac98fd9af296d66b414ee76b20a35a1b566fc85a
+page:
+  kind: entity
+  node_id: ba62e949-f94e-43f1-8d23-62ff30099381
+  node_type: organisation
+  title: National Security Archive
+  slug: national-security-archive
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+  title: Elizondo, Luis
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 2
+- node_id: b17a43ef-b32c-4a3f-b244-5f04edd0a1c4
+  title: UAP Disclosure Act
+  node_type: matter
+  slug: uap-disclosure-act
+  shared_claims: 2
+- node_id: b0bf6d4c-6ffc-4aed-9cc3-11eae75b2711
+  title: Agreement on Measures to Reduce the Risk of Outbreak of Nuclear War (1971)
+  node_type: document
+  slug: agreement-on-measures-to-reduce-the-risk-of-outbreak-of-nuclear-war-1971
+  shared_claims: 1
+- node_id: cc5f29f8-91a9-4765-80b3-493b74564444
+  title: George Washington University
+  node_type: organisation
+  slug: george-washington-university
+  shared_claims: 1
+- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+  title: Grusch, David Charles
+  node_type: person
+  slug: david-charles-grusch
+  shared_claims: 1
+- node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+  title: National Security Agency (NSA)
+  node_type: organisation
+  slug: national-security-agency-nsa
+  shared_claims: 1
+- node_id: db7f9026-0283-4089-9d7b-c49abe83f3c3
+  title: Nonhuman Intelligence
+  node_type: concept
+  slug: nonhuman-intelligence
+  shared_claims: 1
+claims:
+- claim_id: 380b9100-b047-49a5-afd3-917fcb0d9a98
+  claim_hash: 15b7508168d063d657d87fd90464caccb61f132c0000bef78043a2ef17da38b5
+  content: The Agreement on Measures to Reduce the Risk of Outbreak of Nuclear War,
+    signed in 1971, is an unclassified publicly available treaty in the United Nations
+    register; its declassified provisions from 2013, including red-line flash message
+    traffic codes pursuant to Article Three, are held in the George Washington University
+    National Security Archive and the previously classified National Security Agency
+    (NSA) archive.
+  original_excerpt: the agreement on measures to reduce the risk of outbreak of nuclear
+    war signed in 1971. Unclassified treaty publicly available, and if you cite the
+    George Washington University National Security Archives you will find the declassified,
+    in 2013, specific provisions and the specific red line flash message traffic with
+    the specific codes pursuant to Article Three
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+    title: National Security Agency (NSA)
+    slug: national-security-agency-nsa
+  - node_id: b0bf6d4c-6ffc-4aed-9cc3-11eae75b2711
+    title: Agreement on Measures to Reduce the Risk of Outbreak of Nuclear War (1971)
+    slug: agreement-on-measures-to-reduce-the-risk-of-outbreak-of-nuclear-war-1971
+  - node_id: ba62e949-f94e-43f1-8d23-62ff30099381
+    title: National Security Archive
+    slug: national-security-archive
+  - node_id: cc5f29f8-91a9-4765-80b3-493b74564444
+    title: George Washington University
+    slug: george-washington-university
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: Grusch, David Charles
+    slug: david-charles-grusch
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: 'file_page: 50'
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 192f342a-7b60-41c2-b01e-397a4aecbdf6
+  claim_hash: b412d0c8e0398a82355793dfd19ec25f31ffd6fc9fb6ec971b87b9d45094e682
+  content: Under the UAP Disclosure Act, any UAP-related records not already disclosed
+    must be made public within twenty-five years of their creation, unless the president
+    determines they must remain classified for national security reasons.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+    slug: luis-elizondo
+  - node_id: b17a43ef-b32c-4a3f-b244-5f04edd0a1c4
+    title: UAP Disclosure Act
+    slug: uap-disclosure-act
+  - node_id: ba62e949-f94e-43f1-8d23-62ff30099381
+    title: National Security Archive
+    slug: national-security-archive
+  date: 2023-12
+  date_end: null
+  location_in_record: Chapter 24, paragraph 20
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed
+- claim_id: 96b7ebf7-25d6-4a02-a939-921f940a6a56
+  claim_hash: a370d73cd86e9c1e1d7db40a122dc9572cd6204a03986529600ca0992a34a4fd
+  content: The new UAP Disclosure Act law directs the National Archives to collect
+    government documents about unidentified anomalous phenomena, technologies of unknown
+    origin, and nonhuman intelligence.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+    slug: luis-elizondo
+  - node_id: b17a43ef-b32c-4a3f-b244-5f04edd0a1c4
+    title: UAP Disclosure Act
+    slug: uap-disclosure-act
+  - node_id: ba62e949-f94e-43f1-8d23-62ff30099381
+    title: National Security Archive
+    slug: national-security-archive
+  - node_id: db7f9026-0283-4089-9d7b-c49abe83f3c3
+    title: Nonhuman Intelligence
+    slug: nonhuman-intelligence
+  date: 2023-12
+  date_end: null
+  location_in_record: Chapter 24, paragraph 20
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed

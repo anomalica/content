@@ -1,0 +1,175 @@
+schema: anomalica/brief/1
+brief_hash: f1f14eeb4c349599a7413c3904549e9220d6d9d1aeceec443a1305df86cf487f
+page:
+  kind: entity
+  node_id: a9d055ed-c0a1-468c-a40e-5449159763e8
+  node_type: topic
+  title: block universe theory
+  slug: block-universe-theory
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+- node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  title: Whitley Strieber
+  node_type: person
+  slug: whitley-strieber
+  shared_claims: 1
+- node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+  title: time travel
+  node_type: topic
+  slug: time-travel
+  shared_claims: 1
+claims:
+- claim_id: bc8edd5f-8704-417c-b0ee-017f431d1a65
+  claim_hash: bb73740e40385ffc2010980c43e8bab0fb0ee69c401cd53719a9ed5a6abd5676
+  content: Block universe theory asserts that the past, present, and future all exist
+    as a permanent, vast block of reality.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: a9d055ed-c0a1-468c-a40e-5449159763e8
+    title: block universe theory
+    slug: block-universe-theory
+  date: null
+  date_end: null
+  location_in_record: ch21:1202-1331
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: a0d56a31-c3d9-4449-9639-d0937e3a4169
+  claim_hash: d1c052a322fea22da5ea65cbdce4e1e23aec7a7a27a2278c8086401ca0b99ffc
+  content: Under block universe theory, the fourth dimension is not duration but the
+    entire block of reality from beginning to end, and time is just another dimension.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: a9d055ed-c0a1-468c-a40e-5449159763e8
+    title: block universe theory
+    slug: block-universe-theory
+  date: null
+  date_end: null
+  location_in_record: ch21:1342-1508
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: e0db87d5-de5a-4a72-b16f-840cea56bebd
+  claim_hash: 3115f59c7ad83c9a82415923902c725e07a1b96ed0bf212aa878ffabe501a224
+  content: Whitley Strieber believes that visitors associated with Unidentified Aerial
+    Phenomena have escaped the thin line of the present moment within the block universe
+    that humans perceive as they move through time.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: a9d055ed-c0a1-468c-a40e-5449159763e8
+    title: block universe theory
+    slug: block-universe-theory
+  date: null
+  date_end: null
+  location_in_record: ch21:1520-1695
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: f0f09327-9a8f-450f-bb12-fc395b46c9b3
+  claim_hash: f9857a50aca46025ba70982dd1e5ae690ffde543b9bf0714b9182554f2d2b54a
+  content: Whitley Strieber considers that moving back into the past involves moving
+    back to where the past was in the universe, and that in a block universe every
+    moment still exists somewhere.
+  original_excerpt: because moving back into the past involves not only some magical
+    change it involves moving back to where the past was in the universe you have
+    to go back there and if this is a block universe it's still there every moment
+    is still there somewhere
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+    title: time travel
+    slug: time-travel
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: a9d055ed-c0a1-468c-a40e-5449159763e8
+    title: block universe theory
+    slug: block-universe-theory
+  date: null
+  date_end: null
+  location_in_record: 00:33:42.8-00:34:00.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
+      | Reality Check Rewind
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+    friendly_name: null

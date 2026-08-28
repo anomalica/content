@@ -1,0 +1,3472 @@
+schema: anomalica/brief/1
+brief_hash: 9c2a889fd62dc2eec09df3a2d9df81fdbc17e7bb51d07e6b11b02afa9209ee80
+page:
+  kind: entity
+  node_id: 95472b02-af65-4737-896c-993994f9be27
+  node_type: place
+  title: Portugal, Fatima
+  slug: fatima-portugal
+  claim_count: 87
+  claim_count_total: 87
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+  title: John Paul II
+  node_type: person
+  slug: john-paul-ii
+  shared_claims: 18
+- node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+  title: Lúcia (Fatima seer)
+  node_type: person
+  slug: lucia-fatima-seer
+  shared_claims: 12
+- node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+  title: Jacinta Marto
+  node_type: person
+  slug: jacinta-marto
+  shared_claims: 10
+- node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+  title: Francisco Marto
+  node_type: person
+  slug: francisco-marto
+  shared_claims: 8
+- node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+  title: Michael Hesemann
+  node_type: person
+  slug: michael-hesemann
+  shared_claims: 8
+- node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+  title: 1917 Fatima Marian apparitions
+  node_type: event
+  slug: 1917-fatima-marian-apparitions
+  shared_claims: 6
+- node_id: 5222074d-c008-4d08-8de3-4ab6e71fd1b9
+  title: Artur Santos
+  node_type: person
+  slug: artur-santos
+  shared_claims: 5
+- node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+  title: Third Secret of Fatima
+  node_type: document
+  slug: third-secret-of-fatima
+  shared_claims: 4
+- node_id: e005dd97-5d9a-4db7-b51c-9b0f249d6e18
+  title: Ferreira (Father)
+  node_type: person
+  slug: ferreira-father
+  shared_claims: 3
+- node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+  title: France, Lourdes
+  node_type: place
+  slug: lourdes-france
+  shared_claims: 3
+- node_id: 0266f8de-c3c8-4692-80cb-8840b89a15ef
+  title: John Paul II's visit to Fatima (2000-05-13)
+  node_type: event
+  slug: john-paul-iis-visit-to-fatima-2000-05-13
+  shared_claims: 3
+- node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+  title: Lucia dos Santos
+  node_type: person
+  slug: lucia-dos-santos
+  shared_claims: 3
+- node_id: a1495a3a-6bd9-40d2-ac3d-ff30b5577341
+  title: Mexico, Mount Tepeyac
+  node_type: place
+  slug: mount-tepeyac-mexico
+  shared_claims: 3
+- node_id: a3d7425b-b814-43c7-b4f4-a84328bded4f
+  title: Miracle of the Sun (1917-10-13)
+  node_type: event
+  slug: miracle-of-the-sun-1917-10-13
+  shared_claims: 3
+- node_id: e63698cc-274e-4e27-b576-a027fb10f37f
+  title: Paul VI
+  node_type: person
+  slug: paul-vi
+  shared_claims: 3
+- node_id: cc743020-9f2f-4708-a14f-eda28f59bd81
+  title: Portugal, Lisbon
+  node_type: place
+  slug: lisbon-portugal
+  shared_claims: 3
+- node_id: 02193b62-30a2-4ad5-9fa0-a64c90c9b236
+  title: Basilica of Our Lady of the Rosary of Fatima
+  node_type: object
+  slug: basilica-of-our-lady-of-the-rosary-of-fatima
+  shared_claims: 2
+- node_id: 6a4167db-9a90-470f-aa84-74a9e515d880
+  title: Beatification of Jacinta and Francisco Marto (2000)
+  node_type: event
+  slug: beatification-of-jacinta-and-francisco-marto-2000
+  shared_claims: 2
+- node_id: 7953205d-7f00-42e5-bd59-5e8891d95fbe
+  title: Beatification of two Fatima seer children (1999-11)
+  node_type: event
+  slug: beatification-of-two-fatima-seer-children-1999-11
+  shared_claims: 2
+- node_id: f52851d1-6388-4961-b21d-d5ef7454c950
+  title: Communism
+  node_type: topic
+  slug: communism
+  shared_claims: 2
+- node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+  title: John XXIII
+  node_type: person
+  slug: john-xxiii
+  shared_claims: 2
+- node_id: f74bf1e6-bf54-426c-91c2-3eab0d3ad726
+  title: Maria Rosa dos Santos
+  node_type: person
+  slug: maria-rosa-dos-santos
+  shared_claims: 2
+- node_id: c6f87671-3082-4c33-9df2-f7230e3bd45d
+  title: Maria dos Santos Carreira
+  node_type: person
+  slug: maria-dos-santos-carreira
+  shared_claims: 2
+- node_id: 05ae8f84-39cc-4070-9cc1-51b737dc3d71
+  title: Popemobile
+  node_type: object
+  slug: popemobile
+  shared_claims: 2
+- node_id: c8a8edd8-4dde-48dc-8c34-5aeb88ef7922
+  title: Portugal, Fatima, Capelinha chapel
+  node_type: place
+  slug: fatima-capelinha-chapel-portugal
+  shared_claims: 2
+- node_id: 79277187-1caf-4840-a135-5819bc771321
+  title: Portugal, Fatima, Cova da Iria
+  node_type: place
+  slug: fatima-cova-da-iria-portugal
+  shared_claims: 2
+- node_id: 86a3d282-0dee-49af-8533-93f32405844e
+  title: Portugal, Leiria
+  node_type: place
+  slug: leiria-portugal
+  shared_claims: 2
+- node_id: 60e50716-fa79-45d6-991c-49d084ff4183
+  title: Second Secret of Fatima
+  node_type: document
+  slug: second-secret-of-fatima
+  shared_claims: 2
+- node_id: e6f088da-0d55-4b40-bd2f-3db0c66a481c
+  title: 1915-1916 Lucia dos Santos angelic apparitions, Fatima
+  node_type: event
+  slug: fatima-1915-1916-lucia-dos-santos-angelic-apparitions
+  shared_claims: 1
+- node_id: 90df69a7-b93a-48cb-ab09-52b820e2122c
+  title: Abduction of the Fatima children by Artur Santos (1917-08-13)
+  node_type: event
+  slug: abduction-of-the-fatima-children-by-artur-santos-1917-08-13
+  shared_claims: 1
+claims:
+- claim_id: 6df5f99e-02bc-4b77-9ac5-42a951441269
+  claim_hash: b52cf1856932a678d1ded7f5e7e60debeca69a0a8a7314d28a63f397ac64ac79
+  content: Lúcia's mother, Maria Rosa dos Santos, was angry with Lúcia and punished
+    her almost daily because of the disruption caused by pilgrims, and Lúcia also
+    faced hostility from the women of the village.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+    slug: lucia-fatima-seer
+  - node_id: f74bf1e6-bf54-426c-91c2-3eab0d3ad726
+    title: Maria Rosa dos Santos
+    slug: maria-rosa-dos-santos
+  date: null
+  date_end: null
+  location_in_record: ch10:10088-10265
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 76449fa3-443f-4492-a2ac-a4f946f5b257
+  claim_hash: 611b874ba4bf9cbde955964bdd74caea05de145e42a475db4ab34b3e76e8192f
+  content: Artur Santos, administrator of the province of Vila Nova de Ourém, was
+    the bitterest enemy of the Fatima apparitions.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5222074d-c008-4d08-8de3-4ab6e71fd1b9
+    title: Artur Santos
+    slug: artur-santos
+  - node_id: 7ea0884b-15ba-42cf-accd-6c3a304ec64c
+    title: Portugal, Vila Nova de Ourém
+    slug: vila-nova-de-ourem-portugal
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: null
+  date_end: null
+  location_in_record: ch10:10588-10719
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: e0fca849-feb2-423e-ac47-e6471d2604bc
+  claim_hash: 0a727d419cd9ab49f7d4a092b1568a8575357950e98a0cf67c2dc13fd12089fe
+  content: Artur Santos considered the Fatima apparitions an attack on the rationalist
+    worldview and the republic, and sought to eradicate what he viewed as superstitious
+    Catholic religion.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 5222074d-c008-4d08-8de3-4ab6e71fd1b9
+    title: Artur Santos
+  provenance_chain:
+    origin_kind: speaker
+    origin: Santos, Artur
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5222074d-c008-4d08-8de3-4ab6e71fd1b9
+    title: Artur Santos
+    slug: artur-santos
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: null
+  date_end: null
+  location_in_record: ch10:11057-11218
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: db313e4d-4033-460d-8232-36d2f5cc6776
+  claim_hash: 0fafa328da5816ef112095611c5598338f7b38840b01751570c7ae470f6d3b1c
+  content: On the morning of 1917-08-13, Fatima was again filled with pilgrims, with
+    an estimated fifteen to twenty thousand people arriving by every type of transport.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 90df69a7-b93a-48cb-ab09-52b820e2122c
+    title: Abduction of the Fatima children by Artur Santos (1917-08-13)
+    slug: abduction-of-the-fatima-children-by-artur-santos-1917-08-13
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: '1917-08-13'
+  date_end: null
+  location_in_record: ch10:12369-12558
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 20acb851-1851-4f9a-a042-9bc58e4229c5
+  claim_hash: 2a9563bce6c1c322dfc8b89ad99a85c11b8c516fe06f964e4d805b92eeaad0a3
+  content: Maria dos Santos Carreira recalled that after the sign at the Cova da Iria
+    on 1917-08-13, the crowd went to Fatima and rioted against Artur Santos and Father
+    Ferreira over the abduction of the children.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c6f87671-3082-4c33-9df2-f7230e3bd45d
+    title: Maria dos Santos Carreira
+  provenance_chain:
+    origin_kind: speaker
+    origin: Carreira, Maria dos Santos
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5222074d-c008-4d08-8de3-4ab6e71fd1b9
+    title: Artur Santos
+    slug: artur-santos
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: c6f87671-3082-4c33-9df2-f7230e3bd45d
+    title: Maria dos Santos Carreira
+    slug: maria-dos-santos-carreira
+  - node_id: e005dd97-5d9a-4db7-b51c-9b0f249d6e18
+    title: Ferreira (Father)
+    slug: ferreira-father
+  date: '1917-08-13'
+  date_end: null
+  location_in_record: ch10:17347-17566
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 0cedd517-02f6-48c8-ac8f-9ef0f68cdf07
+  claim_hash: 87bc027d7b1c7a7d560f4ee5f43a6ecfaf1b1b23fce9641c50489e59c684b588
+  content: On 1917-08-15, having failed to extract the secret from the children, Artur
+    Santos returned them by carriage to Father Ferreira at the rectory in Fatima.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+    title: Francisco Marto
+    slug: francisco-marto
+  - node_id: 5222074d-c008-4d08-8de3-4ab6e71fd1b9
+    title: Artur Santos
+    slug: artur-santos
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+    slug: lucia-fatima-seer
+  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+    title: Jacinta Marto
+    slug: jacinta-marto
+  - node_id: e005dd97-5d9a-4db7-b51c-9b0f249d6e18
+    title: Ferreira (Father)
+    slug: ferreira-father
+  date: '1917-08-15'
+  date_end: null
+  location_in_record: ch10:19564-19669
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: e8db789b-c315-489a-a421-a1f90247e8cc
+  claim_hash: eb05b01eebe0eb7a67e4c8ecda6a26a7d1faf09c4b0125a2b323fbb75327955c
+  content: On 1917-06-13, the day of the Second apparition of Our Lady of Fatima,
+    Lúcia's mother took her to Father Ferreira at the rectory in Fatima for another
+    personal talk, and Jacinta and Francisco Marto went along.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+    title: Francisco Marto
+    slug: francisco-marto
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+    slug: lucia-fatima-seer
+  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+    title: Jacinta Marto
+    slug: jacinta-marto
+  - node_id: e005dd97-5d9a-4db7-b51c-9b0f249d6e18
+    title: Ferreira (Father)
+    slug: ferreira-father
+  - node_id: f74bf1e6-bf54-426c-91c2-3eab0d3ad726
+    title: Maria Rosa dos Santos
+    slug: maria-rosa-dos-santos
+  date: '1917-06-13'
+  date_end: null
+  location_in_record: ch10:752-985
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 46ab4abf-6fdd-4912-8ff7-00cb3daee66b
+  claim_hash: 204fcd95f8fd15a2c016aa618ea44c136df345d3c7ae52c90422e48e7b20c2c9
+  content: Increasing numbers of pilgrims came to Fatima to see, touch, and question
+    the three children after the apparitions, overrunning the farmers' fields, trampling
+    grain, and destroying the harvest.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+    title: Francisco Marto
+    slug: francisco-marto
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+    slug: lucia-fatima-seer
+  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+    title: Jacinta Marto
+    slug: jacinta-marto
+  date: null
+  date_end: null
+  location_in_record: ch10:9686-9891
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 6b2a7c87-a7dc-45f1-b488-057edc49ba51
+  claim_hash: a1ae7be6b21ad2b7c27e09ee0083425439bd550c1d9bedb07d7598d1eeb95fb9
+  content: On 1934-09-12, the remains of Jacinta Marto and Francisco Marto were reburied
+    in a grave chosen especially for them at the cemetery of Fatima.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+    title: Francisco Marto
+    slug: francisco-marto
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: c6e81c2a-2214-430a-8db1-08c3bc8d59a6
+    title: Reburial of Jacinta and Francisco Marto (1934-09-12)
+    slug: reburial-of-jacinta-and-francisco-marto-1934-09-12
+  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+    title: Jacinta Marto
+    slug: jacinta-marto
+  date: '1934-09-12'
+  date_end: null
+  location_in_record: ch13:11232-11363
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: bd6a504a-5b06-4d5d-a4a6-6d62803f91da
+  claim_hash: 448778538287dba5f65c73c2f0b7a185f850d6a18aa142cae59ebc0a84eca641
+  content: One year after the Fatima apparitions, in 1918, the diocese of Leiria,
+    to which Fatima belongs, received a new bishop, Don José Alves Correira da Silva,
+    who had been tortured and crippled in the prisons of the republicans.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 86a3d282-0dee-49af-8533-93f32405844e
+    title: Portugal, Leiria
+    slug: leiria-portugal
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: bcf2064d-2e0d-4d33-9abc-278aaae68bec
+    title: José Alves Correira da Silva
+    slug: jose-alves-correira-da-silva
+  date: '1918'
+  date_end: null
+  location_in_record: ch13:13000-13230
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 29269df4-6f17-498b-9f35-99495f69d271
+  claim_hash: e7437e63097b6656782846683a349c07182e1d9a0bbcd20681d10a1ef950783a
+  content: Michael Hesemann considers the greatest miracle of Fatima, at least for
+    the Church, to have been the Fatima Effect, the renewal of faith in Portugal,
+    a country where the government had tried to stamp out religion only a few years
+    before.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hesemann, Michael
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: bb5fdb69-c69c-46b1-96fa-d6cf9021ffd4
+    title: Fatima Effect
+    slug: fatima-effect
+  date: null
+  date_end: null
+  location_in_record: ch13:14178-14387
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 73b18c5b-5d7f-464b-a1e9-198a515860f6
+  claim_hash: fd07ee5b8fb17f1bc7e817c7ed450fe0108c9c10aaf82b55226f11422b46c7db
+  content: On the morning of 1920-05-13, all incoming traffic to Ourém was blocked
+    and a squadron of republican soldiers galloped off toward Fatima, with infantry
+    and cavalry cordoning off the road leading to the Cova da Iria.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3e9c3458-cec2-4f2b-aff1-e104a5812ad8
+    title: Portugal, Ourém
+    slug: ourem-portugal
+  - node_id: 79277187-1caf-4840-a135-5819bc771321
+    title: Portugal, Fatima, Cova da Iria
+    slug: fatima-cova-da-iria-portugal
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: '1920-05-13'
+  date_end: null
+  location_in_record: ch13:14940-15141
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 8ea824b6-d39a-4d3d-876a-a55e2914eeb5
+  claim_hash: 5505ef3db4d3099935d53578da8ba28a3b5c41dd3574a4c21fcfe236348b31b9
+  content: Administrator Artur Santos told the mayor of Fatima that in the future
+    processions could be held only with his permission, and ordered to be kept personally
+    informed about every incident of a superstitious nature connected with the Fatima
+    miracle.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 5222074d-c008-4d08-8de3-4ab6e71fd1b9
+    title: Artur Santos
+  provenance_chain:
+    origin_kind: speaker
+    origin: Santos, Artur
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5222074d-c008-4d08-8de3-4ab6e71fd1b9
+    title: Artur Santos
+    slug: artur-santos
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: null
+  date_end: null
+  location_in_record: ch13:15405-15654
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: b507847a-1078-4cb5-94f6-ad8951bdc5df
+  claim_hash: d80dfe2ee866130d69a37a23da8b0c7ec89f4224795995d08298f691e5882935
+  content: News of the miracle of the sun at Fatima on 1917-10-13 had hardly begun
+    to spread when thousands of people started pouring into the village of Fatima.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: a3d7425b-b814-43c7-b4f4-a84328bded4f
+    title: Miracle of the Sun (1917-10-13)
+    slug: miracle-of-the-sun-1917-10-13
+  date: '1917-10-13'
+  date_end: null
+  location_in_record: ch13:157-265
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 3b9d92f6-87a5-427c-ab79-e56b069a2f23
+  claim_hash: ffc85d9503a24851f4fbfa53fe98210ea14e96e1c18f149e5d9e7bd2d10cc0bc
+  content: In January 1920, a well-known Lisbon doctor visited Fatima as a pilgrim,
+    saw Jacinta Marto's miserable condition, and insisted she be taken at once to
+    a hospital in Lisbon.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: cc743020-9f2f-4708-a14f-eda28f59bd81
+    title: Portugal, Lisbon
+    slug: lisbon-portugal
+  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+    title: Jacinta Marto
+    slug: jacinta-marto
+  date: 1920-01
+  date_end: null
+  location_in_record: ch13:6375-6545
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 40a7d427-bd7a-4485-b2a7-7aaea58ab20e
+  claim_hash: 55e2828c21377bf269f830432c58d32a11d058ea112987c7eec81c6b6b69fe5d
+  content: During her stay at the orphanage, Jacinta Marto told Mother Superior Godinho
+    to leave her alone for a bit because she was waiting for Our Lady, after which
+    her face took on a radiant expression, and sometimes a ball of light was seen
+    nearby, like the one at Fatima.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d787a37f-6435-4313-be03-37dd29361524
+    title: Godinho (Mother Superior)
+  provenance_chain:
+    origin_kind: speaker
+    origin: Godinho (Mother Superior)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+    title: Jacinta Marto
+    slug: jacinta-marto
+  - node_id: d787a37f-6435-4313-be03-37dd29361524
+    title: Godinho (Mother Superior)
+    slug: godinho-mother-superior
+  date: null
+  date_end: null
+  location_in_record: ch13:7264-7486
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 5c0648c5-c4fb-435f-9b3a-16ab06a2811f
+  claim_hash: bebefa02f46689f36318863e849afbb21755cfa9ff1644adc536bfe550c1e3b0
+  content: The bishop of Leiria's 1930-10 pastoral letter declared the visions of
+    the shepherd children at the Cova da Iria, parish of Fatima, from 1917-05-13 to
+    1917-10-13, to be worthy of belief.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Second pastoral letter of the bishop of Leiria approving Fatima devotion
+      (1930-10)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 372e2973-3503-4902-bac1-e0756d9f1f0e
+    title: Second pastoral letter of the bishop of Leiria approving Fatima devotion
+      (1930-10)
+    slug: second-pastoral-letter-of-the-bishop-of-leiria-approving-fatima-devotion-1930-10
+  - node_id: 79277187-1caf-4840-a135-5819bc771321
+    title: Portugal, Fatima, Cova da Iria
+    slug: fatima-cova-da-iria-portugal
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: 1930-10
+  date_end: null
+  location_in_record: ch14:6796-6932
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 24361a31-6378-4e49-9877-867a26fdd942
+  claim_hash: ff9744e6736937d455a0fde24f135629ab8a46066573f3a40d0e0035674be649
+  content: After the bishop of Leiria's approval, Fatima became a centre of Christian
+    belief, with pilgrims coming there by the hundreds of thousands, not only from
+    Portugal but from all over the world.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: null
+  date_end: null
+  location_in_record: ch14:7131-7227
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: e70cf940-8abd-403f-9a0d-914d8491607e
+  claim_hash: 85b3d2a7f67156b337e86ea25a8c72fbdc3b7f287f22d99d0e01af174e874443
+  content: 'In 1941 Sister Lúcia wrote down only the opening words of the Third Secret
+    of Fatima: "In Portugal the doctrine of faith will always be preserved."'
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lúcia (Fatima seer)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    slug: third-secret-of-fatima
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+    slug: lucia-fatima-seer
+  date: '1941'
+  date_end: null
+  location_in_record: ch16:584-673
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 04430af5-2ff1-47de-8179-e0d0f22e1103
+  claim_hash: a7c68e0be8631a096889fcdbf437439524c84fb3a8eb182da1178a28eea2b15d
+  content: On 1967-05-13, the fiftieth anniversary of the first apparition of Our
+    Lady of Fatima, Pope Paul VI travelled to Fatima, which Vatican observers found
+    surprising, as it was only his fourth journey abroad.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 445a60c4-e141-48ca-b245-b03d8a37db2b
+    title: First apparition of Our Lady of Fatima (1917-05-13)
+    slug: first-apparition-of-our-lady-of-fatima-1917-05-13
+  - node_id: 93f78b32-3aec-4e67-ba9b-037700c40f83
+    title: Paul VI's visit to Fatima for the 50th anniversary (1967-05-13)
+    slug: paul-vis-visit-to-fatima-for-the-50th-anniversary-1967-05-13
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: e63698cc-274e-4e27-b576-a027fb10f37f
+    title: Paul VI
+    slug: paul-vi
+  date: '1967-05-13'
+  date_end: null
+  location_in_record: ch17:11928-12100
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 2443437e-6b1e-4350-9639-6540687e226f
+  claim_hash: 32902adf527bd544a726970a77b1d4acc9e4dd2857d73fc438009f6037c07fc2
+  content: Thousands of people lined the approximately 48-kilometre road leading from
+    Monte Real airport to Fatima to see Pope Paul VI driving past in an old, white,
+    open Rolls-Royce embellished with the papal coat of arms.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2374c9d4-3070-4f56-8858-ee4c68d9f2ba
+    title: Portugal, Monte Real military airport
+    slug: monte-real-military-airport-portugal
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: e63698cc-274e-4e27-b576-a027fb10f37f
+    title: Paul VI
+    slug: paul-vi
+  date: '1967-05-13'
+  date_end: null
+  location_in_record: ch17:12209-12395
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: d57d9429-7e8d-4017-b321-b7f38a46d386
+  claim_hash: 01ec5bc59780c1935c111c2d61343a85b234be22fdfcea8a413b43bdc35e1992
+  content: During his 1967-05-13 visit to Fatima, the weather was cool and almost
+    like winter, with showers and gusty winds, while Pope Paul VI stood in the car
+    dressed in a white cassock and a dark red raincoat, acknowledging the cheers of
+    the crowd.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: e63698cc-274e-4e27-b576-a027fb10f37f
+    title: Paul VI
+    slug: paul-vi
+  date: '1967-05-13'
+  date_end: null
+  location_in_record: ch17:12402-12621
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 4bdb7d71-5b64-410a-a851-ba7f804897f1
+  claim_hash: e23e312cee37cf0ed8b5ed755612c55c2a091aadfb208aa930e1b3a0d7ab3999
+  content: In 1982, Pope John Paul II made a journey to Fatima to thank the Mother
+    of God for saving his life, after he was shot in 1981.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0a600f4d-bed4-496b-98f4-59580c166de2
+    title: John Paul II's 1982 pilgrimage to Fatima
+    slug: john-paul-iis-1982-pilgrimage-to-fatima
+  - node_id: 38ecab4b-4ae9-4556-97b6-221dcd957341
+    title: Assassination attempt on John Paul II (1981-05-13)
+    slug: assassination-attempt-on-john-paul-ii-1981-05-13
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: '1982'
+  date_end: null
+  location_in_record: ch18:13943-14048
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 7f6ce9c2-cb45-4df4-a29a-7fe7916fbf5d
+  claim_hash: a3f75d502b0b09a84aad421794549b5d790e6a19ef38599b32416e412051c02e
+  content: At Fatima, Pope John Paul II met Sister Lúcia.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+    slug: lucia-fatima-seer
+  date: null
+  date_end: null
+  location_in_record: ch18:14054-14080
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: e0a7bcc7-efa3-47af-8f6f-6dac298fedb4
+  claim_hash: 21f05ed6aa442024861e39423fe2a4aabcad0ac157ba64f8ebf1ec4f5d864d58
+  content: Pope John Paul II visited Fatima again on 2000-05-13.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0266f8de-c3c8-4692-80cb-8840b89a15ef
+    title: John Paul II's visit to Fatima (2000-05-13)
+    slug: john-paul-iis-visit-to-fatima-2000-05-13
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: '2000-05-13'
+  date_end: null
+  location_in_record: ch18:15294-15344
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 0702bba1-d71c-4cf1-835e-52c90ed6475a
+  claim_hash: 56fe0884adb72044bcbb9351683a4db4fd38ba786c0d2b1449984c631be8486e
+  content: John Paul II visited the Fatima shrine twice before his 2000-05-13 visit.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: null
+  date_end: null
+  location_in_record: ch18:15648-15688
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 39b51a98-b28f-492c-8f1a-8c98a33c6845
+  claim_hash: 6689ecdb8cd8718c741a9a650f19cf4f771862c44def20939213d5138e21c4a9
+  content: On 1991-05-12, John Paul II's second pilgrimage to Fatima took place.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2841cbec-54b0-4f73-ac25-9f58a5de10ab
+    title: John Paul II's second pilgrimage to Fatima (1991-05-12 to 1991-05-13)
+    slug: john-paul-iis-second-pilgrimage-to-fatima-1991-05-12-to-1991-05-13
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: '1991-05-12'
+  date_end: null
+  location_in_record: ch19:21984-22061
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 706f0e25-0b86-4b28-92ac-d3bc1da6a04e
+  claim_hash: 1cddeb65357adee1118518e6363ab24b8f576204a87018c10fb49ebd5b124a1d
+  content: Gennadii Gerasimov told a Lisbon newspaper that his 1991 visit to Fatima
+    was his third visit to the shrine.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: d167b3bc-4eed-474f-96e6-3922c5508f17
+    title: Gennadii Gerasimov
+  provenance_chain:
+    origin_kind: speaker
+    origin: Gennadii Gerasimov
+    relay:
+    - a Lisbon newspaper
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: d167b3bc-4eed-474f-96e6-3922c5508f17
+    title: Gennadii Gerasimov
+    slug: gennadii-gerasimov
+  date: '1991-05-13'
+  date_end: null
+  location_in_record: ch19:22422-22486
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 4cbc957e-9155-4fa1-a234-94e14c99381d
+  claim_hash: befad4e553408915efd5ddbf72fed2cdf107b2956168f7c62a86c38c1314de6d
+  content: John Paul II had a talk with President António Ramalho Eanes at Belém Palace
+    before leaving for Fatima by helicopter.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 4df638c5-718a-4696-b62c-5fd1986a64a2
+    title: António Ramalho Eanes
+    slug: antonio-ramalho-eanes
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: a9a84001-6611-4a01-b765-f769e3feb2cc
+    title: Vatican, Belém Palace
+    slug: belem-palace-vatican
+  date: '1982-05-12'
+  date_end: null
+  location_in_record: ch19:7516-7594
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 9d4c4774-7a24-4212-8d9b-6581c1a0d474
+  claim_hash: 5e2e735f6cf031b912f31df354c07b2d413fdcd22e23719fd59e73c25c68df94
+  content: The white helicopter carrying John Paul II landed near the apparition site
+    at Fatima at night on 1982-05-12.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: '1982-05-12'
+  date_end: null
+  location_in_record: ch19:8058-8151
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: d9fd6e2e-a0cd-41a7-89f1-95e8a89de5a6
+  claim_hash: 5d0c5b0e56678c17fc11d4373905baac7fa02f5e352a4aedcc501c8053c542ee
+  content: In the fall of 1998, Conchita returned to Europe and spends most of her
+    time in Fatima so she can be close to Garabandal when the time for the miracle
+    comes.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: b454b345-1c72-4ea1-ad89-993030ba8224
+    title: Conchita (Garabandal seer)
+    slug: conchita-garabandal-seer
+  date: '1998'
+  date_end: null
+  location_in_record: ch21:13253-13408
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: c4802daf-dc7e-4414-addf-0984e90741f6
+  claim_hash: c17ff2fc91c700ad1e8727ed40e208625ea59c4c658789dd2fd6f224edf964fe
+  content: The Miracle of the Sun of 1917-10-13 at Fatima was visible in neighbouring
+    villages as well as in Fatima itself.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: a3d7425b-b814-43c7-b4f4-a84328bded4f
+    title: Miracle of the Sun (1917-10-13)
+    slug: miracle-of-the-sun-1917-10-13
+  date: '1917-10-13'
+  date_end: null
+  location_in_record: ch23:6631-6706
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: dbc36fd4-3d25-457a-846a-70b713be1767
+  claim_hash: b30ceda024c68c5039a03d802f767c9e5ea3d0d1c6db96677f731205b9200211
+  content: On 2000-05-12, over 600,000 people were present at Portugal, Fatima to
+    witness the pope's visit.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: '2000-05-12'
+  date_end: null
+  location_in_record: ch24:1964-2127
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: a4264204-a111-4a4f-8ea0-826f5e6c3b55
+  claim_hash: 62ac4a31641270fea6fb9c8cc55a5e2fc3a49063df1df87fd564e91a2cc2323b
+  content: Sister Lúcia quoted the line "In Portugal, the dogma of the faith will
+    always be preserved" in her fourth memoir, and this line was believed to have
+    to start the Third Secret.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lúcia (Fatima seer)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: a169903c-b5cd-4a93-aa9b-1ac89175eecf
+    title: Sister Lúcia's fourth diary
+    slug: sister-lucias-fourth-diary
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    slug: third-secret-of-fatima
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+    slug: lucia-fatima-seer
+  date: null
+  date_end: null
+  location_in_record: ch24:27659-27835
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 0d160523-8a7e-4e3a-940c-7331bb867f2d
+  claim_hash: a58147b747df9474f5662e3d0876821f1db7359f7f711a8c65c28144be9640fe
+  content: The words "In Portugal, the dogma of the faith will always be preserved"
+    are now assumed to be the last line of the Second Secret of Fatima, which had
+    already been revealed and announced the spread of Communism and the persecution
+    of the Church.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 60e50716-fa79-45d6-991c-49d084ff4183
+    title: Second Secret of Fatima
+    slug: second-secret-of-fatima
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
+    title: Communism
+    slug: communism
+  date: null
+  date_end: null
+  location_in_record: ch24:27843-28012
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 4607efb7-caa2-4aba-8ef9-cc191de60456
+  claim_hash: 750355f1822d329c2c6f95fe540dcbe812d1a4517e9f36713c8807eaa4680cd1
+  content: Portugal was spared both the spread of Communism and the persecution of
+    the Church, as predicted in the Second Secret of Fatima.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 60e50716-fa79-45d6-991c-49d084ff4183
+    title: Second Secret of Fatima
+    slug: second-secret-of-fatima
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
+    title: Communism
+    slug: communism
+  date: null
+  date_end: null
+  location_in_record: ch24:28020-28068
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 418c983d-122c-4546-99b3-2210ac7ee50a
+  claim_hash: 0f0c70425ac7a0362831a33d987c3db40b6ea01b18c7bb550caabace04b06172
+  content: It was originally decided to publish the Third Secret of Fatima after the
+    death of Sister Lúcia, but while considering his upcoming trip to Portugal for
+    the beatification of Jacinta and Francisco Marto, Pope John Paul II felt the time
+    to release it had finally come.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+    title: Francisco Marto
+    slug: francisco-marto
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 6a4167db-9a90-470f-aa84-74a9e515d880
+    title: Beatification of Jacinta and Francisco Marto (2000)
+    slug: beatification-of-jacinta-and-francisco-marto-2000
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    slug: third-secret-of-fatima
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+    slug: lucia-fatima-seer
+  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+    title: Jacinta Marto
+    slug: jacinta-marto
+  date: null
+  date_end: null
+  location_in_record: ch24:29539-29780
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 5abe4f8d-e41b-4d47-9d71-42b18b7a083d
+  claim_hash: 9951dda40681c9ca9aa86b7fb73a9be7874a190a4d685ea849bf5586ea73be1d
+  content: During his speech in Fatima on 2000-05-13, Cardinal Angelo Sodano was careful
+    to say that the events described in the Third Secret of Fatima now seem part of
+    the past.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 37bc5b59-3fad-4290-b925-7063c23f35d7
+    title: Angelo Sodano
+  provenance_chain:
+    origin_kind: speaker
+    origin: Sodano, Angelo
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 37bc5b59-3fad-4290-b925-7063c23f35d7
+    title: Angelo Sodano
+    slug: angelo-sodano
+  - node_id: 92420f7c-651a-4caa-92b8-a4595fe1f825
+    title: Revelation of the Third Secret of Fatima at the beatification mass (2000-05-13)
+    slug: revelation-of-the-third-secret-of-fatima-at-the-beatification-mass-2000-05-13
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    slug: third-secret-of-fatima
+  date: '2000-05-13'
+  date_end: null
+  location_in_record: ch24:29946-30067
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 02bb8cdf-7d3c-4628-b574-86ccc1078e90
+  claim_hash: ff0221146b343cab94904bf47c2e59df192c815430055908d1670e260cba5325
+  content: Archbishop Tarcisio Bertone said that Our Lady, who appeared at Fatima,
+    reminds humanity that people are active and responsible partners with God in creating
+    their future.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e4ac668d-d416-4931-ae19-e92c5bbe84dc
+    title: Tarcisio Bertone
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bertone, Tarcisio
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: e4ac668d-d416-4931-ae19-e92c5bbe84dc
+    title: Tarcisio Bertone
+    slug: tarcisio-bertone
+  date: null
+  date_end: null
+  location_in_record: ch24:33751-33865
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 4c9ddd08-094d-46dd-85d3-485b2bfebcc4
+  claim_hash: 9fb7c6147b2c71e6b2a8a3803b93e6914f56ddda7254f687b7633c54add0f13f
+  content: John Paul II decided to hold the Marto siblings' beatification in Portugal,
+    Fatima instead of Italy, Rome.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 6a4167db-9a90-470f-aa84-74a9e515d880
+    title: Beatification of Jacinta and Francisco Marto (2000)
+    slug: beatification-of-jacinta-and-francisco-marto-2000
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: null
+  date_end: null
+  location_in_record: ch24:3420-3457
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: fe102fd3-3efa-4ce0-a0b1-ebd5950158b8
+  claim_hash: 5a25a093cffab606d2086431f5450b685d40df1bb9da49649e179d5c0a7fc55b
+  content: On 1999-11-26, Serafim da Silva, bishop of Portugal, Leiria and Fatima,
+    told the press that John Paul II had said "Arrivederci a Fatima" to the visiting
+    Portuguese bishops in November 1999.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 8fcbb3a6-412a-4fa1-bb53-4f878eaf8ce1
+    title: Serafim da Silva
+  provenance_chain:
+    origin_kind: named
+    origin: Silva, Serafim da
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 86a3d282-0dee-49af-8533-93f32405844e
+    title: Portugal, Leiria
+    slug: leiria-portugal
+  - node_id: 8fcbb3a6-412a-4fa1-bb53-4f878eaf8ce1
+    title: Serafim da Silva
+    slug: serafim-da-silva
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: '1999-11-26'
+  date_end: null
+  location_in_record: ch24:3614-3713
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 64b05bd5-5a32-49e8-8b03-489407242769
+  claim_hash: d6a9060e1b3e2ccde62f1e7b0ce6394e6790fdae18445f950e157ec2d19c04cc
+  content: John Paul II's plan to return to Portugal, Fatima was announced only after
+    he completed his pilgrimage to the Holy Land in March 2000.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0266f8de-c3c8-4692-80cb-8840b89a15ef
+    title: John Paul II's visit to Fatima (2000-05-13)
+    slug: john-paul-iis-visit-to-fatima-2000-05-13
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 4f083cec-d29b-45a1-ba18-3ba2f85ae5ba
+    title: John Paul II's pilgrimage to the Holy Land (2000-03)
+    slug: john-paul-iis-pilgrimage-to-the-holy-land-2000-03
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: 2000-03
+  date_end: null
+  location_in_record: ch24:3868-3988
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 69e6779f-b8a2-43a8-a615-2c66beb158c4
+  claim_hash: 9d335a502aa22b7c05182e9f5072a86d95ab0c0d0c69ed056c52d2444ce521c3
+  content: John Paul II wanted his 2000 visit to Portugal, Fatima to be a highlight
+    of the Vatican's Jubilee Year, a yearlong celebration of two thousand years of
+    Christianity.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+    title: Vatican
+    slug: vatican
+  date: null
+  date_end: null
+  location_in_record: ch24:3997-4136
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: ad124bff-577a-4c75-a08a-328f475ac36f
+  claim_hash: 8f495fae5aaafe77f13c15b29dc03bf913e3a409aacda4805c4d9cb9bd8c474b
+  content: John Paul II arrived at the sanctuary of Portugal, Fatima on the evening
+    of 2000-05-12, appearing exhausted as he stepped out of the military helicopter
+    that brought him from Portugal, Lisbon.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0266f8de-c3c8-4692-80cb-8840b89a15ef
+    title: John Paul II's visit to Fatima (2000-05-13)
+    slug: john-paul-iis-visit-to-fatima-2000-05-13
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: cc743020-9f2f-4708-a14f-eda28f59bd81
+    title: Portugal, Lisbon
+    slug: lisbon-portugal
+  date: '2000-05-12'
+  date_end: null
+  location_in_record: ch24:6028-6220
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 3bc03b2d-b6fe-4842-9e0c-203f25b05aa5
+  claim_hash: d4e67360bb7a4706d8d68f06ba6f3736a3863dd09505437cb16371d7b757be1b
+  content: In Portugal, Fatima, half a million people gathered to welcome John Paul
+    II, who greeted them from his bullet-proof white Popemobile.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 05ae8f84-39cc-4070-9cc1-51b737dc3d71
+    title: Popemobile
+    slug: popemobile
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: '2000-05-12'
+  date_end: null
+  location_in_record: ch24:6463-6727
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 36168f54-4bcd-4c8e-aa70-6228754b1c0c
+  claim_hash: 782b80ea6b73ce3f3f1ea925a63d145a8853faf45af4b8cffe62de8b21aaba20
+  content: After blessing the crowd at Portugal, Fatima on 2000-05-12, John Paul II
+    left the sanctuary and did not attend the solemn mass and procession of lights
+    that followed.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: '2000-05-12'
+  date_end: null
+  location_in_record: ch24:7621-7810
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 43653d80-8e08-45c5-a678-403512e3feec
+  claim_hash: ce7f86223a837ec240a78dbce65578bb59a9945df1e94850852682b86c5c326e
+  content: Michael Hesemann stood in the crowd at Portugal, Fatima and watched the
+    mass on 2000-05-12, having travelled there to participate in an event he felt
+    would be remembered in history.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hesemann, Michael
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    slug: michael-hesemann
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: '2000-05-12'
+  date_end: null
+  location_in_record: ch24:7816-7951
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 4ddd4b0a-d5b8-4373-8c5b-2e9b6afb2841
+  claim_hash: c6535e0c458d4da4d3a8dbcad31cbaf00f8a8581d80d1c73c67db269d0cd1abd
+  content: On 2000-05-13, precisely at 8:30 A.M., over 600,000 people were squeezed
+    into the rotunda at Portugal, Fatima when John Paul II entered the sanctuary in
+    his Popemobile.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hesemann, Michael
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 05ae8f84-39cc-4070-9cc1-51b737dc3d71
+    title: Popemobile
+    slug: popemobile
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: '2000-05-13'
+  date_end: null
+  location_in_record: ch24:8347-8473
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: fa3428b3-a9ca-4e0a-93e6-bde73c5bceab
+  claim_hash: 41b1f986eab475a1b663398d03f98aafd145cf598e3dbf758608d02c95ed9476
+  content: Sister Lúcia made one of her rare trips outside the Carmelite convent of
+    Coimbra exclusively to attend the 2000-05-13 ceremony at Portugal, Fatima.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+    slug: lucia-fatima-seer
+  - node_id: fe0881ab-5be5-4de6-bc8a-f781bee7374d
+    title: Carmelite convent of Coimbra
+    slug: carmelite-convent-of-coimbra
+  date: '2000-05-13'
+  date_end: null
+  location_in_record: ch24:8703-8803
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 4cb24d40-b933-40b0-8751-04201aa24521
+  claim_hash: 38d928d4ab8971eab7b38d7cf1fb54eff1e8c68a0c308dce570350b568c7f536
+  content: The sanctuary of Fatima includes a large basilica at its centre.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 02193b62-30a2-4ad5-9fa0-a64c90c9b236
+    title: Basilica of Our Lady of the Rosary of Fatima
+    slug: basilica-of-our-lady-of-the-rosary-of-fatima
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: null
+  date_end: null
+  location_in_record: ch25:755-816
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 1dd533aa-91bd-4691-8b4b-9538ea0a7526
+  claim_hash: da0847baeb20ec7f97c6b0685aaf54fccc6cbee219a16980f3ef19d7b3c22021
+  content: In the summer of 1917, during World War I, three small children in the
+    village of Fatima, Portugal reported seeing a "beautiful lady" coming to them
+    out of the sky.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+    title: Fatima apparitions (1917)
+    slug: fatima-apparitions-1917
+  date: null
+  date_end: null
+  location_in_record: ch4:132-354
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 78f67ff4-2ea0-4281-928b-cb4c58bb3ccf
+  claim_hash: 827b820c9b2cf6d0792f8bedc3e4bb36450978f2ed85092f82e3c066d2f22093
+  content: Howard Menger does not associate his experience with Mary, though someone
+    from the Catholic religious tradition might make that association.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Hesemann
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
+    title: Howard Monger
+    slug: howard-monger
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: null
+  date_end: null
+  location_in_record: ch4:20824-21047
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: a1079a6f-7aa8-476f-824b-d8b699ebd49a
+  claim_hash: 6162720e29e554be268d19b8a3510bf5a376d2e9c53c6be035694de157c7ff27
+  content: In November 1999, John Paul II travelled to Portugal to celebrate the beatification
+    of two of the three Fatima seer children in front of a million people and television
+    cameras from around the world.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 7953205d-7f00-42e5-bd59-5e8891d95fbe
+    title: Beatification of two Fatima seer children (1999-11)
+    slug: beatification-of-two-fatima-seer-children-1999-11
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: 1999-11
+  date_end: null
+  location_in_record: ch5:3232-3404
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 2240f8ac-c58d-46a7-b5ef-ea1d942f6296
+  claim_hash: e60ecdb96946a5504e3b7f122d51b2d64a4c39f464fbb589a36feae59ca39bb4
+  content: Fatima, a village in the Portuguese mountains, became one of the most important
+    places of pilgrimage in the Christian world.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: null
+  date_end: null
+  location_in_record: ch5:5286-5425
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: ca1b2a38-05e4-454a-9b41-a4454b48f91b
+  claim_hash: 8cf6b731fd363d24dcb5c14208b523328f289b01051baccd6d5b3ffb8e294e7d
+  content: Portugal, Fatima is a Portuguese mountain village located approximately
+    130 kilometres north of Lisbon.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Hesemann
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: cc743020-9f2f-4708-a14f-eda28f59bd81
+    title: Portugal, Lisbon
+    slug: lisbon-portugal
+  date: null
+  date_end: null
+  location_in_record: ch7:1040-1062
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 45da6881-5f3f-45c0-882c-c3717228ab59
+  claim_hash: 9223fbd063116e3d8fb98ae82166a2f30548f311eae61a395d8c2d5990eac47b
+  content: Michael Hesemann visited the sanctuary of Portugal, Fatima on 1996-09-12,
+    the seventy-ninth anniversary of the Fifth apparition of Our Lady of Fatima (1917-09-13).
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Hesemann
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    slug: michael-hesemann
+  - node_id: 8d83ccfd-24f3-493c-9f08-2365e9bbfd80
+    title: Fifth apparition of Our Lady of Fatima (1917-09-13)
+    slug: fifth-apparition-of-our-lady-of-fatima-1917-09-13
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: '1996-09-12'
+  date_end: null
+  location_in_record: ch7:2610-2680
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 6078a18c-99bf-4f48-b86b-70fbbabf80ce
+  claim_hash: 9ae90347e69159516e86cf24b6e8da3aef42ef7e6bb73ba5141fc06cbeb87ed5
+  content: Michael Hesemann observed hundreds, if not thousands, of pilgrims at the
+    sanctuary of Portugal, Fatima on 1996-09-12.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Hesemann
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    slug: michael-hesemann
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: '1996-09-12'
+  date_end: null
+  location_in_record: ch7:2692-2743
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 5fac51e7-4927-4d61-a43b-a38e5f2742c4
+  claim_hash: 4c77fa43e78459612338a4ece687e563ff2350e8145f8ed75030c0dd22767275
+  content: The Basilica of Our Lady of the Rosary of Fatima is set in a park at Portugal,
+    Fatima, surrounded by green trees and bushes.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Hesemann
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 02193b62-30a2-4ad5-9fa0-a64c90c9b236
+    title: Basilica of Our Lady of the Rosary of Fatima
+    slug: basilica-of-our-lady-of-the-rosary-of-fatima
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    slug: michael-hesemann
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: null
+  date_end: null
+  location_in_record: ch7:2966-3027
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: d0470435-21fa-40e9-806f-27c0c66d2098
+  claim_hash: 3cf8e3b1ca7bab64088f51f141a245f4fa3a6c2056c81c0453ab92b77c002b42
+  content: A small chapel was erected at Portugal, Fatima at the request of the apparition
+    of the Virgin Mary.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: c8a8edd8-4dde-48dc-8c34-5aeb88ef7922
+    title: Portugal, Fatima, Capelinha chapel
+    slug: fatima-capelinha-chapel-portugal
+  date: null
+  date_end: null
+  location_in_record: ch7:3306-3356
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 42b37806-a2bb-4fb7-ae23-b2a446a73c01
+  claim_hash: c8aaa3a62d7326a74de4ce51ae8aa528614910ed81446829a183aeaf83447563
+  content: The Statue of Our Lady of Fatima stands protected in a glass box on a pedestal
+    in front of the Capelinha chapel at Portugal, Fatima.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Hesemann
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    slug: michael-hesemann
+  - node_id: 7960be39-3279-4d62-9deb-71ef5e6d71ca
+    title: Statue of Our Lady of Fatima
+    slug: statue-of-our-lady-of-fatima
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: c8a8edd8-4dde-48dc-8c34-5aeb88ef7922
+    title: Portugal, Fatima, Capelinha chapel
+    slug: fatima-capelinha-chapel-portugal
+  date: null
+  date_end: null
+  location_in_record: ch7:3919-4022
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 281cf922-7daa-49cf-be05-4d5c79563119
+  claim_hash: 6aa77706c61d77be20f3a3ebe0efef574ddd97f3dab2bcf9c47d560c0cd2f034
+  content: Michael Hesemann travelled to Portugal, Fatima after arriving at Lisbon
+    Airport.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Hesemann
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    slug: michael-hesemann
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: null
+  date_end: null
+  location_in_record: ch7:419-497
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: bdc7644a-0025-4a61-882c-236d8ed3d035
+  claim_hash: 0c160c0b19ce600c1e3100631317851b7055dfc36a60171dc441ed2de1084049
+  content: During the apparitions at Portugal, Fatima, the Virgin Mary told Lúcia
+    (Fatima seer), Jacinta Marto, and Francisco Marto to say the rosary often.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+    title: Francisco Marto
+    slug: francisco-marto
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+    slug: lucia-fatima-seer
+  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+    title: Jacinta Marto
+    slug: jacinta-marto
+  date: null
+  date_end: null
+  location_in_record: ch7:4367-4399
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 8229ad15-fb1b-4c91-afc7-88bf4cff312c
+  claim_hash: def44265173d53196ebad0363ad22d9e4fac798370da196bc39ed9839da0a5ae
+  content: In November 1999, John Paul II travelled to Portugal to announce the beatification
+    of two of the three children who saw the Fatima vision, before an audience of
+    about a million people and worldwide television cameras.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    slug: john-paul-ii
+  - node_id: 7953205d-7f00-42e5-bd59-5e8891d95fbe
+    title: Beatification of two Fatima seer children (1999-11)
+    slug: beatification-of-two-fatima-seer-children-1999-11
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: b80a9bec-a10d-4214-8fdd-526d14ac171a
+    title: Vatican University visit to announce Fatima beatification (1999-11)
+    slug: vatican-university-visit-to-announce-fatima-beatification-1999-11
+  date: 1999-11
+  date_end: null
+  location_in_record: ch7:6434-6623
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 22c71ab5-06a6-4b80-bd1f-087720ab1cda
+  claim_hash: a50360b34c9fea9ea09ecb475d498d6fe8ec24b590bf1d7b40232e2b517c2ad4
+  content: The Miracle of the Sun on 1917-10-13 was seen even in villages neighbouring
+    Portugal, Fatima, which excludes the possibility of mass hysteria.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Hesemann
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    slug: michael-hesemann
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: a3d7425b-b814-43c7-b4f4-a84328bded4f
+    title: Miracle of the Sun (1917-10-13)
+    slug: miracle-of-the-sun-1917-10-13
+  date: '1917-10-13'
+  date_end: null
+  location_in_record: ch7:8966-9053
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 59bc29b0-2529-4fc7-9d7c-01047b15e84c
+  claim_hash: 4e18f094076728c265dcc44e0a05463bbd4cade6eb43a2cc8616592d721ab921
+  content: At the time of Michael Hesemann's visit, pilgrims had been coming to Portugal,
+    Fatima for approximately eighty years since the events there.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+  provenance_chain:
+    origin_kind: speaker
+    origin: Michael Hesemann
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    slug: michael-hesemann
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: null
+  date_end: null
+  location_in_record: ch7:987-1031
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 4337f455-7a5f-4e54-995a-8b7202a45417
+  claim_hash: c1f7609d029f9ed78379e314ca344afc0986fdc2d87922bef8066decd33c67ad
+  content: June 13 was the feast of Saint Anthony, usually celebrated in Fatima with
+    bell ringing, a colourful procession, and free meals for five hundred people.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: null
+  date_end: null
+  location_in_record: ch9:12811-12961
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: b8fe452e-e0f0-4755-af04-4ed0f457d1c5
+  claim_hash: 7095660b146289db283ccd26483f19de98644e1d283c658abde164172499d492
+  content: Fatima died young, and her husband Gonçalo Hermingues buried her in a little
+    church near a monastery, after which the village where the church stood was named
+    Fatima after her.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 56d21dc9-267c-4642-95d2-02ac311b0a1b
+    title: Fatima (Moorish princess)
+    slug: fatima-moorish-princess
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: ecc2abcc-3696-47c3-990e-201d20bc99b7
+    title: Gonçalo Hermingues
+    slug: goncalo-hermingues
+  date: null
+  date_end: null
+  location_in_record: ch9:1722-2003
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 808eaf13-1ca8-4565-85fd-fe78b9f0e204
+  claim_hash: 544460ebcee34332b29df66db04657a378937ded2b30c9f5c60a347b3fcc6540
+  content: Maria dos Santos Carreira recalled that after the second apparition, people
+    began breaking off twigs from the oak tree, but Lúcia told them to only take ones
+    from the bottom that had not been in contact with the Lady, after which the group
+    prayed the rosary on the way back to Fatima and arrived as the festival procession
+    was being formed.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c6f87671-3082-4c33-9df2-f7230e3bd45d
+    title: Maria dos Santos Carreira
+  provenance_chain:
+    origin_kind: speaker
+    origin: Carreira, Maria dos Santos
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9458c7f2-b311-4f88-bc74-87e232422fad
+    title: Second apparition of Our Lady of Fatima (1917-06-13)
+    slug: second-apparition-of-our-lady-of-fatima-1917-06-13
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+    slug: lucia-fatima-seer
+  - node_id: c6f87671-3082-4c33-9df2-f7230e3bd45d
+    title: Maria dos Santos Carreira
+    slug: maria-dos-santos-carreira
+  date: '1917-06-13'
+  date_end: null
+  location_in_record: ch9:18062-18417
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 25a2edad-b057-402f-91f2-1b8332de3617
+  claim_hash: 4b637743ca13658aaec77a9f88e557b313672b2414f0a4d016309f03835e98e0
+  content: At the beginning of the twentieth century, the village of Fatima together
+    with all the surrounding hamlets had a total population of only about two thousand
+    people.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: null
+  date_end: null
+  location_in_record: ch9:2013-2182
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: ba4ab896-ec58-4b4e-b430-46f17ba17467
+  claim_hash: 527a2313f253f6810270f2600ac97649fa070e3bb355b046ab271c3c217ed1ad
+  content: Fulton Sheen said, referring to the coincidence that a Christian holy place
+    bears the name of the daughter of Mohammed, that nothing comes from heaven that
+    has no meaning.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 278941db-3d8c-4939-855d-7d6fa07e3304
+    title: Fulton Sheen
+  provenance_chain:
+    origin_kind: speaker
+    origin: Sheen, Fulton
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 278941db-3d8c-4939-855d-7d6fa07e3304
+    title: Fulton Sheen
+    slug: fulton-sheen
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: null
+  date_end: null
+  location_in_record: ch9:2337-2442
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: 6eefa135-ff45-4634-a96e-84f941ba1f08
+  claim_hash: d7d83130394c82cd9464ddfb20b88ed74434b1402e73d39566a385d699eee779
+  content: Charles Barzel considers Fatima one of the altars of the world on which
+    the Mother of God calls to both Christian and Islamic communities, in the face
+    of rationalism.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 32a97e95-2fa7-4157-9ed5-bc64f97bf3b4
+    title: Charles Barzel
+  provenance_chain:
+    origin_kind: speaker
+    origin: Barzel, Charles
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 32a97e95-2fa7-4157-9ed5-bc64f97bf3b4
+    title: Charles Barzel
+    slug: charles-barzel
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: null
+  date_end: null
+  location_in_record: ch9:2450-2622
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: f82cf830-cfb3-4566-aec8-550489983028
+  claim_hash: 642c783efa8a64e9815270d7e2415fac87e421bd5f74498ed1bf1faafbd4a603
+  content: The hamlet of Aljustrel, where Lúcia, Jacinta Marto, and Francisco Marto
+    lived, was part of the village of Fatima.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+    title: Francisco Marto
+    slug: francisco-marto
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+    slug: lucia-fatima-seer
+  - node_id: cd675908-4103-4ee7-aba4-a86b3b5a05f8
+    title: Portugal, Aljustrel
+    slug: aljustrel-portugal
+  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+    title: Jacinta Marto
+    slug: jacinta-marto
+  date: null
+  date_end: null
+  location_in_record: ch9:710-839
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+    record_title: The Fatima Secret
+    record_date: '2000-11-28'
+    record_reference: null
+    content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+    friendly_name: 2000-11-28-ebook-the-fatima-secret
+  excerpt_withheld: restricted
+- claim_id: a76da516-8454-4363-8734-2b7316e739c7
+  claim_hash: a4276da28306788b973eff058075c3090e56282c6866a6eafcb76574a21ffbc0
+  content: Fatima involves apparitions of an entity believed to be the Holy Virgin.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallee
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+    title: 1917 Fatima Marian apparitions
+    slug: 1917-fatima-marian-apparitions
+  date: null
+  date_end: null
+  location_in_record: ch15:1326-1420
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 2ff99259-d785-40d6-9ba8-959a1dd69d50
+  claim_hash: 711b9b318b60c75acdbdfede525b2f65baae3f02318db5f4fdbe94ed8e0a7b6c
+  content: In April 1915, when Lucia dos Santos was 8 years old, she was reciting
+    the rosary near Fatima when she saw a transparent white cloud and a human form.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Lucia dos Santos
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: e6f088da-0d55-4b40-bd2f-3db0c66a481c
+    title: 1915-1916 Lucia dos Santos angelic apparitions, Fatima
+    slug: fatima-1915-1916-lucia-dos-santos-angelic-apparitions
+  - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+    title: Lucia dos Santos
+    slug: lucia-dos-santos
+  date: 1915-04
+  date_end: null
+  location_in_record: ch15:13441-13566
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 1c665811-c6b5-42ea-879d-b29a7920d205
+  claim_hash: 4ad6b1f4dc2f9a7f83333eb959f1733bdb88a0480f71617d410d8dd030f4f075
+  content: The 1917 Fatima Marian apparitions occurred near the small Portuguese town
+    of Fatima.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+    title: 1917 Fatima Marian apparitions
+    slug: 1917-fatima-marian-apparitions
+  date: '1917'
+  date_end: null
+  location_in_record: ch15:1494-1587
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 60d94d32-6d6d-4af4-bab0-f0cd784eac17
+  claim_hash: 8d6e0a1ca0b2cdf759ffafec55dea35c2f59c5d00c94c45ff06a0c44afccace5
+  content: Two of the three children who witnessed the apparitions at Fatima died
+    young, as the Lady had predicted, but Lucia dos Santos lived secluded in a convent
+    to an advanced age.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+    title: Francisco Marto
+    slug: francisco-marto
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+    title: Jacinta Marto
+    slug: jacinta-marto
+  - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+    title: Lucia dos Santos
+    slug: lucia-dos-santos
+  date: null
+  date_end: null
+  location_in_record: ch15:21077-21205
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 9ea22b89-d357-415d-9f6e-d867fe840a78
+  claim_hash: aedb293880520b6449023269746bc30c0eb191eceeb93e08077663abfb19d380
+  content: A man Jacques Vallee trusts received a report from one of Pope John XXIII's
+    secretaries, who described introducing senior Church figures into the presence
+    of Pope John XXIII for the opening of the secret part of the Fatima prophecy in
+    1960.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: anonymous
+    origin: one of Pope John XXIII's secretaries
+    relay:
+    - a man Jacques Vallee trusts
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+    title: John XXIII
+    slug: john-xxiii
+  date: '1960'
+  date_end: null
+  location_in_record: ch15:21235-21465
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: 2190433c-199b-4d32-a3f1-8e5a30416c7d
+  claim_hash: 08e31d0cfc6fbb0aa0d4a6d98553c3cc8577e566424b617dce224b08e677a33b
+  content: According to the account relayed to Jacques Vallee, when the cardinals
+    left Pope John XXIII's office after the opening of the secret part of the Fatima
+    prophecy in 1960, they had a look of deep horror on their faces, and one prelate
+    who was approached by the secretary gently pushed him aside and walked on with
+    the expression of someone who had seen a ghost.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: anonymous
+    origin: one of Pope John XXIII's secretaries
+    relay:
+    - a man Jacques Vallee trusts
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+    title: John XXIII
+    slug: john-xxiii
+  date: '1960'
+  date_end: null
+  location_in_record: ch15:21529-21853
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: e0582ebf-6d46-4f67-bdc1-8800ef8a3773
+  claim_hash: 500f7b11ebb339640a944dfd15996b0182032f99e83254c52cc4f7becf42061e
+  content: Lucia dos Santos of Fatima was closely questioned on the point of the wind
+    moving the tree without touching other trees, and stated that the Lady's feet
+    rested lightly on the top of the leaves.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+    title: Lucia dos Santos
+  provenance_chain:
+    origin_kind: named
+    origin: Lucia dos Santos
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+    title: Lucia dos Santos
+    slug: lucia-dos-santos
+  date: null
+  date_end: null
+  location_in_record: ch15:25289-25410
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+    record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered
+      About UFO Influences on the Human Race'
+    record_date: '2014-09-27'
+    record_reference: null
+    content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+    friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  excerpt_withheld: restricted
+- claim_id: eb302515-0951-4dee-95e7-16d47d9cafb6
+  claim_hash: 22e147b9d9fe122eca67b23072d77d58c59ce5a84ab9bb827d261ef6fc179e79
+  content: For millions of Catholics, the apparitions of the Virgin Mary in Fatima,
+    Portugal; in Lourdes, France; and on Mount Tepeyac in Mexico are formative to
+    their faith.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: a1495a3a-6bd9-40d2-ac3d-ff30b5577341
+    title: Mexico, Mount Tepeyac
+    slug: mount-tepeyac-mexico
+  date: null
+  date_end: null
+  location_in_record: ch5:16333-16521
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 9b0fa51e-34c2-4ee2-8147-352029de20a1
+  claim_hash: 93ff50d66a72746e757443f8befd781342ea550d7974e14c2504262a66a97337
+  content: At the sites of Fatima, Lourdes, and Mount Tepeyac, the Virgin Mary has
+    "appeared" at various times, mostly to children.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: a1495a3a-6bd9-40d2-ac3d-ff30b5577341
+    title: Mexico, Mount Tepeyac
+    slug: mount-tepeyac-mexico
+  date: null
+  date_end: null
+  location_in_record: ch5:16528-16607
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: e0eebb82-500a-4c2e-b3ce-6664655da0b0
+  claim_hash: c0fd5fdfe0684cfc34e7d1c6f71c2fd23bbea10d0efd659211622693347d9740
+  content: Apparitions of the Virgin Mary in Fatima, Portugal, Lourdes, France, and
+    on Mount Tepeyac, Mexico became sites of hierophany, places where the sacred touches
+    down upon Earth.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+  provenance_chain:
+    origin_kind: speaker
+    origin: D. W. Pasulka
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+    title: France, Lourdes
+    slug: lourdes-france
+  - node_id: 608e0d14-5063-422d-b774-c278be9ea191
+    title: hierophany
+    slug: hierophany
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: a1495a3a-6bd9-40d2-ac3d-ff30b5577341
+    title: Mexico, Mount Tepeyac
+    slug: mount-tepeyac-mexico
+  date: null
+  date_end: null
+  location_in_record: ch5:16760-16845
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: bfd7d496-54e2-4845-a298-a734470877e1
+  claim_hash: fbf471c8ec52098991260d4e8936048238dfc50b49f5be37ef0401e80bb5bff0
+  content: The Virgin Mary appeared to three poor children in Fatima, Portugal, in
+    1917.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+    title: 1917 Fatima Marian apparitions
+    slug: 1917-fatima-marian-apparitions
+  date: '1917'
+  date_end: null
+  location_in_record: ch5:18727-18894
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 7251a81c-e47f-4b19-8e05-bd3cab3252d8
+  claim_hash: 399dbb6097ec98eaf39b0a830e6a9791534ade617a16b98ca1d0d5743543e0d8
+  content: The Virgin Mary was expected to appear again in Fatima, Portugal on 1917-08-13.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+    title: 1917 Fatima Marian apparitions
+    slug: 1917-fatima-marian-apparitions
+  date: '1917-08-13'
+  date_end: null
+  location_in_record: ch5:19790-19978
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+    record_title: American Cosmic
+    record_date: '2019'
+    record_reference: null
+    content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+    friendly_name: 2019-ebook-american-cosmic
+  excerpt_withheld: restricted
+- claim_id: 0b8698a4-1a98-490c-acbc-d3380183d94d
+  claim_hash: 26c2e810ee50c4cc43a47aa484725dc950d9c2d4ca69d047ef8f1f83d3f64f4d
+  content: Jason Samosa visited Fatima, Portugal recently and took a guided tour of
+    the sites of the 1917 Marian apparitions with his girlfriend at the time.
+  original_excerpt: I went there recently and did a tour. And it was really funny
+    because I went and scheduled this tour with me and my girlfriend at the time.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jason Samosa
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+    title: 1917 Fatima Marian apparitions
+    slug: 1917-fatima-marian-apparitions
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    slug: jason-samosa
+  date: null
+  date_end: null
+  location_in_record: 02:20:23.0-02:20:30.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 18f8ba1c-c1e6-41e2-91ef-3e8b81ee5265
+  claim_hash: 9d7511f23b07ea9c67c2c51d53480991eeb14573fca5f3798dc2248caa4099a5
+  content: The Fatima Marian apparitions began in 1917 in Portugal, when young children
+    reported seeing strange beings and a lady whom no one else could see.
+  original_excerpt: it's a 1917 kind of period in Portugal, a place called Fatima.
+    And these young children start to see strange beings. This lady appears and, you
+    know, no one else can really see this lady.
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: unattributed
+    origin: general historical account
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+    title: Marian apparitions
+    slug: marian-apparitions
+  - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+    title: 1917 Fatima Marian apparitions
+    slug: 1917-fatima-marian-apparitions
+  date: '1917'
+  date_end: null
+  location_in_record: 02:20:47.5-02:20:58.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 7862720e-1980-4227-9e8f-7a52e01eec82
+  claim_hash: 238901c7a6576f0073a62f8df9842145f973118d3bdfcdf546e87d5546f3ea12
+  content: Approximately 70,000 people attended the Miracle of the Sun at Fatima,
+    and newspapers documented the event.
+  original_excerpt: 70,000 people turn up and the newspapers document this and all
+    the history we have shows this.
+  claim_type: measurement
+  attestation: null
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: unattributed
+    origin: general historical account
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 945f1e52-b06d-42ab-99a7-acfa8e7c7b2b
+    title: Miracle of the Sun at Fatima
+    slug: miracle-of-the-sun-at-fatima
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    slug: fatima-portugal
+  date: '1917-10-13'
+  date_end: null
+  location_in_record: 02:21:15.2-02:21:19.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null

@@ -1,0 +1,1111 @@
+schema: anomalica/brief/1
+brief_hash: 6cf1ab14346da614aab7d000745bb0faabde2eb7374fc55311f75224c056801f
+page:
+  kind: entity
+  node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+  node_type: person
+  title: Hereward Carrington
+  slug: hereward-carrington
+  claim_count: 27
+  claim_count_total: 27
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: e7d1f5fb-e4b0-4ad8-b0df-8e75d1585cae
+  title: Eusapia Palladino
+  node_type: person
+  slug: eusapia-palladino
+  shared_claims: 7
+- node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
+  title: physical mediumship
+  node_type: topic
+  slug: physical-mediumship
+  shared_claims: 5
+- node_id: a986d542-e0a5-4868-b26b-63a7a3aac04b
+  title: Everard Feilding
+  node_type: person
+  slug: everard-feilding
+  shared_claims: 3
+- node_id: 36326d20-d570-4ddb-b154-2e9525c1b6c0
+  title: W. W. Baggally
+  node_type: person
+  slug: w-w-baggally
+  shared_claims: 3
+- node_id: 96f9fff2-8d02-44d6-90c7-7d12372f55f1
+  title: John King
+  node_type: person
+  slug: john-king
+  shared_claims: 2
+- node_id: ad93eae6-0acc-4b63-b1ff-3a34db5f2d8d
+  title: discarnate agency hypothesis
+  node_type: topic
+  slug: discarnate-agency-hypothesis
+  shared_claims: 2
+- node_id: bc3f4c43-8a34-493d-98dd-419393017405
+  title: ectoplasm
+  node_type: topic
+  slug: ectoplasm
+  shared_claims: 2
+- node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
+  title: materialization (mediumship phenomenon)
+  node_type: topic
+  slug: materialization-mediumship-phenomenon
+  shared_claims: 2
+- node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+  title: survival hypothesis
+  node_type: topic
+  slug: survival-hypothesis
+  shared_claims: 2
+- node_id: 39422e77-d2f7-4734-b673-0fbc0d0ed864
+  title: 1908 Naples series of sittings with Eusapia Palladino by the Society for
+    Psychical Research "Fraud Squad"
+  node_type: event
+  slug: 1908-naples-series-of-sittings-with-eusapia-palladino-by-the-society-for-psychical-research-fraud-squad
+  shared_claims: 1
+- node_id: ec527113-0912-4b33-81d6-d58f7df79dc1
+  title: After-death communication (after-death communication (ADC))
+  node_type: topic
+  slug: after-death-communication-after-death-communication-adc
+  shared_claims: 1
+- node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+  title: Precognition
+  node_type: topic
+  slug: precognition
+  shared_claims: 1
+- node_id: b38fd0c6-f387-480d-a748-6477450577a5
+  title: Sylvan Muldoon
+  node_type: person
+  slug: sylvan-muldoon
+  shared_claims: 1
+- node_id: 4e7568ef-6505-4df4-97e8-c5ee653fb862
+  title: Séance V of the 1908 Naples sittings with Eusapia Palladino
+  node_type: event
+  slug: seance-v-of-the-1908-naples-sittings-with-eusapia-palladino
+  shared_claims: 1
+- node_id: 089c8f3a-c5fe-405d-a8ce-5df9e3951691
+  title: somatic psi (living-agent psi)
+  node_type: topic
+  slug: somatic-psi-living-agent-psi
+  shared_claims: 1
+- node_id: 2567af72-7bbf-420f-a930-e346565402af
+  title: xenoglossy
+  node_type: topic
+  slug: xenoglossy
+  shared_claims: 1
+claims:
+- claim_id: 189859a3-e864-4468-9a6a-e489a5bede82
+  claim_hash: 08d6035f65149dbda249bcee3876ef35fba3c9c1982c99e6c3c94e498f26badd
+  content: Sylvan Muldoon was the "projectionist" and Hereward Carrington was a consistent
+    researcher in psychic phenomena.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: b38fd0c6-f387-480d-a748-6477450577a5
+    title: Sylvan Muldoon
+    slug: sylvan-muldoon
+  date: null
+  date_end: null
+  location_in_record: ch10:22608-22694
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 290cb507-1cc4-4998-8b53-baef1f63cb8c
+  claim_hash: 86e3005a7dd03a9c4810b7b520ccaaba8b4c91783f3d4e1ed218ca862dbf5f50
+  content: Hereward Carrington had a reputation as one of the keenest investigators
+    in the United States and was also an amateur magician who could reproduce many
+    séance-room phenomena produced by disingenuous mediums.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  date: null
+  date_end: null
+  location_in_record: ch35:15232-15401
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: c7f1065b-05c8-46f9-8582-d17fe0ef8cec
+  claim_hash: 0f2c4b50d3c5504493c0e4be29fe3a2a0eca53ee652087381809d041b592e3fc
+  content: Hereward Carrington attended séances of physical mediums for over thirty-five
+    years.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Eusapia Palladino and Her Phenomena (book by Hereward Carrington)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  date: null
+  date_end: null
+  location_in_record: ch35:15454-15511
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 10e60ee3-7d02-4c85-a8e8-5450b41de4b2
+  claim_hash: cd0dac0b316538dc9bc10ebc50a19d6ed4e95801b3508b5c78c83f69772a3dad
+  content: Hereward Carrington, W. W. Baggally, and Everard Feilding were nicknamed
+    the "Fraud Squad".
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: 36326d20-d570-4ddb-b154-2e9525c1b6c0
+    title: W. W. Baggally
+    slug: w-w-baggally
+  - node_id: a986d542-e0a5-4868-b26b-63a7a3aac04b
+    title: Everard Feilding
+    slug: everard-feilding
+  date: null
+  date_end: null
+  location_in_record: ch35:15783-15840
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 558e2c71-2c58-4c97-b191-1c0626fba924
+  claim_hash: 543b17d94ca2571935bba883e02ccce7eb5ae1e7d834a47e13bc030ff16b5653
+  content: Carrington, Baggally, and Feilding, nicknamed the Fraud Squad, conducted
+    eleven séances with Eusapia Palladino in a room entirely under their control.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: 36326d20-d570-4ddb-b154-2e9525c1b6c0
+    title: W. W. Baggally
+    slug: w-w-baggally
+  - node_id: 39422e77-d2f7-4734-b673-0fbc0d0ed864
+    title: 1908 Naples series of sittings with Eusapia Palladino by the Society for
+      Psychical Research "Fraud Squad"
+    slug: 1908-naples-series-of-sittings-with-eusapia-palladino-by-the-society-for-psychical-research-fraud-squad
+  - node_id: a986d542-e0a5-4868-b26b-63a7a3aac04b
+    title: Everard Feilding
+    slug: everard-feilding
+  - node_id: e7d1f5fb-e4b0-4ad8-b0df-8e75d1585cae
+    title: Eusapia Palladino
+    slug: eusapia-palladino
+  date: '1908'
+  date_end: null
+  location_in_record: ch35:15783-15917
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 8ae4bbd3-4460-42ae-a0d7-73e469671d56
+  claim_hash: 948c0c3bfdc9e65b7473af6bd8ca54478f296756e98741db3207637fc5ee9982
+  content: The great skeptics who investigated Eusapia Palladino documented in their
+    report the progression of their own transformation as they were forced to face
+    the reality of genuine phenomena.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+  provenance_chain:
+    origin_kind: speaker
+    origin: Leslie Kean
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: 36326d20-d570-4ddb-b154-2e9525c1b6c0
+    title: W. W. Baggally
+    slug: w-w-baggally
+  - node_id: a986d542-e0a5-4868-b26b-63a7a3aac04b
+    title: Everard Feilding
+    slug: everard-feilding
+  date: null
+  date_end: null
+  location_in_record: ch35:16670-16859
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: f683f928-333f-48ff-a58c-50a9440aaa8f
+  claim_hash: f5f7b4ab1ec779fca849585528a2f63bca2b873c259952aa3ebbca157f51cbb2
+  content: When Hereward Carrington pushed against the curtains during Séance V, something
+    solid and tangible within the curtain, like a hand, pushed back strongly against
+    his hand.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hereward Carrington
+    relay:
+    - '"Report on a Series of Sittings with Eusapia Palladino"'
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: 4e7568ef-6505-4df4-97e8-c5ee653fb862
+    title: Séance V of the 1908 Naples sittings with Eusapia Palladino
+    slug: seance-v-of-the-1908-naples-sittings-with-eusapia-palladino
+  date: '1908'
+  date_end: null
+  location_in_record: ch35:18294-18497
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: d0701a41-1b65-4846-95f1-5f3ea6902a8f
+  claim_hash: d830c69261a07e0f38b8d546d5e700d36bf1f2632cf309748d154dc3b50d8d43
+  content: Hereward Carrington described John King as supposed to regulate Eusapia
+    Palladino's séances and produce most of the phenomena.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hereward Carrington
+    relay:
+    - Physical Phenomena of Spiritualism (book by Hereward Carrington)
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: 96f9fff2-8d02-44d6-90c7-7d12372f55f1
+    title: John King
+    slug: john-king
+  - node_id: e7d1f5fb-e4b0-4ad8-b0df-8e75d1585cae
+    title: Eusapia Palladino
+    slug: eusapia-palladino
+  date: null
+  date_end: null
+  location_in_record: ch35:18694-18776
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: bf574a15-a156-43c6-a749-2fcb6397a0b5
+  claim_hash: 1b6df69d5d966b3dbe8f6dde74d7be1cbe7cc461d630163262bd658fc9b6dee3
+  content: Hereward Carrington considered the episode where John King contradicted
+    Eusapia Palladino's own wish to end the session as evidence of an external intelligence,
+    differing from that of Eusapia, expressing wishes in direct opposition to her
+    own.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hereward Carrington
+    relay:
+    - Physical Phenomena of Spiritualism (book by Hereward Carrington)
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: 96f9fff2-8d02-44d6-90c7-7d12372f55f1
+    title: John King
+    slug: john-king
+  - node_id: e7d1f5fb-e4b0-4ad8-b0df-8e75d1585cae
+    title: Eusapia Palladino
+    slug: eusapia-palladino
+  date: null
+  date_end: null
+  location_in_record: ch35:19118-19275
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 9968fea6-b21e-4ea1-b65a-63e8799cd6ff
+  claim_hash: b8df5f94e29e007d49358eca416056af8f6623dd957fbc710b30ae58b2220931
+  content: Hereward Carrington, an extreme skeptic who studied Eusapia Palladino,
+    deduced that phenomena showing intelligence, such as materializations, were in
+    a different category from object movements.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
+    title: materialization (mediumship phenomenon)
+    slug: materialization-mediumship-phenomenon
+  - node_id: e7d1f5fb-e4b0-4ad8-b0df-8e75d1585cae
+    title: Eusapia Palladino
+    slug: eusapia-palladino
+  date: null
+  date_end: null
+  location_in_record: ch37:29223-29383
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: d346a351-e5e0-4bb2-93dc-c92345cb8c8e
+  claim_hash: 5e8a77075e1aac6b7d6c0a6a913c15693a5c4884c1808c73a87914b1f80cabb1
+  content: Hereward Carrington wrote that for materializations, since the manifesting
+    entity is not the medium, it must be some external intelligence with a mind and
+    thoughts of its own, and asked what that could be but a spirit.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
+    title: materialization (mediumship phenomenon)
+    slug: materialization-mediumship-phenomenon
+  - node_id: ad93eae6-0acc-4b63-b1ff-3a34db5f2d8d
+    title: discarnate agency hypothesis
+    slug: discarnate-agency-hypothesis
+  date: null
+  date_end: null
+  location_in_record: ch37:29394-29600
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 9dabd3b8-bfd7-4b88-8c65-856da80bb968
+  claim_hash: 6790554ae704592f50eaca4d464f7165f4674c4d0febc3266ac09304798d1f1e
+  content: Hereward Carrington acknowledged living-agent psi as a possible explanation,
+    describing it as some force under the control of the medium's own brain and mind
+    being in operation and not that of any spirit.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 089c8f3a-c5fe-405d-a8ce-5df9e3951691
+    title: somatic psi (living-agent psi)
+    slug: somatic-psi-living-agent-psi
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  date: null
+  date_end: null
+  location_in_record: ch37:29610-29757
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 50688de0-91ff-40de-a39f-d0e090bd06f8
+  claim_hash: 2f75650ebb35b03da0c30a7b8ea974358f72668648d0234136b5db84a557e619
+  content: 'Hereward Carrington listed assumptions underlying his belief that spirits
+    exist: that consciousness persists past physical death, that it retains memory
+    and personal identity, that it first inhabits an astral body of the same shape
+    as the physical body, that it is present in our surroundings and possesses supernormal
+    psychic powers, that it is normally invisible but can become visible and communicate
+    with those present, and that it can only act on the physical world through an
+    intermediary.'
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+    title: survival hypothesis
+    slug: survival-hypothesis
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  date: null
+  date_end: null
+  location_in_record: ch37:29921-30403
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 68456068-9b48-4e4e-bdeb-5f473efd4fa8
+  claim_hash: b7e2cf95142d36349ab493af5b39f69a29fe8162883bc4c98344de049edda12f
+  content: Hereward Carrington considered the intermediary through which a spirit
+    acts on the physical world to be the nervous, vital force of the medium, externalized
+    beyond her body and utilized by the manifesting spirit for the purposes of its
+    manifestation.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: bc3f4c43-8a34-493d-98dd-419393017405
+    title: ectoplasm
+    slug: ectoplasm
+  date: null
+  date_end: null
+  location_in_record: ch37:30418-30583
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 31294bf6-dfc2-40b9-a0c7-52febd68511e
+  claim_hash: 71f29afe475209597bdc13ea89b55d8f29ae691d854dea8f3c547b3fbdc06b7f
+  content: Hereward Carrington considered that by clothing itself with the medium's
+    vital energy (ectoplasm) like a sheath or cloak, the nonphysical intelligence
+    can come in contact with the material world, move material objects, be seen, felt,
+    and even photographed.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: bc3f4c43-8a34-493d-98dd-419393017405
+    title: ectoplasm
+    slug: ectoplasm
+  date: null
+  date_end: null
+  location_in_record: ch37:30599-30826
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 0f75e85f-591e-484a-8513-0bb50fae8a41
+  claim_hash: 5463bafaa3d82a415e7bd3d641e61b31246fa4572ecc5a1fd9d23ced11ca9b4c
+  content: Hereward Carrington considered that postulating an intermediary vital connection
+    between the material and the spiritual worlds explains all the facts observed
+    at séances, and in no other way.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
+    title: physical mediumship
+    slug: physical-mediumship
+  date: null
+  date_end: null
+  location_in_record: ch37:30906-31089
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 13811789-0024-43c3-b0ad-1d8345dbf5a5
+  claim_hash: ae58d7cbb6dc2de23ff488c149e6206ca88abc24147c98f2d265cfba23048148
+  content: Hereward Carrington acknowledged that mediumship phenomena can sometimes
+    manifest spontaneously, as seen with after-death communications (ADC) and apparitions.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: ec527113-0912-4b33-81d6-d58f7df79dc1
+    title: After-death communication (after-death communication (ADC))
+    slug: after-death-communication-after-death-communication-adc
+  date: null
+  date_end: null
+  location_in_record: ch37:31097-31270
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 71bc544d-1e9e-4068-873e-eafb6ae3d43e
+  claim_hash: ec7c9cbfb728f3fddddbea1a5019c1a7b38bcc91c523867ae7222c5b1955e85c
+  content: Hereward Carrington spent ten years investigating physical mediumship and
+    spiritualism.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+  provenance_chain:
+    origin_kind: speaker
+    origin: Leslie Kean
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
+    title: physical mediumship
+    slug: physical-mediumship
+  date: null
+  date_end: null
+  location_in_record: ch37:31279-31367
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 92042cdc-a18c-4fb3-a794-796e3c5c93fe
+  claim_hash: 068e8a19949c6f8440f157baf14697ef4e918997c1b6e59856bfdd6d61f525a5
+  content: Hereward Carrington concluded that when hands, faces, and forms appear,
+    and conversations are carried on with these forms in a language unknown to the
+    medium about matters private and unknown to her, it seems preposterous to attempt
+    to explain these facts in any other way than to admit that a spiritual entity
+    is present and active, and he adopted the spiritistic hypothesis until a better
+    explanation could be found.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2567af72-7bbf-420f-a930-e346565402af
+    title: xenoglossy
+    slug: xenoglossy
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: ad93eae6-0acc-4b63-b1ff-3a34db5f2d8d
+    title: discarnate agency hypothesis
+    slug: discarnate-agency-hypothesis
+  date: null
+  date_end: null
+  location_in_record: ch37:31381-31837
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: b86fd56c-bf71-488f-9701-9c34d5bdcce0
+  claim_hash: 74398a7038c6c8640bef4a2308aa96313565e413a1fa5afac8411152fe40a184
+  content: Hereward Carrington's shift from extreme skepticism to accepting survival
+    was due only to his own personal observations of physical mediumship under controlled
+    conditions, which he could not explain to his satisfaction in any other way.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+  provenance_chain:
+    origin_kind: speaker
+    origin: Leslie Kean
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+    title: survival hypothesis
+    slug: survival-hypothesis
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
+    title: physical mediumship
+    slug: physical-mediumship
+  date: null
+  date_end: null
+  location_in_record: ch37:31851-32082
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 77c7207e-87fc-4830-9efb-9e5aabf0e7a9
+  claim_hash: 8f1f463979514d56d9cd00c069212f9494de73c9f7e2f21121455c231991d2be
+  content: According to Hereward Carrington, Eusapia Palladino's sensitivity to light
+    heightened as the depth of her trance increased.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: named
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: e7d1f5fb-e4b0-4ad8-b0df-8e75d1585cae
+    title: Eusapia Palladino
+    slug: eusapia-palladino
+  date: null
+  date_end: null
+  location_in_record: ch38:9163-9276
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 31d257cd-95f5-4d4f-9740-90cdcba9f1a1
+  claim_hash: a59256484b21cb2fe842cba4126cf4defa36268c26e7d87a4d6b3cff9ad65e47
+  content: Hereward Carrington noted that Eusapia Palladino's phenomena originated
+    inside the closed cabinet, where it was dark.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: named
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: e7d1f5fb-e4b0-4ad8-b0df-8e75d1585cae
+    title: Eusapia Palladino
+    slug: eusapia-palladino
+  date: null
+  date_end: null
+  location_in_record: ch38:9286-9378
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 5b666461-168d-4519-8bd4-81109228a363
+  claim_hash: b00a32deef1d0109e7f790865704754741f3066ac03339f829553ebcae22b739
+  content: Hereward Carrington wrote that phenomena rarely take place in good light
+    outside the curtains, and when they do they are almost invariably telekinetic
+    in character and of simple nature.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: named
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  date: null
+  date_end: null
+  location_in_record: ch38:9385-9556
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 6f99260c-fb46-410b-98eb-833a15fa4c6c
+  claim_hash: a1b2e0a738999b975736220c854e8ce9a58fe7513c5389dba9b63cc5a5e793db
+  content: Hereward Carrington wrote that light rays are extremely energetic and liable
+    to disintegrate and disrupt any excessively fine and subtle body.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: named
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  date: null
+  date_end: null
+  location_in_record: ch38:9563-9671
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: f4ad12f2-4da1-4072-b055-0ba08712475a
+  claim_hash: 1d6055cd58908a936d880318c3d62db6ad15a3e69eb024178ea03868688c7001
+  content: Hereward Carrington considers that severest skeptics are likely to become
+    converted if they stop criticising the reports and sittings of others and go and
+    have sittings themselves.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: named
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  date: null
+  date_end: null
+  location_in_record: ch40:10163-10502
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: b08439f6-1496-4a1f-8ce1-503602ac7c7f
+  claim_hash: e27fd57db2567c96cfe60b3349d479e665dc2118fb612a71dd3723514a97a9b9
+  content: Hereward Carrington was initially highly skeptical of physical mediumship
+    before conducting his investigations.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: named
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
+    title: physical mediumship
+    slug: physical-mediumship
+  date: null
+  date_end: null
+  location_in_record: ch40:9866-9936
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: cfaf376e-10cd-4dc1-9289-eada77f23bdf
+  claim_hash: c14a95afe99f9a5487e7be7ea6a5eab4cbe7287e85d895b3e174162716b58194
+  content: Hereward Carrington did not go to Eusapia Palladino's séances readily prepared
+    to be convinced, but became convinced in what he considered the first case of
+    genuine physical mediumship he had seen during ten years of continuous investigation.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+  provenance_chain:
+    origin_kind: named
+    origin: Hereward Carrington
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+    title: Hereward Carrington
+    slug: hereward-carrington
+  - node_id: c6dcc3c8-56f8-4cd8-b20c-fc24529a60db
+    title: physical mediumship
+    slug: physical-mediumship
+  - node_id: e7d1f5fb-e4b0-4ad8-b0df-8e75d1585cae
+    title: Eusapia Palladino
+    slug: eusapia-palladino
+  date: null
+  date_end: null
+  location_in_record: ch40:9943-10148
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed

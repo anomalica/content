@@ -1,0 +1,192 @@
+schema: anomalica/brief/1
+brief_hash: d48460dd375705b91c798e43ed27d6ed7fde3e2611e674624f737f065f9a485c
+page:
+  kind: entity
+  node_id: ee111058-7e16-4cd8-b753-f6d211bfdde4
+  node_type: organisation
+  title: United States Special Operations Command (USSOCOM)
+  slug: united-states-special-operations-command-ussocom
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+  title: Christopher K. Mellon
+  node_type: person
+  slug: christopher-k-mellon
+  shared_claims: 2
+- node_id: 96f3ca98-65bb-4214-8ce1-d67838e3527a
+  title: Brad Treadway
+  node_type: person
+  slug: brad-treadway
+  shared_claims: 1
+- node_id: bace82a1-a49e-4bab-ba2d-74a141018f49
+  title: D. Scott Mann
+  node_type: person
+  slug: d-scott-mann
+  shared_claims: 1
+- node_id: 644e29ef-25fc-42b8-ae4e-ef7ff26c6fb4
+  title: Naval Special Warfare Group TEN
+  node_type: organisation
+  slug: naval-special-warfare-group-ten
+  shared_claims: 1
+- node_id: 7db42902-b603-4382-beba-c434eec267b9
+  title: Village Stability Operations (VSO)
+  node_type: project
+  slug: village-stability-operations-vso
+  shared_claims: 1
+claims:
+- claim_id: 0bb5dfc7-7291-4e64-8151-493adf3d2d18
+  claim_hash: 00639a059413b9429ccaf1282089729be9a0873ef9426eb2f3d2e91ac100d0c7
+  content: Brad Treadway was Commander of Naval Special Warfare Group TEN within United
+    States Special Operations Command (USSOCOM).
+  original_excerpt: Captain Brad Treadway, Commander, Naval Special Warfare Group
+    TEN, United States Special Operations Command (USSOCOM)
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'Conference Report: Cultural and Linguistic Advancement for Mission Success
+      (DRDC Toronto TN 2012-055)'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 644e29ef-25fc-42b8-ae4e-ef7ff26c6fb4
+    title: Naval Special Warfare Group TEN
+    slug: naval-special-warfare-group-ten
+  - node_id: 96f3ca98-65bb-4214-8ce1-d67838e3527a
+    title: Brad Treadway
+    slug: brad-treadway
+  - node_id: ee111058-7e16-4cd8-b753-f6d211bfdde4
+    title: United States Special Operations Command (USSOCOM)
+    slug: united-states-special-operations-command-ussocom
+  date: null
+  date_end: null
+  location_in_record: char:14948-15060
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9a707eda-ccde-4e3e-a3a7-bc928dcbb59d
+    record_title: 'Conference Report: Cultural and Linguistic Advancement for Mission
+      Success: Enhancing Language, Regional and Cultural Capabilities Across Whole
+      of Government for an Effective COIN Strategy'
+    record_date: 2012-05
+    record_reference: https://apps.dtic.mil/sti/tr/pdf/ADA568628.pdf
+    content_hash: sha256:be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b1fab985b
+    friendly_name: 2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for
+- claim_id: 00e588ba-9b70-4f86-9934-ab22ee35dd38
+  claim_hash: 7dac0fd9d91dcf980ac8f1ff6aa1af3b960b65ced2dece6c0f9d9fce0c0c948f
+  content: Lieutenant Colonel D. Scott Mann was the Village Stability Operations (VSO)
+    Coordinator for United States Special Operations Command (USSOCOM).
+  original_excerpt: Lieutenant Colonel D. Scott Mann, VSO Coordinator United States
+    Special Operations Command (USSOCOM)
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 'Conference Report: Cultural and Linguistic Advancement for Mission Success
+      (DRDC Toronto TN 2012-055)'
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 7db42902-b603-4382-beba-c434eec267b9
+    title: Village Stability Operations (VSO)
+    slug: village-stability-operations-vso
+  - node_id: bace82a1-a49e-4bab-ba2d-74a141018f49
+    title: D. Scott Mann
+    slug: d-scott-mann
+  - node_id: ee111058-7e16-4cd8-b753-f6d211bfdde4
+    title: United States Special Operations Command (USSOCOM)
+    slug: united-states-special-operations-command-ussocom
+  date: null
+  date_end: null
+  location_in_record: char:20323-20419
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 9a707eda-ccde-4e3e-a3a7-bc928dcbb59d
+    record_title: 'Conference Report: Cultural and Linguistic Advancement for Mission
+      Success: Enhancing Language, Regional and Cultural Capabilities Across Whole
+      of Government for an Effective COIN Strategy'
+    record_date: 2012-05
+    record_reference: https://apps.dtic.mil/sti/tr/pdf/ADA568628.pdf
+    content_hash: sha256:be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b1fab985b
+    friendly_name: 2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for
+- claim_id: 162546df-59f6-40fd-85ef-91ed3ac49592
+  claim_hash: e3e43f8e6ee22e46961178e1c1213246a785243bd745a8024ec3bd453ce7ac51
+  content: Christopher Mellon was one of the founding authors and a champion of the
+    bill that established the United States Special Operations Command (SOCOM).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: ee111058-7e16-4cd8-b753-f6d211bfdde4
+    title: United States Special Operations Command (USSOCOM)
+    slug: united-states-special-operations-command-ussocom
+  date: null
+  date_end: null
+  location_in_record: ch31:6837-7070
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 7a1f1e3c-f233-436d-9ac0-68e0426d0f44
+  claim_hash: ad3e3e5e62a1143576ae595c7759aad148c0b9a538b8bda91c40cefa43053372
+  content: Christopher Mellon had to fight long and hard against opponents of the
+    SOCOM bill proposal, including certain commanders who thought a new Combatant
+    Command was unnecessary.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    slug: christopher-k-mellon
+  - node_id: ee111058-7e16-4cd8-b753-f6d211bfdde4
+    title: United States Special Operations Command (USSOCOM)
+    slug: united-states-special-operations-command-ussocom
+  date: null
+  date_end: null
+  location_in_record: ch31:7144-7349
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted

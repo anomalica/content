@@ -1,0 +1,638 @@
+schema: anomalica/brief/1
+brief_hash: 6e6edb6aa98260ed42711b7025d293cd416c839b17b8d3f437dc418356a4fa1a
+page:
+  kind: entity
+  node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+  node_type: person
+  title: Daniel K. Inouye
+  slug: daniel-k-inouye
+  claim_count: 15
+  claim_count_total: 15
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
+  title: Ted Stevens
+  node_type: person
+  slug: ted-stevens
+  shared_claims: 8
+- node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+  title: Harry Reid
+  node_type: person
+  slug: harry-reid
+  shared_claims: 7
+- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+  title: Advanced Aerospace Threat Identification Program (AATIP)
+  node_type: project
+  slug: advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 2
+- node_id: a9438ed9-456e-46b1-b314-e15a27416615
+  title: United States Senate
+  node_type: organisation
+  slug: united-states-senate
+  shared_claims: 2
+- node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+  title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+  node_type: project
+  slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  shared_claims: 1
+- node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+  title: Defense Intelligence Agency (DIA)
+  node_type: organisation
+  slug: defense-intelligence-agency-dia
+  shared_claims: 1
+- node_id: 5faf9fda-f4a6-422e-8be7-b783e756f230
+  title: Iran-Contra scandal
+  node_type: event
+  slug: iran-contra-scandal
+  shared_claims: 1
+- node_id: c95dc873-284b-438f-88d4-19bb5619fa48
+  title: Michael D. Maples
+  node_type: person
+  slug: michael-d-maples
+  shared_claims: 1
+- node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+  title: The Pentagon
+  node_type: organisation
+  slug: the-pentagon
+  shared_claims: 1
+- node_id: c2161b8f-ab11-449c-8521-174024cb0552
+  title: USA, Washington DC, Pentagon
+  node_type: place
+  slug: washington-dc-pentagon-usa
+  shared_claims: 1
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+claims:
+- claim_id: 1110dd2f-6caa-4ef8-a548-ca4c1928a0e5
+  claim_hash: ee173874bf79c9d2282faed9842d9c64e469208226c501315036819f8b2c563a
+  content: Ted Stevens, a former Alaska Republican senator, and Daniel K. Inouye,
+    a former Hawaii Democrat senator, were top members of a defense spending subcommittee
+    and supported the Advanced Aerospace Threat Identification Program (AATIP).
+  original_excerpt: Two other former senators and top members of a defense spending
+    subcommittee — Ted Stevens, an Alaska Republican, and Daniel K. Inouye, a Hawaii
+    Democrat — also supported the program.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+    slug: daniel-k-inouye
+  - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
+    title: Ted Stevens
+    slug: ted-stevens
+  - node_id: a9438ed9-456e-46b1-b314-e15a27416615
+    title: United States Senate
+    slug: united-states-senate
+  date: null
+  date_end: null
+  location_in_record: char:3470-3645
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 8853b14e-db3f-4564-b1ba-76cc75e678d0
+  claim_hash: de78e7eef28bf0d11b89759db03c9df7587646c92d6c6a1fccc0d8d56fce3392
+  content: Daniel K. Inouye died in 2012.
+  original_excerpt: Mr. Stevens died in 2010, and Mr. Inouye in 2012.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+    slug: daniel-k-inouye
+  date: '2012'
+  date_end: null
+  location_in_record: char:3654-3698
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: e76bde1a-361f-4952-bfc0-0d3533a88374
+  claim_hash: 05240250a7df54548fe82f40aed1a8de533ced5e4db3599ebafa901ba060e4c3
+  content: Harry Reid then summoned Ted Stevens and Daniel K. Inouye to a secure room
+    in the Capitol.
+  original_excerpt: Mr. Reid then summoned Mr. Stevens and Mr. Inouye to a secure
+    room in the Capitol.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+  provenance_chain:
+    origin_kind: speaker
+    origin: Reid, Harry
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+    slug: daniel-k-inouye
+  - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
+    title: Ted Stevens
+    slug: ted-stevens
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: null
+  date_end: null
+  location_in_record: char:7520-7594
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 7b9e3b16-62b1-4d9d-88de-0076232201d8
+  claim_hash: f86573a4a9e42dc28a509fd31f575925fd760123ec93d7a7f3dc6363eeab9267
+  content: Harry Reid said the meeting with Ted Stevens and Daniel K. Inouye was one
+    of the easiest meetings he ever had.
+  original_excerpt: The meeting with Mr. Stevens and Mr. Inouye, Mr. Reid said, “was
+    one of the easiest meetings I ever had.”
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+  provenance_chain:
+    origin_kind: speaker
+    origin: Reid, Harry
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+    slug: daniel-k-inouye
+  - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
+    title: Ted Stevens
+    slug: ted-stevens
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: null
+  date_end: null
+  location_in_record: char:8178-8278
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 5bfa6d49-cc16-4c89-a9b5-7c3493d6effb
+  claim_hash: 72caef4e0709e15baf27bf02c74a61ef298139f030302b4f6541b3d98a156515
+  content: None of Harry Reid, Ted Stevens or Daniel K. Inouye wanted a public debate
+    on the Senate floor about the funding for the Advanced Aerospace Threat Identification
+    Program (AATIP).
+  original_excerpt: None of the three senators wanted a public debate on the Senate
+    floor about the funding for the program, Mr. Reid said.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+  provenance_chain:
+    origin_kind: speaker
+    origin: Reid, Harry
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+    slug: daniel-k-inouye
+  - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
+    title: Ted Stevens
+    slug: ted-stevens
+  - node_id: a9438ed9-456e-46b1-b314-e15a27416615
+    title: United States Senate
+    slug: united-states-senate
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: null
+  date_end: null
+  location_in_record: char:8661-8775
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: ffc1ca24-455d-48b5-93d0-3d5f18227e1c
+  claim_hash: 0bc7582445d2fe054a5c5e15a120b6f7596715dd46dfe6f37c4feb9e48e1701d
+  content: Harry Reid said 'This was so-called black money. Stevens knows about it,
+    Inouye knows about it. But that was it, and that's how we wanted it,' referring
+    to the Pentagon budget for classified programs.
+  original_excerpt: “This was so-called black money,” he said. “Stevens knows about
+    it, Inouye knows about it. But that was it, and that’s how we wanted it.” Mr.
+    Reid was referring to the Pentagon budget for classified programs.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+  provenance_chain:
+    origin_kind: speaker
+    origin: Reid, Harry
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+    title: The Pentagon
+    slug: the-pentagon
+  - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+    slug: daniel-k-inouye
+  - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
+    title: Ted Stevens
+    slug: ted-stevens
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: null
+  date_end: null
+  location_in_record: char:8782-8980
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 9cb0750d-1402-4a84-bd24-ddbc4243d2ac
+  claim_hash: 3378e1fbfd389d51d5e848aa2cbeee2f0f1d51e85178a1123be48d87df02b8e0
+  content: Harry Reid approached Senators Daniel Inouye and Ted Stevens to secure
+    $22 million in funding for a study into the UAP mystery.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+    slug: daniel-k-inouye
+  - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
+    title: Ted Stevens
+    slug: ted-stevens
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: null
+  date_end: null
+  location_in_record: ch17:3449-3607
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 13457c3c-0544-42d7-a59d-ded1a977cf8d
+  claim_hash: ef935e75a6e6b0afb46ebaae5644b20b853654e18b084367e77ce063b680e1f1
+  content: Daniel Inouye was a World War Two war hero who died in 2012.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+    slug: daniel-k-inouye
+  date: '2012'
+  date_end: null
+  location_in_record: ch17:3833-3896
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 28b303c0-ff23-4f0b-951a-2c809980290a
+  claim_hash: dedbc9a29490dd145e84cc25ca213d1b2fe7ce7b8e8d2cb554eacb4f1d232614
+  content: Daniel Inouye received the Medal of Honor, the highest US military award,
+    for conspicuous gallantry.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+    slug: daniel-k-inouye
+  date: null
+  date_end: null
+  location_in_record: ch17:3902-3997
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c9cde423-2073-41fd-ac8b-4dd724d2a565
+  claim_hash: a3bb7a3701dd95bea4afc0cbbbed560d266fc4000335157001c6921bffea5f1a
+  content: Daniel Inouye was well known for warning of the risks posed by covert government
+    power.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+    slug: daniel-k-inouye
+  date: null
+  date_end: null
+  location_in_record: ch17:4001-4092
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 05aa27d7-6a48-4bcd-8015-dd64d30430b6
+  claim_hash: 98e83ea7a1320c0ec1e1b8bb8beaee59e82b1559c190a00fc5dfa5c23ea5d967
+  content: During the Iran-Contra Senate investigations into secret US military assistance
+    to Iran and the Nicaraguan Opposition, Daniel Inouye was very critical of those
+    he held culpable for the scandal.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5faf9fda-f4a6-422e-8be7-b783e756f230
+    title: Iran-Contra scandal
+    slug: iran-contra-scandal
+  - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+    slug: daniel-k-inouye
+  date: '1985'
+  date_end: null
+  location_in_record: ch17:4099-4283
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 8c630c86-7a92-4891-acab-ba7ed39658a6
+  claim_hash: 810eb343c42c6f3862f00acfee8ac58988dcd09dad9619643d4c05f9140bdf7a
+  content: Daniel Inouye decried the notion of a shadowy government with its own air
+    force, navy and fundraising mechanism, able to pursue its own ideas of the national
+    interest free from checks and balances and from the law itself, describing it
+    as an elitist vision of government that trusts no one.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+  provenance_chain:
+    origin_kind: speaker
+    origin: Daniel Inouye
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+    slug: daniel-k-inouye
+  date: null
+  date_end: null
+  location_in_record: ch17:4292-4603
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 48783ee1-cc4d-4530-89be-e763adf1c0ee
+  claim_hash: 57fbc9eef02b54698dda958cc71a441827d12609f9ffbb1e929e3d1c1d7efb0a
+  content: The Advanced Aerospace Weapons System Applications Program was supported
+    by then-Director of the Defense Intelligence Agency Lieutenant General Michael
+    D. Maples, and was funded through the efforts of Senator Harry Reid (Democrat,
+    Nevada), Senator Ted Stevens (Republican, Alaska), and Senator Daniel Inouye (Democrat,
+    Hawaii).
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+    title: James Lacatski
+  provenance_chain:
+    origin_kind: speaker
+    origin: James Lacatski
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+    slug: daniel-k-inouye
+  - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
+    title: Ted Stevens
+    slug: ted-stevens
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  - node_id: c95dc873-284b-438f-88d4-19bb5619fa48
+    title: Michael D. Maples
+    slug: michael-d-maples
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: null
+  date_end: null
+  location_in_record: ch9:17304-17583
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 74181370-53a1-4f80-b2f8-310b87b5d908
+  claim_hash: fcb94960d647815472b19df95d8fa23985699b54d2aa12cd140173df15156829
+  content: Daniel Inouye lost an arm while serving in the US military during World
+    War II.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+    slug: daniel-k-inouye
+  date: null
+  date_end: null
+  location_in_record: ch9:18564-18619
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: d44a9df7-70f5-4eac-82a1-fa325abf1e50
+  claim_hash: 47322405d9df0dd055de865c065c5092d8e1c51afc85d6ad7d45b8e4663234cf
+  content: Harry Reid, Ted Stevens, and Daniel Inouye together controlled congressional
+    spending for black-budget Pentagon programs.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+    slug: daniel-k-inouye
+  - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
+    title: Ted Stevens
+    slug: ted-stevens
+  - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+    title: USA, Washington DC, Pentagon
+    slug: washington-dc-pentagon-usa
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: null
+  date_end: null
+  location_in_record: ch9:19229-19315
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted

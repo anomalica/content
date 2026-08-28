@@ -1,0 +1,2197 @@
+schema: anomalica/brief/1
+brief_hash: e4ce4d4be402ad165695716aec172064a5f90ac67ddaec7e8c9810415fcf69f8
+page:
+  kind: entity
+  node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+  node_type: person
+  title: J. Robert Oppenheimer
+  slug: j-robert-oppenheimer
+  claim_count: 54
+  claim_count_total: 54
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+  title: Albert Einstein
+  node_type: person
+  slug: albert-einstein
+  shared_claims: 35
+- node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+  title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+  node_type: document
+  slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+  shared_claims: 4
+- node_id: 71d2e024-d0d7-4058-84b4-232f04103a7b
+  title: Borderland Sciences Research Associates
+  node_type: organisation
+  slug: borderland-sciences-research-associates
+  shared_claims: 3
+- node_id: a842a44b-6a2f-4584-b127-17e404939637
+  title: Eleanor Roosevelt
+  node_type: person
+  slug: eleanor-roosevelt
+  shared_claims: 3
+- node_id: fd9dc67b-4a28-42a7-b447-4b7814580fc4
+  title: Eleanor Roosevelt letter to Robert Oppenheimer, 1950-05-19
+  node_type: document
+  slug: 1950-05-19-eleanor-roosevelt-letter-to-robert-oppenheimer
+  shared_claims: 3
+- node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+  title: USA, New Mexico, Los Alamos
+  node_type: place
+  slug: new-mexico-los-alamos-usa
+  shared_claims: 3
+- node_id: 1b39e286-453b-4bcf-a051-771c436feaf5
+  title: George Marshall
+  node_type: person
+  slug: george-marshall
+  shared_claims: 2
+- node_id: 54ea6105-8f02-4a20-8964-6c93564f2d82
+  title: USA, New Jersey, Princeton
+  node_type: place
+  slug: new-jersey-princeton-usa
+  shared_claims: 2
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 1
+- node_id: cf33763c-c118-4e3c-ae05-21ee0614943e
+  title: Howard Menzel
+  node_type: person
+  slug: howard-menzel
+  shared_claims: 1
+- node_id: 204c1263-8b3f-43f8-bf9b-7e8eea8588a6
+  title: Law Among Planetary Peoples
+  node_type: topic
+  slug: law-among-planetary-peoples
+  shared_claims: 1
+- node_id: e273b6e6-a281-407c-9e14-d463d6f3a4d5
+  title: MJ-12
+  node_type: organisation
+  slug: mj-12
+  shared_claims: 1
+- node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+  title: Manhattan Project
+  node_type: project
+  slug: manhattan-project
+  shared_claims: 1
+- node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+  title: Mars
+  node_type: place
+  slug: mars
+  shared_claims: 1
+- node_id: be0f7797-340f-49e0-a9d2-60eabb4e5d15
+  title: The Crash at Aztec (book by William Steinman)
+  node_type: document
+  slug: the-crash-at-aztec-book-by-william-steinman
+  shared_claims: 1
+- node_id: 2d88d531-67ae-418c-824b-cb18c6fa867c
+  title: Trinity nuclear test
+  node_type: event
+  slug: trinity-nuclear-test
+  shared_claims: 1
+- node_id: 554dfab0-ba18-433c-b995-dcdeca6b8b42
+  title: USA, New Mexico, Kirtland Field
+  node_type: place
+  slug: new-mexico-kirtland-field-usa
+  shared_claims: 1
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 1
+- node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+  title: United Nations (UN)
+  node_type: organisation
+  slug: united-nations-un
+  shared_claims: 1
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 1
+- node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+  title: United States Atomic Energy Commission
+  node_type: organisation
+  slug: united-states-atomic-energy-commission
+  shared_claims: 1
+- node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
+  title: William Steinman
+  node_type: person
+  slug: william-steinman
+  shared_claims: 1
+- node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
+  title: the Moon
+  node_type: place
+  slug: the-moon
+  shared_claims: 1
+claims:
+- claim_id: 5574afe5-bc90-4ab0-bd16-aba6479dc1fd
+  claim_hash: e0513b539dd2bae9e286d84efdd527dc8ba15a8408f573da1122ec71b31d3f6c
+  content: J. Robert Oppenheimer and Albert Einstein foresee military strategists
+    anticipating the use of spacecraft with nuclear warheads as the ultimate weapon
+    of war.
+  original_excerpt: Military strategists foresee the use of space craft with nuclear
+    warheads as the ultimate weapon of war.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:10094-10194
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: bb894a56-71e8-40ae-b319-b3cef368bba8
+  claim_hash: 2262f7abf080b34fe90300925ce753ad4c5858f856cbaa42c11c37d37ad3abcc
+  content: J. Robert Oppenheimer and Albert Einstein state that deployment of artificial
+    satellites for intelligence gathering and target selection is not far off.
+  original_excerpt: Even the deployment of artificial satellites for intelligence
+    gathering and target selection is not far off.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:10199-10303
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 951e710f-c7b0-43c8-aa0c-e927bbbed518
+  claim_hash: a4763d59e0473967dfc590fdceacbe7ecea3cd42c7d2e33bf36f970d9b8154f9
+  content: J. Robert Oppenheimer and Albert Einstein propose that international law
+    should make place for a new law on a different basis, which might be called "Law
+    Among Planetary Peoples," following guidelines found in the Pentateuch.
+  original_excerpt: international law should make place for a new law on a different
+    basis, and it might be called "Law Among Planetary Peoples," following the guidelines
+    found in the Pentateuch
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 204c1263-8b3f-43f8-bf9b-7e8eea8588a6
+    title: Law Among Planetary Peoples
+    slug: law-among-planetary-peoples
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:1023-1187
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 8140cd1a-65bf-4006-b2ee-ef8726448948
+  claim_hash: 91e250c81bfdd3cb3f06842bcedf0b5893b5fad39ed117106e3a2ab5eb4e3c84
+  content: J. Robert Oppenheimer and Albert Einstein argue that space vehicles, satellites
+    and rockets project warfare from the horizontal plane to the vertical plane, meaning
+    attack no longer comes from an exclusive direction or a determined country, making
+    it practically impossible to determine the aggressor, intercept the attack, or
+    effect immediate reprisals.
+  original_excerpt: since they project war from the horizontal plane to the vertical
+    plane in its fullest sense. Attack no longer comes from an exclusive direction,
+    nor from a determined country, but from the sky, with the practical impossibility
+    of determining who the aggressor is, how to intercept the attack, or how to effect
+    immediate reprisals.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:10398-10718
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: bc8a9788-bf07-4d9e-8ac0-ee42610a31ab
+  claim_hash: ad989c65e9f2387690d28edf581c7388145ab890d2c4b79e4fec7a544730992a
+  content: J. Robert Oppenheimer and Albert Einstein state that at present slow-moving
+    bombers are the mode of delivery of atomic bombs, and can be detected by long-range
+    early warning radar.
+  original_excerpt: At present, we can breath a little easier knowing that slow moving
+    bombers are the mode of delivery of atomic bombs that can be detected by long-range
+    early warning radar.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:10877-11042
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: f6b5362d-bbbb-4179-aea5-6acfdc46b011
+  claim_hash: 129ee43dd7019b9acdfd81434006443a78007213bea154c4057728ac685633f7
+  content: J. Robert Oppenheimer and Albert Einstein warn that misidentification of
+    unidentified spacecraft for an intercontinental missile in a re-entry phase of
+    flight could lead to accidental nuclear war with horrible consequences.
+  original_excerpt: One must consider the fact that mis-identification of these space
+    craft for a intercontenental missile in a re-entry phase of flight could lead
+    to accidental nuclear war with horrible consequences.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:11240-11424
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: e6cecce9-a78d-4eca-ba3c-513db594c628
+  claim_hash: 0b917708522cd9bf0230952e8513db55c4bc85ab6e374adee7555d551e4086dd
+  content: J. Robert Oppenheimer and Albert Einstein consider it possible that recent
+    atmospheric atomic tests could have influenced the arrival of celestial scrutiny,
+    and that observers could have been curious or alarmed by such activity.
+  original_excerpt: we should consider the possibility that our atmospheric tests
+    of late could have influenced the arrival of celestial scrutiny. They could have
+    been curious or even alarmed by such activity
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:11447-11627
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 380cc774-f3df-4ffb-8fc3-4bc2ec8371f5
+  claim_hash: 3cf3f2fce93348571f25773279b87cadaf45d4f450bdecebc712a7fdcd016a88
+  content: J. Robert Oppenheimer and Albert Einstein note that the Russians would
+    make every effort to observe and record atmospheric atomic tests.
+  original_excerpt: (and rightly so, for the Russians would make every effort to observe
+    and record such tests)
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:11637-11721
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: a37f570d-adbc-4d7d-bb9f-2f6f206e1ade
+  claim_hash: 913a92662222f567aeb2458067d0b8a343a7e04f55a70776da27ffa773525a13
+  content: J. Robert Oppenheimer and Albert Einstein conclude, as their professional
+    opinion based on submitted data, that the situation regarding celestial spacecraft
+    is extremely perilous and that measures must be taken to rectify a very serious
+    problem.
+  original_excerpt: it is our professional opinion based on submitted data that this
+    situation is extremely perilous, and measures must be taken to rectify a very
+    serious problem are very apparent
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:11745-11937
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 83bc5b13-e3eb-4893-a351-6521f181d563
+  claim_hash: aa54a337b4f596503ee9ac2594764f049e696be1817f3e46ffb72cbae3ca1e4d
+  content: J. Robert Oppenheimer held the title Director of Advanced Studies, based
+    in Princeton, New Jersey.
+  original_excerpt: Dr. J. Robert Oppenheimer / Director of Advanced Studies / Princeton,
+    New Jersey
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 54ea6105-8f02-4a20-8964-6c93564f2d82
+    title: USA, New Jersey, Princeton
+    slug: new-jersey-princeton-usa
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  date: null
+  date_end: null
+  location_in_record: char:11968-12039
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 9127b111-c64a-4424-9caa-347a3d5d8940
+  claim_hash: fdb3abb9c2360a344f1201b47982379d8354020dd9cf3149e03f1cefd9a5691b
+  content: J. Robert Oppenheimer and Albert Einstein consider that revolutionising
+    international law to cope with extraterrestrial relations would require a change
+    so basic that the result could no longer be called international law.
+  original_excerpt: the idea of revolutionizing international law to the point where
+    it would be capable of coping with new situations would compel us to make a change
+    in its structure, a change so basic that it would no longer be international law
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:1210-1435
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 531f746a-35bf-44a9-95da-b66b81375599
+  claim_hash: 1366054257ead5981563e54e2bcc0388ee2042879b51185b914a27db3a3fb041
+  content: An unnamed annotator understood that J. Robert Oppenheimer approached George
+    Marshall while they attended a ceremony, to discuss the document with the President,
+    but Marshall rebuffed the idea.
+  original_excerpt: I understand Oppenheimer approached Marshall while they attended
+    ceremony at {{illegible}} As I understand it Marshall rebuffed the idea of Oppenheimer
+    discussing this with the President.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: anonymous
+    origin: an unnamed annotator relaying an understanding of an encounter between
+      J. Robert Oppenheimer and George Marshall
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1b39e286-453b-4bcf-a051-771c436feaf5
+    title: George Marshall
+    slug: george-marshall
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  date: null
+  date_end: null
+  location_in_record: char:12250-12427
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 4a5267fb-03e2-437a-9e53-8feb20d1b885
+  claim_hash: 57de5dde3dc75b2651bafd00e2c1cd8ad3538fbbf3d51a67cdd120bf031ca395
+  content: J. Robert Oppenheimer and Albert Einstein hold that if intelligent extraterrestrial
+    beings possessed a culture and a political organisation, they would have an absolute
+    right to be recognized as independent and sovereign peoples, requiring an agreement
+    establishing legal regulations for future relationships.
+  original_excerpt: If these intelligent beings were in possession of a more or less
+    culture, and a more or less perfect political organization, they would have an
+    absolute right to be recognized as independent and sovereign peoples
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:1566-1771
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 993b84eb-eb81-4920-95ad-eaa489f26c9e
+  claim_hash: 3f519a1dd0c71afea30f3d7f95e1d5a5358d55415715783510ada52085a1a952
+  content: J. Robert Oppenheimer and Albert Einstein hold that if extraterrestrial
+    beings rejected peaceful cooperation and became an imminent threat to Earth, humanity
+    would have the right to legitimate defence, but only insofar as necessary to annul
+    the danger.
+  original_excerpt: if they should reject all peaceful cooperation and become an imminent
+    threat to the earth, we would have the right to legitimate defense, but only insofar
+    as would be necessary to annul this danger
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:1984-2175
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 3af1b271-9363-4380-a9e8-844468468f3b
+  claim_hash: f49a8ea33d9b69bac181e684aaecf8eff1ecb4588447e79faf2d28ab8b3407f4
+  content: J. Robert Oppenheimer and Albert Einstein raise the possibility that a
+    species of homo sapiens might have established itself as an independent nation
+    on another celestial body in the solar system and evolved culturally independently
+    from humanity on Earth.
+  original_excerpt: Another possibility may exist, that a species of homo sapiens
+    might have established themselves as an independent nation on another celestial
+    body in our solar system and evolved culturely indenpendently from ours
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:2189-2422
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: e13d5a03-a2bc-44a7-aa56-6808be2fc1e7
+  claim_hash: 0eb6d625b8660d2324d5480692ae618c25b119c876237d487b5d9dc6d201a94a
+  content: J. Robert Oppenheimer and Albert Einstein consider that relationships with
+    extraterrestrial men present no basically new problem from the standpoint of international
+    law.
+  original_excerpt: Relationships with extraterrestrial men presents no bascially
+    new problem from the standpoint of international law
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:244-355
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: af83eb16-1d91-42c0-bd7c-4a6e7d5e1f13
+  claim_hash: 8d8fff3a2da35198cc11ce89d26efb1fb48344d4eb4b1f59b149693dfdc9dc1b
+  content: J. Robert Oppenheimer and Albert Einstein hold that living conditions on
+    celestial bodies such as the moon or Mars would need to permit a stable and, to
+    a certain extent economically independent, life for independent settlement to
+    be possible.
+  original_excerpt: living conditions on these bodies lets say the moon, or the planet
+    Mars, would have to be such as to permit a stable, and to a certain extent, independent
+    life, from an economic standpoint
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 6bb57c13-c519-4ac3-947d-23b91e52532e
+    title: the Moon
+    slug: the-moon
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+    title: Mars
+    slug: mars
+  date: null
+  date_end: null
+  location_in_record: char:2634-2812
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: b10c9097-43c5-4304-b44c-38198a612b8b
+  claim_hash: 43ad2ed4b5f5afec4a590253b83204916b957ecb20d13a6f62b1cf94be07c934
+  content: J. Robert Oppenheimer and Albert Einstein consider that confronting intelligent
+    beings that do not belong to the human race would bring up problems whose solution
+    is difficult to conceive.
+  original_excerpt: the possibility of confronting intelligent beings that do not
+    belong to the human race would bring up problems whose solution it is difficult
+    to conceive
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:364-509
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 121c3d70-f25e-4901-b405-07c0b9475db5
+  claim_hash: 6b72da827b7119b8d5fbfa5bb35273ed55891b848553959d3fde6be1716c9a46
+  content: J. Robert Oppenheimer and Albert Einstein hold that if no existence is
+    possible on celestial bodies except for extraction enterprises requiring continuous
+    interchange of workers unable to live there indefinitely, independence of a settlement
+    on such a body will never take place.
+  original_excerpt: if no existence is possible on celestial bodies except for enterprises
+    for the exploration of their natural riches, with a continuous interchange of
+    the men who work on them, unable to establish themselves there indefinitely and
+    be able to live isolated life, independence will never take place
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:3668-3957
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 46baedc3-4a0c-42ba-8bd6-151f29d3583d
+  claim_hash: 610031bb401cfe233b356ab10d19f33bea1f0ac4b45888c7c05202bd056c62d4
+  content: J. Robert Oppenheimer and Albert Einstein consider that there is no principled
+    difficulty in accepting the possibility of coming to an understanding with extraterrestrial
+    beings and establishing relationships with them, but that the difficulty lies
+    in establishing the principles on which those relationships should be based.
+  original_excerpt: In principle, there is no difficulty in accepting the possibility
+    of coming to an understanding with them, and of establishing all kinds of relationships.
+    The difficulty lies in trying to establish the principles on which these relationships
+    should be based.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:520-772
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 3b339865-7c66-483b-8de4-5209af0f7640
+  claim_hash: d90b29cc5ef9958c919e25dd1b7fa792417749636af6c841324351165974ba71
+  content: J. Robert Oppenheimer and Albert Einstein state that it is difficult to
+    predict the attitude of international law toward occupation by celestial peoples
+    of locations on Earth, but foresee a profound change in traditional legal concepts.
+  original_excerpt: It is difficult to predict what the attitude of international
+    law will be with regard to the occupation by celestial peoples of certain locations
+    on our planet, but the only thing that can be foreseen is that there will be a
+    profound change in traditional concepts.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:5659-5915
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 38f52854-fe58-4653-8576-d64a9966dc94
+  claim_hash: b72fd9b83b9273329b83ac2e7051b8288c05bc166b79b9a93364560c2640d459
+  content: J. Robert Oppenheimer and Albert Einstein raise the possibility that a
+    technologically and economically more advanced extraterrestrial race may take
+    upon itself the right to occupy another celestial body.
+  original_excerpt: We cannot exclude the possibility that a race of extraterrstrial
+    people more advanced technologically and economically may take upon itself the
+    right to occupy another celestial body.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:5926-6104
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: ffefe886-68d2-4e6f-8094-5118ce1903bd
+  claim_hash: 32e84f321588da9b411e49be7e56d82a7b263686fdda28872d61cf009d7be60f
+  content: J. Robert Oppenheimer and Albert Einstein describe division of a celestial
+    body into zones distributed among celestial states as one possible model of occupation,
+    noting it would raise problems of distribution and could deprive some states of
+    the possibility of owning an area.
+  original_excerpt: The division of a celestial body into zones and the distribution
+    of them among other celestial states. This would present the problem of distribution.
+    Moreover, other celestial states would be deprived of the possibility of owning
+    an area, or if they were granted one it would involve complicated operations.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:6410-6707
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 3539a848-70ef-46be-8a6e-2b72b11da85f
+  claim_hash: d2fc98d805226f9a98e330eda200c799d451d8688760e4198f72fb41914597b1
+  content: J. Robert Oppenheimer and Albert Einstein describe indivisible co-sovereignty,
+    giving each celestial state the right to use a celestial body as convenient to
+    its own interests, as a model that would create a situation of anarchy in which
+    the strongest state would win out.
+  original_excerpt: Indivisible co-sovereignty, giving each celestial state the right
+    to make whatever use is most convenient to its interests, independently of the
+    others. This would create a situation of anarchy, as the strongest one would win
+    out in the end.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:6723-6960
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 8e7ad175-7b41-47b0-a373-98c20051c88f
+  claim_hash: fbb0a2b2c3fdc3d70b93454e55c4e87d8608bc214d8eff0540dcac2f908f25ea
+  content: J. Robert Oppenheimer and Albert Einstein consider that the most feasible
+    solution would be an agreement providing for the peaceful absorption of a celestial
+    race in a manner that keeps human culture intact and guarantees that the presence
+    of the celestial race is not revealed.
+  original_excerpt: submitt an agreement providing far the peaceful absorbtion of
+    a celestial race(s) in such a manner that our culture would remain intact with
+    guarantees that their presence not be revealed
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:7063-7242
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 2f5bbd4d-5db8-41a2-8010-0cbcd92e6e97
+  claim_hash: 1ac7c11eb3bffdd284518092df56effeb4f5082eaea23180484b535f9d9d7381
+  content: J. Robert Oppenheimer and Albert Einstein state that they do not believe
+    it necessary to go as far as concealment, proposing instead an international treaty
+    instrument internationalising celestial peoples and preventing their exploitation
+    by United Nations (UN) member states.
+  original_excerpt: Actually, we do not believe it necessary to go that far. It would
+    merely be a matter of internationalizing celestial peoples, and creating an international
+    treaty intsrument preventing exploitation of all nations belonging to the United
+    Nations.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+    title: United Nations (UN)
+    slug: united-nations-un
+  date: null
+  date_end: null
+  location_in_record: char:7253-7490
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: b62fdc47-3b9c-45d1-a196-0cb85140482a
+  claim_hash: c4a4be66587d872f67e3987fc48b289af39d7436c13a0e9e6a3b6562b82e1adb
+  content: J. Robert Oppenheimer and Albert Einstein note that until the last century
+    occupation was the normal means of acquiring sovereignty over territories when
+    exploration made possible the discovery of new, uninhabited, or elementary-state
+    regions.
+  original_excerpt: Until the last century, occupation was the normal means of acquiring
+    sovereignty over territories, when explorations made possible the discovery of
+    new regions, either unihabited or in an elementary state of civilization.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:7783-7991
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: ed180747-a595-48d1-a0f2-df0827623087
+  claim_hash: 9d6800f8a1126c5d9ae620c471e1396ed4578ac7bf55f14503a9e7fee5f1f0da
+  content: J. Robert Oppenheimer and Albert Einstein consider that establishing communication
+    with extraterrestrial beings through some language would be necessary as a first
+    condition, along with the beings having a psychology similar to that of humans.
+  original_excerpt: it would be necessary to establish communication with them through
+    some language or other, and afterwards, as a first condition for all intelligence,
+    that they should have a psychology similar to that of men
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:800-1004
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 67a6cfaf-8eee-40be-985d-41bf9e6411ad
+  claim_hash: e214163a22b5c345b40e62242e7afd4dbf3df02953e694a1bbcad16be9c182ce
+  content: J. Robert Oppenheimer and Albert Einstein state that the imperialist expansion
+    of states on Earth came to an end with the exhaustion of occupiable regions, which
+    now exist only in interplanetary space, where celestial states present new problems.
+  original_excerpt: The imperialist expansion of the states came to an end with the
+    end of regions capable of being occupied, which have now been drained from the
+    earth and exist only in interplanetary space, where the celestial states present
+    new problems.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:8006-8234
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 33785340-4e56-4003-820d-dc1d06a28f0c
+  claim_hash: a1c9f21f6d756e8108d5e1e380bf58c948e8ebc33fdd46adf6df2e1e2adfbf0f
+  content: J. Robert Oppenheimer and Albert Einstein raise the question of whether
+    the presence of celestial astroplanes in Earth's atmosphere is a direct result
+    of atomic weapons testing.
+  original_excerpt: And now to the final question of whether the presence of celestial
+    astroplanes in our atmosphere is a direct result of our testing atomic weapons?
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:8810-8948
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 88c8fa8f-54da-42ec-ae38-030de8a4d4f3
+  claim_hash: 87a45ce92913e7af208f7f9c3f44bb2c4f4b3c1f0d8d2731bfa78147a87e86d3
+  content: J. Robert Oppenheimer and Albert Einstein state that the presence of unidentified
+    spacecraft flying in Earth's atmosphere, and possibly maintaining orbits about
+    the planet, is accepted as de facto by the US military.
+  original_excerpt: The presence of unidentified space craft flying in our atmosphere
+    (and possibly maintaining orbits about our planet) is now, however, accepted as
+    de facto by our military.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:8958-9120
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 3d2cd4c7-9cc5-47b7-8650-82bbb2cc9469
+  claim_hash: 89fc030e558a08736cffee385e5aceb83ec787d88d81d9813c54e4364e2984c5
+  content: J. Robert Oppenheimer and Albert Einstein observe that attempts to reach
+    an agreement on continued testing of fission bombs, development of fusion (hydrogen)
+    bombs, and disarmament have been doomed to failure, with the exception of an agreement
+    reached on chemical warfare.
+  original_excerpt: On every question of whether the United States will continue testing
+    of fission bombs and develop fusion devices (hydrogen bombs), or reach an agreement
+    to disarm and the exclusion of weapons that are too destructive, with the exception
+    of chemical warfare, on which, by some miracle we cannot explain, an agreement
+    has been reached, the lamentations of philosophers, the efforts of politicians,
+    and the conferences of diplomats have been doomed to failure and have accomplished
+    nothing.
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:9154-9633
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 852024f3-eed3-477d-afde-6a89b002c11f
+  claim_hash: 173ffa02538fad5051188011eecf2c9c0938d7db5b455bf11fa6910549c54599
+  content: J. Robert Oppenheimer and Albert Einstein state that the combination of
+    atomic bombs and space vehicles poses a threat requiring an agreement, and that
+    the appearance of unidentified space vehicles over the skies of Europe and the
+    United States has sustained an ineradicable fear and anxiety about security among
+    the great powers.
+  original_excerpt: The use of the atomic bomb combined with space vehicles poses
+    a threat on a scale which makes it absolutely necessary to come to an agreement
+    in this area. With the appearance of unidentified space vehicles (opinions are
+    sharply divided as to their origin) over the skies of Europe and the United States
+    has sustained an ineradical fear, an anxiety about security, that is driving the
+    great powers to make an effort to find a solution to the threat.
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  date: null
+  date_end: null
+  location_in_record: char:9643-10085
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: c50337d3-2a70-4a9b-b9d4-82ebbe04b054
+    record_title: Relationships with Inhabitants of Celestial Bodies
+    record_date: 1947-06
+    record_reference: null
+    content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
+    friendly_name: null
+- claim_id: 99ba3719-4c3a-4646-a143-5f1c35988b67
+  claim_hash: 810eecdf01300709504fe17cf1d56dbc4ebe0a58ce0f1f7dd9158ad15bb0b64d
+  content: The Relationships with Inhabitants of Celestial Bodies was allegedly written
+    in June 1947 by Albert Einstein and J. Robert Oppenheimer.
+  original_excerpt: today we're going to be reading through a document that was allegedly
+    written in 1947 by none other than Albert Einstein and Robert Oppenheimer... This
+    document is titled The Relationships with Inhabitants of Celestial Bodies... because
+    this was written in June 1947
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+  date: 1947-06
+  date_end: null
+  location_in_record: 00:01:00.0-00:01:16.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 53713bdb-ece7-45d3-a75f-48cae69e6972
+  claim_hash: 9ba71012f34c5c72422ee4047a25d62835800a567395922de76642c3793e61d8
+  content: J. Robert Oppenheimer served as chairman of the Atomic Energy Commission.
+  original_excerpt: Oppenheimer was actually a key figure and served as chairman of
+    the Atomic Energy Commission.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+    title: United States Atomic Energy Commission
+    slug: united-states-atomic-energy-commission
+  date: null
+  date_end: null
+  location_in_record: 00:09:57.8-00:10:02.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 4c3c671f-0fff-41aa-b2b5-855a1dd7e8fc
+  claim_hash: d935af98a9e6a3808663503afca9f36317e07a71b2c8042cbf636423e1671da2
+  content: J. Robert Oppenheimer was part of the Manhattan Project, in which the world's
+    leading physicists secretly worked together to create the atomic bomb.
+  original_excerpt: we all know Oppenheimer was part of the Manhattan Project where,
+    you know, secretly the world's best physicists got together to create the atomic
+    bomb.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    slug: manhattan-project
+  date: null
+  date_end: null
+  location_in_record: 00:10:26.5-00:10:35.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: c10b8b47-09ac-4579-8d3c-03aa3f22d7e1
+  claim_hash: 39d14d45f1157267f4a934f5c02de761eacebe65b02de471bb50de4666079fcb
+  content: On 1950-05-19, Eleanor Roosevelt wrote a letter to J. Robert Oppenheimer.
+  original_excerpt: on May 19th in 1950, she wrote a letter to Robert Oppenheimer.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: a842a44b-6a2f-4584-b127-17e404939637
+    title: Eleanor Roosevelt
+    slug: eleanor-roosevelt
+  - node_id: fd9dc67b-4a28-42a7-b447-4b7814580fc4
+    title: Eleanor Roosevelt letter to Robert Oppenheimer, 1950-05-19
+    slug: 1950-05-19-eleanor-roosevelt-letter-to-robert-oppenheimer
+  date: '1950-05-19'
+  date_end: null
+  location_in_record: 00:11:22.8-00:11:26.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 71d8774d-6263-41cd-b7eb-73000fc1fe00
+  claim_hash: 907d2dffb1da7303f11a115a3dd0cdc5bf2393d59a9b87ea47413308bef40707
+  content: In her letter of 1950-05-19 to J. Robert Oppenheimer, Eleanor Roosevelt
+    sought his opinion on the enclosed materials and asked, "will you please tell
+    me what you know about the enclosed?"
+  original_excerpt: she sought Oppenheimer's opinion on the matter. She asks, will
+    you please tell me what you know about the enclosed?
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: a842a44b-6a2f-4584-b127-17e404939637
+    title: Eleanor Roosevelt
+  provenance_chain:
+    origin_kind: document
+    origin: Eleanor Roosevelt letter to Robert Oppenheimer, 19 May 1950
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: a842a44b-6a2f-4584-b127-17e404939637
+    title: Eleanor Roosevelt
+    slug: eleanor-roosevelt
+  - node_id: fd9dc67b-4a28-42a7-b447-4b7814580fc4
+    title: Eleanor Roosevelt letter to Robert Oppenheimer, 1950-05-19
+    slug: 1950-05-19-eleanor-roosevelt-letter-to-robert-oppenheimer
+  date: '1950-05-19'
+  date_end: null
+  location_in_record: 00:11:42.7-00:11:48.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: ad811e34-c790-4af9-90ee-d3705c2871d5
+  claim_hash: a9660fa0339fee5235d2c79536b166393885f111d3efb114a5c89edbe5e177fb
+  content: In his reply letter of 1950-05-19 to Eleanor Roosevelt, J. Robert Oppenheimer
+    wrote that Mr. Schultz had sent her a letter along with mimeographed material
+    from the Borderland Sciences Research Associates.
+  original_excerpt: You sent me a letter to you from Mr. Schultz and some mimeographed
+    material from the Borderland Sciences Research Associates, and you asked me what
+    I knew about it.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+  provenance_chain:
+    origin_kind: speaker
+    origin: J. Robert Oppenheimer
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 71d2e024-d0d7-4058-84b4-232f04103a7b
+    title: Borderland Sciences Research Associates
+    slug: borderland-sciences-research-associates
+  - node_id: a842a44b-6a2f-4584-b127-17e404939637
+    title: Eleanor Roosevelt
+    slug: eleanor-roosevelt
+  date: '1950-05-19'
+  date_end: null
+  location_in_record: 00:12:04.1-00:12:14.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: b297dcc1-f0e0-4fa0-a9d3-f10bcc32fa0a
+  claim_hash: e3b6ab95bed0ee120d25f97ebbf3c7cabdd60a2153d8525524faec3e4f34e2a7
+  content: In his 1950-05-19 reply to Eleanor Roosevelt, J. Robert Oppenheimer said
+    he knew nothing whatever about the Borderland Sciences Research Associates or
+    the men who comprised it, not even by reputation.
+  original_excerpt: The only honest answer is that I know nothing, whatever. Neither
+    the Borderland Associates nor the man who comprise it are known to me, even by
+    reputation.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+  provenance_chain:
+    origin_kind: speaker
+    origin: J. Robert Oppenheimer
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 71d2e024-d0d7-4058-84b4-232f04103a7b
+    title: Borderland Sciences Research Associates
+    slug: borderland-sciences-research-associates
+  date: '1950-05-19'
+  date_end: null
+  location_in_record: 00:12:14.5-00:12:23.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 42e3dfee-753c-4e96-af00-630ac1391a05
+  claim_hash: 5dc1dd273dca34bca904d53cb6004108a3804422452161319c1104ecfb9a552a
+  content: In his 1950-05-19 letter, J. Robert Oppenheimer described the Borderland
+    Sciences Research Associates papers as attempting to explain flying disks while
+    assuming such things existed, an assumption he said he did not believe.
+  original_excerpt: The papers all deal with an attempted explanation of the flying
+    disks. And they all start with the assurance that there were such things. This,
+    of course, I do not believe.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+  provenance_chain:
+    origin_kind: speaker
+    origin: J. Robert Oppenheimer
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 71d2e024-d0d7-4058-84b4-232f04103a7b
+    title: Borderland Sciences Research Associates
+    slug: borderland-sciences-research-associates
+  date: '1950-05-19'
+  date_end: null
+  location_in_record: 00:12:24.2-00:12:32.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: cf9b144b-958f-4a76-9fe5-3d9d76a8c86f
+  claim_hash: 2fe9dcb3d108392171b99bef2cb625817e6cf0b5af6ea8550a5cf200be2d054b
+  content: In his 1950-05-19 letter, J. Robert Oppenheimer wrote that some solemn
+    attempts had been made to see whether there were physical happenings corresponding
+    to the many reports of flying disks, that the press had reported the Air Force
+    made such an investigation, and that there was not any credible evidence.
+  original_excerpt: Some very solemn attempts were made to see whether there are any
+    physical happenings corresponding to the many reports of flying disks. It has
+    been reported in the press that the Air Force has made such an investigation.
+    There is not any credible evidence.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+  provenance_chain:
+    origin_kind: speaker
+    origin: J. Robert Oppenheimer
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  date: '1950-05-19'
+  date_end: null
+  location_in_record: 00:12:33.4-00:12:45.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 698d5d73-de79-4b65-a315-43da15a40c02
+  claim_hash: 86a145c7b4ee61e5038f8e2fd4c82abdb48ce7b586eb599ac0b7e2241b7e4bfa
+  content: In his 1950-05-19 letter to Eleanor Roosevelt, J. Robert Oppenheimer recounted
+    that shortly before the Trinity nuclear test, people at Los Alamos were in a state
+    of tension, and one morning almost the whole project staff went outdoors to stare
+    at a bright object in the sky through binoculars and other optical instruments.
+  original_excerpt: During the war, very shortly before the test of the first atomic
+    bomb, people at Los Alamos were naturally in a state of some tension. I remember
+    one morning when almost the whole project was out of the doors. staring at a bright
+    object in the sky through glasses, binoculars, and whatever else they could find.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+  provenance_chain:
+    origin_kind: speaker
+    origin: J. Robert Oppenheimer
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2d88d531-67ae-418c-824b-cb18c6fa867c
+    title: Trinity nuclear test
+    slug: trinity-nuclear-test
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+    title: USA, New Mexico, Los Alamos
+    slug: new-mexico-los-alamos-usa
+  date: '1950-05-19'
+  date_end: null
+  location_in_record: 00:13:07.4-00:13:24.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 457a30ad-8a49-4faf-a947-dcf68daa593d
+  claim_hash: 3e557604379e87dc539f7522e1867fd1a83e828344b3ef1693cda49bfa8647ec
+  content: In his 1950-05-19 letter, J. Robert Oppenheimer said Kirtland Field reported
+    to Los Alamos that they had no interceptors able to come within range of the bright
+    object in the sky.
+  original_excerpt: A nearby Kirtland Field reported to us that they had no interceptors
+    which had enabled them to come within range of the object.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+  provenance_chain:
+    origin_kind: speaker
+    origin: J. Robert Oppenheimer
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 554dfab0-ba18-433c-b995-dcdeca6b8b42
+    title: USA, New Mexico, Kirtland Field
+    slug: new-mexico-kirtland-field-usa
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+    title: USA, New Mexico, Los Alamos
+    slug: new-mexico-los-alamos-usa
+  date: '1950-05-19'
+  date_end: null
+  location_in_record: 00:13:25.2-00:13:31.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: c2b22c21-18ba-4438-b1f3-1e1d807898a4
+  claim_hash: bb1914394216a623d9418e48ac1ee3a2098c32667939b726e00fea1fc3a8feb3
+  content: In his 1950-05-19 letter, J. Robert Oppenheimer recounted that the Los
+    Alamos director of personnel, an astronomer, eventually asked him whether they
+    could stop trying to shoot down Venus.
+  original_excerpt: Our director of personnel was an astronomer and a man of some
+    human wisdom. And he finally came to my office and asked whether we could stop
+    trying to shoot down Venus.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+  provenance_chain:
+    origin_kind: speaker
+    origin: J. Robert Oppenheimer
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+    title: USA, New Mexico, Los Alamos
+    slug: new-mexico-los-alamos-usa
+  date: '1950-05-19'
+  date_end: null
+  location_in_record: 00:13:32.1-00:13:42.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 94c94ed8-a71f-41e0-a7a9-437d03a429b9
+  claim_hash: 9c64032fb5e00327e0d1ae95d43f2fdb8e055038aabd7243cd70cd56e4fc2957
+  content: In his 1950-05-19 letter, J. Robert Oppenheimer said the episode showed
+    that even a group of scientists is not proof against the airs of suggestion and
+    hysteria.
+  original_excerpt: I tell this story only to indicate that even a group of scientists
+    is not proof against the heirs of suggestion and hysteria.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+  provenance_chain:
+    origin_kind: speaker
+    origin: J. Robert Oppenheimer
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  date: '1950-05-19'
+  date_end: null
+  location_in_record: 00:13:43.3-00:13:48.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: cd35a117-b573-46f7-9e49-cec9cd24dfa7
+  claim_hash: 32833dc814dcf27f325d8d9bceab44201832e4faec46ac8f5869d5174df89498
+  content: Chris Ramsey suggested the astronomer described in J. Robert Oppenheimer's
+    1950 letter to Eleanor Roosevelt was probably the debunker and MJ-12 founding
+    member Howard Menzel.
+  original_excerpt: that prominent astronomer that he's referring to is probably none
+    other than the famed debunker and MJ-12 founding member Howard Menzel.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: cf33763c-c118-4e3c-ae05-21ee0614943e
+    title: Howard Menzel
+    slug: howard-menzel
+  - node_id: e273b6e6-a281-407c-9e14-d463d6f3a4d5
+    title: MJ-12
+    slug: mj-12
+  - node_id: fd9dc67b-4a28-42a7-b447-4b7814580fc4
+    title: Eleanor Roosevelt letter to Robert Oppenheimer, 1950-05-19
+    slug: 1950-05-19-eleanor-roosevelt-letter-to-robert-oppenheimer
+  date: null
+  date_end: null
+  location_in_record: 00:14:19.5-00:14:27.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 3686158e-b007-4c0c-af4b-23373b470d47
+  claim_hash: 7c2e36410f24f095b2ecb2b27e7949c68bf144425186cfd5440aa5bd772579c3
+  content: William Steinman's book The Crash at Aztec briefly mentions J. Robert Oppenheimer
+    as tangentially related to the 1947 Aztec, New Mexico UFO crash and suggests he
+    might have been part of a crash retrieval team.
+  original_excerpt: the crash at aztec by steinman he does briefly mention oppenheimer
+    being tangentially related to this somehow and suggests that he might have even
+    been part of a crash retrieval team
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: document
+    origin: The Crash at Aztec (book by William Steinman)
+    relay:
+    - Chris Ramsey's narration
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
+    title: William Steinman
+    slug: william-steinman
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: be0f7797-340f-49e0-a9d2-60eabb4e5d15
+    title: The Crash at Aztec (book by William Steinman)
+    slug: the-crash-at-aztec-book-by-william-steinman
+  date: null
+  date_end: null
+  location_in_record: 00:15:04.1-00:15:14.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 6f59dab2-bdc8-481c-8d30-bd6b14bc2a9a
+  claim_hash: 97cb8e53a6ede56b682601d4642c87862f6fa53d2a531d038c8dbcabdfc1e632
+  content: Chris Ramsey considers the claim in The Relationships with Inhabitants
+    of Celestial Bodies (1947 document), attributed to J. Robert Oppenheimer and Albert
+    Einstein, that unidentified spacecraft presence was accepted as de facto by the
+    military, to be a bold claim, if true.
+  original_excerpt: That's a bold claim by Oppenheimer and Einstein right there, if
+    true.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+  date: null
+  date_end: null
+  location_in_record: 00:28:58.5-00:29:02.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: fe4802d5-2e4c-4724-963b-bed7dce381af
+  claim_hash: 326971cf0311e73898ec43646b0d92857c3efcbc6288141eede832f0c91ba3a6
+  content: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    is signed by Dr. J. Robert Oppenheimer, Director of Advanced Studies at Princeton,
+    and Professor Albert Einstein of Princeton.
+  original_excerpt: Respectfully, Dr. J. Robert Oppenheimer, Director of Advanced
+    Studies at Princeton, and Professor Albert Einstein, Princeton.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    relay:
+    - Chris Ramsey reading the document aloud
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 54ea6105-8f02-4a20-8964-6c93564f2d82
+    title: USA, New Jersey, Princeton
+    slug: new-jersey-princeton-usa
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+  date: null
+  date_end: null
+  location_in_record: 00:34:22.1-00:34:28.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: e2c13489-9c0a-4de6-9875-55caa83c8fea
+  claim_hash: 20e0c3f9871762fc0ff1d96259ebb9444680a92db9907eb477a8931f7e31cc02
+  content: A recorded response beneath The Relationships with Inhabitants of Celestial
+    Bodies (1947 document) states that George Marshall rebuffed the idea of J. Robert
+    Oppenheimer discussing the document's contents with the President.
+  original_excerpt: marshall rebuffed the idea of oppenheimer discussing this with
+    the president
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    relay:
+    - Chris Ramsey reading the document aloud
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1b39e286-453b-4bcf-a051-771c436feaf5
+    title: George Marshall
+    slug: george-marshall
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+  date: null
+  date_end: null
+  location_in_record: 00:34:53.6-00:34:57.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 378a0776-7bf7-40c3-a21e-8f5cfa3e00fe
+  claim_hash: 86ac6dde043e60a97124295c5a41d1b7603bde293ab6f66981fd744e609b084b
+  content: Chris Ramsey considers J. Robert Oppenheimer possibly more involved in
+    the Unidentified Aerial Phenomena (UAP) or Unidentified Flying Object (UFO) subject
+    than Albert Einstein was.
+  original_excerpt: I think I would find that Oppenheimer... would be possibly more
+    involved in the UAP or UFO subject than Albert Einstein was.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    slug: albert-einstein
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  date: null
+  date_end: null
+  location_in_record: 00:35:58.9-00:36:12.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 7c77390a-cc78-422d-826c-b5108e1e2634
+  claim_hash: b665207f900a7ed3fa3f0ac974d313daed6a2c6543eebe74afebecab4a2a720d
+  content: Chris Ramsey notes that J. Robert Oppenheimer was brought before a hearing
+    for apparently speaking with the enemy, and speculates whether the stripping of
+    his security clearance was a front while he was reverse-engineering craft.
+  original_excerpt: Oppenheimer was brought into court for apparently speaking with
+    the enemy... was that a front to you know when his security clearances were stripped
+    was that just a front while he was sort of backdoor reverse engineering these
+    crafts and maybe the heat was taken off him?
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsey
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  date: null
+  date_end: null
+  location_in_record: 00:36:25.7-00:36:48.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null
+- claim_id: 9163e47f-4479-43d9-bcf2-e6fe7e323947
+  claim_hash: 863fe1551d119afd675a984dd02e30b8db14d06dfc81d4a852b82e7d185f116e
+  content: J. Robert Oppenheimer is recorded as saying "Now I am become death, the
+    destroyer of worlds."
+  original_excerpt: Now I am become death, the destroyer of worlds.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+  provenance_chain:
+    origin_kind: speaker
+    origin: J. Robert Oppenheimer
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    slug: j-robert-oppenheimer
+  date: null
+  date_end: null
+  location_in_record: 00:40:44.2-00:40:47.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+    record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep.
+      33
+    record_date: '2025-04-11'
+    record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+    content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+    friendly_name: null

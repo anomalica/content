@@ -1,0 +1,947 @@
+schema: anomalica/brief/1
+brief_hash: 3240479f81ef8947b39b37be1666a494705ae4b689b591f79722fec884ea320f
+page:
+  kind: entity
+  node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+  node_type: object
+  title: F/A-18
+  slug: fa-18
+  claim_count: 22
+  claim_count_total: 22
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 15
+- node_id: c09e3558-1732-4676-a218-d67d285d98ef
+  title: David Fravor
+  node_type: person
+  slug: david-fravor
+  shared_claims: 6
+- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+  title: United States Navy (USN)
+  node_type: organisation
+  slug: united-states-navy-usn
+  shared_claims: 4
+- node_id: 55991bcf-937b-46da-9858-2b733307190b
+  title: Tic Tac
+  node_type: object
+  slug: tic-tac
+  shared_claims: 3
+- node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+  title: USS Nimitz (CVN-68)
+  node_type: object
+  slug: uss-nimitz-cvn-68
+  shared_claims: 3
+- node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+  title: Alex Dietrich
+  node_type: person
+  slug: alex-dietrich
+  shared_claims: 1
+- node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+  title: Christopher Sherwood
+  node_type: person
+  slug: christopher-sherwood
+  shared_claims: 1
+- node_id: 224c7627-5439-4e73-b583-590caead8999
+  title: Jim Slaight
+  node_type: person
+  slug: jim-slaight
+  shared_claims: 1
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 1
+- node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+  title: Ryan Graves
+  node_type: person
+  slug: ryan-graves
+  shared_claims: 1
+- node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+  title: USA, California, San Diego
+  node_type: place
+  slug: california-san-diego-usa
+  shared_claims: 1
+- node_id: 97aecdee-d37b-41de-af3a-d0a4417b3168
+  title: USA, Virginia, Virginia Beach
+  node_type: place
+  slug: virginia-virginia-beach-usa
+  shared_claims: 1
+- node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+  title: USS Princeton (CG-59)
+  node_type: object
+  slug: uss-princeton-cg-59
+  shared_claims: 1
+- node_id: 1bd67c4e-3412-45c3-844a-e543cb2dcc7a
+  title: USS Roosevelt
+  node_type: object
+  slug: uss-roosevelt
+  shared_claims: 1
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 1
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 1
+claims:
+- claim_id: 4031d0d6-a4e8-48e0-aad8-576ea3708905
+  claim_hash: 03e372170c55f24e4d2ba62e38df118cb7b0825ec1c4c19ae41952354182cc9a
+  content: Luis Elizondo arranged for the Pentagon to release videos taken from cockpit
+    cameras of F/A-18 fighter jets, just before he quit the Department of Defense.
+  original_excerpt: videos taken from cockpit cameras of F-18 fighter jets that Elizondo
+    had arranged for the Pentagon to release just before he quit.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: null
+  date_end: null
+  location_in_record: char:12489-12592
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+- claim_id: 9ed24253-1ad0-4616-a6e2-59dbc1b46427
+  claim_hash: 89b06d12727e72a6f343b1efac515385c87a173ad6a4695ac654cd2b4b1d74f9
+  content: Pentagon spokesperson Christopher Sherwood said the F/A-18 cockpit videos
+    were released "for research purposes... and not for general public release."
+  original_excerpt: Sherwood, the Pentagon spokesperson, said the videos were released
+    “for research purposes … and not for general public release,”
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+  provenance_chain:
+    origin_kind: speaker
+    origin: Christopher Sherwood
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  - node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+    slug: christopher-sherwood
+  date: null
+  date_end: null
+  location_in_record: char:13050-13169
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+- claim_id: 5916067d-eb0b-4ac6-b4b1-c268fdb3ecf8
+  claim_hash: 1d54ea1642f90c75d8769665e71e2be57ad4924f39e1e588340b4860794ac83c
+  content: Ryan Graves' F/A-18 squadron began seeing Unidentified Aerial Phenomena
+    (UAP) hovering over restricted airspace southeast of Virginia Beach, Virginia,
+    in 2014.
+  original_excerpt: He told us his F-18 squadron began seeing UAPs hovering over restricted
+    airspace southeast of Virginia Beach in 2014
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ryan Graves
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+    slug: ryan-graves
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 97aecdee-d37b-41de-af3a-d0a4417b3168
+    title: USA, Virginia, Virginia Beach
+    slug: virginia-virginia-beach-usa
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: '2014'
+  date_end: null
+  location_in_record: 00:04:12.9-00:04:21.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+    record_title: Navy pilots describe encounters with UFOs
+    record_date: '2021-05-17'
+    record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+    content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
+    friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
+- claim_id: 50c2d454-7240-49f4-9317-b7ce96de2dce
+  claim_hash: 328a561934022e683778ed41b1b97818c037682c238683d346fb2ef6d819fc44
+  content: David Fravor was the commander of the F/A-18 squadron aboard the USS Nimitz
+    during the 2004 USS Nimitz UAP encounter.
+  original_excerpt: commander of the F-18 squadron on the USS Nimitz
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+    title: USS Nimitz (CVN-68)
+    slug: uss-nimitz-cvn-68
+  date: '2004'
+  date_end: null
+  location_in_record: 00:06:46.6-00:06:49.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+    record_title: Navy pilots describe encounters with UFOs
+    record_date: '2021-05-17'
+    record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+    content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
+    friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
+- claim_id: d5788c67-339f-457a-993a-5464b6d58861
+  claim_hash: 75942f9418cf1fbb2affa54bc8df9804e2e20f0ed10cbbde61db149a9397b0f6
+  content: David Fravor observed that the unidentified object encountered during the
+    2004 USS Nimitz UAP encounter was about the size of his F/A-18, with no markings,
+    no wings, and no exhaust plumes.
+  original_excerpt: He said it was about the size of his F-18, with no markings, no
+    wings, no exhaust plumes.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: 00:08:30.6-00:08:36.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+    record_title: Navy pilots describe encounters with UFOs
+    record_date: '2021-05-17'
+    record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+    content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
+    friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
+- claim_id: e080de6a-c5bc-416a-9554-74081029003e
+  claim_hash: 3d1928aed42f39b2f3ec411bbc406782e07edd8ef958bba59c178501fba7f3fa
+  content: Two US Navy F/A-18 Super Hornets conducting training exercises were asked
+    to go get eyes on the UAP fleet spotted during the 2004 USS Nimitz encounter.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: null
+  date_end: null
+  location_in_record: ch15:3610-3727
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: da64f750-ba38-4ff9-8c78-141d0fa89e10
+  claim_hash: dc7d7ee9cfe23ab098bb8ab6c8772ddac91d5841f4d464dec8dd58bf067c96ab
+  content: In each US Navy F/A-18 aircraft sits a pilot, known as the "front seater",
+    and a Weapon Systems Officer (WSO), colloquially pronounced "Wizzo" and known
+    as the "back seater".
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: null
+  date_end: null
+  location_in_record: ch15:3733-3894
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 560bf8d9-3cf1-4899-b82c-55cc425ddff4
+  claim_hash: 07852546af05ecceb706f59952e4abd21724a52261a30bb70f3dd7692e3b2adf
+  content: Lieutenant Junior Grade Alex Dietrich piloted the other US Navy F/A-18
+    Super Hornet involved in the 2004 USS Nimitz UAP encounter.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+    title: Alex Dietrich
+    slug: alex-dietrich
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: null
+  date_end: null
+  location_in_record: ch15:4687-4804
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 1168a439-1821-464b-85ff-79e98f8cc9d3
+  claim_hash: 7ad2f9a3a1765cb69dde99b5e086b2004f3229a60cbb74f0d724f8c9dbfaee2e
+  content: During the 2004 USS Nimitz UAP encounter, the Tic Tac somehow knew the
+    intended combat air patrol meeting point of the two F/A-18 Hornets, despite the
+    point being sixty miles away, and reached that location within seconds after leaving
+    Dave Fravor and Jim Slaight.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 224c7627-5439-4e73-b583-590caead8999
+    title: Jim Slaight
+    slug: jim-slaight
+  - node_id: 55991bcf-937b-46da-9858-2b733307190b
+    title: Tic Tac
+    slug: tic-tac
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: ch15:7616-7873
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: d91cc7f9-5d0d-4413-9b05-776f4b2fe8f8
+  claim_hash: 562f34f3b81465d7ee2e732f919ca1591a355c15993b63c76ccb4c952c197537
+  content: Low on fuel, Dave Fravor decided to end the exercise during the 2004 USS
+    Nimitz UAP encounter, and both F/A-18 jets returned to the carrier.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: named
+    origin: Dave Fravor
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: null
+  date_end: null
+  location_in_record: ch15:7880-7965
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: ce132571-4c1a-431e-8237-01fb32675936
+  claim_hash: 11d9eb673ae6d95e565ec5a48b8117494bbedcec98de7351164cc280650c27ba
+  content: During an exercise requiring two F/A-18 Hornets to fly within approximately
+    30 metres of each other, a UAP flew between the aircraft's wings and disappeared,
+    splitting their formation.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be the pilot involved in the near-collision
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: null
+  date_end: null
+  location_in_record: ch23:3335-3670
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 3e3fb638-5e93-4a24-af54-3cab18c2d31f
+  claim_hash: 179ab3183e4eacf87a5ec873b8037c41a61cdaf312fcb7b7ff4460ba1ecabac9
+  content: The UAP that flew between the two F/A-18 Hornets came close enough that
+    both pilots clearly saw it was a transparent orb or sphere containing a cube,
+    with the cube's four points touching the inner circumference of the sphere.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person claiming to be one of the two Hornet pilots who saw the object
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: null
+  date_end: null
+  location_in_record: ch23:3773-3976
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: aee9643f-0a80-4d30-9f84-a839091e9d90
+  claim_hash: 2b1da535722b720610da6b7eea8c51cee94ff40c6749e6eeb80cde6ec8a06431
+  content: The F/A-18 Hornets aboard the USS Roosevelt had recently undergone radar
+    system upgrades, with some of the previous systems dating to the 1980s.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: named
+    origin: Jay Stratton
+    relay:
+    - forwarded email
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1bd67c4e-3412-45c3-844a-e543cb2dcc7a
+    title: USS Roosevelt
+    slug: uss-roosevelt
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: null
+  date_end: null
+  location_in_record: ch23:640-762
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 95240f23-2f22-4843-95fa-116c48ba9070
+  claim_hash: 0b8400139040bd633b594b49a2ad91e1407581546caf5defe68372845fa9ae97
+  content: During the 2004 USS Nimitz Unidentified Aerial Phenomena (UAP) encounter,
+    Dave Fravor flew an F/A-18 Hornet and circled down to confront a Tic Tac-shaped
+    object off the coast of San Diego, California.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+    title: USA, California, San Diego
+    slug: california-san-diego-usa
+  - node_id: 55991bcf-937b-46da-9858-2b733307190b
+    title: Tic Tac
+    slug: tic-tac
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: 2004-11
+  date_end: null
+  location_in_record: ch24:7582-7708
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 58f63f3d-c4fd-4436-96c6-cca3e63fd5da
+  claim_hash: f7c1cfe900f7e15c14c447bfccd8bf3e6ade314a0f6903a336300c3224ce1983
+  content: During the 2004 USS Nimitz Unidentified Aerial Phenomena (UAP) encounter,
+    the Tic Tac object glided over the top of the F/A-18 Hornet's nose and disappeared.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 55991bcf-937b-46da-9858-2b733307190b
+    title: Tic Tac
+    slug: tic-tac
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: 2004-11
+  date_end: null
+  location_in_record: ch24:7715-7792
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 9f7a3d29-35e9-4dd6-9892-93e8c29873ac
+  claim_hash: 2bb340ba3b2cac32501e17160891a8fd378bc5a954895793b9fab877f8e275ed
+  content: Two US Navy F/A-18s from the USS Nimitz intercepted one of the objects
+    at close quarters in conditions of perfect visibility during the 2004 USS Nimitz
+    UAP encounter.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+    title: USS Nimitz (CVN-68)
+    slug: uss-nimitz-cvn-68
+  date: 2004-11
+  date_end: null
+  location_in_record: ch6:8066-8195
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: bd243ca5-59eb-4de0-8c96-281bf43a33f0
+  claim_hash: 7a52998df2fbc91e8aa315ae7b50a3f523054cebc19ecf11a4bf2df04d49615f
+  content: During the 2004 USS Nimitz UAP encounter, Dave Fravor observed a wingless
+    white craft approximately 14.6 metres long from the cockpit of his F/A-18.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Dave Fravor
+    relay:
+    - Christopher Mellon's foreword
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  date: 2004-11
+  date_end: null
+  location_in_record: ch6:8239-8318
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: fc7e0925-c065-446c-ae05-c2e50ee3b5e6
+  claim_hash: f64b47a92b4a5edccd111b5c6de9f34165e59a2144a61c049b098af710e68054
+  content: During the 2004 USS Nimitz UAP encounter, the USS Princeton contacted two
+    F/A-18s already airborne to intercept the unidentified object.
+  original_excerpt: The Princeton hurriedly contacts two F-18s already aloft to intercept
+    the target.
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+  provenance_chain:
+    origin_kind: named
+    origin: a Navy pilot who participated in the 2004 USS Nimitz UAP encounter
+    relay:
+    - confirmed to Chris Mellon
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: 00:14:13.2-00:14:17.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+    record_date: '2026-03-04'
+    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+    friendly_name: null
+- claim_id: 7a8ab4aa-d541-4d4f-b197-55cda284ce0a
+  claim_hash: 643b10bbe617efc0970540ab01db9b4e7bb33346119fc22f642d759694b88398
+  content: The four aviators involved in the 2004 USS Nimitz UAP encounter observed
+    that the object had no wings or exhaust.
+  original_excerpt: As the two F-18s approach, the four aviators see that the object
+    has no wings or exhaust.
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+  provenance_chain:
+    origin_kind: named
+    origin: a Navy pilot who participated in the 2004 USS Nimitz UAP encounter
+    relay:
+    - confirmed to Chris Mellon
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: 00:14:18.4-00:14:22.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+    record_date: '2026-03-04'
+    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+    friendly_name: null
+- claim_id: e9c64435-ee8a-4b50-9277-8078fc7aba18
+  claim_hash: a805dc6883d5aaa5690b0d0d34447dd50db3e87c7af426d0f39b45c2ac30cedb
+  content: During the 2004 USS Nimitz UAP encounter, the object suddenly reoriented
+    itself toward the approaching F/A-18 and performed a series of discrete tumbling
+    manoeuvres that appeared to defy the laws of physics, taking a position directly
+    behind the aircraft.
+  original_excerpt: the object suddenly reorient itself toward the approaching F-18.
+    In a series of discrete tumbling maneuvers that seem to defy the laws of physics,
+    the object takes a position directly behind the approaching F-18.
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+  provenance_chain:
+    origin_kind: named
+    origin: a Navy pilot who participated in the 2004 USS Nimitz UAP encounter
+    relay:
+    - confirmed to Chris Mellon
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: 00:14:34.8-00:14:48.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+    record_date: '2026-03-04'
+    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+    friendly_name: null
+- claim_id: 2afc992e-1d27-4172-8046-6a8f00560f7e
+  claim_hash: a46f9e40cf497f683e80456679897cbab53a36dfac0745db1b235b3260b56872
+  content: Both F/A-18s returned to the USS Nimitz due to safety concerns and low
+    fuel during the 2004 USS Nimitz UAP encounter.
+  original_excerpt: Fearful for their safety and running low on fuel, both F-18s return
+    to the Nimitz.
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+  provenance_chain:
+    origin_kind: named
+    origin: a Navy pilot who participated in the 2004 USS Nimitz UAP encounter
+    relay:
+    - confirmed to Chris Mellon
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+    title: USS Nimitz (CVN-68)
+    slug: uss-nimitz-cvn-68
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: 00:14:58.9-00:15:02.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+    record_date: '2026-03-04'
+    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+    friendly_name: null
+- claim_id: bee7ed59-ef67-424d-95b1-02328e68ef50
+  claim_hash: dbaf24a27e2ce14efe15278bd9c2a17ff7d3610afaa17dcbda77940b6a82698e
+  content: Additional F/A-18s were dispatched during the 2004 USS Nimitz UAP encounter
+    but achieved similarly unsuccessful results against the object.
+  original_excerpt: More F-18s are dispatched, but with similar results. As before,
+    the engagement occurs in broad daylight and the secret machine easily evades the
+    F-18s.
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+  provenance_chain:
+    origin_kind: named
+    origin: a Navy pilot who participated in the 2004 USS Nimitz UAP encounter
+    relay:
+    - confirmed to Chris Mellon
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+    title: F/A-18
+    slug: fa-18
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: 00:15:27.7-00:15:37.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+    record_date: '2026-03-04'
+    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+    friendly_name: null

@@ -1,0 +1,1583 @@
+schema: anomalica/brief/1
+brief_hash: 4050a8cf4c77076453b0fe8147c011d68f6e365905a8bfd41c63301c30656418
+page:
+  kind: entity
+  node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+  node_type: organisation
+  title: The New York Times
+  slug: the-new-york-times
+  claim_count: 34
+  claim_count_total: 34
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+  title: Advanced Aerospace Threat Identification Program (AATIP)
+  node_type: project
+  slug: advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 8
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 6
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 5
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 4
+- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+  title: Eric Davis
+  node_type: person
+  slug: eric-davis
+  shared_claims: 3
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 3
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 2
+- node_id: c09e3558-1732-4676-a218-d67d285d98ef
+  title: David Fravor
+  node_type: person
+  slug: david-fravor
+  shared_claims: 2
+- node_id: 953f6232-9902-437f-ad4c-add4fd080043
+  title: Leslie Kean
+  node_type: person
+  slug: leslie-kean
+  shared_claims: 2
+- node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+  title: Politico
+  node_type: organisation
+  slug: politico
+  shared_claims: 2
+- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+  title: United States Navy (USN)
+  node_type: organisation
+  slug: united-states-navy-usn
+  shared_claims: 2
+- node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
+  title: Washington Post
+  node_type: organisation
+  slug: washington-post
+  shared_claims: 2
+- node_id: 55c1ae47-1364-49c0-bbd1-fb4421e52443
+  title: '"A Sister''s Eulogy for Steve Jobs" (New York Times op-ed by Mona Simpson)'
+  node_type: document
+  slug: a-sisters-eulogy-for-steve-jobs-new-york-times-op-ed-by-mona-simpson
+  shared_claims: 1
+- node_id: 8af035c9-1425-4d81-bd15-25a27f3e043b
+  title: 2017 New York Times article on the Pentagon Unidentified Flying Object (UFO)
+    program
+  node_type: document
+  slug: 2017-new-york-times-article-on-the-pentagon-unidentified-flying-object-ufo-program
+  shared_claims: 1
+- node_id: 80394f2d-e519-4db9-9c86-e270a8ae52dc
+  title: 2017-12 New York Times Advanced Aerospace Threat Identification Program (AATIP)
+    disclosure story
+  node_type: document
+  slug: 2017-12-new-york-times-advanced-aerospace-threat-identification-program-aatip-disclosure-story
+  shared_claims: 1
+- node_id: 2fe7d3f8-ac7f-4df4-b652-3992c1528724
+  title: 2020-03 Eric Davis classified briefing on off-world vehicle retrievals
+  node_type: event
+  slug: 2020-03-eric-davis-classified-briefing-on-off-world-vehicle-retrievals
+  shared_claims: 1
+- node_id: f6be4aac-3433-48fc-8169-f36d5f450c89
+  title: 2020-07 New York Times interview with Eric Davis on recovered Unidentified
+    Aerial Phenomena (UAP) materials
+  node_type: document
+  slug: 2020-07-new-york-times-interview-with-eric-davis-on-recovered-unidentified-aerial-phenomena-uap-materials
+  shared_claims: 1
+- node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
+  title: American Broadcasting Company (ABC)
+  node_type: organisation
+  slug: american-broadcasting-company-abc
+  shared_claims: 1
+- node_id: 34798af9-f98a-424a-98f3-9b5340fdaa80
+  title: Bill Stout
+  node_type: person
+  slug: bill-stout
+  shared_claims: 1
+- node_id: 996b837e-c814-4a97-8cb3-d0725542c877
+  title: Brett Baer
+  node_type: person
+  slug: brett-baer
+  shared_claims: 1
+- node_id: 7a25b20b-c238-4b97-862f-dc62dba6278a
+  title: Columbia Broadcasting System (CBS) News
+  node_type: organisation
+  slug: columbia-broadcasting-system-cbs-news
+  shared_claims: 1
+- node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
+  title: Communion
+  node_type: document
+  slug: communion
+  shared_claims: 1
+- node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+  title: Daniel Sheehan
+  node_type: person
+  slug: daniel-sheehan
+  shared_claims: 1
+- node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+  title: Defense Intelligence Agency (DIA)
+  node_type: organisation
+  slug: defense-intelligence-agency-dia
+  shared_claims: 1
+- node_id: c1abaec6-8aef-4cb8-8a46-9b525c4cd25c
+  title: Elliott Budd Hopkins's New York Times obituary
+  node_type: document
+  slug: elliott-budd-hopkinss-new-york-times-obituary
+  shared_claims: 1
+- node_id: 225c66f3-5c29-4780-819c-59b78a852e50
+  title: FA-18 Super Hornet
+  node_type: object
+  slug: fa-18-super-hornet
+  shared_claims: 1
+- node_id: a77966af-a350-432e-8fbc-2ca59029820b
+  title: Fox News
+  node_type: organisation
+  slug: fox-news
+  shared_claims: 1
+- node_id: b34fd408-b07a-4bc4-b750-c80cfdecbcb3
+  title: Frank Bristow
+  node_type: person
+  slug: frank-bristow
+  shared_claims: 1
+- node_id: 4094e5d5-06b8-4b3b-ac52-e926313e2e47
+  title: Frank Pearlman
+  node_type: person
+  slug: frank-pearlman
+  shared_claims: 1
+- node_id: c4666252-9768-47df-adbd-8f466f599b62
+  title: GRU Unit 29155
+  node_type: organisation
+  slug: gru-unit-29155
+  shared_claims: 1
+claims:
+- claim_id: 979aa4af-cb2c-4316-a344-7a15caca6acc
+  claim_hash: 46c2f58f96fd7b79c4c93ddf3d13a360874ea08911fe67e3e967d1d96efe9a28
+  content: Jacques Vallée checked the lists of trustees, directors, and advisers of
+    major UFO groups against the computer database of the New York Times and references
+    such as Who's Who.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jacques Vallée
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    slug: jacques-vallee
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: ch13:3450-3718
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+    record_title: 'Messengers of Deception: UFO Contacts and Cults'
+    record_date: '0101-01-01'
+    record_reference: null
+    content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+    friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  excerpt_withheld: restricted
+- claim_id: 55e6e833-2a8f-416d-bebc-61d8ed70bc95
+  claim_hash: a844f2c48b1758e19b8e1de72308ba74105d4d558993d69dcbb8e342adaa25b4
+  content: Frank Bristow, head of the Jet Propulsion Laboratory (JPL) press office,
+    personally escorted the unidentified man into the press room, where reporters
+    including Walter Sullivan of the New York Times, Frank Pearlman of the San Francisco
+    Chronicle, Jules Bergmann of American Broadcasting Company (ABC), and Bill Stout
+    of Columbia Broadcasting System (CBS) were introduced to him.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+  provenance_chain:
+    origin_kind: speaker
+    origin: Richard C. Hoagland
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0958b0b1-bd61-4b80-930c-740c94c2e02b
+    title: Walter Sullivan
+    slug: walter-sullivan
+  - node_id: 34798af9-f98a-424a-98f3-9b5340fdaa80
+    title: Bill Stout
+    slug: bill-stout
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    slug: nasa-jet-propulsion-laboratory-jpl
+  - node_id: 4094e5d5-06b8-4b3b-ac52-e926313e2e47
+    title: Frank Pearlman
+    slug: frank-pearlman
+  - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
+    title: American Broadcasting Company (ABC)
+    slug: american-broadcasting-company-abc
+  - node_id: 7a25b20b-c238-4b97-862f-dc62dba6278a
+    title: Columbia Broadcasting System (CBS) News
+    slug: columbia-broadcasting-system-cbs-news
+  - node_id: 7da2cf2b-788e-43ff-912c-1a6087f7bd06
+    title: San Francisco Chronicle
+    slug: san-francisco-chronicle
+  - node_id: b34fd408-b07a-4bc4-b750-c80cfdecbcb3
+    title: Frank Bristow
+    slug: frank-bristow
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  - node_id: e6220ff0-c6db-4f15-9332-72acce9c9dc0
+    title: Jules Bergmann
+    slug: jules-bergmann
+  date: 1969-07
+  date_end: null
+  location_in_record: ch7:28796-29148
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+    record_title: Dark Mission
+    record_date: '2010-07-22'
+    record_reference: null
+    content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+    friendly_name: null
+  excerpt_withheld: restricted
+- claim_id: dd0a6ad6-5386-4946-9320-979f7c6313a0
+  claim_hash: ccab6322c05932c9116be27a69eda2d25e824be26eee610e47b188cf142118ef
+  content: Local science teacher Phillip J. Imbrogno collected hundreds of closeup
+    UFO sighting reports that were not explained by either the official Discover magazine
+    story or Philip J. Klass's advertising-airplane explanation.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Phillip J. Imbrogno
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 21b31858-18b4-429c-bd8d-0f819aafe69f
+    title: Middletown, New York Record (newspaper)
+    slug: new-york-record-newspaper-middletown
+  - node_id: 5b90d02d-03cf-4f73-8ab4-e307a943fac4
+    title: Phillip J. Imbrogno
+    slug: phillip-j-imbrogno
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: ch9:42127-42361
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ad152768-183b-4cde-bc60-1520900ceb32
+    record_title: Communion
+    record_date: '2013-06-16'
+    record_reference: null
+    content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+    friendly_name: 2013-06-16-ebook-communion
+  excerpt_withheld: restricted
+- claim_id: 589a312f-c46e-4893-9281-4cbb0a264eab
+  claim_hash: f78d2a31a4e3e65ceca58ec7259bcfd294f7ade326ebf28197dc2fd1cd9c4fa5
+  content: The only information about Leslie Kean's brother available on the Internet
+    was a three-sentence New York Times obituary, so short that a search would not
+    have found it even if attempted, and searches for "Leslie Kean death," "Kean obituary,"
+    or "Leslie Kean brother death" in Google do not surface it.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+  provenance_chain:
+    origin_kind: speaker
+    origin: Leslie Kean
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3e036525-2148-4bbf-b518-a1cbfdf9717c
+    title: Leslie Kean's brother Garry
+    slug: leslie-keans-brother-garry
+  - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+    slug: leslie-kean
+  - node_id: c1abaec6-8aef-4cb8-8a46-9b525c4cd25c
+    title: Elliott Budd Hopkins's New York Times obituary
+    slug: elliott-budd-hopkinss-new-york-times-obituary
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: ch23:17321-17641
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 35d0110a-8d38-4581-bc80-9acfbddd9746
+  claim_hash: 0e09c68911a83f7294800c0871270830c2154e280a60fbd5bd415d16fe4a3cbb
+  content: Mona Simpson reported in a 2011-10-30 New York Times op-ed eulogy that
+    her brother Steve Jobs experienced something notable just before he died.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: ce569010-ab0d-48a7-82f7-ff1df1c2f666
+    title: Mona Simpson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mona Simpson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 55c1ae47-1364-49c0-bbd1-fb4421e52443
+    title: '"A Sister''s Eulogy for Steve Jobs" (New York Times op-ed by Mona Simpson)'
+    slug: a-sisters-eulogy-for-steve-jobs-new-york-times-op-ed-by-mona-simpson
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  - node_id: ce569010-ab0d-48a7-82f7-ff1df1c2f666
+    title: Mona Simpson
+    slug: mona-simpson
+  - node_id: e0b77a2a-c913-4322-a3ea-81fe42e330e1
+    title: Steve Jobs
+    slug: steve-jobs
+  - node_id: f00ee898-537f-4c5e-986c-88511f61b0a2
+    title: deathbed visions
+    slug: deathbed-visions
+  date: '2011-10-30'
+  date_end: null
+  location_in_record: ch41:32046-32190
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+    record_title: Surviving Death
+    record_date: '2017-03-07'
+    record_reference: null
+    content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+    friendly_name: 2017-03-07-ebook-surviving-death
+  excerpt_withheld: licensed
+- claim_id: 2c353fc8-c99c-4494-9a8a-24384eda5479
+  claim_hash: fd4670b48ddd6af528dc89fb96ef65c033c2ce09c78d82e70bb34d62ac83ade0
+  content: In response to questions from The New York Times, Pentagon officials in
+    December 2017 acknowledged the existence of the Advanced Aerospace Threat Identification
+    Program (AATIP), which began as part of the Defense Intelligence Agency (DIA).
+  original_excerpt: In response to questions from The Times, Pentagon officials this
+    month acknowledged the existence of the program, which began as part of the Defense
+    Intelligence Agency.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Pentagon officials
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    slug: defense-intelligence-agency-dia
+  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+    title: The Pentagon
+    slug: the-pentagon
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: 2017-12
+  date_end: null
+  location_in_record: char:5026-5188
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: ff5f7362-0494-44cd-82c0-2b5ca8f410d4
+  claim_hash: feccf78a7d0c8a7b849d71120e0a302cc254317e4d211b7d6709644d05c528af
+  content: For years, the Advanced Aerospace Threat Identification Program (AATIP)
+    investigated reports of unidentified flying objects (UFOs), according to Department
+    of Defense officials, interviews with program participants and records obtained
+    by The New York Times.
+  original_excerpt: For years, the program investigated reports of unidentified flying
+    objects, according to Defense Department officials, interviews with program participants
+    and records obtained by The New York Times.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Department of Defense officials, program participant interviews, and records
+      obtained by The New York Times
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: char:665-858
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: 78507acc-c6cb-4af6-85bc-73082cdae6a0
+  claim_hash: cf1031208a2a66454003ff7f077d76cbc2363ced48594b56a39d024284f98225
+  content: Contracts obtained by The New York Times show a congressional appropriation
+    of just under $22 million for the Advanced Aerospace Threat Identification Program
+    (AATIP) beginning in late 2008 through 2011.
+  original_excerpt: Contracts obtained by The Times show a congressional appropriation
+    of just under $22 million beginning in late 2008 through 2011.
+  claim_type: measurement
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: contracts obtained by The New York Times
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    slug: united-states-congress
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: '2008'
+  date_end: null
+  location_in_record: char:8991-9115
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+    record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O.
+      Program (Published 2017)'
+    record_date: '2017-12-16'
+    record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+    content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+    friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+- claim_id: ce4386e7-3e9e-4e31-a46a-fb924723d3f5
+  claim_hash: 2bd0a433155c2f7d55c2c62a9d6dd2ce90dd0a33620498dcad729c73fdfb497d
+  content: Brett Baer said on Fox News, days after the New York Times broke the story
+    on the Advanced Aerospace Threat Identification Program (AATIP), that a lot of
+    people were taking the revelation seriously.
+  original_excerpt: “You can laugh if you want, but a lot of people are taking this
+    revelation seriously,” Brett Baer said on Fox News days after the New York Times
+    broke the story
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 996b837e-c814-4a97-8cb3-d0725542c877
+    title: Brett Baer
+  provenance_chain:
+    origin_kind: speaker
+    origin: Brett Baer
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 996b837e-c814-4a97-8cb3-d0725542c877
+    title: Brett Baer
+    slug: brett-baer
+  - node_id: a77966af-a350-432e-8fbc-2ca59029820b
+    title: Fox News
+    slug: fox-news
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: char:11741-11943
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+- claim_id: 68e195c5-ff4b-4aa4-8754-a3104b6ea092
+  claim_hash: ffaee14c73b0a5efd832faf5ec8c11f32077fdf377ee30f7e8e793345b8faa26
+  content: Shortly before an article about the 2004 USS Nimitz UFO incident appeared
+    in The New York Times, a Navy commander called David Fravor regarding a Freedom
+    of Information Act (FOIA) request for material about the incident.
+  original_excerpt: I actually got called by the Navy. I had a commander in a Navy
+    call me about right before the article came out in the New York Times. This was
+    starting to come back, and she had called me because there was a FOIA request
+    for stuff about the Nimitz incident.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: 01:55:21.7-01:55:35.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+    record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+      | Lex Fridman Podcast #122'
+    record_date: '2020-09-08'
+    record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+    content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+    friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+- claim_id: e63ecc2f-2724-4d25-b32a-1c80f7541735
+  claim_hash: 30af075018d47d9011f39f4bb405c9954b46cc4ac43efa6f6430b2307d9c24ad
+  content: Daniel Sheehan acted for The New York Times during the furore over its
+    Vietnam War Pentagon Papers leak in 1971.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ad3c07c0-bf56-4fc5-a2f2-70f9a07e8d7a
+    title: Pentagon Papers
+    slug: pentagon-papers
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Daniel Sheehan
+    slug: daniel-sheehan
+  date: '1971'
+  date_end: null
+  location_in_record: ch11:16240-16335
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 96de708a-efb2-42ef-817a-7a9401820779
+  claim_hash: d9dbc4befa5cb32cafba9b89d9e8cfcdc126874bd97abeabc2f61cf82725edbe
+  content: John Alexander initiated what New York Times reporter Howard Blum revealed
+    in 1990 to be a secret UFO Working Group at the Pentagon, evaluating UAP sightings
+    and investigating alleged unexplained objects entering Earth from orbit.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Howard Blum
+    relay:
+    - The New York Times
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 41a991a5-34d4-48ae-8d2c-e2ce86bd54f4
+    title: John Alexander
+    slug: john-alexander
+  - node_id: 6b89054b-74c6-4054-9044-495626658256
+    title: Howard Blum
+    slug: howard-blum
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+    title: United States Pentagon
+    slug: united-states-pentagon
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  - node_id: f9e4d29b-78bd-4fa9-b2d3-31ef1b8bffff
+    title: Pentagon Unidentified Flying Object (UFO) Working Group
+    slug: pentagon-unidentified-flying-object-ufo-working-group
+  date: '1990'
+  date_end: null
+  location_in_record: ch15:16025-16262
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 72cdda81-9c35-4f16-850a-089e85c7a03b
+  claim_hash: aa861e0c908700a3d9712b26fcc5b699d624823ca7efd71f3e0213f4b1372a5d
+  content: According to The New York Times, GRU Unit 29155's purpose is to mount a
+    coordinated and ongoing campaign to destabilize Europe and the US, executed by
+    operatives skilled in subversion, sabotage and assassination.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: The New York Times
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  - node_id: c4666252-9768-47df-adbd-8f466f599b62
+    title: GRU Unit 29155
+    slug: gru-unit-29155
+  date: null
+  date_end: null
+  location_in_record: ch20:3701-3948
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9898cf75-2714-46d8-bb85-c5020299e488
+  claim_hash: 6b7c4d8af9dd59a0d8a46c6513e97bbed9c9c762657011259f62a69d9e8a2183
+  content: The first two Defence Department UAP videos posted by To The Stars Academy
+    of Arts & Sciences were posted in mid-December 2017, timed for impact when Politico,
+    The Washington Post, and The New York Times broke the story of the Department
+    of Defense's Advanced Aerospace Threat Identification Program (AATIP) investigations
+    into UAP.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+    title: Politico
+    slug: politico
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 80394f2d-e519-4db9-9c86-e270a8ae52dc
+    title: 2017-12 New York Times Advanced Aerospace Threat Identification Program
+      (AATIP) disclosure story
+    slug: 2017-12-new-york-times-advanced-aerospace-threat-identification-program-aatip-disclosure-story
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  - node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
+    title: Washington Post
+    slug: washington-post
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: 2017-12
+  date_end: null
+  location_in_record: ch21:20924-21123
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 279aa13c-2db3-44d9-bff1-2377992a3969
+  claim_hash: 63db369751b947d5ccf8256f81ab3628c73047ab25bdc25004b044dea0dce9b3
+  content: One of the Super Hornet pilots involved in the translucent sphere incident
+    filed an official mishap report with the US Navy, which was ignored.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The New York Times, May 2019
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
+    title: FA-18 Super Hornet
+    slug: fa-18-super-hornet
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: ch22:2771-2899
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d7f3e3b7-df38-4b33-bf02-c538ee95a848
+  claim_hash: d374b108f3e0d1e1d6ccc2648c2fc329da60d88d54f28a131bef4bc20df4e048
+  content: In July 2020, in an interview with The New York Times conducted apparently
+    before he joined Aerospace Corporation, Eric Davis admitted that the US held recovered
+    physical UAP samples.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+  provenance_chain:
+    origin_kind: document
+    origin: July 2020 New York Times interview with Eric Davis on recovered UAP materials
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  - node_id: f6be4aac-3433-48fc-8169-f36d5f450c89
+    title: 2020-07 New York Times interview with Eric Davis on recovered Unidentified
+      Aerial Phenomena (UAP) materials
+    slug: 2020-07-new-york-times-interview-with-eric-davis-on-recovered-unidentified-aerial-phenomena-uap-materials
+  date: 2020-07
+  date_end: null
+  location_in_record: ch24:18922-19128
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ef5698fd-b32a-42e9-83e7-1beeb833c777
+  claim_hash: 8dd797bab2e32c1e291a889c8f8de953a43558c72cea3f81e6d59a46b299708d
+  content: Eric Davis told The New York Times that he gave a classified briefing to
+    a Defence Department agency in March 2020 about retrievals from off-world vehicles
+    not made on this earth.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+  provenance_chain:
+    origin_kind: speaker
+    origin: Eric Davis
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2fe7d3f8-ac7f-4df4-b652-3992c1528724
+    title: 2020-03 Eric Davis classified briefing on off-world vehicle retrievals
+    slug: 2020-03-eric-davis-classified-briefing-on-off-world-vehicle-retrievals
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: 2020-03
+  date_end: null
+  location_in_record: ch24:19276-19466
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: da5290a6-646b-4363-80ba-139ad6fb568e
+  claim_hash: a8dc93a51f53cdc343beaeab2f1870bd6b67e22a659ce9bad75c55b1a564b5b0
+  content: As rumours of an imminent New York Times story mounted in June 2020, Tom
+    Wilson issued a strong denial that any such meeting with Eric Davis ever happened.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+  provenance_chain:
+    origin_kind: speaker
+    origin: Tom Wilson
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    slug: thomas-wilson
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: 2020-06
+  date_end: null
+  location_in_record: ch26:1819-1966
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6e2714e6-6252-45cd-a8ab-c22573a25399
+  claim_hash: b0031c8069aa2944d9c7b906a4e7b8591bcfa4a75430a23ea57923127623f5eb
+  content: Covering UFO crash retrievals has been particularly difficult to get published
+    in The New York Times because of the controversy involved and because the underlying
+    information is classified.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+  provenance_chain:
+    origin_kind: speaker
+    origin: Leslie Kean
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+    slug: leslie-kean
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: ch28:25127-25471
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 957886fb-bf5d-4522-9364-05f0f301e043
+  claim_hash: ff2d64a4dc14702ba1bfe253fa799794dcb431184d160b2b438db9eb6e9254ed
+  content: The New York Times reported that of the cases that have been resolved,
+    most Unidentified Aerial Phenomena (UAP) sightings proved to be either errant
+    junk in the sky like balloons, or surveillance activity, and incidents recorded
+    in the past year for which more data had been collected turned out to have ordinary
+    earthbound explanations.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: October 2022 New York Times article on Pentagon UAP sightings attribution
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: ch29:25378-25653
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c53e86ab-90cb-4970-a3de-f050187c2c6a
+  claim_hash: ff2371c9af63e04fca6cad77e2376413da3f725d942387f38315c9cbb9374109
+  content: Readers of the New York Times were not allowed to see the intelligence
+    report on Unidentified Aerial Phenomena (UAP) sightings and were told this was
+    necessary to protect intelligence collection methods.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: October 2022 New York Times article on Pentagon UAP sightings attribution
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: ch29:25668-25886
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: bbe5c92a-94cc-42d6-816d-4d5f94205717
+  claim_hash: b3952045832c24fcc85bbcdc0e1d26de201ab24c4d107310fd66884a1fd02606
+  content: In January 1945, The New York Times reported that the Germans had introduced
+    'foo-fighter' balls of fire into the night skies over Germany that raced alongside
+    the wings of American Beaufighter aircraft flying intruder missions over the Reich.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: The New York Times
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
+    title: foo fighter
+    slug: foo-fighter
+  date: 1945-01
+  date_end: null
+  location_in_record: ch7:110-372
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: bbe4780a-5c87-4ffb-a8fd-2103976ab254
+  claim_hash: 00eef9b1a3f2bd19053168b93a311d9fd53128705de4ce2535586db1645207c2
+  content: In December 2017, The New York Times revealed the existence of a Pentagon
+    unit secretly investigating UFOs, with accompanying videos.
+  original_excerpt: Then in December 2017, everything changed. One of the world's
+    greatest newspapers, the New York Times, revealed the existence of a Pentagon
+    unit secretly investigating UFOs. And even more extraordinary, it had the videos
+    to prove it.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: The New York Times
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    slug: go-fast-video
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: 2017-12
+  date_end: null
+  location_in_record: 00:12:11.8-00:12:31.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+- claim_id: 8004f6a1-51ab-4d38-9ec4-14de5462301d
+  claim_hash: cff9427fce036a9324792af703ebb2f820cf113b31432282f8ba46595d53b452
+  content: On 2017-12-15, based on information contained in The New York Times inquiry,
+    Garry Reid notified the Office of the Under Secretary of Defense for Intelligence
+    Security Officer that Luis Elizondo may have misused government systems and may
+    intend to release US government footage or information he obtained during his
+    employment with the office.
+  original_excerpt: On December 15, based on information contained in the NYT inquiry,
+    I notified the OUSDI Security Officer that Mr. Elizondo may have misused government
+    systems and may intend to release USG footage or information that he obtained
+    during his employment with OUSD (I).
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+    title: Garry Reid
+  provenance_chain:
+    origin_kind: speaker
+    origin: Garry Reid
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+    title: Garry Reid
+    slug: garry-reid
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+  date: '2017-12-15'
+  date_end: null
+  location_in_record: char:7788-8050
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
+    record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+    record_date: '2022-08-17'
+    record_reference: null
+    content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
+    friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
+- claim_id: caf8fd0c-5f8b-435e-bc2b-39757c972382
+  claim_hash: 68fb29034eee3d2c2ccd7c0aee67009948a6fe102cf54dd2640623780462b4ba
+  content: A friend pestered David Fravor into testifying, telling him he was the
+    one person that could not be discredited and would add credibility to the New
+    York Times article.
+  original_excerpt: I was pestered by a friend, and I asked why and he said, you are
+    the one person that they cannot discredit, and you will add credibility to the
+    New York Times article. And so after about six times I said OK.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Fravor
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    slug: david-fravor
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: char:140266-140472
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 4183a186-c537-4941-9bdb-5b44c1e5aa80
+  claim_hash: 88548878088f7b64c277194e01801e654ba15b71a7e135b9916eccdc32d2c355
+  content: Ralph Blumenthal was a contributor and former staff reporter for the New
+    York Times.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
+    title: Ralph Blumenthal
+    slug: ralph-blumenthal
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: ch29:16341-16466
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 030b95ac-99f2-4d21-ac06-d32915135efd
+  claim_hash: 68ef4d2a6c8040ba5ffe8b4c0ec4cd09219d4cfb5126e2dd6e3e7ebe4de54cc1
+  content: At the Pentagon's Christmas party, aides told Secretary of Defense James
+    Mattis that the New York Times was running a front-page Sunday story reporting
+    a secret Department of Defense program investigating UAP and asking why Luis Elizondo
+    had resigned.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: anonymous
+    origin: aides to Secretary of Defense James Mattis at the Pentagon Christmas party
+    relay:
+    - a person who told Luis Elizondo of the conversation
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+    title: James Mattis
+    slug: james-mattis
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: ch29:19049-19205
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 4e746c0c-4a1e-44c6-b996-49b40caf8982
+  claim_hash: a42db4f7278caf994cbc96f804d877c32299b600357f64e68ebd0e79a3d339fe
+  content: Reporter Helene Cooper phoned Luis Elizondo and confided that she had met
+    with a since-departed Pentagon official regarding the New York Times UAP story.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  - node_id: c8ac03c3-dd26-4034-ae87-d315728c20a4
+    title: Helene Cooper
+    slug: helene-cooper
+  date: null
+  date_end: null
+  location_in_record: ch29:19873-19975
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 2d5d0286-272e-4904-b5dc-914d633d3389
+  claim_hash: 51b9cac21de74be24982c2a0e7f7b698d61e73c59721a936dec75095255c8ad5
+  content: On the afternoon of 2017-12-16, the New York Times broke online news of
+    the Advanced Aerospace Threat Identification Program (AATIP), followed seconds
+    later by Politico and then the Washington Post.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+    title: Politico
+    slug: politico
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
+    title: Washington Post
+    slug: washington-post
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: '2017-12-16'
+  date_end: null
+  location_in_record: ch29:21978-22122
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 63b55542-1720-44c0-bfb0-516127d24bf5
+  claim_hash: e1fa58c8a5a02038155ed9de6550792592265c0831bdc9b76c18f87108ec3e70
+  content: On 2017-12-17, the New York Times published two articles about the Advanced
+    Aerospace Threat Identification Program (AATIP) on the cover of the print edition
+    of the Sunday paper.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: '2017-12-17'
+  date_end: null
+  location_in_record: ch29:22190-22285
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 190f7e48-b140-4b1d-9cb3-ec34249e52d7
+  claim_hash: 9b00c808f656a7a6bad3fe3eed5bec6d1a36184f054103270d310648fb1b4228
+  content: The front-page New York Times story revealed the existence of the Advanced
+    Aerospace Threat Identification Program (AATIP), a secret programme investigating
+    Unidentified Aerial Phenomena (UAP), and Luis Elizondo's role in it.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: ch29:22376-22482
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 29e5dfad-895b-4af8-b606-acc472458c00
+  claim_hash: 9528c45029d60b7800cb1b5ed1db9a1fc44f04a3f60b4ab1d187de88e476ddd9
+  content: Luis Elizondo and his colleagues considered the New York Times' cautious
+    disclaimer on the Tic Tac article absurd and believed the headline should have
+    been "We are not alone!"
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: ch29:24363-24450
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: ed151582-997f-4c27-9d01-ff6da248dc95
+  claim_hash: 40ff17148532bf75d7a92c513b69ad17246930d8dcd60049b5afe3fe63cef63b
+  content: In 2017, when The New York Times article on the Pentagon Unidentified Flying
+    Object (UFO) programme was published, the r/UFOs subreddit had 70,000 members.
+  original_excerpt: the UFO subreddit. In 2017, when the New York Times article came
+    out, it had 70,000 people on it.
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+  provenance_chain:
+    origin_kind: speaker
+    origin: Jason Samosa
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8af035c9-1425-4d81-bd15-25a27f3e043b
+    title: 2017 New York Times article on the Pentagon Unidentified Flying Object
+      (UFO) program
+    slug: 2017-new-york-times-article-on-the-pentagon-unidentified-flying-object-ufo-program
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  - node_id: c7d959e1-cea1-4a13-9d71-0f60e225c007
+    title: r/UFOs subreddit
+    slug: rufos-subreddit
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    slug: jason-samosa
+  date: '2017'
+  date_end: null
+  location_in_record: 00:30:13.6-00:30:19.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+    record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+    record_date: '2026-07-14'
+    record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+    content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+    friendly_name: null
+- claim_id: 033ad397-ee14-45b6-a23c-88da5e051bf0
+  claim_hash: 034ca320c9a631c2e4f050aa16dbbe9af24e260d07bf697ffaf14fcbf8894d40
+  content: Whitley Strieber's book Communion, about being taken by non-human sentient
+    beings, was a New York Times bestseller.
+  original_excerpt: his book, Communion, where he wrote about being taken by non-human
+    sentient beings was a huge New York Times bestseller
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    slug: whitley-strieber
+  - node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
+    title: Communion
+    slug: communion
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    slug: the-new-york-times
+  date: null
+  date_end: null
+  location_in_record: 00:00:58.2-00:01:07.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+    record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him
+      | Reality Check Rewind
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+    content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+    friendly_name: null

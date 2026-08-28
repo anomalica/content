@@ -1,0 +1,338 @@
+schema: anomalica/brief/1
+brief_hash: 347e9eafce3b6697e1e2a59b7bfb2fef6090937b8e0d5c7051f4aa0357a74a0b
+page:
+  kind: entity
+  node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
+  node_type: topic
+  title: astral projection
+  slug: astral-projection
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+  title: Erik Nanstiel
+  node_type: person
+  slug: erik-nanstiel
+  shared_claims: 3
+- node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+  title: Out-of-Body Experience (OBE)
+  node_type: topic
+  slug: out-of-body-experience-obe
+  shared_claims: 3
+- node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+  title: Robert Monroe
+  node_type: person
+  slug: robert-monroe
+  shared_claims: 3
+- node_id: f664eac3-734e-435c-b87b-2ac2431134fc
+  title: Agnew Bahnson
+  node_type: person
+  slug: agnew-bahnson
+  shared_claims: 1
+- node_id: 301c373e-31ba-4989-a764-195e8b4af2ec
+  title: Foster Bradshaw
+  node_type: person
+  slug: foster-bradshaw
+  shared_claims: 1
+- node_id: 9e98a63c-ed81-430e-a3b8-fd895f564882
+  title: Ghost (1990 film)
+  node_type: document
+  slug: ghost-1990-film
+  shared_claims: 1
+- node_id: b6f0ad71-f13b-4966-9ab5-a9fe8ae2894f
+  title: Second Body
+  node_type: topic
+  slug: second-body
+  shared_claims: 1
+- node_id: c8f09e97-6ecd-485e-a4fc-19d0fcef5d6a
+  title: Second State
+  node_type: topic
+  slug: second-state
+  shared_claims: 1
+- node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+  title: Vicki Klein
+  node_type: person
+  slug: vicki-klein
+  shared_claims: 1
+claims:
+- claim_id: 80eb0621-0391-4f74-a9e8-d8f7cd3b0aa2
+  claim_hash: ad26f54f86f633c446d47f6066e5786f60f635dcdddf18ee5086af31824d7716
+  content: Vicki Klein said that after complaining of pain from the ova-removal operation,
+    during an astral projection she was invited by a friend to have intercourse, refused,
+    and the friend then changed into her astral guide, whom she still refused.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Harry Turner's ten pages of handwritten notes on Mrs. Klein
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
+    title: astral projection
+    slug: astral-projection
+  - node_id: bcd3b543-61d2-4411-a280-3711bf01f2ce
+    title: Vicki Klein
+    slug: vicki-klein
+  date: null
+  date_end: null
+  location_in_record: ch16:16541-16786
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 564d3f3a-1f56-43ce-bc97-b7987a165ec0
+  claim_hash: c3d68d959592d885e867800086c020ff02a684c38de6979bb3d391087666ecea
+  content: On 1962-11-27 in the morning, Robert Monroe attempted an out-of-body visit
+    to Agnew Bahnson but instead arrived in an unfamiliar bedroom where a young girl,
+    about five or six years old, said to him "I know what you are!" and then identified
+    him as "an astral projection".
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
+    title: astral projection
+    slug: astral-projection
+  - node_id: f664eac3-734e-435c-b87b-2ac2431134fc
+    title: Agnew Bahnson
+    slug: agnew-bahnson
+  date: '1962-11-27'
+  date_end: null
+  location_in_record: 46-50
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 53f0cb9b-3411-405b-bdf3-75619493b0ea
+  claim_hash: 1b47783db44820c5982d2319874f6dec6738e195a485442a6c3c97b79e4ad32c
+  content: Foster Bradshaw gave Robert Monroe the clue that what he was experiencing
+    was astral projection, although Bradshaw himself had only heard about such things
+    remotely.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 301c373e-31ba-4989-a764-195e8b4af2ec
+    title: Foster Bradshaw
+    slug: foster-bradshaw
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
+    title: astral projection
+    slug: astral-projection
+  date: null
+  date_end: null
+  location_in_record: ch10:16982-17071
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: bce67ebe-3215-43bb-bbf0-479e8b6afc7c
+  claim_hash: eed424347fe963acf7801547a5f0608a634fd9ec8663152eaf1c54d4282e148e
+  content: Robert Monroe prefers to use the terms Second Body and Second State rather
+    than the term astral, because he does not know what the word astral means.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
+    title: astral projection
+    slug: astral-projection
+  - node_id: b6f0ad71-f13b-4966-9ab5-a9fe8ae2894f
+    title: Second Body
+    slug: second-body
+  - node_id: c8f09e97-6ecd-485e-a4fc-19d0fcef5d6a
+    title: Second State
+    slug: second-state
+  date: null
+  date_end: null
+  location_in_record: ch10:17824-17990
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 65090577-23ce-400c-9b92-50ead72b2fd4
+  claim_hash: e88ca9e25c3ff0baa3e0106e74b56cd3b99fca8636b182076df17b4dc1e2345a
+  content: During his OBE training, Erik Nanstiel experienced a separation sensation
+    accompanied by a tearing-velcro or whoosh sound, like walking through a wall in
+    the 1990 film Ghost.
+  original_excerpt: did you see the movie ghost... when you when you walk through
+    a ghost or walk through a wall there's like this like tearing velcro sound...
+    That's what I felt when I was separating.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+    slug: erik-nanstiel
+  - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
+    title: astral projection
+    slug: astral-projection
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    slug: out-of-body-experience-obe
+  - node_id: 9e98a63c-ed81-430e-a3b8-fd895f564882
+    title: Ghost (1990 film)
+    slug: ghost-1990-film
+  date: null
+  date_end: null
+  location_in_record: 02:28:45.3-02:29:03.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+    record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik
+      Nanstiel | DEBRIEFED ep. 85'
+    record_date: '2026-04-24'
+    record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+    content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+    friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+- claim_id: ebb8dec6-ceed-4e4b-8128-2673d790c4a2
+  claim_hash: b7cd7948f9314a2b84073baa4acb82eab8a6058f559b1f5ff0d30f1853349201
+  content: In 1995 Erik Nanstiel trained himself using astral projection techniques
+    to wake at the same time each night until he could enter a lucid state and introduce
+    a suggestion to separate from his body.
+  original_excerpt: And I studied it in 1995, and I was training myself to wake up
+    at the same time every night until I didn't need the alarm anymore. And then you'd
+    start to wake up in your sleep in a lucid state
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+    slug: erik-nanstiel
+  - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
+    title: astral projection
+    slug: astral-projection
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    slug: out-of-body-experience-obe
+  date: '1995'
+  date_end: null
+  location_in_record: 02:29:33.7-02:29:59.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+    record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik
+      Nanstiel | DEBRIEFED ep. 85'
+    record_date: '2026-04-24'
+    record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+    content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+    friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+- claim_id: fd21cfc1-ec30-44cc-afea-19f8609e2cbf
+  claim_hash: f224a7d21dd21a0b4b00e2a38b49c15bdc7c60aee2c4c14e9bf69b6123e941f7
+  content: Erik Nanstiel succeeded at astral separation on two occasions, but felt
+    so vulnerable each time that he freaked out and snapped back, and does not want
+    to do it again.
+  original_excerpt: And I succeeded on two occasions. One time I woke up and the ceiling
+    was in my face and I freaked out and I snapped back... I just felt so vulnerable
+    anytime I'd separated that I'd freak out and snap back. I don't ever want to do
+    it again.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+    slug: erik-nanstiel
+  - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
+    title: astral projection
+    slug: astral-projection
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    slug: out-of-body-experience-obe
+  date: null
+  date_end: null
+  location_in_record: 02:30:06.9-02:30:33.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+    record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik
+      Nanstiel | DEBRIEFED ep. 85'
+    record_date: '2026-04-24'
+    record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+    content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+    friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2

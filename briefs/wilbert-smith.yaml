@@ -1,0 +1,908 @@
+schema: anomalica/brief/1
+brief_hash: 39e4d1aabfa77c63945cedc258204d55a059659a1057d33d2a281dfc5c064f47
+page:
+  kind: entity
+  node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+  node_type: person
+  title: Wilbert Smith
+  slug: wilbert-smith
+  claim_count: 22
+  claim_count_total: 22
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+  title: Chris Ramsay
+  node_type: person
+  slug: chris-ramsay
+  shared_claims: 3
+- node_id: 3bc3042d-afb8-4eba-ace6-40a3c2107aba
+  title: 1950 Wilbert Smith memo to the Canadian Department of Transport
+  node_type: document
+  slug: 1950-wilbert-smith-memo-to-the-canadian-department-of-transport
+  shared_claims: 2
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 2
+- node_id: b8f40be9-d8c9-4217-962f-2421f8d05a55
+  title: Wilbert Smith 1950 memorandum on flying saucers
+  node_type: document
+  slug: wilbert-smith-1950-memorandum-on-flying-saucers
+  shared_claims: 2
+- node_id: 4e2f7d4e-e34c-46b1-ac8a-24b5c34c0165
+  title: Behind the Flying Saucers
+  node_type: document
+  slug: behind-the-flying-saucers
+  shared_claims: 1
+- node_id: 89cd90dc-96d7-4d6c-9768-0d5ab823d93a
+  title: Canada
+  node_type: organisation
+  slug: canada
+  shared_claims: 1
+- node_id: e70cd416-54c5-4b3d-a35c-a6b2f71ed876
+  title: Canada Department of Transport
+  node_type: organisation
+  slug: canada-department-of-transport
+  shared_claims: 1
+- node_id: 98b502b1-c941-4ea7-8f7c-bb74362e41a1
+  title: Department of Transport (Canada)
+  node_type: organisation
+  slug: department-of-transport-canada
+  shared_claims: 1
+- node_id: 2f8cffec-0159-478d-b8e3-20129f4e29f6
+  title: Frank Scully
+  node_type: person
+  slug: frank-scully
+  shared_claims: 1
+- node_id: ebc72bd9-216f-4ab6-a359-365a15c666f0
+  title: James Smith
+  node_type: person
+  slug: james-smith
+  shared_claims: 1
+- node_id: f049edf7-f248-4285-9881-c572b09ba0be
+  title: Project Magnet
+  node_type: project
+  slug: project-magnet
+  shared_claims: 1
+- node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+  title: Robert Sarbacher
+  node_type: person
+  slug: robert-sarbacher
+  shared_claims: 1
+- node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+  title: Soviet Union
+  node_type: organisation
+  slug: soviet-union
+  shared_claims: 1
+- node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+  title: USA, District of Columbia, Washington
+  node_type: place
+  slug: district-of-columbia-washington-usa
+  shared_claims: 1
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 1
+- node_id: ba835d68-3b6c-48d5-86ef-c057e0881cd0
+  title: United States Research and Development Board
+  node_type: organisation
+  slug: united-states-research-and-development-board
+  shared_claims: 1
+claims:
+- claim_id: a7b1d025-e22f-40b3-a7ac-05f88d8f21a7
+  claim_hash: cc67732d98e7e316bf508d92dd27bdd268b35445331d8f964a59315caaad1f51
+  content: Wilbert Smith was a Canadian radio engineer.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  date: null
+  date_end: null
+  location_in_record: ch8:6436-6497
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d1ede045-1d74-4fba-b5f8-c9bdbc1bbc7d
+  claim_hash: bca93fb996d17119a64cff7fc888e8b06c92908c5562edd775d966036e0f65f7
+  content: Wilbert Smith wrote a top-secret memo to the Canadian Department of Transport
+    in November 1950.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3bc3042d-afb8-4eba-ace6-40a3c2107aba
+    title: 1950 Wilbert Smith memo to the Canadian Department of Transport
+    slug: 1950-wilbert-smith-memo-to-the-canadian-department-of-transport
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  - node_id: e70cd416-54c5-4b3d-a35c-a6b2f71ed876
+    title: Canada Department of Transport
+    slug: canada-department-of-transport
+  date: 1950-11
+  date_end: null
+  location_in_record: ch8:6436-6555
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 769edf0b-26af-416a-a85f-9ac66f4502b2
+  claim_hash: 21bd0171b3f39fb8ffd5b73f5c286f9c7d746e899f6955834e2b98c6f5781802
+  content: Wilbert Smith's memo was later found in his official papers in a Canadian
+    university archive.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3bc3042d-afb8-4eba-ace6-40a3c2107aba
+    title: 1950 Wilbert Smith memo to the Canadian Department of Transport
+    slug: 1950-wilbert-smith-memo-to-the-canadian-department-of-transport
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  date: null
+  date_end: null
+  location_in_record: ch8:6561-6625
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e402ed0f-f5d7-48e3-a203-9052e9367ccf
+  claim_hash: 146102586fb5bcbcab0cd25a47b5b6d258b56d8e6dc2c42321fd58c828d1a877
+  content: Wilbert Smith worked on a top-secret project intercepting Soviet communications.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+    title: Soviet Union
+    slug: soviet-union
+  date: null
+  date_end: null
+  location_in_record: ch8:6634-6748
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 099197f5-dd40-48bb-8c25-0dcf0ed011e3
+  claim_hash: 0148448c5b5725b76503f230de4ebc20e56f62b59bf7deecb9da6daafe84b796
+  content: While at a conference in Washington DC in September 1950, Wilbert Smith
+    read the newly published book Behind the Flying Saucers by Frank Scully.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 2f8cffec-0159-478d-b8e3-20129f4e29f6
+    title: Frank Scully
+    slug: frank-scully
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  - node_id: 4e2f7d4e-e34c-46b1-ac8a-24b5c34c0165
+    title: Behind the Flying Saucers
+    slug: behind-the-flying-saucers
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    slug: district-of-columbia-washington-usa
+  date: 1950-09
+  date_end: null
+  location_in_record: ch8:6764-6898
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7193073b-6521-410f-bcec-e66411d32d80
+  claim_hash: 66632950aca34c5246e560a3bfcb27ae8bfa50c2ff906725935499bbdbb26821
+  content: Wilbert Smith used contacts at the Canadian Embassy in Washington to interview
+    Dr Robert Sarbacher, an American scientist who consulted for the United States
+    Research and Development Board.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  - node_id: ba835d68-3b6c-48d5-86ef-c057e0881cd0
+    title: United States Research and Development Board
+    slug: united-states-research-and-development-board
+  - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+    title: Robert Sarbacher
+    slug: robert-sarbacher
+  date: null
+  date_end: null
+  location_in_record: ch8:7082-7267
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 155bc58b-dacd-4774-b751-214aca08564b
+  claim_hash: 1e90e021b61ed4079d7d8d8517d9cad2b5091c3bb99a3567f23e766874a1bbf2
+  content: According to the 1950 Wilbert Smith memo to the Canadian Department of
+    Transport, Robert Sarbacher said flying saucers were the most highly classified
+    subject in the United States government, rating higher than the hydrogen bomb.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+  provenance_chain:
+    origin_kind: named
+    origin: Robert Sarbacher
+    relay:
+    - 1950 Wilbert Smith memo to the Canadian Department of Transport
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3bc3042d-afb8-4eba-ace6-40a3c2107aba
+    title: 1950 Wilbert Smith memo to the Canadian Department of Transport
+    slug: 1950-wilbert-smith-memo-to-the-canadian-department-of-transport
+  - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+    title: Robert Sarbacher
+    slug: robert-sarbacher
+  date: null
+  date_end: null
+  location_in_record: ch8:7412-7510
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 1d1dc125-f804-4cad-b34e-772f85108b71
+  claim_hash: 231c67e063751a82c0f493a3bed81103ff568f05dc33c2bb9c1c2d491d1b6377
+  content: According to the 1950 Wilbert Smith memo to the Canadian Department of
+    Transport, Robert Sarbacher said flying saucers exist.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+  provenance_chain:
+    origin_kind: named
+    origin: Robert Sarbacher
+    relay:
+    - 1950 Wilbert Smith memo to the Canadian Department of Transport
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3bc3042d-afb8-4eba-ace6-40a3c2107aba
+    title: 1950 Wilbert Smith memo to the Canadian Department of Transport
+    slug: 1950-wilbert-smith-memo-to-the-canadian-department-of-transport
+  - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+    title: Robert Sarbacher
+    slug: robert-sarbacher
+  date: null
+  date_end: null
+  location_in_record: ch8:7519-7534
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: aa4c5eec-51f9-41d5-bae0-43d183816502
+  claim_hash: 32362023e23efaed6f6e5a9a4e31e325bbb20493da59dcccd024670a6969dbc3
+  content: According to the 1950 Wilbert Smith memo to the Canadian Department of
+    Transport, Robert Sarbacher said the saucers' modus operandi was unknown, but
+    a concentrated effort was being made by a small group headed by Dr Vannevar Bush.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+  provenance_chain:
+    origin_kind: named
+    origin: Robert Sarbacher
+    relay:
+    - 1950 Wilbert Smith memo to the Canadian Department of Transport
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3bc3042d-afb8-4eba-ace6-40a3c2107aba
+    title: 1950 Wilbert Smith memo to the Canadian Department of Transport
+    slug: 1950-wilbert-smith-memo-to-the-canadian-department-of-transport
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    slug: vannevar-bush
+  - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+    title: Robert Sarbacher
+    slug: robert-sarbacher
+  date: null
+  date_end: null
+  location_in_record: ch8:7544-7656
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6d274281-89ce-4f9e-927f-5362951e8f93
+  claim_hash: 7f5bc5d98eeaf151c6818d2654bd8f143a59c1e408d23773a9417e33cdbf4b18
+  content: According to the 1950 Wilbert Smith memo to the Canadian Department of
+    Transport, Robert Sarbacher said the entire matter was considered by United States
+    authorities to be of tremendous significance.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+  provenance_chain:
+    origin_kind: named
+    origin: Robert Sarbacher
+    relay:
+    - 1950 Wilbert Smith memo to the Canadian Department of Transport
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3bc3042d-afb8-4eba-ace6-40a3c2107aba
+    title: 1950 Wilbert Smith memo to the Canadian Department of Transport
+    slug: 1950-wilbert-smith-memo-to-the-canadian-department-of-transport
+  - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+    title: Robert Sarbacher
+    slug: robert-sarbacher
+  date: null
+  date_end: null
+  location_in_record: ch8:7665-7750
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c5e7074c-2b72-40da-832c-04ebbbbc1567
+  claim_hash: 6e69e9c41d89d7b80985d427384ddc29c6bde7e82fc8f1d687fd0e7de1451d64
+  content: Wilbert Smith's handwritten notes of the meeting recorded Dr Robert Sarbacher
+    confirming that the facts set out in Frank Scully's book Behind the Flying Saucers,
+    including recovered aliens and spacecraft, were 'substantially correct'.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+  provenance_chain:
+    origin_kind: named
+    origin: Robert Sarbacher
+    relay:
+    - Wilbert Smith's handwritten notes
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2f8cffec-0159-478d-b8e3-20129f4e29f6
+    title: Frank Scully
+    slug: frank-scully
+  - node_id: 4e2f7d4e-e34c-46b1-ac8a-24b5c34c0165
+    title: Behind the Flying Saucers
+    slug: behind-the-flying-saucers
+  - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+    title: Robert Sarbacher
+    slug: robert-sarbacher
+  date: null
+  date_end: null
+  location_in_record: ch8:7764-7973
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 23cb236e-3a01-40f9-8136-30d1dbfe0d4d
+  claim_hash: 8807cfa3620bbf4fa53413f9a6245ae0d2549cfffb6695f08a6a5c4b7ca61a0a
+  content: Wilbert Smith's son James Smith stated that his father told him he was
+    shown recovered bodies from a recovered craft that were small and humanoid.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: ebc72bd9-216f-4ab6-a359-365a15c666f0
+    title: James Smith
+  provenance_chain:
+    origin_kind: named
+    origin: Wilbert Smith
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  - node_id: ebc72bd9-216f-4ab6-a359-365a15c666f0
+    title: James Smith
+    slug: james-smith
+  date: null
+  date_end: null
+  location_in_record: ch8:7983-8153
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d7b76563-2836-422c-acda-a348b11287c5
+  claim_hash: 98fabc997d0dc580c2a8a3589149fb1b84a908c6589cfa0e13a56d8f16004114
+  content: Neither the United States nor Canadian governments have ever attempted
+    to rebut Wilbert Smith's record of what he learned about the purported US recovered
+    flying saucers programme.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  date: null
+  date_end: null
+  location_in_record: ch8:8165-8416
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: cb1efc78-9424-4562-a326-650623a253c8
+  claim_hash: ee742f6d31d847e1198f6205a53e5e3c7d47b7110a22d33f2a8db949ce5b35f9
+  content: Canada's Project Magnet (1950-1954) was run by Department of Transport
+    (Canada) engineer Wilbert B. Smith.
+  original_excerpt: Canada's Project Magnet (1950-1954) was run by Department of Transport
+    engineer Wilbert B. Smith.
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: Rod Tennyson, University of Toronto Institute for Aerophysics Studies
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  - node_id: 98b502b1-c941-4ea7-8f7c-bb74362e41a1
+    title: Department of Transport (Canada)
+    slug: department-of-transport-canada
+  - node_id: f049edf7-f248-4285-9881-c572b09ba0be
+    title: Project Magnet
+    slug: project-magnet
+  date: null
+  date_end: null
+  location_in_record: char:74118-74213
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 46699660-5caa-459e-8c25-4f697384c01c
+  claim_hash: 25f3c8f0b9ea3153bed603a24f648def2e5cdfa19a5bcce61381f1a0eba353f4
+  content: Wilbert B. Smith assessed that UFOs were of extraterrestrial origin and
+    that they flew by magnetism.
+  original_excerpt: Smith assessed that UFOs were of extraterrestrial origin and that
+    they flew by magnetism.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+  provenance_chain:
+    origin_kind: speaker
+    origin: Wilbert B. Smith
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  date: null
+  date_end: null
+  location_in_record: char:74220-74299
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 82bc2195-49e5-4623-8653-b11af60207cb
+  claim_hash: ef67d1991b28865870bb870bfb0ee426058da2935362d5d08c3d962678cad2e6
+  content: Wilbert B. Smith believed he was in personal contact with extraterrestrial
+    beings through telepathy and "tensor beams."
+  original_excerpt: Smith believed he was in personal contact with extraterrestrial
+    beings through telepathy and "tensor beams."
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+  provenance_chain:
+    origin_kind: speaker
+    origin: Wilbert B. Smith
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  date: null
+  date_end: null
+  location_in_record: char:74310-74411
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 1e5afae2-61b9-4802-988a-f2be74a40c8e
+  claim_hash: 2aa1379023c3c2a1f99f24f5b13533ee540deecff22e1df7619889691af98b21
+  content: Wilbert B. Smith, in an interview as early as 1961, claimed that in 1952
+    the United States Air Force (USAF) lent him a piece of a UFO to study.
+  original_excerpt: Smith, in an interview as early as 1961, claimed that in 1952,
+    the USAF lent him a piece of a UFO to study.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+  provenance_chain:
+    origin_kind: speaker
+    origin: Wilbert B. Smith
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  date: '1952'
+  date_end: null
+  location_in_record: char:74419-74520
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 36108e2d-f424-4030-b9ea-815db20c5976
+  claim_hash: f89056b1c5efb46c7dda5db087773d4e646e29b69939ab8f68d34bdf8c84b795
+  content: Wilbert B. Smith claimed the piece of a UFO lent to him by the United States
+    Air Force (USAF) was composed of magnesium orthosilicate.
+  original_excerpt: He also claimed it was composed of magnesium orthosilicate.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+  provenance_chain:
+    origin_kind: speaker
+    origin: Wilbert B. Smith
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  date: null
+  date_end: null
+  location_in_record: char:74527-74572
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 8b87103a-33e2-4c8d-87c1-be7d03ec03cc
+  claim_hash: 8b1ab63132e4732c33a8957ce89f653ae4eb05545b4f29668a51c958357ff0cf
+  content: Wilbert B. Smith admitted that his beliefs concerning UFOs were his alone
+    and not the Canadian government's official position.
+  original_excerpt: Smith admitted that his beliefs concerning UFOs were his alone
+    and not the government's official position.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+  provenance_chain:
+    origin_kind: speaker
+    origin: Wilbert B. Smith
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  - node_id: 89cd90dc-96d7-4d6c-9768-0d5ab823d93a
+    title: Canada
+    slug: canada
+  date: null
+  date_end: null
+  location_in_record: char:74695-74792
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+    record_title: Report on the Historical Record of U.S. Government Involvement with
+      Unidentified Anomalous Phenomena (UAP), Volume I
+    record_date: '2024-02-01'
+    record_reference: null
+    content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+    friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+- claim_id: 8adcd6e9-7b73-4582-a491-9eb49dc5cb6f
+  claim_hash: 3a2202b8167c46e8022db8172f2a3e903f9536092240dcf1b6e1c7e8af4a7029
+  content: Chris Ramsay identifies Wilbert Smith as having been, to his recollection,
+    Canada's Minister of Transport.
+  original_excerpt: He was the, I think the Minister of Transport, if I'm not mistaken,
+    Canada here.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsay
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  date: null
+  date_end: null
+  location_in_record: 02:48:27.8-02:48:32.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 45e9030d-b290-4603-bbf8-41ff1a016373
+  claim_hash: a7bd320e2c222942d7ab6332658495552ef87df5153f3a1b6d2591ed25f66ef1
+  content: The Wilbert Smith 1950 memorandum on flying saucers is a declassified document
+    written by Wilbert Smith after a trip to the United States, in which he recorded
+    meeting officials who were taking flying saucers very seriously.
+  original_excerpt: in 1950, there is a, um, a declassified document after he came
+    back from a trip to the United States. where he said that he met with officials
+    and they're taking the flying saucer things very seriously over there.
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: document
+    origin: Wilbert Smith 1950 memorandum on flying saucers
+    relay:
+    - Chris Ramsay
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: b8f40be9-d8c9-4217-962f-2421f8d05a55
+    title: Wilbert Smith 1950 memorandum on flying saucers
+    slug: wilbert-smith-1950-memorandum-on-flying-saucers
+  date: '1950'
+  date_end: null
+  location_in_record: 02:48:33.0-02:48:47.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 47fb4281-edce-4a9a-92b6-b7711b3b8723
+  claim_hash: c05a5c2373cd62b160bc5575161c8928d788f9a46c6a32a2cb5d21def437bee7
+  content: The Wilbert Smith 1950 memorandum on flying saucers is an official, uncontested
+    document written by Wilbert Smith.
+  original_excerpt: And then, and this is a, this is an official document. It's not
+    contested. This is a document that was, you know, written by him.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: speaker
+    origin: Chris Ramsay
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    slug: wilbert-smith
+  - node_id: b8f40be9-d8c9-4217-962f-2421f8d05a55
+    title: Wilbert Smith 1950 memorandum on flying saucers
+    slug: wilbert-smith-1950-memorandum-on-flying-saucers
+  date: null
+  date_end: null
+  location_in_record: 02:48:56.9-02:49:03.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null

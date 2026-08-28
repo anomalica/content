@@ -1,0 +1,402 @@
+schema: anomalica/brief/1
+brief_hash: fdb3221d0c2e8c0fe1dd5c42231ea9bf8de57edef1a60a5d968e55e3aa5b44d7
+page:
+  kind: entity
+  node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
+  node_type: organisation
+  title: Americans for Safe Aerospace
+  slug: americans-for-safe-aerospace
+  claim_count: 10
+  claim_count_total: 10
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+  title: Ryan Graves
+  node_type: person
+  slug: ryan-graves
+  shared_claims: 6
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 2
+- node_id: 785548fb-ff5e-444f-8db9-5de154ea4cf1
+  title: 2003 Vandenberg Air Force Base Unidentified Aerial Phenomena / Unidentified
+    Anomalous Phenomena (UAP) incident
+  node_type: event
+  slug: 2003-vandenberg-air-force-base-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-incident
+  shared_claims: 1
+- node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+  title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+  node_type: event
+  slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+  shared_claims: 1
+claims:
+- claim_id: ab2f212d-3754-4c55-8ea2-97288d736b40
+  claim_hash: 70875496d13e28f15dffc6973f08dad872e9f0a48451e994788672c3537d2c6a
+  content: Ryan Graves launched an organisation called Americans for Safe Aerospace
+    (ASA), which advocates for aerospace safety and national security.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
+    title: Americans for Safe Aerospace
+    slug: americans-for-safe-aerospace
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+    slug: ryan-graves
+  date: null
+  date_end: null
+  location_in_record: ch29:28922-29082
+  evidence:
+    score: null
+    independent_sources: 2
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: ea1c1e64-3d47-4ed3-b736-2a5345f5ec35
+  claim_hash: 77abefbde03ba1720a2eb881ddab34369dc7cc391dec268f9a81a6dc82b88629
+  content: Americans for Safe Aerospace (ASA) supports military and civilian pilots
+    and others in the aerospace industry who report Unidentified Aerial Phenomena
+    (UAP), demanding more disclosure from public officials.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
+    title: Americans for Safe Aerospace
+    slug: americans-for-safe-aerospace
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  date: null
+  date_end: null
+  location_in_record: ch29:29092-29218
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a4e6afd9-fbd9-4e3c-a9ce-f0e0ed5d4a65
+  claim_hash: b87e3f84afce1cefdd30d687c1e0bb19a83554d84fa42e61582def0cd6d0b91b
+  content: Ryan Graves is the Executive Director of Americans for Safe Aerospace.
+  original_excerpt: He is the Executive Director of Americans for Safe Aerospace.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Glenn Grothman
+  provenance_chain:
+    origin_kind: speaker
+    origin: Glenn Grothman
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
+    title: Americans for Safe Aerospace
+    slug: americans-for-safe-aerospace
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+    slug: ryan-graves
+  date: null
+  date_end: null
+  location_in_record: char:29911-29962
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 84b7279b-3df5-4fa1-97ca-103d67dcf61c
+  claim_hash: dadd1343d7041119a1e680e2c853bbe7e545a3b736e7d01591597ca09e785ddc
+  content: Ryan Graves testified at the 2023-07-26 House hearing on Unidentified Anomalous
+    Phenomena as Executive Director of Americans for Safe Aerospace.
+  original_excerpt: Mr. Ryan Graves, Executive Director, Americans for Safe Aerospace,
+    Oral Statement
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: the printed hearing volume
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
+    title: Americans for Safe Aerospace
+    slug: americans-for-safe-aerospace
+  - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+    title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+    slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+    slug: ryan-graves
+  date: '2023-07-26'
+  date_end: null
+  location_in_record: char:3166-3237
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 1d0f715d-89eb-4654-81fd-ff8b58be1317
+  claim_hash: 822881bf32e3decae41427a455ee6b24bdf4ac0b15da62fb7b6d061cba0b1a75
+  content: Ryan Graves founded Americans for Safe Aerospace.
+  original_excerpt: Recognizing the need for action and answers, I founded Americans
+    for Safe Aerospace.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ryan Graves
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
+    title: Americans for Safe Aerospace
+    slug: americans-for-safe-aerospace
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+    slug: ryan-graves
+  date: null
+  date_end: null
+  location_in_record: char:34203-34277
+  evidence:
+    score: null
+    independent_sources: 2
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 5f634167-7d07-4560-a064-cd12ac2fb826
+  claim_hash: 41d634d46fa879a43f9fa9780fb985ee6a259687783144ee90efeb583c2b7e75
+  content: More than thirty witnesses have come forward to Americans for Safe Aerospace
+    and almost 5,000 Americans have joined the organisation's push for transparency.
+  original_excerpt: More than thirty witnesses have come forward and almost 5,000
+    Americans have joined us in the fight for transparency at safeaerospace.org.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ryan Graves
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
+    title: Americans for Safe Aerospace
+    slug: americans-for-safe-aerospace
+  date: null
+  date_end: null
+  location_in_record: char:34423-34557
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 1b232bf5-f526-4510-88e4-4d9768f5d0d3
+  claim_hash: d391747a033476169cad950af43987a4bd8c796dbdeba9a0659183cc195844bd
+  content: The majority of witnesses coming forward to Americans for Safe Aerospace
+    are commercial pilots at major airlines, often veterans with decades of flying
+    experience.
+  original_excerpt: The majority of witnesses are commercial pilots at major airlines.
+    Often, they are veterans with decades of flying experience.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ryan Graves
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
+    title: Americans for Safe Aerospace
+    slug: americans-for-safe-aerospace
+  date: null
+  date_end: null
+  location_in_record: char:34563-34678
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 5ee9271a-8e09-4bb9-a30f-3eb40fdeb817
+  claim_hash: 3df3ce530d493d887db5aaa6f27cc837fcc8b8299b636b8869044a068a1d671f
+  content: Ryan Graves considers the most compelling UAP accounts brought to Americans
+    for Safe Aerospace to be those involving observations by multiple witnesses and
+    sensor systems.
+  original_excerpt: The most compelling involve observations of UAP by multiple witnesses
+    and sensor systems.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ryan Graves
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
+    title: Americans for Safe Aerospace
+    slug: americans-for-safe-aerospace
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  date: null
+  date_end: null
+  location_in_record: char:35142-35223
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: e65da470-625f-4bee-a9e6-f715c3665756
+  claim_hash: a0f88cf80b2c1e6698aa9aeba5aeb758cf7770e07f0312fd5865b83c3a5ebaef
+  content: Commercial pilots have reached out to Ryan Graves through Americans for
+    Safe Aerospace because they feel they have no other way to report UAP safety issues.
+  original_excerpt: the commercial pilots that have reached out to me through Americans
+    for Safe Aerospace are doing so because they do not feel there is another way
+    for them to report this safety issue
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ryan Graves
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
+    title: Americans for Safe Aerospace
+    slug: americans-for-safe-aerospace
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+    slug: ryan-graves
+  date: null
+  date_end: null
+  location_in_record: char:56196-56373
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+- claim_id: 3dd7ca4d-c96a-4e98-8c97-f8acfb1ce6fe
+  claim_hash: e75021ed2295698ca11f0fc2894a610201f87589d8cb2aa998ed4f3ff60424b0
+  content: During the 2003 Vandenberg Air Force Base UAP incident, objects approached
+    security guards at rapid speeds before darting off, according to information from
+    a witness who approached Ryan Graves at Americans for Safe Aerospace.
+  original_excerpt: These objects were approaching some of the security guards at
+    rapid speeds before darting off, and this is information that was received through
+    one of the witnesses that have approached me at Americans for Safe Aerospace.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a witness at Vandenberg Air Force Base who reported the 2003 incidents
+    relay:
+    - a witness who approached Ryan Graves at Americans for Safe Aerospace
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
+    title: Americans for Safe Aerospace
+    slug: americans-for-safe-aerospace
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+    slug: ryan-graves
+  - node_id: 785548fb-ff5e-444f-8db9-5de154ea4cf1
+    title: 2003 Vandenberg Air Force Base Unidentified Aerial Phenomena / Unidentified
+      Anomalous Phenomena (UAP) incident
+    slug: 2003-vandenberg-air-force-base-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-incident
+  date: null
+  date_end: null
+  location_in_record: char:74171-74383
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+    record_title: 'Unidentified Anomalous Phenomena: Implications on National Security,
+      Public Safety, and Government Transparency'
+    record_date: '2023-07-26'
+    record_reference: null
+    content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+    friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety

@@ -1,0 +1,398 @@
+schema: anomalica/brief/1
+brief_hash: 1e403069b4d3d6371c5842d87d499cec00ffa64fed186945844a47f9fb032d69
+page:
+  kind: entity
+  node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+  node_type: person
+  title: John Burroughs
+  slug: john-burroughs
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 224e26e2-c488-413d-9693-7726f1481df8
+  title: 1980 Rendlesham Forest incident
+  node_type: event
+  slug: 1980-rendlesham-forest-incident
+  shared_claims: 5
+- node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+  title: Jim Penniston
+  node_type: person
+  slug: jim-penniston
+  shared_claims: 3
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 2
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 2
+- node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+  title: John McCain
+  node_type: person
+  slug: john-mccain
+  shared_claims: 1
+- node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+  title: UK, Suffolk, Rendlesham Forest
+  node_type: place
+  slug: suffolk-rendlesham-forest-uk
+  shared_claims: 1
+- node_id: 134433ac-c317-4826-9edd-5f732f74521c
+  title: United Kingdom, London
+  node_type: place
+  slug: london-united-kingdom
+  shared_claims: 1
+- node_id: 1915ba67-3c4d-41a2-9376-29bda38fe841
+  title: United Kingdom, Suffolk, Rendlesham Forest
+  node_type: place
+  slug: suffolk-rendlesham-forest-united-kingdom
+  shared_claims: 1
+claims:
+- claim_id: 7618c631-209b-4bff-89bf-03d63723aa6e
+  claim_hash: d1d315445f9d2dac8379e5198ff517bf115672d3a0dfdbd537c793e7e5a90bd5
+  content: Airman John Burroughs saw strange flashing red, green and blue lights in
+    a clearing during the 1980 Rendlesham Forest UAP incident that threw off the image
+    of a craft, but he never saw anything metallic or hard.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+  provenance_chain:
+    origin_kind: speaker
+    origin: John Burroughs
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    slug: john-burroughs
+  date: null
+  date_end: null
+  location_in_record: ch12:7534-7713
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d048e30a-67a1-4f6a-88d3-4a5c7611b25f
+  claim_hash: 0e9e74c0777d58eacfb0ecab0bbc9c71aa0c2b6a74548a42b28a3982a5470299
+  content: Jim Penniston and John Burroughs claimed they saw a craft land in Rendlesham
+    Forest near the RAF Woodbridge base in Suffolk, England, on 1980-12-26.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Jim Penniston and John Burroughs
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 134433ac-c317-4826-9edd-5f732f74521c
+    title: United Kingdom, London
+    slug: london-united-kingdom
+  - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+    title: Jim Penniston
+    slug: jim-penniston
+  - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+    title: UK, Suffolk, Rendlesham Forest
+    slug: suffolk-rendlesham-forest-uk
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    slug: john-burroughs
+  date: '1980-12-26'
+  date_end: null
+  location_in_record: ch37:5623-5779
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d81cc4be-6bc9-487c-834e-f8cb317e3de9
+  claim_hash: 61a67059388181b63569268874a94d43a0a6a4434bd33fff0f0c93f21114fdc8
+  content: During the 1980 Rendlesham Forest incident, security policemen John Burroughs
+    and Jim Penniston found a landed Unidentified Aerial Phenomenon (UAP) in Rendlesham
+    Forest near a joint UK-US military facility in Suffolk, England, where the two
+    allies had stored nuclear weapons in a secret bunker.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1915ba67-3c4d-41a2-9376-29bda38fe841
+    title: United Kingdom, Suffolk, Rendlesham Forest
+    slug: suffolk-rendlesham-forest-united-kingdom
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+    title: Jim Penniston
+    slug: jim-penniston
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    slug: john-burroughs
+  date: 1980-12
+  date_end: null
+  location_in_record: ch18:4677-4925
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 1a4da6a6-833d-4b4c-93fa-2b6ed1ea36c9
+  claim_hash: 524edd6298a9196c82db8143e6a922c3f83004cc493a0fc6b829a5aa630c2c96
+  content: During the 1980 Rendlesham Forest incident, the watches worn by John Burroughs
+    and Jim Penniston lost forty-five minutes of time compared to the timepieces of
+    airmen back on base.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+    title: Jim Penniston
+    slug: jim-penniston
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    slug: john-burroughs
+  date: 1980-12
+  date_end: null
+  location_in_record: ch18:4972-5095
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 82288b0a-8414-4d85-9dc8-7e199716b606
+  claim_hash: f0d13c91d958ade817e64bbf6a8b338a45d6f7c9095244852723c146c1bfa1e4
+  content: After the 1980 Rendlesham Forest incident, John Burroughs experienced worsening
+    health effects including vision problems, white gums, heart murmurs and heart
+    tissue scarring, culminating in heart surgery to correct damaged leaflets in his
+    mitral valve.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    slug: john-burroughs
+  date: null
+  date_end: null
+  location_in_record: ch18:5153-5367
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 4037481f-1ab6-47e6-9b44-f06b06cef9e2
+  claim_hash: 707d01cc9fc68e5e2b07e57d31f7fa668bc91df47fb194e8f9a5e5f097aca8c7
+  content: John Burroughs experienced tissue degradation after he stood in close proximity
+    to a UFO during the 1980 Rendlesham Forest incident.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unattributed accounts
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    slug: john-burroughs
+  date: null
+  date_end: null
+  location_in_record: ch14:21487-21691
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 8f677546-d933-4d4d-9f0e-2b37f0cab4f1
+  claim_hash: 8abbf39f36a74749b29400a84d9774204a14a4265a72b5eb10197e9d1ea62258
+  content: John Burroughs experienced damage to his heart after his exposure to a
+    UFO during the 1980 Rendlesham Forest incident.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unattributed accounts
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    slug: 1980-rendlesham-forest-incident
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    slug: john-burroughs
+  date: null
+  date_end: null
+  location_in_record: ch14:21697-21726
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 71ebf44c-6c4f-4627-8edf-c5f530a037d1
+  claim_hash: 645bdf42a723910568d7b6bad891f53aebd4bb6c8fafae8767e82d10866809e9
+  content: Senator John McCain intervened to force the Department of Defense to declassify
+    John Burroughs's medical records so he could receive treatment for his continuing
+    health problems.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unattributed accounts
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 05e8b27d-7edd-4185-b79f-f0dd83e4717a
+    title: John McCain
+    slug: john-mccain
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    slug: john-burroughs
+  date: null
+  date_end: null
+  location_in_record: ch14:21737-21904
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 59a8f9ae-e24c-4c7d-836a-f4a7da0936e0
+  claim_hash: 7f6f112a48379a862b67fa13404398d5ddd134f10200505b7b063be0d823a7d1
+  content: John Burroughs's case is one of the few in which medical records have been
+    classified by the Department of Defense.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: null
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: unattributed
+    origin: unattributed accounts
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    slug: john-burroughs
+  date: null
+  date_end: null
+  location_in_record: ch14:21914-22014
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted

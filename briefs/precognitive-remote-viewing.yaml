@@ -1,0 +1,1131 @@
+schema: anomalica/brief/1
+brief_hash: 09ca9591b8bc465ab4b116ad67bdb2b69ebb4a2b47b1d20335913faae36efab6
+page:
+  kind: entity
+  node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+  node_type: topic
+  title: Precognitive Remote Viewing
+  slug: precognitive-remote-viewing
+  claim_count: 26
+  claim_count_total: 26
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+  title: Julia Mossbridge
+  node_type: person
+  slug: julia-mossbridge
+  shared_claims: 18
+- node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
+  title: unconditional love
+  node_type: topic
+  slug: unconditional-love
+  shared_claims: 8
+- node_id: d1e05233-43cd-4e3e-b9c3-d143478cd6a4
+  title: Dave Green
+  node_type: person
+  slug: dave-green
+  shared_claims: 2
+- node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+  title: Lucid Dreaming
+  node_type: topic
+  slug: lucid-dreaming
+  shared_claims: 2
+- node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+  title: Precognition
+  node_type: topic
+  slug: precognition
+  shared_claims: 2
+- node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+  title: artificial intelligence (Artificial Intelligence (AI))
+  node_type: topic
+  slug: artificial-intelligence-artificial-intelligence-ai
+  shared_claims: 2
+- node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+  title: Chris Ramsay
+  node_type: person
+  slug: chris-ramsay
+  shared_claims: 1
+- node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+  title: Edwin C. May
+  node_type: person
+  slug: edwin-c-may
+  shared_claims: 1
+- node_id: 940c7bb5-9378-417f-80d9-c250d2db70b1
+  title: Google Scholar
+  node_type: object
+  slug: google-scholar
+  shared_claims: 1
+- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+  title: Remote Viewing (RV)
+  node_type: topic
+  slug: remote-viewing-rv
+  shared_claims: 1
+- node_id: f884db59-9857-4303-bdbb-5d81b30ddbbd
+  title: binaural beats
+  node_type: topic
+  slug: binaural-beats
+  shared_claims: 1
+- node_id: 57e26296-4524-486b-a7ea-fc698140bb84
+  title: large language model (Large Language Model (LLM))
+  node_type: topic
+  slug: large-language-model-large-language-model-llm
+  shared_claims: 1
+- node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+  title: nonlocal consciousness
+  node_type: topic
+  slug: nonlocal-consciousness
+  shared_claims: 1
+- node_id: 42f18655-eca1-466e-a528-080032bfc0fb
+  title: synesthesia
+  node_type: topic
+  slug: synesthesia
+  shared_claims: 1
+claims:
+- claim_id: b4c5ea8c-4803-4b2a-9985-c53091881f25
+  claim_hash: 88d2cebd0cc6a9d568ab02af802e752d13b5aefe0eca5643bec2c228aef4a6ce
+  content: Precognitive Remote Viewing provides information that is predictive in
+    nature, or provides information on a target before it has been selected.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  date: null
+  date_end: null
+  location_in_record: ch14:9022-9157
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: d24b06ad-21ed-4ecd-a6b6-5d2f382072c1
+  claim_hash: 41140fba04659731a50379adeb5a72cde2673b44e88f082d8a9b508e880ee7e8
+  content: In an in-person experiment run for another purpose with 36 participants,
+    Julia Mossbridge found that participants who rated themselves as feeling a higher
+    level of unconditional love were significantly better at precognitive remote viewing.
+  original_excerpt: I just happened to notice that the folks who were rated themselves
+    as feeling a higher level of unconditional love, which was part of the experiment
+    for another reason, were also significantly better at precognitive remote viewing.
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
+    title: unconditional love
+    slug: unconditional-love
+  date: null
+  date_end: null
+  location_in_record: 01:01:42.9-01:01:56.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: c54f3f5c-0446-4409-8f31-57ff59924fdb
+  claim_hash: d5fd9542eb4e16000e30e80193854788c35823115a960a3b7e3cdd8901992bef
+  content: Julia Mossbridge does not recall the p-value from her 36-participant in-person
+    experiment linking unconditional love to precognitive remote viewing performance.
+  original_excerpt: I forget what the p-value was, but we only had 36 people, so it
+    was significant enough that with 36 people you saw it.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
+    title: unconditional love
+    slug: unconditional-love
+  date: null
+  date_end: null
+  location_in_record: 01:01:59.3-01:02:05.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: f5ce6772-cda4-427c-8651-5940e2438e64
+  claim_hash: 4cc4f406ecc95a8179b5415eca00b9fcc14eff7bc3bc4d2e66da380200f215c3
+  content: Julia Mossbridge replicated the unconditional love and precognitive remote
+    viewing finding in an online experiment with 305 participants, where the same
+    difference was still visible.
+  original_excerpt: Then I did it online with 305 people. you could still see that
+    difference.
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
+    title: unconditional love
+    slug: unconditional-love
+  date: null
+  date_end: null
+  location_in_record: 01:02:09.9-01:02:16.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 78319197-b653-4399-8c06-840314e621bf
+  claim_hash: 8a5e22ee13092f022194c0c1b0644be8ca58168bba710c9b80cf4734adb2c0ad
+  content: In Julia Mossbridge's experiments, participants who did not report high
+    levels of unconditional love performed at chance on precognitive remote viewing,
+    while those who did performed significantly above chance and significantly better
+    than the other group.
+  original_excerpt: people who didn't feel the high levels of unconditional love were
+    just at chance. People who did were significantly above chance and significantly
+    better than the people who didn't feel that love.
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
+    title: unconditional love
+    slug: unconditional-love
+  date: null
+  date_end: null
+  location_in_record: 01:02:18.8-01:02:29.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: c99eac46-b017-48d8-bc34-74f57533df06
+  claim_hash: 413229ad1249a02f6bd355906bb618774c5faa48795affa54ac0e76ad026d109
+  content: Julia Mossbridge considers binaural beats a possible aid to precognitive
+    remote viewing performance.
+  original_excerpt: So if you want to do precognitive remote viewing, there's probably
+    other things that can help. Binaural beats, maybe even need.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: f884db59-9857-4303-bdbb-5d81b30ddbbd
+    title: binaural beats
+    slug: binaural-beats
+  date: null
+  date_end: null
+  location_in_record: 01:02:30.0-01:02:38.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 85902115-f24f-4b22-a923-50f3119086af
+  claim_hash: 46c0d0b398e273cf9900b6395d15c0cc326a47547d427e34bd3953900c29fb12
+  content: Julia Mossbridge considers need, belief, personality type and nature all
+    important factors in precognitive remote viewing performance.
+  original_excerpt: I think need is really important. Belief is really important.
+    Personality type is really important. Nature.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 01:02:39.0-01:02:44.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 5661d124-7de9-4d88-97da-7c99ec0e13b7
+  claim_hash: 179edff53a65bbc7fa00d85bbbcf1f93150198be366e888b29b5420821f59fb7
+  content: Precognitive effects found with remote viewing can occur over days, weeks
+    or years, not only seconds or minutes.
+  original_excerpt: when you find it on the seconds or minutes time scale or with
+    remote viewing precognitive remote viewing it could be days, weeks, years.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  date: null
+  date_end: null
+  location_in_record: 01:21:43.5-01:21:50.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: c9bc3ca6-7c42-4e48-a11e-411f23935c03
+  claim_hash: ae204d3cdf280fbd806f9a35b504ef5b5419b0949b1f4e8e594fb634872c975a
+  content: 'Julia Mossbridge has studied precognition at two scales: unconscious physiological
+    responses on the 100-millisecond to seconds scale, and conscious, deliberate precognitive
+    remote viewing on the minutes, days and weeks scale.'
+  original_excerpt: I've gone to the really unconscious physiological scale and doing
+    things at the 100 milliseconds to seconds time scale. And then on the other end,
+    the more conscious, more deliberate precognitive remote viewing, you know, minutes,
+    days, weeks, et cetera, scale. So I've studied both of those.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    slug: precognition
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 01:22:10.2-01:22:35.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 57e58b9a-4d56-455e-849a-87363c365ab2
+  claim_hash: 8fb054ae3bceabc33e7083a964eb9033d4b3459794301b69becbed8121a3b965
+  content: In a precognitive remote viewing trial the participant draws a picture
+    or writes words to describe a target they are about to see, and in Julia Mossbridge's
+    studies is typically given two minutes because the participants are not skilled
+    viewers.
+  original_excerpt: which is draw a picture, write down some words, do whatever you
+    need to do to describe the target you're about to see ... in my studies i tend
+    to say like you have two minutes to do this because i'm working with people who
+    aren't very good
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 01:25:52.8-01:26:08.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: ddbce315-68c1-4474-863a-c87582d9d2e0
+  claim_hash: 9380c9a255963630435e987991a3e39e49c99072501921721236c43be663cf7b
+  content: In all of Julia Mossbridge's precognitive remote viewing studies the target
+    is not selected until just before it is shown, so the participant's data is already
+    gathered before anyone knows the target.
+  original_excerpt: 'Chris Ramsay: is the target already chosen? Julia Mossbridge:
+    oh no ... in all cases you don''t select the target until just before it''s shown
+    so the person has to already have all the data that you''re gathering'
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 01:26:09.5-01:26:19.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: f3b9b34f-11fe-4032-a84e-e1933c97e96a
+  claim_hash: 90327cad604d9ed531bbb218e4c8e67cdc2e43b842d313d3cf562f9598310611
+  content: One of Julia Mossbridge's precognitive remote viewing studies used a target
+    pool of 89 targets, with neither the participants nor the experimenters knowing
+    which would be selected.
+  original_excerpt: Like we had a target pool of like 89 targets. And so they were
+    gonna get one of them, but they didn't know what those, and we didn't either know
+    which one would be selected.
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 01:26:30.2-01:26:38.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 3257493b-bbba-4b66-8fd7-28dd31948408
+  claim_hash: a1d4290315b93b600dd4cffcaca5936e02cb2d340a896a8214622edd8dc73bf5
+  content: In the traditional scoring method for precognitive remote viewing, a participant's
+    drawing is given to independent judges who do not know the target and who choose
+    which of the candidate images it most resembles, with two independent judges used
+    so statistics can be run on their judgements.
+  original_excerpt: you give them to an independent judge who doesn't know what the
+    target was ... and you say, which one of these is this most like? and then they
+    make a judgment ... so you get two independent judges and you compare
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  date: null
+  date_end: null
+  location_in_record: 01:27:25.1-01:27:38.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 924ea923-73a1-4c0b-8c20-e57235a32b66
+  claim_hash: af3dbf6ac058d86e8bba4197787b102653c50d55b5e7e9656e1052b4ee291881
+  content: Ordinary people, who are not gifted remote viewers, perform precognitive
+    remote viewing at a rate above chance though not well.
+  original_excerpt: the results look like people can do this not great but like a
+    rate above chance
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  date: null
+  date_end: null
+  location_in_record: 01:27:41.1-01:27:44.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 86a12b10-915b-4d35-b151-3306abb08333
+  claim_hash: 4f44d8daa4d3e6edeef802d76d1a0df1ad4a71fb6f9a3676f906bb9d62a261fe
+  content: Participants perform better at precognitive remote viewing when they are
+    in a state of unconditional love.
+  original_excerpt: they can do better when they're in a state of unconditional love
+    so that's interesting
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
+    title: unconditional love
+    slug: unconditional-love
+  date: null
+  date_end: null
+  location_in_record: 01:27:46.1-01:27:50.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 537fb116-27a3-45b0-9882-74d82ea68268
+  claim_hash: 1da8b68bf5b8f5663fa9638bbedb713aead9cb64b41d1c76ef4e6887d8ebee40
+  content: Women perform better at precognitive remote viewing when they are a little
+    bit anxious.
+  original_excerpt: they can do better especially if they're women if they're a little
+    bit anxious so that's interesting
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  date: null
+  date_end: null
+  location_in_record: 01:27:51.6-01:27:56.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 723eca9d-6eba-4775-8fee-d16f7af60e23
+  claim_hash: c6dac07a932fe18c0f9857564565b1c54d525d74c2e8cc4285721303852903f1
+  content: Julia Mossbridge's more recent work uses large language models (LLMs) to
+    judge precognitive remote viewing responses, removing some human bias and finding
+    larger effects that were previously undetected.
+  original_excerpt: in the more recent work, we've been able to use AI, so LLMs, to
+    do that judging, to take away some of the human bias and to find actually better
+    and bigger effects that we didn't know were there.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (Artificial Intelligence (AI))
+    slug: artificial-intelligence-artificial-intelligence-ai
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
+    title: large language model (Large Language Model (LLM))
+    slug: large-language-model-large-language-model-llm
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 01:28:05.5-01:28:16.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 89015a38-6be5-4d7e-9944-8fe0d95a1230
+  claim_hash: b6b64de90018ab8ac0eaa83448e737c72b9552069a954024daa0c13bfadc8a69
+  content: Julia Mossbridge's team ran a precognitive remote viewing experiment with
+    Dave Green in his lucid dreams.
+  original_excerpt: And so we thought, well, can we teach him to be a precognitive
+    remote viewer in his lucid dreams? And so we did that kind of experiment with
+    him.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+    title: Lucid Dreaming
+    slug: lucid-dreaming
+  - node_id: d1e05233-43cd-4e3e-b9c3-d143478cd6a4
+    title: Dave Green
+    slug: dave-green
+  date: null
+  date_end: null
+  location_in_record: 01:28:46.0-01:28:54.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 17b98e40-8ffc-46ba-ae0e-56d5a5b94486
+  claim_hash: b989f60647bf5cb2aebb6612281b2cdb8df7de99082d01079b7e84d36dcb45d2
+  content: In the lucid-dream precognitive remote viewing experiment with Dave Green,
+    human judges found little correspondence across 10 dreams except one striking
+    case, while five different artificial intelligence models found that same case
+    plus further correspondences that could then be analysed statistically.
+  original_excerpt: the human judges, they could not find really much correspondence,
+    except for one case which was really striking out of 10 dreams ... good ai judges
+    found that case we tried five different models found that same case but also found
+    all these other cases and correspondences and then we could do statistics on that
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: artificial intelligence (Artificial Intelligence (AI))
+    slug: artificial-intelligence-artificial-intelligence-ai
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+    title: Lucid Dreaming
+    slug: lucid-dreaming
+  - node_id: d1e05233-43cd-4e3e-b9c3-d143478cd6a4
+    title: Dave Green
+    slug: dave-green
+  date: null
+  date_end: null
+  location_in_record: 01:28:54.8-01:29:18.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 80514ecd-3302-4404-906f-a026038502d5
+  claim_hash: 6046007a1efcb3d3a2b601c9d70a9719c3885e6efa31e34fe7ff82bddc32a043
+  content: Julia Mossbridge considers precognitive remote viewing effects to be large
+    and statistically well supported, but finds that people prefer not to discuss
+    them and that the studies are hard to find in Google Scholar, effectively buried.
+  original_excerpt: the precognitive remote viewing effects which are big and um i
+    think i think i did pretty good statistics on those people just don't talk they
+    refer not to talk about them and and it's hard to find them in google scholar
+    um they're sort of buried somehow
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: 940c7bb5-9378-417f-80d9-c250d2db70b1
+    title: Google Scholar
+    slug: google-scholar
+  date: null
+  date_end: null
+  location_in_record: 01:45:11.9-01:45:27.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 524688e5-0b61-4be2-ae88-83bf2ec9c8cb
+  claim_hash: 0bc05d6494d2ad3dfc9aef1f8668e1459615f07693b794e02f25dc73de3904f4
+  content: Julia Mossbridge performed the statistical analysis on studies of precognitive
+    remote viewing effects.
+  original_excerpt: i think i did pretty good statistics on those
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 01:45:16.5-01:45:18.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 3d446bac-f938-49f3-9f4d-452adb7304de
+  claim_hash: 989422452eb9c5a2ca650f492bc39555e8bfa0a20c6feeb00e80e45c892ace12
+  content: Edwin May frequently discusses precognitive remote viewing, and there is
+    a large effect size for it, especially among gifted remote viewers.
+  original_excerpt: We know that Ed May, Dr. Ed May, as you call him, talks about
+    this all the time. We know that there's a big effect size, especially for gifted
+    remote viewers.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: named
+    origin: Edwin May
+    relay:
+    - Julia Mossbridge
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  date: null
+  date_end: null
+  location_in_record: 01:45:39.4-01:45:48.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 779fed9d-32aa-4b3c-a075-7f3c828fb2e2
+  claim_hash: 8733d9906846b520b871affd5160d762841e10f72bd8a7499e56b9c9286dfe11
+  content: Julia Mossbridge wants to run an experiment testing whether precognitive
+    remote viewers tend to be temporal synesthetes.
+  original_excerpt: i really want to do an experiment where we look at time synesthesia...
+    But I would love to find out if other precognitive remote viewers tend to be temporal
+    synesthetes.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 42f18655-eca1-466e-a528-080032bfc0fb
+    title: synesthesia
+    slug: synesthesia
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  date: null
+  date_end: null
+  location_in_record: 01:46:09.4-01:46:13.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: e251358c-6de2-4461-8d19-376ffd29fbd6
+  claim_hash: 80f63906e156eb2c52bc0a7376e477c8152dc1961c7ae06dacb2c049c288e011
+  content: An anonymous audience question submitter asked what love actually changes
+    in precognitive remote viewing.
+  original_excerpt: What does love actually change in precognitive remote viewing?
+  claim_type: administrative
+  attestation: second_hand
+  speaker:
+    node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person submitting an audience question to the episode
+    relay:
+    - Chris Ramsay
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    slug: chris-ramsay
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
+    title: unconditional love
+    slug: unconditional-love
+  date: null
+  date_end: null
+  location_in_record: 02:37:08.3-02:37:11.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 45cc8b04-7bf9-4640-99c8-9185170b6e42
+  claim_hash: 9103bbd016bdadd11a5d2bee7b58c450a94b164500ffc4ac47531069ae83ed4f
+  content: Julia Mossbridge believes being in a state of unconditional love does not
+    itself change anything but removes conditions on time and space, so a person no
+    longer restricts where in the universe they can draw information from.
+  original_excerpt: So unconditional love doesn't change anything, but what it does
+    do is when you are already in a state of unconditional love, I think what it actually
+    allows you to do is not have any conditions on time or space. So it's almost like
+    a belief factor. It's like if you could imagine the universe as this giant bubble
+    of love, why are you privileging or saying that you could only get information
+    from this half of the universe, but not this half of the universe
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
+    title: unconditional love
+    slug: unconditional-love
+  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+    title: nonlocal consciousness
+    slug: nonlocal-consciousness
+  date: null
+  date_end: null
+  location_in_record: 02:39:07.7-02:39:38.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null
+- claim_id: 85e94e0a-36b8-41e0-a45e-3c2dc2d99a73
+  claim_hash: 6255f12f57daf723703f89e371225714676f1b5bc887ea3c5cbfde09584c9c77
+  content: Julia Mossbridge holds that what unconditional love changes in precognitive
+    remote viewing is a person's perspective or belief that they are connected to
+    something they previously did not know they were connected to, because a condition
+    had been in place.
+  original_excerpt: So I think if it changes anything, it would change your perspective
+    or belief that you're connected to something that previously you didn't know you
+    were because you were having a condition. Like, I can't love that.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+  provenance_chain:
+    origin_kind: speaker
+    origin: Julia Mossbridge
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    slug: precognitive-remote-viewing
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    slug: julia-mossbridge
+  - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
+    title: unconditional love
+    slug: unconditional-love
+  date: null
+  date_end: null
+  location_in_record: 02:39:46.8-02:39:58.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+    record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia
+      Mossbridge | ep. 99
+    record_date: '2026-08-14'
+    record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+    content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+    friendly_name: null

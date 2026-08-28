@@ -1,0 +1,2208 @@
+schema: anomalica/brief/1
+brief_hash: f86b6b9ae3a0cd49715701c558e6e266d1495c68483a23ffd970738839291714
+page:
+  kind: entity
+  node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+  node_type: project
+  title: Project STARGATE
+  slug: project-stargate
+  claim_count: 58
+  claim_count_total: 58
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+  title: United States Army
+  node_type: organisation
+  slug: united-states-army
+  shared_claims: 13
+- node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+  title: Ed Dames
+  node_type: person
+  slug: ed-dames
+  shared_claims: 7
+- node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+  title: Remote Viewing (RV)
+  node_type: topic
+  slug: remote-viewing-rv
+  shared_claims: 7
+- node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+  title: USA, Maryland, Fort Meade
+  node_type: place
+  slug: maryland-fort-meade-usa
+  shared_claims: 6
+- node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+  title: Joseph McMoneagle
+  node_type: person
+  slug: joseph-mcmoneagle
+  shared_claims: 5
+- node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+  title: Ingo Swann
+  node_type: person
+  slug: ingo-swann
+  shared_claims: 4
+- node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+  title: Coordinate Remote Viewing
+  node_type: topic
+  slug: coordinate-remote-viewing
+  shared_claims: 3
+- node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+  title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+  node_type: organisation
+  slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+  shared_claims: 3
+- node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  title: Central Intelligence Agency (CIA)
+  node_type: organisation
+  slug: central-intelligence-agency-cia
+  shared_claims: 2
+- node_id: e2efd58c-5412-408a-a1ac-4240bbfcd154
+  title: 2017 Central Intelligence Agency (CIA) declassification of Project Stargate
+    records
+  node_type: event
+  slug: 2017-central-intelligence-agency-cia-declassification-of-project-stargate-records
+  shared_claims: 1
+- node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+  title: Dowsing
+  node_type: topic
+  slug: dowsing
+  shared_claims: 1
+- node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+  title: Edwin C. May
+  node_type: person
+  slug: edwin-c-may
+  shared_claims: 1
+- node_id: e0dbc50e-4e0a-47b9-83bc-1899974adaa7
+  title: Psi Conducive States
+  node_type: document
+  slug: psi-conducive-states
+  shared_claims: 1
+- node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+  title: Robert Monroe
+  node_type: person
+  slug: robert-monroe
+  shared_claims: 1
+- node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+  title: SRI International
+  node_type: organisation
+  slug: sri-international
+  shared_claims: 1
+- node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+  title: Stanford Research Institute (SRI)
+  node_type: organisation
+  slug: stanford-research-institute-sri
+  shared_claims: 1
+- node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+  title: The Monroe Institute
+  node_type: organisation
+  slug: the-monroe-institute
+  shared_claims: 1
+- node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
+  title: USA, California, Menlo Park
+  node_type: place
+  slug: california-menlo-park-usa
+  shared_claims: 1
+- node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  title: United States Air Force (USAF)
+  node_type: organisation
+  slug: united-states-air-force-usaf
+  shared_claims: 1
+- node_id: 33853e8e-4eae-4c23-81c8-f8b8d6f405aa
+  title: Washington Monument
+  node_type: object
+  slug: washington-monument
+  shared_claims: 1
+- node_id: 979798c9-ca80-40f6-8e98-b3541c929f22
+  title: William G. Braud
+  node_type: person
+  slug: william-g-braud
+  shared_claims: 1
+claims:
+- claim_id: 1a6f4d11-5927-4528-9cf6-18a4c8bf8603
+  claim_hash: 5504acd12b575095c1e5b857649adfda2b2c0e122b360874cc75a48685152b1d
+  content: Many remote viewing methods were used within Project STARGATE, but some
+    methods were not used within Project STARGATE.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch14:10113-10175
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 0e9645e7-e151-47b5-a624-62a73b4d2e4d
+  claim_hash: 1d481a4c2a99b33c84fa622040e00a88e1c4fe53767c5f240375e03956c28229
+  content: Project STARGATE originally involved extensive psychological testing, numerous
+    interviews, and a gradual programme of exposure to ensure that only centred and
+    stable individuals were allowed to participate.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch15:12087-12379
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: ca499dae-94b9-4ce8-9243-9cb2a3ab56b7
+  claim_hash: c054e85f8e4d9043dccc6d9f4a1f518a60503783b00a6faa10a297e13dc052b8
+  content: Joseph McMoneagle states that the practice of psychological testing, interviews,
+    and gradual exposure of Project STARGATE participants was later terminated, reopening
+    the risk of psychological harm including self-delusion regarding remote viewing.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch15:12383-12524
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 360f75de-d565-4523-9e7f-55cc1eb43ba9
+  claim_hash: 1bce3f5781830b21808ca97e0ae6921e8bc12c8187a9dd4dc2cf04c7299a3065
+  content: In the early stages of Project STARGATE, there was concern about the psychological
+    stability of the participants.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch15:488-641
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: f84226f6-b364-44eb-a6b9-efff18d89434
+  claim_hash: bfe6326dad13b9c1065165d4b556b6d5950e7916d3d21ec80feb6f59072aa292
+  content: When organising Project STARGATE, the people involved first looked to SRI
+    International, where remote viewing had already been studied for nearly five years.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    slug: sri-international
+  date: null
+  date_end: null
+  location_in_record: ch16:1216-1429
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 63df4ec4-d207-4b0e-bc56-a99088738252
+  claim_hash: 77e14e484b2eaa6517abc91915e2b7020f463380ba570daa3f5ac43779b0f9b4
+  content: At the beginning of Project STARGATE, all of the methods for evaluating
+    or judging remote viewing material were tuned to drawings.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch16:18779-18884
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 3857c148-bd5d-4775-b099-711a055bf00c
+  claim_hash: 90f8f74665c1eeb23db25dacc5a4af364542ca85cde5d3bccb732c14baba7ca7
+  content: At the outset of the military Project STARGATE, great effort was made to
+    ensure the psychological stability of remote viewing participants through testing,
+    multiple interviews, and a long-term vetting process.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch16:34233-34403
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 2d8b9fc3-68dd-4091-a5de-c0e93e9fff6e
+  claim_hash: e5ef3e0c08684a95a86057d415fc36f79e51d7620177bb33fba93b652fc15632
+  content: Later in Project STARGATE, a decision was made to stop the extensive psychological
+    vetting testing of participants in order to reduce costs.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch16:34414-34504
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 22ce907d-f554-48a6-b2d5-633fc22c0007
+  claim_hash: 97fd17d1dc1b8971c02c1284b4bee4d4a396bc824451c37bfadccc678d770ca0
+  content: Joseph McMoneagle states that after psychological vetting testing was dropped
+    from Project STARGATE, otherwise stable individuals in more than one case were
+    stripped of their psychological boundaries and became emotionally, mentally, or
+    both unstable as a result.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch16:34511-34812
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 34300682-2fbe-4514-94cc-af8b33023e84
+  claim_hash: f63e75bde4984d885a7ee6bc6523ce6cc85e62a2ed27a3b518bbce5558df3142
+  content: William G. Braud's paper "Psi Conducive States" was used by the founders
+    of the Army's Project STARGATE to identify possible remote viewing subjects.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: 979798c9-ca80-40f6-8e98-b3541c929f22
+    title: William G. Braud
+    slug: william-g-braud
+  - node_id: e0dbc50e-4e0a-47b9-83bc-1899974adaa7
+    title: Psi Conducive States
+    slug: psi-conducive-states
+  date: null
+  date_end: null
+  location_in_record: ch16:6126-6366
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 907ad3e2-f8f1-4d7f-9dd0-98a8cf4f0fb3
+  claim_hash: c58aa0e7d2c5defc0d883383c99865342665e0c305fb6dd141e01a775c8f8332
+  content: The United States Army decided to find, train, and use remote viewers for
+    Project STARGATE.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:788-912
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 1f84dd06-32f0-4758-bfc1-bd3f4619137a
+  claim_hash: 382410d69f86dc90bc848446d825c77f4ac6387674cc25096e371cd50bf47c07
+  content: When Project STARGATE was being organised, no known method existed for
+    training someone in remote viewing.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch16:919-1088
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: b5a6d826-7c0a-4a65-8ff4-757b3fc2a77b
+  claim_hash: caf452aea2a1a9a92cd8d55409b4e84ed36771d9459e75ec566508039b95f274
+  content: The military personnel tasked with finding psychics for Project STARGATE
+    compiled their own list of possible indicators against a military background,
+    used as general guidelines to identify the programme's original psychics.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:9411-9677
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 1ce81f56-68ae-4b25-af50-bbca83edf7ac
+  claim_hash: f6d19a6f155f47ec1e1f696ac64c131e238488cef5cbecd36b5bc0f2c39b860e
+  content: Among the military's indicators for identifying psychics for Project STARGATE
+    was consistent success whatever the task.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:9582-9622
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 30cef02f-3b65-4cec-8da2-989fc47972ec
+  claim_hash: b52a60179fc23d25ffa5337b82c31037b41cfd2d19e1a3b3f5ae8229bb403db1
+  content: Among the military's indicators for identifying psychics for Project STARGATE
+    was being liked by peers but considered different from the norm.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:9629-9681
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: eca21de3-17b7-4d3c-8b92-4a2c69d4dba1
+  claim_hash: 9b6c9cdc5a55a123271298e3e5797f4b983e4bf131974b148ae34cb5df4ce518
+  content: Among the military's indicators for identifying psychics for Project STARGATE
+    was generally operating outside normal boundaries.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:9688-9725
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 2c635ae1-2580-487f-b6c4-11a15af53c5e
+  claim_hash: 676fbfc8645e44324bd38f4b89c8b26ca2868833ef8e6ede8903d7f891d56bce
+  content: Among the military's indicators for identifying psychics for Project STARGATE
+    was being willing to pursue new avenues of approach.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:9738-9774
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 21a07bf4-c341-4a21-8c83-4a3c8fbe362e
+  claim_hash: 2fe69f5ee6fc0c5a7b47defe89911e8ff09f37ab0966b51de6b93523f9f82f30
+  content: Among the military's indicators for identifying psychics for Project STARGATE
+    was being open to whatever works.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:9785-9805
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 58c44278-5d99-48ae-94bc-f3d0a4c4d0a1
+  claim_hash: bcf4e4c65a2a5b135eeae8d32300f97501c134b425cc6c75d8c93ec6a71482a9
+  content: Among the military's indicators for identifying psychics for Project STARGATE
+    was being capable of critical thought and unafraid to voice an opinion.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:9813-9869
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: c3e08493-8528-46f9-8fcc-e9b18a07192b
+  claim_hash: 34a6cb1300534ff4d65c4859d71b1ddefde1664fb5bdb0db644119610274f02b
+  content: Among the military's indicators for identifying psychics for Project STARGATE
+    was being highly and uniquely creative.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: ch16:9879-9902
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 4602e95f-a749-450f-83e2-aa4365e1b70c
+  claim_hash: 66c6f866b0bd07cb24c5b020b0bd25e9ce23d25ac68757c53003e16b9b9f7ee3
+  content: The military side of Project STARGATE used military maps with a different
+    coordinate system than standard grid coordinates, in which letter and number combinations
+    change based on the specific military map used, in an attempt to counter scepticism
+    about eidetic memory.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+    title: Coordinate Remote Viewing
+    slug: coordinate-remote-viewing
+  date: null
+  date_end: null
+  location_in_record: ch17:11119-11361
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: c57b12c7-d9fd-4670-8ecb-1457e1e28a18
+  claim_hash: ce373eb11ef5b7cb5c3d7844e6c1f4de390200f8e7f44d54f0c18c23046b5eb7
+  content: On the military side of Project STARGATE, real map coordinates were placed
+    inside sealed and opaque envelopes with false coordinates, lacking degrees, minutes,
+    and seconds, written on the outside to serve only as an identifier for that day's
+    project.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+    title: Coordinate Remote Viewing
+    slug: coordinate-remote-viewing
+  date: null
+  date_end: null
+  location_in_record: ch17:11790-12135
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 17cf6ee0-2197-4333-84b1-27a220a4fef3
+  claim_hash: 53e50e2cced92ebbef07a766ec5fa72682dcdcf1dc337acaaf67166716f5d91e
+  content: Protocols developed within the military during Project STARGATE extended
+    established remote viewing protocols to address additional target categories including
+    ideas, concepts, plans, thoughts, feelings, and emotions.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch17:3054-3267
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 1c2c0e2f-393a-4a4f-a93c-6dd7beb87e61
+  claim_hash: 9ea112fb2d7015fb4ecbfd229e92749d817647f1a3a45a969315ad181921d417
+  content: Joseph McMoneagle was originally trained in dowsing while assigned to Project
+    STARGATE at Fort Meade, Maryland.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+    title: Dowsing
+    slug: dowsing
+  date: null
+  date_end: null
+  location_in_record: ch17:36051-36131
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: ec5b8052-5c0a-4271-bf40-d478acc02646
+  claim_hash: 3622ee107e6f9c906dfa841dde14c2a7c51d860d11b6e765a59075092a858219
+  content: In Project STARGATE, no one was considered a remote viewer until they finished
+    training.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch22:492-567
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: e508e249-afa1-4443-8bec-54e51458ce29
+  claim_hash: dca36a3ab1d0c12b7d4852beb43b93184a4d8e2078a117d463abf34d47314038
+  content: Training in Project STARGATE was almost always a minimum of three to eighteen
+    months, depending on the person's innate talent.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch22:582-758
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 0da4cc40-ece6-4ce4-b095-2c42848c289c
+  claim_hash: f0628fa208002011e25990438bdffde930727d608d49e7b132a54366c0ad25c9
+  content: Someone with a lot of natural talent for remote viewing could usually become
+    quite productive within ninety days of training in Project STARGATE.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch22:764-849
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 720c69a9-34ce-4029-a70b-b76b0df91e78
+  claim_hash: 497adb8c6ec11a6e65d1f092920d04f1412d41f18a9c84569778b5a0b0ed140d
+  content: Some trainees in Project STARGATE with very little natural talent either
+    took the full term of training or failed to complete it.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch22:855-967
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 2ebc91db-42a1-4da0-914d-cbc98615e51a
+  claim_hash: 2e0760d6afedaaa46d1070d1c14d12ce75d14de458cbcb9aa0f78ebb09bb09e5
+  content: Dozens of targets worked by viewers within Project STARGATE made successful
+    predictions relating to events involving people, places, or things, generally
+    90 to 365 days out.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch23:12195-12389
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 9fa9f0bc-7d66-4fbb-844d-19ee9e85843c
+  claim_hash: fa30712567e75d316bbba671990b271d457dbe7573398a2180df8a79961e8159
+  content: Project STARGATE was terminated in November 1995.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: 1995-11
+  date_end: null
+  location_in_record: ch26:17103-17147
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 1da01218-ad52-42c9-8e13-8320a0f317b1
+  claim_hash: e183d9f1ccccb17228f6ae0254f89bf4a621e953adf37c3befbdc02fa12d8375
+  content: Since Project STARGATE was terminated, Joseph McMoneagle has had interaction
+    with dozens of television production companies, a number of newspaper, magazine
+    and book writers, and live and taped radio show hosts.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: ch26:17153-17315
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: c832d5ea-7222-4768-ba54-b5bb770e10eb
+  claim_hash: cfb59ad5ade8d39e26a537098744b522f43da9052120d1048a90b6e478325730
+  content: During his consultancy from 1984 to 1995, Joseph McMoneagle participated
+    in protocol design, research and development evaluations, and thousands of remote
+    viewing trials in support of experimental research and active intelligence operations
+    for Project STARGATE.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: ch4:1292-1474
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 5238c66b-a9f5-4778-8e30-ea34350a5640
+  claim_hash: 49fd88cf5d14aafb96199edb96420f51f3fa8de47f214e7c2e912241f3d877a5
+  content: As of the writing of this handbook, ninety-nine percent of the material
+    relating to the operational Fort Meade unit of Project STARGATE had not yet been
+    declassified or made available to the public.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: ch9:12963-13101
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 89143734-1d5f-4192-9d95-2e00e30542cc
+  claim_hash: d3c4542941155e482dd60c01f55ed5a8c567adae737c0f7d48a8cfc887aa2322
+  content: Joseph McMoneagle was one of the original remote viewers recruited into
+    Project STARGATE, the secret Army project designed to use trained remote viewers
+    for intelligence purposes during the Cold War.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: null
+  date_end: null
+  location_in_record: ch9:1518-1738
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 40db8ff5-9190-4236-8662-1971b9dada75
+  claim_hash: 38782bb295e11372fdd462630220bf614f184c73719141372863c6071e83353b
+  content: Joseph McMoneagle performed applications remote viewing in support of Project
+    STARGATE for nearly eighteen years, until the project closed in November 1995.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+    slug: joseph-mcmoneagle
+  date: 1995-11
+  date_end: null
+  location_in_record: ch9:1752-1916
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: f81a036c-730b-4082-a39d-f7a602572282
+  claim_hash: aabc9b48ed5af28db622621ebbd82c2104dc3f775923e11847b554f73682a3b0
+  content: Over the course of the eighteen years of Project STARGATE, counting support
+    and viewer personnel, probably eighty to eighty-five people were involved in the
+    project on both the scientific and operational sides.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch9:2589-2786
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: f79243f7-6c87-4c80-a8ca-0dcf78c79e04
+  claim_hash: a5bfaa05df057960974a3254faed7cce4302181be2827d71a39023001e492e78
+  content: Probably fewer than three dozen of the people involved in Project STARGATE
+    were remote viewers.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch9:2887-2931
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 7538a6df-66e1-44a3-930a-0ea547e263ed
+  claim_hash: 8dcc16aa5bfc7d47ec507b17f3fd6c5844d262f3e9bd138b094359f6d03a9d66
+  content: About half of the non-viewer personnel involved in Project STARGATE were
+    scientists, and the remainder performed support functions such as evaluation,
+    analysis, and operational monitoring.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch9:2940-3076
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 70416c1d-2370-4af9-ae46-d9c401d808b6
+  claim_hash: 5b1326a532d520d3cea15f51dc675255aaef5f0e9808e056dc2d53b370229de6
+  content: Some members of Project STARGATE believed anyone could be taught remote
+    viewing, while others believed remote viewing could not be taught.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: members of Project STARGATE
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: ch9:3779-3945
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 42a1e688-629a-4f67-b440-b62ef6ac89c5
+  claim_hash: eb04c5476b19f392563806808cbe9db60cd109f5ddc7ce566fe34dc9a7b72ced
+  content: Edwin C. May and his colleagues were directly responsible for the Cognitive
+    Sciences Laboratory's accomplishments from 1986 through the termination of Project
+    STARGATE in November 1995.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+    title: Edwin C. May
+    slug: edwin-c-may
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+  date: '1986'
+  date_end: null
+  location_in_record: ch9:7827-7931
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: e74a0e85-b437-4e01-9e67-d3bd94306800
+  claim_hash: 9b4e506254348fc6f3baa5cee78bf51cf49af6160db4343062a00be60f2e00bf
+  content: Findings and materials from the Cognitive Sciences Laboratory were shared
+    with and used within the operational element of Project STARGATE, located at Fort
+    Meade, Maryland, for most of the time it existed.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: ch9:8678-8853
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: 03ab0d79-abbb-4414-82e9-789754dd07da
+  claim_hash: a420b44325c668f23d78698413f2714e2228bd6719cc793b2b8fa8cd89a2149a
+  content: Research findings at the Cognitive Sciences Laboratory that established
+    changes to specific remote viewing applications were sometimes dismissed as unnecessary
+    or discarded by the Fort Meade project managers of Project STARGATE.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+    title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+    slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: ch9:9090-9364
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: b5c01ea5-830a-4b1d-9946-ff3825a6e6cc
+  claim_hash: e0503387d8c55f827142e9f57e6a272089791910518beb81391bca35e36c24b1
+  content: There was a large discrepancy between good and bad managers within Project
+    STARGATE, with full managerial responsibility for the project residing within
+    the Fort Meade unit.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+    title: Joseph McMoneagle
+  provenance_chain:
+    origin_kind: speaker
+    origin: Joseph McMoneagle
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: para 44
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+    record_title: Remote Viewing Secrets
+    record_date: '2013-03-22'
+    record_reference: null
+    content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+    friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  excerpt_withheld: restricted
+- claim_id: e0021f48-b8f6-41d0-88ae-4e342214c968
+  claim_hash: dc9a68f32c9bba46e88a5b0794561c1d15a541d9e92cc9c8b6334ab385745b26
+  content: During the Cold War, the United States government sought a new weapon,
+    described as mind reading, to gain an advantage over the Soviet Union.
+  original_excerpt: During the height of the Cold War, the United States government
+    embarked on a mission to gain an advantage over the Soviet Union. To do this,
+    they sought to use a new weapon that could give them an edge in the conflict.
+    Mind reading.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: 00:02:38.4-00:02:51.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: d37c3643-5c69-4a19-8ba7-d255bcbf15ec
+  claim_hash: c64a23f7ebb39c583ec0ea8039ea721643b1787d580003e9cb0b9efc21fe7e5a
+  content: Project Stargate began as a highly classified project in a research lab
+    in California in the 1970s before moving to a Maryland army base.
+  original_excerpt: they initiated a highly classified project that began in a research
+    lab in California in the 70s before moving to a Maryland army base
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 519ffe73-bcd6-4274-abfc-c2640086f2f0
+    title: USA, California, Menlo Park
+    slug: california-menlo-park-usa
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+    title: USA, Maryland, Fort Meade
+    slug: maryland-fort-meade-usa
+  date: null
+  date_end: null
+  location_in_record: 00:02:54.5-00:03:01.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: bd0a90a5-d5bb-420b-8c6c-5c5244b8aa69
+  claim_hash: 6ef3dd1c82aa998c6c0b567fd6b78edf54eec5c062d546e195989ad01498e7d1
+  content: In 2017, the Central Intelligence Agency (CIA) declassified approximately
+    12 million pages of records revealing new details about the programme now known
+    as Project Stargate.
+  original_excerpt: recently, in 2017, the CIA declassified some 12 million pages
+    of records, which revealed new details about the program, now known as Project
+    Stargate
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: e2efd58c-5412-408a-a1ac-4240bbfcd154
+    title: 2017 Central Intelligence Agency (CIA) declassification of Project Stargate
+      records
+    slug: 2017-central-intelligence-agency-cia-declassification-of-project-stargate-records
+  date: '2017'
+  date_end: null
+  location_in_record: 00:03:31.6-00:03:41.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 787f42e0-49f6-4aa4-9794-e5a43c68cd87
+  claim_hash: ba269536fb9b84029dbf9f7c7c2154d013ba6cfa899f54852bcfa5e2f12e0d89
+  content: Remote viewers involved in Project Stargate took part in operations to
+    locate hostages kidnapped by Islamic terrorist groups.
+  original_excerpt: From locating hostages kidnapped by Islamic terrorist groups to
+    tracing the paths of fugitive criminals within the United States.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: 00:03:48.5-00:03:54.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: fb0428b1-8f1e-42cd-99ff-4b4fb57af2d8
+  claim_hash: a68e49ccfbf085a3fd4f5c49218d2346fdda565dfdb618c2c419a66f05740f5a
+  content: Remote viewers involved in Project Stargate took part in operations tracing
+    the paths of fugitive criminals within the United States.
+  original_excerpt: tracing the paths of fugitive criminals within the United States
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    slug: remote-viewing-rv
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: 00:03:51.9-00:03:54.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: a97304b7-f1fd-4f18-8f29-57e3f5828485
+  claim_hash: 479098c38a2350d04105df6cdb3a16a735d870c36ae60e3e36ed9411dcaee7eb
+  content: Ed Dames claims he was trained by Ingo Swann as a remote viewer in Project
+    Stargate while serving in the United States Army in the 1980s.
+  original_excerpt: a gentleman by the name of Major Ed Dames, a retired U.S. Army
+    major who claims that he was trained by Ingo Swann as a remote viewer in Project
+    Stargate while serving in the Army in the 80s
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: Ed Dames
+    relay:
+    - narrator
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+    slug: ed-dames
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+    title: Ingo Swann
+    slug: ingo-swann
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: null
+  date_end: null
+  location_in_record: 00:23:47.1-00:23:58.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 248633cf-cf94-493a-bada-76d75f25ec90
+  claim_hash: 9d7cf9c0f75fdbf41849eb8f4bc01c8c9337d8b0fd42f8200ef1353c17a102a3
+  content: Ed Dames was part of Project Stargate in the 1980s.
+  original_excerpt: Major Ed Dames, who was part of the Sci-Spy program in the 80s.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narrator
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+    slug: ed-dames
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: 00:26:21.6-00:26:25.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: e8a36c0e-bef2-4548-a6a6-189e68f69773
+  claim_hash: bc7861bbae748e5c1a6e53e9bb7a452a9864f90c733fca65c7a8bf635e7fb98a
+  content: Ed Dames was the former operations and training officer for the Department
+    of Defense's Project Stargate program.
+  original_excerpt: I am the former operations and training officer for the Department
+    of Defense Stargate program.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ed Dames
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+    slug: ed-dames
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: 00:29:25.9-00:29:31.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 4db39899-5a7f-447b-98bc-13778b341d64
+  claim_hash: 2ee7634c4f11bf45e9611f15fcab92c0bfa220974143956147608a32c23c443e
+  content: Ed Dames was selected as one of five prototype Army members to be trained
+    by Ingo Swann in Project Stargate during 1983 and 1984.
+  original_excerpt: When I was selected as one of the five prototype members, Army
+    members, to be trained by Ingo Swann, my mentor, to whom I later became protege,
+    and that was 1983 and 1984.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ed Dames
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+    slug: ed-dames
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+    title: Ingo Swann
+    slug: ingo-swann
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    slug: united-states-army
+  date: '1983'
+  date_end: null
+  location_in_record: 00:29:32.8-00:29:45.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 1484491c-9df4-47f0-8239-538988885b5e
+  claim_hash: 95da9a20485129c1a9c73399f5e7b1f951486898719bde0d9389bd85080e2290
+  content: Ingo Swann developed the remote-viewing structure used to train the Project
+    Stargate prototype team.
+  original_excerpt: Ingo had just developed his structure.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ed Dames
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+    title: Ingo Swann
+    slug: ingo-swann
+  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+    title: Coordinate Remote Viewing
+    slug: coordinate-remote-viewing
+  date: null
+  date_end: null
+  location_in_record: 00:29:51.0-00:29:53.7
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: d73b2b6b-ec69-4281-a0f3-90de1c68740b
+  claim_hash: c029c26a2d24ac8988d664c6787a75fb5e9b7011f4760540cf048f3dc6caedb1
+  content: Ingo Swann had Ed Dames remote view the Washington Monument as one of his
+    first training targets in Project Stargate.
+  original_excerpt: The moment that changed me was when Ingo Swann had me remote view
+    the ... as one of my first training targets, the Lincoln Monument, the Washington
+    Monument.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ed Dames
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+    slug: ed-dames
+  - node_id: 33853e8e-4eae-4c23-81c8-f8b8d6f405aa
+    title: Washington Monument
+    slug: washington-monument
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+    title: Ingo Swann
+    slug: ingo-swann
+  date: null
+  date_end: null
+  location_in_record: 00:35:44.6-00:35:57.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 78da8186-b6cb-4ffd-be55-ce4b2cada464
+  claim_hash: 670a0e3513533999aac5b4c30becfabd645048063c9772532d5d3096d6fc0dd2
+  content: The chief of staff for intelligence of the United States Air Force did
+    not believe that Project Stargate's remote viewers could do what they claimed.
+  original_excerpt: chief of staff for intelligence for the u.s air force though they
+    he did not believe it what that we could do what we could do
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ed Dames
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+    slug: ed-dames
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    slug: united-states-air-force-usaf
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: null
+  date_end: null
+  location_in_record: 00:36:28.3-00:36:35.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 41f89d54-ed22-4bae-8511-601c81902457
+  claim_hash: 7b20338dd882108bb4f1c5a240de81c78a1d33b2588f31d86f5d97853938d4ed
+  content: Ed Dames used Bob Monroe's program on altered states and out-of-body experiences
+    to evaluate potential recruits for Project Stargate.
+  original_excerpt: One thing that we did use, and I especially as an operations officer,
+    to evaluate potential recruits for the program was the Bob Monroe's program developing
+    altered states and out-of-bodies.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ed Dames
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+    slug: ed-dames
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    slug: the-monroe-institute
+  date: null
+  date_end: null
+  location_in_record: 00:37:42.6-00:37:55.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+    record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE
+      (Documentary 1 of 3)'
+    record_date: '2023-08-02'
+    record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+    content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+    friendly_name: null
+- claim_id: 4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
+  claim_hash: 255e45069cb5c5b2fa2d878cff529c755f2402dec07a5240c02b3094f0567a74
+  content: A remote viewing programme known as Project Stargate was run for the Central
+    Intelligence Agency (CIA) at the Stanford Research Institute, starting in 1972.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+    title: Stanford Research Institute (SRI)
+    slug: stanford-research-institute-sri
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    slug: central-intelligence-agency-cia
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: '1972'
+  date_end: null
+  location_in_record: ch22:13288-13439
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 078ff853-7fa8-47de-9709-2ae2a0f53f18
+  claim_hash: 942e9e8a0acefe4d29e78b3b8ad4cadafb90f397ddd1e6c3c449105b9ca062cc
+  content: Project Stargate was cancelled in 1995, allegedly due to unreliable results.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    slug: project-stargate
+  date: '1995'
+  date_end: null
+  location_in_record: ch22:13444-13495
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted

@@ -1,0 +1,208 @@
+schema: anomalica/brief/1
+brief_hash: ffc0d2b00a70047dad3d6f89ee19b3db0cba7b5ade913f8679ac686e674f5963
+page:
+  kind: entity
+  node_id: 864a25f2-ce04-471d-93e4-7f8f2b486ead
+  node_type: organisation
+  title: Russian Ministry of Defense (MOD)
+  slug: russian-ministry-of-defense-mod
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 3
+- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+  title: David Charles Grusch
+  node_type: person
+  slug: david-charles-grusch
+  shared_claims: 1
+- node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+  title: George Knapp
+  node_type: person
+  slug: george-knapp
+  shared_claims: 1
+- node_id: 4934a3a7-1af0-47c3-8d96-33153b3f853c
+  title: Russian Air Defense Forces
+  node_type: organisation
+  slug: russian-air-defense-forces
+  shared_claims: 1
+- node_id: a726a8e2-00e5-4e3f-8504-9d5d0ac6a8fa
+  title: escalate to de-escalate doctrine
+  node_type: topic
+  slug: escalate-to-de-escalate-doctrine
+  shared_claims: 1
+claims:
+- claim_id: bc6cf381-474f-48b6-bcb1-8d4da376b64a
+  claim_hash: 625dd31d900c67f6d24e9a729fc3d05b6344c5b3d0bd62d484f3fe8311f2e4f4
+  content: Russian leaders commissioned an unprecedented UFO investigation, ordering
+    that any UFO incident or report by any unit in the Russian military be fully investigated,
+    witnesses interviewed, and evidence collected and forwarded to an office inside
+    the Russian Ministry of Defense.
+  original_excerpt: Russian leaders commissioned an unprecedented UFO investigation.
+    The order went out to all units in the vast Russian military empire that any UFO
+    incident or report must be fully investigated, witnesses interviewed, evidence
+    collected and then all of those materials were forwarded to an office inside the
+    Ministry of Defense.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: named
+    origin: Russian military officials and intelligence operatives interviewed by
+      George Knapp in Moscow
+    relay:
+    - George Knapp
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 864a25f2-ce04-471d-93e4-7f8f2b486ead
+    title: Russian Ministry of Defense (MOD)
+    slug: russian-ministry-of-defense-mod
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  date: null
+  date_end: null
+  location_in_record: char:6083-6401
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+    record_title: Statement to Congress
+    record_date: null
+    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+    friendly_name: undated-pdf-statement-to-congress
+- claim_id: 48b3a19c-99db-4e4f-b83d-4c75ad6c5c2c
+  claim_hash: 1343939fac625bc3e122037893b045348735b261072d7cd576e2d7086fa0390b
+  content: After the crash incidents, the Russian Ministry of Defense issued a nationwide
+    order that UFOs should be left alone because, in the words of a top Russian Air
+    Defence official, "they may have incredible capacities for retaliation."
+  original_excerpt: After those incidents, the MOD issued a nationwide order that
+    UFOs should be left alone because, in the words of a top Air Defense official,
+    "they may have incredible capacities for retaliation."
+  claim_type: hearsay
+  attestation: third_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: anonymous
+    origin: a person described as a top Russian Air Defence official
+    relay:
+    - Boris Sokolov
+    - George Knapp
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4934a3a7-1af0-47c3-8d96-33153b3f853c
+    title: Russian Air Defense Forces
+    slug: russian-air-defense-forces
+  - node_id: 864a25f2-ce04-471d-93e4-7f8f2b486ead
+    title: Russian Ministry of Defense (MOD)
+    slug: russian-ministry-of-defense-mod
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  date: null
+  date_end: null
+  location_in_record: char:7005-7187
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+    record_title: Statement to Congress
+    record_date: null
+    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+    friendly_name: undated-pdf-statement-to-congress
+- claim_id: 61e2305a-d53c-4aa4-817b-473fc8c45d4d
+  claim_hash: 74d2fbefc7925981574cf9e8387ae8e26814b6219c22e6e46e77c1422d318049
+  content: The Russian Ministry of Defense confirmed to George Knapp that it was studying
+    UFO cases in the hope of understanding and eventually duplicating the technology
+    that had allowed UFO pilots to dominate Russian airspace and weapons systems.
+  original_excerpt: The Russian MOD had confirmed to me that they were studying UFO
+    cases in the hope that they might understand and eventually duplicate the technology
+    that had allowed the UFO pilots to so thoroughly dominate Russian airspace and
+    weapons systems.
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: named
+    origin: Russian Ministry of Defense (MOD)
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    slug: george-knapp
+  - node_id: 864a25f2-ce04-471d-93e4-7f8f2b486ead
+    title: Russian Ministry of Defense (MOD)
+    slug: russian-ministry-of-defense-mod
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  date: null
+  date_end: null
+  location_in_record: char:7887-8123
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+    record_title: Statement to Congress
+    record_date: null
+    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+    friendly_name: undated-pdf-statement-to-congress
+- claim_id: e337be94-c585-45eb-8559-d32fb6d516f0
+  claim_hash: a9752e6a0161d545aaabb905f9ee5e0912c9554fb4af37253416458404b53de7
+  content: David Grusch used what he calls the Russian Ministry of Defence doctrine
+    of escalating to de-escalate, escalating his disclosure to the highest level possible
+    to protect himself and his family.
+  original_excerpt: I used what I call the Russian Ministry of Defense doctrine, which
+    is to escalate to deescalate. And so I escalated to the highest level possible,
+    both to protect myself and my family, but to keep the wolves at bay
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 864a25f2-ce04-471d-93e4-7f8f2b486ead
+    title: Russian Ministry of Defense (MOD)
+    slug: russian-ministry-of-defense-mod
+  - node_id: a726a8e2-00e5-4e3f-8504-9d5d0ac6a8fa
+    title: escalate to de-escalate doctrine
+    slug: escalate-to-de-escalate-doctrine
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: 00:14:56.6-00:15:12.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null

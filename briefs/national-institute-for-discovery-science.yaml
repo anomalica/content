@@ -1,0 +1,2003 @@
+schema: anomalica/brief/1
+brief_hash: b6d86cef32d00e604493a9d1be8871c38dfcc431b63c7e21d5fb48de83a00301
+page:
+  kind: entity
+  node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+  node_type: organisation
+  title: National Institute for Discovery Science
+  slug: national-institute-for-discovery-science
+  claim_count: 47
+  claim_count_total: 47
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+  title: Robert Bigelow
+  node_type: person
+  slug: robert-bigelow
+  shared_claims: 17
+- node_id: a0931369-67de-42b5-a58c-e687698c9999
+  title: Skinwalker Ranch
+  node_type: place
+  slug: skinwalker-ranch
+  shared_claims: 11
+- node_id: 59476464-a679-46ce-9247-b0adcb287762
+  title: Edgar Mitchell
+  node_type: person
+  slug: edgar-mitchell
+  shared_claims: 7
+- node_id: 0739737b-9ed2-4f6a-8bc7-0ad160b863b8
+  title: 1997-09 National Institute for Discovery Science (NIDS) Dulce investigation
+  node_type: event
+  slug: 1997-09-national-institute-for-discovery-science-nids-dulce-investigation
+  shared_claims: 5
+- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+  title: Eric Davis
+  node_type: person
+  slug: eric-davis
+  shared_claims: 5
+- node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+  title: Colm Kelleher
+  node_type: person
+  slug: colm-kelleher
+  shared_claims: 4
+- node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+  title: Harry Reid
+  node_type: person
+  slug: harry-reid
+  shared_claims: 3
+- node_id: 33f78f0c-bb6e-47ed-a488-b9baa08d5cb3
+  title: Hoyt Velarde
+  node_type: person
+  slug: hoyt-velarde
+  shared_claims: 3
+- node_id: 41a991a5-34d4-48ae-8d2c-e2ce86bd54f4
+  title: John Alexander
+  node_type: person
+  slug: john-alexander
+  shared_claims: 3
+- node_id: 35f45839-edcf-4b99-8ba7-b9ec5b94bced
+  title: USA, New Mexico, Dulce
+  node_type: place
+  slug: new-mexico-dulce-usa
+  shared_claims: 3
+- node_id: a2ed8721-f9cd-40c3-b37e-1b310789fa50
+  title: USA, New Mexico, Los Brasos
+  node_type: place
+  slug: new-mexico-los-brasos-usa
+  shared_claims: 3
+- node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+  title: Unidentified Anomalous Phenomena (UAP)
+  node_type: topic
+  slug: unidentified-anomalous-phenomena-uap
+  shared_claims: 3
+- node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+  title: Unidentified Flying Object (UFO)
+  node_type: topic
+  slug: unidentified-flying-object-ufo
+  shared_claims: 3
+- node_id: 4220ea23-0cdb-46cf-91c7-77c5c940a00b
+  title: 1997-08 National Institute for Discovery Science (NIDS) cattle mutilation
+    investigation (Utah, Nevada, New Mexico)
+  node_type: event
+  slug: nevada-new-mexico-1997-08-national-institute-for-discovery-science-nids-cattle-mutilation-investigation-utah
+  shared_claims: 2
+- node_id: 2f5def61-0fe1-4d72-bd3c-d5adfff63d9a
+  title: 1997-08 humanoid tunnel sighting at Skinwalker Ranch
+  node_type: event
+  slug: 1997-08-humanoid-tunnel-sighting-at-skinwalker-ranch
+  shared_claims: 2
+- node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
+  title: 2000-09 Gary Lowrey alien claw discovery
+  node_type: event
+  slug: 2000-09-gary-lowrey-alien-claw-discovery
+  shared_claims: 2
+- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+  title: Advanced Aerospace Threat Identification Program (AATIP)
+  node_type: project
+  slug: advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 2
+- node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+  title: George Knapp
+  node_type: person
+  slug: george-knapp
+  shared_claims: 2
+- node_id: 0d5dfa23-7c7f-4cad-a5b9-0fb834300b04
+  title: Jicarilla Apache Tribe
+  node_type: organisation
+  slug: jicarilla-apache-tribe
+  shared_claims: 2
+- node_id: c866c546-8f73-4dae-8eaf-86784aa3f02f
+  title: 1964 Hoyt Velarde egg-shaped craft sighting
+  node_type: event
+  slug: 1964-hoyt-velarde-egg-shaped-craft-sighting
+  shared_claims: 1
+- node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+  title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+  node_type: project
+  slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  shared_claims: 1
+- node_id: 21c29dd2-c3c2-4c56-b32f-0c261bad9517
+  title: Anomaly Physical Evidence Group (APEG)
+  node_type: organisation
+  slug: anomaly-physical-evidence-group-apeg
+  shared_claims: 1
+- node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+  title: Bigelow Aerospace Advanced Space Studies, LLC
+  node_type: organisation
+  slug: llc-bigelow-aerospace-advanced-space-studies
+  shared_claims: 1
+- node_id: f88ffeb0-a63c-44c1-8a72-05cab0b77e3c
+  title: Dulce, New Mexico Game and Fish Department
+  node_type: organisation
+  slug: new-mexico-game-and-fish-department-dulce
+  shared_claims: 1
+- node_id: 4a1e8aa8-8162-4ed9-9451-506b8d4376c0
+  title: Gabe Valdez
+  node_type: person
+  slug: gabe-valdez
+  shared_claims: 1
+- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+  title: Harold E. Puthoff
+  node_type: person
+  slug: harold-e-puthoff
+  shared_claims: 1
+- node_id: ad470259-efd8-400b-adb0-8bcfcd89516e
+  title: Hunt for the Skinwalker
+  node_type: document
+  slug: hunt-for-the-skinwalker
+  shared_claims: 1
+- node_id: 84138743-594f-4e59-854e-82f5f165c85b
+  title: Merl Elote
+  node_type: person
+  slug: merl-elote
+  shared_claims: 1
+- node_id: 880a06d2-0059-4fda-9842-9acd6898f60a
+  title: Mount Archuleta
+  node_type: place
+  slug: mount-archuleta
+  shared_claims: 1
+- node_id: 585701fd-5bc1-4e61-b3f7-3af9f547f0f0
+  title: New Mexico State Police
+  node_type: organisation
+  slug: new-mexico-state-police
+  shared_claims: 1
+claims:
+- claim_id: 5aed1c88-2c4a-4001-bd78-15d158e22b9f
+  claim_hash: 4c4b849d298abe9f1d7406a33dc8c923969bcd4410bbc6d869b10ee8f2bdc096
+  content: In 1996, Robert Bigelow created his own research organisation, the National
+    Institute for Discovery Science.
+  original_excerpt: In 1996, Bigelow created his own research organization, the National
+    Institute for Discovery Science
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: speaker
+    origin: George Knapp
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: '1996'
+  date_end: null
+  location_in_record: char:3770-3863
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+    record_title: Statement to Congress
+    record_date: null
+    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+    friendly_name: undated-pdf-statement-to-congress
+- claim_id: 53152143-b62f-4628-a3e6-735e647a5d46
+  claim_hash: 933a1f0ecf52f9a46694cf9f248340a864149808a7d38aa8527790aebff20c9d
+  content: The National Institute for Discovery Science had a science advisory board
+    made up of PhD-level academics, two former astronauts who had walked on the Moon,
+    and several scientists who had worked for or consulted with the United States
+    military and intelligence agencies.
+  original_excerpt: with a science advisory board made up of PhD-level academics,
+    two of the former astronauts who had walked on the moon, and several scientists
+    who had worked for or consulted with the U.S. military and intelligence agencies
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: speaker
+    origin: George Knapp
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: char:3872-4086
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+    record_title: Statement to Congress
+    record_date: null
+    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+    friendly_name: undated-pdf-statement-to-congress
+- claim_id: 35e5bb1a-5a40-476e-8f53-60684432d7ad
+  claim_hash: 53f732ddc2e6ec528b5f9b37e4f44c513e4bf03c853ffbb887f303afd5ca0bee
+  content: After the National Institute for Discovery Science began its own investigations,
+    George Knapp informed Harry Reid about the organisation and arranged an introduction.
+  original_excerpt: After NIDS began its own investigations and projects, I informed
+    Senator Reid about the organization and arranged an introduction.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: speaker
+    origin: George Knapp
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    slug: george-knapp
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: null
+  date_end: null
+  location_in_record: char:4341-4458
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+    record_title: Statement to Congress
+    record_date: null
+    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+    friendly_name: undated-pdf-statement-to-congress
+- claim_id: c152502c-a25f-47f0-bc70-71a878f55d0f
+  claim_hash: 949bf6187e089575413b00920ff8053f6ea4c565163cbe65868ec0c45b0f0e0f
+  content: Harry Reid attended one of the first board meetings of the National Institute
+    for Discovery Science and was impressed by the professionalism and the pedigrees
+    of the Science Advisory Board.
+  original_excerpt: Reid attended one of the first board meetings of NIDS and was
+    impressed by the professionalism he witnessed and the pedigrees of the world class
+    Science Advisory Board.
+  claim_type: observation
+  attestation: second_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: named
+    origin: Harry Reid
+    relay:
+    - George Knapp
+  attribution_mode: unknown
+  node_refs:
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: null
+  date_end: null
+  location_in_record: char:4472-4634
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+    record_title: Statement to Congress
+    record_date: null
+    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+    friendly_name: undated-pdf-statement-to-congress
+- claim_id: 091269bb-ce73-4706-ac1f-3a06a224d0d7
+  claim_hash: efae06af15ce0bba9daa51abf2de851a02f2e22bb05c481206d21102e652f907
+  content: One of the topics of interest to Harry Reid, Robert Bigelow, and the National
+    Institute for Discovery Science was Russia's ongoing interest in UFOs.
+  original_excerpt: One of the topics that was of interest to Reid, Bigelow, and NIDS
+    was Russia's ongoing interest in UFOs.
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: speaker
+    origin: George Knapp
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    slug: harry-reid
+  date: null
+  date_end: null
+  location_in_record: char:4806-4905
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+    record_title: Statement to Congress
+    record_date: null
+    record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+    content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+    friendly_name: undated-pdf-statement-to-congress
+- claim_id: 892cc30e-8ba7-4de6-b51e-17214e2c6acb
+  claim_hash: fc4edc42ee59db9b9c11f10adfb8c75bda67037a3984a4665ea5446971faf7c1
+  content: Eric W. Davis noted that during the discussion of his background, there
+    was no mention of the National Institute for Discovery Science (NIDS), and that
+    Oke Shannon had mentioned NIDS, JA, and Davis together only in 1999.
+  original_excerpt: No mention of NIDS!! Oke mentioned JA, me, NIDS in '99, but that's
+    all that was said
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+  provenance_chain:
+    origin_kind: speaker
+    origin: Eric W. Davis
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+    title: Oke Shannon
+    slug: oke-shannon
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: '1999'
+  date_end: null
+  location_in_record: char:9268-9348
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+    record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+    record_date: '2002-10-16'
+    record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+    content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+    friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+- claim_id: b4b76c9a-1aae-4920-a875-1fbfa3aac4c1
+  claim_hash: 98d287ade82ad28ed95d26667f0754fad59de1cc441102a4cbfb90066049b419
+  content: Colm Kelleher is a biochemist and administrator of the National Institute
+    for Discovery Science.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+    title: Colm Kelleher
+    slug: colm-kelleher
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch18:26254-26377
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 0f553e26-543d-433a-b6d0-e4bde863c231
+  claim_hash: 6a52c5c829d1aff58784b485f55e05298c456cfe916785532997f56855d31ef8
+  content: The National Institute for Discovery Science supported the work on the
+    Gary Lowrey claw sample, and the Anomaly Physical Evidence Group biochemists eventually
+    received a part of the claw to examine.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: speaker
+    origin: Bill Chalker
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
+    title: 2000-09 Gary Lowrey alien claw discovery
+    slug: 2000-09-gary-lowrey-alien-claw-discovery
+  - node_id: 21c29dd2-c3c2-4c56-b32f-0c261bad9517
+    title: Anomaly Physical Evidence Group (APEG)
+    slug: anomaly-physical-evidence-group-apeg
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch18:26606-26697
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 0b19e62e-6636-4bae-b7a5-04564bcd729d
+  claim_hash: da70fec53dd35eda8a5a66ec696e438ef81585d5d623a3e571ac795b31b5399c
+  content: The National Institute for Discovery Science (NIDS), which supported Roger
+    Leir's work, was able to conduct physical analyses of the implants through a laboratory
+    at New Mexico Tech, an engineering university in Socorro, New Mexico, including
+    X-ray energy-dispersive spectroscopy and X-ray diffraction work.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 43169747-27fd-4577-8bcf-9c914dd33469
+    title: New Mexico Tech
+    slug: new-mexico-tech
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+    title: Roger Leir
+    slug: roger-leir
+  - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+    title: USA, New Mexico, Socorro
+    slug: new-mexico-socorro-usa
+  date: null
+  date_end: null
+  location_in_record: ch18:9568-9872
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 47595b32-17db-4894-aae4-856d59a11d41
+  claim_hash: c62c010e9985935914a5bfe7b8b38a1c33b9eb9e337d868b325606d2932d74bc
+  content: The full report and data on the Gary Lowrey alien claw case were made accessible
+    on the National Institute for Discovery Science website.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: footnote 136
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
+    title: 2000-09 Gary Lowrey alien claw discovery
+    slug: 2000-09-gary-lowrey-alien-claw-discovery
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch23:43331-43405
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+    record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+    record_date: '2005-11-14'
+    record_reference: null
+    content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+    friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  excerpt_withheld: restricted
+- claim_id: 5f002bf0-986a-4bd1-a5ce-e2b4638d335b
+  claim_hash: 722dcc99902b9106b3d958b35a54a20bc935277dcdee88f0f5fdc8003f07c8ca
+  content: National Institute for Discovery Science documents found in the Edgar Mitchell
+    archive show that Eric Davis, while with NIDS, investigated a supposed alien attack
+    and landing in Montana and concluded it was a hoax.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: National Institute for Discovery Science documents in the Edgar Mitchell
+      archive
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:12808-13046
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e7cfa696-32eb-4a73-92a7-682b8ec85acb
+  claim_hash: 544d590dc7a40780d315192cc3b73eb5289e7cb2ae4faf2dfa2697a4ac49b467
+  content: Hunt for the Skinwalker claims that National Institute for Discovery Science
+    investigators witnessed a faceless black creature emerging from a glowing yellow
+    light tunnel that winked into existence from nowhere, as if from another dimension.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: third_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: unnamed NIDS investigators
+    relay:
+    - Colm Kelleher
+    - Hunt for the Skinwalker
+  attribution_mode: unknown
+  node_refs:
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  - node_id: ad470259-efd8-400b-adb0-8bcfcd89516e
+    title: Hunt for the Skinwalker
+    slug: hunt-for-the-skinwalker
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:14077-14293
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: cfdc6e0c-d181-4ca6-993e-0137a9307aec
+  claim_hash: 64669a013e67f3799765c24a2666fa95c2b49c157a958e6a6b01c085cc1aa680
+  content: From what was publicly revealed about the National Institute for Discovery
+    Science research, the enormous amount of data collected, including video, electromagnetic
+    radiation measurements, and analysis of soil and cattle mutilation samples, expert
+    reports and blood tests, did not support the most extraordinary claims made about
+    Skinwalker Ranch.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:15128-15417
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 2f109b6c-36fe-4847-aa3d-402eb5447178
+  claim_hash: e50c40590f1f27caa966ee373fc7b62a4c2dc8639821efd41e5759a98194edb4
+  content: John Alexander is a now retired former US Army special forces and military
+    intelligence Colonel who worked on a notorious US Defence Department remote viewing
+    program in the 1970s and 1980s.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 149b66bd-17ed-483c-8d2c-51be2a5d12a8
+    title: US Defence Department remote viewing program
+    slug: us-defence-department-remote-viewing-program
+  - node_id: 41a991a5-34d4-48ae-8d2c-e2ce86bd54f4
+    title: John Alexander
+    slug: john-alexander
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:15597-15867
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: af518ba0-5acb-43c1-8701-1ab3c74bbdd6
+  claim_hash: e78559404c6ed6d72b7bf70f84df5d307b6aada9b134b693967bc55b85bb46de
+  content: John Alexander was one of the first NIDS employees to go on watch at Skinwalker
+    Ranch in the 1990s and claimed many extraordinary events would happen with the
+    team's highly skilled scientists observing.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 41a991a5-34d4-48ae-8d2c-e2ce86bd54f4
+    title: John Alexander
+  provenance_chain:
+    origin_kind: named
+    origin: John Alexander
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 41a991a5-34d4-48ae-8d2c-e2ce86bd54f4
+    title: John Alexander
+    slug: john-alexander
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:16271-16450
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 94b0622c-3463-4328-aa77-d6e07104a56f
+  claim_hash: 6d452f6aa72aad86571fe1134da8338327fcbf904ca2f8308e740ad0c8ee0188
+  content: At 2:30am one night in August 1997, two NIDS scientists watching from an
+    escarpment at Skinwalker Ranch spotted a dim light near a road below them that
+    grew to about 1.2 metres in diameter, hovered about 0.9 metres above the ground,
+    and had a third dimension giving it the appearance of a tunnel.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 41a991a5-34d4-48ae-8d2c-e2ce86bd54f4
+    title: John Alexander
+  provenance_chain:
+    origin_kind: named
+    origin: unnamed NIDS scientists
+    relay:
+    - John Alexander
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2f5def61-0fe1-4d72-bd3c-d5adfff63d9a
+    title: 1997-08 humanoid tunnel sighting at Skinwalker Ranch
+    slug: 1997-08-humanoid-tunnel-sighting-at-skinwalker-ranch
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: 1997-08
+  date_end: null
+  location_in_record: ch15:17077-17427
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 953bf87a-6932-42b5-8c8f-394ff59179be
+  claim_hash: 6ba38ae5319a005d92d2c0ecea531a01b233bb4d9d066d108d3d41951d34bd31
+  content: John Alexander recounted that a moving dark shape appeared in the tunnel
+    of light at Skinwalker Ranch and came to the surface, and then a humanoid-like
+    creature of considerable size, an estimated 1.8 metres tall and 180 kilograms,
+    used its arms to pull itself out of the tunnel and land on the road before walking
+    off into the darkness.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 41a991a5-34d4-48ae-8d2c-e2ce86bd54f4
+    title: John Alexander
+  provenance_chain:
+    origin_kind: named
+    origin: unnamed NIDS scientists
+    relay:
+    - John Alexander
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2f5def61-0fe1-4d72-bd3c-d5adfff63d9a
+    title: 1997-08 humanoid tunnel sighting at Skinwalker Ranch
+    slug: 1997-08-humanoid-tunnel-sighting-at-skinwalker-ranch
+  - node_id: 41a991a5-34d4-48ae-8d2c-e2ce86bd54f4
+    title: John Alexander
+    slug: john-alexander
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: 1997-08
+  date_end: null
+  location_in_record: ch15:17435-17864
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5181a9dd-4c77-4edb-94bb-6691e65a40b5
+  claim_hash: 04d66ee5237d3261f643fb1040626ff62ec7f497fc060e3e6b97a128f43e9110
+  content: The scope of Robert Bigelow's private National Institute for Discovery
+    Science investigations went beyond Skinwalker Ranch and much of what NIDS uncovered
+    remains confidential.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:18104-18232
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 58282492-15cb-4dd8-895f-f6eea80bb0b1
+  claim_hash: 4ed1cf13088a90cdcdfe4a85612077a31d40ece0c27f3a57d6012669d6109f9f
+  content: The documents obtained from the Edgar Mitchell archive shed light on the
+    extensive early work done in the late 1990s by Robert Bigelow's NIDS investigators
+    into both UFOs and cattle mutilations.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: documents from the Edgar Mitchell archive
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:18371-18501
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9d08c98d-8100-4893-a12e-efb1204490f2
+  claim_hash: 41f0543b7b143be8e084a6be694a60d130f28451e4ee037b865e2786bdfd09c4
+  content: Edgar Mitchell was long a proponent of research into UAPs and served on
+    the science advisory board of the National Institute for Discovery Science, retaining
+    some of the confidential NIDS research reports from Skinwalker and other areas
+    visited by the Bigelow-funded investigation team.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:18514-18748
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: cdf17093-8dd7-4d40-9052-8305af23b390
+  claim_hash: 2fb7343143718759d78578a19ac3fdc2ccf9b7cf54055a6d44f5857a16250b79
+  content: Documents from the Edgar Mitchell archive show NIDS was investigating suspected
+    UAP-related cattle mutilations across Utah, Nevada and New Mexico in August 1997,
+    including a dead cow with strange haemorrhaging on its back.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: NIDS documents in the Edgar Mitchell archive
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4220ea23-0cdb-46cf-91c7-77c5c940a00b
+    title: 1997-08 National Institute for Discovery Science (NIDS) cattle mutilation
+      investigation (Utah, Nevada, New Mexico)
+    slug: nevada-new-mexico-1997-08-national-institute-for-discovery-science-nids-cattle-mutilation-investigation-utah
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 5d9995de-629b-4016-9908-7c8adcdbfa3d
+    title: USA, Utah, Uintah Basin
+    slug: utah-uintah-basin-usa
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: 1997-08
+  date_end: null
+  location_in_record: ch15:18755-18969
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a9bf97f9-bca5-420b-92cc-60b2cf78f64d
+  claim_hash: e8b82354d84c68d2ec651c843637657da0f3e3efe60a67776c9ec1143f278771
+  content: The NIDS report on the August 1997 dead cow with haemorrhaging on its back
+    suggested this was caused by being dropped from a height.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: NIDS report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4220ea23-0cdb-46cf-91c7-77c5c940a00b
+    title: 1997-08 National Institute for Discovery Science (NIDS) cattle mutilation
+      investigation (Utah, Nevada, New Mexico)
+    slug: nevada-new-mexico-1997-08-national-institute-for-discovery-science-nids-cattle-mutilation-investigation-utah
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: 1997-08
+  date_end: null
+  location_in_record: ch15:18975-19041
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 117db451-d498-4827-a744-864ca1630244
+  claim_hash: bdba6779a7a1a5185187fbbe1d6868f1d8645179c98418039feff71cde2af8eb
+  content: A NIDS report in September 1997 detailed interviews with UFO eyewitnesses
+    in Dulce, New Mexico, and the investigation of a five-day-old cow mutilation in
+    Los Brasos.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: NIDS report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0739737b-9ed2-4f6a-8bc7-0ad160b863b8
+    title: 1997-09 National Institute for Discovery Science (NIDS) Dulce investigation
+    slug: 1997-09-national-institute-for-discovery-science-nids-dulce-investigation
+  - node_id: 35f45839-edcf-4b99-8ba7-b9ec5b94bced
+    title: USA, New Mexico, Dulce
+    slug: new-mexico-dulce-usa
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    slug: unidentified-flying-object-ufo
+  - node_id: a2ed8721-f9cd-40c3-b37e-1b310789fa50
+    title: USA, New Mexico, Los Brasos
+    slug: new-mexico-los-brasos-usa
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: 1997-09
+  date_end: null
+  location_in_record: ch15:19052-19213
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 08645c92-00a7-4607-b1bd-a970187a75b9
+  claim_hash: 5cba86e72e167110c68a46bbbeee9d89745f5484560b803c074b86fb16d6a5e5
+  content: NIDS investigators recorded that the Los Brasos cow's teats were missing
+    and its anus and tongue had been excised, with no aberrant electromagnetic readings
+    found.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: NIDS investigators
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0739737b-9ed2-4f6a-8bc7-0ad160b863b8
+    title: 1997-09 National Institute for Discovery Science (NIDS) Dulce investigation
+    slug: 1997-09-national-institute-for-discovery-science-nids-dulce-investigation
+  - node_id: a2ed8721-f9cd-40c3-b37e-1b310789fa50
+    title: USA, New Mexico, Los Brasos
+    slug: new-mexico-los-brasos-usa
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:19221-19373
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e983a92c-84aa-40fa-b806-d44977e0e375
+  claim_hash: b15e7101b20b87777ae033d7bebd706ca86960ecfb2b5abf966ffdb9f909098d
+  content: At the Los Brasos cow mutilation site, there were multiple overturned cow
+    pats in a straight line stretching 76 metres south-west of the animal that had
+    clearly been blown up to six metres from where they had originally been anchored
+    to the grass.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: NIDS investigators
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0739737b-9ed2-4f6a-8bc7-0ad160b863b8
+    title: 1997-09 National Institute for Discovery Science (NIDS) Dulce investigation
+    slug: 1997-09-national-institute-for-discovery-science-nids-dulce-investigation
+  - node_id: a2ed8721-f9cd-40c3-b37e-1b310789fa50
+    title: USA, New Mexico, Los Brasos
+    slug: new-mexico-los-brasos-usa
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:19383-19596
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f2e6fca9-ad5c-4422-948d-c525dc281842
+  claim_hash: d0fe5e86ea9e023084ff5874a64c6a781e3a7c8f9fa6b28f398c5c3c93879f77
+  content: The NIDS report stated that the team experimentally kicked cow pats and
+    showed it is difficult to move them approximately six metres from their original
+    place, concluding that some strong wind velocity was involved.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: NIDS report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0739737b-9ed2-4f6a-8bc7-0ad160b863b8
+    title: 1997-09 National Institute for Discovery Science (NIDS) Dulce investigation
+    slug: 1997-09-national-institute-for-discovery-science-nids-dulce-investigation
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:19800-19968
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3c6d9bcf-4c8c-4e07-bcd7-fe895ad99589
+  claim_hash: 31db6f0875ed9c293ac7f8bb723af7c70b4de90e62e8f5d11af197a8fb1854f2
+  content: Previously undisclosed 1997 National Institute for Discovery Science documents
+    detail that Hoyt Velarde also witnessed an egg-shaped craft while working on his
+    father's farm in 1964.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 33f78f0c-bb6e-47ed-a488-b9baa08d5cb3
+    title: Hoyt Velarde
+  provenance_chain:
+    origin_kind: document
+    origin: 1997 NIDS documents
+    relay:
+    - 1997 NIDS documents
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 33f78f0c-bb6e-47ed-a488-b9baa08d5cb3
+    title: Hoyt Velarde
+    slug: hoyt-velarde
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  - node_id: c866c546-8f73-4dae-8eaf-86784aa3f02f
+    title: 1964 Hoyt Velarde egg-shaped craft sighting
+    slug: 1964-hoyt-velarde-egg-shaped-craft-sighting
+  date: '1964'
+  date_end: null
+  location_in_record: ch15:21374-21532
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e9426a78-bd45-4da7-bf60-b1a4d0c7cb6f
+  claim_hash: b9530c1903836a53ce276b7cab0068290fc5493c24953f63520e401cb76b894c
+  content: The National Institute for Discovery Science team investigated a 1997 incident
+    in which Hoyt Velarde came across a small area of burning brush on his ranch.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: 1997 NIDS confidential report
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 33f78f0c-bb6e-47ed-a488-b9baa08d5cb3
+    title: Hoyt Velarde
+    slug: hoyt-velarde
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: '1997'
+  date_end: null
+  location_in_record: ch15:22041-22153
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: fa88ce5d-3ffa-4c3f-82bd-0392f813f70b
+  claim_hash: 92fcbd77870e4d5a8cd700dcba0efa6e4d8aff4d3d5e10ef6ca95f8de713a4f8
+  content: The National Institute for Discovery Science team went to the site of the
+    1997 cattle mutilation on Hoyt Velarde's ranch and confirmed the mutilation of
+    the three dead cows, whose carcasses were shrivelled and dried out and apparently
+    untouched by scavengers.
+  original_excerpt: null
+  claim_type: observation
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: National Institute for Discovery Science (NIDS) team investigation
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 33f78f0c-bb6e-47ed-a488-b9baa08d5cb3
+    title: Hoyt Velarde
+    slug: hoyt-velarde
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: '1997'
+  date_end: null
+  location_in_record: ch15:22304-22469
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: aca4f023-7a55-48a2-b682-2db66d808cd8
+  claim_hash: 4ade084ed6d5c2abb78e12688262c4c5ce1705d9e0fa0f190f73699ac95a3f91
+  content: Merl Elote, director of the Game and Fish Department of Dulce, New Mexico,
+    told the National Institute for Discovery Science team that he witnessed a hovering,
+    rotating craft approximately 23 metres in diameter with a single bright light.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 84138743-594f-4e59-854e-82f5f165c85b
+    title: Merl Elote
+  provenance_chain:
+    origin_kind: speaker
+    origin: Merl Elote
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 84138743-594f-4e59-854e-82f5f165c85b
+    title: Merl Elote
+    slug: merl-elote
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  - node_id: f88ffeb0-a63c-44c1-8a72-05cab0b77e3c
+    title: Dulce, New Mexico Game and Fish Department
+    slug: new-mexico-game-and-fish-department-dulce
+  date: null
+  date_end: null
+  location_in_record: ch15:22517-22723
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e752aecd-226d-4a20-8f6a-9ccf70605b2c
+  claim_hash: 279e87ad5212cb12520aa7bbef670eb1f194f841798083a06ee2122185cc6975
+  content: Gabe Valdez, a New Mexico State Police officer with strong links to the
+    Jicarilla Apache tribe in Dulce, worked with Colm Kelleher during the 1997 National
+    Institute for Discovery Science investigation in New Mexico.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d5dfa23-7c7f-4cad-a5b9-0fb834300b04
+    title: Jicarilla Apache Tribe
+    slug: jicarilla-apache-tribe
+  - node_id: 35f45839-edcf-4b99-8ba7-b9ec5b94bced
+    title: USA, New Mexico, Dulce
+    slug: new-mexico-dulce-usa
+  - node_id: 4a1e8aa8-8162-4ed9-9451-506b8d4376c0
+    title: Gabe Valdez
+    slug: gabe-valdez
+  - node_id: 585701fd-5bc1-4e61-b3f7-3af9f547f0f0
+    title: New Mexico State Police
+    slug: new-mexico-state-police
+  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+    title: Colm Kelleher
+    slug: colm-kelleher
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: '1997'
+  date_end: null
+  location_in_record: ch15:22971-23177
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b91f1cd0-6f01-425e-8e41-6426a0579cb6
+  claim_hash: 5f062ff59ff73bbe75ead1d5aaf4fe699a18bf01c9be9d7bebeb85d715782406
+  content: After reading the National Institute for Discovery Science files, it became
+    clear that Robert Bigelow's investigators suspected the US government was up to
+    something in the hills around Dulce, New Mexico.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: document
+    origin: National Institute for Discovery Science (NIDS) files
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 35f45839-edcf-4b99-8ba7-b9ec5b94bced
+    title: USA, New Mexico, Dulce
+    slug: new-mexico-dulce-usa
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:25408-25537
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c4df3a48-44de-4ba7-b580-3e34d6295ab5
+  claim_hash: d223e72e18f3cd05952ba6908231b279992bf783940b6fa646a4710153296449
+  content: Colm Kelleher's National Institute for Discovery Science report contains
+    interviews with multiple members of the Jicarilla Apache community who claimed
+    in September 1997 to have witnessed hovering UAP and to have found a mysterious
+    ventilation shaft dug into Mount Archuleta.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker: null
+  provenance_chain:
+    origin_kind: named
+    origin: members of the Jicarilla Apache community
+    relay:
+    - Colm Kelleher
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0739737b-9ed2-4f6a-8bc7-0ad160b863b8
+    title: 1997-09 National Institute for Discovery Science (NIDS) Dulce investigation
+    slug: 1997-09-national-institute-for-discovery-science-nids-dulce-investigation
+  - node_id: 0d5dfa23-7c7f-4cad-a5b9-0fb834300b04
+    title: Jicarilla Apache Tribe
+    slug: jicarilla-apache-tribe
+  - node_id: 880a06d2-0059-4fda-9842-9acd6898f60a
+    title: Mount Archuleta
+    slug: mount-archuleta
+  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+    title: Colm Kelleher
+    slug: colm-kelleher
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: 1997-09
+  date_end: null
+  location_in_record: ch15:25668-25944
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: be608b6d-4237-4a45-8b29-17cf5a49076e
+  claim_hash: a050e316f219b8a0645920e4c0b310e9a31aec336458acc4881e664d31ed7661
+  content: Robert Bigelow's National Institute for Discovery Science team conducted
+    investigations across the United States from 1995 to 2004, most of which remain
+    confidential.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration (In Plain Sight)
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: '1995'
+  date_end: null
+  location_in_record: ch15:27308-27457
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: daf1800e-183a-4baa-991e-af32f21bbd35
+  claim_hash: 445ac231401e885d55f8d17cd790ce0374ec6e2bb7e625974397f82c59cb63b3
+  content: In 1995, Robert Bigelow self-funded the creation of the National Institute
+    for Discovery Science.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: '1995'
+  date_end: null
+  location_in_record: ch15:8436-8607
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 968bbb9d-9262-4f9b-ab55-0560eeb9dd5d
+  claim_hash: 6c2993885a8e0541b49a1e70676079f49bbf7d022e06be99436df6ed5c3985c0
+  content: Robert Bigelow funded full-time surveillance of Skinwalker Ranch as part
+    of the National Institute for Discovery Science, ordering an investigation into
+    the extraordinary paranormal claims.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch15:8738-8873
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 173a406c-abae-40b6-b34c-eed7d5a602a3
+  claim_hash: 171272b85af44297d96836df6f00dbeb7dfc61c03a803743efc05305128c81ae
+  content: Eric Davis started working for Robert Bigelow's National Institute for
+    Discovery Science in July 1996.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: 1996-07
+  date_end: null
+  location_in_record: ch15:9194-9283
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: efdd0682-4b33-49e0-941b-2a6dae5438de
+  claim_hash: da1c6bd4f336e49ec9e45c815d0f3c78921bbe30270fc93e721c6aff4cd04a3f
+  content: Robert Bigelow hired several of the same scientists who had served on his
+    private decade-long National Institute for Discovery Science investigations to
+    work on the Bigelow Aerospace Advanced Space Studies program.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    slug: llc-bigelow-aerospace-advanced-space-studies
+  date: null
+  date_end: null
+  location_in_record: ch17:5254-5409
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: cf7d1b29-7a9a-4aa4-8a4a-7306637c2563
+  claim_hash: 4c8c3a27dce1432a1d1b7e42cd8ac097ee980d11acbeafc7b6bde9bb6dce5347
+  content: Former National Institute for Discovery Science scientist Eric Davis was
+    brought into the Bigelow investigation team working on the Advanced Aerospace
+    Threat Identification Program (AATIP).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    slug: george-knapp
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch17:9960-10143
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 8b9a0dbc-7978-47de-ba78-35427c03740e
+  claim_hash: 8451d2e1fb9f8ad403e1b1aa900d533214eff99c032fecdf529cdd6fd538c196
+  content: Edgar Mitchell sat on the National Institute for Discovery Science's science
+    advisory board while it conducted still-secret research for Robert Bigelow.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch25:14912-15142
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: c6ce0df3-ae6e-4bc3-9d2b-7ca5cdf088b5
+  claim_hash: 80e71a2f448a8bacdd7a48924318d3c29fd2bbdde15137da3522ded9094081e4
+  content: Colm Kelleher wrote reports to the National Institute for Discovery Science
+    about strange occurrences at Skinwalker Ranch and other parts of Utah and New
+    Mexico.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+    title: Colm Kelleher
+    slug: colm-kelleher
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch25:15149-15294
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 149a8e9c-307a-47b2-a7e9-767832f7ecc1
+  claim_hash: 21c08fe5c636c81a7e509cfaf2a5baf4fa4cfc3c029420ac14f2ac07295b1e5e
+  content: Robert Bigelow invited Edgar Mitchell to serve on the advisory board of
+    his National Institute for Discovery Science research organisation.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch25:5021-5183
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 28e44829-a046-4df3-9b99-aa934dacea34
+  claim_hash: a368b4ad218803862efdbfb3c684cac4c9806591abce928f2303415b381da7df
+  content: Because Edgar Mitchell was on the National Institute for Discovery Science
+    science advisory board, he was sent a copy of the notes by Hal Puthoff.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    slug: edgar-mitchell
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch26:10517-10602
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5223e9c6-0bc6-4c49-9d07-08cc7828ced1
+  claim_hash: b8c3e759c0c52607da63c5af01594ac514a712b4db4bf2e3d66eb9e4c5bfcb0b
+  content: Eric Davis worked for Robert Bigelow's National Institute for Discovery
+    Science (NIDS).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch26:5049-5126
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 90b27c48-92ff-429b-a0c6-6ebf84fa1430
+  claim_hash: 596c939a4d7ba36b8e58a525fcfc6eeba7cea3ec1a4b28e1e7e2137022675a5c
+  content: Robert Bigelow founded the National Institute for Discovery Science and
+    once owned Skinwalker Ranch, the site of multiple UAP sightings.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: a0931369-67de-42b5-a58c-e687698c9999
+    title: Skinwalker Ranch
+    slug: skinwalker-ranch
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch37:7546-7665
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 0201cb46-cf65-432f-a523-bfc954b27a76
+  claim_hash: 9192f0c70a7f277f4e84b39a08369b939b998d9ea12f53ac348ad127778a2d7e
+  content: The National Institute for Discovery Science (NIDS), Robert Bigelow's research
+    organisation, studied Unidentified Aerial Phenomena (UAP) and the paranormal during
+    the 1990s.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    slug: unidentified-anomalous-phenomena-uap
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  date: null
+  date_end: null
+  location_in_record: ch10:1387-1514
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: d481722a-d6fb-4768-9d9a-a3a174bea5d9
+  claim_hash: cdb766455ab5639ea9c22f2138bd30905deaaaab2120fab39842a2fdd4a5a717
+  content: William "Will" Livingston served as a medical advisor to the Advanced Aerospace
+    Weapons System Application Program (AAWSAP)/Advanced Aerospace Threat Identification
+    Program (AATIP) and Robert Bigelow's National Institute for Discovery Science
+    (NIDS).
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    slug: robert-bigelow
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    slug: national-institute-for-discovery-science
+  - node_id: bfdc8095-3798-4086-bafa-9b4709c3c2b0
+    title: William Livingston
+    slug: william-livingston
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: null
+  date_end: null
+  location_in_record: ch16:25278-25341
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted

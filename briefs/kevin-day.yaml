@@ -1,0 +1,1271 @@
+schema: anomalica/brief/1
+brief_hash: 356e1997503f3e2cffc93118a7fa355a2bd38f1a1204d2f4ace182a980b181aa
+page:
+  kind: entity
+  node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+  node_type: person
+  title: Kevin Day
+  slug: kevin-day
+  claim_count: 33
+  claim_count_total: 33
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 27
+- node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+  title: USS Princeton (CG-59)
+  node_type: object
+  slug: uss-princeton-cg-59
+  shared_claims: 10
+- node_id: 8e86f75c-fbee-420a-9701-d007e3e13c30
+  title: James Smith (USS Nimitz captain)
+  node_type: person
+  slug: james-smith-uss-nimitz-captain
+  shared_claims: 2
+- node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+  title: USS Nimitz (CVN-68)
+  node_type: object
+  slug: uss-nimitz-cvn-68
+  shared_claims: 2
+- node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+  title: United States Navy (USN)
+  node_type: organisation
+  slug: united-states-navy-usn
+  shared_claims: 1
+claims:
+- claim_id: d2b0fcff-7be7-4028-bb2a-d1d6ae023ff4
+  claim_hash: 2f550d636e22a3e073c4c10bbaff7128feee23dfe9c6890bbda19a83ebd4538d
+  content: Kevin Day recalls that pilots and everyone on the radio were screaming
+    during the peak moment of the 2004 USS Nimitz Tic Tac UAP encounter.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: ch16:11269-11341
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 6317c279-d48c-4a83-bc69-9ff607d4bed9
+  claim_hash: 03ab8fa5a36fc91803cfcf0c83921641a58afee3d866ae419c1f6c585ca6b6c3
+  content: In the four days before 2004-11-14, Kevin Day and his team became increasingly
+    concerned by anomalous radar tracks detected on their screens aboard the USS Princeton.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: '2004-11-10'
+  date_end: null
+  location_in_record: ch16:1322-1553
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 57bc4c1a-284e-44af-a570-1622602a8a0f
+  claim_hash: 2052c8d1e8cd191c4848871d58c2e22e12a0314bae57b1add0787751738d81da
+  content: Kevin Day was the USS Princeton's Operations Specialist Senior Chief, in
+    charge of coordinating the systems that protect the entire carrier group.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: ch16:1351-1493
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 5685dfec-b085-4bf5-b00f-b6118b2dc58d
+  claim_hash: 788c16ec9988da1878f39950c6d790e448bbef98ad2c5ad37b037669d3c76962
+  content: From 2004-11-10, Kevin Day tracked numerous unidentified aerial objects
+    with no transponder return, closely clustering in groups of five to ten at a time,
+    at an altitude far above normal commercial or military aviation traffic.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: '2004-11-10'
+  date_end: null
+  location_in_record: ch16:1596-1812
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: a02d1ff4-c8d9-4ddf-abf4-08419751336b
+  claim_hash: 1804d01dc5bd56b4b6268ac015a99c8daa9b7167fdb8a289c0656a40d5b66444
+  content: Kevin Day believes some of the unidentified objects during the 2004 USS
+    Nimitz Tic Tac UAP encounter were underwater just before they zoomed back up to
+    approximately 24,000 metres, possibly even higher, because it was above the scan
+    volume of the USS Princeton's radar at the time.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: ch16:16032-16233
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d6e8aa35-cf54-4741-826b-146330acc778
+  claim_hash: c318d2d7bc555562743935551732b00feddd3ef6bdd0e97d5be7979629cd3459
+  content: Kevin Day verified the anomalous radar tracks using the USS Princeton's
+    Cooperative Engagement Capability (CEC) system, which merged radar data from every
+    source into one picture.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: ch16:1821-1975
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 393f153c-e3e8-4bb9-90d5-24ee2dfb499b
+  claim_hash: 9a33e1a1a798f3ad9fbf1e36f2e4550bfb26d24fd6009f6857c1fb7ad433ca56
+  content: Kevin Day is very sure the objects he tracked on the USS Princeton's radar
+    during the 2004 USS Nimitz Tic Tac UAP encounter were real, solid objects.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: ch16:1985-2131
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 3b796af5-0995-4f32-a912-395466e1f818
+  claim_hash: 950886d6fed9928e1ba70059103263c60c75e147596ea4866c24663f6de31eb6
+  content: Kevin Day considers the full video of the 2004 USS Nimitz Tic Tac UAP encounter
+    would have to be at least ten minutes long, based on it being standard for him
+    to order 'tapes on' onboard the aircraft before an intercept begins.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: ch16:20437-20655
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b57d2f64-6c54-42ab-9df0-e6f14f5f4893
+  claim_hash: 128dc96158193eebc9c483ac170c2ec97b159c36ea19a880523c06faf6835f3c
+  content: Kevin Day's captain on the USS Princeton told him, when Kevin Day asked
+    what he thought the object was after the 2004 USS Nimitz Tic Tac UAP encounter,
+    that he thought the objects were spontaneously forming ice falling from space.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay:
+    - James Smith (USS Nimitz captain)
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: ch16:21104-21281
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 9439c998-3d90-4e23-a7ce-4eb88f4d9955
+  claim_hash: b9578980dc59ba4a4844b992dd67fdcd7f4116ea62d8599251a8901de3d6cd30
+  content: Kevin Day considers his USS Princeton captain's explanation that the objects
+    were spontaneously forming ice falling from space to be absurd.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: ch16:21290-21328
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7a7a9d29-12de-4ad4-8a75-cc35fbd21bf6
+  claim_hash: 42f2877006afa8ffed1f53d933c41bb2fcab827f06ae86976b2c83ec39d02199
+  content: Kevin Day's USS Princeton captain left him with the clear impression that
+    he knew a lot more than he was letting on about the phenomenon observed during
+    the 2004 USS Nimitz Tic Tac UAP encounter.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 8e86f75c-fbee-420a-9701-d007e3e13c30
+    title: James Smith (USS Nimitz captain)
+    slug: james-smith-uss-nimitz-captain
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: ch16:21340-21439
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 922a56a4-1aba-4fed-86c2-15785656b43c
+  claim_hash: d84208815538530f9b102fc6fbeb9ee326a89739521ef6e02ea2e247a5afd8c3
+  content: The morning after the 2004 USS Nimitz Tic Tac UAP dogfight, Kevin Day went
+    to the USS Princeton's communications room to get a copy of the radio communications
+    from the previous day in order to write an after-action report.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: ch16:22767-23004
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 0a0fbdf2-f4a8-4332-b4c1-188e8a3616a0
+  claim_hash: 739929b39af560e9f89992dad5a646c961e32ae1b38c3cdf9b5e57c9e0e21b0f
+  content: Kevin Day discovered that the radio communications data for the 2004 USS
+    Nimitz Tic Tac UAP encounter had been erased from the USS Princeton's optical
+    disk, even though the date and time stamps for the recordings remained.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: ch16:23092-23396
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: cb674f5f-8ce7-4149-82d1-b902fb4038bb
+  claim_hash: 7b964f1a5e877102ede1747a11bb0191eed6eb8a17253c6f1376f63dd3a0c295
+  content: Kevin Day considers it not even possible for optical disk communications
+    data to go missing while the date and time stamps remain intact, yet in this case
+    it happened.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: ch16:23405-23510
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: f4df5185-9cd6-4950-ba89-285bb9f0f240
+  claim_hash: 3d2ed997eae1be3c57493f841714308dbdc5a5b118fbf21a0a1945f858cdebb2
+  content: Late on the morning of 2004-11-14, in the USS Princeton's Combat Information
+    Centre, Kevin Day again saw a cluster of 14 unidentified objects on his radar
+    screen.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: ch16:3258-3438
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 90742dd6-fb52-4b59-b254-7f1d77a2752d
+  claim_hash: 7feaec26f042767629baabd3653bcbc73cfa1883f61657801c3bc7dbce3fa65c
+  content: Kevin Day confirmed that the USS Nimitz's radar was tracking the same cluster
+    of 14 unidentified objects as the USS Princeton's radar on 2004-11-14.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+    title: USS Nimitz (CVN-68)
+    slug: uss-nimitz-cvn-68
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: ch16:3446-3511
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d07295d5-c39e-45d6-b88b-7b43bfc09591
+  claim_hash: 3a1c790e45ea8639ee693687069522ec95a21a3e66b82f8408dce4bf0d798119
+  content: Multiple corroborating radar returns from different systems reassured Kevin
+    Day that it was extremely unlikely the anomalous objects on his radar screen were
+    false readings.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: ch16:3662-3830
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: b5d77fe1-93fa-4522-8f24-bc6b8ad34da5
+  claim_hash: 5315ec155be9b80ef9e988025dda4c0ca8940a581d85bc3dbdd969afdb48250f
+  content: During the 2004 USS Nimitz Tic Tac UAP encounter, the cluster of unidentified
+    objects on Kevin Day's radar screen was at one moment at approximately 24,000
+    metres or higher, with some lower at approximately 8,500 metres.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: ch16:3906-4009
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 223e096a-0e46-4598-afcf-9329fee3d847
+  claim_hash: 4ff2071d5ce1252d4faab6838ad85670c48f98672937d96d58179050de365278
+  content: Kevin Day calculated that the unidentified objects plummeted, in about
+    0.78 of a second, from around 24,000 metres to hover at altitudes ranging from
+    approximately 8,500 metres down to just 15 metres above the ocean surface.
+  original_excerpt: null
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: ch16:4015-4222
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 18b5b5b6-6955-4f5b-8e28-11d30c874670
+  claim_hash: 05b456c4a7a3ad281be5ae259839ebd5bdf769ae26ae4fb4d0a55b740f8ede12
+  content: Kevin Day gave a quote to a UFO conference in 2019-03 describing the objects
+    during the 2004 USS Nimitz Tic Tac UAP encounter as 'raining UFOs' making a repeated
+    sound down to the surface of the water.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: 2019-03
+  date_end: null
+  location_in_record: ch16:4229-4391
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e3237084-21a3-4c8c-bd39-62aec0989d0f
+  claim_hash: a45045f1e4a6b87d161ab3682231bdb2bfacfe74261c0c3fa3696fa723ee4647
+  content: Kevin Day learned from crewmen who worked in the anti-ballistic missile
+    defence area of the USS Princeton that they tracked some of the objects seen during
+    the 2004 USS Nimitz Tic Tac UAP encounter from orbit.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: anonymous
+    origin: crewmen who worked in the anti-ballistic missile defence area of the USS
+      Princeton
+    relay:
+    - Kevin Day
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: ch16:4402-4593
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: e2f6df57-3837-46aa-8f34-3677b7309d06
+  claim_hash: f6b43b0dc78692ac7fcf2537a0efe56479ebfe6ef81c594fee0eee92a2b27d04
+  content: Kevin Day believes some of the objects observed during the 2004 USS Nimitz
+    Tic Tac UAP encounter came from space, though he did not see them directly on
+    his own radar.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: ch16:4601-4744
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 2fd56e58-c76d-42ab-b788-c0db94d8b876
+  claim_hash: 0dce7105195b4130ee0913ea328575c1b62801bb069dce5668c4a22fc3064619
+  content: The 2004 USS Nimitz Tic Tac UAP encounter had a profound effect on Kevin
+    Day, rocking his world view.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: ch16:4752-4874
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: bc582bf2-38cb-4b91-98da-49d9e021cfd5
+  claim_hash: 6af0c53be04aca20475f0d4971557c2f2dc30e9250658a17e747827a46cab221
+  content: The g-forces caused by the acceleration Kevin Day observed on his radar
+    screen during the 2004 USS Nimitz Tic Tac UAP encounter would make human survival
+    impossible.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: ch16:5626-5723
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: d9fe8a87-45d2-49b5-a2de-08c78f0ff188
+  claim_hash: f3e0e839d35ecb36a7d55e3cf09f04e24886acfcec99ee6acfe3d56b4aabd84e
+  content: Kevin Day decided that the unidentified objects tracked during the 2004
+    USS Nimitz Tic Tac UAP encounter posed a serious threat to air navigation.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: ch16:6212-6284
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 1e9fa5fc-7581-419e-97db-131b5fbfdaa9
+  claim_hash: b31f2f143828fb65d72e1dfe43b006dec4e151514fc3cf118e160c257b54e0a6
+  content: Kevin Day recommended to USS Nimitz Captain James Smith that aircraft be
+    sent to investigate the swarm of unidentified objects during the 2004 USS Nimitz
+    Tic Tac UAP encounter, and Captain Smith concurred.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8e86f75c-fbee-420a-9701-d007e3e13c30
+    title: James Smith (USS Nimitz captain)
+    slug: james-smith-uss-nimitz-captain
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+    title: USS Nimitz (CVN-68)
+    slug: uss-nimitz-cvn-68
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: ch16:6428-6542
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 7698357a-332c-49e7-94d4-e8c410476a97
+  claim_hash: 09d87c9fb79e8ec95b494fa925bd00794c322cf739c39254a10871dfac6863ff
+  content: Kevin Day, a retired US Navy chief petty officer and radar specialist who
+    served as a TOPGUN air intercept controller, monitored the Tic Tac craft videoed
+    and tracked by US Navy pilots in 2004.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    slug: united-states-navy-usn
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: '2004-11-14'
+  date_end: null
+  location_in_record: ch37:8069-8257
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: restricted
+- claim_id: 17d09693-6798-454a-b66f-09da76258383
+  claim_hash: 38de9f42970ad5785077c21fa1b64b4bbd191c7d5684c63c01ade42471d45b5b
+  content: Kevin Day was manning the radar on board the USS Princeton during the 2004
+    USS Nimitz UAP encounter.
+  original_excerpt: Manning the radar on board the Princeton was Kevin Day.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: narration
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+    title: USS Princeton (CG-59)
+    slug: uss-princeton-cg-59
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: 00:14:20.4-00:14:23.8
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+- claim_id: d0314d73-7fee-4c08-9615-c69f90b649b3
+  claim_hash: e396e385a4ed56e8542079a84e609202656bc43fe92971dbb13bfe205ab67dc0
+  content: Kevin Day observed a formation of unidentified flying objects on his radar
+    screen during the exercise, rather than the simulated adversary aircraft he expected.
+  original_excerpt: But it wasn't the bad guys appearing on his screen that caught
+    his eye. Instead, a formation of unidentified flying objects.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: 00:14:47.0-00:14:56.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+- claim_id: daac393a-1231-42c4-804f-6fb4031e6f15
+  claim_hash: e9c591831bd7ddbee8a96a62ce2f9e4fa4a810b5d89a75cd80f1c87b5a3d68ea
+  content: Kevin Day initially thought the objects on radar were civilian-related
+    and that the crew had not been aware they were operating there.
+  original_excerpt: I thought it was civilian-related, and they didn't even know we
+    were out there.
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: 00:14:57.8-00:15:00.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+- claim_id: b2bf7bc8-b546-4436-b6a5-8cde648950cb
+  claim_hash: b3ab36d03ac9e99a2af5bf3a51b6c04f1dbbfcb3952859e19335ff4d008db06c
+  content: Kevin Day became concerned about the unidentified objects because of an
+    ongoing air defence exercise, and reported that his captain confirmed the objects
+    had been tracked for days.
+  original_excerpt: The only reason why I became concerned with these is because of
+    that air defense exercise. Captain comes down to combat and says, hey, sir, you
+    know we've been tracking these objects for days now.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: 00:15:00.9-00:15:09.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+- claim_id: 520dfd6f-d5da-4f18-a4dc-d2b7d9fa9362
+  claim_hash: a761d842f035625f48445c9cd4796df07cc45bf335d3eba11d336bdfe5b520ec
+  content: Kevin Day tracked the unidentified object on radar during David Fravor's
+    intercept in the 2004 USS Nimitz UAP encounter.
+  original_excerpt: Yeah, I'm seeing it on radar. I'm seeing him do the intercept,
+    and as soon as he's at the merge plot, that object went...
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: 00:16:21.5-00:16:26.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+- claim_id: 7b8c13d9-27b1-4e6d-a078-5dae10632051
+  claim_hash: 8a4f14d2ae24dc37e3338a96a985e34b05cc764b1d59ba944ad5a7135afd62d8
+  content: During the 2004 USS Nimitz UAP encounter, the object descended from approximately
+    8,500 metres to the surface of the ocean in 0.78 seconds.
+  original_excerpt: It went from 28,000 feet to the surface of the ocean in 0.78 seconds.
+  claim_type: measurement
+  attestation: first_hand
+  speaker:
+    node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+  provenance_chain:
+    origin_kind: speaker
+    origin: Kevin Day
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+    title: Kevin Day
+    slug: kevin-day
+  date: null
+  date_end: null
+  location_in_record: 00:16:27.3-00:16:29.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+    record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+    record_date: '2021-09-06'
+    record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+    content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+    friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2

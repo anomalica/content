@@ -1,0 +1,312 @@
+schema: anomalica/brief/1
+brief_hash: a485d3d9e59a0b5b1998605e82db9e9024859cf9c426cc59dc4cdd2665b53c92
+page:
+  kind: entity
+  node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+  node_type: organisation
+  title: TRW Inc.
+  slug: trw-inc
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+  title: Boeing
+  node_type: organisation
+  slug: boeing
+  shared_claims: 2
+- node_id: 6814b080-a222-4c03-9e18-877cf868e816
+  title: Lockheed
+  node_type: organisation
+  slug: lockheed
+  shared_claims: 2
+- node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+  title: Northrop Grumman
+  node_type: organisation
+  slug: northrop-grumman
+  shared_claims: 2
+- node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
+  title: Raytheon
+  node_type: organisation
+  slug: raytheon
+  shared_claims: 2
+- node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
+  title: Aerospace Corporation
+  node_type: organisation
+  slug: aerospace-corporation
+  shared_claims: 1
+- node_id: 0017e9ea-ba2f-4c15-9767-6f5a0f4035a0
+  title: BAE Systems
+  node_type: organisation
+  slug: bae-systems
+  shared_claims: 1
+- node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+  title: Eric Davis
+  node_type: person
+  slug: eric-davis
+  shared_claims: 1
+- node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+  title: Legacy Program
+  node_type: project
+  slug: legacy-program
+  shared_claims: 1
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 1
+- node_id: d3f1910c-f3bf-4eff-b952-3d38b54e9876
+  title: McDonnell Douglas
+  node_type: organisation
+  slug: mcdonnell-douglas
+  shared_claims: 1
+- node_id: acde03ee-7227-486d-854c-9673dd837619
+  title: USA, Ohio, Wright-Patterson Air Force Base
+  node_type: place
+  slug: ohio-wright-patterson-air-force-base-usa
+  shared_claims: 1
+claims:
+- claim_id: 2b4ca115-acb5-412d-bbdb-2dff43b0d6c2
+  claim_hash: e6f18cd5866b93e74a3fef7a7cd3f855db227568c450f88cddc7c109a9e5ed58
+  content: During the Apollo 12 Air-to-Ground Voice Transcription, Mission Control
+    said that TRW Inc. had a workup on the Data Entry and Display Assembly (DEDA)
+    flashing phenomenon problem.
+  original_excerpt: 'Roger. I think TRW''s got a {{illegible: workup}} on this problem.'
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: Mission Control Capcom
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+    title: TRW Inc.
+    slug: trw-inc
+  date: null
+  date_end: null
+  location_in_record: char:4821-4878
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 8e936180-f3e9-4791-87d6-6d28a81040fe
+    record_title: Apollo 12 Air-to-Ground Voice Transcription
+    record_date: null
+    record_reference: null
+    content_hash: sha256:74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f814740c9b3
+    friendly_name: undated-pdf-apollo-12-air-to-ground-voice-transcription
+- claim_id: e59c0f57-d34c-4691-b499-4cc425233baf
+  claim_hash: c0cee287df4fa09d0c029bb8c9b7a178207cc4032a6dc46291c54fd5e894f2ec
+  content: Luis Elizondo's primary job in counterintelligence was to lock down sensitive,
+    top secret technology from foreign spies targeting major defence contractors including
+    TRW, Raytheon, Boeing, and Lockheed.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+    title: Boeing
+    slug: boeing
+  - node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
+    title: Raytheon
+    slug: raytheon
+  - node_id: 6814b080-a222-4c03-9e18-877cf868e816
+    title: Lockheed
+    slug: lockheed
+  - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+    title: TRW Inc.
+    slug: trw-inc
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  date: null
+  date_end: null
+  location_in_record: ch11:20529-20690
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 53cadf97-5e8c-4d12-84dc-9e262df25d59
+  claim_hash: 4fbd260d87af6428c2972532c264c6765f6d02099bc8dafa0b09adca2ea6e4e6
+  content: Eric Davis and other colleagues were familiar with a rumoured crash-retrieval
+    programme run by TRW out of Wright-Patterson Air Force Base in Ohio.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: named
+    origin: Eric Davis and other colleagues
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+    title: TRW Inc.
+    slug: trw-inc
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    slug: eric-davis
+  - node_id: acde03ee-7227-486d-854c-9673dd837619
+    title: USA, Ohio, Wright-Patterson Air Force Base
+    slug: ohio-wright-patterson-air-force-base-usa
+  date: null
+  date_end: null
+  location_in_record: ch19:1427-1616
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 144ab750-b00b-4076-beb6-cd4d78dd9997
+  claim_hash: e1659679f33621ff59045ad38b4174f7e24d5c5ea563ad27aeaf0b5fe8bd34fe
+  content: TRW has long been a major United States defence contractor.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+    title: TRW Inc.
+    slug: trw-inc
+  date: null
+  date_end: null
+  location_in_record: ch19:1644-1681
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 7ec460a8-44f4-49ad-9cde-b1c5a56ae2ba
+  claim_hash: caef8d2df0c5bf459d19744dadbe8b15432c961f9c2de7557abb52401b37a687
+  content: TRW was eventually purchased by Northrop Grumman.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+    title: TRW Inc.
+    slug: trw-inc
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  date: null
+  date_end: null
+  location_in_record: ch19:1719-1791
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: a7f3a152-7714-45c3-8e1e-ff2cbc757810
+  claim_hash: 281fc939cb04016c833f8699869b5933f65d4b0429016c9e9d48e0317178588c
+  content: Lockheed Martin, TRW, McDonnell Douglas, Northrop Grumman, Boeing, Raytheon,
+    BAE Systems, and the Aerospace Corporation were named by senior officials as aerospace
+    and defence companies involved in the Legacy Program to retrieve and reverse-engineer
+    crash materials.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: anonymous
+    origin: persons claiming to be senior officials
+    relay:
+    - told confidentially to Lue Elizondo
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 0017e9ea-ba2f-4c15-9767-6f5a0f4035a0
+    title: BAE Systems
+    slug: bae-systems
+  - node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
+    title: Aerospace Corporation
+    slug: aerospace-corporation
+  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+    title: Boeing
+    slug: boeing
+  - node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
+    title: Raytheon
+    slug: raytheon
+  - node_id: 6814b080-a222-4c03-9e18-877cf868e816
+    title: Lockheed
+    slug: lockheed
+  - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+    title: TRW Inc.
+    slug: trw-inc
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    slug: northrop-grumman
+  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+    title: Legacy Program
+    slug: legacy-program
+  - node_id: d3f1910c-f3bf-4eff-b952-3d38b54e9876
+    title: McDonnell Douglas
+    slug: mcdonnell-douglas
+  date: null
+  date_end: null
+  location_in_record: ch21:4633-4853
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted

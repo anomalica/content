@@ -1,0 +1,311 @@
+schema: anomalica/brief/1
+brief_hash: bfc175361efe7bfe99869e8fa5e5d1bc2425cec65a5ce2a7c595f3874be808d5
+page:
+  kind: entity
+  node_id: 1ca375c2-ea54-473a-92d6-621d26119214
+  node_type: topic
+  title: 'topic: bilocation'
+  slug: topic-bilocation
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-08-22T05:32:44.931587+00:00'
+related_nodes:
+- node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+  title: 'topic: levitation'
+  node_type: topic
+  slug: topic-levitation
+  shared_claims: 3
+- node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+  title: Robert Monroe
+  node_type: person
+  slug: robert-monroe
+  shared_claims: 2
+- node_id: 6dac3327-0f55-4388-8aca-be45c3b14dba
+  title: Buddha
+  node_type: person
+  slug: buddha
+  shared_claims: 1
+- node_id: 5b5913fe-7f9f-46c2-bd47-a94b996dff89
+  title: Later Stage of out-of-body research (Robert Monroe)
+  node_type: event
+  slug: later-stage-of-out-of-body-research-robert-monroe
+  shared_claims: 1
+- node_id: b0154a66-ab11-4075-9f80-8e3a136b35c8
+  title: Mahabharata
+  node_type: document
+  slug: mahabharata
+  shared_claims: 1
+- node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+  title: Maria of Agreda
+  node_type: person
+  slug: maria-of-agreda
+  shared_claims: 1
+- node_id: e8d103c5-50bf-44a3-9f61-13059d535f2b
+  title: Vyasa
+  node_type: person
+  slug: vyasa
+  shared_claims: 1
+- node_id: 29648d49-595f-4908-84b7-17578cbe98f8
+  title: 'topic: siddhis (Hindu/Buddhist accomplishments)'
+  node_type: topic
+  slug: topic-siddhis-hindubuddhist-accomplishments
+  shared_claims: 1
+claims:
+- claim_id: 632a7cc3-1680-4c77-ab1b-3977c12dcfc5
+  claim_hash: 732bf161f50218037fc16f186fc564b0a8b69d48c82c284a9f19558c530c7652
+  content: During the Later Stage of out-of-body research, Robert Monroe experienced
+    a complete awareness of "near bi-location" on two separate occasions, a state
+    of full consciousness with full sensory awareness of physical surroundings while
+    the self was "one notch away."
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
+    title: 'topic: bilocation'
+    slug: topic-bilocation
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  - node_id: 5b5913fe-7f9f-46c2-bd47-a94b996dff89
+    title: Later Stage of out-of-body research (Robert Monroe)
+    slug: later-stage-of-out-of-body-research-robert-monroe
+  date: null
+  date_end: null
+  location_in_record: ch26:22480-22744
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: 758e2a37-d92d-4c3d-b8fd-8fa6bc58aa89
+  claim_hash: f0c8318bc48e80e9d9eb66445850729850895ece48fd648f492a5d043d3e366d
+  content: On both occasions of "near bi-location" during the Later Stage of out-of-body
+    research, Robert Monroe required a deliberate decision to integrate completely
+    back into the physical environment.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+  provenance_chain:
+    origin_kind: speaker
+    origin: Robert Monroe
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
+    title: 'topic: bilocation'
+    slug: topic-bilocation
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    slug: robert-monroe
+  date: null
+  date_end: null
+  location_in_record: ch26:22751-22846
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 0585998d-c88f-4448-be7b-523c2680e789
+    record_title: Journeys Out of the Body
+    record_date: '2014-11-11'
+    record_reference: null
+    content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+    friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  excerpt_withheld: restricted
+- claim_id: b4ce3004-a359-45d6-9886-b870546190fc
+  claim_hash: 88f81915c77b65388f74918648bb5c420afe43cabbe888f3676df9f59fd50453
+  content: The powers described by different religious traditions of siddhis and their
+    equivalents include healing, levitation, instantaneous movement and/or bilocation.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
+    title: 'topic: bilocation'
+    slug: topic-bilocation
+  - node_id: 29648d49-595f-4908-84b7-17578cbe98f8
+    title: 'topic: siddhis (Hindu/Buddhist accomplishments)'
+    slug: topic-siddhis-hindubuddhist-accomplishments
+  - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+    title: 'topic: levitation'
+    slug: topic-levitation
+  date: null
+  date_end: null
+  location_in_record: ch15:17525-17663
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: ebb4d9aa-022c-4417-9867-61a469ebe4e8
+  claim_hash: 921f4fea93f7b56177728977091b608a3abff08133cee21fc4192666478cccd2
+  content: Whitley Strieber states he has not personally witnessed clairvoyance, clairaudience,
+    or bilocation, nor does he know of any record of anyone else doing so.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+  provenance_chain:
+    origin_kind: speaker
+    origin: Whitley Strieber
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
+    title: 'topic: bilocation'
+    slug: topic-bilocation
+  date: null
+  date_end: null
+  location_in_record: ch21:8197-8273
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 5bf322b6-222f-4d14-a207-d2c8fa915bdf
+  claim_hash: 7cdc7318604166505cb3baa112ae85cb9916abe6cc967274e8bccd10831e3d59
+  content: The Buddha was said to be able to both bilocate and levitate.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: eastern tradition
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
+    title: 'topic: bilocation'
+    slug: topic-bilocation
+  - node_id: 6dac3327-0f55-4388-8aca-be45c3b14dba
+    title: Buddha
+    slug: buddha
+  - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+    title: 'topic: levitation'
+    slug: topic-levitation
+  date: null
+  date_end: null
+  location_in_record: ch22:14344-14475
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: 7aa53fe4-c1ba-40d4-9b59-f51f153d5cdc
+  claim_hash: 7f199b34f8c74eab51cfaca86d04ab7a7203fd5bae6dfafb4c189bc8510c5d46
+  content: In the eastern tradition, the sage Vyasa, author and narrator of the Mahabharata,
+    was said to be able to both bilocate and levitate.
+  original_excerpt: null
+  claim_type: hearsay
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: eastern tradition
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
+    title: 'topic: bilocation'
+    slug: topic-bilocation
+  - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+    title: 'topic: levitation'
+    slug: topic-levitation
+  - node_id: b0154a66-ab11-4075-9f80-8e3a136b35c8
+    title: Mahabharata
+    slug: mahabharata
+  - node_id: e8d103c5-50bf-44a3-9f61-13059d535f2b
+    title: Vyasa
+    slug: vyasa
+  date: null
+  date_end: null
+  location_in_record: ch22:14344-14475
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted
+- claim_id: a0ce024f-e117-43bd-9036-4fd2618c5f93
+  claim_hash: 64e0b7487fb3570e5b4aa584ec83ad3ebbb610034b50f91094ad137e161026da
+  content: Maria of Agreda was noted as a bilocator.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
+    title: 'topic: bilocation'
+    slug: topic-bilocation
+  - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+    title: Maria of Agreda
+    slug: maria-of-agreda
+  date: null
+  date_end: null
+  location_in_record: ch22:22077-22120
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+    record_title: The Fourth Mind
+    record_date: '2025-01-15'
+    record_reference: null
+    content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+    friendly_name: 2025-01-15-ebook-the-fourth-mind
+  excerpt_withheld: restricted

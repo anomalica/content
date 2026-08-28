@@ -1,0 +1,514 @@
+schema: anomalica/brief/1
+brief_hash: 9e03d02a3867c1c1c45a250a51ed7fdfd33e5ca650bd371c47dba68274d1187e
+page:
+  kind: entity
+  node_id: e27e23da-63a4-4838-a952-333883df5fd0
+  node_type: person
+  title: Igor Volker
+  slug: igor-volker
+  claim_count: 12
+  claim_count_total: 12
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+  title: Merivälja object
+  node_type: object
+  slug: merivalja-object
+  shared_claims: 6
+- node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+  title: Estonia, Tallinn, Merivälja
+  node_type: place
+  slug: tallinn-merivalja-estonia
+  shared_claims: 4
+- node_id: 28321cb0-a2d5-4ac7-9ac3-ada7ff169dcc
+  title: Vormsi Enn
+  node_type: person
+  slug: vormsi-enn
+  shared_claims: 3
+- node_id: 6d138ed9-1c46-4179-aea4-f2d50f516329
+  title: 1985 reburial of the Merivalja shaft
+  node_type: event
+  slug: 1985-reburial-of-the-merivalja-shaft
+  shared_claims: 2
+- node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+  title: Committee for State Security (KGB)
+  node_type: organisation
+  slug: committee-for-state-security-kgb
+  shared_claims: 2
+- node_id: 4275e483-211d-4044-bf02-a9bde770199b
+  title: 1991 Japanese investigation of the Merivalja garden
+  node_type: event
+  slug: 1991-japanese-investigation-of-the-merivalja-garden
+  shared_claims: 1
+claims:
+- claim_id: 1ee901c6-1526-4cce-badf-1cc1dadd5382
+  claim_hash: 8402bc21f353ba4e8bf2f1b50ef015a9f184fffdcce04b45912fe8877826861a
+  content: Igor Volker is a ufologist who did extensive work researching the Merivälja
+    object and the Soviet investigation reports.
+  original_excerpt: Igor Volker, who's the ufologist who did a lot of work on Merivälja,
+    and also the Soviet papers, the reports of the Soviet investigation team that
+    did this work with the KGB
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+    title: Committee for State Security (KGB)
+    slug: committee-for-state-security-kgb
+  - node_id: e27e23da-63a4-4838-a952-333883df5fd0
+    title: Igor Volker
+    slug: igor-volker
+  - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+    title: Merivälja object
+    slug: merivalja-object
+  date: null
+  date_end: null
+  location_in_record: 00:16:19.6-00:16:30.2
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+    record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on
+      a door in Estonia? | Reality Check'
+    record_date: null
+    record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+    content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+    friendly_name: null
+- claim_id: 419c8ba9-8faa-493f-9802-8316200f8dd5
+  claim_hash: 3c9baeef10ae3c012f893341ffaf36352aa66586f1563134fcec3506dce41c7d
+  content: Ufologist Igor Volker claimed in the Estonian media that there were actually
+    two objects beneath the Merivalja property.
+  original_excerpt: very dramatic claims aired in the Estonian media by a ufologist
+    called Igor Volker, and he suggested there were actually two objects beneath the
+    property
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: named
+    origin: Igor Volker
+    relay:
+    - Ross Coulthart
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+    title: Estonia, Tallinn, Merivälja
+    slug: tallinn-merivalja-estonia
+  - node_id: e27e23da-63a4-4838-a952-333883df5fd0
+    title: Igor Volker
+    slug: igor-volker
+  date: null
+  date_end: null
+  location_in_record: 00:44:05.9-00:44:16.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+    record_title: 'Object M: The buried Estonian mystery the KGB spent years trying
+      to reach | Reality Check'
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+    content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+    friendly_name: null
+- claim_id: 404cb0f1-6b12-4f6b-8e0c-b8c1e6c543e1
+  claim_hash: 32d9819f3a0f9c4b9c9e0d631bfa746e40c99067591bae5040f35e66eda0ed04
+  content: Igor Volker claimed one of the two objects beneath the Merivalja property
+    was an elliptical disc measuring 17 by 22 metres.
+  original_excerpt: One elliptical, the disc, which was enormous, 17 by 22 meters.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: named
+    origin: Igor Volker
+    relay:
+    - Ross Coulthart
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+    title: Estonia, Tallinn, Merivälja
+    slug: tallinn-merivalja-estonia
+  - node_id: e27e23da-63a4-4838-a952-333883df5fd0
+    title: Igor Volker
+    slug: igor-volker
+  date: null
+  date_end: null
+  location_in_record: 00:44:17.8-00:44:20.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+    record_title: 'Object M: The buried Estonian mystery the KGB spent years trying
+      to reach | Reality Check'
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+    content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+    friendly_name: null
+- claim_id: a5e32dc9-3d00-4e3d-9c0a-51150ac2a7df
+  claim_hash: 7bea747390c45f9bd881a0e5daee778959dbef995c87e56fd9059fe4e0862d95
+  content: Igor Volker claimed the other object beneath the Merivalja property was
+    grenade-shaped and measured two by four metres.
+  original_excerpt: The other was a grenade-shaped object, two by four meters.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: named
+    origin: Igor Volker
+    relay:
+    - Ross Coulthart
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+    title: Estonia, Tallinn, Merivälja
+    slug: tallinn-merivalja-estonia
+  - node_id: e27e23da-63a4-4838-a952-333883df5fd0
+    title: Igor Volker
+    slug: igor-volker
+  date: null
+  date_end: null
+  location_in_record: 00:44:23.8-00:44:27.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+    record_title: 'Object M: The buried Estonian mystery the KGB spent years trying
+      to reach | Reality Check'
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+    content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+    friendly_name: null
+- claim_id: 54da4db6-5d26-42b6-b623-8c78d4cf681b
+  claim_hash: 424f86a8d61fce5356a9ce5f26fd2204e846d9a4f6d4fc769e4d5670c8ea787f
+  content: No hard evidence was ever produced for either of the two objects Igor Volker
+    claimed were beneath the Merivalja property.
+  original_excerpt: we never saw any hard evidence of either of these objects, did
+    we?
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+  provenance_chain:
+    origin_kind: speaker
+    origin: Ross Coulthart
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+    title: Estonia, Tallinn, Merivälja
+    slug: tallinn-merivalja-estonia
+  - node_id: e27e23da-63a4-4838-a952-333883df5fd0
+    title: Igor Volker
+    slug: igor-volker
+  date: null
+  date_end: null
+  location_in_record: 00:44:41.4-00:44:45.5
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+    record_title: 'Object M: The buried Estonian mystery the KGB spent years trying
+      to reach | Reality Check'
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+    content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+    friendly_name: null
+- claim_id: 1facec53-1bae-46ed-8f64-8a9a782e7bf5
+  claim_hash: 865d598960a3128d7c629b791b0a19d378a57561e9975d2ba4e0a6576d341cf3
+  content: Igor Volker reportedly said the Merivalja object is a very dangerous object
+    that should and must be closed.
+  original_excerpt: Mr. Volker reportedly said that this, it's a very dangerous object
+    and it should be and must be closed
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+    title: Mart Sander
+  provenance_chain:
+    origin_kind: named
+    origin: Igor Volker
+    relay:
+    - Mart Sander
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e27e23da-63a4-4838-a952-333883df5fd0
+    title: Igor Volker
+    slug: igor-volker
+  - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+    title: Merivälja object
+    slug: merivalja-object
+  date: null
+  date_end: null
+  location_in_record: 00:46:50.9-00:46:58.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+    record_title: 'Object M: The buried Estonian mystery the KGB spent years trying
+      to reach | Reality Check'
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+    content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+    friendly_name: null
+- claim_id: 834863c5-6590-4494-97ca-4e33f00f19c5
+  claim_hash: 3e283181c2c3b3ff08e1c72c2893cd907217c07d0ffee9ef07e2a81fef9417b1
+  content: Igor Volker performed a ritual to close the shafts at the Merivalja site
+    after Alexander Deyev left in 1988, believing this would keep the object dormant.
+  original_excerpt: after the day I've left in the late 80s, '88, he performed this,
+    dare I call it, ritual of closing the shafts... to make sure that it stays dormant
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+    title: Mart Sander
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mart Sander
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 6d138ed9-1c46-4179-aea4-f2d50f516329
+    title: 1985 reburial of the Merivalja shaft
+    slug: 1985-reburial-of-the-merivalja-shaft
+  - node_id: e27e23da-63a4-4838-a952-333883df5fd0
+    title: Igor Volker
+    slug: igor-volker
+  - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+    title: Merivälja object
+    slug: merivalja-object
+  date: '1988'
+  date_end: null
+  location_in_record: 00:47:00.6-00:47:15.3
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+    record_title: 'Object M: The buried Estonian mystery the KGB spent years trying
+      to reach | Reality Check'
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+    content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+    friendly_name: null
+- claim_id: 25c375f2-139a-4dfe-8136-350ef2dab0f3
+  claim_hash: 59b3d8fbe9215ae3a08c5e0b50fc68416541a6008f3943743ba6f22c3b731409
+  content: Igor Volker was convinced that once the Merivalja object awakens, it will
+    have dire consequences for everyone.
+  original_excerpt: he was quite convinced that once this object awakens, it will
+    have dire consequences for everyone
+  claim_type: opinion
+  attestation: second_hand
+  speaker:
+    node_id: e27e23da-63a4-4838-a952-333883df5fd0
+    title: Igor Volker
+  provenance_chain:
+    origin_kind: named
+    origin: Igor Volker
+    relay:
+    - Mart Sander
+  attribution_mode: unknown
+  node_refs:
+  - node_id: e27e23da-63a4-4838-a952-333883df5fd0
+    title: Igor Volker
+    slug: igor-volker
+  - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+    title: Merivälja object
+    slug: merivalja-object
+  date: null
+  date_end: null
+  location_in_record: 00:47:23.6-00:47:31.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+    record_title: 'Object M: The buried Estonian mystery the KGB spent years trying
+      to reach | Reality Check'
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+    content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+    friendly_name: null
+- claim_id: 1d031ce6-81ba-4b80-98ba-f9209a312287
+  claim_hash: b01520f5e431e2a68b693632c8e02ec4ad1d03ad84209f85f59fd925e986b223
+  content: Vormsi Enn and Igor Volker were not really interested in the KGB's (Committee
+    for State Security) activities.
+  original_excerpt: I think these gentlemen who are by now, sadly, all passed on,
+    both Vormsi and Mr. Volker, they were not really interested in the KGB and their
+    doings.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+    title: Mart Sander
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mart Sander
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 28321cb0-a2d5-4ac7-9ac3-ada7ff169dcc
+    title: Vormsi Enn
+    slug: vormsi-enn
+  - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+    title: Committee for State Security (KGB)
+    slug: committee-for-state-security-kgb
+  - node_id: e27e23da-63a4-4838-a952-333883df5fd0
+    title: Igor Volker
+    slug: igor-volker
+  date: null
+  date_end: null
+  location_in_record: 00:53:54.0-00:54:06.6
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+    record_title: 'Object M: The buried Estonian mystery the KGB spent years trying
+      to reach | Reality Check'
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+    content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+    friendly_name: null
+- claim_id: 814e5ee7-27e3-4974-be2b-a3f7f3c31129
+  claim_hash: c08221c5aae31aad767f9f8a1745708062b400d089f2a63800fb520421f7786e
+  content: Vormsi Enn and Igor Volker were deeply worried about the effects that the
+    Merivalja object or structure might have on the country and the city.
+  original_excerpt: They were really concerned and deeply worried about the effects
+    of what this object or structure might have on the country, on the city.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+    title: Mart Sander
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mart Sander
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 28321cb0-a2d5-4ac7-9ac3-ada7ff169dcc
+    title: Vormsi Enn
+    slug: vormsi-enn
+  - node_id: e27e23da-63a4-4838-a952-333883df5fd0
+    title: Igor Volker
+    slug: igor-volker
+  - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+    title: Merivälja object
+    slug: merivalja-object
+  date: null
+  date_end: null
+  location_in_record: 00:54:12.2-00:54:23.9
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+    record_title: 'Object M: The buried Estonian mystery the KGB spent years trying
+      to reach | Reality Check'
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+    content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+    friendly_name: null
+- claim_id: 3bc6dfd7-e245-4925-925b-a0f03b9da51b
+  claim_hash: a3a97d1a0916d4eb93e8f8580648d27fdd01e68ed012aa3bfea0812874031d11
+  content: Vormsi Enn and Igor Volker suggested that the Merivalja object be reburied
+    and the excavation shafts refilled.
+  original_excerpt: they really suggested that this must be reburied and the shafts
+    refilled and they managed to do that by 1988.
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+    title: Mart Sander
+  provenance_chain:
+    origin_kind: speaker
+    origin: Mart Sander
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 28321cb0-a2d5-4ac7-9ac3-ada7ff169dcc
+    title: Vormsi Enn
+    slug: vormsi-enn
+  - node_id: 6d138ed9-1c46-4179-aea4-f2d50f516329
+    title: 1985 reburial of the Merivalja shaft
+    slug: 1985-reburial-of-the-merivalja-shaft
+  - node_id: e27e23da-63a4-4838-a952-333883df5fd0
+    title: Igor Volker
+    slug: igor-volker
+  - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+    title: Merivälja object
+    slug: merivalja-object
+  date: null
+  date_end: null
+  location_in_record: 00:54:42.8-00:54:52.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+    record_title: 'Object M: The buried Estonian mystery the KGB spent years trying
+      to reach | Reality Check'
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+    content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+    friendly_name: null
+- claim_id: f848cca3-17df-475c-a12e-505cb2be9647
+  claim_hash: fdb99ed2219dac3fdea5c48ea89b9e8d7cadb2d0ff035b7d72ab1055373c27f8
+  content: Igor Volker, who died two years before this conversation, reportedly had
+    some of the footage filmed by the 1991 Japanese investigation crew at the Merivalja
+    garden.
+  original_excerpt: But I've heard that Mr. Volker, who passed away two years ago,
+    has or had some of the footage filmed by the crew.
+  claim_type: hearsay
+  attestation: second_hand
+  speaker:
+    node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+    title: Mart Sander
+  provenance_chain:
+    origin_kind: anonymous
+    origin: an unnamed source who told Mart Sander about Igor Volker's footage
+    relay:
+    - told to Mart Sander
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4275e483-211d-4044-bf02-a9bde770199b
+    title: 1991 Japanese investigation of the Merivalja garden
+    slug: 1991-japanese-investigation-of-the-merivalja-garden
+  - node_id: e27e23da-63a4-4838-a952-333883df5fd0
+    title: Igor Volker
+    slug: igor-volker
+  date: null
+  date_end: null
+  location_in_record: 00:57:46.6-00:57:57.1
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+    record_title: 'Object M: The buried Estonian mystery the KGB spent years trying
+      to reach | Reality Check'
+    record_date: '2026-08-11'
+    record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+    content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+    friendly_name: null

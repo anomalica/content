@@ -1,0 +1,222 @@
+schema: anomalica/brief/1
+brief_hash: d1969f02ac9afcc06aed43dc30eaf6a17e7e5669270a0ba5b56df98af44aa093
+page:
+  kind: entity
+  node_id: 389a5fcc-7af0-4927-88fc-d6e111d21c06
+  node_type: organisation
+  title: The Intercept
+  slug: the-intercept
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+  title: David Charles Grusch
+  node_type: person
+  slug: david-charles-grusch
+  shared_claims: 2
+- node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+  title: Christopher Sherwood
+  node_type: person
+  slug: christopher-sherwood
+  shared_claims: 1
+- node_id: 1e7db324-7094-4476-9d77-7220562ccdca
+  title: David Grusch congressional testimony (2023-07-26)
+  node_type: event
+  slug: david-grusch-congressional-testimony-2023-07-26
+  shared_claims: 1
+- node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+  title: George Knapp
+  node_type: person
+  slug: george-knapp
+  shared_claims: 1
+- node_id: cec715ac-05d9-4eb4-b97a-dcbffb6bf2e5
+  title: Harry Reid memo to William Lynn III on Advanced Aerospace Threat Identification
+    Program (AATIP) Special Access Program status (2009-07-24)
+  node_type: document
+  slug: harry-reid-memo-to-william-lynn-iii-on-advanced-aerospace-threat-identification-program-aatip-special-access-program-status-2009-07-24
+  shared_claims: 1
+- node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  title: Luis Elizondo
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 1
+- node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+  title: To the Stars Academy of Arts and Science (TTSA)
+  node_type: organisation
+  slug: to-the-stars-academy-of-arts-and-science-ttsa
+  shared_claims: 1
+- node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
+  title: post-traumatic stress disorder (Post-Traumatic Stress Disorder (PTSD))
+  node_type: topic
+  slug: post-traumatic-stress-disorder-post-traumatic-stress-disorder-ptsd
+  shared_claims: 1
+claims:
+- claim_id: 60c27c86-b087-4a81-b759-66b26eb0b951
+  claim_hash: a4c48e7f80407b2a73736a7a237e52f69eee025e215dc0966ae9ae8e579e067e
+  content: George Knapp acknowledged in an email to The Intercept buying 400 shares
+    of To The Stars Academy of Arts & Science stock in 2018, not as an investment
+    but as a way to support the company and its work.
+  original_excerpt: In an email to The Intercept, Knapp acknowledged buying 400 shares
+    of the academy’s stock in 2018, “not as an investment, but as a way to support
+    their fledgling company and their work.”
+  claim_type: testimony
+  attestation: second_hand
+  speaker:
+    node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+  provenance_chain:
+    origin_kind: speaker
+    origin: George Knapp
+    relay:
+    - an email to The Intercept
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 389a5fcc-7af0-4927-88fc-d6e111d21c06
+    title: The Intercept
+    slug: the-intercept
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    slug: george-knapp
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+  date: '2018-01-01'
+  date_end: null
+  location_in_record: char:15019-15199
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+    record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure
+      Pentagon Program. Did He?
+    record_date: '2019-06-01'
+    record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+    content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+    friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+- claim_id: 7d33cf7d-4534-459e-8e40-7a44cd1de185
+  claim_hash: 5152270f429313c0fbf0d0b5dac814287fdb0f038251655c27e71624feb0fa0e
+  content: The Pentagon's previous statement on Luis Elizondo's AATIP role, that the
+    2009 Harry Reid memo makes no change to, had been issued to The Intercept by Pentagon
+    spokesperson Christopher Sherwood.
+  original_excerpt: the content therein “makes no change” to their previous statement
+    issued by Pentagon spokesperson Mr. Christopher Sherwood to The Intercept.
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 389a5fcc-7af0-4927-88fc-d6e111d21c06
+    title: The Intercept
+    slug: the-intercept
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    slug: luis-elizondo
+  - node_id: cec715ac-05d9-4eb4-b97a-dcbffb6bf2e5
+    title: Harry Reid memo to William Lynn III on Advanced Aerospace Threat Identification
+      Program (AATIP) Special Access Program status (2009-07-24)
+    slug: harry-reid-memo-to-william-lynn-iii-on-advanced-aerospace-threat-identification-program-aatip-special-access-program-status-2009-07-24
+  - node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+    title: Christopher Sherwood
+    slug: christopher-sherwood
+  date: null
+  date_end: null
+  location_in_record: char:3384-3514
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+    record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities”
+      on AATIP; Senator Harry Reid’s 2009 Memo Changes Nothing - The Black Vault
+    record_date: '2019-06-14'
+    record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+    content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+    friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+- claim_id: 99fb3629-e474-4ebe-b7cf-0fe69afd7c28
+  claim_hash: 6fd871b6f2e7df7a1d105110754d555f68dea5c1164487ae5f5084ca5ef588d3
+  content: A security office at an agency David Grusch used to work at leaked and
+    tipped off a journalist at The Intercept about his post-traumatic stress disorder
+    within a couple of days of his July 2023 congressional testimony.
+  original_excerpt: a particular security office at a particular agency I used to
+    work at leaked and tipped off about my PTSD and my previous struggles ... to a
+    journalist at The Intercept, literally within a couple days of me testifying in
+    July 2023
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 1e7db324-7094-4476-9d77-7220562ccdca
+    title: David Grusch congressional testimony (2023-07-26)
+    slug: david-grusch-congressional-testimony-2023-07-26
+  - node_id: 389a5fcc-7af0-4927-88fc-d6e111d21c06
+    title: The Intercept
+    slug: the-intercept
+  - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
+    title: post-traumatic stress disorder (Post-Traumatic Stress Disorder (PTSD))
+    slug: post-traumatic-stress-disorder-post-traumatic-stress-disorder-ptsd
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: 2023-07
+  date_end: null
+  location_in_record: 00:18:53.4-00:19:10.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null
+- claim_id: d97296bc-6421-41df-96fa-20fcdcbf402c
+  claim_hash: 9758531a51d24afd10d22cf5a6480eebb534e19f3409f7235c6200404bcaa784
+  content: David Grusch considers the leak of his medical history to a journalist
+    an attempt to character assassinate him rather than address his claims.
+  original_excerpt: to try to shoot the messenger, to try to character assassinate
+    me, not going after my claims. but going after my person
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+  provenance_chain:
+    origin_kind: speaker
+    origin: David Grusch
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 389a5fcc-7af0-4927-88fc-d6e111d21c06
+    title: The Intercept
+    slug: the-intercept
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    slug: david-charles-grusch
+  date: null
+  date_end: null
+  location_in_record: 00:19:10.8-00:19:17.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+    record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+    record_date: '2026-08-13'
+    record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+    content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+    friendly_name: null

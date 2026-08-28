@@ -1,0 +1,134 @@
+schema: anomalica/brief/1
+brief_hash: 5633ccf6ddb57b843513eefd7d5cb00c76574b584551ece881d1fb7a4c35c0c4
+page:
+  kind: entity
+  node_id: 2ed692a4-6765-4b5f-9497-ae84f267b69a
+  node_type: organisation
+  title: GQ Magazine
+  slug: gq-magazine
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-06-28T12:12:55.811797+00:00'
+related_nodes:
+- node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+  title: Elizondo, Luis
+  node_type: person
+  slug: luis-elizondo
+  shared_claims: 3
+- node_id: 1acaa2c2-f5ce-4684-9363-4138cf9d9fca
+  title: GQ Heroes 2021 Recognition
+  node_type: event
+  slug: gq-heroes-2021-recognition
+  shared_claims: 1
+- node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+  title: The Pentagon
+  node_type: organisation
+  slug: the-pentagon
+  shared_claims: 1
+claims:
+- claim_id: 6bc5ed2f-6fb8-4619-8f05-dd8ecef47d66
+  claim_hash: 659fe4425ec2838e6f669af8ca880abb89cba2093ce1b6b7d7985fa209fbc525
+  content: Luis Elizondo told GQ Magazine in late 2021 that UAPs are intelligently
+    controlled by something, because they are responding and reacting to human actions.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2ed692a4-6765-4b5f-9497-ae84f267b69a
+    title: GQ Magazine
+    slug: gq-magazine
+  - node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+    slug: luis-elizondo
+  date: '2021'
+  date_end: null
+  location_in_record: Chapter 25
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: ecb7067f-eac1-4241-823e-e6b9ba6693fb
+  claim_hash: 8d3071be7f07138b657ac1eba3f4c5e61c471ba129d21f797d2a7ed0844386c8
+  content: Luis Elizondo told GQ Magazine in late 2021 that it is his strong belief
+    that the US government is in possession of exotic material associated with UAPs.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 2ed692a4-6765-4b5f-9497-ae84f267b69a
+    title: GQ Magazine
+    slug: gq-magazine
+  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+    title: The Pentagon
+    slug: the-pentagon
+  - node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+    slug: luis-elizondo
+  date: '2021'
+  date_end: null
+  location_in_record: Chapter 25
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: e381660c-87c0-40d6-b275-32a5874dc085
+    record_title: In Plain Sight
+    record_date: '2021'
+    record_reference: null
+    content_hash: sha256:49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb44d6c6704
+    friendly_name: 2023-11-17-ebook-in-plain-sight
+  excerpt_withheld: licensed
+- claim_id: 9925e964-d4c1-4458-8d41-55730a419e0d
+  claim_hash: 0d1a41753b8a67853775f5ae269663588bfcf8f8d37023cdd3f2fe87a2742ab7
+  content: In November 2021, GQ magazine in the UK named Luis Elizondo one of the
+    heroes of 2021 for his impact on culture through UAP disclosure efforts.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: first_hand
+  speaker:
+    node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+  provenance_chain: null
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 1acaa2c2-f5ce-4684-9363-4138cf9d9fca
+    title: GQ Heroes 2021 Recognition
+    slug: gq-heroes-2021-recognition
+  - node_id: 2ed692a4-6765-4b5f-9497-ae84f267b69a
+    title: GQ Magazine
+    slug: gq-magazine
+  - node_id: 570ea717-9fc1-49f3-b252-8d50284784d1
+    title: Elizondo, Luis
+    slug: luis-elizondo
+  date: 2021-11
+  date_end: null
+  location_in_record: Chapter 23, paragraph 56
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d20c4f3b8
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: licensed

@@ -1,0 +1,492 @@
+schema: anomalica/brief/1
+brief_hash: f651c6d955d4ebf4e35aff9a445ffb9c1074bd8d08c56cd3303f57462d9e25cc
+page:
+  kind: entity
+  node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
+  node_type: topic
+  title: warp drive
+  slug: warp-drive
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-08-27T07:17:55.588951+00:00'
+related_nodes:
+- node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+  title: Harold E. Puthoff
+  node_type: person
+  slug: harold-e-puthoff
+  shared_claims: 6
+- node_id: 4f8fc0ea-b226-4e8a-a12d-bb9327d65f3f
+  title: Miguel Alcubierre
+  node_type: person
+  slug: miguel-alcubierre
+  shared_claims: 2
+- node_id: 469451fd-d38a-453c-b2c0-a1f83d9b5267
+  title: traversable wormhole
+  node_type: topic
+  slug: traversable-wormhole
+  shared_claims: 2
+- node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  title: 2004 USS Nimitz UAP encounter
+  node_type: event
+  slug: 2004-uss-nimitz-uap-encounter
+  shared_claims: 1
+- node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+  title: Advanced Aerospace Threat Identification Program (AATIP)
+  node_type: project
+  slug: advanced-aerospace-threat-identification-program-aatip
+  shared_claims: 1
+- node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+  title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+  node_type: project
+  slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  shared_claims: 1
+- node_id: 7fc266ce-9181-42f1-98a6-7ec5601f733d
+  title: Cardiff University
+  node_type: organisation
+  slug: cardiff-university
+  shared_claims: 1
+- node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+  title: Maaneli "Max" Derakhshani
+  node_type: person
+  slug: maaneli-max-derakhshani
+  shared_claims: 1
+- node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+  title: Massachusetts Institute of Technology (MIT)
+  node_type: organisation
+  slug: massachusetts-institute-of-technology-mit
+  shared_claims: 1
+- node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  title: National Aeronautics and Space Administration (NASA)
+  node_type: organisation
+  slug: national-aeronautics-and-space-administration-nasa
+  shared_claims: 1
+- node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  title: United States Department of Defense (DoD)
+  node_type: organisation
+  slug: united-states-department-of-defense-dod
+  shared_claims: 1
+claims:
+- claim_id: 524f204c-f983-4be1-8a6e-61e1f2c65e25
+  claim_hash: bdb6942c425ed73a8b5def0d41d3af46dd04ae7e4d940df104e560a080bf872c
+  content: Before Lue Elizondo joined the Advanced Aerospace Weapons System Application
+    Program (AAWSAP)/Advanced Aerospace Threat Identification Program (AATIP), Harold
+    Puthoff conceived and commissioned studies including invisibility cloaking, traversable
+    wormholes and stargates, antigravity, brain/machine interfaces, and warp drives.
+  original_excerpt: null
+  claim_type: testimony
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 469451fd-d38a-453c-b2c0-a1f83d9b5267
+    title: traversable wormhole
+    slug: traversable-wormhole
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    slug: advanced-aerospace-threat-identification-program-aatip
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
+    title: warp drive
+    slug: warp-drive
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+  date: null
+  date_end: null
+  location_in_record: ch12:44339-44555
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 0de0b2fb-62ff-4e2a-abb1-4497dc092a4a
+  claim_hash: 518222803a1cd54a0e9b5fb26ad316968aadcd4356789c907c791d9e615ac84f
+  content: Harold Puthoff's papers touched on warp drives, traversable wormholes,
+    and time machines.
+  original_excerpt: null
+  claim_type: observation
+  attestation: first_hand
+  speaker:
+    node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+  provenance_chain:
+    origin_kind: speaker
+    origin: Lue Elizondo
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 469451fd-d38a-453c-b2c0-a1f83d9b5267
+    title: traversable wormhole
+    slug: traversable-wormhole
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
+    title: warp drive
+    slug: warp-drive
+  date: null
+  date_end: null
+  location_in_record: ch22:2637-2714
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: aef67c61-56b8-471b-ab7a-be443e558f80
+  claim_hash: 20281131a14dff51552329ad5031772517e7a09e8a88e1426f21bdc0ed4c66c6
+  content: The phrase "warp drive" was originally coined by a science-fiction writer
+    who wrote for pulp fiction magazines in the 1930s.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
+    title: warp drive
+    slug: warp-drive
+  date: null
+  date_end: null
+  location_in_record: ch22:2793-2899
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: c8cfe656-51b4-46c6-8e9b-b881301ce8f2
+  claim_hash: e3c2d2558574966176995c66a0a855d319dd82ab6a62d4c593a97d10dc89e9db
+  content: US government research facilities associated with the Department of Defense,
+    NASA, and the Massachusetts Institute of Technology gave the concept of warp drive
+    serious consideration.
+  original_excerpt: null
+  claim_type: observation
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    slug: national-aeronautics-and-space-administration-nasa
+  - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
+    title: warp drive
+    slug: warp-drive
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    slug: united-states-department-of-defense-dod
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    slug: massachusetts-institute-of-technology-mit
+  date: null
+  date_end: null
+  location_in_record: ch22:3230-3371
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: fbad143b-ef77-42a1-8c6d-e8df5029f72c
+  claim_hash: 2e0916d9210413ce652fbde254d57024416258edd819be03a856229b5270e9a2
+  content: At age thirty, for his PhD thesis in theoretical physics as a student at
+    Cardiff University in Wales, Miguel Alcubierre Moya showed how warp drives could
+    work in theory.
+  original_excerpt: null
+  claim_type: administrative
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: bare_ok
+  node_refs:
+  - node_id: 4f8fc0ea-b226-4e8a-a12d-bb9327d65f3f
+    title: Miguel Alcubierre
+    slug: miguel-alcubierre
+  - node_id: 7fc266ce-9181-42f1-98a6-7ec5601f733d
+    title: Cardiff University
+    slug: cardiff-university
+  - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
+    title: warp drive
+    slug: warp-drive
+  date: null
+  date_end: null
+  location_in_record: ch22:3472-3626
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: c3025e80-6e0d-405b-a7d1-d0ebe8de6983
+  claim_hash: 513a8ac562b6fa3ce9415b1c2e7766cbd2b6bdc09b9b0aa69c287aaa5fe1effd
+  content: Physicists after Miguel Alcubierre Moya wrote papers arguing that warp
+    drives might be theoretically possible but not practical.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: null
+  speaker: null
+  provenance_chain:
+    origin_kind: unattributed
+    origin: ''
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 4f8fc0ea-b226-4e8a-a12d-bb9327d65f3f
+    title: Miguel Alcubierre
+    slug: miguel-alcubierre
+  - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
+    title: warp drive
+    slug: warp-drive
+  date: null
+  date_end: null
+  location_in_record: ch22:3938-4062
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 898853e9-f3d6-40e4-8ffc-34c2b2afe498
+  claim_hash: 6600a7710e524213b9b4bd7ed01551eb6456577359610f64c066e826f7038019
+  content: Harold Puthoff theorised that the warp bubble required for faster-than-light
+    travel could only be a limited size due to the large amount of energy required
+    to sustain it.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Harold Puthoff
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
+    title: warp drive
+    slug: warp-drive
+  date: null
+  date_end: null
+  location_in_record: ch24:16049-16168
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 31842d70-1eb4-4850-bedd-d10e9e78f22f
+  claim_hash: 05b3be2e97e74f11e79f8437e21238ed8d278ff9a41e60289dc8d53921f57607
+  content: Harold Puthoff theorised that a technology capable of warping space and
+    time in a localised area could create a bubble around a UAP craft.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Harold Puthoff
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
+    title: warp drive
+    slug: warp-drive
+  date: null
+  date_end: null
+  location_in_record: ch24:1760-1881
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: 48da34aa-835b-4e37-85ab-c46b569ba73a
+  claim_hash: d8eed60e710f5060edee1926c9812745742fbe79c04bb3ff18afe5411491ac4a
+  content: Harold Puthoff's opinion is that with sufficient energy, a vehicle could
+    create a warp bubble enabling faster-than-light travel by compressing space in
+    front of the vehicle and stretching space behind it.
+  original_excerpt: null
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Harold Puthoff
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
+    title: warp drive
+    slug: warp-drive
+  date: null
+  date_end: null
+  location_in_record: ch24:3225-3472
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: 3a89c295-272b-42ee-9838-317a2721be03
+    record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+    record_date: '2024'
+    record_reference: null
+    content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+    friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  excerpt_withheld: restricted
+- claim_id: bcbe1c72-61c5-4c3b-bd3e-5d38e0de6bd7
+  claim_hash: bc2794a410472b2368207f6ec80d1fa31232bcf0d46c6e70db1ae5451c2a07b6
+  content: Hal Puthoff considers that advances in physics mean warp drive is not out
+    of the question.
+  original_excerpt: The truth of the matter is we now know in our physics, which has
+    been advancing, that something like warp drive is not out of the question.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+  provenance_chain:
+    origin_kind: speaker
+    origin: Hal Puthoff
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    slug: harold-e-puthoff
+  - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
+    title: warp drive
+    slug: warp-drive
+  date: null
+  date_end: null
+  location_in_record: 00:32:47.9-00:32:54.4
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+    record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+    record_date: '2026-03-04'
+    record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+    content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+    friendly_name: null
+- claim_id: 3dcb93ed-ee09-49d1-beb3-f0a4d0b50a53
+  claim_hash: dfe20d1d79bfb583073991146b74e4aaac433aaf2f7091faf0c47282bb94a95d
+  content: Maaneli "Max" Derakhshani considers that a distance from approximately
+    160 kilometres up to the horizon for the main unidentified aerial phenomenon (UAP)
+    of interest in the STS-48 UAP incident indicates propulsive capabilities vastly
+    beyond anything achievable with rockets, jets, or magnetohydrodynamics, requiring
+    exotic propulsion of the kind physicists only speculate about theoretically in
+    relation to warp drive solutions in general relativity theory.
+  original_excerpt: Anything from 100 miles up to the horizon indicates propulsive
+    capabilities vastly beyond anything that humans are capable of with rockets, jets,
+    magneto hydrodynamics anything of the kind and would require exotic propulsive
+    capabilities that we physicists only like theoretically speculate and talk about
+    when we talk about warp drive solutions in general relativity theory.
+  claim_type: opinion
+  attestation: first_hand
+  speaker:
+    node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+  provenance_chain:
+    origin_kind: speaker
+    origin: Maaneli "Max" Derakhshani
+    relay: []
+  attribution_mode: unknown
+  node_refs:
+  - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
+    title: warp drive
+    slug: warp-drive
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    slug: 2004-uss-nimitz-uap-encounter
+  - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+    slug: maaneli-max-derakhshani
+  date: null
+  date_end: null
+  location_in_record: 00:36:02.2-00:36:29.0
+  evidence:
+    score: null
+    independent_sources: 1
+  provenance:
+    record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+    record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check
+      with Ross Coulthart
+    record_date: '2026-08-10'
+    record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+    content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+    friendly_name: null
