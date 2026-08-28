@@ -40,8 +40,6 @@ references:
     successful construction business
   source: American Cosmic
   location: ch7:7764-7869
-  quote: Christopher Bledsoe, a Baptist from North Carolina, had been a pilot and
-    owned a successful construction business.
   claim_id: ee399a00-439a-446d-b160-3e1ed33c39c8
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ee399a00-439a-446d-b160-3e1ed33c39c8
@@ -49,8 +47,6 @@ references:
     of his own religious tradition
   source: American Cosmic
   location: ch7:7879-7967
-  quote: He had a profound UFO sighting that he interpreted as an extension of his
-    own religious tradition.
   claim_id: ba7b0c3f-c45f-4335-b952-59be10e48764
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ba7b0c3f-c45f-4335-b952-59be10e48764
@@ -58,7 +54,6 @@ references:
     demonic
   source: American Cosmic
   location: ch7:7978-8049
-  quote: His congregation rejected his interpretation and called the experience demonic.
   claim_id: 4cd421ad-796d-4798-ac32-c1a0b27db190
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4cd421ad-796d-4798-ac32-c1a0b27db190
@@ -66,9 +61,6 @@ references:
     before reaching a settled understanding of it
   source: American Cosmic
   location: ch7:8058-8238
-  quote: For Bledsoe, this was an agonizing process that alienated him from his community
-    and changed his life. Bledsoe struggled for several years, although he now seems
-    at peace with his conversion.
   claim_id: 98f13624-4f98-471b-9f91-77f232dbab59
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-98f13624-4f98-471b-9f91-77f232dbab59

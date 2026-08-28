@@ -78,8 +78,6 @@ references:
     Nazis or war criminals would be admitted to the US under the programme
   source: Dark Mission
   location: ch12:100402-100552
-  quote: 'President Truman''s executive order authorizing the program was very specific:
-    no "ardent Nazis" or war criminals would be allowed into the U.S. under Paperclip.'
   claim_id: 62824b3f-ff27-49a9-baf9-7beb4a93b7fd
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-62824b3f-ff27-49a9-baf9-7beb4a93b7fd
@@ -87,10 +85,6 @@ references:
     to facilitate recovery and investigation of alien spacecraft
   source: In Plain Sight
   location: ch14:15460-15698
-  quote: 'Operation Majestic-12 was a supposed secret cabal of scientists, military
-    and intelligence officials and government formed in 1947 by
-
-    President Harry Truman to facilitate the recovery and investigation of alien spacecraft.'
   claim_id: a4a5ace8-cae1-4ba3-8ef2-59fa55597a33
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a4a5ace8-cae1-4ba3-8ef2-59fa55597a33
@@ -98,10 +92,6 @@ references:
     cover-up of a retrieved craft at Roswell that went 'from Truman on down'
   source: In Plain Sight
   location: ch25:22926-23176
-  quote: Strieber told the Senator in his letter that US Army Brigadier General Arthur
-    Exon had told him personally in 1989 that there was a 'completely unequivocal
-    cover-up' of a retrieved alien craft at Roswell and 'it went from [President Harry]
-    Truman on down'.
   claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b16cf133-6aca-486b-8091-52bd8e641c06
@@ -109,8 +99,6 @@ references:
     demanded answers
   source: In Plain Sight
   location: ch8:17332-17420
-  quote: The story was front-page news across the planet and even President Truman
-    was demanding answers
   claim_id: 693b161a-8ce8-44f1-9233-077d83cf7663
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-693b161a-8ce8-44f1-9233-077d83cf7663
@@ -118,9 +106,6 @@ references:
     DC and buzzed the White House over two consecutive weekends while Truman was president
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:25771-25938
-  quote: 'July 1952: Harry S. Truman was president. Multiple UAP resembling lights
-    penetrated downtown DC and buzzed the White House and the capital city over two
-    consecutive weekends.'
   claim_id: 4e047772-8db5-4bb5-b19a-f61a8adf93cb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4e047772-8db5-4bb5-b19a-f61a8adf93cb
@@ -128,8 +113,6 @@ references:
     on UAP, alongside Eisenhower, Kennedy, Johnson, Carter, Reagan, Bush and Trump
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:16189-16330
-  quote: 'As far as I know, the following US presidents were briefed in some way:
-    Truman, Eisenhower, JFK, LBJ, Carter, Reagan, George H. W. Bush, and Trump.'
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
@@ -138,9 +121,6 @@ references:
     been found was not of this world
   source: The Fourth Mind
   location: ch11:795-978
-  quote: General Exon told me after I published Communion in 1987 that “everybody
-    from Truman on down knew that what we had found was not of this world within twenty-four
-    hours of our finding it.”
   claim_id: 8bb2dbe4-117a-437e-82fb-f3efa88fd0fc
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-8bb2dbe4-117a-437e-82fb-f3efa88fd0fc

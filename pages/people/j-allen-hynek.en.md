@@ -108,15 +108,12 @@ references:
     through the 1970s
   source: American Cosmic
   location: ch5:2031-2183
-  quote: Hynek, an academic and an astronomer himself, in the 1970s was the scientific
-    consultant to the US Air Force program to study UFOs, called Project Blue Book.
   claim_id: 8236715b-ff61-4c9a-bf95-e27a71745036
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-8236715b-ff61-4c9a-bf95-e27a71745036
 - text: Previously worked as an advisor for Project Sign, Blue Book's predecessor
   source: In Plain Sight
   location: ch8:11805-11857
-  quote: who had previously worked as an advisor for Project Sign
   claim_id: d5123701-5106-4f8c-800d-79c3d4cd3731
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d5123701-5106-4f8c-800d-79c3d4cd3731
@@ -124,15 +121,12 @@ references:
     his first year on Project Sign
   source: In Plain Sight
   location: ch8:11863-12015
-  quote: He had initially been extremely sceptical of so-called 'UFO' reports, having
-    said in his first year on Project Sign that the whole issue 'seems utterly ridiculous.'
   claim_id: 25989dbe-e0cf-4289-84ab-cefa36a563b6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25989dbe-e0cf-4289-84ab-cefa36a563b6
 - text: Was the United States Air Force's expert on UFO matters
   source: THE INVISIBLE COLLEGE
   location: ch8:22310-22365
-  quote: Dr. J. Allen Hynek, the U.S. Air Force’s expert on UFO matters
   claim_id: b3af6fba-8b15-4b5d-90f8-1eb23bb8aabd
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b3af6fba-8b15-4b5d-90f8-1eb23bb8aabd
@@ -148,9 +142,6 @@ references:
     witnesses
   source: In Plain Sight
   location: ch8:12030-12191
-  quote: Hynek later observed that the air force could easily discount civilian reports,
-    'but they could not discount outright their own trained personnel – the military
-    witnesses.'
   claim_id: 581edddd-f4c5-4aee-ae38-7fb684295e85
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-581edddd-f4c5-4aee-ae38-7fb684295e85
@@ -166,44 +157,30 @@ references:
 - text: Described two schools of thought within the air force's approach to UAP investigations
   source: In Plain Sight
   location: ch8:12205-12466
-  quote: 'He said two schools of thought dominated the approach to UAPs in their investigations:
-    the first acknowledged that they should be taken very seriously as probable ET
-    craft and the second was the debunking view eventually embraced by the top brass
-    in Washington DC'
   claim_id: bc2e1826-05db-4e8e-8331-ddd0120b5193
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc2e1826-05db-4e8e-8331-ddd0120b5193
 - text: Said the air force's theorem was 'It can't be, therefore it isn't'
   source: In Plain Sight
   location: ch8:12646-12811
-  quote: '''Science had said that it was impossible and the air force theorem which
-    was to cause so much trouble later on was born: "It can''t be, therefore it isn''t",''
-    Dr Hynek lamented'
   claim_id: 4a7f72c8-e87c-49f7-980a-d7b0422d4913
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a7f72c8-e87c-49f7-980a-d7b0422d4913
 - text: Witnessed the air force instructing investigators to stall press inquiries
   source: In Plain Sight
   location: ch8:15756-15980
-  quote: Dr J. Allen Hynek, by now immersed in the Blue Book investigations, witnessed
-    how the air force instructed its investigators 'to "stall" off press inquiries
-    "with a no-comment answer"' to the Hanford incident and other such sightings
   claim_id: 2c47b87f-6b4e-4939-a605-f524d89b75b4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2c47b87f-6b4e-4939-a605-f524d89b75b4
 - text: Hynek's Northwestern team had access to Project Blue Book's files
   source: THE INVISIBLE COLLEGE
   location: ch7:944-1092
-  quote: At Northwestern University, the team around Professor J. Allen Hynek, of
-    which I was a part, had access to the files of the U. S. Air Force Project BlueBook.
   claim_id: 21904b6f-f653-452c-be2a-c56037667177
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-21904b6f-f653-452c-be2a-c56037667177
 - text: Vallée was part of the Northwestern University team led by Hynek
   source: THE INVISIBLE COLLEGE
   location: ch7:944-1092
-  quote: At Northwestern University, the team around Professor J. Allen Hynek, of
-    which I was a part, had access to the files of the U. S. Air Force Project BlueBook.
   claim_id: 36801180-c807-4a66-b479-dbf7e99b7325
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-36801180-c807-4a66-b479-dbf7e99b7325
@@ -211,10 +188,6 @@ references:
     before the book's 1975 publication
   source: THE INVISIBLE COLLEGE
   location: ch8:22245-22490
-  quote: I was introduced to this informal group over ten years ago, when Dr. J. Allen
-    Hynek, the U.S. Air Force’s expert on UFO matters, invited me to apply my background
-    in computer science to a study of the statistical procedures used by Project Blue
-    Book.
   claim_id: 1a04b161-714c-491b-8c30-1dc2dff1bd94
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1a04b161-714c-491b-8c30-1dc2dff1bd94
@@ -222,8 +195,6 @@ references:
 - text: Vallée worked with and organised Hynek's Project Blue Book papers
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:15187-15299
-  quote: As a young researcher, Vallée worked with and organized the papers of Dr.
-    Hynek of the Air Force’s Project Blue Book.
   claim_id: 2ae82336-18b3-428b-8487-563fb1148e94
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2ae82336-18b3-428b-8487-563fb1148e94
@@ -231,10 +202,6 @@ references:
     natural philosophers'
   source: THE INVISIBLE COLLEGE
   location: ch7:2102-2418
-  quote: With his keen sense of scientific history and his usual humor Dr. Hynek called
-    this informal network “the Invisible College” in reference to the secretive group
-    of “natural philosophers” who fought against the established dogmas of the church
-    in the mid-seventeenth century to acquire knowledge through experimental investigation.
   claim_id: 3da97800-4c78-49f5-a8c0-6f8cbe223623
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-3da97800-4c78-49f5-a8c0-6f8cbe223623
@@ -242,9 +209,6 @@ references:
 - text: The term was Hynek's name for a small anonymous group studying the UFO phenomenon
   source: American Cosmic
   location: ch5:1850-2020
-  quote: The invisible college, Jacques wrote, was J. Allen Hynek's name for a small
-    group of researchers, scientists, and academics who studied the phenomenon under
-    the cover of anonymity.
   claim_id: 4c24221b-d994-43a1-a185-57dfd37f2284
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4c24221b-d994-43a1-a185-57dfd37f2284
@@ -252,10 +216,6 @@ references:
     Invisible College name'
   source: THE INVISIBLE COLLEGE
   location: ch8:7068-7360
-  quote: Way back in the "dark ages" of science, when scientists themselves were suspected
-    of being in league with the Devil, they had to work privately. They often met
-    clandestinely to exchange views and the results of their various experiments.
-    For this reason, they called themselves the Invisible College.
   claim_id: af66354f-7e2d-46c3-8167-4c2c38a38aeb
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-af66354f-7e2d-46c3-8167-4c2c38a38aeb
@@ -263,8 +223,6 @@ references:
     in the early 1660s'
   source: THE INVISIBLE COLLEGE
   location: ch8:7369-7519
-  quote: And it remained invisible until the scientists of that day gained respectability
-    when the Royal Society was chartered by Charles II in the early 1660's.
   claim_id: 78fb1f20-def3-494a-ba3d-2d34f1cdaa87
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-78fb1f20-def3-494a-ba3d-2d34f1cdaa87
@@ -272,18 +230,12 @@ references:
     Colorado
   source: THE INVISIBLE COLLEGE
   location: ch7:2562-2837
-  quote: 'Some of the members of the Invisible College around Dr. J. Allen Hynek photographed
-    in Boulder, Colorado in 1974. From left: Douglass Price-Williams, David Saunders,
-    Leo Sprinkle, Dick Henry, Jacques Vallée, J. Allen Hynek, Claude Poher, and Fred
-    Beckman (photo taken by Ted Phillips).'
   claim_id: 091e8aba-510e-4784-a7e6-d6e4604f2518
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-091e8aba-510e-4784-a7e6-d6e4604f2518
 - text: Hynek found strange reports did not always come from unreliable sources
   source: THE INVISIBLE COLLEGE
   location: ch13:3718-3836
-  quote: He found that such was NOT the case, and that many reports existed in his
-    files with both high reliability and high strangeness.
   claim_id: 51b29345-3c30-4f36-a952-9a919eb1fe74
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-51b29345-3c30-4f36-a952-9a919eb1fe74
@@ -311,15 +263,12 @@ references:
     Book in Dayton
   source: THE INVISIBLE COLLEGE
   location: ch10:7530-7673
-  quote: I called Dr. Hynek to alert him to the sightings, and he in turn called Project
-    Blue Book in Dayton, Ohio, to propose that they investigate at once.
   claim_id: a3328a6b-ca32-4a63-82b5-239d90fb7934
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a3328a6b-ca32-4a63-82b5-239d90fb7934
 - text: 'Vallée: an officer initially declined since the case wasn''t reported officially'
   source: THE INVISIBLE COLLEGE
   location: ch10:7849-7911
-  quote: The case hasn’t been reported officially to the Air Force, he said.
   claim_id: ba11d2d1-4ca2-4793-bbf1-cb976fb6cdd7
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ba11d2d1-4ca2-4793-bbf1-cb976fb6cdd7
@@ -327,41 +276,30 @@ references:
     after Pentagon report'
   source: THE INVISIBLE COLLEGE
   location: ch10:8009-8250
-  quote: 'Half an hour later, Project Blue Book called back: How soon can you be in
-    Ann Arbor?... The Pentagon! They are deluged with calls. Every reporter in the
-    country wants to know what’s going on.'
   claim_id: dafd1fc4-4ab3-480d-9360-867c78665a2b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-dafd1fc4-4ab3-480d-9360-867c78665a2b
 - text: 'Vallée: Hynek suggested he travel to Ann Arbor before evidence was destroyed'
   source: THE INVISIBLE COLLEGE
   location: ch10:7679-7766
-  quote: He suggested that he go there before reporters and curiosity-seekers destroyed
-    all the evidence.
   claim_id: 9151148c-827d-4d5a-a69c-55ea94da1a91
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9151148c-827d-4d5a-a69c-55ea94da1a91
 - text: Hynek travelled to Michigan the following morning
   source: THE INVISIBLE COLLEGE
   location: ch10:8324-8359
-  quote: The next morning, Dr. Hynek was in Michigan.
   claim_id: 6bb6a145-0435-407a-be9f-6e21246b914f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6bb6a145-0435-407a-be9f-6e21246b914f
 - text: Hynek's statement called for investigation but suggested swamp gas
   source: THE INVISIBLE COLLEGE
   location: ch10:8453-8710
-  quote: Hynek had to release a statement prematurely, at the urging of public-relations
-    people from the Air Force. In his statement, he called for a thorough investigation
-    of the phenomenon, but mentioned also that *some* people in Michigan *might* have
-    seen swamp gas.
   claim_id: 39f28644-db31-4690-8b4a-b3d72cba881c
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-39f28644-db31-4690-8b4a-b3d72cba881c
 - text: Press interpreted the statement as a final verdict and reacted with anger
   source: THE INVISIBLE COLLEGE
   location: ch10:8715-8773
-  quote: The press took this for a final verdict and exploded with anger.
   claim_id: 5c33ae81-ae33-4175-813e-1b190430f9b3
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5c33ae81-ae33-4175-813e-1b190430f9b3
@@ -369,33 +307,24 @@ references:
     swamp gas
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:29184-29381
-  quote: At the insistence of a leading Michigan congressman named Gerald Ford, Dr.
-    Hynek's Project Blue Book reviewed the matter thoroughly, and unfortunately announced
-    that the witnesses had seen… swamp gas.
   claim_id: c6ab16b0-aa08-4454-b0f9-2cc0f06f4b47
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c6ab16b0-aa08-4454-b0f9-2cc0f06f4b47
 - text: Hynek concluded the Robertson Panel's role was to debunk sightings
   source: In Plain Sight
   location: ch8:18334-18547
-  quote: It became clear to Project Blue Book consultant Dr J. Allen Hynek that the
-    Robertson Panel's primary role was to debunk all UAP sightings and to put control
-    of investigations into the phenomenon back with the air force
   claim_id: 2a986b38-6dc6-4301-852b-7de5c1b847e1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2a986b38-6dc6-4301-852b-7de5c1b847e1
 - text: Hynek wrote the CIA feared UFO reports, not UFOs
   source: In Plain Sight
   location: ch8:18630-18723
-  quote: Hynek wrote, 'In short, in convening the panel, the CIA was fearful not of
-    UFOs, but of UFO reports.'
   claim_id: 91550b36-d328-42e3-bbd1-0da8adf50751
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-91550b36-d328-42e3-bbd1-0da8adf50751
 - text: Hynek and Vallée travelled to Boulder to brief the Condon Committee
   source: THE INVISIBLE COLLEGE
   location: ch10:20079-20135
-  quote: Dr. Hynek and I traveled to Boulder to brief the Condon group.
   claim_id: 322aa7fa-448b-4733-bfb3-52a412c4a432
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-322aa7fa-448b-4733-bfb3-52a412c4a432
@@ -414,25 +343,18 @@ references:
 - text: Vallée and Hynek verified UFO landings tended to occur in desolate places
   source: THE INVISIBLE COLLEGE
   location: ch10:7139-7192
-  quote: Allen Hynek and I later verified it, using Air Force data.
   claim_id: 59967eae-787b-4862-8539-e609d9091d19
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-59967eae-787b-4862-8539-e609d9091d19
 - text: Hynek said Blue Book's termination was the coup de grace to the UFO era
   source: In Plain Sight
   location: ch10:23747-24024
-  quote: Blue Book consultant Dr J. Allen Hynek lamented, ‘this was indeed the coup
-    de grace to the UFO era. Science had spoken. UFOs didn’t exist, and the thousands
-    of people who had reported strange sightings . . . could all be discounted as
-    deluded, hoaxers, or mentally unbalanced’.22
   claim_id: 2fcd5bc0-b655-41e7-af63-be8942cb13b5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2fcd5bc0-b655-41e7-af63-be8942cb13b5
 - text: Hynek later regretted his role in suppressing UAP evidence under the USAF
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:30419-30529
-  quote: To his credit, Hynek later regretted the role he played in suppressing evidence
-    under the aegis of the US Air Force.
   claim_id: 555eea73-f5bd-4526-bf19-5bf79c9a49a5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-555eea73-f5bd-4526-bf19-5bf79c9a49a5
@@ -449,15 +371,12 @@ references:
 - text: Hynek visited Socorro, New Mexico to investigate the 1964 Lonnie Zamora encounter
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:23023-23043
-  quote: Dr. J. Allen Hynek... visited the region.
   claim_id: 32065d35-6634-41eb-b9d2-d3ccc13850a6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-32065d35-6634-41eb-b9d2-d3ccc13850a6
 - text: Harry Turner met Hynek during Hynek's visit to Australia
   source: In Plain Sight
   location: ch11:2938-3020
-  quote: Turner also met the Project Blue Book expert Dr J. Allen Hynek when Hynek
-    visited Australia.
   claim_id: 4d6c5d4e-78e7-4377-b2a7-46947be11b2c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d6c5d4e-78e7-4377-b2a7-46947be11b2c
@@ -465,17 +384,12 @@ references:
     explanations'
   source: In Plain Sight
   location: ch11:3032-3199
-  quote: '''It is quite clear that Dr Hynek along with many other reputable scientists
-    do not accept the USAF explanation of misidentification, hysteria or hoax,'' Turner
-    told his superiors.'
   claim_id: 94962b37-fc07-46da-8a2f-17d47021a081
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-94962b37-fc07-46da-8a2f-17d47021a081
 - text: Don Schmitt trained as an investigator under Hynek
   source: In Plain Sight
   location: ch7:20739-20829
-  quote: having trained as an investigator with the late celebrated 'UFO investigator'
-    Dr J. Allen Hynek
   claim_id: c3f900ca-af68-430e-b8ac-17be2892c76b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c3f900ca-af68-430e-b8ac-17be2892c76b
@@ -492,8 +406,6 @@ references:
     committee meeting
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch16:1214-1320
-  quote: the essential facts of the phenomenon have been stated by Dr. J. Allen Hynek,
-    by Dr. Claude Poher, and by myself
   claim_id: f1a406cb-332c-470b-a3b1-0602e5581cb1
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-f1a406cb-332c-470b-a3b1-0602e5581cb1

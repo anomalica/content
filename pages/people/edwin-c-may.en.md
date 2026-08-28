@@ -47,8 +47,6 @@ references:
     becoming its director in 1986
   source: Remote Viewing Secrets
   location: ch9:7957-8047
-  quote: Dr. May worked for approximately nine plus years at CSL prior to becoming
-    its director in 1986.
   claim_id: 28a9a275-a5a5-4b56-8eb3-80867756a320
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-28a9a275-a5a5-4b56-8eb3-80867756a320
@@ -56,8 +54,6 @@ references:
     1986 until Project STARGATE was terminated in November 1995
   source: Remote Viewing Secrets
   location: ch9:7827-7931
-  quote: and to Dr. Edwin C. May and his colleagues—from 1986 through the termination
-    of the project in November 1995.
   claim_id: 42a1e688-629a-4f67-b440-b62ef6ac89c5
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-42a1e688-629a-4f67-b440-b62ef6ac89c5
@@ -72,8 +68,6 @@ references:
     between some of McMoneagle''s drawings and the target'
   source: Remote Viewing Secrets
   location: ch14:23504-23612
-  quote: Somewhere in that interview he was commenting on the near-perfect match between
-    some of my drawings and the target.
   claim_id: 89fc4f62-7805-46c4-98da-d298765faca8
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-89fc4f62-7805-46c4-98da-d298765faca8
@@ -81,8 +75,6 @@ references:
     hit rate for McMoneagle''s remote viewing'
   source: Remote Viewing Secrets
   location: ch14:23826-23940
-  quote: This statement was made along with other statements that reflected a target
-    hit rate of about sixty to sixty-five percent.
   claim_id: a16d4330-4bfc-45fb-aa7b-9c9475c50bd3
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-a16d4330-4bfc-45fb-aa7b-9c9475c50bd3
@@ -90,9 +82,6 @@ references:
     calling it as close to a miracle as scientists can get'
   source: Remote Viewing Secrets
   location: ch14:23620-23819
-  quote: His statement was something like, "Joe provides this kind of spectacular
-    detail about twenty percent of the time. Scientists don't like to say this, but
-    that's about as close to a miracle as one can get."
   claim_id: 05bcc738-a00d-4d0b-b261-c97b30d5ff4d
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-05bcc738-a00d-4d0b-b261-c97b30d5ff4d
@@ -100,8 +89,6 @@ references:
     which rarely happen in remote viewing'
   source: Remote Viewing Secrets
   location: ch14:23949-24068
-  quote: But in this statement, he was specifically referring to near perfect drawings,
-    something that rarely happens in remote viewing.
   claim_id: c88a627d-d64d-4666-a56a-8f7b49de3d87
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c88a627d-d64d-4666-a56a-8f7b49de3d87
@@ -110,8 +97,6 @@ references:
     to both'
   source: Remote Viewing Secrets
   location: ch14:24153-24255
-  quote: This resulted in a huge negative reaction from other viewers, which was grossly
-    unfair to both Ed and me.
   claim_id: 7f9ad841-47dc-4448-81cb-30c3d542ef53
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-7f9ad841-47dc-4448-81cb-30c3d542ef53

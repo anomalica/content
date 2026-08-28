@@ -44,8 +44,6 @@ references:
     later by Politico and then the Washington Post.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:21978-22122
-  quote: The news exploded that afternoon. The New York Times broke the news online
-    and was followed seconds later by Politico, then the Washington Post.
   claim_id: 2d5d0286-272e-4904-b5dc-914d633d3389
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2d5d0286-272e-4904-b5dc-914d633d3389
@@ -61,8 +59,6 @@ references:
 - text: White gave that confirmation to Politico before she left the Pentagon.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:4398-4515
-  quote: Pentagon spokesperson Dana White, who had confirmed my leader role in AATIP
-    for the Politico article, had left the Pentagon.
   claim_id: 24ab5866-164f-4e22-8474-1ebedb0af4a1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-24ab5866-164f-4e22-8474-1ebedb0af4a1
@@ -70,17 +66,12 @@ references:
     with the Politico, Washington Post and New York Times AATIP story.
   source: In Plain Sight
   location: ch21:20924-21123
-  quote: The first two were posted in mid-December 2017, timed for impact when Politico,
-    The Washington Post and The New York Times broke the story of the Defence Department's
-    AATIP investigations into UAPs.
   claim_id: 9898cf75-2714-46d8-bb85-c5020299e488
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9898cf75-2714-46d8-bb85-c5020299e488
 - text: Bender reported that the US Navy was drafting new UFO reporting guidelines.
   source: In Plain Sight
   location: ch34:48339-48430
-  quote: Bryan Bender, 'U.S. Navy Drafting New Guidelines for Reporting UFOs', Politico,
-    23 April 2019.
   claim_id: 4f8d398c-24a5-406c-b506-d3120b4574b8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4f8d398c-24a5-406c-b506-d3120b4574b8
@@ -88,15 +79,12 @@ references:
     stiff-arming UFO investigators.
   source: In Plain Sight
   location: ch34:47995-48102
-  quote: Bryan Bender, 'Military and Spy Agencies Accused of Stiff-arming Investigators
-    on UFO Sightings', 25 March 2021.
   claim_id: 708e7f7f-e5d6-47b0-92a0-2f45d9854889
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-708e7f7f-e5d6-47b0-92a0-2f45d9854889
 - text: Bender said UFOs were now on the agenda.
   source: In Plain Sight
   location: ch28:26990-27051
-  quote: as Politico's Bryan Bender commented, 'UFOs are now on the agenda.'
   claim_id: 8f6c60a4-d0b2-4236-a200-10df34c1b65a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8f6c60a4-d0b2-4236-a200-10df34c1b65a
@@ -104,10 +92,6 @@ references:
     threat posed by superior aircraft in US airspace.
   source: In Plain Sight
   location: ch22:9870-10139
-  quote: ‘While I am encouraged the Under Secretary of the Navy confirmed that UAP
-    encounters are fully investigated, there is frustration with the lack of answers
-    to specific questions about the threat that superior aircraft flying in United
-    States airspace may pose,’ he told Politico.
   claim_id: 34f7d5bf-2a5f-4062-9184-2edcb3590621
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34f7d5bf-2a5f-4062-9184-2edcb3590621
@@ -115,9 +99,6 @@ references:
     China or Russia, had developed threatening next-generation technologies.
   source: In Plain Sight
   location: ch21:19991-20212
-  quote: knowledged that one possible theory to explain the unusual sightings of these
-    unknown craft was 'that a foreign power – perhaps the Chinese or the Russians
-    – had developed next-generation technologies that could threaten the United States'.
   claim_id: e750fbc7-e29d-4e03-aed8-20b3a35ba394
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e750fbc7-e29d-4e03-aed8-20b3a35ba394

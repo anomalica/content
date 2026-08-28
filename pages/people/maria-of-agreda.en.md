@@ -86,32 +86,24 @@ references:
 - text: Cloistered nun in the seventeenth century
   source: American Cosmic
   location: ch7:2876-2957
-  quote: Sister Maria of Agreda was a cloistered Spanish nun who lived in the seventeenth
-    century.
   claim_id: bbba4027-fd65-49de-b91b-9aa7a77bc753
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bbba4027-fd65-49de-b91b-9aa7a77bc753
 - text: Mystic whose books on the Virgin Mary were popular and remain widely read
   source: American Cosmic
   location: ch7:2966-3076
-  quote: She was a mystic who wrote books about the Virgin Mary that were very popular
-    in her era and are still widely read.
   claim_id: b87612a8-a7db-469f-86ef-58139cf0bf68
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b87612a8-a7db-469f-86ef-58139cf0bf68
 - text: Best known as author of Mystical City of God
   source: American Cosmic
   location: ch7:34034-34123
-  quote: She is best known as the author of the *Mystical City of God*, a biography
-    of the Virgin Mary
   claim_id: 7b50cbc0-6629-405d-ac2e-05a575d7a7c2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7b50cbc0-6629-405d-ac2e-05a575d7a7c2
 - text: Never canonised despite her cause being proposed many times
   source: American Cosmic
   location: ch7:5252-5402
-  quote: Sister Maria of Agreda, however, was never canonized, although her cause
-    has been proposed to the church’s Congregation for the Causes of Saints many times.
   claim_id: aa481527-654b-4258-ab27-c15bc24aee25
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-aa481527-654b-4258-ab27-c15bc24aee25
@@ -119,17 +111,12 @@ references:
     help
   source: American Cosmic
   location: ch7:32125-32311
-  quote: In the early 1600s, as Spain was exploring and colonizing western North America,
-    the youthful Maria claimed that with the help of angels she flew through space
-    and over the ocean to New Mexico.
   claim_id: 9e5717c5-27b6-43d6-bd08-f73c79ffcca9
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9e5717c5-27b6-43d6-bd08-f73c79ffcca9
 - text: Sister nuns said they saw her rise off the floor surrounded by brilliant light
   source: American Cosmic
   location: ch7:32319-32467
-  quote: Her sister nuns said they witnessed Maria during her alleged bilocations
-    and that she rose a few feet off the floor and was surrounded by brilliant light.
   claim_id: 89669e79-2d7c-4701-9544-908599d08084
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-89669e79-2d7c-4701-9544-908599d08084
@@ -137,35 +124,24 @@ references:
     wings to the New World
   source: American Cosmic
   location: ch7:5409-5651
-  quote: Her biographers have said that while her body levitated surrounded by a blinding
-    white light in her small cell in the convent, she experienced herself soaring
-    on the wings of angels across the ocean and in space to what Spain called “the
-    New World.”
   claim_id: 4c20a021-870f-4381-8120-e17fe33d0a95
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4c20a021-870f-4381-8120-e17fe33d0a95
 - text: Benavides questioned her closely about her alleged bilocations
   source: American Cosmic
   location: ch7:32941-33023
-  quote: He met with Maria and questioned her closely about what she saw and with
-    whom she spoke.
   claim_id: c78b43f6-b245-4e7c-8258-2afc7348539c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-c78b43f6-b245-4e7c-8258-2afc7348539c
 - text: Benavides was impressed and reported her account to King Philip IV
   source: American Cosmic
   location: ch7:33030-33204
-  quote: Benavides was impressed by her account, which included details of things
-    of which he thought she could not have been aware, and he made a report to the
-    king of Spain, Philip IV.
   claim_id: 5afe2c08-ff09-4638-8915-8fa9838e01a6
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5afe2c08-ff09-4638-8915-8fa9838e01a6
 - text: Her claims were used to justify Spanish imperial funding
   source: American Cosmic
   location: ch7:33273-33366
-  quote: He and others used them to justify their continued funding and efforts to
-    expand the Spanish empire.
   claim_id: 616c2041-ca33-47a6-afca-a6da88b22c94
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-616c2041-ca33-47a6-afca-a6da88b22c94
@@ -173,10 +149,6 @@ references:
     Americans'
   source: American Cosmic
   location: ch7:6658-6982
-  quote: Maria allegedly bilocated to New Mexico, and the stories of her experiences
-    helped Spanish missionaries obtain funding to convert indigenous Americans....
-    Maria’s case is similar to Tyler’s in that she seeded the cultural imagination
-    with supernatural support for the missionaries’ work.
   claim_id: 919e3750-f401-4435-9934-9b6747e2c088
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-919e3750-f401-4435-9934-9b6747e2c088
@@ -184,10 +156,6 @@ references:
     happened
   source: American Cosmic
   location: '83'
-  quote: Whether or not I really and truly went in my body is something about which
-    I cannot be certain... What I can assure you beyond any doubt is that the case
-    did in fact happen, and that as far as I know, it had nothing to do with the devil
-    or wrong desires.
   claim_id: 3eeb8d02-a597-4306-8b35-3391dcac2f2c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3eeb8d02-a597-4306-8b35-3391dcac2f2c
@@ -195,23 +163,18 @@ references:
     really happened
   source: American Cosmic
   location: ch7:36149-36298
-  quote: She even criticized Benavides for being too “literal” in his interpretation
-    of her bilocations. At the same time, she insisted that they *really did happen*.
   claim_id: 1dda7df1-4e83-41c5-83ed-63837c9f39c4
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-1dda7df1-4e83-41c5-83ed-63837c9f39c4
 - text: Said the travels required the assistance of angels
   source: American Cosmic
   location: ch7:37015-37128
-  quote: Significantly, Maria notes that her travels would not have happened without
-    the assistance of angels, or angelic beings.
   claim_id: 8a81e68d-b4ca-4f95-8ded-c7149cf3eb39
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-8a81e68d-b4ca-4f95-8ded-c7149cf3eb39
 - text: Earliest cosmographies were later burned by nuns of her own convent
   source: American Cosmic
   location: ch7:3082-3144
-  quote: Her earliest works, later burned by nuns of her convent, were cosmographies.
   claim_id: 0ee48d35-d23b-46f7-821c-93235dc57310
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0ee48d35-d23b-46f7-821c-93235dc57310
@@ -219,9 +182,6 @@ references:
     lands and of space
   source: American Cosmic
   location: ch7:3159-3313
-  quote: They contained descriptions of her astral journeys through space and over
-    the earth, which she recorded as topographies of other countries, cultures, and
-    space.
   claim_id: 6e7bc25d-66e0-4af5-b80f-2abf0bac8bd3
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6e7bc25d-66e0-4af5-b80f-2abf0bac8bd3
@@ -229,11 +189,6 @@ references:
     survive
   source: American Cosmic
   location: ch7:33713-34026
-  quote: Sitting in the archive, it was hard not to remember Sister Maria’s early
-    work on cosmography and her recognition of some of the “heretical” scientific
-    discoveries of her own era. Those works, her first, were burned, and only a few
-    copies remain. She wrote that she saw the earth from space, and it was a spinning
-    sphere.
   claim_id: 542204d5-8233-4af1-966e-ac00781f6148
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-542204d5-8233-4af1-966e-ac00781f6148
@@ -241,8 +196,6 @@ references:
     Inquisition
   source: American Cosmic
   location: ch7:37370-37483
-  quote: As a woman living in the seventeenth century who dared to write, she inspired
-    suspicion and had to answer to the Inquisition.
   claim_id: 33c9cfb0-b866-4da8-bbc2-23f8aeec6f0b
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-33c9cfb0-b866-4da8-bbc2-23f8aeec6f0b
@@ -250,16 +203,12 @@ references:
     were burned
   source: American Cosmic
   location: ch7:37496-37611
-  quote: She later claimed that she was pressured to answer to Benavides in ways that
-    he desired. Some of her writings were burned.
   claim_id: 8140d8f5-2511-4786-8669-7f0d6e81e81e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-8140d8f5-2511-4786-8669-7f0d6e81e81e
 - text: Recanted her recantations and rewrote earlier works from memory
   source: American Cosmic
   location: ch7:37619-37698
-  quote: Later, she recanted her recantations and rewrote many of her former works
-    from memory.
   claim_id: 315fc318-1eb8-4ae6-8e11-63df8691a606
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-315fc318-1eb8-4ae6-8e11-63df8691a606
@@ -267,74 +216,54 @@ references:
     United States
   source: American Cosmic
   location: ch7:3685-3884
-  quote: Maria’s story became very popular in the seventeenth century and is even
-    mentioned in textbooks as part of the history of the western United States, where
-    I first encountered it as a student in high school.
   claim_id: 05af5784-e3a7-4d21-871d-2d6cec1f2370
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-05af5784-e3a7-4d21-871d-2d6cec1f2370
 - text: Witnesses said she and other mystics appeared dead while levitating
   source: The Fourth Mind
   location: ch22:22010-22168
-  quote: Witnesses reported that Theresa of Avila, Joseph of Cupertino, and Maria
-    of Agreda, who was also a noteworthy bilocator, all seemed to be dead when they
-    were levitating.
   claim_id: f795b775-3b6e-45e4-848b-57aa73a28a78
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-f795b775-3b6e-45e4-848b-57aa73a28a78
 - text: Noted as a bilocator
   source: The Fourth Mind
   location: ch22:22077-22120
-  quote: Maria of Agreda, who was also a noteworthy bilocator
   claim_id: a0ce024f-e117-43bd-9036-4fd2618c5f93
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-a0ce024f-e117-43bd-9036-4fd2618c5f93
 - text: Body became so light in levitation that nuns could move it by blowing on it
   source: The Fourth Mind
   location: ch22:23498-23594
-  quote: Maria of Agreda’s body became so light that her sister nuns could blow it
-    around with a puff of breath.
   claim_id: 47d18638-5c7d-44b1-971e-e86f08af21ad
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-47d18638-5c7d-44b1-971e-e86f08af21ad
 - text: Tortured while levitating, without effect
   source: The Fourth Mind
   location: ch22:23602-23651
-  quote: She also was tortured while in this state, to no effect.
   claim_id: dde499ca-c48f-49a7-90b9-7c419f341768
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-dde499ca-c48f-49a7-90b9-7c419f341768
 - text: Sisters floated her into public where visitors could move her by blowing
   source: The Fourth Mind
   location: ch22:23711-23907
-  quote: floods of visitors came to her convent, and her sisters took to floating
-    her out into public where people could move her about by blowing on her as if
-    she was, as Professor Eire puts it, "a wispy plaything."
   claim_id: 36876512-da70-4b08-a8a5-7e8a3d04c158
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-36876512-da70-4b08-a8a5-7e8a3d04c158
 - text: Became furious on learning she was used as a paid public amusement
   source: The Fourth Mind
   location: ch22:23919-24024
-  quote: When she found out that she was being used in this way, as an amusement,
-    and a paid one at that, she was furious.
   claim_id: 529ca62e-37a0-4e14-9d3f-84e4c083f9f9
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-529ca62e-37a0-4e14-9d3f-84e4c083f9f9
 - text: Pasulka regards her as a meta-experiencer
   source: American Cosmic
   location: ch7:2772-2863
-  quote: While in Rome I became reacquainted with a historical figure whom I came
-    to view as a meta-experiencer.
   claim_id: faf7d106-290f-4f3d-be6b-764cd66f83fb
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-faf7d106-290f-4f3d-be6b-764cd66f83fb
 - text: Funded trip to Rome to study the canonisation trial records
   source: American Cosmic
   location: ch7:4403-4559
-  quote: The organization that funded my research trip to Rome had asked me to analyze
-    the canonization trial records of St. Joseph of Cupertino and Sister Maria of
-    Agreda.
   claim_id: b47e619c-d304-4dae-9fba-1d472c1b7cb4
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b47e619c-d304-4dae-9fba-1d472c1b7cb4
@@ -342,9 +271,6 @@ references:
     crash site
   source: American Cosmic
   location: ch7:31322-31539
-  quote: I was struck by the thought that Sister Maria of Agreda, whose records I
-    had seen, had claimed to have bilocated to New Mexico, the part of the world where
-    Tyler had taken James and me to visit the supposed UFO crash site.
   claim_id: 2e03b18d-055d-48db-b15f-fc6cee9eeb71
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2e03b18d-055d-48db-b15f-fc6cee9eeb71
@@ -352,12 +278,6 @@ references:
     influences'
   source: American Cosmic
   location: ch7:38963-39499
-  quote: That night, Tyler admitted that his understanding of the “beings” was being
-    transformed by his experiences. His encounter with Sister Maria and her alleged
-    bilocations... coupled with what he had felt while making hospital rounds with
-    Father McDonnell, and then the insights he gathered from the other scientists
-    at the Vatican and the Vatican Observatory, shifted his interpretive structure
-    with respect to what he thought might be extraterrestrials.
   claim_id: 412a5a6f-0b41-4918-8ae7-447389e5b200
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-412a5a6f-0b41-4918-8ae7-447389e5b200
@@ -365,17 +285,12 @@ references:
     trip
   source: American Cosmic
   location: ch7:41745-41835
-  quote: He now felt a kinship to Sister Maria of Agreda, and he vowed to devote his
-    life to a new ministry.
   claim_id: d23232a0-3eb4-46db-8a00-0f22ab957644
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d23232a0-3eb4-46db-8a00-0f22ab957644
 - text: Tyler D. believed the beings he contacted were similar to the angels she described
   source: American Cosmic
   location: ch7:41845-42014
-  quote: He believed that these beings were, or were similar to, the beings spoken
-    of by Sister Maria, the angels that had transported her to what is now the southwestern
-    United States.
   claim_id: bab43e10-df14-407d-9458-b6428a3780bf
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bab43e10-df14-407d-9458-b6428a3780bf
@@ -383,9 +298,6 @@ references:
     them to imagination or politics'
   source: American Cosmic
   location: ch7:35510-35741
-  quote: As Jeff Kripal suggests, instead of positing an either/or scenario that negates
-    the inexplicable and anomalous and reduces Maria’s claims to purely imaginings
-    and nothing more, why not consider the story within a framework of both/and?
   claim_id: bbf5d24d-0321-4a38-9a9a-3d8f5b271163
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bbf5d24d-0321-4a38-9a9a-3d8f5b271163

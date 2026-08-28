@@ -74,9 +74,6 @@ references:
     across two weekends in July 1952, while Truman was president.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:25771-25938
-  quote: 'July 1952: Harry S. Truman was president. Multiple UAP resembling lights
-    penetrated downtown DC and buzzed the White House and the capital city over two
-    consecutive weekends.'
   claim_id: 4e047772-8db5-4bb5-b19a-f61a8adf93cb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4e047772-8db5-4bb5-b19a-f61a8adf93cb
@@ -84,8 +81,6 @@ references:
     border with Israel.
   source: In Plain Sight
   location: ch11:5340-5510
-  quote: History records that a panicked White House feared the Soviets were considering
-    deploying Soviet troops on the Syrian Golan Heights border with Israel.
   claim_id: eb737eaf-105f-4831-9540-8bc30a3acabc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb737eaf-105f-4831-9540-8bc30a3acabc
@@ -93,10 +88,6 @@ references:
     against a UFO research programme or symposium.
   source: In Plain Sight
   location: ch11:26535-26786
-  quote: In December 1977, NASA’s administrator Dr Robert Frosch responded with a
-    remarkable rejection of the White House request, proposing instead that ‘NASA
-    take no steps to establish a research activity in this area [UFOs] or to convene
-    a symposium on the subject’.
   claim_id: 8f637a11-b477-47af-b927-82cda6c3451f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8f637a11-b477-47af-b927-82cda6c3451f
@@ -104,8 +95,6 @@ references:
     various past roles.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2057-2163
-  quote: In various past capacities, he had regularly reported directly to the White
-    House and the director of the CIA.
   claim_id: d267f396-9477-4118-9435-449a2ca88ffd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d267f396-9477-4118-9435-449a2ca88ffd
@@ -113,8 +102,6 @@ references:
     the White House.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:25998-26111
-  quote: Stargate became so successful, Hal reported directly to the director of the
-    CIA and the White House on a regular basis.
   claim_id: 2a4f3cc7-d302-42db-9dce-536be33d2b9d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2a4f3cc7-d302-42db-9dce-536be33d2b9d
@@ -122,16 +109,12 @@ references:
     to 2001.
   source: In Plain Sight
   location: ch14:26259-26377
-  quote: John Podesta, a political consultant who served as President Clinton’s Chief
-    of Staff in the White House from 1998 to 2001
   claim_id: 12340195-1080-4fa6-94bd-8fb2123d8392
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12340195-1080-4fa6-94bd-8fb2123d8392
 - text: Podesta regrets not insisting on UAP disclosure while at the White House.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:13252-13371
-  quote: Podesta has long said that one of his regrets was not insisting on disclosure
-    of UAP evidence when he was in the White House.
   claim_id: 61703131-0c1c-4b49-80a4-c34e762cebf3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-61703131-0c1c-4b49-80a4-c34e762cebf3
@@ -149,16 +132,12 @@ references:
     NSC and White House.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:16034-16150
-  quote: The program managed national-level special-access programs directly for the
-    National Security Council and the White House.
   claim_id: a145b6b3-779f-4b6a-baf9-c828f48efb58
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a145b6b3-779f-4b6a-baf9-c828f48efb58
 - text: Elizondo held the clearances needed to work for the White House and NSC.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:3050-3146
-  quote: I had all the necessary clearances needed to work for the White House and
-    the National Security Council.
   claim_id: b7de916b-f30e-45a9-a397-b4a1cc3f6f0c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b7de916b-f30e-45a9-a397-b4a1cc3f6f0c
@@ -166,17 +145,12 @@ references:
     comparable to White House nuclear-code carriers.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:2541-2715
-  quote: Certified as a Special Technical Operations (STO) officer, I had the same
-    sort of clearance as the White House employees who carry the red phone or the
-    nuclear codes for the president.
   claim_id: 4a5d794d-892d-4077-aed7-d69446612de5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4a5d794d-892d-4077-aed7-d69446612de5
 - text: Around 2014 Elizondo worked on a White House/NSC programme at Guantanamo Bay.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch37:1681-1777
-  quote: At Guantanamo Bay circa 2014, working another program for the White House
-    and National Security Council.
   claim_id: 130e491f-f171-40b4-8fd9-0b038adb9a02
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-130e491f-f171-40b4-8fd9-0b038adb9a02
@@ -184,19 +158,12 @@ references:
     sought to brief James Mattis.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch28:1260-1461
-  quote: The liaison had a hard time grasping the enormity of the issue and quickly
-    deferred to two colleagues of his, a senior White House advisor named Brad Byers,
-    and a CIA liaison officer I will call Shari Smith.
   claim_id: 93270cf4-8b2b-4173-a414-496de12b86b5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-93270cf4-8b2b-4173-a414-496de12b86b5
 - text: Jay Stratton fielded NSC briefing requests that were passed to Donald Trump.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:15556-15791
-  quote: We were making enough noise in the press that Jay was getting requests for
-    briefings from members of the White House National Security Council, who then
-    briefed Trump on some level, but I am not sure how much information they actually
-    shared.
   claim_id: af73f27e-6d01-4702-86f0-925398868a92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af73f27e-6d01-4702-86f0-925398868a92
@@ -215,9 +182,6 @@ references:
     and White House officials after meeting Robert Weiss.
   source: In Plain Sight
   location: ch18:21797-22035
-  quote: DeLonge claims that within two weeks of that meeting he was introduced to
-    senior top brass from across the military, including US Air Force generals, intelligence
-    officials, high-ranking NASA bureaucrats and senior officials in the White House.
   claim_id: 271deefa-c35a-4e99-ab78-659455e671d2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-271deefa-c35a-4e99-ab78-659455e671d2
@@ -225,10 +189,6 @@ references:
     of extraterrestrial contact.
   source: In Plain Sight
   location: ch18:109-386
-  quote: In late 2011, the Obama White House made a statement on behalf of the president
-    that I suspect it may live to profoundly regret. It responded to a Change.org
-    petition demanding immediate disclosure 'of the US government's knowledge of and
-    communications with extra-terrestrial beings'.
   claim_id: db14a395-1493-44c8-95ab-cfa2b8b93678
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db14a395-1493-44c8-95ab-cfa2b8b93678
@@ -236,9 +196,6 @@ references:
     technology.
   source: In Plain Sight
   location: ch24:15825-16003
-  quote: Elizondo's admission is at odds with the formal statement from the US government,
-    the office of the president no less, flatly denying that the US has recovered
-    extra-terrestrial technology.
   claim_id: 86c22a91-6dd9-4b74-8031-7849942fd9f0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-86c22a91-6dd9-4b74-8031-7849942fd9f0
@@ -246,11 +203,6 @@ references:
     information-disclosure memo.
   source: In Plain Sight
   location: ch20:14120-14487
-  quote: One intriguing line in the 24 September 2016 email included recommendations
-    from Neil McCasland for a White House memo, presumably to come from a future Hillary
-    Clinton presidency, that would set out instructions for divulging 'information'
-    in coordination with the Defence Department, the Director of National Intelligence
-    and the National Oceanic and Atmospheric Administration.
   claim_id: d8eb21a7-d2ae-4102-9dcd-40844c2352b1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d8eb21a7-d2ae-4102-9dcd-40844c2352b1
@@ -258,17 +210,12 @@ references:
     'Big Secret' without being on the 'Bigot list'.
   source: In Plain Sight
   location: ch26:19352-19505
-  quote: the memo asserts that no one in Congress, the White House or even any president
-    is cleared to know The Big Secret, for they were not on the ‘Bigot list’ either.
   claim_id: 2389adf8-dccb-47a0-96cf-41f97625b55c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2389adf8-dccb-47a0-96cf-41f97625b55c
 - text: Jean-Pierre and Kirby briefed the press on the shot-down objects on 2023-02-13.
   source: In Plain Sight
   location: ch34:69045-69250
-  quote: Karine Jean-Pierre, Transcript 'Press Briefing by Press Secretary Karine
-    Jean-Pierre and National Security Council Coordinator for Strategic Communications
-    John Kirby', White House Press Briefings, 13 Feb 2023.
   claim_id: 0fdbf18a-fa3c-4022-bd0d-35370d43a519
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0fdbf18a-fa3c-4022-bd0d-35370d43a519
@@ -276,10 +223,6 @@ references:
     AAVs seen by pilots.
   source: In Plain Sight
   location: ch29:27529-27817
-  quote: In the wake of the February 2023 'unidentified object' shoot-downs, former
-    fighter pilot Ryan Graves also warned18 that the White House should not be conflating
-    the low-tech objects shot down with the extraordinary unexplained high-tech, advanced
-    objects witnessed by pilots with whom he served.
   claim_id: 32ba3d5e-b3bf-4f99-9e05-3eb8f06852c7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-32ba3d5e-b3bf-4f99-9e05-3eb8f06852c7

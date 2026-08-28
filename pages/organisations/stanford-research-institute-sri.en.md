@@ -82,8 +82,6 @@ references:
     1972
   source: The Fourth Mind
   location: ch22:13288-13439
-  quote: A famous remote viewing program, known as Project Stargate, was run for the
-    Central Intelligence Agency at the Stanford Research Institute starting in 1972
   claim_id: 4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
@@ -100,10 +98,6 @@ references:
 - text: In 1973 Pat Price gave Hal Puthoff notes describing four alleged UFO bases
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:30560-30821
-  quote: In 1973 Pat Price, one of the “stars” of the Stanford Research Institute’s
-    (SRI) genesis RV program, gave an unsolicited package to Hal Puthoff, one of the
-    key scientists running the SRI project. It contained Price’s remote viewing notes
-    of four “UFO bases” on Earth.
   claim_id: 3e907b24-9c5a-4782-90b9-5a0f34231f7d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-3e907b24-9c5a-4782-90b9-5a0f34231f7d
@@ -111,8 +105,6 @@ references:
     viewing works via an addressing scheme
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:62704-62813
-  quote: The SRI experiments with Swann and Price, for example, suggest that remote
-    viewing is based on an addressing scheme.
   claim_id: df72ab9c-594b-4c7f-aed0-926606b21c24
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-df72ab9c-594b-4c7f-aed0-926606b21c24
@@ -121,8 +113,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:7751-7841
-  quote: It is from that depression that a man saw an unusual object rise one evening
-    in February, 1972.
   claim_id: c146690e-eb59-466d-be50-7288a151b081
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c146690e-eb59-466d-be50-7288a151b081
@@ -131,9 +121,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:24578-24815
-  quote: 'During his first interview with scientists from the Stanford Research Institute,
-    Uri explained the concept of SPECTRA’s computers guiding his “powers” and said:
-    “You see, they are computers, which were fed millions of light-years in the future.”'
   claim_id: f7f75b7c-4b54-498c-b4c5-2c9434cf257f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f7f75b7c-4b54-498c-b4c5-2c9434cf257f
@@ -141,9 +128,6 @@ references:
     SRI's auspices
   source: Dark Mission
   location: ch8:6298-6456
-  quote: After some discussions with them Hoagland was able to secure funding for
-    the first Independent Mars Investigation under the auspices of the Stanford Research
-    Institute.
   claim_id: 4d49444b-795c-4cc8-9c40-13ae220a144d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4d49444b-795c-4cc8-9c40-13ae220a144d

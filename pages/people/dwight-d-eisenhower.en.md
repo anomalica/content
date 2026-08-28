@@ -103,10 +103,6 @@ references:
     1958
   source: Dark Mission
   location: ch12:111886-112161
-  quote: Shortly after the formation of NASA back in 1958, then-President Eisenhower
-    surprised many in the scientific community by passing over the highly respected,
-    apolitical Hugh L. Dryden (Director of NACA since 1949, after Dr. Bush left),
-    naming T. Keith Glennan instead as NASA Administrator.
   claim_id: 27428509-5275-40c7-a46d-26cb1255227d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-27428509-5275-40c7-a46d-26cb1255227d
@@ -114,9 +110,6 @@ references:
     Base, April 1954
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:47286-47450
-  quote: The same Gerald Light writes that President Eisenhower was “spirited away”
-    to Muroc one night during a visit to Palm Springs, also in April 1954, to meet
-    with the “aliens.”
   claim_id: 15d2fef0-5959-4d79-90ff-d44ceb73e3e6
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-15d2fef0-5959-4d79-90ff-d44ceb73e3e6
@@ -157,9 +150,6 @@ references:
     President-elect Eisenhower
   source: Dark Mission
   location: ch12:70296-70510
-  quote: In 1984, microfilm documents were mailed to the home of UFO researcher Jaime
-    Shandera. When enlarged and printed out, the documents appeared to be a genuine
-    top-secret briefing memo to then President-elect Dwight Eisenhower.
   claim_id: 51fa37da-d42e-453f-bd8e-0ff694ae7154
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-51fa37da-d42e-453f-bd8e-0ff694ae7154
@@ -232,8 +222,6 @@ references:
     UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:16189-16330
-  quote: 'As far as I know, the following US presidents were briefed in some way:
-    Truman, Eisenhower, JFK, LBJ, Carter, Reagan, George H. W. Bush, and Trump.'
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
@@ -260,9 +248,6 @@ references:
     of leaders including Eisenhower
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:29827-30009
-  quote: During the war, the activities of the LCS were known only to Churchill, Roosevelt,
-    Eisenhower, and a handful of high officials. They bypassed everything else, including
-    Congress and Parliament.
   claim_id: b7942d85-da22-421a-9099-baa6f053942e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-b7942d85-da22-421a-9099-baa6f053942e
@@ -270,9 +255,6 @@ references:
     an out-of-body experience
   source: Journeys Out of the Body
   location: ch20:18963-19159
-  quote: Lying in bed, thinking it over, I first realized that Eisenhower was no longer
-    President, of course. I also suddenly had the very deep conviction that Kennedy
-    had a psychic bodyguard (or rather mindguard).
   claim_id: 9797cb4e-c278-47e4-97da-d043f9cade2d
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-9797cb4e-c278-47e4-97da-d043f9cade2d

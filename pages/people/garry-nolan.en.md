@@ -78,9 +78,6 @@ references:
     genetics with postdocs and graduate students
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:12588-12761
-  quote: Garry P. Nolan had a chaired position and his own laboratory at Stanford
-    University, where an army of postdocs and graduate students investigated various
-    mysteries of human genetics.
   claim_id: 9d570b51-8c5e-42ea-9f58-0f472d6de883
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9d570b51-8c5e-42ea-9f58-0f472d6de883
@@ -97,8 +94,6 @@ references:
 - text: Nolan has published more than 300 research articles and developed 40 patents
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:12771-12919
-  quote: Garry had published more than three hundred research articles, developed
-    forty patents, and invented several of the experimental instruments in his lab.
   claim_id: a34e9a52-1ae9-4e4c-8dc6-d61691f6222a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a34e9a52-1ae9-4e4c-8dc6-d61691f6222a
@@ -144,16 +139,12 @@ references:
 - text: Colleagues have nominated Nolan for the Nobel Prize
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:12924-12970
-  quote: Colleagues have nominated Garry for the Nobel Prize.
   claim_id: 259c23a8-0fb0-4be2-96ff-803bc46f448c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-259c23a8-0fb0-4be2-96ff-803bc46f448c
 - text: Through Nolan, Elizondo met Sean Parker and Lady Gaga, who fund cancer research
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:13678-13864
-  quote: I had the privilege of meeting the billionaire entrepreneur Sean Parker and
-    the entertainer Lady Gaga, to name two people who are doing more for humanity
-    than they will ever take credit for.
   claim_id: 8c24143f-0659-4c03-afc2-0f7e7d600289
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8c24143f-0659-4c03-afc2-0f7e7d600289
@@ -161,10 +152,6 @@ references:
     meet Nolan
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:14594-14842
-  quote: Will flew to California with a small team that included Colm Kelleher, a
-    biochemist who was the deputy administrator for BAASS during AAWSAP, and the French
-    scientist Jacques Vallée, who had US government clearances related to the investigation
-    of UAP.
   claim_id: f775c4c3-96c1-4807-ab6a-bf19bb351011
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
@@ -172,9 +159,6 @@ references:
     office at Stanford
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:15357-15552
-  quote: Will’s team had brought MRI images of the brains of the UAP experiencers—all
-    servicemen and intelligence officials—who had given them permission to share their
-    medical data.
   claim_id: 0d99a206-ee32-4278-b4c4-24a1965b1dcd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0d99a206-ee32-4278-b4c4-24a1965b1dcd
@@ -182,16 +166,12 @@ references:
     as white-matter disease
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:15558-15760
-  quote: At first glance, Garry concurred with Will that all these people had suffered
-    brain scarring. I was told that this is what doctors call white-matter disease
-    because the scars appear as white in medical images.
   claim_id: 4e7bf743-b7f2-4020-8096-a5f57cf594a8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4e7bf743-b7f2-4020-8096-a5f57cf594a8
 - text: All 105 patients in the study were high-functioning with high IQs
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:15828-15887
-  quote: All 105 of the patients were high-functioning and had high IQs.
   claim_id: fd9110d3-165c-4e4a-a579-81265948a013
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fd9110d3-165c-4e4a-a579-81265948a013
@@ -199,9 +179,6 @@ references:
     to intuition
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:15892-16046
-  quote: All had an overdeveloped part of the brain known as the caudate-putamen.
-    This is the area of the brain that many researchers have begun to associate with
-    intuition
   claim_id: e468572f-6b6f-4bd1-9213-a8f73aea5e60
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e468572f-6b6f-4bd1-9213-a8f73aea5e60
@@ -209,8 +186,6 @@ references:
     for a programme originally run by the CIA'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:17527-17634
-  quote: The people in this data set were military employees recruited for an unusual
-    program originally run by the CIA.
   claim_id: 75cb5790-ff9a-47ce-b5be-7a36fa579d3d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-75cb5790-ff9a-47ce-b5be-7a36fa579d3d
@@ -218,10 +193,6 @@ references:
     Army psychic spies shared the hyperdeveloped caudate-putamen
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:18050-18367
-  quote: It turned out that many of the patients in this specific study group had
-    been associated in the past with the elite military operation that trained soldiers
-    to become remote viewers... some of the Army’s psychic spies had the same hyperdeveloped
-    caudate-putamen in their brains.
   claim_id: 63ab8169-c960-4870-a766-9e2d7880fef9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-63ab8169-c960-4870-a766-9e2d7880fef9
@@ -229,8 +200,6 @@ references:
     raised by his patients
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:6927-7051
-  quote: At the same time, Garry was also working with Will to flesh out a program
-    to study the questions raised by Will’s patients’ circumstances.
   claim_id: ce3d56ff-1efd-44c7-868c-1ccef2c84850
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce3d56ff-1efd-44c7-868c-1ccef2c84850
@@ -238,8 +207,6 @@ references:
     for Livingston
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:7129-7244
-  quote: Though I knew of him and his work with us, he never briefed us at the Pentagon
-    because he was working directly for Will.
   claim_id: 4c3a9cb4-6134-4b3f-936e-b5fbb9988240
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4c3a9cb4-6134-4b3f-936e-b5fbb9988240
@@ -247,9 +214,6 @@ references:
     control, autism, and schizophrenia groups
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:7740-7905
-  quote: He set up a project for some graduate students to look at the brain scans
-    of three sets of people—a control group, a group that had diagnosed autism, and
-    those with schizophrenia.
   claim_id: ce91b7c3-f6ec-438f-92d1-a59645d462be
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce91b7c3-f6ec-438f-92d1-a59645d462be
@@ -257,17 +221,12 @@ references:
     and schizophrenic groups
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:8200-8370
-  quote: Sure enough, Nolan’s team of grads found that autistic people and schizophrenic
-    people both had slight differences from the average person, pathologies, in their
-    caudate-putamens.
   claim_id: 53aee1c9-0cc1-4703-8f67-a5939c759d81
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-53aee1c9-0cc1-4703-8f67-a5939c759d81
 - text: Nolan theorised that psychic ability, if real, would connect to the caudate-putamen
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:8756-8864
-  quote: If psychic ability really exists, Nolan theorized, it would have to be connected
-    in some way to the caudate-putamen.
   claim_id: 8f835955-93c0-4a4f-beef-8fd2de96708b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8f835955-93c0-4a4f-beef-8fd2de96708b
@@ -275,8 +234,6 @@ references:
     function, with DNA as its blueprint
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:9141-9278
-  quote: The way he saw it, the caudate-putamen was the “hardware” that allowed these
-    brains to perform their work. DNA was the blueprint for the hardware.
   claim_id: f089850e-6e85-4662-8f15-3c4d4dc7893b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f089850e-6e85-4662-8f15-3c4d4dc7893b
@@ -284,8 +241,6 @@ references:
     Council Bluffs, Iowa material sample
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:6774-6914
-  quote: Nolan had a battery of instruments in his laboratory that he thought would
-    allow Jacques to get a better understanding of the sample in his possession.
   claim_id: 82f6a432-e4b0-4df7-b899-f6f99a45264c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-82f6a432-e4b0-4df7-b899-f6f99a45264c
@@ -293,8 +248,6 @@ references:
     metal aggregate from the Iowa incident
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:14224-14354
-  quote: Nolan and Vallée had explored the composition of the 1977 Iowa molten metal
-    aggregate and had uncovered another mystery for us to solve.
   claim_id: 8147bb32-bcf6-4e03-994b-d9aa809283e2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8147bb32-bcf6-4e03-994b-d9aa809283e2
@@ -302,7 +255,6 @@ references:
     advisory board
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:13554-13614
-  quote: my friend and colleague from Stanford University, Dr. Garry Nolan
   claim_id: 2863f5c1-c383-448b-9c58-6587ca071baf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2863f5c1-c383-448b-9c58-6587ca071baf
@@ -310,8 +262,6 @@ references:
     paper was his first in an aerospace journal
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:38451-38562
-  quote: It was the first time that Nolan, a professor at Stanford’s medical school,
-    had ever published in an aerospace journal
   claim_id: af50dfe6-97b1-492d-bc35-325d72bd153a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af50dfe6-97b1-492d-bc35-325d72bd153a

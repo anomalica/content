@@ -58,10 +58,6 @@ references:
     Nellis AFB, including Groom Lake and Dreamland
   source: In Plain Sight
   location: ch14:10221-10483
-  quote: It was a July 1991 security advisory, listing a series of codenames and command
-    locations in and around the massive Nellis Air Force Base in the Nevada desert,
-    which includes within its boundaries the notorious super-secret Area 51 sites
-    known as Groom Lake and Dreamland.
   claim_id: a7fa4ed4-0064-4a6d-911a-3df81f8c88d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7fa4ed4-0064-4a6d-911a-3df81f8c88d8
@@ -69,10 +65,6 @@ references:
     codenames for Special Access Programs ahead of the April 1997 Pentagon visit
   source: In Plain Sight
   location: ch14:9972-10214
-  quote: In advance of their visit, Greer had sent Admiral Wilson's staff a leaked
-    US National Reconnaissance Office document that detailed a series of what turned
-    out to be authentic codenames for highly top-secret so-called Special Access Programs
-    (SAPs).
   claim_id: 65a6c9ce-ae3a-46ce-b108-25f0a6276518
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
@@ -80,9 +72,6 @@ references:
     the atmosphere and that he had seen the evidence
   source: In Plain Sight
   location: ch19:11732-11909
-  quote: US National Reconnaissance Office (NRO) surveillance satellites, he claimed,
-    were seeing these UAP objects coming in and out of the atmosphere all the time,
-    and he had seen the evidence.
   claim_id: f8656c3d-eddb-4951-83db-a9ae60824879
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f8656c3d-eddb-4951-83db-a9ae60824879
@@ -90,8 +79,6 @@ references:
     UAP events
   source: In Plain Sight
   location: ch19:11920-12013
-  quote: ‘One of my advisers was from the NRO. High up. And they call it episodic
-    visits. That’s all I know.
   claim_id: b6caeaea-fb86-45e4-8038-d8f2a79fdd3b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b6caeaea-fb86-45e4-8038-d8f2a79fdd3b
@@ -167,16 +154,12 @@ references:
     and civilian agencies including the FBI, NRO, NASA and FAA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:4914-5148
-  quote: So Jay started putting that together, handpicking his members/reps from all
-    the intelligence agencies and civilian-led agencies, from the FBI to the National
-    Reconnaissance Office (NRO) to NASA to the Federal Aviation Administration (FAA).
   claim_id: 1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
 - text: Grusch was the NRO and NGA representative on the Pentagon's UAP Task Force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:931-974
-  quote: He was those agencies' rep on the UAP Task Force
   claim_id: b61036ef-78da-4966-9953-d63cb1cd578d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b61036ef-78da-4966-9953-d63cb1cd578d
@@ -184,10 +167,6 @@ references:
     important UAP data they were not sharing with each other
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:17564-17844
-  quote: Meanwhile, the National Reconnaissance Office (NRO), the Central Intelligence
-    Agency (CIA), the National Geospatial-Intelligence Agency (NGA), the Federal Bureau
-    of Investigation (FBI), and the National Security Agency (NSA) also appeared to
-    have important UAP data they were not sharing.
   claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a

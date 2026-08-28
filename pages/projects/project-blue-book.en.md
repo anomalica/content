@@ -334,9 +334,6 @@ references:
 - text: Code name for the USAF's UAP study group, 1952-1969
   source: In Plain Sight
   location: ch37:1538-1755
-  quote: Members of the US Air Force's Project Blue Book, the code name for the group
-    that studied UAPs for the USAF from 1952 to 1969, often derided for its perceived
-    over-zealousness in aggressively debunking almost all UAP sightings.
   claim_id: 60f9e9b4-ce0e-42b7-8553-8f4ed8ecf775
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-60f9e9b4-ce0e-42b7-8553-8f4ed8ecf775
@@ -352,7 +349,6 @@ references:
 - text: Project Grudge became Project Blue Book in 1952
   source: In Plain Sight
   location: ch8:11026-11077
-  quote: That same year, Project Grudge became Project Blue Book
   claim_id: 981c7261-a80a-47d3-a2d9-1b290b934d23
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-981c7261-a80a-47d3-a2d9-1b290b934d23
@@ -385,8 +381,6 @@ references:
     the data
   source: In Plain Sight
   location: ch8:11083-11201
-  quote: Blue Book's brief was to determine if UFOs were a threat to national security,
-    and to scientifically analyse the data gathered
   claim_id: b5adefeb-cbd3-4389-92c6-1880418aeb22
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5adefeb-cbd3-4389-92c6-1880418aeb22
@@ -419,7 +413,6 @@ references:
 - text: Hynek, a civilian scientist, served as consultant
   source: In Plain Sight
   location: ch8:11729-11793
-  quote: Civilian scientist Dr Josef Allen Hynek was a Project Blue Book consultant
   claim_id: 8ca523da-f9e7-4365-8731-5b0051b86cf2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8ca523da-f9e7-4365-8731-5b0051b86cf2
@@ -456,8 +449,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:7530-7673
-  quote: I called Dr. Hynek to alert him to the sightings, and he in turn called Project
-    Blue Book in Dayton, Ohio, to propose that they investigate at once.
   claim_id: a3328a6b-ca32-4a63-82b5-239d90fb7934
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a3328a6b-ca32-4a63-82b5-239d90fb7934
@@ -465,16 +456,12 @@ references:
     sightings were swamp gas
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:29184-29381
-  quote: At the insistence of a leading Michigan congressman named Gerald Ford, Dr.
-    Hynek's Project Blue Book reviewed the matter thoroughly, and unfortunately announced
-    that the witnesses had seen… swamp gas.
   claim_id: c6ab16b0-aa08-4454-b0f9-2cc0f06f4b47
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c6ab16b0-aa08-4454-b0f9-2cc0f06f4b47
 - text: 'Elizondo: Ford remained sceptical of the swamp gas finding'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:17155-17186
-  quote: of which Ford remained forever skeptical.
   claim_id: 24728cff-3caa-479e-860e-d2f68bd3dbee
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-24728cff-3caa-479e-860e-d2f68bd3dbee
@@ -517,15 +504,12 @@ references:
     explanations
   source: In Plain Sight
   location: ch8:11564-11628
-  quote: dismissing the vast majority as misidentifications with prosaic explanations
   claim_id: 5d9a18df-d8f4-46d4-8262-ba6b9f0f19c0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5d9a18df-d8f4-46d4-8262-ba6b9f0f19c0
 - text: Kimball ordered independent naval intelligence reports on UAP
   source: In Plain Sight
   location: ch8:14659-14773
-  quote: Kimball decided to order his own naval intelligence reports on UAPs – independent
-    of the air force's Project Blue Book
   claim_id: 7d0ee8ec-5fba-4fe0-b192-ad6723bb1794
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7d0ee8ec-5fba-4fe0-b192-ad6723bb1794
@@ -533,17 +517,12 @@ references:
     for public debunking, 1953'
   source: In Plain Sight
   location: ch11:1921-2112
-  quote: He asserted that in 1953 the US Air Force Office of Special Investigations
-    persuaded the US Air Force to use the Project Blue Book investigation into UAPs
-    as a 'means of publicly "debunking" UFOs'
   claim_id: 12a5052a-09e6-49d3-9bd6-e3625b026942
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12a5052a-09e6-49d3-9bd6-e3625b026942
 - text: Derided for over-zealousness in aggressively debunking almost all UAP sightings
   source: In Plain Sight
   location: ch37:1665-1755
-  quote: often derided for its perceived over-zealousness in aggressively debunking
-    almost all UAP sightings.
   claim_id: 88643727-247a-43b8-b190-a758d8cd48eb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-88643727-247a-43b8-b190-a758d8cd48eb
@@ -609,16 +588,12 @@ references:
 - text: 1953 Robertson Panel, impetus for Blue Book, recommended a media campaign
   source: American Cosmic
   location: ch4:13235-13368
-  quote: The 1953 Robertson Panel, which was the impetus for Project Blue Book, suggested
-    a media campaign to manage public perception of the phenomena.
   claim_id: 49798ad2-88fd-4fce-a9eb-88f00b1f925c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-49798ad2-88fd-4fce-a9eb-88f00b1f925c
 - text: Condon Report gave USAF the justification it sought to close the project
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:3687-3801
-  quote: Dr. Condon’s report provided the Air Force the excuse it sought to close
-    Project Blue Book, its controversial UFO investigation.
   claim_id: 64064f7a-6615-49fc-b0d3-0c33d73914d5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-64064f7a-6615-49fc-b0d3-0c33d73914d5
@@ -658,9 +633,6 @@ references:
     explanation for many incidents
   source: Surviving Death
   location: ch44:21793-21958
-  quote: the Air Force closed down the program in 1970, ending all official investigations—or
-    so they said publicly—without having found an explanation for many shocking UFO
-    incidents.
   claim_id: 950b682d-ee99-4f62-adc6-0dcd4e85a1a5
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-950b682d-ee99-4f62-adc6-0dcd4e85a1a5
@@ -668,8 +640,6 @@ references:
     and discredit UAP reports
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:1755-1878
-  quote: from 1970, when the US Air Force abandoned Project Blue Book (its public
-    relations effort to investigate and discredit UAP reports)...
   claim_id: c31a59fe-6b19-4b30-8247-a1ed3291f275
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c31a59fe-6b19-4b30-8247-a1ed3291f275
@@ -733,52 +703,36 @@ references:
     he knew of
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:33937-34042
-  quote: the head of the Pentagon’s intelligence efforts, Ronald Moultrue, said, “Other
-    than AATIP and Blue Book, no.”
   claim_id: d18804aa-a138-4cf2-8047-0dd432dcb9c2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d18804aa-a138-4cf2-8047-0dd432dcb9c2
 - text: Sheehan viewed the secret Blue Book files in 1977
   source: In Plain Sight
   location: ch11:22659-22715
-  quote: that extraordinary 1977 viewing of the secret Blue Book files
   claim_id: 3b095df3-302b-4a48-89d2-41244d868076
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3b095df3-302b-4a48-89d2-41244d868076
 - text: Sheehan told Marcia Smith he wanted to see the classified Blue Book files
   source: In Plain Sight
   location: ch11:17952-18137
-  quote: He was aware of allegations that the most important UAP sightings reports
-    had been withheld from Blue Book and so he told Marcia Smith he wanted to see
-    'the classified portions of Blue Book'.
   claim_id: fc25474d-726c-4b97-a150-23912742e24a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fc25474d-726c-4b97-a150-23912742e24a
 - text: Sheehan recalled telling Smith 'you never get if you don't ask'
   source: In Plain Sight
   location: ch11:18145-18373
-  quote: '''She said, "Oh no, they''re not going to give that stuff to us. I''m sure
-    they won''t give it to us." I said, "Well, you never get if you don''t ask",''
-    Sheehan told me, in an interview from his Romero Institute office in Santa Cruz,
-    California.'
   claim_id: 0e091c7f-ecb4-44e3-adb9-43c608064434
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0e091c7f-ecb4-44e3-adb9-43c608064434
 - text: Smith called a week later with news that permission had been granted
   source: In Plain Sight
   location: ch11:18385-18520
-  quote: According to Sheehan, a week or so later, Smith called him with the surprising
-    news that permission had been given for him to view the files.
   claim_id: c5f64182-a157-4e8f-a44e-fdba22ae775e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5f64182-a157-4e8f-a44e-fdba22ae775e
 - text: Sheehan arrived at the Library of Congress's Madison wing, Washington DC
   source: In Plain Sight
   location: ch11:18528-18768
-  quote: So, on a Saturday morning in Washington DC in the late spring of 1977, an
-    eager Daniel Sheehan arrived at the still-uncompleted Madison wing of the Library
-    of Congress for a cloak-and-dagger rendezvous with the classified Project Blue
-    Book documents.
   claim_id: 805c6f84-5e49-4ce8-a2f2-3ebccef94b2a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-805c6f84-5e49-4ce8-a2f2-3ebccef94b2a
@@ -786,31 +740,24 @@ references:
     canisters
   source: In Plain Sight
   location: ch11:19199-19342
-  quote: Inside the room, there were foldout tables set up with a microfiche viewing
-    machine and shoebox-sized green cardboard boxes full of microfiche canisters.
   claim_id: 71fd7b3b-0aef-45dd-8281-12ff4eaec0c1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-71fd7b3b-0aef-45dd-8281-12ff4eaec0c1
 - text: Sheehan recalls being told he could not take notes
   source: In Plain Sight
   location: ch11:21063-21137
-  quote: I’ve got these symbols on this thing and they told me I couldn’t take any
-    notes.
   claim_id: b48f92aa-a46e-4118-be23-b0f8dac20a7d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b48f92aa-a46e-4118-be23-b0f8dac20a7d
 - text: Sheehan says the images showed a full-scale classic saucer with a dome
   source: In Plain Sight
   location: ch11:20079-20168
-  quote: asserting that what he saw in the multiple images was a full-scale classic
-    saucer with a dome
   claim_id: 44365c27-39ce-4a02-95ee-1a5cca7adf3b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-44365c27-39ce-4a02-95ee-1a5cca7adf3b
 - text: Sheehan says the craft had crashed in a snow-covered field
   source: In Plain Sight
   location: ch11:20174-20235
-  quote: The craft he saw had crashed in a field and was covered with snow.
   claim_id: db0d6122-9c9c-4e85-bb83-2b19583cd9fa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db0d6122-9c9c-4e85-bb83-2b19583cd9fa
@@ -818,8 +765,6 @@ references:
     spacecraft
   source: In Plain Sight
   location: ch11:21991-22139
-  quote: Daniel Sheehan is absolutely convinced that what he saw in the Project Blue
-    Book microfiche files was photographic evidence of an extra-terrestrial spacecraft.
   claim_id: 734d2b09-f760-44de-a70f-c17936bcd24a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-734d2b09-f760-44de-a70f-c17936bcd24a
@@ -827,15 +772,12 @@ references:
     the images
   source: In Plain Sight
   location: ch11:24824-24947
-  quote: alarmingly, he says neither mentioned the images of a recovered craft he
-    claims he saw in the classified Project Blue Book files
   claim_id: 6e8e4678-8cd7-482f-bf51-963d77028d1a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6e8e4678-8cd7-482f-bf51-963d77028d1a
 - text: Sheehan's account has gone unchallenged by any official
   source: In Plain Sight
   location: ch11:21749-21801
-  quote: Aside from the fact that Sheehan’s account has gone unchallenged
   claim_id: b2cc72fd-2c40-498a-8210-b5d265f47ef5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b2cc72fd-2c40-498a-8210-b5d265f47ef5
@@ -843,9 +785,6 @@ references:
     the discovery or the incursion
   source: In Plain Sight
   location: ch11:27621-27778
-  quote: the most notable thing about both incidents is that no one in either the
-    government or military has ever sought to respond to, explain or acknowledge either
-    event
   claim_id: 4a240c91-6dbc-4cc5-8ae8-5c0810d52f9c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a240c91-6dbc-4cc5-8ae8-5c0810d52f9c

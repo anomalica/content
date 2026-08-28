@@ -56,9 +56,6 @@ references:
     anomalous aircraft or space objects.
   source: In Plain Sight (2021)
   location: ch20:6184-6383
-  quote: This is where the entire airspace of Canada and the US is monitored for anomalous
-    aircraft or space objects; if any non-terrestrial object is entering Earth's atmosphere,
-    NORAD should know all about it.
   claim_id: c238c252-a019-45c8-bdfe-cce047be6647
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c238c252-a019-45c8-bdfe-cce047be6647
@@ -66,9 +63,6 @@ references:
     and sensors than the USN, and is responsible for supporting NORAD.
   source: In Plain Sight (2021)
   location: ch29:22672-22861
-  quote: despite the fact that the Air Force (as a department which also oversees
-    US Space Force) has far more aircraft and sensor systems than the Navy as well
-    as the responsibility for supporting NORAD.
   claim_id: bcd6d33c-3c78-49e6-8b5a-bb1c7f7293b3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bcd6d33c-3c78-49e6-8b5a-bb1c7f7293b3
@@ -76,9 +70,6 @@ references:
     airspace off the US east coast.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch6:12949-13112
-  quote: I was shocked to learn that the North American Aerospace Defense Command
-    (NORAD), responsible for guarding North American airspace, was not even notified
-    of these intrusions.
   claim_id: c3ecc387-6598-4e7c-80f3-99f636686165
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3ecc387-6598-4e7c-80f3-99f636686165
@@ -86,9 +77,6 @@ references:
     Tracks in a report to the ODNI.
   source: In Plain Sight (2021)
   location: ch29:22868-23029
-  quote: It is my understanding that NORAD did not include in the ODNI report any
-    of the thousands of "Uncorrelated Tracks" that its radars identify each year over
-    North America.
   claim_id: 4a16b3e4-90df-403c-8ecf-f16a11424492
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a16b3e4-90df-403c-8ecf-f16a11424492
@@ -96,10 +84,6 @@ references:
     cases included fighter scrambles to intercept UAP.
   source: In Plain Sight (2021)
   location: ch29:23038-23312
-  quote: To be sure, most are flocks of geese or private planes with malfunctioning
-    transponders etc., but there are also more serious cases that the Air Force did
-    not report, including, it now seems, cases where US and/or Canadian Air Forces
-    scrambled fighter aircraft to intercept UAP.'
   claim_id: 9e473bd7-5e00-4224-aa98-367697852a79
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9e473bd7-5e00-4224-aa98-367697852a79
@@ -107,9 +91,6 @@ references:
     following the Nimitz encounter.
   source: In Plain Sight (2021)
   location: ch16:21525-21714
-  quote: The pilot who videoed the encounter, Chad Underwood, says that soon after
-    landing, he answered a few questions in a phone call with someone from NORAD,
-    the North American Aerospace Defence Command
   claim_id: c2bcf71f-bedf-488c-8658-240a74dac981
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c2bcf71f-bedf-488c-8658-240a74dac981
@@ -117,8 +98,6 @@ references:
     agency investigated it.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch15:14675-14790
-  quote: Beyond a few questions a NORAD investigator put to Underwood, I was told
-    no other internal agency investigated the encounter.
   claim_id: 77396a58-95de-467d-b079-c6bbf56cb7d6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-77396a58-95de-467d-b079-c6bbf56cb7d6
@@ -126,9 +105,6 @@ references:
     with Top Secret clearances.
   source: In Plain Sight (2021)
   location: ch14:9471-9677
-  quote: Another attendee was recently retired US Naval Reserve Lieutenant Commander
-    Willard Miller, who served on the operations staff of the US Atlantic Command
-    and at NORAD Space Command with Top Secret security clearances.
   claim_id: bde442ba-8fc2-4571-b187-9f9bfa4db840
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bde442ba-8fc2-4571-b187-9f9bfa4db840
@@ -136,8 +112,6 @@ references:
     down unidentified objects over American airspace.
   source: In Plain Sight (2021)
   location: ch29:964-1098
-  quote: for the first time ever in NORAD's near-65-year history, armed force would
-    be used to bring down 'unidentified objects' over American airspace
   claim_id: 175930ff-9783-4e08-a51a-4839025f4a55
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-175930ff-9783-4e08-a51a-4839025f4a55
@@ -145,9 +119,6 @@ references:
     over American airspace, and all three objects remained unidentified.
   source: In Plain Sight (2021)
   location: ch29:30876-31083
-  quote: Republican Senator Marco Rubio made the point that this was the first time
-    ever in NORAD's history that a decision was made to shoot-down an object over
-    American airspace and all three were still unidentifi ed.
   claim_id: 372c43d6-717d-413f-98a8-373d693cb399
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-372c43d6-717d-413f-98a8-373d693cb399
@@ -155,10 +126,6 @@ references:
     following the Chinese balloon incident.
   source: In Plain Sight (2021)
   location: ch29:12465-12705
-  quote: the only reason these new objects were detected at all was because, after
-    the Chinese balloon shoot-down, NORAD had only then increased the sensitivity
-    of its radars to ensure smaller objects posing potential flight safety risks were
-    being detected
   claim_id: 1451ce41-df4e-4345-bf76-7f9b1a2e4ab6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1451ce41-df4e-4345-bf76-7f9b1a2e4ab6
@@ -166,10 +133,6 @@ references:
     on 2023-02-10.
   source: In Plain Sight (2021)
   location: ch29:3497-3791
-  quote: When the North American Aerospace Defense Command (NORAD), under fire from
-    an angry White House over the Chinese balloon incursion, belatedly adjusted the
-    sensitivity of its radars it almost immediately detected another unknown 'car-sized
-    object' just off the coast near Deadhorse on Friday 10 February
   claim_id: 20e40f0f-ad22-47b8-b935-95123138348b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-20e40f0f-ad22-47b8-b935-95123138348b
@@ -197,8 +160,6 @@ references:
     Canada's Yukon on 2023-02-11.
   source: In Plain Sight (2021)
   location: ch29:5634-5762
-  quote: their radar operators were tracking yet another 'object', this time of a
-    cylindrical shape, at 40,000 feet over Canada's remote Yukon
   claim_id: cffd7c23-7daf-48c9-86ba-93f63bdaaeab
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cffd7c23-7daf-48c9-86ba-93f63bdaaeab
@@ -215,8 +176,6 @@ references:
     object was but would not reveal details.
   source: In Plain Sight (2021)
   location: ch29:10608-10750
-  quote: a NORAD spokesman Major Olivier Gallant, was briefing media with certainty
-    that 'the military had determined what it was but would not reveal details.'
   claim_id: 17aa8062-9d30-441c-ae7a-bf4d5bf1482d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-17aa8062-9d30-441c-ae7a-bf4d5bf1482d
@@ -224,9 +183,6 @@ references:
     the Brazilian Air Force about the object that fell during the 1996 Varginha incident.
   source: The Fourth Mind (2025-01-15)
   location: ch13:10240-10428
-  quote: Among Brazilian investigators, there is some suggestion that the North American
-    Air Defense Command, NORAD, might have warned the military that the object was
-    headed for the area where it fell.
   claim_id: cc26899d-fdb8-41a3-b854-f78917e85b6a
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-cc26899d-fdb8-41a3-b854-f78917e85b6a

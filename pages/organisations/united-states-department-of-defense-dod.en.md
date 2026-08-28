@@ -432,8 +432,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:16481-16571
-  quote: Several universities were contacted by the Department of Defense but they
-    turned down the assignment.
   claim_id: e33012eb-63ea-48a3-b624-e4a6068aa225
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e33012eb-63ea-48a3-b624-e4a6068aa225
@@ -451,8 +449,6 @@ references:
 - text: Puthoff led earlier CIA and DoD remote-viewing research
   source: In Plain Sight
   location: ch21:1031-1161
-  quote: a theoretical physicist who had led the previous controversial CIA and Defence
-    Department research into 'psychic spies' or remote viewing
   claim_id: ab5d5883-2e8e-488d-a127-aa9c16243c28
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ab5d5883-2e8e-488d-a127-aa9c16243c28
@@ -548,9 +544,6 @@ references:
     UAP
   source: In Plain Sight
   location: ch21:11058-11259
-  quote: Luis Elizondo who was to join TTSA, revealed he had resigned from the Department
-    of Defence just weeks before in protest at the excessive secrecy and internal
-    opposition about the UAP issue inside the government.
   claim_id: e8066fb2-dd1b-4824-ad33-5102c278725f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e8066fb2-dd1b-4824-ad33-5102c278725f
@@ -693,8 +686,6 @@ references:
 - text: TTSA posted the DoD-derived Go-Fast video in March 2018
   source: In Plain Sight
   location: ch21:22207-22331
-  quote: Three months later, in March 2018, TTSA posted another Defence Department
-    video on its website, which it dubbed the Go-Fast video.
   claim_id: 61cec41b-6906-4711-a6ce-53abbf531d90
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61cec41b-6906-4711-a6ce-53abbf531d90

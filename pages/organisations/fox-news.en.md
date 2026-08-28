@@ -25,8 +25,6 @@ references:
     Saturday before the 2000 presidential election
   source: Dark Mission
   location: ch19:3630-3726
-  quote: Then, Fox News broke a story that Saturday night about Bush's arrest 25 years
-    earlier for drunk driving.
   claim_id: fe8b157a-bf42-4b3b-af23-de8ed7aa6cfa
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fe8b157a-bf42-4b3b-af23-de8ed7aa6cfa
@@ -44,7 +42,6 @@ references:
     after the December 2017 story
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:23393-23458
-  quote: Calls flooded our home from CBS, ABC, NBC, CNN, PBS, Fox, MSNBC, etc.
   claim_id: 1e913fdc-268f-4405-adf7-41005f83a22b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1e913fdc-268f-4405-adf7-41005f83a22b
@@ -52,19 +49,12 @@ references:
     there, though their origin was unknown
   source: In Plain Sight
   location: ch24:14125-14408
-  quote: In an interview with Fox News' Tucker Carlson in May 2019, Elizondo dismissed
-    claims that the unidentified aerial phenomena objects do not exist, saying, 'It
-    is an absolute fact that they are there. Now, what they are, where they are from,
-    who is behind the wheel, we simply don't know.'
   claim_id: c69c35a3-497b-4742-b319-e1994fab63c8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c69c35a3-497b-4742-b319-e1994fab63c8
 - text: Fravor described the Tic Tac craft's shape and movement to Tucker Carlson
   source: In Plain Sight
   location: ch16:10082-10243
-  quote: '''White, 40-foot long, just hovering over the water. Forward, back, left,
-    right. There''s no rotor wash, there''s no wings. Nothing,'' Fravor told Fox News''
-    Tucker Carlson.'
   claim_id: e33f7e3e-a7af-4e3b-9bf4-9f626da1caa1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e33f7e3e-a7af-4e3b-9bf4-9f626da1caa1

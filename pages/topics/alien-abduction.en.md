@@ -260,12 +260,6 @@ references:
     journeys, theophany and return as recurring narrative elements.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch17:56620-57052
-  quote: 'Folklorist Dr. T. E. Bullard lists the following elements of UFO abduction
-    narratives: capture; examination (which includes tales of specimen taking, reproductive
-    examinations, implanting of small artifacts inside the abductees, and removal
-    of organs); conference (the witness talks with abductors); tour; otherworldly
-    journeys; theophany (the witness has a religious experience or receives a message
-    from a divine being); return'
   claim_id: 8bb07958-d45c-435a-b3d5-824951f498d9
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8bb07958-d45c-435a-b3d5-824951f498d9
@@ -347,8 +341,6 @@ references:
 - text: Chalker has investigated abduction claims since the 1970s.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch9:90-235
-  quote: I am no stranger to extraordinary claims in the bizarre world of alien abduction
-    stories, having quietly investigated abduction claims since the seventies.
   claim_id: 25a4e3c6-9de2-478f-bd1a-6cf31266ead3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-25a4e3c6-9de2-478f-bd1a-6cf31266ead3
@@ -356,10 +348,6 @@ references:
     the human condition than about UFOs.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch11:513-768
-  quote: In my own research into Australian abduction events, from my earliest work
-    in the seventies until the early nineties, I basically came to hold the position
-    that most abduction cases probably told us more about the human condition than
-    they did about UFOs themselves.
   claim_id: a82e30e9-b625-4da3-adc6-643360e8c657
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-a82e30e9-b625-4da3-adc6-643360e8c657
@@ -367,8 +355,6 @@ references:
     physical evidence.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch11:781-865
-  quote: I found the majority of abduction cases conspicuously devoid of compelling
-    physical evidence.
   claim_id: 32712e56-11fe-4c5d-8471-38eca1f01f12
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-32712e56-11fe-4c5d-8471-38eca1f01f12
@@ -376,9 +362,6 @@ references:
     phenomenon dominating the UFO field.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch11:1410-1579
-  quote: But similar evidence to support the reality of abduction events has been
-    lacking or is relatively unconvincing. And yet such events have come to dominate
-    the entire UFO scene.
   claim_id: 4df010b0-1fce-4977-bf31-7f2353aacd8b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4df010b0-1fce-4977-bf31-7f2353aacd8b
@@ -386,9 +369,6 @@ references:
     the best ways to obtain physical evidence.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:591-761
-  quote: One of the best ways to obtain physical evidence is to treat the scene of
-    an alleged alien abduction as a “crime scene.” This approach has now been advocated
-    for about a decade
   claim_id: e489fcb0-7f2e-45e8-a0fa-68c77d9f91cb
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e489fcb0-7f2e-45e8-a0fa-68c77d9f91cb
@@ -396,8 +376,6 @@ references:
     on criminal investigation.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:992-1129
-  quote: In 1993 researcher Victoria Alexander issued a call to arms for a “new protocol
-    for abduction research” using the techniques of criminal investigations.
   claim_id: 0de14b00-9db4-4eae-901e-dead9cb6fc03
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0de14b00-9db4-4eae-901e-dead9cb6fc03
@@ -405,11 +383,6 @@ references:
     investigation yielding verifiable evidence.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch21:768-1101
-  quote: It can continue to languish in the uncertainty of unverified accounts and
-    unsubstantiated theories, or it can attempt to anchor these strange events with
-    the focused attention of forensic and scientific investigations and research,
-    in order to yield verifiable evidence on the reality of alien abductions, whatever
-    that turns out to be.
   claim_id: 4a50292e-1f10-460a-8139-0a4a21ca430b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4a50292e-1f10-460a-8139-0a4a21ca430b
@@ -417,9 +390,6 @@ references:
     the time of his 1992 bedroom encounter.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch9:25270-25433
-  quote: Peter was unaware of any similar encounter in the wider UFO experience, although
-    he stressed that he was relatively unaware of the extent of the phenomenon or
-    the literature.
   claim_id: 8294557b-33fb-4bd4-8944-06b6493f095a
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8294557b-33fb-4bd4-8944-06b6493f095a
@@ -427,10 +397,6 @@ references:
     evidence for a forensic approach.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:21622-21882
-  quote: While our findings will continue to be subjected to review and debate, they
-    still represent potent evidence for a forensic and scientific approach to alien
-    abduction cases that will help illuminate the possible strange reality that may
-    be at the heart of such claims.
   claim_id: e586e29e-4671-4259-9ccb-ad8b23ed7925
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e586e29e-4671-4259-9ccb-ad8b23ed7925
@@ -439,8 +405,6 @@ references:
     abduction experience.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch7:8454-8572
-  quote: Mullis has a further unique claim to fame. He is the only Nobel Prize laureate
-    to admit to a possible alien abduction experience.
   claim_id: 7c26c838-a4ff-4e30-aecb-6759c42bcc87
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7c26c838-a4ff-4e30-aecb-6759c42bcc87
@@ -448,8 +412,6 @@ references:
     unknown level.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch13:6494-6635
-  quote: This stuff about grabbing people or subjecting them to all kinds of experiments,
-    it's just anthropology at a level we don't understand quite yet.
   claim_id: 9f6598aa-ba62-4f9d-99d1-830e377c3b61
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-9f6598aa-ba62-4f9d-99d1-830e377c3b61
@@ -457,9 +419,6 @@ references:
     scale of alien presence some abduction tales imply.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch13:6871-7077
-  quote: He feels that the idea of an alien culture needing our DNA to survive is
-    very unlikely and finds implausible the existence of an alien presence on the
-    scale suggested by some of the bleaker alien abduction tales.
   claim_id: b102840e-e445-4726-aab6-1aa822a18c89
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-b102840e-e445-4726-aab6-1aa822a18c89
@@ -467,17 +426,12 @@ references:
     still had scientific value.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:5031-5235
-  quote: I felt that while the prospects for a breakthrough would be very small, the
-    utility and potential of the biochemical and forensic approaches to alien abductions
-    would come as a breath of scientific fresh air.
   claim_id: 4567fb82-fcf1-4bc5-8811-0643df3f89ed
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4567fb82-fcf1-4bc5-8811-0643df3f89ed
 - text: Chalker believed researchers should cooperate on a DNA profiling testing programme.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch21:1529-1616
-  quote: To do this, abduction researchers should cooperate in a testing program focused
-    on DNA profiling.
   claim_id: 91c84ef3-82f0-49e5-a95e-5f6e58ca9b99
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-91c84ef3-82f0-49e5-a95e-5f6e58ca9b99
@@ -485,8 +439,6 @@ references:
     found in abduction cases.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch21:1627-1756
-  quote: Testing a significant number of legitimate samples would provide an opportunity
-    for validation of the unusual anomalies found to date.
   claim_id: 776ce7e6-c02a-4877-9275-49eb4ddd3add
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-776ce7e6-c02a-4877-9275-49eb4ddd3add
@@ -495,8 +447,6 @@ references:
     strategies in abduction investigation.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch27:351-428
-  quote: The APEG was formed to focus attention on biological strategies in abduction
-    investigations.
   claim_id: f0c7abf1-696d-4eae-9b19-ad2ca21efecf
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-f0c7abf1-696d-4eae-9b19-ad2ca21efecf
@@ -504,8 +454,6 @@ references:
     to abduction's usual ambiguity.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch11:1689-1828
-  quote: One of the few compelling exceptions to the ambiguity and uncertainty that
-    pervade the alien abduction experience is the 1993 Kelly Cahill case.
   claim_id: 57496389-2436-4435-8f25-bdef77d2a853
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-57496389-2436-4435-8f25-bdef77d2a853
@@ -513,9 +461,6 @@ references:
     explanations for abduction reports.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:20086-20241
-  quote: During 2002 and 2003 research conducted at Harvard University reignited the
-    idea of psychological mechanisms as a possible explanation for alien abduction
-    reports.
   claim_id: 4f3e17ad-c7e8-4ed8-8135-61079ecb3fd3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4f3e17ad-c7e8-4ed8-8135-61079ecb3fd3
@@ -523,10 +468,6 @@ references:
     recovered abduction memories.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:20335-20586
-  quote: '"False memory creation was examined in people who reported having recovered
-    memories of traumatic events that are unlikely to have occurred: abduction by
-    space aliens," states the abstract to their paper, which was published in the
-    Journal of Abnormal Psychology.'
   claim_id: 17b18c25-50af-46cc-880c-3d20eaa1d86f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-17b18c25-50af-46cc-880c-3d20eaa1d86f
@@ -534,10 +475,6 @@ references:
     and deniers.'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:20599-20847
-  quote: 'The researchers examined false recall and false recognition in three groups:
-    "people reporting recovered memories of alien abduction, people who believe they
-    were abducted by aliens but have no memories, and people who deny having been
-    abducted by aliens."'
   claim_id: 7a89b3d4-229a-4376-b402-f6b175c53ee7
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7a89b3d4-229a-4376-b402-f6b175c53ee7
@@ -545,8 +482,6 @@ references:
     than controls.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:20874-21012
-  quote: '"Those reporting recovered and repressed memories of alien abduction were
-    more prone than control participants to exhibit false recall and recognition.'
   claim_id: 5fe02dd8-a2c1-459d-af35-4a33e2877b56
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5fe02dd8-a2c1-459d-af35-4a33e2877b56
@@ -554,16 +489,12 @@ references:
     false recall/recognition.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:21085-21210
-  quote: Hypnotic suggestibility, depressive symptoms, and schizotypic features were
-    significant predictors of false recall and false recognition."
   claim_id: 4c9f458b-0f29-4af7-a895-ee653b71ec68
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4c9f458b-0f29-4af7-a895-ee653b71ec68
 - text: No participant reported continuous, never-forgotten memories of abduction.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:21468-21604
-  quote: '"None of the participants interviewed reported continuous memories of alien
-    abduction (i.e., memories of alien abduction that were never forgotten)… .'
   claim_id: 2709f2e6-a8d0-476a-b1e5-ca66a9ecec5c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-2709f2e6-a8d0-476a-b1e5-ca66a9ecec5c
@@ -571,9 +502,6 @@ references:
     or television.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:21618-21822
-  quote: Memories were recovered both in therapy with the help of certain therapeutic
-    techniques (e.g., hypnosis) and spontaneously, after reading books, watching movies,
-    or seeing television shows depicting such episodes."
   claim_id: c97910f9-5b9f-4074-b683-753c11235ebd
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c97910f9-5b9f-4074-b683-753c11235ebd
@@ -581,10 +509,6 @@ references:
     clearly recollected.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:21837-22074
-  quote: In fact, there are a significant number of people reporting abductions who
-    do not rely on hypnosis and other therapeutic techniques. Their memories are based
-    on clearly recollected incidents for which they have no memory loss or delayed
-    recall.
   claim_id: da5e2574-6eaf-41a6-9643-292205d7d889
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-da5e2574-6eaf-41a6-9643-292205d7d889
@@ -592,8 +516,6 @@ references:
     extraterrestrial life.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:466-583
-  quote: Like most scientists, Shapiro rejects stories of UFOs and alien abductions
-    as credible evidence for extraterrestrial life
   claim_id: 4bcf7f91-fbb1-4092-8d38-29d163f397f2
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4bcf7f91-fbb1-4092-8d38-29d163f397f2
@@ -716,10 +638,6 @@ references:
     against recorded physical data.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:19499-19802
-  quote: While the device is in her home, the abductee keeps a daily journal of experiences
-    related to the abduction phenomenon. Then, when the data collection period is
-    over, the journal will be matched up to the physical data to see what was recorded
-    at those times when a person thinks that she may have been abducted
   claim_id: f5a1c573-c6fa-4e11-a5bb-3be4efc73744
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-f5a1c573-c6fa-4e11-a5bb-3be4efc73744
@@ -958,8 +876,6 @@ references:
     vanities.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch17:60414-60521
-  quote: who suggested that the ET perspective plays into the vanities of the evolutionary
-    worldview of the Western world
   claim_id: 7de3b8a4-5563-4fbf-86a9-7f441a00c33e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7de3b8a4-5563-4fbf-86a9-7f441a00c33e
@@ -967,9 +883,6 @@ references:
     electromagnetic effects on perception.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch17:60726-60918
-  quote: Lawlor suggests that the rash of modern UFO abduction experiences may in
-    part be due to the effects of an increase of industrial energies or electromagnetic
-    pollution on our neural perception modalities
   claim_id: 733b876c-bbdc-4d00-a25f-0bf4b00de1cf
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-733b876c-bbdc-4d00-a25f-0bf4b00de1cf
@@ -977,8 +890,6 @@ references:
     and modern abduction lore.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch20:29354-29495
-  quote: I think this argues well for revisiting the validity of the links between
-    the Tuatha legends, fairy folklore, and modern-day alien abduction lore.
   claim_id: a31c4371-7498-4d53-b60f-b086287e96ff
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-a31c4371-7498-4d53-b60f-b086287e96ff

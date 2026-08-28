@@ -154,58 +154,42 @@ references:
     Office of Naval Intelligence
   source: In Plain Sight
   location: ch30:12162-12350
-  quote: Formerly in the US public service's Senior Executive Service, Stratton was
-    highly decorated for his 32 years of service with different arms of the US military
-    culminating in his work with ONI.
   claim_id: b370ad7f-8e35-426b-aef7-a41e8e220176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b370ad7f-8e35-426b-aef7-a41e8e220176
 - text: Retired after sixteen years investigating UAP for the US government
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:26408-26563
-  quote: after sixteen years of investigating UAP for the US government, longer than
-    anyone I’m aware of, Jay decided it was time to retire and head to the private
-    sector
   claim_id: adea8c1f-211b-4728-b5c4-c063ae097a1c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-adea8c1f-211b-4728-b5c4-c063ae097a1c
 - text: Early 2009 visit with Rosemary Caine to recruit Elizondo
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:3705-3771
-  quote: had two guests waiting for me in our reception area. It was early 2009.
   claim_id: 109196fa-ec42-492c-81f2-e205623b9bc6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-109196fa-ec42-492c-81f2-e205623b9bc6
 - text: Recruited Elizondo for counterintelligence experience, DIA-run programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:6367-6494
-  quote: '"We are interested in your counterintelligence and security experience for
-    a highly classified program led out of our office at DIA."'
   claim_id: 497a40c7-5a7b-4259-886e-5a399f47a8f7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-497a40c7-5a7b-4259-886e-5a399f47a8f7
 - text: Puthoff suggested Stratton meet Semivan at the Pentagon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:25289-25339
-  quote: Hal suggested to Jay that we meet with Jim at the Pentagon.
   claim_id: 3e74a9cc-0464-48e1-a915-9acbf7fda48b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e74a9cc-0464-48e1-a915-9acbf7fda48b
 - text: Semivan and Stratton invited Elizondo to a team dinner in Roslyn, Virginia
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:90-249
-  quote: Shortly after I accepted the role, Jim and Jay invited me to a large group
-    dinner for the team that was held in the private meeting room of a hotel in Roslyn,
-    Virginia.
   claim_id: b70fd8f5-473a-4ee6-9c52-f086a45e5e85
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b70fd8f5-473a-4ee6-9c52-f086a45e5e85
 - text: Helped create AAWSAP, which became AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:6867-7061
-  quote: Jay explained that he helped create something called the AAWSAP, Advanced
-    Aerospace Weapons System Applications Program, which would later become AATIP
-    (Advanced Aerospace Threat Identification Program).
   claim_id: 87a98318-1013-4e7e-a49a-32481823440f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-87a98318-1013-4e7e-a49a-32481823440f
@@ -221,31 +205,24 @@ references:
 - text: Stratton and Elizondo handpicked everyone in AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:2389-2419
-  quote: Jay and I handpicked everyone involved.
   claim_id: 023b4981-3ddd-4626-a4ad-3da74e656353
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-023b4981-3ddd-4626-a4ad-3da74e656353
 - text: Skilled at getting Navy personnel to discuss UAP encounters
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:8162-8213
-  quote: Jay excelled at getting his fellow Navy members to talk.
   claim_id: a06a9550-5728-49f7-9a71-bc443bc03f18
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a06a9550-5728-49f7-9a71-bc443bc03f18
 - text: Changed acronym from UFO to UAP while at Skinwalker Ranch
   source: In Plain Sight
   location: ch30:12508-12702
-  quote: Stratton also acknowledged he changed the offi cial acronym describing the
-    phenomenon from UFO to UAP while he was at Skinwalker working with the Advance
-    Aerospace Threat Identification Program team.
   claim_id: 1d8741fe-a48a-4616-9b3a-225433de1082
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d8741fe-a48a-4616-9b3a-225433de1082
 - text: Concluded UFO did not cover the phenomena witnessed
   source: In Plain Sight
   location: ch30:12708-12838
-  quote: He did this because he recognised that 'UFO' – Unidentified Flying Objects
-    – did not cover the phenomena that he witnessed at the ranch.
   claim_id: c8c71a6d-1e8a-419e-ae4d-e18398d448ba
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c8c71a6d-1e8a-419e-ae4d-e18398d448ba
@@ -260,261 +237,180 @@ references:
 - text: Investigated Nimitz encounter before Elizondo joined the team
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:301-360
-  quote: Jay Stratton investigated the incident before I joined the team.
   claim_id: 4968721b-e548-4f39-9b61-9d1726621fda
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4968721b-e548-4f39-9b61-9d1726621fda
 - text: Wrote detailed AAWSAP/AATIP report on the Nimitz encounter
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:366-461
-  quote: He had written a detailed AAWSAP/AATIP report on the event, which is how
-    I first learned about it.
   claim_id: 82125e22-529a-4617-a678-2ea35a1da21f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-82125e22-529a-4617-a678-2ea35a1da21f
 - text: Witnesses reluctant to speak, asked not to be identified
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: p78-79
-  quote: As Jay interviewed these witnesses, he encountered instances where people
-    just didn’t want to talk. ... Even those who had retired and entered civilian
-    life still chose not to go on the record. If they did, they asked Jay not to reveal
-    their identities.
   claim_id: 780e9354-9b5d-4b24-9646-7ac219711e77
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-780e9354-9b5d-4b24-9646-7ac219711e77
 - text: Secured $10 million in new AATIP funding from Harry Reid
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:23014-23130
-  quote: Jay ran point on pulling off miracle after miracle and succeeded in getting
-    Senator Reid to give us new funding—$10 million!
   claim_id: cceef955-98ca-478d-b989-cd1bcd142a4a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cceef955-98ca-478d-b989-cd1bcd142a4a
 - text: Shared cockpit video of a wedge-shaped craft near an aviator
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:10083-10154
-  quote: Just then, a wedge-shaped craft zooms by the cockpit as close as fifty feet.
   claim_id: b27f24fc-534e-4173-9d67-ac65f59470a5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b27f24fc-534e-4173-9d67-ac65f59470a5
 - text: 2015 emails from Fleet Forces Command on USS Roosevelt incursions
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:101-303
-  quote: In 2015, Jay received a string of emails from senior leaders with the Navy’s
-    Fleet Forces Command in Norfolk, Virginia. The emails provided details of UAP
-    incursions involving the aircraft carrier USS Roosevelt.
   claim_id: b5e701a7-187f-42c9-964b-98983b9307ca
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b5e701a7-187f-42c9-964b-98983b9307ca
 - text: Senior intelligence officer at Fleet Forces Command reached out to Stratton
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:5893-6184
-  quote: This ultimately led the senior intelligence officer at Fleet Forces Command
-    to reach out to Jay, who, in his role with naval intelligence on the Navy staff
-    in the Pentagon, would be the appropriate front door for initiating a larger investigation,
-    which Jay did with the full support of his leadership.
   claim_id: 9ff053c2-1966-40e1-b6e6-2b585c838d73
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9ff053c2-1966-40e1-b6e6-2b585c838d73
 - text: Created OPLAN Interloper from 22 USS Roosevelt incidents
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:9805-10038
-  quote: Based on these twenty-two UAP incidents involving the Roosevelt Carrier Strike
-    Group, with eyewitnesses and video evidence, we knew we needed a robust plan of
-    action. Jay spent weeks creating an operation plan (OPLAN), code-named "Interloper."
   claim_id: b1bbea5f-96be-421f-badb-76db8e7ce8d8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b1bbea5f-96be-421f-badb-76db8e7ce8d8
 - text: 'OPLAN Interloper contents: dates, call signs, radar data'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:10224-10483
-  quote: Jay inserted more data in the proposal to bolster our argument. Dates, times,
-    locations, call signs, and the ship names of all vessels that had UAP encounters.
-    Jay also included radar data that substantiated the eyewitness testimonies of
-    flustered pilots and aircrew.
   claim_id: d425c357-8e86-4c3b-9031-7d7039e09667
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d425c357-8e86-4c3b-9031-7d7039e09667
 - text: Submitted via ACCM process to Joint Chiefs, bypassing OUSD(I)
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:12039-12325
-  quote: To move Interloper along, Jay and I circumvented the usual channels in favor
-    of an ACCM process. That means the operation plan would be submitted to the Joint
-    Chiefs of Staff. We were hoping to get around the OUSD(I) because the entire organization
-    had become infested with compromised individuals.
   claim_id: 37ea0bee-1ab6-4bf8-a1c5-907a1953c52d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-37ea0bee-1ab6-4bf8-a1c5-907a1953c52d
 - text: Joint Staff rejected ACCM designation before end of 2016
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch27:120-297
-  quote: Before 2016 ended, I received the news from Jay that the Joint Staff had
-    rejected assigning OPLAN Interloper an ACCM designation, our plan to lure UAP
-    out of hiding on the open seas.
   claim_id: 47866a5b-d660-4b6e-bc5b-673ffc47e48a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-47866a5b-d660-4b6e-bc5b-673ffc47e48a
 - text: Elizondo and Stratton spent considerable time coordinating the plan
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch27:2077-2133
-  quote: Jay and I had spent considerable time coordinating that effort.
   claim_id: bdf919d6-7e99-4528-b2b1-cda9be84717e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bdf919d6-7e99-4528-b2b1-cda9be84717e
 - text: Made plans to bring about UAP disclosure
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch28:20766-20860
-  quote: At work, Jay Stratton and I made a plan that would go against all odds. A
-    plan to bring about disclosure.
   claim_id: ea705c7b-3b89-4675-9709-bbbc13f45fb6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ea705c7b-3b89-4675-9709-bbbc13f45fb6
 - text: Planned to remain in government to use disclosure momentum
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch28:20990-21214
-  quote: Jay would stay with the government and use the momentum gained by the public
-    attention to move the ball forward within the government and brief any and all
-    officials who would no doubt suddenly be interested.
   claim_id: e5bbdd18-5ddb-497f-9341-54f4aa3ab5e5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e5bbdd18-5ddb-497f-9341-54f4aa3ab5e5
 - text: Concluded Congress had to force change on UAP handling
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch28:7879-8058
-  quote: Wargaming it with Jay and Chris Mellon, we realized that the only way to
-    change the way the Pentagon was handling this was to get Congress to make them
-    change.
   claim_id: f3c2958f-f0b3-4311-a327-4f9310838396
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f3c2958f-f0b3-4311-a327-4f9310838396
 - text: Developed multiyear strategy to educate Congress on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:1435-1687
-  quote: Chris recognized the vital role that Congress could play in advancing the
-    UAP issue, so we and Jay had made a multiyear strategy, a war plan of sorts, to
-    educate Congress and eventually legally address the hurdles that faced disclosure.
   claim_id: 2ef743ad-1fdd-4408-a286-9ca0d8db9549
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2ef743ad-1fdd-4408-a286-9ca0d8db9549
 - text: Focused messaging on flight safety and historic lack of transparency
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:1906-2129
-  quote: Due to the stigma and political risk politicians were concerned with, we
-    decided to focus on the growing UAP risks to flight safety, as well as the historic
-    lack of transparency from the executive branch, going back to the 1940s.
   claim_id: 660600ae-8336-4f0e-87bb-b6d01e393d75
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-660600ae-8336-4f0e-87bb-b6d01e393d75
 - text: Began receiving congressional briefing requests
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:26235-26467
-  quote: Our plan was working. My going public caused Congress to pay attention and
-    Jay started getting requests for briefings from members of Congress who previously
-    would have never been aware of the facts, due to the stigma and layers of bureaucracy.
   claim_id: 3973d16a-2b46-4b18-a235-f2aa1fe63ec7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3973d16a-2b46-4b18-a235-f2aa1fe63ec7
 - text: Funnelled credible military/intelligence figures to Congress
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:26528-26647
-  quote: Jay, Chris, and I all funneled credible members of the military and intelligence
-    community who had knowledge of UAP to Congress.
   claim_id: 3cb2546f-5dbb-497b-9389-cdc2dc7e81c1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3cb2546f-5dbb-497b-9389-cdc2dc7e81c1
 - text: Briefing requests from NSC members who briefed Trump
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:15556-15791
-  quote: We were making enough noise in the press that Jay was getting requests for
-    briefings from members of the White House National Security Council, who then
-    briefed Trump on some level, but I am not sure how much information they actually
-    shared.
   claim_id: af73f27e-6d01-4702-86f0-925398868a92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af73f27e-6d01-4702-86f0-925398868a92
 - text: Proposed legislation for a permanent, Congress-funded UAP programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:26703-26886
-  quote: Before Jay retired, we worked with Congress to get new legislation proposed
-    that would create a permanent UAP program directly funded by Congress, so no one
-    could block or misuse the funding.
   claim_id: 50d74b1e-4294-42d4-b6c0-d601fb463f76
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-50d74b1e-4294-42d4-b6c0-d601fb463f76
 - text: Advocacy plan named the Five Pillars of Engagement
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:4202-4241
-  quote: We called our plan the Five Pillars of Engagement.
   claim_id: 31f6d1d1-1950-4e2b-a352-90a9f0fe04bf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-31f6d1d1-1950-4e2b-a352-90a9f0fe04bf
 - text: Network of contacts across military, FBI, CIA, Department of Energy
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:4434-4548
-  quote: Meanwhile, Jay and I worked our network of friends in the military branches,
-    FBI, CIA, and even the Department of Energy.
   claim_id: 862a7909-f591-481f-ae3d-c99172c44870
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-862a7909-f591-481f-ae3d-c99172c44870
 - text: Tasked with building a whole-of-government UAP task force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:4612-4909
-  quote: leadership in Navy intelligence, who understood the national security threats
-    related to UAP and now felt public and congressional pressure to do something
-    about it, tasked Jay with quietly building out a whole-of-government interagency
-    task force, a program with more authorities than AATIP ever had.
   claim_id: b8373943-84a1-48f6-8d54-bcb239ce88bb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b8373943-84a1-48f6-8d54-bcb239ce88bb
 - text: Handpicked task force members from intelligence and civilian agencies
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:4914-5148
-  quote: So Jay started putting that together, handpicking his members/reps from all
-    the intelligence agencies and civilian-led agencies, from the FBI to the National
-    Reconnaissance Office (NRO) to NASA to the Federal Aviation Administration (FAA).
   claim_id: 1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
 - text: Task force became the Pentagon's UAP Task Force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:5154-5231
-  quote: Once it was put together, this would go on to became the Pentagon’s UAP Task
-    Force.
   claim_id: c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
 - text: Space Force did not yet have its own UAP programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:5357-5474
-  quote: Jay needed a rep from Space Force (USSF), but that agency was still getting
-    set up at the time and didn’t have a UAP program
   claim_id: 2b1146f7-8532-43bd-9234-c58aaab6925b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2b1146f7-8532-43bd-9234-c58aaab6925b
 - text: Elizondo became a Space Force contractor supporting Stratton's task force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:5830-6022
-  quote: Soon after that, I started working as a contractor for USSF on the UAP front
-    and getting their unofficial help behind the scenes on my public efforts while
-    also contributing to Jay’s UAP Task Force.
   claim_id: ed75974a-7452-4db7-be4e-a3d5160b9b43
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ed75974a-7452-4db7-be4e-a3d5160b9b43
 - text: Secretary of Defense announced UAPTF, named Stratton first director
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:6057-6224
-  quote: After a couple of years of Jay quietly building the UAP Task Force behind
-    the scenes, the secretary of defense announced the UAP Task Force and named Jay
-    as its first director.
   claim_id: 1b20909d-0e9b-4d62-9c61-a1016fd748f9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b20909d-0e9b-4d62-9c61-a1016fd748f9
 - text: Legacy Program pushed back on Stratton and the task force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:6381-6592
-  quote: From the moment the UAP Task Force became official, the Legacy Program started
-    quietly pushing back on Jay, behind the scenes, creating one bureaucratic hurdle
-    after another for him, the task force, and everyone involved.
   claim_id: c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
@@ -537,84 +433,60 @@ references:
 - text: March 2023 conference talk on Skinwalker Ranch experiences
   source: In Plain Sight
   location: ch30:10063-10245
-  quote: In March 2023, no less than the former head of the Pentagon's UAP investigations
-    team, Jay Stratton, spoke candidly at a UAP conference about his experiences at
-    Skinwalker Ranch in Utah
   claim_id: 07a8b3e4-0279-4177-bdad-0ef69a324b15
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-07a8b3e4-0279-4177-bdad-0ef69a324b15
 - text: First visited Skinwalker Ranch in July 2009
   source: In Plain Sight
   location: ch30:11548-11608
-  quote: For more than 12 years following his July 2009 visit to the ranch.
   claim_id: e57f7600-6f51-4a94-9da4-b990778c705e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e57f7600-6f51-4a94-9da4-b990778c705e
 - text: Witnessed a translucent humanoid entity near his trailer
   source: In Plain Sight
   location: ch30:10595-10784
-  quote: he told conference attendees that he saw a translucent entity evocative of
-    the character from the Predator movie near his trailer at the Skinwalker Ranch,
-    with a rectangular shape on its chest
   claim_id: 56c2fd15-7c62-4815-bdac-38448f311583
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56c2fd15-7c62-4815-bdac-38448f311583
 - text: Sighting corroborated by colleague Travis Taylor
   source: In Plain Sight
   location: ch30:10791-10856
-  quote: a sighting independently corroborated by his colleague Dr Travis Taylor
   claim_id: b93c73b8-5bbd-495a-855c-e817f96c343d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b93c73b8-5bbd-495a-855c-e817f96c343d
 - text: Saw a hovering delta-shaped UAP on his first day at the ranch
   source: In Plain Sight
   location: ch30:10864-10961
-  quote: He also described seeing a hovering delta-shaped UAP directly above him on
-    his fi rst day at the ranch.
   claim_id: f5d051a0-ba05-4d1a-8d2d-8ae24760b87d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f5d051a0-ba05-4d1a-8d2d-8ae24760b87d
 - text: Coined the term 'the hitchhiker effect'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:1877-1962
-  quote: I later learned that Jay had coined the term that now describes this—“the
-    hitchhiker effect.”
   claim_id: fb8157b1-4a08-42e1-8c06-d99fef57daf7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fb8157b1-4a08-42e1-8c06-d99fef57daf7
 - text: Paranormal incidents at Stratton's Virginia home
   source: In Plain Sight
   location: ch30:10969-11238
-  quote: The Kelleher/Knapp Skinwalkers at the Pentagon book also mentions even more
-    disturbing incidents at Stratton's family home in Virginia. Whatever the phenomenon
-    is at the Utah ranch, it appears to have followed him home, an incidence of what
-    is called the 'Hitchhiker Effect'.
   claim_id: 9be3ccaa-d118-4884-ad15-d89bbf853522
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9be3ccaa-d118-4884-ad15-d89bbf853522
 - text: Son found with contusions on stomach and chest
   source: In Plain Sight
   location: ch30:11262-11382
-  quote: his son woke with multiple red contusions on his stomach and chest, 'as if
-    somebody had repeatedly and forcibly hit the boy.'
   claim_id: e220e3b3-5ae2-45f5-83a2-9a1c3ee27cd4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e220e3b3-5ae2-45f5-83a2-9a1c3ee27cd4
 - text: Son described orb assaults and shadowy telepathic figures
   source: In Plain Sight
   location: ch30:11389-11542
-  quote: The boy described being assaulted by blue and red orbs in his bedroom and
-    witnessed 'black shadowy humanoid figures' that screamed telepathically in his
-    head.
   claim_id: 2031c2a3-0dab-49f9-983e-b879bfbfeee9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2031c2a3-0dab-49f9-983e-b879bfbfeee9
 - text: Family witnessed orbs, a 'dogman', and footsteps for 12+ years
   source: In Plain Sight
   location: ch30:11615-11813
-  quote: Stratton's wife and teenage children were all witnesses to the orbs and to
-    a strange dogman entity lurking in the family's backyard, as well as unexplained
-    footsteps up and down the stairs in their home.
   claim_id: 0a5592e2-2d72-473b-ae3e-dd8e94b53538
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0a5592e2-2d72-473b-ae3e-dd8e94b53538

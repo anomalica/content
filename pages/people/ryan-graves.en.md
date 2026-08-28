@@ -417,18 +417,12 @@ references:
     bubble', with a cube touching its inner edge
   source: In Plain Sight (2021)
   location: ch22:2038-2399
-  quote: What the pilots saw was a translucent sphere, like ‘a giant soap bubble’,
-    that passed between the two jets. ‘It was basically a cube inside a sphere with
-    the points of the cube touching the outside of the sphere,’ navy fighter pilot
-    Lieutenant Ryan Graves said of the serious near-miss incident recounted to him
-    by his anonymous pilot colleague who experienced it.
   claim_id: 56fa3908-d548-4a13-91f4-0438b34b7372
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56fa3908-d548-4a13-91f4-0438b34b7372
 - text: Graves said he was told, 'I almost hit one of those damn things'
   source: In Plain Sight (2021)
   location: ch22:2405-2456
-  quote: ‘I almost hit one of those damn things,’ Graves was told.
   claim_id: 4da850a7-4142-4d44-bdef-187936a37307
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4da850a7-4142-4d44-bdef-187936a37307
@@ -436,8 +430,6 @@ references:
     object in the longer Gimbal video he viewed aboard USS Theodore Roosevelt
   source: In Plain Sight (2021)
   location: ch22:4760-4884
-  quote: What he saw on the onboard video was a cluster of smaller craft flying in
-    an inverted V-shape in front of the larger Gimbal object.
   claim_id: d1443675-36be-4986-a5da-ddaf0257bbea
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d1443675-36be-4986-a5da-ddaf0257bbea
@@ -465,8 +457,6 @@ references:
 - text: Graves wrote the observed UAP accelerated at speeds up to Mach 1
   source: In Plain Sight (2021)
   location: ch29:27882-27973
-  quote: Th e unidentifi ed aerial phenomena (UAP) accelerated at speeds up to Mach
-    1, the speed of sound.
   claim_id: d1163d55-352e-4697-9e68-b5465dd4bae8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d1163d55-352e-4697-9e68-b5465dd4bae8
@@ -474,16 +464,12 @@ references:
     4 hurricane-force winds of approximately 220 km/h
   source: In Plain Sight (2021)
   location: ch29:27980-28082
-  quote: They could hold their position, appearing motionless, despite Category 4
-    hurricane-force winds of 120 knots.
   claim_id: f2fa6034-77a3-4aaa-9e29-917acec6e5d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2fa6034-77a3-4aaa-9e29-917acec6e5d8
 - text: He wrote they had no visible means of lift, control surfaces or propulsion
   source: In Plain Sight (2021)
   location: ch29:28089-28242
-  quote: They did not have any visible means of lift, control surfaces or propulsion
-    — in other words nothing that resembled normal aircraft with wings, flaps or engines.
   claim_id: 0750f1f1-6182-42e9-bcbb-f838b8ce88c7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0750f1f1-6182-42e9-bcbb-f838b8ce88c7
@@ -537,10 +523,6 @@ references:
     oath
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:2345-2593
-  quote: members of Congress held another historic bipartisan UAP hearing. This time
-    the hearing had highly credible military witnesses, Commander Fravor, Lieutenant
-    Graves, and Dave Grusch, who were now testifying to the American people in Congress
-    *under oath*
   claim_id: bfb42c69-0416-49a7-87b0-4e3047b26a19
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
@@ -625,8 +607,6 @@ references:
     briefings to members of Congress
   source: In Plain Sight (2021)
   location: ch22:12069-12198
-  quote: The Roosevelt’s Lieutenant Ryan Graves and other pilots were eventually summonsed
-    to give confidential briefings to members of Congress.
   claim_id: 9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
@@ -634,7 +614,6 @@ references:
     'Hah!' and walked out
   source: In Plain Sight (2021)
   location: ch22:17866-17927
-  quote: ‘He looks at the video and goes “Hah!” and walks out,’ Graves recalled.
   claim_id: 8a54bd01-4854-43c9-858b-f02bd91c6894
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8a54bd01-4854-43c9-858b-f02bd91c6894
@@ -681,7 +660,6 @@ references:
     incursions
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:37238-37306
-  quote: the naval pilot Ryan Graves—a key eyewitness in the USS Roosevelt sightings
   claim_id: 975bc549-6302-4843-bc8b-f9740f9455ba
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-975bc549-6302-4843-bc8b-f9740f9455ba

@@ -79,22 +79,18 @@ references:
 - text: Exon involved with Air Materiel Command at Wright Field, Ohio, July 1947
   source: The Fourth Mind
   location: ch8:9254-9405
-  quote: General Arthur Exon, a family friend who was involved with the Air Materiel
-    Command at Wright Field in July 1947, and was officially assigned to it in 1948
   claim_id: bae5df2b-358f-4d5a-8dff-2bac4e7b60d0
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-bae5df2b-358f-4d5a-8dff-2bac4e7b60d0
 - text: Exon officially assigned to Air Materiel Command in 1948
   source: The Fourth Mind
   location: ch8:9368-9405
-  quote: and was officially assigned to it in 1948
   claim_id: 30e99a55-1400-4abb-8b81-114fd0906ce9
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-30e99a55-1400-4abb-8b81-114fd0906ce9
 - text: Exon assigned commander of Wright-Patterson Air Force Base in 1964
   source: The Fourth Mind
   location: ch8:9436-9504
-  quote: In 1964, he was assigned as commander of Wright-Patterson Air Force Base
   claim_id: cfd13814-89be-4a68-adbf-c7b13c866448
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-cfd13814-89be-4a68-adbf-c7b13c866448
@@ -111,8 +107,6 @@ references:
 - text: Exon was a family friend of Whitley Strieber
   source: The Fourth Mind
   location: ch8:9254-9362
-  quote: General Arthur Exon, a family friend who was involved with the Air Materiel
-    Command at Wright Field in July 1947
   claim_id: e6be8b71-c804-4c19-b83f-477044a9582c
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-e6be8b71-c804-4c19-b83f-477044a9582c
@@ -148,9 +142,6 @@ references:
     within 24 hours it was not of this world'
   source: The Fourth Mind
   location: ch11:795-978
-  quote: General Exon told me after I published Communion in 1987 that “everybody
-    from Truman on down knew that what we had found was not of this world within twenty-four
-    hours of our finding it.”
   claim_id: 8bb2dbe4-117a-437e-82fb-f3efa88fd0fc
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-8bb2dbe4-117a-437e-82fb-f3efa88fd0fc
@@ -169,10 +160,6 @@ references:
     from Truman on down'''
   source: In Plain Sight
   location: ch25:22926-23176
-  quote: Strieber told the Senator in his letter that US Army Brigadier General Arthur
-    Exon had told him personally in 1989 that there was a 'completely unequivocal
-    cover-up' of a retrieved alien craft at Roswell and 'it went from [President Harry]
-    Truman on down'.
   claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b16cf133-6aca-486b-8091-52bd8e641c06
@@ -180,8 +167,6 @@ references:
     bodies'
   source: The Fourth Mind
   location: ch8:9510-9600
-  quote: and as late as 1988 told me that he was still consulting with groups there
-    working on the question
   claim_id: d08d8b59-df40-4913-8d9e-b1b56bb9de73
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d08d8b59-df40-4913-8d9e-b1b56bb9de73
@@ -199,23 +184,18 @@ references:
 - text: 'Strieber: Exon spoke privately of nonhuman bodies held by the DoD'
   source: The Fourth Mind
   location: ch8:9411-9425
-  quote: spoke of them privately
   claim_id: 0588f0b5-7857-413f-9843-afe9043861b3
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-0588f0b5-7857-413f-9843-afe9043861b3
 - text: Exon quoted saying he held a recovered body, resembling a large insect
   source: The Fourth Mind
   location: ch11:983-1066
-  quote: He also said that he had held one of the bodies in his arms and “it was like
-    a big insect.”
   claim_id: 823e6282-c213-4ad4-945a-dc7c99336afb
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-823e6282-c213-4ad4-945a-dc7c99336afb
 - text: 'Strieber: 1988 meeting, Exon said he saw and held a body, insectlike'
   source: The Fourth Mind
   location: ch11:6164-6274
-  quote: Only later, in 1988, would I meet General Exon, who saw and held one of the
-    bodies, and perceived it the same way.
   claim_id: 47c56d0c-849d-41bf-af19-f34d002a8353
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-47c56d0c-849d-41bf-af19-f34d002a8353

@@ -211,8 +211,6 @@ references:
     before January 1977
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:6797-6881
-  quote: In an 18-month period before January 1977, there were 700 mutilations in
-    15 western states.
   claim_id: ee9f6fd6-5b74-41e8-bbab-962b3563a6be
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ee9f6fd6-5b74-41e8-bbab-962b3563a6be
@@ -220,16 +218,12 @@ references:
 - text: More than 180 cattle mutilation cases occurred in Colorado in 1975 alone
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:6889-6939
-  quote: More than 180 cases occurred in Colorado alone in 1975.
   claim_id: e352aceb-b2d3-4535-ad36-31a76ccbed76
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e352aceb-b2d3-4535-ad36-31a76ccbed76
 - text: Mutilations often reported at the same time and place as UFO sightings
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:1504-1661
-  quote: I am referring to the many reports of cattle mutilations that are reported
-    throughout the Western states, often at the same time and in the same area as
-    UFO sightings.
   claim_id: e1fd6e37-eb2d-4391-8b59-bbf54c83917a
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e1fd6e37-eb2d-4391-8b59-bbf54c83917a
@@ -237,225 +231,156 @@ references:
 - text: Vallée's three positions on the cause of mutilations
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:2015-2321
-  quote: (1) the cattle have died naturally and were mutilated by predators, or were
-    killed by a few isolated sensation-seekers; (2) there is an organization secretly
-    conducting large-scale mutilation of cattle... (3) the mutilations are caused
-    by UFOs and their occupants.
   claim_id: 9045af37-8ed9-4bd8-b75a-df7475a1d5c1
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9045af37-8ed9-4bd8-b75a-df7475a1d5c1
 - text: 'James Stewart: belief in mutilations is collective delusion'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:13177-13353
-  quote: James Stewart, an assistant professor of sociology from the University of
-    South Dakota at Vermillion, suggested that belief in cattle mutilations was "the
-    result of collective delusion,"
   claim_id: 73c2077b-8f17-4a70-aa15-c7e22457104e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-73c2077b-8f17-4a70-aa15-c7e22457104e
 - text: Carcasses showed no evidence of struggle
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:22895-22932
-  quote: the animals died with no evidence of struggle
   claim_id: a8f00c17-41ed-460a-8238-61d782cbf2d8
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-a8f00c17-41ed-460a-8238-61d782cbf2d8
 - text: No tracks or blood; circular depressions and pod-marks sometimes reported
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:22942-23056
-  quote: There were no tracks or blood near the carcasses (although circular depressions
-    and pod-like marks were sometimes reported).
   claim_id: e8577fb8-dd1b-402b-aae8-3c741ca8eb95
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e8577fb8-dd1b-402b-aae8-3c741ca8eb95
 - text: 'Organs most often removed: eyes, ears, tongue, genitals'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:43889-44004
-  quote: 'What are the organs taken by the mutilators? The eyes, the ears, the tongue,
-    and the genitals: that is, the organs concerned ... with communication and with
-    reproduction.'
   claim_id: e71dc686-51e9-4083-8a62-b85be79df52c
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e71dc686-51e9-4083-8a62-b85be79df52c
 - text: Evidence the Rokitansky autopsy technique had been used
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:25141-25312
-  quote: Some of the carcasses showed evidence that a standard autopsy procedure,
-    the Rokitansky technique, had been used; it consists in the removal of the viscera
-    as an integral unit.
   claim_id: 641b3f0e-2706-419d-bc5d-7075674d3046
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-641b3f0e-2706-419d-bc5d-7075674d3046
 - text: Military-surplus scalpel left behind at one scene
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:29197-29284
-  quote: In one incident a scalpel had been left behind; it was an ordinary article
-    of military surplus.
   claim_id: e368b8a3-ed6e-43ac-b2bc-1e68e9df3b8b
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e368b8a3-ed6e-43ac-b2bc-1e68e9df3b8b
 - text: 'Whiteside: sex-organ removal definitely not made by predators'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:22677-22839
-  quote: Colorado Bureau of Special Investigation special investigator Carl Whiteside
-    said that the removal of sex organs and other body parts was "definitely not made
-    by predators."
   claim_id: c7d279ba-0d75-4134-82a5-366152603ae8
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-c7d279ba-0d75-4134-82a5-366152603ae8
 - text: 'Whiteside: catching the culprits was like chasing a ghost'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:35900-36028
-  quote: Carl Whiteside, an agent with the Colorado Bureau of Investigation, stated
-    that trying to catch the culprits was like chasing a ghost.
   claim_id: 0cffd8c7-3b13-4a39-b35e-e9d0c10e66b0
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0cffd8c7-3b13-4a39-b35e-e9d0c10e66b0
 - text: Some carcasses appeared airlifted and dropped to be found
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:23067-23166
-  quote: Some carcasses seemed to have been airlifted, then dropped in areas which
-    maximized the chances of discovery.
   claim_id: 4ed6d860-1653-4276-93a1-3eddd80b38e5
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4ed6d860-1653-4276-93a1-3eddd80b38e5
 - text: 'Jim Hileman: never seen anything like it in his life around livestock'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:23654-23809
-  quote: 'Many ranchers echoed the statement of Adams County (Idaho) Sheriff Jim Hileman:
-    "I''ve been around livestock all my life, and I''ve never seen anything like this."'
   claim_id: 66ca8f76-76a0-401e-a587-0c777a0c3e82
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-66ca8f76-76a0-401e-a587-0c777a0c3e82
 - text: 'Hart: Hereford cow found missing sex organs, rectum, ear, 1975-09-13'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:23817-24006
-  quote: A Garfield County officer, named Hart, disclosed that on Sept. 13, a Hereford
-    cow was discovered just across the county line in Mesa County; missing were the
-    sex organs, the rectum, and an ear.
   claim_id: cd8dd05f-895b-42ce-940d-6637b5f59de9
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-cd8dd05f-895b-42ce-940d-6637b5f59de9
 - text: 'George Yarnell: udder cleaned out and packed with sand'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:28838-29069
-  quote: Sheriff George Yarnell of Elbert County is quoted by F. Smith as saying that
-    his "most memorable case" was one in which an udder was "neatly cleaned out, leaving
-    only the skin, which was then tightly packed with several gallons of sand."
   claim_id: 50e60b78-2c7b-4909-bcf4-f2d228400332
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-50e60b78-2c7b-4909-bcf4-f2d228400332
 - text: 'Baron Hankes: as if someone wanted the carcasses found'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:7292-7484
-  quote: as Mendocino Sheriffs Investigator Baron Hankes said, after studying seven
-    mutilated cattle in Covelo, California, between November ‘76 and January ‘77,
-    "It was like someone wanted us to find them."
   claim_id: ea7cc246-b6cf-4944-8f7e-e4bea5633e7e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ea7cc246-b6cf-4944-8f7e-e4bea5633e7e
 - text: Holstein calf found mutilated, 1975-10-28, near Middleton, Idaho
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:77-153
-  quote: This Holstein calf was found mutilated on October 28, 1975, near Middleton,
-    Idaho.
   claim_id: ecbde2c6-1c2c-4168-b7bf-575ee323fd8c
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ecbde2c6-1c2c-4168-b7bf-575ee323fd8c
 - text: Sexual organs, rectum, tongue removed from the Middleton calf
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:160-252
-  quote: The sexual organs, rectum, and tongue have been removed, according to local
-    law-enforcement authorities.
   claim_id: 34a1bfbc-13d4-4bc1-a5a7-495e4f509603
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-34a1bfbc-13d4-4bc1-a5a7-495e4f509603
 - text: Elbert County cluster of incidents near military installations
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:25388-25851
-  quote: In Colorado, there was a concentration of mutilation incidents in Elbert
-    County, very near some of the world's most sophisticated military installations;
-    these include Ent Air Force Base, Fort Carson Army Base, Peterson Airfield, Lowry
-    Air Force bombing range, the U.S. Air Force Academy, the Buckley Air National
-    Guard and Naval Air Station, the Rocky Mountain Arsenal (where nerve gas is manufactured
-    and stored), and the Rocky Flats, where H-bomb triggers are assembled.
   claim_id: b5b4c796-ce38-4bc0-8402-088b1ec7593e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-b5b4c796-ce38-4bc0-8402-088b1ec7593e
 - text: Cow mutilated next to the NORAD entrance gate, 1975-07-06
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:27435-27603
-  quote: an incident that had occurred on July 6, 1975, next to the NORAD entrance
-    gate, near the unmarked NORAD road... It was a cow due to calve in two months.
   claim_id: 6ae562bc-3d5f-474d-9dc1-b164b4802106
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-6ae562bc-3d5f-474d-9dc1-b164b4802106
 - text: Buffalo mutilated at Cheyenne Mountain Zoo, 1975-10-21
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:26675-26839
-  quote: A 1,500-pound female buffalo was mutilated there on Tuesday, October 21,
-    1975. An udder, an ear, and four square feet of hide had been removed. The vagina
-    had been cut.
   claim_id: 610889ec-0174-409d-ba04-843440a52998
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-610889ec-0174-409d-ba04-843440a52998
 - text: Smith's book describes a mutilation overlooking the NORAD facility
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:799-1076
-  quote: So right there, immediately overlooking thousands of military buildings,
-    the protective covering of hundreds of planes and helicopters and 20,000 soldiers...
-    someone thought this would be a neat place to have a cattle mutilation.
   claim_id: abd87b42-2824-49e6-9ecb-6462b702020f
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-abd87b42-2824-49e6-9ecb-6462b702020f
 - text: 'Vallée: NORAD-gate cow may signal calling the government''s bluff'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:30681-30796
-  quote: Dropping a mutilated cow at the main entrance to NORAD may be a clear indication
-    that somebody is now calling that bluff.
   claim_id: 6e549edd-d81c-4ccd-b99f-4927287ba0af
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-6e549edd-d81c-4ccd-b99f-4927287ba0af
 - text: Largest Colorado law-enforcement deployment, Sept 1975, identified no suspect
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:21953-22087
-  quote: the largest force of law enforcement manpower ever assembled in the history
-    of Colorado" was deployed... It failed to identify a single suspect.
   claim_id: 91f10e83-4d38-4f1a-9cc8-6ca85d72ef12
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-91f10e83-4d38-4f1a-9cc8-6ca85d72ef12
 - text: 60 officers met in Fort Morgan, Colorado to coordinate
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:22126-22224
-  quote: Sixty officers from Nebraska, Wyoming, and Colorado met in Fort Morgan to
-    try to coordinate their efforts
   claim_id: 5d451247-a41d-4e9b-864b-85b2c5570a55
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-5d451247-a41d-4e9b-864b-85b2c5570a55
 - text: Haskell discussed mutilations with FBI Director Kelley
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:23258-23441
-  quote: In a news release dated Sept. 18, 1975, the senior Senator from Colorado,
-    Floyd K. Haskell, disclosed that he had discussed the matter with FBI director
-    Clarence Kelley and his chief assistant.
   claim_id: 43b8ca14-9eec-4b9c-82a5-8f2ef229f069
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-43b8ca14-9eec-4b9c-82a5-8f2ef229f069
 - text: FBI concluded no jurisdiction; no evidence of interstate movement
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:23461-23565
-  quote: the FBI concluded it had no jurisdiction to enter the case, because there
-    was no evidence of interstate movement
   claim_id: 4177bf86-f094-4cd3-b337-2b4fecdfd79e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4177bf86-f094-4cd3-b337-2b4fecdfd79e
 - text: 'National Enquirer panel: UFO-mutilation link an idea whose time had not come'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch4:39246-39485
-  quote: The panel of investigators which the magazine maintains to review UFO cases
-    – a committee on which leading civilian research groups are represented – has
-    decided that the link between UFOs and the mutilators was an idea whose time had
-    not yet come.
   claim_id: 7073e995-ff6a-4531-ad69-99aa774346d8
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-7073e995-ff6a-4531-ad69-99aa774346d8
@@ -487,95 +412,66 @@ references:
 - text: Bankston's letters claiming knowledge of a Satanic cult
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:33341-33612
-  quote: a prison inmate named Albert K. Bankston. This man stated that he knew who
-    the mutilators were; he said that they were members of a Satanic cult, and that
-    he wanted to assist in their arrest. However, he was afraid of reprisals and asked
-    to be transferred to a Minnesota jail.
   claim_id: 9f052667-444d-4aa8-bfef-28e06c2f6502
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9f052667-444d-4aa8-bfef-28e06c2f6502
 - text: 'Bankston: ''the Occult'' responsible, used organs in rituals'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:34062-34172
-  quote: This so-called "Occult" was responsible for the mutilations, Bankston said,
-    and used the animal organs in its rituals.
   claim_id: fab9c727-1922-4afe-81c3-7b035e7dc0a3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-fab9c727-1922-4afe-81c3-7b035e7dc0a3
 - text: 'Dugan: the cult used tranquilizer pellets and avoided tracks'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:35379-35577
-  quote: He said they all got a particular "thrill" over not leaving any tracks, and
-    often talked about how the authorities would sooner or later begin blaming the
-    whole thing on UFOs, which is what came to pass.
   claim_id: 5193a7da-45d9-4e5a-8724-a4bbbbcf9a25
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-5193a7da-45d9-4e5a-8724-a4bbbbcf9a25
 - text: Dugan's list of names, including a Bell Helicopter employee
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:36084-36351
-  quote: provide the investigators with a list of names, including a Bell Helicopter
-    employee who was already suspected of narcotic traffic, burglary, and fencing.
-    Authorities were interested in this angle because of frequent reports of "unmarked
-    helicopters" at the sites of mutilations.
   claim_id: 87c157a2-168a-4c8c-8a4b-8db210c4b658
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-87c157a2-168a-4c8c-8a4b-8db210c4b658
 - text: Investigators agreed cult involvement was the exception, not the rule
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:39516-39711
-  quote: By late 1975, mutilation investigators agreed that any involvement by cult
-    members was more the exception than the rule, and that the real culprits were
-    much more powerful. The Occult Theory was inadequate.
   claim_id: 02bbe611-2a8a-465c-bdc8-81aaf13236a8
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-02bbe611-2a8a-465c-bdc8-81aaf13236a8
 - text: Ranchers blamed the military after seeing helicopter-like objects at night
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:39770-39943
-  quote: Since they kept seeing flying objects of various kinds in the mutilation
-    areas at night, and since some of these resembled helicopters, they concluded
-    that the military was responsible.
   claim_id: 4072fa02-14b9-4a6d-b35a-f91655799c74
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4072fa02-14b9-4a6d-b35a-f91655799c74
 - text: Ranchers fired on helicopters near Fort Carson
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:40489-40651
-  quote: The ranchers began firing on helicopters leaving or returning to Fort Carson
-    at low altitude, and several of the machines came back to base with bullets in
-    their sides.
   claim_id: caa20e70-3f5e-415b-8b57-a7dae9b806e7
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-caa20e70-3f5e-415b-8b57-a7dae9b806e7
 - text: Never explained how one group could cause hundreds of incidents
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:40876-40978
-  quote: Neither was it explained how a single group could be responsible for hundreds
-    of incidents in several states.
   claim_id: cc70285a-da29-4317-83f7-c78bd4b12bb7
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-cc70285a-da29-4317-83f7-c78bd4b12bb7
 - text: Mutilations continued in weather that would have grounded helicopters
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:41108-41212
-  quote: However, the mutilations continued, even on stormy nights when helicopter
-    flights were prevented by the weather.
   claim_id: bf36120c-31ef-4360-8c4b-170caa7990b0
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-bf36120c-31ef-4360-8c4b-170caa7990b0
 - text: Ranchers kept nightly vigils on hilltops using CB radios
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:40987-41101
-  quote: At night, the ranchers kept up vigils, parking their pickups on hilltops
-    and staying in contact by citizen's band radio.
   claim_id: 31d990c4-ba31-49b6-9818-0c7b7b00bb75
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-31d990c4-ba31-49b6-9818-0c7b7b00bb75
 - text: Major Murphy told Vallée the causes were not usually so simple
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:1379-1433
-  quote: Things are not usually so simple, as Major Murphy had said.
   claim_id: f752831a-d54a-453d-9e83-c3b6d5bd39a3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-f752831a-d54a-453d-9e83-c3b6d5bd39a3
@@ -583,26 +479,18 @@ references:
     history'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:21712-21795
-  quote: which he called "one of the greatest outrages in the history of the western
-    cattle industry."
   claim_id: 1fa7cf9f-ba79-4e91-bd60-d647635109c2
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-1fa7cf9f-ba79-4e91-bd60-d647635109c2
 - text: 'Dolan/Lamm: no longer possible to blame predators'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:21806-21891
-  quote: The Governor of Colorado added, "It is no longer possible to blame predators
-    for the mutilations."
   claim_id: 5914e459-0116-4ab6-9d84-65c985e4560a
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-5914e459-0116-4ab6-9d84-65c985e4560a
 - text: 1975 intelligence report on occult activities linked to mutilations
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:31892-32181
-  quote: In October 1975, a preliminary Intelligence Report was prepared for the U.S.
-    attorney in Minneapolis. Although it was entitled "Intelligence information regarding
-    occult activities throughout the United States," it really centered on cattle
-    and human mutilations and their relationship to UFOs.
   claim_id: 4e234217-4808-4ae3-aebd-3ee60313fa32
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4e234217-4808-4ae3-aebd-3ee60313fa32
@@ -664,30 +552,24 @@ references:
 - text: The liver, high in copper, is often found missing
   source: The Fourth Mind
   location: ch11:34211-34272
-  quote: The liver, also often found to be missing, has a high copper content.
   claim_id: 10e5c16d-199c-4ce0-9543-e4f717efdb9b
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-10e5c16d-199c-4ce0-9543-e4f717efdb9b
 - text: Bovine blood is rich in copper
   source: The Fourth Mind
   location: ch11:34034-34058
-  quote: Bovine blood is rich in copper
   claim_id: 22b37e95-5bbb-4647-a0a6-2181c5f60e64
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-22b37e95-5bbb-4647-a0a6-2181c5f60e64
 - text: 'Strieber: human blood higher in copper; visitors said to use livestock instead'
   source: The Fourth Mind
   location: ch11:33043-33211
-  quote: Human beings have an even higher copper content in their blood, but our visitors
-    are no fools. They leave us alone and make use, instead, of our own “prey” species—our
-    livestock.
   claim_id: 13efa03f-f78c-42df-9f5f-bb05eb13f048
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-13efa03f-f78c-42df-9f5f-bb05eb13f048
 - text: 'Vallée: the phenomenon remains unsolved'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch3:835-877
-  quote: The cattle mutilations phenomenon remains unsolved.
   claim_id: 8c9774f8-a4a5-48b0-8294-59664d203e22
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8c9774f8-a4a5-48b0-8294-59664d203e22

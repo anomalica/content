@@ -160,9 +160,6 @@ references:
     accounts
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:42885-43071
-  quote: Institutions like the Vatican have formed alliances with UAP transparency
-    advocates in Italy and the US and confidentially share historic accounts that
-    are centuries old that may be UAP-related.
   claim_id: 8e0ce4a8-6424-47cd-b1b5-06270e4ce0d7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8e0ce4a8-6424-47cd-b1b5-06270e4ce0d7
@@ -170,17 +167,12 @@ references:
     and confessional anecdotes
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:43080-43257
-  quote: Most people would be shocked by the amount of intelligence the Vatican has
-    collected over the millennia, culled from eyewitness reports and perhaps even
-    anecdotes shared in the confessional.
   claim_id: 47e7b83c-ece4-4bdb-a4ca-0ee5a75e273e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-47e7b83c-ece4-4bdb-a4ca-0ee5a75e273e
 - text: Church routinely polled priests about what troubled their parishioners
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:43318-43426
-  quote: I’ve been told that the church routinely polled priests to speak in a general
-    way about what troubled their parishioners.
   claim_id: e06d69da-6fba-44b8-a845-b0df8301dbeb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e06d69da-6fba-44b8-a845-b0df8301dbeb
@@ -206,9 +198,6 @@ references:
     controlling the Fatima cult
   source: The Fatima Secret
   location: ch13:12137-12329
-  quote: her steps were guided by Church authorities, who at that time were investigating
-    the incidents at Fatima. They wanted to have her under their control, so they
-    could control the cult of Fatima itself.
   claim_id: 8b55606b-1a3e-4e27-865d-d5e60d92d2e9
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-8b55606b-1a3e-4e27-865d-d5e60d92d2e9
@@ -216,87 +205,60 @@ references:
     Cova da Iria
   source: The Fatima Secret
   location: ch13:12561-12643
-  quote: There, all religious proclamations were made by priests who were appointed
-    by the Church.
   claim_id: 6b111f62-b93a-4c0b-964a-7024b8412be6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6b111f62-b93a-4c0b-964a-7024b8412be6
 - text: Difficult to find a priest before the apparitions were officially recognised
   source: The Fatima Secret
   location: ch13:2889-3024
-  quote: It was difficult, at first, to find a priest for the chapel, since the visions
-    of Fatima had not yet been officially recognized by the Church.
   claim_id: 00d4c7f3-c54b-4217-876f-ab6f97995ed4
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-00d4c7f3-c54b-4217-876f-ab6f97995ed4
 - text: Sidonio Pais established Portugal-Vatican diplomatic relations, June 1918
   source: The Fatima Secret
   location: ch14:10659-10721
-  quote: In June he established official diplomatic relations with the Vatican.
   claim_id: 19329330-8be0-40fa-9a38-ff408df0b7d8
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-19329330-8be0-40fa-9a38-ff408df0b7d8
 - text: Third Secret would become the Vatican's most zealously guarded secret
   source: The Fatima Secret
   location: ch15:19282-19405
-  quote: The Third Secret that the Madonna had revealed to the three children would
-    become the most zealously guarded secret of the Vatican.
   claim_id: 44a714cb-9dcf-4baa-b017-2caf633a49a6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-44a714cb-9dcf-4baa-b017-2caf633a49a6
 - text: Third Secret envelope kept in Pius XII's private quarters
   source: The Fatima Secret
   location: ch16:6184-6280
-  quote: The envelope was kept in the most secure part of the Vatican, the private
-    quarters of Pope Pius XII.
   claim_id: 43340122-1ded-4e9a-963e-93736136eff4
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-43340122-1ded-4e9a-963e-93736136eff4
 - text: Vatican instructed Bishop da Silva to keep the envelope at Leiria
   source: The Fatima Secret
   location: ch16:2972-3105
-  quote: Bishop da Silva, on the other hand, wanted to send it to Rome. But the Vatican
-    instructed him to keep the envelope at Leiria for the present.
   claim_id: 37b52475-a103-48d1-b1a8-229ae8326c5b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-37b52475-a103-48d1-b1a8-229ae8326c5b
 - text: Pius XII restricted who could meet Sister Lúcia without Vatican permission
   source: The Fatima Secret
   location: ch15:18885-19089
-  quote: Eventually the pope ordered that Sister Lúcia was only allowed to meet with
-    those people whom she was already in contact with, and anyone else who wanted
-    to meet her would have to get permission from the Vatican.
   claim_id: e3723880-a260-488b-a7f4-72121fd6f069
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-e3723880-a260-488b-a7f4-72121fd6f069
 - text: Vatican opposition to consecrating Russia over fears of Soviet reaction
   source: The Fatima Secret
   location: ch15:14804-15244
-  quote: But there were people in the Vatican who were not at all in favor of this
-    step. Their aim was to first establish diplomatic connections with Moscow. The
-    Soviets might interpret such a papal proclamation as a deliberate act of intervention
-    in their internal affairs. They felt that it would be irresponsible for the pope
-    to perform a naive and sentimental act that could jeopardize all their hopes for
-    obtaining relief for the Christians in Russia.
   claim_id: f1d49bf7-2eab-4ff1-b7e3-521d9d7dbcb8
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f1d49bf7-2eab-4ff1-b7e3-521d9d7dbcb8
 - text: Pius XII, the 'pope of Fatima', did not overcome opposition to the consecration
   source: The Fatima Secret
   location: ch15:16199-16330
-  quote: Nevertheless the "pope of Fatima" did not succeed in overcoming the opposition
-    in the Vatican to performing the act desired by the Madonna.
   claim_id: ac7f1a44-a95b-4f68-9594-5565ac9057f2
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ac7f1a44-a95b-4f68-9594-5565ac9057f2
 - text: Vatican silent on 1942 petition to consecrate Russia until 1942-10-13
   source: The Fatima Secret
   location: ch15:7728-8079
-  quote: During the jubilee year the Portuguese bishops once again sent a petition
-    to Rome, begging the pope to consecrate Russia to the Mother of God. To their
-    disappointment the Vatican remained silent until October 13, when it was suddenly
-    and unexpectedly announced that the pope would send a message to the world on
-    October 31, at the official end of the jubilee.
   claim_id: c0d71420-1bd7-488d-a9bf-683c81bac041
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-c0d71420-1bd7-488d-a9bf-683c81bac041
@@ -304,28 +266,18 @@ references:
     present
   source: The Fatima Secret
   location: ch8:961-1262
-  quote: He had arranged for a Vatican interpreter to be present, in case there was
-    difficulty understanding the Portuguese text. Sitting in a closed room, with only
-    the interpreter and his confessor, Monsignor Alfredo Cavagna, present, the pope
-    read the words that Sister Lúcia had written down fifteen years before.
   claim_id: b0e259be-5678-4ddc-abda-9284b23d04a0
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b0e259be-5678-4ddc-abda-9284b23d04a0
 - text: 1960 announcement said the letter might remain sealed forever
   source: The Fatima Secret
   location: ch16:12679-12969
-  quote: Because of the pressure on the Vatican by those who want the letter to be
-    published, and the fears of others that it may contain alarming prophecies, the
-    Vatican has decided not to open Sister Lúcia’s letter, but to keep it sealed.
-    It is likely that the secret of Fatima will remain sealed forever.
   claim_id: dea64a11-461e-42f8-9ea4-a86afb4d510f
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-dea64a11-461e-42f8-9ea4-a86afb4d510f
 - text: Vatican official silence maintained until the fiftieth anniversary of Fatima
   source: The Fatima Secret
   location: ch17:10461-10594
-  quote: Officially, the Vatican declared silence regarding the matter, a silence
-    that lasted until the fiftieth anniversary of the events at Fatima.
   claim_id: d8f24f88-a124-4d35-8836-07a72915ee8d
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d8f24f88-a124-4d35-8836-07a72915ee8d
@@ -333,8 +285,6 @@ references:
     secret
   source: The Fatima Secret
   location: ch17:2770-2855
-  quote: The Vatican has taken all precautions to make sure that the document remains
-    a papal secret.
   claim_id: 5ddbb785-b7d5-485e-b107-cd639139c5dd
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-5ddbb785-b7d5-485e-b107-cd639139c5dd
@@ -342,17 +292,12 @@ references:
     Missile Crisis, 1962-10
   source: The Fatima Secret
   location: ch17:302-453
-  quote: which had allegedly been sent by the Vatican to the governments of Washington,
-    London, and Moscow during the height of the Cuban Missile Crisis a year earlier
   claim_id: bb204a48-7cf7-4919-972c-1780814d51fd
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-bb204a48-7cf7-4919-972c-1780814d51fd
 - text: 'European News: 1963 test-ban agreement attributed to Vatican intervention'
   source: The Fatima Secret
   location: ch17:463-661
-  quote: According to the magazine the agreement signed by the foreign ministers of
-    the United Kingdom and Russia, and the U.S. secretary of state, to stop atomic
-    bomb tests, was 'due to intervention by the Vatican.'
   claim_id: 56067770-abe8-4a87-8bb3-ae139e7f2f75
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-56067770-abe8-4a87-8bb3-ae139e7f2f75
@@ -360,34 +305,24 @@ references:
     publication
   source: The Fatima Secret
   location: ch17:6932-7141
-  quote: Emrich worked on the Fatima story for quite some time before the publication
-    on October 15, 1963, and already had some information about the probable contents
-    of the document guarded by the Vatican as a state secret.
   claim_id: 062351b6-a12e-4edd-91ad-3fbe5e9193fd
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-062351b6-a12e-4edd-91ad-3fbe5e9193fd
 - text: 'Mrs Emrich: a Vatican priest visited Emrich unofficially'
   source: The Fatima Secret
   location: ch17:7149-7287
-  quote: Then a priest from the Vatican visited him, who clearly emphasized that he
-    had not been sent officially, but that he had come for his own reasons.
   claim_id: a554b116-8e15-4ba8-a2ba-7b2c35b24385
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-a554b116-8e15-4ba8-a2ba-7b2c35b24385
 - text: Emrich version never confirmed or denied by the Church
   source: The Fatima Secret
   location: ch17:8818-8903
-  quote: Interestingly enough, the Emrich version was never either confirmed or denied
-    by the Church.
   claim_id: 698a6974-7760-4574-b029-2c0a69131aba
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-698a6974-7760-4574-b029-2c0a69131aba
 - text: Emrich admitted his version was built on rumours, not the original text
   source: The Fatima Secret
   location: ch24:26096-26313
-  quote: As we know, even the originator of that version, the Swiss journalist Louis
-    Emrich, admitted that it was constructed on rumors and information he received
-    from the Vatican and that it was not meant to be the original text.
   claim_id: 7434f671-7dda-4c79-81f0-424a7e47f703
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7434f671-7dda-4c79-81f0-424a7e47f703
@@ -395,9 +330,6 @@ references:
     conference
   source: The Fatima Secret
   location: ch24:25751-25915
-  quote: I decided to spend the following week in Rome, speaking to several Vatican
-    sources and doing a long interview with Archbishop Bertone, to find the answers
-    to these questions.
   claim_id: babea78d-5eb5-4adb-bcbd-8f31e7ff501c
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-babea78d-5eb5-4adb-bcbd-8f31e7ff501c
@@ -405,52 +337,36 @@ references:
     to Khrushchev/Kennedy
   source: The Fatima Secret
   location: ch24:26658-26801
-  quote: Archbishop Bertone's research has not revealed any evidence of a Vatican
-    leak, or for Emrich's claim that the Secret was shown to Krushchev or Kennedy.
   claim_id: be2754c1-18b7-4a2f-baf9-06b08b2e7714
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-be2754c1-18b7-4a2f-baf9-06b08b2e7714
 - text: Gruner accused the Vatican of whitewashing the Third Secret's message
   source: The Fatima Secret
   location: ch24:25504-25657
-  quote: In an immediate press release from the renegade Canadian priest Father Nicholas
-    Gruner, he accused the Vatican of "whitewashing" and "watering down" the message.
   claim_id: de6d23b5-a50e-4eaa-a6cc-62e3acfe65a6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-de6d23b5-a50e-4eaa-a6cc-62e3acfe65a6
 - text: 'Gruner: Vatican''s interpretation raises more questions than it answers'
   source: The Fatima Secret
   location: ch24:25667-25742
-  quote: '"The official interpretation raises far more questions than it answers,"
-    he stated.'
   claim_id: 3a871815-3cfb-43f8-9abb-c83a9de6fcea
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-3a871815-3cfb-43f8-9abb-c83a9de6fcea
 - text: Third Secret revealed at the end of a two-and-a-half-hour ceremony, 2000-05-13
   source: The Fatima Secret
   location: ch24:10005-10366
-  quote: Not until the end of the two-and-a-half hour ceremony, during which Sister
-    Lúcia received the Holy Communion from the hands of the pope, was the Secret revealed.
-    After the hundreds of priests who had walked out into the crowd to distribute
-    the blessed sacrament returned to their places, a speech by Cardinal Sodano, the
-    secretary of state for the Vatican, was announced.
   claim_id: 700da108-1ae3-4dee-b9ee-b4f987beee3c
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-700da108-1ae3-4dee-b9ee-b4f987beee3c
 - text: Vatican released facsimile of Lúcia's handwriting in response to sceptics
   source: The Fatima Secret
   location: ch24:24446-24662
-  quote: Skeptics requested the publication of Lúcia's handwritten notes. In its wisdom,
-    the Vatican released a facsimile of her handwriting, together with several examples
-    of letters that she had written by hand three years ago.
   claim_id: 9c50611e-d0c6-4a8b-96bf-f755faad3238
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-9c50611e-d0c6-4a8b-96bf-f755faad3238
 - text: Putin visited the Vatican for a confidential meeting, 2000-06-05
   source: The Fatima Secret
   location: ch24:16436-16551
-  quote: On Monday, June 5, 2000, the newly elected Russian president Vladimir Putin
-    visited the Vatican for a confidential meeting.
   claim_id: 8fa223ff-6fdd-4cfb-b57a-c53a6ad838b4
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-8fa223ff-6fdd-4cfb-b57a-c53a6ad838b4
@@ -458,15 +374,12 @@ references:
     Paul II
   source: The Fatima Secret
   location: ch24:17106-17174
-  quote: This was discussed with the Vatican beforehand and supported by the pope.
   claim_id: c2bf2e6c-dbd5-42f1-a6f4-022b46f9567a
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-c2bf2e6c-dbd5-42f1-a6f4-022b46f9567a
 - text: Hesemann travelled to Rome many times to speak with Vatican insiders
   source: The Fatima Secret
   location: ch7:4744-4868
-  quote: I've traveled to Rome many times from my home in Germany, and spoken with
-    Vatican insiders, about the contents of the Third Secret.
   claim_id: 8783052e-e4d2-4454-9a65-1cf286ee0750
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-8783052e-e4d2-4454-9a65-1cf286ee0750
@@ -474,9 +387,6 @@ references:
     Pius XII to John Paul II
   source: The Fatima Secret
   location: ch5:5613-5803
-  quote: It influenced the secret policy of the Vatican, the smallest but most influential
-    state on earth, from Pope Pius XII to John Paul II, who believes it to be his
-    mission to fulfill the Fatima prophecy.
   claim_id: 6a1e3361-222e-4961-8dc9-202b6947bce0
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6a1e3361-222e-4961-8dc9-202b6947bce0
@@ -484,22 +394,18 @@ references:
     policies
   source: The Fatima Secret
   location: ch7:5471-5604
-  quote: Fatima had a deep impact on the secret policies of the Vatican, which is
-    the smallest state, yet the most influential superpower, on earth.
   claim_id: 5fac85f4-0a08-4eeb-a1d7-c0c14ab0ba18
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-5fac85f4-0a08-4eeb-a1d7-c0c14ab0ba18
 - text: Corrado Balducci, high-ranking Vatican member for fifty-two years
   source: The Fatima Secret
   location: ch7:7589-7652
-  quote: He has been a high-ranking member of the Vatican for fifty-two years
   claim_id: 6320ab77-06c4-4d08-bc0f-485e31ad8158
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6320ab77-06c4-4d08-bc0f-485e31ad8158
 - text: Balducci worked as an exorcist in the Vatican for Pope Paul VI
   source: The Fatima Secret
   location: ch7:7756-7828
-  quote: For several years he worked as an exorcist in the Vatican for Pope Paul VI.
   claim_id: 2ae3dbcd-56ff-4500-b3bc-315b0efa81cb
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-2ae3dbcd-56ff-4500-b3bc-315b0efa81cb

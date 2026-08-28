@@ -208,7 +208,6 @@ references:
 - text: 'Kennedy died 1963-11-22, ten days after issuing NSAM #271'
   source: Dark Mission
   location: ch10:75490-75523
-  quote: And, ten days later, Kennedy was dead.
   claim_id: fa4f853b-13c5-4014-8bcf-352d1727bbf7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fa4f853b-13c5-4014-8bcf-352d1727bbf7
@@ -216,16 +215,12 @@ references:
     in Cuba
   source: The Fatima Secret
   location: ch17:1173-1339
-  quote: The crisis was set off when President Kennedy announced that the U.S. had
-    discovered and photographed the setting up of Soviet medium-range missiles on
-    the island of Cuba.
   claim_id: a05c997d-c1f0-4da0-8587-0c75532f0ce0
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-a05c997d-c1f0-4da0-8587-0c75532f0ce0
 - text: Kennedy responded by sending US warships to Cuba
   source: The Fatima Secret
   location: ch17:1345-1389
-  quote: Kennedy reacted by sending U.S. warships to Cuba.
   claim_id: a30471e3-76e4-4352-82da-96e36599288e
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-a30471e3-76e4-4352-82da-96e36599288e
@@ -233,17 +228,12 @@ references:
     good
   source: Dark Mission
   location: ch10:76320-76468
-  quote: By late 1963, Kennedy’s personal popularity with the American people had
-    grown stronger, and his chances of re-election in 1964 looked increasingly good.
   claim_id: 57f7e9e8-47ff-442c-9f40-4891fe4ef300
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-57f7e9e8-47ff-442c-9f40-4891fe4ef300
 - text: Kennedy was unpopular in the South but more popular in Texas
   source: Dark Mission
   location: ch10:76474-76676
-  quote: While he was generally unpopular in the South, he was actually more popular
-    in Texas because of Lyndon Johnson, his showdown with Khrushchev over Cuba, and
-    the dollars the space program was bringing to Texas.
   claim_id: a18218e3-c452-47c8-83c1-8281b65721f3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a18218e3-c452-47c8-83c1-8281b65721f3
@@ -251,54 +241,36 @@ references:
     Report
   source: Dark Mission
   location: '3'
-  quote: Just about two weeks later... He took the opportunity of a speech before
-    the American Newspaper Publishers Association at the Waldorf-Astoria hotel in
-    New York City to make the comments cited above.
   claim_id: 2a35851c-630a-4f81-a2e4-47da01d410be
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2a35851c-630a-4f81-a2e4-47da01d410be
 - text: Kennedy said secrecy is repugnant in a free and open society
   source: Dark Mission
   location: ch10:58681-59066
-  quote: “The very word ‘secrecy’ is repugnant in a free and open society; and we
-    are as a people inherently and historically opposed to secret societies, to secret
-    oaths and to secret proceedings. We decided long ago that the dangers of excessive
-    and unwarranted concealment of pertinent facts far outweighed the dangers which
-    are cited to justify it.”—President John F. Kennedy, April 27, 1961
   claim_id: e4b29c33-ad4f-4edc-9898-923482962149
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e4b29c33-ad4f-4edc-9898-923482962149
 - text: Speech warned of 'excessive and unwarranted concealment'
   source: Dark Mission
   location: ch10:61111-61276
-  quote: His opening comments, speaking of “secret societies” and the dangers of “excessive
-    and unwarranted concealment” of things he felt the American people had a right
-    to know
   claim_id: 7dee4931-f1f1-4c74-acc3-127f87b0773e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7dee4931-f1f1-4c74-acc3-127f87b0773e
 - text: 'Hoagland: speech responded to the Brookings Report''s suppression recommendation'
   source: Dark Mission
   location: ch10:60390-60532
-  quote: as if he was responding directly to the calls in the Report for NASA to consider
-    suppression of the discovery of ET artifacts, Kennedy made a speech
   claim_id: 1b3fb756-bcb7-4b1d-8740-ff34f748a73e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1b3fb756-bcb7-4b1d-8740-ff34f748a73e
 - text: 'Hoagland: ''secret societies'' remark referenced the Brookings Report'
   source: Dark Mission
   location: ch10:61353-61436
-  quote: we take it as a direct reference to the recommendations contained in the
-    Brookings Report
   claim_id: 6b8e4bd8-46cc-43f1-8c11-fcc4cab4cdb6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6b8e4bd8-46cc-43f1-8c11-fcc4cab4cdb6
 - text: Joint session speech called for Moon landing before 1970
   source: Dark Mission
   location: ch10:61631-61824
-  quote: Within a little over a month of drawing this important “line in the sand”
-    Kennedy addressed a Joint Session of Congress and issued his ringing call for
-    “landing an American on the Moon” before 1970
   claim_id: 5d8e2610-07d7-4286-acc4-ceb31e51e0d1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5d8e2610-07d7-4286-acc4-ceb31e51e0d1
@@ -306,28 +278,18 @@ references:
     the decade was out'
   source: Dark Mission
   location: ch10:61832-62218
-  quote: “First, I believe that this nation should commit itself to achieving the
-    goal, before this decade is out, of landing a man on the Moon and returning him
-    safely to the earth. No single space project in this period will be more impressive
-    to mankind, or more important for the long-range exploration of space; and none
-    will be so difficult or expensive to accomplish,” he said on May 25, 1961
   claim_id: 76c8ab77-6a44-4f14-8d6c-d21be31b87b2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-76c8ab77-6a44-4f14-8d6c-d21be31b87b2
 - text: Kennedy restructured NASA toward a Moon landing by 1970
   source: Dark Mission
   location: ch12:114445-114629
-  quote: 'When John F. Kennedy took office in 1961, he moved swiftly to replace Glennan
-    and restructure NASA to accomplish one of the major goals of his Presidency: placing
-    a man on the Moon by 1970.'
   claim_id: 179d1da5-f9e1-45e5-96e1-51e2ee33555a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-179d1da5-f9e1-45e5-96e1-51e2ee33555a
 - text: Appointed Webb as NASA Administrator on Johnson's recommendation
   source: Dark Mission
   location: ch12:114635-114753
-  quote: To this end, Kennedy (on the specific recommendation of Vice President Johnson100)
-    appointed James E. Webb as the new Administrator.
   claim_id: 604f0a96-c392-4a4b-90d5-160ac94af008
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-604f0a96-c392-4a4b-90d5-160ac94af008
@@ -335,166 +297,120 @@ references:
     the Vienna summit'
   source: Dark Mission
   location: ch10:63358-63534
-  quote: less than ten days later, he *secretly* proposed to Khrushchev at their Vienna
-    summit that the United States and the Soviet Union merge their space programs
-    to get to the Moon together
   claim_id: 9bbd3707-78ec-45f7-a5e5-105f2428cd13
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9bbd3707-78ec-45f7-a5e5-105f2428cd13
 - text: Khrushchev declined, distrusting Kennedy after the Bay of Pigs
   source: Dark Mission
   location: ch10:63546-63652
-  quote: Khrushchev turned Kennedy down, in part because he didn’t trust the young
-    President after the Bay of Pigs fiasco
   claim_id: a7856bfd-df9a-4a0a-8eaf-72246a9da24b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a7856bfd-df9a-4a0a-8eaf-72246a9da24b
 - text: Khrushchev feared the US would learn Soviet secrets
   source: Dark Mission
   location: ch10:63664-63823
-  quote: also because he feared that America might learn too many useful technological
-    secrets from the Russians (who were, clearly, still ahead in “heavy lift” launch
-    vehicles
   claim_id: 458fdc4e-a435-4c8d-b813-8a6b2905142b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-458fdc4e-a435-4c8d-b813-8a6b2905142b
 - text: Kennedy met Dobrynin, secretly renewed the merger offer, August 1963
   source: Dark Mission
   location: ch10:66220-66334
-  quote: In August 1963, he met with Soviet Ambassador Dobrinyin in the Oval Office
-    and once again (secretly) extended the offer.
   claim_id: c8799f68-904e-4f63-920e-48a35b031a94
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c8799f68-904e-4f63-920e-48a35b031a94
 - text: Khrushchev considered the offer more seriously but rejected it
   source: Dark Mission
   location: ch10:66341-66417
-  quote: This time, Khrushchev considered it more seriously, but ultimately rejected
-    it.
   claim_id: b783198b-491d-4b93-9d15-60430a663968
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b783198b-491d-4b93-9d15-60430a663968
 - text: Kennedy met James Webb on 1963-09-18
   source: Dark Mission
   location: ch10:66421-66486
-  quote: On September 18, 1963, Kennedy then met with NASA Director James Webb.
   claim_id: 5a3e2bb5-025d-4b9e-9c59-2502a83f6e0c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5a3e2bb5-025d-4b9e-9c59-2502a83f6e0c
 - text: 'NASA history: Kennedy told Webb he was considering Soviet cooperation'
   source: Dark Mission
   location: ch10:66635-66789
-  quote: Kennedy told him that he was thinking of pursuing the topic of cooperation
-    with the Soviets as part of a broader effort to bring the two countries closer
-    together.
   claim_id: 1ad430b8-b2be-4057-9bb5-5bac538cd697
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1ad430b8-b2be-4057-9bb5-5bac538cd697
 - text: Webb unaware of Kennedy's prior private offers to Khrushchev
   source: Dark Mission
   location: ch10:66800-66928
-  quote: Webb would have been unaware of Kennedy’s previous two offers to Khrushchev,
-    as they were made in private talks with the Soviet premier
   claim_id: 3b0a8b5d-7357-451a-b013-1e49eb9aedfd
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3b0a8b5d-7357-451a-b013-1e49eb9aedfd
 - text: Kennedy asked Webb if he could prevent being undercut in NASA
   source: Dark Mission
   location: ch10:66938-67031
-  quote: He asked Webb, ‘Are you sufficiently in control to prevent my being undercut
-    in NASA if I do that?’
   claim_id: 60abbf33-ebf8-4053-9d52-276507744a25
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-60abbf33-ebf8-4053-9d52-276507744a25
 - text: Webb recalled Kennedy had decided to pursue cooperation
   source: Dark Mission
   location: ch10:67038-67181
-  quote: As Webb remembered that meeting, ‘So in a sense he didn’t ask me *if* he
-    should do it; he told me he thought he should do it and wanted to do it…’
   claim_id: 297f8ae2-cf4b-46a1-9b92-db3b16280a06
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-297f8ae2-cf4b-46a1-9b92-db3b16280a06
 - text: Webb told Kennedy he could keep it under control
   source: Dark Mission
   location: ch10:67311-67367
-  quote: Webb told the president that he could keep things under control.
   claim_id: b6eba5f7-8ffc-4aa5-af1f-d10eb591b76c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b6eba5f7-8ffc-4aa5-af1f-d10eb591b76c
 - text: Two days later Kennedy repeated the offer at the UN
   source: Dark Mission
   location: ch10:67726-67906
-  quote: Kennedy then surprised the entire world when only two days later he went
-    before the United Nations General Assembly and startlingly repeated his offer
-    of cooperation, this time in public
   claim_id: 077a504a-1c7e-4419-af7b-2373e6f0238f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-077a504a-1c7e-4419-af7b-2373e6f0238f
 - text: Kennedy proposed a joint US-Soviet Moon expedition to the UN
   source: Dark Mission
   location: ch10:68132-68194
-  quote: I include among these possibilities a joint expedition to the Moon.
   claim_id: 32a3c5c1-6957-471a-8bcd-cf0afc131b04
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-32a3c5c1-6957-471a-8bcd-cf0afc131b04
 - text: NASA insiders doubted the technical integration was possible
   source: Dark Mission
   location: ch10:69102-69229
-  quote: NASA insiders—as the President had feared—immediately expressed public doubts
-    that the technical integration problems could be overcome
   claim_id: 86a47fb7-8aec-4bef-8539-860496c09ab9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-86a47fb7-8aec-4bef-8539-860496c09ab9
 - text: Senator Goldwater objected to the proposal
   source: Dark Mission
   location: ch10:69710-69804
-  quote: One of these objections came from a predictable source—Republican Senator
-    Barry Goldwater of Arizona.
   claim_id: 70bd7fbb-1532-4e99-b444-247c1b392306
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-70bd7fbb-1532-4e99-b444-247c1b392306
 - text: Congressman Albert Thomas made a strong protest
   source: Dark Mission
   location: ch10:69843-69985
-  quote: another, even stronger protest came from a close political *ally* of the
-    President and Vice President—Democratic Congressman Albert Thomas of Texas.
   claim_id: 76e30960-42bd-4cfd-9c25-59377eb6de43
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-76e30960-42bd-4cfd-9c25-59377eb6de43
 - text: Kennedy wrote to Thomas reassuring him the separate programme would continue
   source: Dark Mission
   location: ch10:70050-70264
-  quote: Kennedy personally wrote him on September 23, 1963 (just three days after
-    his UN speech) to reassure him that a separate, American space program would continue,
-    *regardless* of the outcome of negotiations with the Soviets
   claim_id: 71a50f11-8e2e-4990-a3c2-e05a4d318440
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-71a50f11-8e2e-4990-a3c2-e05a4d318440
 - text: 'Kennedy: cooperation was reason to move ahead, not slacken'
   source: Dark Mission
   location: ch10:70274-70556
-  quote: “In my judgment, therefore, our renewed and extended purpose of cooperation,
-    so far from offering any excuse for slackening or weakness in our space effort,
-    is one reason the more for moving ahead with the great program to which we have
-    been committed as a country for more than two years.”
   claim_id: 0a796b7b-e4b5-455d-b1bf-681795efa7f4
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0a796b7b-e4b5-455d-b1bf-681795efa7f4
 - text: Lack of public support scuttled the proposal, Kennedy backed away
   source: Dark Mission
   location: ch10:70567-70742
-  quote: Within a couple of weeks, the lack of public support, even within the U.S.,
-    seemed to have scuttled the idea permanently, and Kennedy began to publicly back
-    away from his own proposal.
   claim_id: bf94f87a-6072-4548-ab9a-e2d619b86892
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bf94f87a-6072-4548-ab9a-e2d619b86892
 - text: 'Kennedy issued NSAM #271 on 1963-11-12'
   source: Dark Mission
   location: ch10:70802-70980
-  quote: 'On November 12, 1963, Kennedy was suddenly reinvigorated about it and issued
-    National Security Action Memorandum #271. The memo, titled “Cooperation With the
-    USSR on Outer Space Matters,”'
   claim_id: f922a6ec-7ebd-4fba-9eda-84bdd7ed6c77
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f922a6ec-7ebd-4fba-9eda-84bdd7ed6c77
@@ -502,10 +418,6 @@ references:
     on ''unknowns'''
   source: Dark Mission
   location: ch10:72028-72320
-  quote: He informs the CIA director that he has instructed Webb to begin the cooperative
-    program with the Soviets (confirming the other, authenticated memo) and that he
-    would then like NASA to be fully briefed on the “unknowns” so that they can presumably
-    help with sharing this information with the Russians.
   claim_id: 2a7b4718-59c4-4c89-8305-04c4911fb755
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2a7b4718-59c4-4c89-8305-04c4911fb755
@@ -513,10 +425,6 @@ references:
     the offer'
   source: Dark Mission
   location: ch10:72903-73207
-  quote: Sergei Khrushchev, in an interview given in 1997 after his presentation at
-    a NASA conference in Washington, D.C. commemorating the fortieth anniversary of
-    Sputnik, confirmed that while initially ignoring Kennedy’s UN offer, his father
-    Nikita changed his mind and decided in early November 1963 to accept it.
   claim_id: d1e4413b-f015-49e5-acc4-85fd123c8c82
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d1e4413b-f015-49e5-acc4-85fd123c8c82
@@ -524,69 +432,48 @@ references:
     programmes'
   source: Dark Mission
   location: ch10:73212-73359
-  quote: “My father decided that maybe he should accept (Kennedy’s) offer, given the
-    state of the space programs of the two countries (in 1963),” Khrushchev said.
   claim_id: 7b8109cb-f66d-424f-abf4-dc75472b2804
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7b8109cb-f66d-424f-abf4-dc75472b2804
 - text: 'Sergei Khrushchev: decision made about a week before the assassination'
   source: Dark Mission
   location: ch10:73367-73595
-  quote: He recalled walking with his father as they discussed the matter, and went
-    on to place the timing of his father’s decision as about “a week” before Kennedy’s
-    assassination in Dallas, which would date it right around November 12-15.
   claim_id: 6a8299a2-fe7e-40e2-94da-315080cda987
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6a8299a2-fe7e-40e2-94da-315080cda987
 - text: Cosmos 21 failed 1963-11-11, one day before Kennedy's directive
   source: Dark Mission
   location: ch10:75004-75182
-  quote: A Mars-bound unmanned spacecraft code-named “Cosmos 21” failed in low Earth
-    orbit exactly *one day* (November 11) before Kennedy’s sudden “Soviet Cooperation
-    Directive” to James Webb.
   claim_id: d30ce198-9686-4564-b67d-7e978b30647d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d30ce198-9686-4564-b67d-7e978b30647d
 - text: Johnson said the previous spring Kennedy might visit Dallas that summer
   source: Dark Mission
   location: ch10:87785-87938
-  quote: The plans for Kennedy to go to Texas had been made the previous spring, when
-    Vice President Lyndon Johnson stated that Kennedy might visit Dallas in the summertime.
   claim_id: 1dbc84b4-6fb5-49a2-80cd-d10e2eeef452
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1dbc84b4-6fb5-49a2-80cd-d10e2eeef452
 - text: Trip centred on testimonial dinner for Thomas, who held NASA's purse strings
   source: Dark Mission
   location: ch10:88057-88232
-  quote: The trip centered around a special testimonial dinner for none other than
-    Congressman Albert Thomas, the man who held the NASA purse strings and who Kennedy,
-    by all accounts, adored.
   claim_id: 635ae115-6e72-4597-ab2d-d4929804ce6e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-635ae115-6e72-4597-ab2d-d4929804ce6e
 - text: Kennedy relieved Thomas had decided to run for re-election
   source: Dark Mission
   location: ch10:88283-88406
-  quote: Kennedy was greatly relieved that he had decided to run for re-election and
-    had avoided having an open seat in Congress to contest.
   claim_id: a9f3cd31-a8b2-4104-ad1f-b6c299355879
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a9f3cd31-a8b2-4104-ad1f-b6c299355879
 - text: Evening of 1963-11-21, Kennedy praised Thomas, called him a good friend
   source: Dark Mission
   location: ch10:88574-88776
-  quote: Kennedy was in a festive mood the evening of the 21st, pointing out Thomas’
-    many contributions to the space program (which he was now about to hand over to
-    the Russians!) and declaring him to be a good friend
   claim_id: 7dba8bcc-c18f-4710-bb6e-8be50f543d2f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7dba8bcc-c18f-4710-bb6e-8be50f543d2f
 - text: Kennedy joked about the 'heaviest payroll'
   source: Dark Mission
   location: ch10:88797-89027
-  quote: “Next month, when the U.S. fires the world’s biggest booster, lifting the
-    heaviest payroll into... that is, payload...” Here the President paused a second
-    and grinned. “It will be the heaviest payroll, too,” he quipped. The crowd roared.
   claim_id: ef6da689-8e22-4c81-80fa-79425040406c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ef6da689-8e22-4c81-80fa-79425040406c
@@ -594,9 +481,6 @@ references:
     Thomas
   source: Dark Mission
   location: ch10:89037-89220
-  quote: “The firing of that shot will give us the lead in space,” the President resumed
-    in a serious vein. “And our leadership in space could not have been achieved without
-    Congressman Albert Thomas.
   claim_id: 9b7d679e-bcfe-4fd9-9fd3-944fbd8ef4b9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9b7d679e-bcfe-4fd9-9fd3-944fbd8ef4b9
@@ -604,25 +488,18 @@ references:
     see visions
   source: Dark Mission
   location: ch10:89228-89427
-  quote: Your old men shall dream dreams, your young men will see visions, the Bible
-    tells us. Where there is no vision, the people perish. Albert Thomas is old enough
-    to dream dreams and young enough to see visions...
   claim_id: 427a3388-545b-4725-8645-70874cdb82f7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-427a3388-545b-4725-8645-70874cdb82f7
 - text: Kennedy departed; Thomas and Johnson flew with him to Dallas the next morning
   source: Dark Mission
   location: ch10:89442-89596
-  quote: Kennedy departed after his speech, followed soon by Thomas and Vice President
-    Johnson. They both accompanied him to Dallas the next morning on Air Force One.
   claim_id: 7789f6a2-b264-4a77-b3f2-4160f9f55948
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7789f6a2-b264-4a77-b3f2-4160f9f55948
 - text: Kennedy rushed to Parkland Memorial Hospital, doctors tried in vain
   source: Dark Mission
   location: ch10:89602-89736
-  quote: After the shooting, Kennedy was rushed to Parkland Memorial Hospital, but
-    was obviously already dead. Doctors tried in vain to revive him
   claim_id: 65d044eb-4610-4d85-b1f4-babaa89e3268
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-65d044eb-4610-4d85-b1f4-babaa89e3268
@@ -630,33 +507,24 @@ references:
     dead'
   source: Dark Mission
   location: ch10:89745-89866
-  quote: the *Houston Chronicle* noted that Congressman Thomas waited outside the
-    emergency ward until word came that Kennedy was dead.
   claim_id: 1d8a7c6b-a8bf-476e-be83-fed39efce46f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1d8a7c6b-a8bf-476e-be83-fed39efce46f
 - text: Johnson took the oath aboard Air Force One that evening
   source: Dark Mission
   location: ch10:89940-90031
-  quote: Later that evening, once Kennedy’s body was aboard Air Force One, Johnson
-    took the oath of office.
   claim_id: 5b50151c-8fc2-40c1-b365-fe058867b208
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5b50151c-8fc2-40c1-b365-fe058867b208
 - text: Johnson made a show of continuing Kennedy's Soviet cooperation plans
   source: Dark Mission
   location: ch10:90910-91020
-  quote: Over the next few weeks, Johnson made a show of arguing to continue Kennedy’s
-    plans for Soviet cooperation in space.
   claim_id: e92f1c9c-e005-4130-8c2a-3a448d5bb8f3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e92f1c9c-e005-4130-8c2a-3a448d5bb8f3
 - text: 'Hoagland: Johnson had enormous political capital after the assassination'
   source: Dark Mission
   location: ch10:91620-91783
-  quote: Keep in mind that Johnson had enormous political capital to continue any
-    initiative of the martyred Kennedy that he so chose in those days and weeks following
-    the assassination.
   claim_id: ed0f1cb9-3446-4c39-ac4c-ee9953a77ffb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ed0f1cb9-3446-4c39-ac4c-ee9953a77ffb
@@ -664,10 +532,6 @@ references:
     plot'
   source: Dark Mission
   location: ch10:93449-93760
-  quote: The tape contains a remarkable “confirmation” in light of the completely
-    independent evidence presented here that, above the CIA operatives (and contractors)
-    who actually planned and carried out the plot to kill Kennedy, including E. Howard
-    Hunt himself, they were all directed by one “top man.” Lyndon Baines Johnson.
   claim_id: 0f5f3fca-d1c4-4c7c-973b-1d3c5e3f441e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0f5f3fca-d1c4-4c7c-973b-1d3c5e3f441e
@@ -675,19 +539,12 @@ references:
     discoveries'
   source: Dark Mission
   location: ch10:93823-94108
-  quote: If men like Johnson and Thomas were willing to go so far as to orchestrate
-    the murder of the President in order to protect the United States’ own, singular
-    (and singularly expensive) space program, then they must have expected to find
-    wonders beyond imagining over the course of their voyages.
   claim_id: 2cc9fef4-6f26-4fc3-a9e9-d360dca22dbf
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2cc9fef4-6f26-4fc3-a9e9-d360dca22dbf
 - text: 'Hoagland: the merger proposal may have been the ''last straw'''
   source: Dark Mission
   location: ch10:59778-59948
-  quote: Not only was this idea a radical one for its day given the deep suspicions
-    both countries held of each other, but it may have been the last straw that ultimately
-    got him killed.
   claim_id: 29e08c79-9d7c-4b68-a7c3-49fafd2ef6ee
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-29e08c79-9d7c-4b68-a7c3-49fafd2ef6ee
@@ -695,17 +552,12 @@ references:
     led to assassination'
   source: Dark Mission
   location: ch20:49269-49365
-  quote: Did those protracted, behind-the-scenes negotiations with Nikita Khrushchev
-    in the end, get him killed?
   claim_id: da91d716-d415-43ec-814e-275af9c3affe
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-da91d716-d415-43ec-814e-275af9c3affe
 - text: 'Hoagland: whether Apollo was Kennedy''s own ''deep black mission'''
   source: Dark Mission
   location: ch20:48820-49043
-  quote: If this *was* Apollo’s ultimate “deep black mission”—a Mission that John
-    F. Kennedy was somehow convinced to undertake at the beginnings of his Administration—is
-    this also, as we’ve asked earlier, the *real* reason for his murder?
   claim_id: d6d4f9b8-86ab-4d45-bac9-37f1579cc4f7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d6d4f9b8-86ab-4d45-bac9-37f1579cc4f7
@@ -713,9 +565,6 @@ references:
     criticised'
   source: Dark Mission
   location: ch11:73761-73950
-  quote: a date which also has bizarre “significance” far beyond that moment and event
-    for the very “secret societies” that Kennedy publicly decried at his American
-    Newspaper Publishers Association speech
   claim_id: 2758772b-5daa-4f49-9688-dd8a51a2a38e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2758772b-5daa-4f49-9688-dd8a51a2a38e
@@ -723,9 +572,6 @@ references:
     was accepted
   source: Dark Mission
   location: ch12:137842-138003
-  quote: No wonder Kennedy was murdered, immediately after his repeated offer to share
-    this priceless "Nazi heritage" with their worst enemies, the Russians, was finally
-    accepted.
   claim_id: 1dc5e0d9-78da-4b70-98ba-29c81fb0103f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1dc5e0d9-78da-4b70-98ba-29c81fb0103f
@@ -855,26 +701,18 @@ references:
 - text: 'Robert Monroe: formed the conviction Kennedy had a psychic bodyguard'
   source: Journeys Out of the Body
   location: ch20:18963-19159
-  quote: Lying in bed, thinking it over, I first realized that Eisenhower was no longer
-    President, of course. I also suddenly had the very deep conviction that Kennedy
-    had a psychic bodyguard (or rather mindguard).
   claim_id: 9797cb4e-c278-47e4-97da-d043f9cade2d
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-9797cb4e-c278-47e4-97da-d043f9cade2d
 - text: 'Robert Monroe: found a newspaper reporting Kennedy''s arrival in Hyannis'
   source: Journeys Out of the Body
   location: ch20:19242-19427
-  quote: I got up and went downstairs, found the local paper, and on the front page
-    was the story that Kennedy was arriving in Hyannis that afternoon. (I had not
-    seen a paper for the past two days.)
   claim_id: c3afbac9-4e72-460a-a043-5f17d235876b
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-c3afbac9-4e72-460a-a043-5f17d235876b
 - text: 'Elizondo: believes Kennedy was among presidents briefed on UAP'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:16189-16330
-  quote: 'As far as I know, the following US presidents were briefed in some way:
-    Truman, Eisenhower, JFK, LBJ, Carter, Reagan, George H. W. Bush, and Trump.'
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
@@ -882,17 +720,12 @@ references:
     Third Secret'
   source: The Fatima Secret
   location: ch17:790-1005
-  quote: Pope Paul permitted not only Kennedy (who was a Catholic), but also Khrushchev,
-    to look at portions of the third message of Fatima, which the Mother of God revealed
-    to the young Portuguese girl Lúcia on October 13, 1917.
   claim_id: f886db08-5655-4323-bee2-a1c7a66c419f
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f886db08-5655-4323-bee2-a1c7a66c419f
 - text: Bertone's research found no evidence supporting the claim
   source: The Fatima Secret
   location: ch24:26658-26801
-  quote: Archbishop Bertone's research has not revealed any evidence of a Vatican
-    leak, or for Emrich's claim that the Secret was shown to Krushchev or Kennedy.
   claim_id: be2754c1-18b7-4a2f-baf9-06b08b2e7714
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-be2754c1-18b7-4a2f-baf9-06b08b2e7714

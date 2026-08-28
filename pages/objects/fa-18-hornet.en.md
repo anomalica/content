@@ -158,8 +158,6 @@ references:
     aircraft.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:3008-3088
-  quote: an ATFLIR camera on an F/A-18 Hornet detects the heat signatures of a combatant
-    aircraft
   claim_id: 85f16f6e-52b5-480d-a3de-785caf1e3b07
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-85f16f6e-52b5-480d-a3de-785caf1e3b07

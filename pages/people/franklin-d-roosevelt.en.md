@@ -35,15 +35,12 @@ references:
 - text: Vannevar Bush was Roosevelt's scientific adviser
   source: Dark Mission
   location: ch12:66719-66764
-  quote: He was also President Roosevelt's scientific advisor
   claim_id: 251d055c-d679-4cb7-87dc-adeb3b6ae95c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-251d055c-d679-4cb7-87dc-adeb3b6ae95c
 - text: Einstein's letter to Roosevelt set the US on the path to the atomic bomb
   source: Communion
   location: ch15:3807-3961
-  quote: Within the decade, he would write President Roosevelt the letter that started
-    the United States on the road to splitting the atom and creating the atomic bomb.
   claim_id: 27604bc0-92f9-4608-9fde-c4662dbf79a1
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-27604bc0-92f9-4608-9fde-c4662dbf79a1
@@ -51,10 +48,6 @@ references:
     politics
   source: Dark Mission
   location: ch6:17206-17479
-  quote: This led me to conclude that the mere existence of this extraordinary NASA
-    image had to be part of a carefully-calculated strategy by "someone" waiting for
-    official proof of architectural constructions on the planet Mars. As FDR once
-    said, "In politics, nothing occurs 'by accident.'"
   claim_id: 136e268d-9a0f-4890-9b8e-b3f4c95ce160
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-136e268d-9a0f-4890-9b8e-b3f4c95ce160
@@ -62,9 +55,6 @@ references:
     and a few officials'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:29827-30009
-  quote: During the war, the activities of the LCS were known only to Churchill, Roosevelt,
-    Eisenhower, and a handful of high officials. They bypassed everything else, including
-    Congress and Parliament.
   claim_id: b7942d85-da22-421a-9099-baa6f053942e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-b7942d85-da22-421a-9099-baa6f053942e
@@ -72,29 +62,18 @@ references:
     Roosevelt and Stalin
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:18891-19089
-  quote: 'The title of the book comes from a remark made by Churchill at the Teheran
-    Conference to Roosevelt and Stalin: "In wartime, truth is so precious that she
-    should always be attended by a bodyguard of lies."'
   claim_id: 50a935ff-e2a6-42f7-a1b0-746d1e2ac42b
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-50a935ff-e2a6-42f7-a1b0-746d1e2ac42b
 - text: Bush's letter to the JIOA over the recruitment of German rocket scientists
   source: Dark Mission
   location: ch12:67640-68040
-  quote: when certain Nazi rocket scientists were deemed as "too unimportant" to be
-    brought to the U.S. by a military panel, Bush intervened with a scathing letter
-    to the Joint Intelligence Objectives Agency (JIOA) in which he derided the military
-    for not knowing "even elementary information on Germans whose names are as well
-    known in scientific circles as Churchill, Stalin and Roosevelt are in political
-    circles."
   claim_id: 6b5bc520-6122-4f98-b77a-d8eb5416fcc0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6b5bc520-6122-4f98-b77a-d8eb5416fcc0
 - text: Pelley's opposition to Roosevelt and his 1942 internment for sedition
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:11524-11610
-  quote: His opposition to Roosevelt increased until his eight-year internment for
-    sedition in 1942.
   claim_id: 9650d5bf-db39-4894-bbe1-c89ea6a74345
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9650d5bf-db39-4894-bbe1-c89ea6a74345

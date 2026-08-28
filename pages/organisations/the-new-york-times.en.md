@@ -78,8 +78,6 @@ references:
 - text: Front-page story revealed AATIP's existence and Luis Elizondo's role in it
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:22376-22482
-  quote: Their front-page story revealed the existence of AATIP—that is, a secret
-    program investigating UAP—and my role.
   claim_id: 190f7e48-b140-4b1d-9cb3-ec34249e52d7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-190f7e48-b140-4b1d-9cb3-ec34249e52d7
@@ -87,16 +85,12 @@ references:
     and the Washington Post
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:21978-22122
-  quote: The news exploded that afternoon. The New York Times broke the news online
-    and was followed seconds later by Politico, then the Washington Post.
   claim_id: 2d5d0286-272e-4904-b5dc-914d633d3389
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2d5d0286-272e-4904-b5dc-914d633d3389
 - text: The Times published two AATIP articles on the Sunday print cover, 2017-12-17
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:22190-22285
-  quote: The Times stories appeared the following day on the cover of the print edition
-    of the Sunday paper.
   claim_id: 63b55542-1720-44c0-bfb0-516127d24bf5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-63b55542-1720-44c0-bfb0-516127d24bf5
@@ -136,9 +130,6 @@ references:
     Times, Politico, and Washington Post coverage
   source: In Plain Sight
   location: ch21:20924-21123
-  quote: The first two were posted in mid-December 2017, timed for impact when Politico,
-    The Washington Post and The New York Times broke the story of the Defence Department's
-    AATIP investigations into UAPs.
   claim_id: 9898cf75-2714-46d8-bb85-c5020299e488
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9898cf75-2714-46d8-bb85-c5020299e488
@@ -158,25 +149,18 @@ references:
     was running the story
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:19049-19205
-  quote: “Sir, the *New York Times* is running a front-page story in the Sunday paper
-    saying that we have a secret program investigating UAP. They are asking why Lue
-    resigned.”
   claim_id: 030b95ac-99f2-4d21-ac06-d32915135efd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-030b95ac-99f2-4d21-ac06-d32915135efd
 - text: Times reporter Helene Cooper phoned Elizondo about the story
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:19873-19975
-  quote: Then one of her colleagues, the reporter Helene Cooper, phoned and confided
-    that she had met with the now-r
   claim_id: 4e746c0c-4a1e-44c6-b996-49b40caf8982
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4e746c0c-4a1e-44c6-b996-49b40caf8982
 - text: Elizondo felt the Times' Tic Tac disclaimer was too cautious
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:24363-24450
-  quote: My colleagues and I thought that was absurd. The headline should have been
-    "We are not alone!"
   claim_id: 29e5dfad-895b-4af8-b606-acc472458c00
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-29e5dfad-895b-4af8-b606-acc472458c00
@@ -217,9 +201,6 @@ references:
     UAP samples
   source: In Plain Sight
   location: ch24:18922-19128
-  quote: He then surfaced in July 2020 in an interview with The New York Times (an
-    interview apparently conducted before he joined Aerospace Corporation), where
-    he admitted that the US held recovered physical UAP samples.
   claim_id: d7f3e3b7-df38-4b33-bf02-c538ee95a848
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d7f3e3b7-df38-4b33-bf02-c538ee95a848
@@ -227,20 +208,12 @@ references:
     vehicle retrievals
   source: In Plain Sight
   location: ch24:19276-19466
-  quote: He also told the Times that he had given a classified briefing to a Defence
-    Department agency three months earlier in March 2020 about retrievals from 'off-world
-    vehicles not made on this earth'.
   claim_id: ef5698fd-b32a-42e9-83e7-1beeb833c777
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ef5698fd-b32a-42e9-83e7-1beeb833c777
 - text: Kean said UFO crash-retrieval stories are hard to get published in the Times
   source: In Plain Sight
   location: ch28:25127-25471
-  quote: It's probably been the most difficult . . . topic to get out into The Times
-    because for all the reasons you could imagine, because of its controversy and
-    because the information about it is classified, and there's only so much that
-    we can bring forward and that makes it particularly difficult to report on that
-    topic, as well as it being so sensational.
   claim_id: 6e2714e6-6252-45cd-a8ab-c22573a25399
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6e2714e6-6252-45cd-a8ab-c22573a25399
@@ -248,10 +221,6 @@ references:
     recent cases had earthbound explanations
   source: In Plain Sight
   location: ch29:25378-25653
-  quote: The *Times* stated that, 'of the cases that have been resolved, most have
-    proved to be either errant junk in the sky, like balloons, or surveillance activity
-    … Incidents recorded in the past year for which more data has been collected,
-    have turned out to have ordinary earthbound explanations.'
   claim_id: 957886fb-bf5d-4522-9364-05f0f301e043
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-957886fb-bf5d-4522-9364-05f0f301e043
@@ -259,9 +228,6 @@ references:
     collection methods
   source: In Plain Sight
   location: ch29:25668-25886
-  quote: Readers of the *Times* were told they were not allowed to see this intelligence
-    report; we had to take the Pentagon's word for this because it was necessary to
-    protect intelligence collection methods.
   claim_id: c53e86ab-90cb-4970-a3de-f050187c2c6a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c53e86ab-90cb-4970-a3de-f050187c2c6a
@@ -269,10 +235,6 @@ references:
     Allied aircraft
   source: In Plain Sight
   location: ch7:110-372
-  quote: ‘The Germans have thrown something new into the night skies over Germany
-    – the weird, mysterious “foo-fighter” balls of fire that race alongside the wings
-    of American Beaufighters flying intruder missions over the Reich,’ The New York
-    Times reported in January 1945.
   claim_id: bbe5c92a-94cc-42d6-816d-4d5f94205717
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bbe5c92a-94cc-42d6-816d-4d5f94205717
@@ -280,37 +242,24 @@ references:
     1990
   source: In Plain Sight
   location: ch15:16025-16262
-  quote: It was John Alexander who initiated what New York Times reporter Howard Blum
-    revealed in 1990 to be a secret UFO Working Group at the Pentagon, evaluating
-    UAP sightings and investigating alleged unexplained objects entering Earth from
-    orbit.
   claim_id: 96de708a-efb2-42ef-817a-7a9401820779
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-96de708a-efb2-42ef-817a-7a9401820779
 - text: Ralph Blumenthal was a contributor and former staff reporter for the Times
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:16341-16466
-  quote: she had immediately contacted Blumenthal, a contributor and former staff
-    reporter for the *New York Times,* to see if he was interested.
   claim_id: 4183a186-c537-4941-9bdb-5b44c1e5aa80
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4183a186-c537-4941-9bdb-5b44c1e5aa80
 - text: Daniel Sheehan acted for the Times during the 1971 Pentagon Papers furore
   source: In Plain Sight
   location: ch11:16240-16335
-  quote: acting for *The New York Times* during the furore over its Vietnam War Pentagon
-    Papers leak in 1971
   claim_id: e63ecc2f-2724-4d25-b32a-1c80f7541735
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e63ecc2f-2724-4d25-b32a-1c80f7541735
 - text: Kean's brother's only online trace was a three-sentence Times obituary
   source: Surviving Death
   location: ch23:17321-17641
-  quote: I can confirm that all that was available on the Internet about my brother
-    was a three-sentence *New York Times* obituary. It is so short that even if Laura
-    had attempted a search, she would not have found it. When you put “Leslie Kean
-    death,” “Kean obituary,” or “Leslie Kean brother death” in Google, it does not
-    come up.
   claim_id: 589a312f-c46e-4893-9281-4cbb0a264eab
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-589a312f-c46e-4893-9281-4cbb0a264eab
@@ -318,8 +267,6 @@ references:
     he died
   source: Surviving Death
   location: ch41:32046-32190
-  quote: sister of Steve Jobs reported that just before he died / Mona Simpson, "A
-    Sister's Eulogy for Steve Jobs," New York Times, October 30, 2011 (op-ed).
   claim_id: 35d0110a-8d38-4581-bc80-9acfbddd9746
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-35d0110a-8d38-4581-bc80-9acfbddd9746
@@ -337,10 +284,6 @@ references:
     Who
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:3450-3718
-  quote: I checked the lists of trustees, directors, and advisers of the major UFO
-    groups. Some aspects of the mystery became a little clearer when their names were
-    checked against the computer data base of the New York Times, or in such commonly
-    available references as Who's Who.
   claim_id: 979aa4af-cb2c-4316-a344-7a15caca6acc
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-979aa4af-cb2c-4316-a344-7a15caca6acc
@@ -348,10 +291,6 @@ references:
     man at JPL, July 1969
   source: Dark Mission
   location: ch7:28796-29148
-  quote: There, in an office where space correspondents, like Walter Sullivan (New
-    York Times), Frank Pearlman (San Francisco Chronicle), Jules Bergmann (ABC), and
-    Bill Stout (our local guy from CBS) hung out... a handful of reporters were now
-    being introduced, again by Bristow, to "great coat guy."
   claim_id: 55e6e833-2a8f-416d-bebc-61d8ed70bc95
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-55e6e833-2a8f-416d-bebc-61d8ed70bc95

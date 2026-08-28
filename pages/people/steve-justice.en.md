@@ -100,9 +100,6 @@ references:
     DeLonge's advisory board
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:13378-13547
-  quote: DeLonge’s advisory board included Steve Justice, a highly respected aerospace
-    engineer who’d spent thirty-one years working for Lockheed Martin’s highly secretive
-    Skunk Works
   claim_id: e95a488f-bd34-4b22-b1c9-9af90cd1a10b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e95a488f-bd34-4b22-b1c9-9af90cd1a10b
@@ -110,16 +107,12 @@ references:
     Works division
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch19:5009-5126
-  quote: my friend Steve Justice, former director of Advanced Systems Development
-    at Lockheed Martin’s mysterious Skunk Works division
   claim_id: 78d203a4-fae9-4bc7-bb3b-baa980e13cf4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-78d203a4-fae9-4bc7-bb3b-baa980e13cf4
 - text: Headed TTSA's aerospace division at its 2017 launch
   source: In Plain Sight
   location: ch21:1170-1272
-  quote: Another team member on stage, heading TTSA's aerospace division, was Steve
-    Justice
   claim_id: 21d4b51c-b61c-4c75-849b-95ef1d37daa7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-21d4b51c-b61c-4c75-849b-95ef1d37daa7
@@ -127,16 +120,12 @@ references:
     October 2017 launch
   source: In Plain Sight
   location: ch21:1281-1376
-  quote: who just a month earlier had finished as director of advanced systems at
-    Lockheed Martin Skunk Works
   claim_id: 6f60ad98-6c37-4619-ada2-cd8d385705f4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6f60ad98-6c37-4619-ada2-cd8d385705f4
 - text: Was Chief Operating Officer of To The Stars Academy of Arts & Sciences
   source: In Plain Sight
   location: ch21:9242-9352
-  quote: Steve Justice, Chief Operating Officer of TTSA and former head of Advanced
-    Systems at Lockheed Martin's Skunk Works
   claim_id: d8bee6c2-0d08-48f2-84be-b607c8ced809
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d8bee6c2-0d08-48f2-84be-b607c8ced809
@@ -154,10 +143,6 @@ references:
 - text: Stated TTSA was working on a revolutionary Advanced Electromagnetic Vehicle
   source: In Plain Sight
   location: ch28:6936-7213
-  quote: At TTSA's October 2017 launch, Steve Justice, the then Skunk Works Lockheed
-    Martin Program Director for Advanced Systems, stated that TTSA was working on
-    a revolutionary Advanced Electromagnetic Vehicle that could 'dramatically reduce
-    the current travel limits of distance and time.
   claim_id: f36be07b-772b-495e-bf18-61a2d52681bb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f36be07b-772b-495e-bf18-61a2d52681bb
@@ -165,8 +150,6 @@ references:
     metric
   source: In Plain Sight
   location: ch28:7219-7344
-  quote: It mimics the capabilities observed in Unidentified Aerial Phenomenon by
-    employing a drive system that alters the space-time metric'.
   claim_id: 5709d803-d1ad-43f8-89c6-fb29dafc18ad
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5709d803-d1ad-43f8-89c6-fb29dafc18ad
@@ -174,10 +157,6 @@ references:
     company has multiple metamaterials samples
   source: In Plain Sight
   location: ch24:6403-6686
-  quote: Season one of TTSA's Unidentified documentary series on the History Channel
-    has a sequence where Luis Elizondo tells the then Director of the company's aerospace
-    division, Steve Justice, that they now have multiple metamaterials samples from
-    numerous sources, including government sources.
   claim_id: ae288279-4321-4651-ad08-654c6e8ebf02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ae288279-4321-4651-ad08-654c6e8ebf02
@@ -185,10 +164,6 @@ references:
     and composition
   source: In Plain Sight
   location: ch23:18158-18459
-  quote: 'Another hint came in a tweeted TTSA announcement in 2019, when it posted
-    an image of the strange bent lump of layered metal from the Art''s Parts samples
-    saying: ''"The structure & composition of these materials are not from any known
-    existing military or commercial application," said [then] COO Steve Justice.'
   claim_id: 0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
@@ -196,25 +171,18 @@ references:
     of the materials' properties
   source: In Plain Sight
   location: ch23:18469-18588
-  quote: '"We are focusing on verifiable facts and working to develop independent
-    scientific proof of the materials'' properties & attributes".'
   claim_id: b4d2ca8f-3957-444d-b666-f57a1be3c4e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b4d2ca8f-3957-444d-b666-f57a1be3c4e6
 - text: Said the expectations placed on him over the metamaterials work were huge
   source: In Plain Sight
   location: ch24:7121-7270
-  quote: '''The expectations were huge. When the expectations are extremely high,
-    performance has to follow. And so, performing is key to me now,'' Steve Justice
-    admitted.'
   claim_id: 2c9764af-1fb0-432f-a6bc-ef91aa3f3502
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2c9764af-1fb0-432f-a6bc-ef91aa3f3502
 - text: Left the TTSA project
   source: In Plain Sight
   location: ch24:7444-7537
-  quote: the fact that Steve Justice has walked away from the project suggests something
-    came off the rails
   claim_id: a6ad6337-0efa-4c0b-b2a3-21c02cbc0a16
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a6ad6337-0efa-4c0b-b2a3-21c02cbc0a16
@@ -222,17 +190,12 @@ references:
     Vehicle project was shut down
   source: In Plain Sight
   location: ch28:7517-7612
-  quote: Does Steve Justice's departure from TTSA mean that this revolutionary vehicle
-    project was shut down?
   claim_id: 361f3868-e1a1-4004-bcc5-9b28cf83901d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-361f3868-e1a1-4004-bcc5-9b28cf83901d
 - text: Speculation mounted that Mellon, Elizondo, and Justice were leaving TTSA
   source: In Plain Sight
   location: ch21:23469-23624
-  quote: Speculation had mounted for months that former Defence Department mandarin
-    Christopher Mellon and key figures Luis Elizondo and Steve Justice were leaving
-    TTSA.
   claim_id: 4b297bdc-12ce-4fc8-8fbc-c135321c4275
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b297bdc-12ce-4fc8-8fbc-c135321c4275
@@ -240,15 +203,12 @@ references:
     Justice had departed
   source: In Plain Sight
   location: ch21:23699-23837
-  quote: it took Tom DeLonge several more months to formally admit to the Securities
-    Exchange Commission not only their departure
   claim_id: bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
 - text: Mellon, Puthoff, and Justice moved on from TTSA after Elizondo did
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:12930-12984
-  quote: Chris, Hal, and Steve Justice also soon moved on from TTSA.
   claim_id: 322abff2-064d-4715-854d-a05b5bdb15ea
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-322abff2-064d-4715-854d-a05b5bdb15ea
@@ -285,8 +245,6 @@ references:
     and the US is far behind
   source: In Plain Sight
   location: ch22:21217-21303
-  quote: My greatest fear is that an adversary did figure it out and we are just way,
-    way, way behind.
   claim_id: bf86b2a2-94a5-4368-a500-7a138736fc72
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bf86b2a2-94a5-4368-a500-7a138736fc72
@@ -294,8 +252,6 @@ references:
     seen yet
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch19:5150-5234
-  quote: “There is no such thing as impossible. Impossible is just something you haven’t
-    seen yet.”
   claim_id: 068bc415-c79a-4396-ad2c-1541d693edf5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-068bc415-c79a-4396-ad2c-1541d693edf5

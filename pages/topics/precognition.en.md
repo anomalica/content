@@ -177,16 +177,12 @@ references:
     in time and space
   source: Remote Viewing Secrets
   location: ch28:5901-6042
-  quote: 'PRECOGNITION: Producing information about a target prior to that information
-    actually existing in time/space (e.g., describing an event before it actually
-    happens).'
   claim_id: 34a981a7-b793-419f-956b-6ddcf392d378
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-34a981a7-b793-419f-956b-6ddcf392d378
 - text: Precognition defined as awareness of future events before they occur
   source: Surviving Death
   location: ch7:14403-14467
-  quote: Precognition involves an awareness of future events before they happen.
   claim_id: d7c96567-a3bb-446b-8816-ddb63f9b56fe
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d7c96567-a3bb-446b-8816-ddb63f9b56fe
@@ -194,77 +190,54 @@ references:
     to separation
   source: Journeys Out of the Body
   location: ch19:71-242
-  quote: Early in the experimentation, a side effect began to manifest itself. It
-    was not an out-of-body activity as such, but took place in states of deep relaxation
-    prior to any separation.
   claim_id: a5dccec0-d07e-458b-a234-0f215d78f65f
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-a5dccec0-d07e-458b-a234-0f215d78f65f
 - text: Monroe initially attributed visions to release of unconscious material
   source: Journeys Out of the Body
   location: ch19:1007-1182
-  quote: At first, I paid no particular attention to the phenomenon, attributing the
-    dream visions to release of material from the unconscious. A major event brought
-    it strongly to my attention.
   claim_id: 85671ae6-d85a-441d-b339-5f5356118446
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-85671ae6-d85a-441d-b339-5f5356118446
 - text: Hissing sound and door/hole sensation preceding Monroe's visions
   source: Journeys Out of the Body
   location: ch19:409-622
-  quote: There would be a hissing sound, localized in the forebrain, and I would get
-    the sensation of a small rectangular door, hinged at one end, swinging downward
-    to an angle of about 45°. This exposed a perfectly round hole.
   claim_id: 4fd3590d-8ea9-4a02-b1bc-73df04769924
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-4fd3590d-8ea9-4a02-b1bc-73df04769924
 - text: Monroe retained full consciousness, vision superimposed over outside stimuli
   source: Journeys Out of the Body
   location: ch19:628-877
-  quote: Immediately thereafter, I would see and semiexperience an event or incident
-    like a dream, except that I retained all of my consciousness and sense awareness.
-    The dream would be superimposed directly over outside stimuli. I could perceive
-    both quite readily.
   claim_id: 95a29641-3f1a-4440-8225-5b45d2fd3bb6
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-95a29641-3f1a-4440-8225-5b45d2fd3bb6
 - text: Monroe could not produce the effect at will
   source: Journeys Out of the Body
   location: ch19:886-995
-  quote: I could not and cannot produce the effect at will. It merely happened or
-    was triggered by some non-conscious mechanism.
   claim_id: e08fcb8c-292c-4ea9-b82f-781af4fad5f3
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e08fcb8c-292c-4ea9-b82f-781af4fad5f3
 - text: Monroe's hissing-plus-valve pattern reliably signalled a coming event
   source: Journeys Out of the Body
   location: ch19:14102-14224
-  quote: 'To date, a pattern of consistency has been established: H (Hissing sound)
-    + V (Valve-opening sensation) = F (Future event vision).'
   claim_id: e5a9fdef-6551-41c1-8893-44b35174860f
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e5a9fdef-6551-41c1-8893-44b35174860f
 - text: Monroe said the formula had proved accurate 22 times
   source: Journeys Out of the Body
   location: ch19:14234-14388
-  quote: On the premise that this formula has been applicable and proved twenty-two
-    times, what of the other cases listed in the notes where F has not yet taken place?
   claim_id: 4f8f36f2-df81-4310-9548-9d3b7661103d
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-4f8f36f2-df81-4310-9548-9d3b7661103d
 - text: Monroe recorded roughly eighteen further precognitive incidents
   source: Journeys Out of the Body
   location: ch19:13902-14085
-  quote: There are some eighteen more, all of which are personal incidents of varied
-    magnitude, previewed via the valve and later coming to pass exactly as noted,
-    allowing for minor errors in interpretation.
   claim_id: 9f5ae6b4-5ce3-4f2c-837d-95da084ef486
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-9f5ae6b4-5ce3-4f2c-837d-95da084ef486
 - text: Monroe used the term 'precognition' current in the field
   source: Journeys Out of the Body
   location: ch19:254-291
-  quote: It is evidently called in the trade “precognition.”
   claim_id: da1720e2-3260-4ecb-a9f0-075deb185a19
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-da1720e2-3260-4ecb-a9f0-075deb185a19
@@ -272,8 +245,6 @@ references:
     identify something
   source: Journeys Out of the Body
   location: ch19:8911-8996
-  quote: The mind, when unable to identify truly, picks the nearest thing to it in
-    the mind’s experience.
   claim_id: 4c42277d-03d8-434b-85de-e0c4f571ea80
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-4c42277d-03d8-434b-85de-e0c4f571ea80
@@ -563,39 +534,24 @@ references:
 - text: Auerbach's 35-plus years investigating apparitions, hauntings and poltergeists
   source: Surviving Death
   location: ch31:1584-1681
-  quote: He has been investigating cases of apparitions, hauntings, and poltergeists
-    for over thirty-five years
   claim_id: 8916e582-b386-45a0-9248-3cf28320e21f
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8916e582-b386-45a0-9248-3cf28320e21f
 - text: McCormick brought Auerbach an ongoing apparition case in 1985
   source: Surviving Death
   location: ch31:10787-10959
-  quote: In 1985, Donna McCormick, a knowledgeable and very careful researcher whom
-    I worked with for a few years, provided me with an example of an interesting,
-    ongoing apparition case.
   claim_id: 2a7858c6-9a99-404d-bc7a-41835fbb3dcd
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2a7858c6-9a99-404d-bc7a-41835fbb3dcd
 - text: Chris's daily contact with the apparition Lois, per Auerbach
   source: Surviving Death
   location: ch31:17342-17583
-  quote: Chris reported to his family that she had appeared to him every day since
-    the first time he saw her, when he waved back at the figure he saw. He said that
-    the woman did not disappear once he waved at her, but rather approached him and
-    began communicating.
   claim_id: cb0ccffa-4817-45a0-b348-77426989276e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-cb0ccffa-4817-45a0-b348-77426989276e
 - text: Tanous and two others independently identified the grandfather's photograph
   source: Surviving Death
   location: ch31:12009-12410
-  quote: We brought Alex in, and Ingrid, and Ann, and they all gave descriptions of
-    the grandfather. She had a picture of him, so we put that among several others
-    for the psychics to choose from, and each one picked the grandfather’s. They all
-    gave good descriptions of what he was like in life, interactions that occurred,
-    where the phenomena occurred, really an excellent case of everything being very
-    clear-cut.
   claim_id: 254d90c1-9b4d-431e-ac85-5239a91dc6ae
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-254d90c1-9b4d-431e-ac85-5239a91dc6ae
@@ -603,9 +559,6 @@ references:
     cases
   source: Surviving Death
   location: ch30:11443-11656
-  quote: In addition, after many years of research, Haraldsson found that apparition
-    cases also contained a much higher percentage of appearances from those who had
-    suffered a violent death, when compared with the general population.
   claim_id: 8dcd0da7-b856-4734-9772-1a1122b2d95e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8dcd0da7-b856-4734-9772-1a1122b2d95e
@@ -613,26 +566,18 @@ references:
     mediumship'
   source: Surviving Death
   location: ch30:11722-11925
-  quote: Persons suffering a violent death feature predominantly in cases of apparitions
-    of the dead and in cases of the reincarnation type, as well as in mediumship,
-    including both direct communicators and drop-ins.
   claim_id: 0b9ec2ce-df90-4c36-9c75-d6ff69144339
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0b9ec2ce-df90-4c36-9c75-d6ff69144339
 - text: Barrett's first systematic scientific study of deathbed apparitions
   source: Surviving Death
   location: ch20:3490-3597
-  quote: The first attempt at a systematic scientific study of these apparitions was
-    made by Sir William Barrett, a physicist
   claim_id: 31af4ba4-074f-4bea-ab52-e7a5be9151f4
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-31af4ba4-074f-4bea-ab52-e7a5be9151f4
 - text: 'Fenwick: deathbed visions seen by others should be classed as apparitions'
   source: Surviving Death
   location: ch20:9395-9557
-  quote: The fact that the visitors are occasionally seen by other people automatically
-    removes them from the category of hallucinations; we have to regard them rather
-    as apparitions
   claim_id: 72d494e6-c910-4b8b-9e29-f8c3069e5d66
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-72d494e6-c910-4b8b-9e29-f8c3069e5d66
@@ -640,33 +585,24 @@ references:
     and apparitions'
   source: Surviving Death
   location: ch37:31097-31270
-  quote: He does acknowledge, however, that sometimes the phenomena can manifest spontaneously;
-    we have seen just that with regard to after-death communications and apparitions,
-    for example.
   claim_id: 13811789-0024-43c3-b0ad-1d8345dbf5a5
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-13811789-0024-43c3-b0ad-1d8345dbf5a5
 - text: 'Auerbach: perceptual insertion explains why only some perceive an apparition'
   source: Surviving Death
   location: ch31:25780-25919
-  quote: This explains why only some people might experience apparitions—their perceptual
-    processes are susceptible to such insertion by telepathic projection.
   claim_id: b10a7f9d-7dd3-407b-95d4-71a545b7437b
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-b10a7f9d-7dd3-407b-95d4-71a545b7437b
 - text: 'Auerbach: perceptual insertion explains the absence of genuine ghost photos/video'
   source: Surviving Death
   location: ch31:25931-26043
-  quote: It also explains why one doesn’t expect to see genuine photos or videos of
-    ghosts. They have no form to reflect light.
   claim_id: 85e44f7d-7276-469e-9e54-8351fb6076a7
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-85e44f7d-7276-469e-9e54-8351fb6076a7
 - text: Auerbach considers the evidence weighted toward the survival hypothesis
   source: Surviving Death
   location: ch31:38907-39051
-  quote: Based on my many years of investigations and experiences, I think the evidence
-    is weighted heavily toward the survival hypothesis in explaining apparitions.
   claim_id: dd13000f-3f3c-44c5-b1ff-13d1ecfd006c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dd13000f-3f3c-44c5-b1ff-13d1ecfd006c

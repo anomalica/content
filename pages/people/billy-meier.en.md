@@ -318,8 +318,6 @@ references:
 - text: Malin had once been part of a project to analyse Meier's purported UFO photographs
   source: Dark Mission
   location: ch10:17405-17553
-  quote: Malin, among other interesting affiliations, had once been part of a project
-    to analyze the purported UFO photographs of infamous “contactee” Billy Meier.
   claim_id: 402e2e1d-33ff-4d23-ac2c-049adbdf2751
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-402e2e1d-33ff-4d23-ac2c-049adbdf2751
@@ -327,16 +325,12 @@ references:
     the photographs were not fakes
   source: Dark Mission
   location: ch10:17560-17704
-  quote: In that capacity, Malin, then an associate professor at Arizona State University,
-    had concluded that Meier’s controversial photographs were not fakes.
   claim_id: 642682c8-0a54-4d9e-bb17-c6e5fa0a5ab8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-642682c8-0a54-4d9e-bb17-c6e5fa0a5ab8
 - text: Malin considers the photographs credible, describing them as good photographs
   source: Dark Mission
   location: ch10:17713-17804
-  quote: “I find the photographs themselves credible, they’re good photographs,” he
-    commented at the time.
   claim_id: 2477cdde-2fa4-4ef4-aac8-38864d7f2ece
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2477cdde-2fa4-4ef4-aac8-38864d7f2ece
@@ -344,8 +338,6 @@ references:
     Force lieutenant colonel
   source: Dark Mission
   location: ch10:17813-17967
-  quote: The Meier photo investigation had been organized by well-known UFO investigator
-    Wendelle Stevens (Lt. Col., USAF, ret.) and also focused on similar prime cases.
   claim_id: 21fcb7a3-4df6-45b2-bcff-867227f09a09
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-21fcb7a3-4df6-45b2-bcff-867227f09a09
@@ -353,10 +345,6 @@ references:
     agreements
   source: Dark Mission
   location: ch10:19239-19488
-  quote: All selected scientists signed non-disclosure agreements (which later came
-    back to haunt Stevens and Dilettoso when cynical “skeptics” contacted some of
-    these people to verify their participation, and the scientists predictably denied
-    they’d taken part).
   claim_id: 62c7b626-c9e9-48a9-b5ec-42b85b5be374
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-62c7b626-c9e9-48a9-b5ec-42b85b5be374
@@ -364,9 +352,6 @@ references:
     and two controls
   source: Dark Mission
   location: ch10:20078-20308
-  quote: Dilettoso had already visited Bob Nathan ... at JPL a few times to have him
-    analyze four “legitimate” Meier photos and two “control pictures,” and it was
-    Nathan that steered him to Malin.
   claim_id: 05982aee-87cd-4a45-b5ee-b78356a3ec88
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-05982aee-87cd-4a45-b5ee-b78356a3ec88
@@ -374,8 +359,6 @@ references:
     laboratory at ASU
   source: Dark Mission
   location: ch10:20832-20980
-  quote: Stevens and Dilettoso went back to Malin’s lab at ASU around 1980, with the
-    same four Meier photos and two controls that they had taken to everyone else.
   claim_id: d6c95b1c-658f-4b58-bfa7-7e923219806b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d6c95b1c-658f-4b58-bfa7-7e923219806b
@@ -383,16 +366,12 @@ references:
     study in following weeks
   source: Dark Mission
   location: ch10:20986-21099
-  quote: Malin digitized them and did some preliminary analysis while they were there,
-    and did further study in the weeks following.
   claim_id: b375cb71-bcae-4345-b190-5a8167882f3d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b375cb71-bcae-4345-b190-5a8167882f3d
 - text: Malin told Dilettoso he had spent considerable time examining the photographs
   source: Dark Mission
   location: ch10:21110-21193
-  quote: He told Dilettoso in a subsequent visit that he had spent quite some time
-    with the photographs.
   claim_id: 9897677b-2518-4774-b152-a8903e8b5934
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9897677b-2518-4774-b152-a8903e8b5934
@@ -400,15 +379,12 @@ references:
     he examined
   source: Dark Mission
   location: ch10:21218-21313
-  quote: Malin’s findings were that he found no evidence of superimposition, or “dubbing,”
-    as he called it.
   claim_id: 56a3a469-42a6-425a-aabe-715d8c916d74
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-56a3a469-42a6-425a-aabe-715d8c916d74
 - text: Malin gave no written report, as none had been requested
   source: Dark Mission
   location: ch10:21317-21375
-  quote: He gave them no written report, as they had not asked for one.
   claim_id: 8310b2d0-e8f3-4ce8-abd9-c26b98f0b41a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8310b2d0-e8f3-4ce8-abd9-c26b98f0b41a
@@ -416,9 +392,6 @@ references:
     Malin's system
   source: Dark Mission
   location: ch10:21380-21606
-  quote: They never went back to retrieve or erase the images, which were now digitized
-    and in Malin’s system, since they thought it would be good for him to have them
-    and pass them around to his colleagues, which they assumed that he did.
   claim_id: c2b6f4cd-d172-4b95-95bf-440b0a0cb699
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c2b6f4cd-d172-4b95-95bf-440b0a0cb699
@@ -426,18 +399,12 @@ references:
     the objects were extraterrestrial spacecraft
   source: Dark Mission
   location: ch10:21887-22054
-  quote: Malin reiterated that he had  found no evidence of a hoax, and he said so
-    to Kinder, but he was not yet convinced that the objects in the images were extraterrestrial
-    spacecraft.
   claim_id: 4b736099-97c9-4f0e-a982-ae9f3b37ec50
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4b736099-97c9-4f0e-a982-ae9f3b37ec50
 - text: Malin reserved judgement on the more spectacular aspects of the story
   source: Dark Mission
   location: ch10:23629-23849
-  quote: Malin chose to reserve judgment on the more spectacular aspects of Meier’s
-    story, but this early foray into such arcane territory showed that he was at least
-    willing to consider unusual or even bizarre claims like Meier’s.
   claim_id: 86d08f0d-dd96-42d9-a9e5-51d86cf3eaea
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-86d08f0d-dd96-42d9-a9e5-51d86cf3eaea

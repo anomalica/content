@@ -338,33 +338,24 @@ references:
     and CEO.
   source: In Plain Sight
   location: ch21:123-283
-  quote: On 11 October 2017, Tom DeLonge took to a Seattle stage to officially announce,
-    as president and CEO, the formation of To The Stars Academy of Arts & Sciences
-    (TTSA).
   claim_id: ad53c3a8-daf2-4a4b-a0d1-56c772e9b4fb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ad53c3a8-daf2-4a4b-a0d1-56c772e9b4fb
 - text: The launch event was online only, with no invited audience and no press present.
   source: In Plain Sight
   location: ch21:433-507
-  quote: the launch was online only and had no invited audience and no pesky press
-    present
   claim_id: 4b4aa388-ce57-4678-ad5f-e800019815a0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b4aa388-ce57-4678-ad5f-e800019815a0
 - text: Jim Semivan was one of the two co-founders of TTSA.
   source: In Plain Sight
   location: ch21:657-781
-  quote: The undeniably impressive line-up of former spooks and defence insiders included
-    Jim Semivan, one of the two co-founders of TTSA.
   claim_id: 82cab98f-9c54-4f71-bc77-fe00d1d3a0ee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-82cab98f-9c54-4f71-bc77-fe00d1d3a0ee
 - text: Hal Puthoff was the third co-founder of TTSA.
   source: In Plain Sight
   location: ch21:970-1045
-  quote: There was also the third co-founder of TTSA, Dr Hal Puthoff, a theoretical
-    physicist
   claim_id: 9f2ce322-558b-4eda-8977-2b5c73ae88cb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9f2ce322-558b-4eda-8977-2b5c73ae88cb
@@ -372,23 +363,18 @@ references:
     with TTSA.
   source: In Plain Sight
   location: ch22:21142-21199
-  quote: TTSA’s Steve Justice, former Lockheed Martin Skunk Works executive
   claim_id: d502da75-f4fe-4ee1-ac64-36f0a320ce65
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d502da75-f4fe-4ee1-ac64-36f0a320ce65
 - text: Steve Justice headed TTSA's aerospace division at its 2017 launch.
   source: In Plain Sight
   location: ch21:1170-1272
-  quote: Another team member on stage, heading TTSA's aerospace division, was Steve
-    Justice
   claim_id: 21d4b51c-b61c-4c75-849b-95ef1d37daa7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-21d4b51c-b61c-4c75-849b-95ef1d37daa7
 - text: Steve Justice was Chief Operating Officer of TTSA.
   source: In Plain Sight
   location: ch21:9242-9352
-  quote: Steve Justice, Chief Operating Officer of TTSA and former head of Advanced
-    Systems at Lockheed Martin's Skunk Works
   claim_id: d8bee6c2-0d08-48f2-84be-b607c8ced809
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d8bee6c2-0d08-48f2-84be-b607c8ced809
@@ -415,9 +401,6 @@ references:
     relocation to California.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: 111-111
-  quote: he made me an offer to join TTSA as chief of security and special programs...The
-    salary offered was much less than I was earning at the Pentagon...To do this,
-    Tom insisted that I relocate to California.
   claim_id: 89d29036-1cc0-4af3-8919-73a814e6c9eb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-89d29036-1cc0-4af3-8919-73a814e6c9eb
@@ -425,16 +408,12 @@ references:
     of San Diego.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:15232-15374
-  quote: DeLonge was a proud son of Poway, near San Diego. TTSA’s planned location
-    was in Encinitas, about thirty minutes north of the city, along the coast.
   claim_id: 5242da16-a248-4220-93c8-a00b043f7cb6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5242da16-a248-4220-93c8-a00b043f7cb6
 - text: Elizondo became TTSA's public face after the New York Times AATIP story broke.
   source: In Plain Sight
   location: ch21:13584-13688
-  quote: In the days after the *Times* story on the AATIP program broke, Luis Elizondo
-    became the public face of TTSA
   claim_id: e1284d17-f24a-4cb5-ac54-a16349549048
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e1284d17-f24a-4cb5-ac54-a16349549048
@@ -442,9 +421,6 @@ references:
     under SEC rules.
   source: In Plain Sight
   location: ch21:8186-8392
-  quote: TTSA is not just a lobby group; it is a public company soliciting money from
-    potential investors as a public benefit corporation pursuant to strict US government
-    Securities and Exchange Commission laws and regulation.
   claim_id: bd5189ac-3fc4-4267-b2d6-78f47cd3ea33
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd5189ac-3fc4-4267-b2d6-78f47cd3ea33
@@ -480,9 +456,6 @@ references:
     of the universe's unresolved mysteries.
   source: In Plain Sight
   location: ch21:1630-1834
-  quote: TTSA's stated mission was 'to be a vehicle for change by inspiring a newfound
-    appreciation and understanding for the profound, yet unresolved, mysteries of
-    the universe that can have a positive impact on humanity'.
   claim_id: 47d8d59b-4823-4c90-8d98-47e705078035
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-47d8d59b-4823-4c90-8d98-47e705078035
@@ -490,12 +463,6 @@ references:
     production.'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:10033-10494
-  quote: 'They had aligned themselves with the organization that rock star Tom DeLonge
-    and Jim Semivan had put together, called To The Stars Academy (TTSA), and they
-    planned to pursue a triple directive for UAP disclosure: fresh approaches to UAP
-    science and engineering, educating laymen and journalists, and generating film/TV/publishing
-    content about the UAP phenomena, based on true stories, all to educate the public
-    and put an end to the stigma.'
   claim_id: 5c6c669d-c442-449d-9cb1-9c245e297d18
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5c6c669d-c442-449d-9cb1-9c245e297d18
@@ -503,26 +470,18 @@ references:
     and communications.
   source: In Plain Sight
   location: ch21:8404-8554
-  quote: TTSA's 2019 *Offering Circular* says, 'The company's Aerospace Division is
-    dedicated to finding revolutionary breakthroughs in propulsion, energy and communications.'
   claim_id: d8dbe216-7e11-40c6-9607-7769cf1b4585
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d8dbe216-7e11-40c6-9607-7769cf1b4585
 - text: The Offering Circular warned investors that R&D outcomes were not guaranteed.
   source: In Plain Sight
   location: ch21:18512-18746
-  quote: The TTSA *Offering Circular* wisely warned potential investors that 'Aerospace
-    and scientific research and development can be risky, and there are no guarantees
-    that any of the projects we undertake will lead to a commercially viable product'.
   claim_id: 607b071f-c537-471b-b0e6-cd95dfee5ba8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-607b071f-c537-471b-b0e6-cd95dfee5ba8
 - text: Elizondo is credited with coining 'The Five Observables'.
   source: In Plain Sight
   location: ch22:12914-13088
-  quote: To emphasise just how anomalous these unknown aerospace vehicles are, TTSA’s
-    Luis Elizondo coined a phrase, ‘The Five Observables’, the characteristics most
-    commonly seen in UAPs.
   claim_id: 76686c7e-bbbc-4060-9f15-b725804e732e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-76686c7e-bbbc-4060-9f15-b725804e732e
@@ -530,17 +489,12 @@ references:
     personnel about UAP encounters.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:357-519
-  quote: The History Channel wanted to do a show with the TTSA team that would put
-    seasoned investigators in the field, interviewing ex-military personnel about
-    their UAP encounters.
   claim_id: cb5369fd-11e7-403b-9b58-19107da89a59
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb5369fd-11e7-403b-9b58-19107da89a59
 - text: TTSA posted three Defence Department UAP videos on its website.
   source: In Plain Sight
   location: ch21:20805-20915
-  quote: DeLonge's To The Stars organisation eventually posted three dramatic Defence
-    Department videos of UAPs on its website.
   claim_id: 196bb9ec-5ec2-43a8-97e4-3847858b911e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-196bb9ec-5ec2-43a8-97e4-3847858b911e
@@ -548,17 +502,12 @@ references:
     coverage.
   source: In Plain Sight
   location: ch21:20924-21123
-  quote: The first two were posted in mid-December 2017, timed for impact when Politico,
-    The Washington Post and The New York Times broke the story of the Defence Department's
-    AATIP investigations into UAPs.
   claim_id: 9898cf75-2714-46d8-bb85-c5020299e488
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9898cf75-2714-46d8-bb85-c5020299e488
 - text: TTSA posted the Go-Fast video in March 2018.
   source: In Plain Sight
   location: ch21:22207-22331
-  quote: Three months later, in March 2018, TTSA posted another Defence Department
-    video on its website, which it dubbed the Go-Fast video.
   claim_id: 61cec41b-6906-4711-a6ce-53abbf531d90
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61cec41b-6906-4711-a6ce-53abbf531d90
@@ -566,8 +515,6 @@ references:
     location.
   source: In Plain Sight
   location: ch21:21553-21724
-  quote: TTSA initially revealed very little about the Gimbal object other than that
-    it was seen and videoed by US Navy fighter pilots at an unspecified location
   claim_id: 654aecd1-8111-4a4b-9f18-730a5dc3ba45
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-654aecd1-8111-4a4b-9f18-730a5dc3ba45
@@ -575,23 +522,18 @@ references:
     radar.
   source: In Plain Sight
   location: ch21:21868-21943
-  quote: The TTSA website said the Gimbal had 'low-observability' on both video and
-    radar
   claim_id: 219f9ae8-2444-476e-92d8-303b5f51f594
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-219f9ae8-2444-476e-92d8-303b5f51f594
 - text: The Gimbal object had no distinguishable flight surfaces, per TTSA's website.
   source: In Plain Sight
   location: ch21:21950-22056
-  quote: it also had no distinguishable flight surfaces, no 'obvious propulsion system',
-    'never-before-seen flight capabilities'
   claim_id: 0894c1dd-d2d7-43aa-ad40-e9ba00f515bd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0894c1dd-d2d7-43aa-ad40-e9ba00f515bd
 - text: The Gimbal object had no obvious propulsion system, per TTSA's website.
   source: In Plain Sight
   location: ch21:21998-22021
-  quote: no 'obvious propulsion system'
   claim_id: 85b1ea24-960c-475f-aab1-de65883a4426
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-85b1ea24-960c-475f-aab1-de65883a4426
@@ -599,32 +541,24 @@ references:
     website.
   source: In Plain Sight
   location: ch21:22031-22056
-  quote: '''never-before-seen flight capabilities'''
   claim_id: cee21df8-0645-4916-8354-60ea159ac53f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cee21df8-0645-4916-8354-60ea159ac53f
 - text: TTSA speculated a shimmer on the object suggested an energy or resonance field.
   source: In Plain Sight
   location: ch21:22075-22197
-  quote: because of a strange shimmer on its surface, they speculated that it had
-    a 'possible energy or resonance field of unknown nature'
   claim_id: 8723e6e1-6842-496d-b1da-5345512fffe1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8723e6e1-6842-496d-b1da-5345512fffe1
 - text: TTSA announced an October 2019 partnership with the US Army on alleged metamaterials.
   source: In Plain Sight
   location: ch23:12310-12513
-  quote: in October 2019, it was announced that To The Stars Academy of Arts & Sciences
-    was partnering with the US Army to research alleged metamaterials that TTSA's
-    sources claimed to have obtained from crashed craft.
   claim_id: e23cc9d6-cf5c-4eb8-ba96-b7cc6aae8dd7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e23cc9d6-cf5c-4eb8-ba96-b7cc6aae8dd7
 - text: The arrangement was formalised through a CRADA.
   source: In Plain Sight
   location: ch23:13884-14022
-  quote: This agreement between TTSA and the US Army was secured under the terms of
-    what is called a CRADA, a Cooperative Research and Development Agreement.
   claim_id: 904c1482-da7d-4a58-b305-819b773def07
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-904c1482-da7d-4a58-b305-819b773def07
@@ -632,9 +566,6 @@ references:
     materials.
   source: In Plain Sight
   location: ch23:16895-17105
-  quote: '''Our partnership with TTSA serves as an exciting, non-traditional source
-    for novel materials and transformational technologies to enhance our military
-    ground system capabilities,'' Dr Cannon claimed in a press statement.'
   claim_id: 54de9c13-1e5f-4a8c-ba5d-5b3c2f0d0603
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-54de9c13-1e5f-4a8c-ba5d-5b3c2f0d0603
@@ -642,9 +573,6 @@ references:
     for $35,000.
   source: In Plain Sight
   location: ch23:12669-12902
-  quote: There was a disclosure notice by TTSA to the Securities Exchange Commission
-    (SEC) revealing that in 2019 Tom DeLonge sold the same six 'Art's Parts' samples
-    to his company for $35,000 and that Hal Puthoff would be analysing them for TTSA.
   claim_id: 529dd6d7-40b5-4486-a95f-b7d9734f6a56
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-529dd6d7-40b5-4486-a95f-b7d9734f6a56
@@ -652,29 +580,18 @@ references:
     materials analysis planning.
   source: In Plain Sight
   location: ch23:17382-17615
-  quote: An earlier 2018 disclosure TTSA made to the US Securities and Exchange Commission
-    revealed that TTSA has already retained Hal Puthoff's EarthTech International
-    Inc. to prepare plans on materials analysis and beamed energy propulsion launch
-    systems
   claim_id: fba74d5a-7425-4b66-b07c-ffb54813d1d9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fba74d5a-7425-4b66-b07c-ffb54813d1d9
 - text: TTSA's 2019 tweet quoted Steve Justice on the materials' unmatched composition.
   source: In Plain Sight
   location: ch23:18158-18459
-  quote: 'Another hint came in a tweeted TTSA announcement in 2019, when it posted
-    an image of the strange bent lump of layered metal from the Art''s Parts samples
-    saying: ''"The structure & composition of these materials are not from any known
-    existing military or commercial application," said [then] COO Steve Justice.'
   claim_id: 0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
 - text: The photograph used was a stock image of the mineral malachite.
   source: In Plain Sight
   location: ch24:9295-9508
-  quote: It was pointed out that the photograph used by TTSA to support its dramatic
-    Twitter claims about these purported metamaterials was, in fact, a downloadable
-    commercial stock image of a natural layered stone called malachite
   claim_id: 76de335b-5cac-4c56-a8a9-919557f5359d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-76de335b-5cac-4c56-a8a9-919557f5359d
@@ -741,49 +658,36 @@ references:
 - text: TTSA underwent a major internal collapse in late 2020.
   source: In Plain Sight
   location: ch21:23348-23459
-  quote: at the time of writing, TTSA's future role in UAP disclosure activism looks
-    uncertain, for, in late 2020, TTSA imploded.
   claim_id: 5cd0019f-d8d7-4d99-aa45-cf1720230349
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5cd0019f-d8d7-4d99-aa45-cf1720230349
 - text: Speculation mounted that Mellon, Elizondo and Justice were leaving TTSA.
   source: In Plain Sight
   location: ch21:23469-23624
-  quote: Speculation had mounted for months that former Defence Department mandarin
-    Christopher Mellon and key figures Luis Elizondo and Steve Justice were leaving
-    TTSA.
   claim_id: 4b297bdc-12ce-4fc8-8fbc-c135321c4275
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b297bdc-12ce-4fc8-8fbc-c135321c4275
 - text: DeLonge formally disclosed the departures to the SEC.
   source: In Plain Sight
   location: ch21:23699-23837
-  quote: it took Tom DeLonge several more months to formally admit to the Securities
-    Exchange Commission not only their departure
   claim_id: bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
 - text: A week later, DeLonge disclosed Puthoff's resignation as director.
   source: In Plain Sight
   location: ch21:23850-23908
-  quote: but also, a week later, Dr Hal Puthoff's resignation as a director.
   claim_id: 3858175d-54db-4ce6-bd6c-d49e54573a31
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3858175d-54db-4ce6-bd6c-d49e54573a31
 - text: DeLonge said he was refocusing TTSA toward its entertainment business.
   source: In Plain Sight
   location: ch21:23918-24135
-  quote: DeLonge announced he had 'recently taken steps to refocus [TTSA's] operations
-    to scale back its initiatives in science and tech commercialization and to place
-    a greater emphasis on the operations of its entertainment business.
   claim_id: 47b0a5ce-2faf-45bb-82d9-cb9f36266a94
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-47b0a5ce-2faf-45bb-82d9-cb9f36266a94
 - text: Puthoff moved from director to TTSA's scientific advisory board.
   source: In Plain Sight
   location: ch21:24145-24301
-  quote: As a result, Dr. Harold E. Puthoff, one of TTSA's board members, has transitioned
-    from his role as a director to serve on the company's scientific advisory board'.
   claim_id: a9786ec9-633f-44e7-aefb-373bbf1661f9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a9786ec9-633f-44e7-aefb-373bbf1661f9
@@ -791,8 +695,6 @@ references:
     by Puthoff's exit.
   source: In Plain Sight
   location: ch21:24490-24597
-  quote: People who had invested on the promise of a major breakthrough in anti-gravitic
-    propulsion would be sorely disappointed.
   claim_id: 3eba7266-76f9-487d-887f-12f495e7b711
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3eba7266-76f9-487d-887f-12f495e7b711

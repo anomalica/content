@@ -580,9 +580,6 @@ references:
 - text: Fravor was flying an FA-18F Super Hornet.
   source: In Plain Sight
   location: ch16:7704-7889
-  quote: Strikefighter Squadron 41 ('The Black Aces') commanding officer David Fravor
-    was in one FA-18F Super Hornet and his wingman, a serving female pilot who wishes
-    to stay anonymous, was in another.
   claim_id: 092aedc7-b95e-4fff-911a-520aa08cbad0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-092aedc7-b95e-4fff-911a-520aa08cbad0
@@ -599,7 +596,6 @@ references:
     back seat.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:4475-4530
-  quote: In his back seat was Commander Jim Slaight, call sign “Clean.”
   claim_id: 607d0bc7-7e07-4adc-82fb-8e1d585cf985
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-607d0bc7-7e07-4adc-82fb-8e1d585cf985
@@ -649,8 +645,6 @@ references:
     the disturbance.
   source: In Plain Sight
   location: ch16:8804-8929
-  quote: Because the disturbance was roughly the size of a 737, he was worried that
-    a commercial airliner might have crashed into the sea.
   claim_id: b37e78c3-cd62-404c-9f1a-241cd569582e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b37e78c3-cd62-404c-9f1a-241cd569582e
@@ -658,10 +652,6 @@ references:
     hovering above the water.
   source: In Plain Sight
   location: ch16:9589-9865
-  quote: Descending, Commander Fravor was then shocked to discern what he can only
-    describe as a featureless giant white 'Tic Tac'-candy shaped object with what
-    looked like two appendages below its belly; it was hovering just above the surface
-    of the ocean over the disturbance in the water.
   claim_id: c005d20f-fbf2-4087-908d-be0db2da7d00
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c005d20f-fbf2-4087-908d-be0db2da7d00
@@ -669,8 +659,6 @@ references:
     markings.
   source: In Plain Sight
   location: ch16:9872-10008
-  quote: The Tic Tac, roughly the length of his FA-18 jet, had no windows, no visible
-    engines, no wings, no exhaust or smoke, and no discernible markings.
   claim_id: 8e14a0c7-e313-4e89-82f4-412d12634176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8e14a0c7-e313-4e89-82f4-412d12634176
@@ -779,19 +767,12 @@ references:
     jet.
   source: In Plain Sight
   location: ch16:16657-16902
-  quote: As Commander Fravor and his wingman returned to the USS Nimitz from their
-    Tic Tac encounter that 14 November afternoon, a third pair of aircraft headed
-    out. One of the pilots, Lieutenant Chad Underwood, had what is called an ATFLIR
-    pod on his jet.
   claim_id: bb93ed9d-0f01-4ca8-b126-b8bd225234c3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bb93ed9d-0f01-4ca8-b126-b8bd225234c3
 - text: Underwood's crew found the Tic Tac waiting at the same cap point.
   source: In Plain Sight
   location: ch16:17174-17369
-  quote: En route, Underwood's weapons systems officer checked the cap point where
-    the previous pilots Dave Fravor and his female pilot wingman last saw the UAP
-    and, sure enough, there it was waiting for them.
   claim_id: 6ef6b9fe-dfd3-462c-9175-cfba15eb6362
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6ef6b9fe-dfd3-462c-9175-cfba15eb6362
@@ -799,9 +780,6 @@ references:
     radar tried to lock on.
   source: In Plain Sight
   location: ch16:17375-17597
-  quote: Disturbingly, as the US Navy jet tried to lock on to the object with its
-    radar, there were clear indications of deliberate jamming, which Commander Fravor
-    says could be perceived as a hostile act, as technically an act of war'.
   claim_id: b5edd9e8-6c5d-47f7-a167-fbc063bf18f5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5edd9e8-6c5d-47f7-a167-fbc063bf18f5
@@ -835,10 +813,6 @@ references:
     and David Grusch.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:2345-2593
-  quote: members of Congress held another historic bipartisan UAP hearing. This time
-    the hearing had highly credible military witnesses, Commander Fravor, Lieutenant
-    Graves, and Dave Grusch, who were now testifying to the American people in Congress
-    *under oath*
   claim_id: bfb42c69-0416-49a7-87b0-4e3047b26a19
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19

@@ -62,38 +62,24 @@ references:
 - text: Rich died in 1995, known for hinting at a hidden US technological breakthrough.
   source: In Plain Sight
   location: ch13:13720-13896
-  quote: Rich, who died in 1995, had been notorious for dropping mischievous hints
-    that the United States had achieved a huge technological breakthrough that was
-    still being kept under wraps.
   claim_id: 2af451f2-6080-4b71-8d7c-946f7bb866da
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2af451f2-6080-4b71-8d7c-946f7bb866da
 - text: Jim Goodall befriended Rich, the former director of Skunk Works.
   source: In Plain Sight
   location: ch13:13431-13709
-  quote: He befriended engineer Ben Rich, the former Director of US aerospace company
-    Lockheed Martin's Skunk Works (the pseudonym for Lockheed Martin's secretive Advanced
-    Developments Projects division, where many of America's most advanced aircraft
-    have been designed).
   claim_id: 4120858f-cd4d-4d65-a101-095ff0d14ef6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4120858f-cd4d-4d65-a101-095ff0d14ef6
 - text: Goodall's account of Rich's last comment to him before he died.
   source: In Plain Sight
   location: ch13:13905-14290
-  quote: '''To quote Ben Rich in his last comment to me just before he died,'' Goodall
-    told me from San Francisco, ''"Jim, we have things out in the desert that are
-    50 years beyond what you can comprehend. Not what you think we can make in 50
-    years but what you can comprehend. And if you''ve seen movies like Star Trek and
-    Star Wars, we''ve been there, done that or decided it wasn''t worth the effort".'''
   claim_id: 315c7144-d26f-4905-98a5-72d0b9269a3a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-315c7144-d26f-4905-98a5-72d0b9269a3a
 - text: Rich addressed UCLA engineering alumni in March 1993.
   source: In Plain Sight
   location: ch13:14645-14789
-  quote: Goodall also recounts an address Ben Rich gave in March 1993 to a small group
-    of alumni at the University of California Los Angeles engineering school.
   claim_id: 9428a5da-66ed-4afc-b24f-d813bc3ffb45
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9428a5da-66ed-4afc-b24f-d813bc3ffb45
@@ -101,84 +87,54 @@ references:
     with an error in the equations.
   source: In Plain Sight
   location: ch13:14798-15043
-  quote: Both engineer Jan Harzan and aerospace engineer T.L. Keller, who were among
-    the group, attested that Rich admitted that the US had figured out how to do interstellar
-    travel, and that, without explanation, he said, 'there was an error in the equations'.
   claim_id: ca76d230-1abf-4304-a27c-60bcad6e7e68
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ca76d230-1abf-4304-a27c-60bcad6e7e68
 - text: Harzan recalled Rich's closing slide of a black disc flying into space.
   source: In Plain Sight
   location: ch13:15055-15165
-  quote: Harzan described how when Ben Rich ended his talk, he showed a slide portraying
-    a black disc zipping off into space
   claim_id: 2bb3a5c6-8dbb-4106-9fdb-74198213019a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2bb3a5c6-8dbb-4106-9fdb-74198213019a
 - text: Harzan's account of Rich's closing words to the auditorium.
   source: In Plain Sight
   location: ch13:15181-15355
-  quote: Rich's final words to the packed auditorium were, '"We've discovered what
-    it is, and we now have the technology to travel to the stars" – to take ET home
-    is what he actually said.
   claim_id: 6c598f0f-5132-4941-adb9-f8758f138cc9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6c598f0f-5132-4941-adb9-f8758f138cc9
 - text: Harzan asked how the technology worked; Rich did not want to elaborate.
   source: In Plain Sight
   location: ch13:15361-15439
-  quote: I asked him once or twice "How does it work?" and he didn't really want to
-    go there.
   claim_id: ec70ee4e-3ba2-4605-a1f8-9042e0280d2e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ec70ee4e-3ba2-4605-a1f8-9042e0280d2e
 - text: Rich's ESP exchange with Harzan after the talk.
   source: In Plain Sight
   location: ch13:15646-16170
-  quote: And I said, "Hi, I'm Jan Harzan, I'm an alumni. I have a real fascination
-    with what you're talking about, particularly the propulsion side of this". And
-    I said, "Can you tell me how it works?" And he said, "Well, let me ask you. How
-    does ESP work?" And I was like two steps back. I wasn't really expecting a question.
-    I was looking for an answer. And I just quipped real quickly, "I don't know, all
-    points in space and time are connected." And that's when he said, "That's how
-    it works." And he turned and walked out of the room.
   claim_id: 614a3e7d-84fc-4e60-8038-378286cd3e73
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-614a3e7d-84fc-4e60-8038-378286cd3e73
 - text: Coulthart's disinformation theory about Rich's remarks.
   source: In Plain Sight
   location: ch13:16180-16546
-  quote: Perhaps believers in the extra-terrestrial explanation for UAPs were far
-    too credulous in taking the former Skunk Works boss literally. America would certainly
-    like its strategic rivals, Russia and China, to think it now has an edge with
-    such sci-fi-like technology, so perhaps Rich was using the opportunity to sprinkle
-    disinformation through a prominent aerospace journalist.
   claim_id: 8d7546d8-dfb6-4b20-8341-a2143a84596d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8d7546d8-dfb6-4b20-8341-a2143a84596d
 - text: Rich made a similar remark to Testor Corporation model-kit designer John Andrews.
   source: In Plain Sight
   location: ch13:16558-16724
-  quote: Ben Rich certainly enjoyed a joke; he dropped a similarly mischievous comment
-    to another friend, the late Testor Corporation stealth aircraft model-kit designer
-    John Andrews.
   claim_id: 152eb8c3-6026-455f-b74e-0b815e769bb0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-152eb8c3-6026-455f-b74e-0b815e769bb0
 - text: Andrews's July 1986 letter asking Rich to clarify his views on UFOs.
   source: In Plain Sight
   location: ch13:16811-16943
-  quote: In July 1986, Andrews had written to Ben Rich asking him to clarify whether
-    he believed in both man-made UFOs and extra-terrestrial UFOs.
   claim_id: 515b95e9-2a29-48cf-8ba1-294ec28523a2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-515b95e9-2a29-48cf-8ba1-294ec28523a2
 - text: Rich's July 1986 reply to Andrews.
   source: In Plain Sight
   location: ch13:16951-17132
-  quote: Rich replied in his letter, 'Dear John, Yes, I'm a believer in both categories.
-    I feel everything is possible. Many of our man-made UFOs are Un Funded Opportunities.'
-    (Ben Rich's emphasis.)
   claim_id: 6464fcfd-370a-4229-b423-4a22593014d3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6464fcfd-370a-4229-b423-4a22593014d3

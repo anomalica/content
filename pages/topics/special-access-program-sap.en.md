@@ -82,10 +82,6 @@ references:
     the project is compartmented, deemed SCI, and given a codename.
   source: In Plain Sight
   location: ch14:10905-11193
-  quote: A further cloak of secrecy in addition to the highest top-secret security
-    classification, an SAP designation is not actually a higher security classification
-    than top secret. It simply means the project is compartmented, deemed Sensitive
-    Compartmented Information (SCI), and designated a codename.
   claim_id: de3ff492-ce39-439d-a46e-1951886776b7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-de3ff492-ce39-439d-a46e-1951886776b7
@@ -93,8 +89,6 @@ references:
     classified projects.
   source: In Plain Sight
   location: ch14:10799-10895
-  quote: SAPs are where the US Defence Department hides most of its super-secret black-budget
-    classified projects.
   claim_id: 877f2ec7-bcd3-492b-ae23-9a0c9a1370bf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-877f2ec7-bcd3-492b-ae23-9a0c9a1370bf
@@ -102,9 +96,6 @@ references:
     SAP or SCI details unless 'read into' the programme.
   source: In Plain Sight
   location: ch14:11203-11384
-  quote: Even the most senior military officials with the highest top-secret security
-    clearance are forbidden from knowing the details behind an SAP/SCI codename unless
-    they are *read* into it.
   claim_id: d52efcdf-a24a-423a-8e1f-7f02b01e8795
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d52efcdf-a24a-423a-8e1f-7f02b01e8795
@@ -112,10 +103,6 @@ references:
     can and must be denied, with true funding hidden.
   source: In Plain Sight
   location: ch14:11389-11587
-  quote: 'There are also USAPs, Unacknowledged Special Access Programs, which means
-    the project''s very existence can and must
-
-    be denied by those who know about it, the true funding hidden.'
   claim_id: e636eb7d-e906-4d7b-b517-8841f37c90d2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e636eb7d-e906-4d7b-b517-8841f37c90d2
@@ -123,8 +110,6 @@ references:
     is a crime for anyone read into them.
   source: In Plain Sight
   location: ch14:10669-10796
-  quote: Some black-world budget projects are hidden so deep, it is a crime for anyone
-    read into a project to even reveal its existence.11
   claim_id: 700acf62-8119-4299-bb85-e7a539ff7e5d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-700acf62-8119-4299-bb85-e7a539ff7e5d
@@ -133,11 +118,6 @@ references:
     unrecoverable failure.
   source: In Plain Sight
   location: ch26:14538-14863
-  quote: ‘An unacknowledged SAP [Special Access Program] – a black program – is a
-    program which is considered so sensitive that the fact of its existence is a “core
-    secret”, defined in USAF regulations as “any item, progress, strategy or element
-    of information the compromise of which would result in unrecoverable failure”,’
-    Sweetman wrote.
   claim_id: 42610ba0-c36d-49db-9af9-fd34859a7d9e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-42610ba0-c36d-49db-9af9-fd34859a7d9e
@@ -145,9 +125,6 @@ references:
     top-secret SCI projects inside SAPs, most of which remain classified.
   source: In Plain Sight
   location: ch13:9050-9253
-  quote: His role on the Senate Intelligence Committee staff required him to review
-    top-secret Sensitive Compartmented Information (SCI) projects inside Special Access
-    Programs (SAPs), most of which still remain classified.
   claim_id: 3001af87-f811-4ab3-8454-e641775abf6d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3001af87-f811-4ab3-8454-e641775abf6d
@@ -155,10 +132,6 @@ references:
     staff a leaked National Reconnaissance Office document listing authentic SAP codenames.
   source: In Plain Sight
   location: ch14:9972-10214
-  quote: In advance of their visit, Greer had sent Admiral Wilson's staff a leaked
-    US National Reconnaissance Office document that detailed a series of what turned
-    out to be authentic codenames for highly top-secret so-called Special Access Programs
-    (SAPs).
   claim_id: 65a6c9ce-ae3a-46ce-b108-25f0a6276518
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
@@ -166,9 +139,6 @@ references:
     were unknown to him.
   source: In Plain Sight
   location: ch14:12137-12352
-  quote: When Admiral Tom Wilson saw the leaked document Greer sent him,12 he was,
-    Greer claims, very upset that there were SAP project codenames on the list that
-    were unknown to him, the second-most powerful man in Defence Intelligence.
   claim_id: a3ffd65a-f083-49de-9ee3-b024e9d393b7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a3ffd65a-f083-49de-9ee3-b024e9d393b7
@@ -176,8 +146,6 @@ references:
     access programs dealing with UFOs.
   source: In Plain Sight
   location: ch14:22310-22408
-  quote: Wilson recalled ‘my visitors’ concerns about possible “special access programs”
-    dealing with that subject.
   claim_id: a328ce58-0270-4c02-b96e-4ef6eb99473f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a328ce58-0270-4c02-b96e-4ef6eb99473f
@@ -185,8 +153,6 @@ references:
     access to or knowledge of the alleged programmes.
   source: In Plain Sight
   location: ch14:22417-22559
-  quote: I believe, as some reports suggest, that Dr Mitchell’s team’s objective was
-    to solicit my assistance in achieving access or knowledge of such programs.
   claim_id: 8c8fdd8e-4ff4-4557-aaff-9ed9e884dd50
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8c8fdd8e-4ff4-4557-aaff-9ed9e884dd50
@@ -194,9 +160,6 @@ references:
     he would seek access, and never had knowledge of them.
   source: In Plain Sight
   location: ch14:22570-22777
-  quote: I most certainly did not acknowledge or even suggest that such programs existed
-    nor that I would attempt to gain access if they did. In fact, I did neither then,
-    nor since then, ever have knowledge of such programs.
   claim_id: d237df39-26c6-4621-8b7a-3dd1a91614e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d237df39-26c6-4621-8b7a-3dd1a91614e7
@@ -204,9 +167,6 @@ references:
     status for AATIP.
   source: In Plain Sight
   location: ch17:17145-17397
-  quote: To add spice to the mystery, in June 2009, then Senator Harry Reid wrote
-    to the US Secretary of Defense requesting the Advanced Aerospace Threat Identification
-    Program (AATIP) be given the status of a Special Access Program (SAP).
   claim_id: 2844341e-436e-4320-8d31-8c1d298d11fc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2844341e-436e-4320-8d31-8c1d298d11fc
@@ -225,18 +185,12 @@ references:
     Reid's SAP request.
   source: In Plain Sight
   location: ch25:17854-18043
-  quote: Perhaps it was these slides that prompted Senator Harry Reid to ask the Department
-    of Defence for Special Access Program protection for the investigation – because
-    what the slides said was momentous.
   claim_id: 61c0b829-d3e1-4887-a877-433675ece02f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61c0b829-d3e1-4887-a877-433675ece02f
 - text: The SAP status request for the AATIP investigation was rejected.
   source: In Plain Sight
   location: ch17:19003-19159
-  quote: It was a strong sell but the Senator's request for Special Access Program
-    status for the Advanced Aerospace Threat Identification Program investigation
-    was rejected.
   claim_id: 025dd8b6-2b2d-4c83-a3e5-ca5bbd402bb9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-025dd8b6-2b2d-4c83-a3e5-ca5bbd402bb9
@@ -244,10 +198,6 @@ references:
     as were the alleged SAP conversations.
   source: In Plain Sight
   location: ch26:11888-12171
-  quote: Many of the people (Oke Shannon, Mike Crawford, Linda, Rich, Doug) he characterises
-    in the memo as people I interacted with are completely unknown to me, as are the
-    conversations I purportedly had on Special Access Programs related to UFOs with
-    senior officials in the Department of Defense.
   claim_id: 67211ab2-ec6d-4f3b-b7cf-8b044d803579
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-67211ab2-ec6d-4f3b-b7cf-8b044d803579
@@ -255,9 +205,6 @@ references:
     not belonging to usual SAP - a subset of unacknowledged/carve-out/waived programmes.
   source: In Plain Sight
   location: ch26:13817-13992
-  quote: ‘They told me of a special projects record group not belonging to usual SAP
-    – a special subset of the unacknowledged/carve-outs/waived programs,’ Wilson reportedly
-    said in the memo.
   claim_id: 91ac7dad-5511-4c6c-b255-26414bc9012b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-91ac7dad-5511-4c6c-b255-26414bc9012b
@@ -265,8 +212,6 @@ references:
     the programme was hidden under.
   source: In Plain Sight
   location: ch26:13998-14141
-  quote: Davis then asked Wilson a series of questions, such as which Special Access
-    Program compartment he found the Program hidden in and under which codename.
   claim_id: 92954970-0fdb-4e78-a527-42cb0cf46bc3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-92954970-0fdb-4e78-a527-42cb0cf46bc3
@@ -274,12 +219,6 @@ references:
     gain SAP access were false and that no such meetings occurred.
   source: In Plain Sight
   location: ch26:7043-7525
-  quote: ‘The Dr Eric Davis memo contains somewhat detailed accounts of alleged efforts
-    by me to get access to Special Access Programs . . . and of meetings I supposedly
-    had with various contractors or Special Access Program managers/overseers. I participated
-    in no such meetings on these subjects. I never formally or informally requested
-    any such access, was never denied such access and was never threatened to have
-    my career “derailed” if I persisted,’ he told me.
   claim_id: 9ed6f584-dc1a-4fef-8662-77afa8772545
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9ed6f584-dc1a-4fef-8662-77afa8772545
@@ -287,9 +226,6 @@ references:
     programmes, including all SAPs, are compromised or made public.
   source: In Plain Sight
   location: ch30:15610-15782
-  quote: The UAP laws also provide protections to ensure that no classified military
-    and intelligence programs, including all special access programs (SAPs) are compromised
-    or made public.
   claim_id: ba9b54ce-d737-4a00-9e32-bb0ea167bd4d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba9b54ce-d737-4a00-9e32-bb0ea167bd4d
@@ -309,10 +245,6 @@ references:
     Secret SAP, and Elizondo never learned the findings.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:16960-17195
-  quote: the two tanks were immediately taken to the port, loaded aboard a transport
-    ship, and shipped to the Yuma Proving Ground in Arizona for analysis. I never
-    did learn the findings. The powers that be classified the analysis a “Top Secret
-    SAP.”
   claim_id: c815115f-e20a-4784-9f6a-405481529f62
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c815115f-e20a-4784-9f6a-405481529f62
@@ -320,11 +252,6 @@ references:
     Access Program to encourage them to describe encounters.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:8352-8685
-  quote: we work for a Special Access Program, and it's very likely you came across
-    one of our technologies. We do our best to hide these things, but sometimes people
-    who are observant, such as yourself, see one. We would really appreciate it if
-    you could tell us exactly what you saw, so if it *is* one of ours, we can hide
-    it better in the future.
   claim_id: 2972262e-04fb-4283-9706-5c6ede4769da
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2972262e-04fb-4283-9706-5c6ede4769da
@@ -332,8 +259,6 @@ references:
     and Special Access Programs.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch26:915-1005
-  quote: He oversaw all Department of Defense intelligence activities and Special
-    Access Programs (SAPs).
   claim_id: acc64767-dc4e-444c-a456-6030aee55704
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-acc64767-dc4e-444c-a456-6030aee55704
@@ -341,8 +266,6 @@ references:
     into the UAP topic.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch26:5297-5424
-  quote: He had spent years having oversight of all the SAPs for the DoD and he admitted
-    to us that he had zero visibility into the UAP topic.
   claim_id: 3287094d-4ab9-43d5-8fb2-3def39886a64
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3287094d-4ab9-43d5-8fb2-3def39886a64

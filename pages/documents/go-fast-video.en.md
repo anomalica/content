@@ -64,8 +64,6 @@ references:
     dubbed the Go-Fast video
   source: In Plain Sight
   location: ch21:22207-22331
-  quote: Three months later, in March 2018, TTSA posted another Defence Department
-    video on its website, which it dubbed the Go-Fast video.
   claim_id: 61cec41b-6906-4711-a6ce-53abbf531d90
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61cec41b-6906-4711-a6ce-53abbf531d90
@@ -73,9 +71,6 @@ references:
     capture by a Navy FA-18 using its ATFLIR pod
   source: In Plain Sight
   location: ch21:22340-22541
-  quote: It also lacked any details on when or where it was shot, or who shot it,
-    other than that it was captured by a US Navy FA-18 fighter using the jet's advanced
-    targeting forward-looking infrared (ATFLIR) pod.
   claim_id: 48d64dd6-142b-462c-9acb-e2cbecd586fb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48d64dd6-142b-462c-9acb-e2cbecd586fb
@@ -83,9 +78,6 @@ references:
     high speed low over the water
   source: In Plain Sight
   location: ch21:22546-22707
-  quote: On the 34-second video, the UAP appeared as a white oval shape moving at
-    apparent high speed from top right to lower left of the screen flying very low
-    over the water
   claim_id: 8aceab60-9840-4851-b2b9-e3256e29d659
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8aceab60-9840-4851-b2b9-e3256e29d659
@@ -93,7 +85,6 @@ references:
     by some
   source: In Plain Sight
   location: ch21:22714-22761
-  quote: although the claimed high speed is disputed by some
   claim_id: 29b66f15-401d-48de-881e-87dde02daabb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-29b66f15-401d-48de-881e-87dde02daabb
@@ -101,8 +92,6 @@ references:
     the US east coast in late 2014 or early 2015
   source: In Plain Sight
   location: ch21:23042-23182
-  quote: His story revealed that this latest newly declassified Go-Fast video was
-    filmed off the east coast of the US sometime in late 2014 or early 2015.
   claim_id: c5997056-f7c7-4ca4-9925-58bdfab1e508
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5997056-f7c7-4ca4-9925-58bdfab1e508
@@ -111,9 +100,6 @@ references:
     videos
   source: In Plain Sight
   location: ch22:10667-10834
-  quote: ‘The Navy has not publicly released characterizations or descriptions, nor
-    released any hypothesis or conclusions, in regard to the objects contained in
-    the referenced videos.’
   claim_id: 4a20ff99-3e29-469e-b19b-05773e1ebf53
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a20ff99-3e29-469e-b19b-05773e1ebf53
@@ -121,8 +107,6 @@ references:
     Academy vault website
   source: In Plain Sight
   location: ch34:44511-44598
-  quote: Department of Defense, '2015 Go Fast Footage', thevaulttothestarsacademy.com.
-    9 March 2018.
   claim_id: 13ee9e90-df30-497b-8469-8adb4c8495f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13ee9e90-df30-497b-8469-8adb4c8495f1
@@ -158,26 +142,18 @@ references:
     but no more than about 5.5 metres long against the 2004 object's over 12 metres
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:15316-15634
-  quote: The object in one of the videos also resembled a Tic Tac, at least in the
-    sense that it was rounded, smooth, and egg-shaped. But where the 2004 Tic Tac
-    was more than 40 feet long, this object—in the video that would later become famously
-    known as GoFast—was no more than about 18 feet long, tops.
   claim_id: c3e7cd8b-af47-4838-a873-1df8801428aa
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3e7cd8b-af47-4838-a873-1df8801428aa
 - text: Elizondo said the object was smaller than a Piper Cub aircraft
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:15640-15724
-  quote: That’s smaller than a Piper Cub, an aircraft built for bush pilots and recreational
-    fliers.
   claim_id: db5ff328-93d4-494c-921d-d667a5f3a390
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-db5ff328-93d4-494c-921d-d667a5f3a390
 - text: Elizondo said the object showed no plume of exhaust, no wings, and no propellers
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:16209-16320
-  quote: The object moves from the top right to the lower left of the screen. There’s
-    no plume of exhaust, no wings, no propellers.
   claim_id: 5d837143-fde8-4299-b351-eab52e068c66
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5d837143-fde8-4299-b351-eab52e068c66
@@ -185,7 +161,6 @@ references:
     or intelligence community could explain the object
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:16390-16441
-  quote: At the time, no one in DoD or the IC could explain it.
   claim_id: d17f67a7-775b-4aa4-9a44-174be1d4800c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d17f67a7-775b-4aa4-9a44-174be1d4800c
@@ -193,17 +168,12 @@ references:
     effect, but he disagreed, citing the pilots' reaction to the object's speed
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:16445-16721
-  quote: After several years of analysis, however, later researchers would claim that
-    the object was going much slower than previously thought. This effect is called
-    a parallax. I still don’t agree with this assessment, since the pilots who witnessed
-    the object flying marveled at its speed.
   claim_id: 9a95144e-31ac-42ff-be9a-abcd3c35a3f0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9a95144e-31ac-42ff-be9a-abcd3c35a3f0
 - text: Elizondo and colleagues planned to use both videos to reinforce OPLAN Interloper
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:19980-20043
-  quote: hesitation we knew we would use both videos to reinforce OPLAN Interloper.
   claim_id: 08f8fe74-707e-4b53-9f6c-b17dbbed5249
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-08f8fe74-707e-4b53-9f6c-b17dbbed5249
@@ -211,8 +181,6 @@ references:
     and an NSA representative where both videos were shown
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:21631-21748
-  quote: A few months later I was sitting in a room with high-level Navy officials,
-    CIA reps, and someone from the NSA... we rolled the tapes.
   claim_id: fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
@@ -220,9 +188,6 @@ references:
     their low resolution would hasten approval
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch27:3984-4161
-  quote: I anticipated that their low resolution would be an asset and hasten the
-    approval process. I chose the FLIR video (aka Tic Tac from 2004), and the GoFast
-    and GIMBAL videos from 2015.
   claim_id: 4e101289-de3e-48f8-9726-5a59a348ea41
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4e101289-de3e-48f8-9726-5a59a348ea41
@@ -230,8 +195,6 @@ references:
     request form
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch27:4167-4309
-  quote: I described all three videos on a single Form 1910, which the DoD uses to
-    request declassification of everything from documents to multimedia content.
   claim_id: 2223045f-db27-4a88-9e13-8e82859a59b3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2223045f-db27-4a88-9e13-8e82859a59b3
@@ -239,8 +202,6 @@ references:
     UNLIMITED DISTRIBUTION, approving public release of all three videos
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch27:5617-5748
-  quote: 'Shortly after, the approval showed up in my inbox. DoDOPSR had officially
-    stamped my Form 1910 with the following words: UNLIMITED DISTRIBUTION.'
   claim_id: 142a480a-00e6-4c47-aa96-3b2ab61df55c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-142a480a-00e6-4c47-aa96-3b2ab61df55c

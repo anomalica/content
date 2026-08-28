@@ -97,9 +97,6 @@ references:
     to the coordinate targeting system.
   source: Remote Viewing Secrets
   location: ch17:10096-10320
-  quote: As I understand it, one of the psychics working at the lab, Ingo Swann, suggested
-    the answer. They could use map coordinates to identify a specific location on
-    the ground. Hence was born what is now known as the "coordinate system."
   claim_id: 11171130-a8f8-4ecc-8e61-804212377dc9
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-11171130-a8f8-4ecc-8e61-804212377dc9
@@ -107,8 +104,6 @@ references:
     at SRI International.
   source: Remote Viewing Secrets
   location: ch17:50314-50466
-  quote: Originally developed by Ingo Swann while working at SRI-International, this
-    is now the most commonly referred to or generally accepted method of remote viewing
   claim_id: 8c0f915c-2a1a-4bf2-9f19-f3de36065f92
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-8c0f915c-2a1a-4bf2-9f19-f3de36065f92
@@ -116,8 +111,6 @@ references:
     system, according to Joseph McMoneagle.
   source: Remote Viewing Secrets
   location: ch17:51045-51155
-  quote: The originator of this training system did not distribute an all-inclusive
-    document with this training system either.
   claim_id: 461ebe13-3d8e-42d6-a107-6174145dbe13
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-461ebe13-3d8e-42d6-a107-6174145dbe13
@@ -125,10 +118,6 @@ references:
     laboratory.
   source: Remote Viewing Secrets
   location: ch23:11646-11915
-  quote: Ingo Swann, a well-known psychic and remote viewer with the laboratory at
-    SRI-International, and one of the original participants in the CIA evaluations
-    of remote viewing back in the early 1970s, made astounding predictions concerning
-    the outlying planets in our solar system.
   claim_id: 8964ec41-9270-4b8e-b2db-066f57ddcbdf
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-8964ec41-9270-4b8e-b2db-066f57ddcbdf
@@ -136,8 +125,6 @@ references:
     in the early 1970s.
   source: Remote Viewing Secrets
   location: ch23:11743-11835
-  quote: one of the original participants in the CIA evaluations of remote viewing
-    back in the early 1970s
   claim_id: 5abb532a-5372-4696-a7c2-b7af1d8a2444
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-5abb532a-5372-4696-a7c2-b7af1d8a2444
@@ -297,9 +284,6 @@ references:
     its thin rings before they were confirmed by unmanned space probes years later.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:34146-34308
-  quote: In one session, Swann claimed to have remote viewed Jupiter and described
-    its very thin rings, which would only be spotted and confirmed by unmanned probes
-    years later.
   claim_id: 64d3a4ba-808f-4b0a-83b5-7bb53e29f2bf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-64d3a4ba-808f-4b0a-83b5-7bb53e29f2bf
@@ -315,10 +299,6 @@ references:
     to the source record.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:32389-32664
-  quote: RV pioneer Ingo Swann came out with an exotic UFO-related memoir played out
-    between 1975 and 1977 in his book Penetration (1998). It told of covert meetings
-    with a shadowy group of individuals that led to Swann participating in remote
-    viewing evidence of intelligence on the moon
   claim_id: 036a7d61-7839-4513-b415-008948231ccf
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-036a7d61-7839-4513-b415-008948231ccf

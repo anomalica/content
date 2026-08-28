@@ -40,8 +40,6 @@ references:
 - text: Glenn, Schirra, Grissom and Cooper were all Scottish Rite Freemasons
   source: Dark Mission
   location: ch12:116958-117082
-  quote: Of the original "Mercury Seven" astronauts, John Glenn, Wally Schirra, Gus
-    Grissom and Gordon Cooper were all Scottish Rite Freemasons.
   claim_id: bfc06456-e363-460a-9041-aa06a24ff81f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bfc06456-e363-460a-9041-aa06a24ff81f
@@ -57,8 +55,6 @@ references:
     the early space programme
   source: Dark Mission
   location: ch19:26499-26620
-  quote: '"Back in those glory days, I was very uncomfortable when they asked us to
-    say things we didn''t want to say and deny other things.'
   claim_id: eed2b36e-d8e0-42c2-997d-0aa5a0030e43
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-eed2b36e-d8e0-42c2-997d-0aa5a0030e43
@@ -66,58 +62,42 @@ references:
     seen strange things
   source: Dark Mission
   location: ch19:26628-26825
-  quote: Some people asked, you know, were you alone out there? We never gave the
-    real answer, and yet we see things out there, strange things, but we know what
-    we saw out there. And we couldn't really say anything.
   claim_id: 40dae2d7-e31a-47a2-9006-c145e64cca83
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-40dae2d7-e31a-47a2-9006-c145e64cca83
 - text: Glenn said NASA's bosses feared a War of the Worlds-type panic
   source: Dark Mission
   location: ch19:26835-26980
-  quote: The bosses were really afraid of this, they were afraid of the 'War of the
-    Worlds'-type stuff, and about panic in the streets. So we had to keep quiet.
   claim_id: b5859dae-d2ed-4cc4-9a0b-5e9fb8baf963
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b5859dae-d2ed-4cc4-9a0b-5e9fb8baf963
 - text: Glenn said astronauts now only see those things in nightmares or films
   source: Dark Mission
   location: ch19:26987-27110
-  quote: And now we only see these things in our nightmares, or maybe in the movies,
-    and some of them are pretty close to being the truth."
   claim_id: 50d2012e-b082-4fbb-bf51-8a947ffa6eaa
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-50d2012e-b082-4fbb-bf51-8a947ffa6eaa
 - text: Glenn appeared on NBC's Frasier in March 2001, making not-so-subtle comments
   source: Dark Mission
   location: ch19:26343-26487
-  quote: In March 2001, former astronaut and Senator John Glenn made a March appearance
-    on the NBC comedy *Frasier,* in which he made some not-so-subtle comments
   claim_id: 4c5a70de-65bd-4705-b7c3-041fcd30e154
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4c5a70de-65bd-4705-b7c3-041fcd30e154
 - text: Oberg dismissed the comments as humour given the comedic context
   source: Dark Mission
   location: ch19:27202-27361
-  quote: NASA sycophants, like James Oberg, immediately dismissed these comments as
-    simple humor because of their context—one of the most popular situation comedies
-    on television.
   claim_id: 33f3e80f-1176-4380-8479-88f1a225f0ee
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-33f3e80f-1176-4380-8479-88f1a225f0ee
 - text: 'Hoagland: appearance had the earmarks of a straightforward Brookings revelation'
   source: Dark Mission
   location: ch19:27570-27657
-  quote: In fact, this bizarre appearance has all the earmarks of a straightforward
-    "Brookings" revelation.
   claim_id: 0cc95878-d679-4d20-806e-5fbb81e6bb21
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0cc95878-d679-4d20-806e-5fbb81e6bb21
 - text: 'Hoagland: remarks a scathing indictment of NASA''s integrity'
   source: Dark Mission
   location: ch19:28164-28258
-  quote: Regardless of where they were spoken, Glenn's words are a scathing indictment
-    of NASA and its integrity.
   claim_id: 7ce707c7-e147-4a72-b731-ceab20d0eaee
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7ce707c7-e147-4a72-b731-ceab20d0eaee

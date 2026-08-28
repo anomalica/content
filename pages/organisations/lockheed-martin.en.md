@@ -85,9 +85,6 @@ references:
     vice president, in researching the company that merged into Lockheed Martin
   source: In Plain Sight
   location: ch28:19359-19546
-  quote: He chased down an elusive scientist named George S. Trimble, a former vice
-    president with the Glenn L. Martin Company, which eventually merged to become
-    part of the giant Lockheed Martin Corporation.
   claim_id: 9e923040-7efd-4899-a55b-c4a85a7e1950
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9e923040-7efd-4899-a55b-c4a85a7e1950
@@ -105,18 +102,12 @@ references:
     Works, the pseudonym for its Advanced Developments Projects division
   source: In Plain Sight
   location: ch13:13431-13709
-  quote: He befriended engineer Ben Rich, the former Director of US aerospace company
-    Lockheed Martin's Skunk Works (the pseudonym for Lockheed Martin's secretive Advanced
-    Developments Projects division, where many of America's most advanced aircraft
-    have been designed).
   claim_id: 4120858f-cd4d-4d65-a101-095ff0d14ef6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4120858f-cd4d-4d65-a101-095ff0d14ef6
 - text: The Lockheed Martin F-22 Raptor has a top speed of 2414 kilometres per hour
   source: In Plain Sight
   location: ch13:19351-19443
-  quote: The latest high-tech Lockheed Martin F-22 Raptor fighter has a top speed
-    of (only?) 2414 km/h.
   claim_id: ffadaac8-8fc4-4c6c-9b29-75693736a30c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ffadaac8-8fc4-4c6c-9b29-75693736a30c
@@ -143,7 +134,6 @@ references:
     proposals in early 2006
   source: Dark Mission
   location: ch19:79942-79966
-  quote: One of the consortiums, Lockheed Marti
   claim_id: 7946c65f-7127-49dd-80bc-406dccaa5657
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7946c65f-7127-49dd-80bc-406dccaa5657
@@ -151,9 +141,6 @@ references:
     requirement
   source: Dark Mission
   location: ch19:80455-80635
-  quote: Lockheed had botched NASA’s initial call for “Apollo on steroids” and, rather
-    than design an evolution of that proven concept, submitted a radical, Space Shuttle-like
-    lifting body design.
   claim_id: fa8961a6-6df0-4d1f-8f08-c1484a99026f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fa8961a6-6df0-4d1f-8f08-c1484a99026f
@@ -161,9 +148,6 @@ references:
     an Apollo-style capsule
   source: Dark Mission
   location: ch19:80643-80852
-  quote: NASA was unimpressed with their approach, and at a preliminary design review
-    in March told the contractor to go back to the drawing board and produce an Apollo-style
-    capsule more closely resembling Northrop’s concept.
   claim_id: 35472f81-4786-4edc-a01b-01b1a7f92436
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-35472f81-4786-4edc-a01b-01b1a7f92436
@@ -171,8 +155,6 @@ references:
     existing, proven electronics
   source: Dark Mission
   location: ch19:82402-82548
-  quote: Lockheed had proposed a new suite of avionics that would require extensive
-    technological development, while Northrop’s emphasized existing proven electronics.
   claim_id: 5036a5ea-d555-42f0-be8f-fa95c1da950a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5036a5ea-d555-42f0-be8f-fa95c1da950a
@@ -180,8 +162,6 @@ references:
     despite never having built a crewed spacecraft
   source: Dark Mission
   location: ch19:82561-82700
-  quote: Lockheed also proposed using their satellite division in Colorado as the
-    prime design center, and they had never built a manned spacecraft before.
   claim_id: 12aea4c9-3670-410b-b3f9-96a4ae202e69
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-12aea4c9-3670-410b-b3f9-96a4ae202e69
@@ -189,8 +169,6 @@ references:
     were confident they had surpassed Lockheed Martin
   source: Dark Mission
   location: ch19:82709-82841
-  quote: As the final designs were submitted in May 2006, Northrop officials were
-    confident their proposal had surpassed the Lockheed Martin design.
   claim_id: 25cd09e2-4179-4144-b7c5-519ca13ee8c2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-25cd09e2-4179-4144-b7c5-519ca13ee8c2
@@ -198,10 +176,6 @@ references:
     producing anything beyond quarter-scale models
   source: Dark Mission
   location: ch19:82948-83188
-  quote: they had a dismal track record with an earlier Shuttle replacement Project,
-    called “the X-33.” Lockheed had spent several years and nearly a billion dollars
-    on the X-33, and never produced anything but some quarter scale models to show
-    for it.
   claim_id: ec5518f6-0e8f-4291-a5a7-48d82b6f1fda
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ec5518f6-0e8f-4291-a5a7-48d82b6f1fda
@@ -209,8 +183,6 @@ references:
     programme
   source: Dark Mission
   location: ch19:86161-86284
-  quote: the final shock came in late August... that *Lockheed* had been awarded the
-    Orion “Apollo on steroids” CEV Program.
   claim_id: 03ddc761-6a26-4804-9b62-2141e7078b58
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-03ddc761-6a26-4804-9b62-2141e7078b58
@@ -218,8 +190,6 @@ references:
     Florida
   source: Dark Mission
   location: ch19:86476-86612
-  quote: NASA’s formal reasons were not immediately clear, except that Lockheed had
-    promised to launch sooner and agreed to do final assembly in Florida.
   claim_id: 5a0a7403-bcb8-42e9-a406-6604c857eab6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5a0a7403-bcb8-42e9-a406-6604c857eab6
@@ -227,9 +197,6 @@ references:
     factor
   source: Dark Mission
   location: ch19:86621-86797
-  quote: There were some technical reasons given, like the fact that Lockheed’s design
-    had “circular” solar panels rather than rectangular ones, but these seemed more
-    like excuses than reasons
   claim_id: e7f836da-6554-497d-8740-c0294a9101da
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e7f836da-6554-497d-8740-c0294a9101da
@@ -237,9 +204,6 @@ references:
     not a review committee
   source: Dark Mission
   location: ch19:87131-87339
-  quote: At the official “contractor unveiling” press conference, it was also learned
-    that the final decision for Lockheed’s design had been made by new NASA Administrator
-    Mike Griffin himself rather than any “review committee.”
   claim_id: 7b3a0465-3052-4e25-a12e-15c4bb46f759
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7b3a0465-3052-4e25-a12e-15c4bb46f759
@@ -247,10 +211,6 @@ references:
     win the Orion contract
   source: Dark Mission
   location: ch19:86161-86466
-  quote: the final shock came in late August, when NASA surprisingly announced (well,
-    not that surprisingly; Hoagland had correctly been predicting *for weeks* what
-    was going to take place, which his co-author *steadfastly* refused to believe
-    …) that *Lockheed* had been awarded the Orion “Apollo on steroids” CEV Program.
   claim_id: 1bbb4d4d-eaf0-4ec4-aa8f-5afeb691105e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1bbb4d4d-eaf0-4ec4-aa8f-5afeb691105e
@@ -258,9 +218,6 @@ references:
     the constellation Orion
   source: Dark Mission
   location: ch19:86806-86976
-  quote: unless, of course, you quietly noticed the eerie resemblance of the Lockheed
-    “Orion” panels to the look and placement of the actual “belt stars” in the constellation
-    of *Orion*
   claim_id: 3a0ba265-8f35-4921-bd63-68288128ea8c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3a0ba265-8f35-4921-bd63-68288128ea8c
@@ -284,9 +241,6 @@ references:
     privately that a TR3B craft, if real, is not built by Lockheed Martin
   source: In Plain Sight
   location: ch28:10916-11079
-  quote: Mellon says, 'My current and former colleagues at Lockheed Martin and the
-    Skunk Works are very clear in private settings that if there is a TR3B it is not
-    made by Lockheed.
   claim_id: 1c637488-34ff-4e19-97d8-82a393d101d7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1c637488-34ff-4e19-97d8-82a393d101d7
@@ -294,14 +248,6 @@ references:
     Skunk Works, which it declined to join
   source: In Plain Sight
   location: ch18:15278-15884
-  quote: '''Tom DeLonge reached out to Skunk Works with interest in collaborating
-    on a documentary focused on secret machines and advanced development projects,''
-    Lockheed Martin said in a statement. ''Multiple members of the Skunk Works team
-    met with DeLonge to explore his vision for the documentary, as we would with any
-    individual or organisation interested in telling the story of Skunk Works and
-    the technologies we''ve developed. We ultimately decided to not move forward with
-    our participation in the documentary. During this exploration period, DeLonge
-    attended a Skunk Works employee event.'''
   claim_id: 96eab035-67ac-45fd-99ab-809b82bc55d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-96eab035-67ac-45fd-99ab-809b82bc55d8
@@ -309,11 +255,6 @@ references:
     Air Force generals, and Skunk Works' Rob Weiss
   source: In Plain Sight
   location: ch20:4492-4853
-  quote: 'Amidst them was a smoking gun that lent strong support to DeLonge''s extraordinary
-    claims: a string of exchanges between Podesta and DeLonge, revealing plans for
-    a Google Hangout meeting between DeLonge, two US Air Force generals and Rob Weiss,
-    the Lockheed Martin executive vice-president and general manager of its advanced
-    development programs known as Skunk Works.'
   claim_id: 541e7b0f-e70b-4f52-802b-a63c58b9c921
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-541e7b0f-e70b-4f52-802b-a63c58b9c921
@@ -390,8 +331,6 @@ references:
     units while JPL assumed metric
   source: Dark Mission
   location: ch14:11805-11926
-  quote: The Lockheed/Martin team transmitted acceleration data in the English system,
-    and controllers at JPL assumed that it was metric.
   claim_id: 5f8dd875-1bec-4da2-9b4c-83d96f28687b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5f8dd875-1bec-4da2-9b4c-83d96f28687b
@@ -399,9 +338,6 @@ references:
     Young after the Mars Climate Orbiter and Mars Polar Lander losses
   source: Dark Mission
   location: ch14:19068-19251
-  quote: NASA director Dan Goldin appointed a commission headed by Thomas Young, formerly
-    of Lockheed Martin, to investigate not only the MPL disappearance but also the
-    entire Mars program at JPL.
   claim_id: 6914afeb-f7d5-4dee-810d-e009c5d4dfc8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6914afeb-f7d5-4dee-810d-e009c5d4dfc8

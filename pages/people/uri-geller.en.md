@@ -179,8 +179,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:11504-11643
-  quote: the Israeli psychic who began an entertainment career as a stage magician
-    but later puzzled the scientists who tested his abilities in the laboratory.
   claim_id: 279296ef-75e7-4469-a5b6-60a0ccf10062
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-279296ef-75e7-4469-a5b6-60a0ccf10062
@@ -189,9 +187,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:14713-14904
-  quote: An American parapsychologist, Dr. Andrija Puharich, brought Geller to the
-    United States in 1971 and arranged for the young man to be studied under laboratory
-    conditions at several scientific institutions.
   claim_id: 0c42c55f-7f5d-4d4b-905c-037a1ad7d206
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0c42c55f-7f5d-4d4b-905c-037a1ad7d206
@@ -200,9 +195,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:24578-24815
-  quote: 'During his first interview with scientists from the Stanford Research Institute,
-    Uri explained the concept of SPECTRA’s computers guiding his “powers” and said:
-    “You see, they are computers, which were fed millions of light-years in the future.”'
   claim_id: f7f75b7c-4b54-498c-b4c5-2c9434cf257f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f7f75b7c-4b54-498c-b4c5-2c9434cf257f
@@ -211,9 +203,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:11312-11516
-  quote: At the time of this encounter I had been for over a year in touch with another
-    man whose story was similar but on the veracity of which I had reserved judgment.
-    This other man was Uri Geller, the Israeli psychic
   claim_id: 2b06eb52-fed2-42d7-859c-a6c1b0e75981
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2b06eb52-fed2-42d7-859c-a6c1b0e75981
@@ -222,8 +211,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:1077-1220
-  quote: At the age of three, as he was playing in a garden in Tel Aviv, he saw a
-    large shining bowl-shaped light in the sky above him, on December 25, 1949.
   claim_id: 8ed0caee-592a-4279-9edb-27f6de6ed976
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-8ed0caee-592a-4279-9edb-27f6de6ed976
@@ -232,8 +219,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:1291-1478
-  quote: The shining figure had no face that could be seen, only a radiant countenance...Uri
-    passed out from the power of its rays, with the pain of blindness.
   claim_id: 1ec2f9cc-971b-4ffe-bae9-47b6a9d90fce
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1ec2f9cc-971b-4ffe-bae9-47b6a9d90fce
@@ -242,16 +227,12 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:21205-21356
-  quote: In the case of Uri Geller, who, like the French doctor, traces his paranormal
-    abilities to his exposure to a peculiar beam of light that came from the sky
   claim_id: b23c94d1-196e-48cc-88f1-dd85b0097232
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b23c94d1-196e-48cc-88f1-dd85b0097232
 - text: Geller has said his powers come from a form of consciousness he calls Hoova
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:26349-26437
-  quote: Uri Geller has stated that his powers come from a form of consciousness emanating
-    from “Hoova,”
   claim_id: 26033a1b-8f6b-47c5-a1ab-dcf6328b3ee7
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-26033a1b-8f6b-47c5-a1ab-dcf6328b3ee7
@@ -260,10 +241,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:463-701
-  quote: The series of contacts between a physician, Andrija Puharich, a graduate
-    of Northwestern University, and the “Intelligence in the Sky” called SPECTRA or
-    Hoova, began on November 30, 1971, when Puharich hypnotized Uri Geller for the
-    first time.
   claim_id: 10463795-d081-4d39-a962-77d4e7e85f41
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-10463795-d081-4d39-a962-77d4e7e85f41
@@ -272,8 +249,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:707-793
-  quote: Uri said under hypnosis that he found himself in a cave in Cyprus and “came
-    there for learning.”
   claim_id: 6675e9d3-bb81-4e34-bf86-9b1e00102308
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6675e9d3-bb81-4e34-bf86-9b1e00102308
@@ -282,9 +257,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:1802-2003
-  quote: 'It identified itself as the source that had found Uri in the garden and
-    had “programmed” him. The message was impressive but also absurd: “We reveal ourselves
-    because … plans for war have been made by Egypt.”'
   claim_id: 789e570d-6af6-40e6-afc3-1d8e3bc28ef8
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-789e570d-6af6-40e6-afc3-1d8e3bc28ef8
@@ -292,9 +264,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:25088-25277
-  quote: Puharich sometimes receives the messages when Uri is away, and it is difficult
-    to believe that even a clever magician would be able to plant loudspeakers in
-    the walls wherever Dr. Puharich goes.
   claim_id: e6a8f477-a89b-4064-bdef-c4574cc7b03e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e6a8f477-a89b-4064-bdef-c4574cc7b03e
@@ -303,9 +272,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch12:785-977
-  quote: SPECTRA is the name of a spacecraft which we use as you use a planet. It
-    has been stationed for the past eight hundred years over the earth…. The Israeli
-    territory is where we first landed on earth
   claim_id: f8a262a4-584d-4698-a862-085269ba7e02
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f8a262a4-584d-4698-a862-085269ba7e02
@@ -314,10 +280,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:2673-2962
-  quote: “There is a dematerialized aspect to your atoms that we can use” (p. 166),
-    and “We need that mass landing like you people on earth call refueling, and charging
-    up, like a huge plane of yours charges up with electricity. We do that through
-    your barometric and cosmic layer around earth” (p. 179).
   claim_id: 84e78942-afcd-40ae-b66f-314175277e5f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-84e78942-afcd-40ae-b66f-314175277e5f
@@ -326,8 +288,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:5993-6091
-  quote: Uri and Puharich receive messages from SPECTRA, predicting mass landings
-    (perhaps visible only to themselves).
   claim_id: ba56ebd5-6844-4c10-a8e2-891fd36fbbe7
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ba56ebd5-6844-4c10-a8e2-891fd36fbbe7
@@ -335,7 +295,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:45652-45708
-  quote: Geller and Puharich have forecast massive flying saucer landings.
   claim_id: 4525f8ae-dd94-438e-9400-d6a2590c1c67
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4525f8ae-dd94-438e-9400-d6a2590c1c67
@@ -343,7 +302,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch12:1271-1325
-  quote: Received on magnetic tape. The tape disappeared after transcription.
   claim_id: 988563d5-0e91-4bf3-8a78-16e4faf6a159
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-988563d5-0e91-4bf3-8a78-16e4faf6a159
@@ -352,9 +310,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: p. 127 (ch11:8012-8174)
-  quote: “I believe,” states Dr. Puharich (p. 127), “that a Prophet, a Uri Geller
-    … is specifically created to serve as an intermediary between a ‘divine’ intelligence
-    and man.”
   claim_id: c86bd3f3-2f1d-425c-a8c1-c7859c0c3ced
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c86bd3f3-2f1d-425c-a8c1-c7859c0c3ced
@@ -363,8 +318,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:8428-8568
-  quote: Dr. Puharich states flatly that “The relationship … between these superior
-    beings and Uri and me continues to grow deeper and mutually more meaningful.”
   claim_id: 597e7465-548a-4f8d-b902-f4368e8d7e4e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-597e7465-548a-4f8d-b902-f4368e8d7e4e
@@ -373,9 +326,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch17:21115-21287
-  quote: he is totally committed to the idea that he and Uri are now guided by a very
-    high source of wisdom, and that the only course for mankind is to place its destiny
-    in “their” hands
   claim_id: 28413dcc-399a-4d98-8ea4-aba13c926696
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-28413dcc-399a-4d98-8ea4-aba13c926696
@@ -384,10 +334,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:8651-8902
-  quote: Although most of the messages from SPECTRA are said to have come on a tape
-    recorder, Uri Geller himself has begun to get information through automatic writing.
-    It comes in the form of tensor equations, a kind of higher mathematics of which
-    Uri has no concept.
   claim_id: 057e1f3d-a37f-4c48-81bc-d4cbb5c45769
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-057e1f3d-a37f-4c48-81bc-d4cbb5c45769
@@ -396,8 +342,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch17:4423-4536
-  quote: I would argue that they are all wrong, even Puharich with his disappearing
-    tapes, and Uri voicing from Rhombus 4-D.
   claim_id: 5ed4dce6-6dc6-4587-925f-4de41d7f63a5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5ed4dce6-6dc6-4587-925f-4de41d7f63a5
@@ -406,9 +350,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:5799-5985
-  quote: we find that the cult that is building up around Puharich and Geller is very
-    similar to a number of other belief structures that have developed in the U.S.
-    and other countries in recent years.
   claim_id: 27185691-355b-439d-843f-23bf7485784b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-27185691-355b-439d-843f-23bf7485784b
@@ -416,9 +357,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:45106-45268
-  quote: One of the most publicized of these groups in recent years is the network
-    of Uri Geller devotees, which has succeeded in arousing the interest of several
-    leading physicists.
   claim_id: e2afb4b1-e63d-4360-b156-e2dcf8aa18b9
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e2afb4b1-e63d-4360-b156-e2dcf8aa18b9
@@ -426,9 +364,6 @@ references:
     claimed his own psychic and UFO experiences
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch11:28344-28518
-  quote: He was a friend of Andrija Puharich, was deeply involved in the Uri Geller
-    affair, and claimed to be psychic himself. Not only was he psychic, but he had
-    had a number of UFO encounters
   claim_id: 2f32f54f-eec9-45af-baeb-be4d8e7568ec
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2f32f54f-eec9-45af-baeb-be4d8e7568ec
@@ -437,8 +372,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:40627-40733
-  quote: One of the leaders of the sect was a “Dr. Armstrong,” a man we will again
-    find involved in the Uri Geller affair.
   claim_id: acfbca68-5f2b-4e59-a59e-6e1cf1e16bb1
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-acfbca68-5f2b-4e59-a59e-6e1cf1e16bb1
@@ -446,7 +379,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch17:20869-20916
-  quote: Puharich describes his latest experiences with Geller.
   claim_id: ac973420-faad-48a0-acce-a3c0fe814497
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ac973420-faad-48a0-acce-a3c0fe814497
@@ -454,7 +386,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch17:21295-21348
-  quote: Ira gives the floor to Charles Muses who comments on Geller.
   claim_id: a3ec1f1a-df8d-4322-bda9-338197c98915
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a3ec1f1a-df8d-4322-bda9-338197c98915
@@ -463,9 +394,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:23591-23777
-  quote: Additional comments have come to me from scientists in several countries.
-    Professor Miklos, a Romanian researcher, offered a theory that may be helpful
-    in our attempts to understand Uri Geller
   claim_id: b84b2660-e49c-4120-8d21-d309cc32211a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b84b2660-e49c-4120-8d21-d309cc32211a
@@ -474,9 +402,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:6013-6233
-  quote: In December, 1972, I had lunch with Geller and showed him the series of Phoenician
-    seals described in Chapter Six. They depict a religious ritual performed by priests,
-    and a flying disk from which God-like creatures are emerging.
   claim_id: 31a51f43-f6e7-49c1-8347-5849eb33ee1e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-31a51f43-f6e7-49c1-8347-5849eb33ee1e
@@ -484,8 +409,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:6243-6377
-  quote: Uri studied these photographs with much interest and proceeded to tell me
-    confidentially the details of his own close encounters with UFOs.
   claim_id: 432b561f-18c0-4f6f-b965-cb73a5241592
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-432b561f-18c0-4f6f-b965-cb73a5241592
@@ -494,8 +417,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:6383-6533
-  quote: He was in fact, I learned, a "secret contactee," a man who believed himself
-    to be in contact with an alien entity which he did not want to mention in public.
   claim_id: fa132188-3bfd-4fe6-873e-18cea6d23f5a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-fa132188-3bfd-4fe6-873e-18cea6d23f5a
@@ -504,9 +425,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:6965-7125
-  quote: 'During our discussion I asked Uri Geller if he thought he could contact
-    the UFO entity again to obtain for us a real test case: a close observation of
-    a flying saucer.'
   claim_id: 24499a5a-eb42-4c59-8995-50077def1cc7
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-24499a5a-eb42-4c59-8995-50077def1cc7
@@ -515,8 +433,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:7133-7237
-  quote: He replied that in all his meetings with "them" the initiative for the contact
-    has been with the "other side."
   claim_id: accec093-042f-4cd3-8c7a-210968ee3f5c
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-accec093-042f-4cd3-8c7a-210968ee3f5c
@@ -524,7 +440,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:7245-7315
-  quote: Later during our lunch Uri proposed to do telepathic experiments with me.
   claim_id: 2a52523e-33ae-4f25-893e-da240a1cd741
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2a52523e-33ae-4f25-893e-da240a1cd741
@@ -533,9 +448,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:7490-7685
-  quote: One of the physicists with whom Geller had been working handed me a sealed
-    envelope containing a card on which a target had been drawn. It was the outline
-    of a whale blowing water vapor into the air.
   claim_id: 5049b5ba-f019-429c-a44c-6d3c2992ad46
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5049b5ba-f019-429c-a44c-6d3c2992ad46
@@ -543,8 +455,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:7820-7942
-  quote: Uri was to imagine a similar screen in his own mind and fill out the picture,
-    but he received no clear image at the first trial.
   claim_id: c3256e31-6da8-4ffe-8d95-e08c1bb7eb06
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c3256e31-6da8-4ffe-8d95-e08c1bb7eb06
@@ -553,9 +463,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:8311-8487
-  quote: Now Uri took a blank card and said, as he rapidly drew on it, "It’s strange,
-    I’m getting two things." On the card he passed around, he had drawn a fish. Next
-    to the fish was a fountain.
   claim_id: 5895c4f4-8767-445b-99c8-2759171b232e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5895c4f4-8767-445b-99c8-2759171b232e
@@ -564,9 +471,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:8533-8648
-  quote: This was a convincing test because it excluded the "collusion" hypothesis...
-    I was the only person who knew that two different targets, rather than one, had
-    been sent!
   claim_id: 3ba8dac1-e49f-4df7-848f-88ed1a8bbcda
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-3ba8dac1-e49f-4df7-848f-88ed1a8bbcda
@@ -574,8 +478,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:1044-1132
-  quote: Uri Geller asked the subject to select a three-digit number and to write
-    it down on the board.
   claim_id: def8128b-bafe-40fc-b178-f71b56a1fa92
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-def8128b-bafe-40fc-b178-f71b56a1fa92
@@ -583,7 +485,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:1342-1409
-  quote: 'The subject wrote a number on the board: the digits were 7, 2, and 5.'
   claim_id: 6d722af5-63e0-4993-986e-187b9fbbb927
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6d722af5-63e0-4993-986e-187b9fbbb927
@@ -592,9 +493,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:1412-1601
-  quote: 'Geller was sitting in a corner at the other end of the room, his head turned
-    toward the wall and hidden by a screen. He spelled out the digits he said he was
-    mentally picking up: 7, 2, and 5.'
   claim_id: 7bd265fc-cfb3-4ccc-b40d-a74024879c71
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7bd265fc-cfb3-4ccc-b40d-a74024879c71
@@ -603,9 +501,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:1139-1337
-  quote: As he gave these instructions a number came into my consciousness and I noted
-    it on the pad I was using to keep a record of the experiments, showing it to Janine
-    as I did so. The number I wrote was 726.
   claim_id: 610c9482-63ec-4ae6-b674-7776a3eabca5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-610c9482-63ec-4ae6-b674-7776a3eabca5
@@ -614,9 +509,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:3268-3429
-  quote: Knowing about this ability, I asked Uri privately if he had played a similar
-    game with his subject on the night of the experiment, and he assured me that he
-    had not.
   claim_id: 1cf4c868-4b56-48ff-88ac-945491aeadd3
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1cf4c868-4b56-48ff-88ac-945491aeadd3
@@ -625,10 +517,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:8913-9173
-  quote: Now I began to take Uri Geller more seriously. In the second experiment he
-    asked me to write a digit (I wrote down 8) and a second one (9) and then a third,
-    larger. I wrote 2. "Send me the last digit only," he said. And a moment later
-    he had written a 2 on a card.
   claim_id: c036d66e-334d-4e8b-8576-3c9d92996d63
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c036d66e-334d-4e8b-8576-3c9d92996d63
@@ -637,10 +525,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:9410-9733
-  quote: 'The interesting fact here was that my 2 was hastily drawn and that the horizontal
-    base of the digit was very flat and elongated. It was completely different from
-    the usual American way of drawing it. Now the drawing by Uri was not only similar
-    to mine: it was identical, as was soon demonstrated by superimposing the two tracings.'
   claim_id: 12613c8e-3c1f-4faf-a40a-723a474e9ec7
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-12613c8e-3c1f-4faf-a40a-723a474e9ec7
@@ -649,9 +533,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:10484-10666
-  quote: '"You know," said Uri, "everything you’ve seen … Those are little things.
-    This is not what I really do. My specialty is to produce phenomena with physical
-    objects. For example, take a spoon."'
   claim_id: 5916a906-5d84-453d-af49-0eca626a6f96
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5916a906-5d84-453d-af49-0eca626a6f96
@@ -659,9 +540,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:10675-10901
-  quote: With these words he touched, barely touched the spoon in his cup, and he
-    jumped back as if he had touched a snake. He reached for the spoon again and showed
-    it to us. It was bent three times, literally folded back against the handle.
   claim_id: a6b10f89-6645-44e8-9e8c-e263bfbf483e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a6b10f89-6645-44e8-9e8c-e263bfbf483e
@@ -670,10 +548,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:10124-10394
-  quote: 'For this reason, I deliberately changed my choice, reviewed a dozen colors,
-    and picked yellow as the target. Three times Uri gave me the signal to send him
-    the color. Then he calmly announced: "The color I receive is yellow, but once
-    out of three times I got the color blue."'
   claim_id: 4d646bdb-20df-40df-a203-dc09357b0668
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4d646bdb-20df-40df-a203-dc09357b0668
@@ -682,9 +556,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:5651-5826
-  quote: At the meeting of the Parapsychology Research Group mentioned earlier Geller
-    did not demonstrate metal bending to anyone’s satisfaction, and many members went
-    away with grave doubts.
   claim_id: bf22d449-86bf-4eec-991b-2e3191f4fd2b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bf22d449-86bf-4eec-991b-2e3191f4fd2b
@@ -693,9 +564,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:4672-4841
-  quote: but at the time of this writing no demonstration of this ability has been
-    provided in strict laboratory control environments, although a wealth of anecdotal
-    evidence is available.
   claim_id: 595df9ed-8e8b-410f-8a33-c4d3a58ddfca
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-595df9ed-8e8b-410f-8a33-c4d3a58ddfca
@@ -703,8 +571,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:2591-2673
-  quote: Uri Geller appears capable of forcing subjects to pick certain numbers or
-    certain words.
   claim_id: d9f0d541-7ce4-4027-a9ae-f13fd8e59b2c
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-d9f0d541-7ce4-4027-a9ae-f13fd8e59b2c
@@ -713,8 +579,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:7319-7394
-  quote: It is this short series of tests that convinced me that his abilities were
-    genuine.
   claim_id: 99eac439-f12d-4ff1-beba-a6d9ce429ec4
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-99eac439-f12d-4ff1-beba-a6d9ce429ec4
@@ -723,8 +587,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:5503-5642
-  quote: I am inclined to believe that although Geller, like every medium, uses trickery
-    at times, some of the phenomena that happen around him are genuine.
   claim_id: 74451da5-3e23-4330-a259-d537ac26b2af
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-74451da5-3e23-4330-a259-d537ac26b2af
@@ -732,8 +594,6 @@ references:
     direct contactees
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch6:13676-13804
-  quote: Under this definition, such historical figures as Joan of Arc or Joseph Smith
-    are direct contactees. So are Edgar Cayce and Uri Geller.
   claim_id: 195b98b9-8c81-48b0-889a-dfbebe0538d6
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-195b98b9-8c81-48b0-889a-dfbebe0538d6
@@ -742,9 +602,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:57264-57450
-  quote: Commenting on the childhood experiences of Cayce and Geller, a British researcher
-    named Peter Rogerson has reminded me that similar stories were common in accounts
-    of mediums of various kinds
   claim_id: e445f3f2-babd-457c-875e-008ed61c0d68
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e445f3f2-babd-457c-875e-008ed61c0d68
@@ -753,10 +610,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch16:26330-26617
-  quote: I propose the view that we are not dealing with spontaneous manifestations
-    that can be explained simply by the psychiatrist or by the student of ordinary
-    spiritualist phenomena, such as automatic writing. Nor are we necessarily dealing
-    with space visitors. We are dealing with a control system.
   claim_id: 3bb60852-7f05-469c-94da-023226673ab9
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-3bb60852-7f05-469c-94da-023226673ab9
@@ -765,9 +618,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:28893-29072
-  quote: I think the phenomena involving the table can be explained by unconscious
-    and mental process among the attending “spiritualists.” The same explanation holds
-    true for Puharich and Geller.
   claim_id: 2ffc70ee-f18e-4c2e-89a0-6e1ae34b39fa
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2ffc70ee-f18e-4c2e-89a0-6e1ae34b39fa
@@ -775,9 +625,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:15452-15657
-  quote: Most remarkable for our purpose, however, is the fact that Geller believes
-    himself invested with a mission, given to him by a mysterious space source. Some
-    of his followers even suggest that he might be a Messiah.
   claim_id: 19b35acb-7c2d-437d-b494-9daeaff0ab83
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-19b35acb-7c2d-437d-b494-9daeaff0ab83
@@ -785,7 +632,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:24978-25015
-  quote: I do not believe Uri Geller is a new Messiah.
   claim_id: 80f202d2-2fac-4ed2-aee3-994d0211c7b1
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-80f202d2-2fac-4ed2-aee3-994d0211c7b1
@@ -794,8 +640,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch18:332-467
-  quote: As I was discussing Uri Geller’s abilities with British scholar Gordon Creighton,
-    driving through the midst of London in the winter of 1973
   claim_id: 5b7a2bb8-e127-4728-93ce-dbdc2609bfb5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5b7a2bb8-e127-4728-93ce-dbdc2609bfb5

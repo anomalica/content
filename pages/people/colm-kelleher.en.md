@@ -51,16 +51,12 @@ references:
     Science
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:26254-26377
-  quote: Dr. Colm Kelleher, a biochemist and administrator of the National Institute
-    for Discovery Science, agreed to look into the case.
   claim_id: b4b76c9a-1aae-4920-a875-1fbfa3aac4c1
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-b4b76c9a-1aae-4920-a875-1fbfa3aac4c1
 - text: Kelleher came from a cancer research centre at the University of Colorado
   source: In Plain Sight
   location: ch15:12256-12329
-  quote: Dr Colm Kelleher came from a cancer research centre at the University of
-    Colorado.
   claim_id: 09e2e5e9-383f-4f98-b691-72f38a58d328
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-09e2e5e9-383f-4f98-b691-72f38a58d328
@@ -68,8 +64,6 @@ references:
     (BAASS) during AAWSAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:14650-14728
-  quote: Colm Kelleher, a biochemist who was the deputy administrator for BAASS during
-    AAWSAP
   claim_id: 6bea6b1c-3eda-474e-b1b0-967c675b92a6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6bea6b1c-3eda-474e-b1b0-967c675b92a6
@@ -87,8 +81,6 @@ references:
     elsewhere in Utah and New Mexico
   source: In Plain Sight
   location: ch25:15149-15294
-  quote: There were the aforementioned reports Dr Colm Kelleher wrote to NIDS about
-    strange goings-on at Skinwalker Ranch and other parts of Utah and New Mexico.
   claim_id: c6ce0df3-ae6e-4bc3-9d2b-7ca5cdf088b5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c6ce0df3-ae6e-4bc3-9d2b-7ca5cdf088b5
@@ -96,9 +88,6 @@ references:
     above the ranch house, November 1996
   source: In Plain Sight
   location: ch15:9786-10022
-  quote: Later that year, in November, he was sitting with fellow scientist Colm Kelleher
-    on the ranch-house's back porch and a similarly lit craft hurtled out from above
-    a nearby bluff and executed a sharp high-speed 90-degree turn right above them.
   claim_id: 006ce987-fc23-4530-b9f5-89232b1c8552
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-006ce987-fc23-4530-b9f5-89232b1c8552
@@ -106,9 +95,6 @@ references:
     wildcat
   source: In Plain Sight
   location: ch15:10800-11012
-  quote: Davis alerted Colm Kelleher and Terry, the ranch manager, who were with him,
-    and they all saw a huge creature suddenly jump down just in front of them; it
-    was far larger than any wildcat, the size of a bear or a cow.
   claim_id: 9d1286ec-0f59-4d43-9d28-cf54e592506f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9d1286ec-0f59-4d43-9d28-cf54e592506f
@@ -116,8 +102,6 @@ references:
     on camera
   source: In Plain Sight
   location: ch15:13845-13962
-  quote: Kelleher described a lot of 'anomalous phenomena', but none of it was captured
-    on numerous cameras set up around the ranch.
   claim_id: b7201cf5-f4cd-4f90-9b63-15aa525653d4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b7201cf5-f4cd-4f90-9b63-15aa525653d4
@@ -125,9 +109,6 @@ references:
     to the Jicarilla Apache Tribe in Dulce
   source: In Plain Sight
   location: ch15:22971-23177
-  quote: One of the NIDS investigators working with Colm Kelleher during this 1997
-    New Mexico NIDS investigation was Gabe Valdez, a New Mexico State policeman who
-    had strong links with the Jicarilla Apache tribe in Dulce.
   claim_id: e752aecd-226d-4a20-8f6a-9ccf70605b2c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e752aecd-226d-4a20-8f6a-9ccf70605b2c
@@ -135,10 +116,6 @@ references:
     UAP and a shaft dug into Mount Archuleta
   source: In Plain Sight
   location: ch15:25668-25944
-  quote: Kelleher’s NIDS report contains interviews with multiple members of the Jicarilla
-    Apache community who claimed in September 1997 to have witnessed not only hovering
-    UAPs but even to have stumbled across a mysterious ventilation shaft dug into
-    Mount Archuleta.
   claim_id: c4df3a48-44de-4ba7-b580-3e34d6295ab5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4df3a48-44de-4ba7-b580-3e34d6295ab5
@@ -146,8 +123,6 @@ references:
     recovered
   source: In Plain Sight
   location: ch17:16954-17099
-  quote: Dr Kelleher replied, 'We have had information over the last several years
-    that seems to indicate that, certainly, pieces of technology have been recovered.'
   claim_id: f01f42bb-9eae-495f-9105-b1ee26a861a9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f01f42bb-9eae-495f-9105-b1ee26a861a9
@@ -155,17 +130,12 @@ references:
     meet Garry Nolan
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:14594-14842
-  quote: Will flew to California with a small team that included Colm Kelleher, a
-    biochemist who was the deputy administrator for BAASS during AAWSAP, and the French
-    scientist Jacques Vallée, who had US government clearances related to the investigation
-    of UAP.
   claim_id: f775c4c3-96c1-4807-ab6a-bf19bb351011
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
 - text: Kelleher agreed to look into the Gary Lowrey alien claw case
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: 37-37
-  quote: Dr. Colm Kelleher... agreed to look into the case.
   claim_id: 4c82a40a-21fe-4da0-a03a-cdd069946904
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4c82a40a-21fe-4da0-a03a-cdd069946904
@@ -173,18 +143,12 @@ references:
     for DNA study
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:26436-26599
-  quote: Kelleher, after consultation with Dr. Roger Leir, who had already made extensive
-    enquiries into the case, felt the “claw” sample could be a good candidate for
-    DNA study.
   claim_id: 7ccd8905-be5e-4908-9ae1-03f57edb7d1d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7ccd8905-be5e-4908-9ae1-03f57edb7d1d
 - text: The investigation evolved into a major molecular biology research project
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:27085-27295
-  quote: “The investigation of this case went far beyond the ‘busi-ness-as-usual’
-    analyses usually afforded anomaly cases,” wrote Kelleher. “The project evolved
-    into a major molecular biology research project in its own right.”
   claim_id: ae676b4b-cfe5-4944-a2ce-e0a233f38d33
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-ae676b4b-cfe5-4944-a2ce-e0a233f38d33
@@ -192,10 +156,6 @@ references:
     out
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:27313-27624
-  quote: six separate rounds of subsequent DNA analysis, using different and sometimes
-    very novel approaches, were carried out to bring this case to a conclusion. It
-    was necessary to invent a new polymerase chain reaction using novel primers to
-    the most conserved DNA sequences on Earth in order to finally resolve this case.
   claim_id: 57e6fcce-56d5-4265-9311-4e1034827ae8
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-57e6fcce-56d5-4265-9311-4e1034827ae8
@@ -203,10 +163,6 @@ references:
     mollusc
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:27875-28122
-  quote: painstaking DNA analyses and the use of bioinformatics methodology over a
-    12 month period by highly qualified teams of experts in three countries was necessary
-    to establish that the biological specimen found in the house was a mundane terrestrial
-    mollusk.
   claim_id: 78c81f8d-7651-44c2-95c7-b45c94dd0c94
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-78c81f8d-7651-44c2-95c7-b45c94dd0c94

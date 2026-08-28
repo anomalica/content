@@ -108,7 +108,6 @@ references:
 - text: Strieber and Klein met in March 1986
   source: The Fourth Mind
   location: ch20:21804-21834
-  quote: as of our meeting in March of 1986
   claim_id: fba572c4-b4b7-4a41-9620-2cd3e117980d
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-fba572c4-b4b7-4a41-9620-2cd3e117980d
@@ -116,24 +115,18 @@ references:
     and warmth suggestions
   source: Communion
   location: 74-76
-  quote: Dr. Klein stood before me and asked me to look up at his finger... he began
-    saying that my eyelids were getting heavy... soon Dr. Klein began to say that
-    my right hand was getting warm.
   claim_id: a67edea8-5973-4968-834f-cff7f02e769f
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a67edea8-5973-4968-834f-cff7f02e769f
 - text: Budd Hopkins brought Klein into the process of hypnotising Strieber
   source: The Fourth Mind
   location: ch20:21544-21578
-  quote: he drew Dr. Donald Klein into the picture
   claim_id: a3b90709-e8c3-4fc8-bab9-9dec9e1c277f
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-a3b90709-e8c3-4fc8-bab9-9dec9e1c277f
 - text: Klein was Director of Research at the New York State Psychiatric Institute
   source: The Fourth Mind
   location: ch20:21587-21660
-  quote: Dr. Klein was the Director of Research at the New York State Psychiatric
-    Institute
   claim_id: d663939a-04a2-4128-9d9e-8ba295a781b6
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d663939a-04a2-4128-9d9e-8ba295a781b6
@@ -141,9 +134,6 @@ references:
     crimes as of March 1986
   source: The Fourth Mind
   location: ch20:21671-21834
-  quote: He told me of and his expertise in forensic hypnosis and said that it had
-    enabled him to assist in the solving of seventy-two crimes as of our meeting in
-    March of 1986
   claim_id: 6c118363-f523-4e8c-b589-1ac92372bdff
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6c118363-f523-4e8c-b589-1ac92372bdff
@@ -169,7 +159,6 @@ references:
 - text: Strieber underwent a three-hour pre-interview in Klein's office before hypnosis
   source: Communion
   location: ch10:1838-1914
-  quote: A few weeks later I was in his office undergoing a searching three-hour pre-interview.
   claim_id: 57181f11-0b26-4d64-9401-d7c451812048
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-57181f11-0b26-4d64-9401-d7c451812048
@@ -178,15 +167,12 @@ references:
     visitor experiences
   source: Communion
   location: ch10:1925-1977
-  quote: I had provided him with a document outlining all my memories.
   claim_id: 8cae8e9f-89c9-4bf5-a969-ba80c05fe498
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8cae8e9f-89c9-4bf5-a969-ba80c05fe498
 - text: Klein met Strieber in his gray office on East Seventy-ninth Street in Manhattan
   source: Communion
   location: ch10:8141-8220
-  quote: Donald Klein met me in his subdued gray office on East Seventy-ninth Street
-    in Manhattan.
   claim_id: 9da8037e-f6ea-41f2-9a50-fcbca797ed7d
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-9da8037e-f6ea-41f2-9a50-fcbca797ed7d
@@ -194,9 +180,6 @@ references:
     careful and acute-minded
   source: Communion
   location: ch10:8231-8469
-  quote: He is a tall man with curly hair and a quiet demeanor. Two things were immediately
-    apparent to me about him as a hypnotist. First, I sensed command; he was confident
-    of his skills. Second, he was a thorough, careful man with a very acute mind.
   claim_id: dde11313-f2ef-4fd2-b267-ab75f7f87760
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-dde11313-f2ef-4fd2-b267-ab75f7f87760
@@ -204,8 +187,6 @@ references:
     place on March 1, 1986
   source: Communion
   location: ch10:10508-10582
-  quote: 'SESSION DATE: March 1, 1986 SUBJECT: Whitley Strieber PSYCHIATRIST: Donald
-    Klein, MD'
   claim_id: 60ffb135-507e-4cb5-8316-488c8c51f1c0
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-60ffb135-507e-4cb5-8316-488c8c51f1c0
@@ -213,7 +194,6 @@ references:
 - text: During hypnosis Klein asked Strieber his age and Strieber answered 'Twelve'
   source: Communion
   location: ch12:19336-19405
-  quote: It was then that Dr. Klein asked me my age, and I heard myself say, "Twelve."
   claim_id: bc566a91-8e86-430e-97d9-a4a1182578c6
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-bc566a91-8e86-430e-97d9-a4a1182578c6
@@ -244,9 +224,6 @@ references:
     1, 1986 session because of the severity of the emotions relived
   source: Communion
   location: ch10:29843-30062
-  quote: I then emerged spontaneously from hypnosis once again. It is very unusual
-    to do this, especially from a deep trance like the one Dr. Klein had induced.
-    It was an indication of the extreme severity of the emotions I was reliving.
   claim_id: e745c95e-0667-443a-8991-555e063fd1c8
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-e745c95e-0667-443a-8991-555e063fd1c8
@@ -265,8 +242,6 @@ references:
     Klein did not ask leading questions
   source: Communion
   location: ch10:3291-3386
-  quote: This can easily be confirmed by the reader, as all the transcripts of my
-    hypnosis sessions are verbatim.
   claim_id: 46b96be8-2853-4512-af42-991ae1a6c3bc
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-46b96be8-2853-4512-af42-991ae1a6c3bc
@@ -274,17 +249,12 @@ references:
     between sessions, on the advice of Klein and Budd Hopkins
   source: Communion
   location: ch10:41438-41736
-  quote: It was a great effort not to go to the library and get half a dozen books
-    about close encounters, and another half dozen about possible psychosocial causes
-    for such experiences. But I agreed with Dr. Klein and Budd Hopkins that I must
-    remain as ignorant of this material as possible until after my hypnosis.
   claim_id: 1368165d-bbc7-46c2-abe1-f61a83a08b41
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-1368165d-bbc7-46c2-abe1-f61a83a08b41
 - text: Klein found Strieber not hallucinating in a manner characteristic of psychosis
   source: Communion
   location: ch16:183-237
-  quote: He is not hallucinating in a manner characteristic of psychosis.
   claim_id: 4f7cc57e-638e-415b-b328-20d1d0931a3e
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-4f7cc57e-638e-415b-b328-20d1d0931a3e
@@ -292,16 +262,12 @@ references:
     disorder in Strieber
   source: Communion
   location: ch16:248-322
-  quote: I also see no evidence of an anxiety state, mood disorder, or personality
-    disorder.
   claim_id: 5dfec173-5a84-406a-890f-0e9918264e64
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-5dfec173-5a84-406a-890f-0e9918264e64
 - text: Klein examined Strieber and found he is not suffering from a psychosis
   source: Communion
   location: ch16:97-172
-  quote: I have examined Whitley Strieber and found that he is not suffering from
-    a psychosis.
   claim_id: 52160a96-893b-4245-a706-779e90d2bad3
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-52160a96-893b-4245-a706-779e90d2bad3
@@ -309,7 +275,6 @@ references:
 - text: Klein is Director of Research at the New York State Psychiatric Institute
   source: Communion
   location: ch16:856-905
-  quote: Director of Research, New York State Psychiatric Institute
   claim_id: be0aaa39-01e9-42e5-a883-cb8242a09d07
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-be0aaa39-01e9-42e5-a883-cb8242a09d07
@@ -317,10 +282,6 @@ references:
     with a temporal lobe abnormality, testable via a nasal probe
   source: Communion
   location: ch12:31354-31605
-  quote: I thought no more about this until July 26, 1986, when I received a letter
-    from Donald Klein in which he mentioned that many of my symptoms were consistent
-    with an abnormality in the temporal lobe, and that the method of testing this
-    involved a nasal probe.
   claim_id: a85ee11c-78b3-4505-b260-032f95e6f857
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a85ee11c-78b3-4505-b260-032f95e6f857
@@ -328,8 +289,6 @@ references:
     recommended by Klein
   source: Communion
   location: ch12:34329-34473
-  quote: I decided that I would arrange two separate temporal lobe tests, one by a
-    neurologist recommended by Dr. Klein. and another through a different psychiatrist.
   claim_id: 47bd074d-df93-41a1-ba68-4e406b9d0441
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-47bd074d-df93-41a1-ba68-4e406b9d0441
@@ -337,9 +296,6 @@ references:
     Anne, so his prior knowledge could not unintentionally direct his questions
   source: Communion
   location: ch13:3102-3272
-  quote: We chose a psychiatrist other than Don Klein so that there could be no possibility
-    of his questions taking on some sort of unnoticed direction because of what he
-    already knew.
   claim_id: 69faddec-57cf-4be9-a3b3-7416ba5267ee
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-69faddec-57cf-4be9-a3b3-7416ba5267ee
@@ -347,8 +303,6 @@ references:
     and took a supportive stance similar to Klein's
   source: Communion
   location: ch13:3962-4096
-  quote: Bob Naiman had worked before with people who have had this experience, and
-    took the same healthy and supportive stance that Don Klein did.
   claim_id: e8c43748-2e1c-4402-836a-c5e11fa205bc
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-e8c43748-2e1c-4402-836a-c5e11fa205bc
@@ -356,9 +310,6 @@ references:
     had expressed interest in and appeared open-minded about the visitor phenomenon
   source: Communion
   location: ch10:1559-1722
-  quote: Hopkins remembered that Dr. Donald Klein of the New York State Psychiatric
-    Institute had expressed interest in the phenomenon and appeared to be open-minded
-    about it.
   claim_id: 8adc0251-ac22-4b56-85fd-95c1c49c6793
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8adc0251-ac22-4b56-85fd-95c1c49c6793

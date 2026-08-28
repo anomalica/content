@@ -220,9 +220,6 @@ references:
 - text: Knapp has worked at KLAS-TV for 40 years, breaking numerous UAP stories
   source: In Plain Sight
   location: ch15:13284-13464
-  quote: Las Vegas investigative journalist George Knapp is a multi-award-winning
-    investigative journalist who has worked for Nevada's KLAS-TV for 40 years, breaking
-    many extraordinary UAP stories.
   claim_id: 477f7a1b-4745-422c-b4a1-a6ba8663ae90
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-477f7a1b-4745-422c-b4a1-a6ba8663ae90
@@ -256,10 +253,6 @@ references:
     S-4 facility
   source: In Plain Sight
   location: ch13:20633-20945
-  quote: Years later, in 1989, Lazar went public in an interview with investigative
-    journalist George Knapp on Las Vegas TV station KLAS, asserting (anonymously,
-    at first) his purported employment working on a recovered extra-terrestrial flying
-    saucer at the supposed S-4 facility, adjacent to Papoose Lake south of Area 51
   claim_id: 46f173e7-f7db-489f-92fa-3898e1612ad0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
@@ -267,10 +260,6 @@ references:
     him into the facility
   source: In Plain Sight
   location: ch13:23810-24116
-  quote: Journalist George Knapp has convincingly rebutted official denials that Lazar
-    ever worked at Los Alamos National Laboratory in New Mexico; not only is there
-    an old news story placing him there, Lazar sneaked Knapp into the secure facility
-    and Lazar was clearly very familiar with the site and knew workers inside.
   claim_id: a2578240-b430-4934-ae53-5e9e9911ac02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a2578240-b430-4934-ae53-5e9e9911ac02
@@ -528,10 +517,6 @@ references:
     to interference with operations
   source: In Plain Sight
   location: ch17:10150-10401
-  quote: In a 2018 radio interview with George Knapp on Coast to Coast AM, Davis said,
-    'The Threat in AATIP refers to the fact that the UFO phenomenon has interfered
-    with operations. The phenomenon was officially branded a threat, and the threat
-    had to be studied.'
   claim_id: cffc1cf2-fa69-4090-a306-b89b30de2c6b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cffc1cf2-fa69-4090-a306-b89b30de2c6b
@@ -539,10 +524,6 @@ references:
     craft
   source: In Plain Sight
   location: ch17:13803-14112
-  quote: So it was intriguing to hear Dr Davis citing one of those other claimed extra-terrestrial
-    spacecraft crashes in his interview with George Knapp – the 5 December 1950 case
-    known as Del Rio, which allegedly involved a crashed craft near the town of Del
-    Rio, Texas, that was subsequently recovered by the US Air Force.
   claim_id: f1fc926f-a775-4b8b-aafe-14683d8de82a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f1fc926f-a775-4b8b-aafe-14683d8de82a
@@ -550,9 +531,6 @@ references:
     yet publicly revealed
   source: In Plain Sight
   location: ch17:15421-15637
-  quote: Talking about his work for the Bigelow BAASS Defense Intelligence Agency
-    contract, Dr Davis went on to tell George Knapp there were indeed recovered ET
-    craft, the information about which had not yet been revealed or published.
   claim_id: 2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
@@ -560,19 +538,12 @@ references:
     2016
   source: In Plain Sight
   location: ch22:21754-22103
-  quote: I find myself thinking back to Tom DeLonge’s animated claims back in March
-    2016 to George Knapp, that he learned from his government insiders that the US
-    had made a stunning secret technological breakthrough in anti-gravitic propulsion,
-    and that the world was on the brink of learning about these extraordinary scientific
-    achievements.
   claim_id: 06d15060-3d73-4e11-8a77-a67f2d7285e2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-06d15060-3d73-4e11-8a77-a67f2d7285e2
 - text: DeLonge said the US was building machinery with anti-gravity capability
   source: In Plain Sight
   location: ch22:22118-22225
-  quote: ‘Yes, we are building machinery that have anti-gravity. And yes, I was told
-    that. It’s a big deal,’ DeLonge effused.
   claim_id: d1dc1ad7-f05f-4843-9dfa-421d4b48ad6e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d1dc1ad7-f05f-4843-9dfa-421d4b48ad6e
@@ -580,17 +551,12 @@ references:
     recovered alien lifeform
   source: In Plain Sight
   location: ch19:15143-15330
-  quote: DeLonge also expanded, in his interview with George Knapp,10 on that first
-    meeting with ‘The General’ who made the extraordinary and apparently terrifying
-    claims about a recovered alien ‘lifeform’.
   claim_id: da962277-5c76-4f4e-8cb1-b21897f69099
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da962277-5c76-4f4e-8cb1-b21897f69099
 - text: DeLonge was at pains to describe 'The General' as well-intentioned
   source: In Plain Sight
   location: ch19:3375-3503
-  quote: In his interview with George Knapp, DeLonge was at pains to ensure people
-    understand ‘The General’ is a great, well-intentioned guy
   claim_id: 8199b521-0783-4755-9c11-13a18781bf8c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8199b521-0783-4755-9c11-13a18781bf8c
@@ -598,20 +564,12 @@ references:
     plausible deniability
   source: In Plain Sight
   location: ch19:4741-5028
-  quote: George Knapp pulled DeLonge up at one stage and asked, ‘People will say,
-    this guy’s a rock musician, they’re not going to tell this stuff to him or they’re
-    going to tell him stuff that they’re going to have plausible deniability . . .
-    if this goes wrong, they can discredit you, or deny it?’
   claim_id: df5f5d82-80f6-485b-b91e-769db4334e6e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df5f5d82-80f6-485b-b91e-769db4334e6e
 - text: DeLonge replied officials could discredit anybody, even presidents
   source: In Plain Sight
   location: ch19:5035-5330
-  quote: ‘Well, they can do that to anybody,’ DeLonge replied. ‘They can do that to
-    presidents. You’re talking about levels of power that we can’t comprehend as civilians.
-    Frankly, I don’t care if anyone doesn’t believe me. I’m in the middle of something
-    very important. I just gotta’ do what I said I’ll do.’
   claim_id: a39f8857-f663-47ed-8a61-34af002a0c3a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a39f8857-f663-47ed-8a61-34af002a0c3a
@@ -619,10 +577,6 @@ references:
     than microns
   source: In Plain Sight
   location: ch24:2632-2899
-  quote: '''This one sample is engineered in layers thinner than microns through a
-    process unknown on Earth, and for a purpose we can only guess,'' journalist George
-    Knapp excitedly told viewers in late 2018 over vision of what looked like the
-    Art''s Parts'' bismuth/magnesium-zinc sample.'
   claim_id: 1308ea60-9503-405e-a9b0-97e8ec63b3e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1308ea60-9503-405e-a9b0-97e8ec63b3e7

@@ -456,35 +456,24 @@ references:
     stability.
   source: Remote Viewing Secrets
   location: ch16:34233-34403
-  quote: At the outset of the military STARGATE Program, great effort was made to
-    insure that stability. But testing, multiple interviews, and a long term vetting
-    process is very expensive.
   claim_id: 3857c148-bd5d-4775-b099-711a055bf00c
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-3857c148-bd5d-4775-b099-711a055bf00c
 - text: The vetting process was later dropped to reduce costs.
   source: Remote Viewing Secrets
   location: ch16:34414-34504
-  quote: Later in the program, a decision was made to no longer do this testing in
-    order to reduce costs.
   claim_id: 2d8b9fc3-68dd-4091-a5de-c0e93e9fff6e
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-2d8b9fc3-68dd-4091-a5de-c0e93e9fff6e
 - text: Dropping vetting left some previously stable participants destabilised.
   source: Remote Viewing Secrets
   location: ch16:34511-34812
-  quote: Without going into specific personalities, I can say that in more than one
-    case, otherwise stable individuals were stripped of their psychological boundaries,
-    and subjected to areas of inquiry that they should not have been. As a result
-    they became quite unstable, emotionally, mentally, or sometimes both.
   claim_id: 22ce907d-f554-48a6-b2d5-633fc22c0007
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-22ce907d-f554-48a6-b2d5-633fc22c0007
 - text: McMoneagle reports personal risk of self-delusion regarding remote viewing.
   source: Remote Viewing Secrets
   location: ch15:11293-11406
-  quote: I have found myself strolling down that path on more than one occasion and
-    suspect that I will find myself there again.
   claim_id: 380ee4b2-6b30-4539-954b-4259d013f67a
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-380ee4b2-6b30-4539-954b-4259d013f67a
@@ -492,8 +481,6 @@ references:
     and a target.
   source: Remote Viewing Secrets
   location: ch14:23504-23612
-  quote: Somewhere in that interview he was commenting on the near-perfect match between
-    some of my drawings and the target.
   claim_id: 89fc4f62-7805-46c4-98da-d298765faca8
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-89fc4f62-7805-46c4-98da-d298765faca8
@@ -501,17 +488,12 @@ references:
     time.
   source: Remote Viewing Secrets
   location: ch14:23620-23819
-  quote: His statement was something like, "Joe provides this kind of spectacular
-    detail about twenty percent of the time. Scientists don't like to say this, but
-    that's about as close to a miracle as one can get."
   claim_id: 05bcc738-a00d-4d0b-b261-c97b30d5ff4d
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-05bcc738-a00d-4d0b-b261-c97b30d5ff4d
 - text: May put McMoneagle's target hit rate at around sixty to sixty-five percent.
   source: Remote Viewing Secrets
   location: ch14:23826-23940
-  quote: This statement was made along with other statements that reflected a target
-    hit rate of about sixty to sixty-five percent.
   claim_id: a16d4330-4bfc-45fb-aa7b-9c9475c50bd3
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-a16d4330-4bfc-45fb-aa7b-9c9475c50bd3
@@ -531,8 +513,6 @@ references:
     report.
   source: Remote Viewing Secrets
   location: ch16:3129-3267
-  quote: What they actually mean here is the ability to display psychic functioning
-    under controlled conditions (or achieving a better than chance result).
   claim_id: 259bd5d6-c58f-4903-b4db-0b09726fcd4a
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-259bd5d6-c58f-4903-b4db-0b09726fcd4a
@@ -540,10 +520,6 @@ references:
     exposure.
   source: Remote Viewing Secrets
   location: ch16:35676-35955
-  quote: About twenty percent of the people who contact me through my office at Intuitive
-    Intelligence Applications are looking for help in regaining their stable pre-exposure
-    attitudes. Since I am not a psychiatrist or psychologist, I am forced to refer
-    them to qualified counselors for help.
   claim_id: 5787783f-8ed3-4dc4-9934-7886a9ee754a
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-5787783f-8ed3-4dc4-9934-7886a9ee754a
@@ -559,8 +535,6 @@ references:
 - text: McMoneagle laid out belt-ranked remote viewing skill levels, RV'do.
   source: Remote Viewing Secrets
   location: ch13:665-795
-  quote: In keeping with the concept of RV'do, I've laid these out much like the different
-    belts one might expect to find within a martial art.
   claim_id: f4f74110-5293-40b8-97fc-e58047c86146
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f4f74110-5293-40b8-97fc-e58047c86146
@@ -568,43 +542,30 @@ references:
     2013.
   source: Remote Viewing Secrets
   location: ch10:1225-1417
-  quote: having studied the martial arts as well as remote viewing for over twenty
-    years, I have to say that remote viewing, at least as I have come to understand
-    it, can be expressed in the very same manner.
   claim_id: d84a0cf8-4cb1-4886-9135-66e4fa570c49
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-d84a0cf8-4cb1-4886-9135-66e4fa570c49
 - text: 'Outbounder Remote Viewing: the monitor''s role.'
   source: Remote Viewing Secrets
   location: '48'
-  quote: Monitors sit with viewers while they are doing remote viewing. ... In any
-    case, the monitor is never there to guide, lead, imply, or otherwise interfere
-    with what the remote viewer is doing.
   claim_id: 4c2c2d5d-2b1a-4de3-b43b-92c85b5469bd
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4c2c2d5d-2b1a-4de3-b43b-92c85b5469bd
 - text: 'Outbounder Remote Viewing: the evaluator''s role.'
   source: Remote Viewing Secrets
   location: '52'
-  quote: An Evaluator (Analyst). ... In either case, the evaluator should have no
-    contact with any member of the out bounder team until after evaluations or analyses
-    have been made and no other visits to the target site are intended.
   claim_id: 63fd581e-bb5c-4127-b9f7-28ca0d5f1961
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-63fd581e-bb5c-4127-b9f7-28ca0d5f1961
 - text: McMoneagle recommends keeping a viewer blind to the entire target.
   source: Remote Viewing Secrets
   location: ch14:11690-11784
-  quote: By keeping the viewer blind to the entire target, you can compare his ground
-    plan to the real thing.
   claim_id: 09727dad-afe7-4cb5-91f0-2381a029c411
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-09727dad-afe7-4cb5-91f0-2381a029c411
 - text: Front-loading is taught as a distinct skill at the Black Belt Second Stage.
   source: Remote Viewing Secrets
   location: ch13:13438-13542
-  quote: a second stage black belt can still learn the non-viewing aspects of this
-    stage, which deal with "front loading."
   claim_id: 9fa03507-90c6-4167-8de9-f0b1ba9e948e
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-9fa03507-90c6-4167-8de9-f0b1ba9e948e
@@ -612,19 +573,12 @@ references:
     presence and feedback method.
   source: Remote Viewing Secrets
   location: ch17:12663-12753
-  quote: 'There are only two differences between the outbounder type of protocol and
-    the coordinate protocol:'
   claim_id: 6bf6768f-d786-4bc1-bed2-b1455f1fa670
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-6bf6768f-d786-4bc1-bed2-b1455f1fa670
 - text: McMoneagle considers UFOs usually poor remote viewing targets.
   source: Remote Viewing Secrets
   location: ch14:13001-13319
-  quote: This is why UFOs and similar kinds of targets usually make lousy remote viewing
-    targets. What should be understood here is that the remote viewer is always given
-    the least amount of information necessary to put them on the target location,
-    and it should never be directly pertinent to what you are looking for answers
-    to.
   claim_id: e767ba98-32bc-45eb-9edf-202b26bf2f2b
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e767ba98-32bc-45eb-9edf-202b26bf2f2b
@@ -632,8 +586,6 @@ references:
 - text: 'McMoneagle: chances of a correct UFO-related statement are close to zero.'
   source: Remote Viewing Secrets
   location: ch14:13749-13864
-  quote: In my experience, the chances of stating UFO material obtained through remote
-    viewing is correct are very close to zero.
   claim_id: 6b78c286-d288-415f-bbc0-dd81317db3fa
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-6b78c286-d288-415f-bbc0-dd81317db3fa
@@ -642,10 +594,6 @@ references:
     UFOs, Loch Ness Monster, Sasquatch.
   source: Remote Viewing Secrets
   location: ch14:17494-17783
-  quote: Remote viewing is generally not very good for providing information on mythical
-    creatures, hypothetical events, non-physical properties, or phenomenological types
-    of targets. In other words, it's generally not good for UFOs, the Lock Ness Monster,
-    Sasquatch, or descriptions of heaven and hell
   claim_id: 01c42c3b-ebf7-4e59-8a3f-893d3f6e6148
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-01c42c3b-ebf7-4e59-8a3f-893d3f6e6148
@@ -653,10 +601,6 @@ references:
     feedback might exist.
   source: Remote Viewing Secrets
   location: ch17:22525-22778
-  quote: I'm not dead set against targeting things like the possible sites for downed
-    UFOs, or crop circles, because in reality these events may not even be a direct
-    result of UFOs or aliens; in which case verifiable information could be located,
-    thus providing feedback.
   claim_id: af4616f8-4e75-4737-9238-f04dc5840ed5
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-af4616f8-4e75-4737-9238-f04dc5840ed5
@@ -664,8 +608,6 @@ references:
     ability.
   source: Remote Viewing Secrets
   location: ch16:22600-22716
-  quote: Almost any form of meditation works in this regard. If you can learn to meditate,
-    you may learn to be a good remote viewer.
   claim_id: e396a93c-0c3d-4fa4-9f87-74a46395c6b3
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e396a93c-0c3d-4fa4-9f87-74a46395c6b3
@@ -757,10 +699,6 @@ references:
     God''s work.'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:36598-36861
-  quote: 'A senator snarled at him, "You, sir, are doing the work of the devil and
-    you will burn in the fires of hell!" As McMoneagle stepped into the hall, he was
-    approached by another lawmaker who embraced him warmly and whispered in his ear:
-    "You are doing God''s work, son!"'
   claim_id: 5a6ba0b7-cd87-4b02-bf8c-6f098ae07348
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5a6ba0b7-cd87-4b02-bf8c-6f098ae07348

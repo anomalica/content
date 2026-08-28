@@ -103,18 +103,12 @@ references:
     by almost a billion people
   source: Dark Mission
   location: ch20:50388-50649
-  quote: 'as he stepped for the first time onto the surface of the Moon that unforgettable
-    July 20th night in 1969. With almost a billion people watching live, Armstrong
-    uttered those still endlessly debated words: “That’s one small step for Man …
-    one giant leap for Mankind ….”'
   claim_id: 6d4acf36-a402-46f1-a0ed-d74ea9d00817
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6d4acf36-a402-46f1-a0ed-d74ea9d00817
 - text: Aldrin was the second man to walk on the Moon alongside Armstrong
   source: Dark Mission
   location: ch12:19458-19535
-  quote: Edwin B. “Buzz” Aldrin was the second man to walk on the Moon alongside Neil
-    Armstrong.
   claim_id: c3bd3326-1b40-461b-a3b3-cdf04dceae41
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c3bd3326-1b40-461b-a3b3-cdf04dceae41
@@ -122,10 +116,6 @@ references:
     between the Earth and the Moon
   source: Dark Mission
   location: ch7:29717-29979
-  quote: The three Apollo 11 astronauts—Neil Armstrong, Buzz Aldrin and Mike Collins,
-    two of whom had just successfully walked on "the frigging Moon," and wouldn't
-    splash down in the South Pacific Ocean for two more days, were still halfway between
-    Earth and the "Sea of Tranquility."
   claim_id: 5eb8aefd-c21e-46f4-ae9d-fc19406edb71
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5eb8aefd-c21e-46f4-ae9d-fc19406edb71
@@ -133,10 +123,6 @@ references:
     about 8 km downrange in the Tranquility Base area
   source: Dark Mission
   location: ch11:100975-101229
-  quote: his inability to know precisely "where" Neil Armstrong had actually touched
-    down after he took manual control and flew the LM over "a crater surrounded by
-    rocks" to a landing site about five miles further "downrange" in Tranquility than
-    the intended landing site
   claim_id: 79be4923-0927-4bc8-9764-d754ffb51db7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-79be4923-0927-4bc8-9764-d754ffb51db7
@@ -144,18 +130,12 @@ references:
     site, reportedly because of rocks'
   source: Dark Mission
   location: ch12:38798-38976
-  quote: According to the official NASA history, Neil Armstrong took over manual control
-    and flew the Eagle "five miles further west of the intended landing site," supposedly
-    because of "rocks."
   claim_id: bd4263f5-d705-469b-8da0-73762ff4815e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bd4263f5-d705-469b-8da0-73762ff4815e
 - text: Nearly exhausted the Eagle's fuel, coming within seconds of aborting the landing
   source: Dark Mission
   location: ch12:38984-39173
-  quote: In doing so, he nearly exhausted the LM's supply of fuel, and thus risked
-    the entire lunar landing; just a few seconds more, and Armstrong would have had
-    to abort the landing and return to orbit.
   claim_id: 8728c853-7944-468c-9f62-843911ea430b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8728c853-7944-468c-9f62-843911ea430b
@@ -163,10 +143,6 @@ references:
     try the optics
   source: Dark Mission
   location: ch5:12419-12684
-  quote: '103:22:30 Armstrong: From the surface, we could not see any stars out the
-    window; but out my overhead hatch (the overhead rendezvous window), I’m looking
-    at the Earth. It’s big and bright and beautiful. Buzz is going to give a try at
-    seeing some stars through the optics.'
   claim_id: 987f43ec-2016-4eb6-ae0f-bfc87c20dab8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-987f43ec-2016-4eb6-ae0f-bfc87c20dab8
@@ -174,17 +150,12 @@ references:
     to two stars
   source: Dark Mission
   location: ch5:12802-12991
-  quote: The “optics” that Armstrong refers to in this exchange is the Alignment Optical
-    Telescope (AOT), a device that was used to determine the Lunar Module’s orientation
-    relative to two specific stars.
   claim_id: 33e10ccf-562d-41ba-9c1e-31259dd0e22d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-33e10ccf-562d-41ba-9c1e-31259dd0e22d
 - text: Aldrin performed a communion ceremony in the Eagle before the first moonwalk
   source: Dark Mission
   location: ch5:5520-5674
-  quote: the now infamous “communion ceremony” that Buzz Aldrin performed in the lunar
-    module Eagle before the astronauts made their first historic steps on the Moon
   claim_id: 25caec01-8b8c-45f7-802e-7644865e2e68
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-25caec01-8b8c-45f7-802e-7644865e2e68
@@ -192,9 +163,6 @@ references:
     ceremony
   source: Dark Mission
   location: ch12:20269-20477
-  quote: Aldrin also made it clear that Armstrong did not share his enthusiasm for
-    the ceremony. According to Men From Earth, Armstrong looked on "with an expression
-    of faint disdain (as if to say, 'what's he up to now?')"
   claim_id: 846785fb-65e6-42b4-807e-3236ccda4f01
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-846785fb-65e6-42b4-807e-3236ccda4f01
@@ -202,10 +170,6 @@ references:
     33 minutes after touchdown
   source: Dark Mission
   location: ch12:30886-31203
-  quote: Using transcripts from the Apollo 11 mission logs, he and Johnston painstakingly
-    reconstructed the post-landing lockdown procedures that Aldrin and Armstrong had
-    gone through on that historic day. In doing so, they determined that the ceremony
-    took place precisely thirty-three minutes after touchdown on the lunar surface.
   claim_id: 46ce7898-0118-460c-bbfe-da1ae9bfae90
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-46ce7898-0118-460c-bbfe-da1ae9bfae90
@@ -213,17 +177,12 @@ references:
     for the moonwalk
   source: Dark Mission
   location: ch5:6834-7061
-  quote: In Armstrong’s version, the ceremony actually took place several hours after
-    the com break at the 33 minute mark. By that time, Armstrong and Aldrin were getting
-    ready to suit up and head out of the LM for the historic first moonwalk.
   claim_id: 227d02aa-552c-410c-be82-a6508434e942
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-227d02aa-552c-410c-be82-a6508434e942
 - text: Dark, ghostly broadcast images resulted from the Slow Scan Converter's limitations
   source: Dark Mission
   location: ch20:3965-4087
-  quote: The result was the dark, ghostly images we all saw on July 20th, 1969 when
-    Neil Armstrong finally set foot upon the lunar surface.
   claim_id: b5b70dc4-48ca-4fac-bc3b-d174ff32e123
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b5b70dc4-48ca-4fac-bc3b-d174ff32e123
@@ -231,21 +190,12 @@ references:
     Aldrin's first footsteps
   source: Dark Mission
   location: ch11:73470-73715
-  quote: The *date* when Zond 3 acquired its own explosive images of lunar artifacts
-    was *July 20, 1965*—four years, *to the day*, before that date would be forever
-    immortalized in history by Neil Armstrong and Buzz Aldrin’s first human footsteps
-    on the Moon.
   claim_id: 0dedc9fe-dce0-44e3-b672-40246793a68f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0dedc9fe-dce0-44e3-b672-40246793a68f
 - text: Hoagland reads 'one small step' as a coded acknowledgement to a hidden audience
   source: Dark Mission
   location: ch20:50665-51013
-  quote: What Armstrong was actually acknowledging—to a “hidden audience” *in code*
-    that night—as he, representing “Man,” stepped onto the lunar surface for perhaps
-    the first time in tens of thousands of years … was that the human race (“Man”)
-    is only a *subset* of a vastly larger, vastly more ancient, vastly more knowledgeable,
-    but *genetically related “Mankind.”*
   claim_id: f91ccafd-9705-407e-b69d-bada17585408
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f91ccafd-9705-407e-b69d-bada17585408
@@ -253,9 +203,6 @@ references:
     ceremony
   source: Dark Mission
   location: ch19:24808-24987
-  quote: on the occasion of the Twenty-Fifth Anniversary of Apollo 11, at a White
-    House ceremony on July 20, 1994, Armstrong himself had seemed frustrated. He started
-    his highly emotional address
   claim_id: 987d9d97-d5b8-446a-8c3c-8ef8b07b06d9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-987d9d97-d5b8-446a-8c3c-8ef8b07b06d9
@@ -263,9 +210,6 @@ references:
     layers'
   source: Dark Mission
   location: ch19:24955-25154
-  quote: He started his highly emotional address by first comparing himself to a parrot—saying
-    only what he had been told to say—and then let slip his provocative remark at
-    the end, about "truth's protective layers."
   claim_id: 2ca29335-f026-4832-a6fa-78b38306eb06
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2ca29335-f026-4832-a6fa-78b38306eb06
@@ -273,8 +217,6 @@ references:
     reason for Apollo's naming
   source: Dark Mission
   location: ch20:51386-51536
-  quote: Was this the “protective layer of truth” that Armstrong implored the young
-    people of America to remove at the 25 th anniversary celebration of Apollo 11?
   claim_id: c2221455-2a59-4086-acde-946170252943
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c2221455-2a59-4086-acde-946170252943
@@ -282,8 +224,6 @@ references:
     as far away as the S-IVB
   source: Dark Mission
   location: ch19:40799-40958
-  quote: Aldrin on the show stated that none of the other two crewmen of Apollo 11—Armstrong
-    or Collins—believed that the object in question was anywhere near that far away.
   claim_id: bea8933c-27e1-446f-ba3e-763cb737f469
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bea8933c-27e1-446f-ba3e-763cb737f469
@@ -291,19 +231,12 @@ references:
     applies to Shepard's 1961 flight
   source: Dark Mission
   location: ch12:29667-29846
-  quote: or maybe (as he found out with Alan Shepard and America's first manned sub-orbital
-    flight, back in 1961 …) the men themselves—Armstrong and Aldrin—had, for some
-    reason, been pre-selected.
   claim_id: c71114cb-d74c-4805-99a9-43394b33f18e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c71114cb-d74c-4805-99a9-43394b33f18e
 - text: 'Hoagland: Aldrin and Armstrong were more logical 2004 choices than Cernan'
   source: Dark Mission
   location: ch19:24528-24789
-  quote: Apollo 11's Buzz Aldrin and Neil Armstrong would seem much more logical choices,
-    since they had already participated in numerous NASA events like this one, were
-    far better known to the general public than Cernan, and had always delivered generous
-    and memorable remarks.
   claim_id: 8916b46d-4e65-46e7-a9f6-e4f9c965dc4b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8916b46d-4e65-46e7-a9f6-e4f9c965dc4b
@@ -311,17 +244,12 @@ references:
     came back ghostly, dark and low in contrast
   source: Dark Mission
   location: ch20:10027-10188
-  quote: Fahrouk El Baz, Ken Kleinknecht and Wernher Von Braun must have breathed
-    a huge sigh of relief when the images of Armstrong came back ghostly, dark, and
-    full of contrast.
   claim_id: 99fd0057-0b46-456c-8e3d-fbf81cf02f79
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-99fd0057-0b46-456c-8e3d-fbf81cf02f79
 - text: 'Hoagland: after Apollo, Armstrong withdrew from public life and became reclusive'
   source: Dark Mission
   location: ch11:152623-152709
-  quote: Neil Armstrong, for one, basically fell off the edge of the Earth, all but
-    becoming a hermit.
   claim_id: f3edc0c0-de67-4268-89fe-8b73b9b26d48
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f3edc0c0-de67-4268-89fe-8b73b9b26d48
@@ -364,15 +292,12 @@ references:
 - text: Persistent, unconfirmed rumours that Armstrong and Shepard were Freemasons
   source: Dark Mission
   location: ch12:117569-117681
-  quote: There have been persistent rumors that Neil Armstrong and Alan Shepard were
-    also members, but it has never been confirmed
   claim_id: 2b69683e-9e42-495b-b884-d695e62361d1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2b69683e-9e42-495b-b884-d695e62361d1
 - text: Armstrong's father was a Freemason
   source: Dark Mission
   location: ch12:117692-117736
-  quote: although Armstrong's father was certainly a Mason
   claim_id: c17a7d99-99ac-4190-ab1a-c66176fad515
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c17a7d99-99ac-4190-ab1a-c66176fad515

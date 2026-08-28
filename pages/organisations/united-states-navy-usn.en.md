@@ -383,8 +383,6 @@ references:
     in perfect visibility
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:8066-8195
-  quote: two US Navy F/A-18s from the *Nimitz* managed to intercept one of these strange
-    craft at close quarters in conditions of perfect visibility.
   claim_id: 9f7a3d29-35e9-4dd6-9892-93e8c29873ac
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9f7a3d29-35e9-4dd6-9892-93e8c29873ac
@@ -392,8 +390,6 @@ references:
     pilots
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:3904-4034
-  quote: The senior pilot in the air that day was Commander Dave Fravor, who was considered
-    one of the best Navy pilots.
   claim_id: 9659319f-4ea5-4889-9c64-6de4cca851ba
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9659319f-4ea5-4889-9c64-6de4cca851ba
@@ -412,8 +408,6 @@ references:
 - text: Alex Dietrich piloted the other F/A-18 Super Hornet involved
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:4687-4804
-  quote: Making up the other half of the team was another US Navy F/A-18 Super Hornet
-    piloted by Lieutenant Junior Grade Alex Dietrich
   claim_id: 560bf8d9-3cf1-4899-b82c-55cc425ddff4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-560bf8d9-3cf1-4899-b82c-55cc425ddff4
@@ -430,9 +424,6 @@ references:
     jet tried to lock on
   source: In Plain Sight
   location: ch16:17375-17597
-  quote: Disturbingly, as the US Navy jet tried to lock on to the object with its
-    radar, there were clear indications of deliberate jamming, which Commander Fravor
-    says could be perceived as a hostile act, as technically an act of war'.
   claim_id: b5edd9e8-6c5d-47f7-a167-fbc063bf18f5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5edd9e8-6c5d-47f7-a167-fbc063bf18f5
@@ -440,10 +431,6 @@ references:
     anomalous by the Navy
   source: The Fourth Mind
   location: ch21:10431-10681
-  quote: During the 2004 encounter between pilots and personnel of the US aircraft
-    carrier Nimitz, recorded both on the pilot’s cameras and on the radar of one of
-    the carrier’s support ships, the Princeton, and which has been confirmed as anomalous
-    by the US Navy
   claim_id: 9fc08090-35e4-4082-998a-15869b238440
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-9fc08090-35e4-4082-998a-15869b238440
@@ -451,9 +438,6 @@ references:
     dogfight
   source: In Plain Sight
   location: ch16:15828-16024
-  quote: They resumed tracking south at a gentle 100 knots as if nothing had happened,
-    as if a dogfight with the US Navy was a minor distraction to their high-altitude
-    afternoon cruise.
   claim_id: 322a08a7-1c97-40dc-816b-9afcdc766717
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-322a08a7-1c97-40dc-816b-9afcdc766717
@@ -481,17 +465,12 @@ references:
     encounters
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:8162-8213
-  quote: Jay excelled at getting his fellow Navy members to talk.
   claim_id: a06a9550-5728-49f7-9a71-bc443bc03f18
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a06a9550-5728-49f7-9a71-bc443bc03f18
 - text: Navy intelligence tasked Stratton with building an interagency UAP task force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:4612-4909
-  quote: leadership in Navy intelligence, who understood the national security threats
-    related to UAP and now felt public and congressional pressure to do something
-    about it, tasked Jay with quietly building out a whole-of-government interagency
-    task force, a program with more authorities than AATIP ever had.
   claim_id: b8373943-84a1-48f6-8d54-bcb239ce88bb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b8373943-84a1-48f6-8d54-bcb239ce88bb
@@ -499,8 +478,6 @@ references:
     and Gimbal were shown
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:21631-21748
-  quote: A few months later I was sitting in a room with high-level Navy officials,
-    CIA reps, and someone from the NSA... we rolled the tapes.
   claim_id: fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
@@ -508,9 +485,6 @@ references:
     other context
   source: In Plain Sight
   location: ch21:22340-22541
-  quote: It also lacked any details on when or where it was shot, or who shot it,
-    other than that it was captured by a US Navy FA-18 fighter using the jet's advanced
-    targeting forward-looking infrared (ATFLIR) pod.
   claim_id: 48d64dd6-142b-462c-9acb-e2cbecd586fb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48d64dd6-142b-462c-9acb-e2cbecd586fb
@@ -518,8 +492,6 @@ references:
     pilots, location unspecified
   source: In Plain Sight
   location: ch21:21553-21724
-  quote: TTSA initially revealed very little about the Gimbal object other than that
-    it was seen and videoed by US Navy fighter pilots at an unspecified location
   claim_id: 654aecd1-8111-4a4b-9f18-730a5dc3ba45
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-654aecd1-8111-4a4b-9f18-730a5dc3ba45
@@ -527,9 +499,6 @@ references:
     were witnessing'
   source: In Plain Sight
   location: ch22:10215-10435
-  quote: It took until September 2019 for the navy to formally acknowledge what everyone
-    had long taken for granted – that it could not offer any satisfactory explanation
-    for the phenomena its pilots are still witnessing to this day.
   claim_id: 9822d0ce-80a0-495a-ac55-f3efd95a78ff
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9822d0ce-80a0-495a-ac55-f3efd95a78ff
@@ -537,9 +506,6 @@ references:
     on the videos
   source: In Plain Sight
   location: ch22:10667-10834
-  quote: ‘The Navy has not publicly released characterizations or descriptions, nor
-    released any hypothesis or conclusions, in regard to the objects contained in
-    the referenced videos.’
   claim_id: 4a20ff99-3e29-469e-b19b-05773e1ebf53
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a20ff99-3e29-469e-b19b-05773e1ebf53
@@ -600,9 +566,6 @@ references:
     encounter but never heard back
   source: In Plain Sight
   location: ch22:2908-3074
-  quote: After the translucent soap bubble incident between the two F/A-18 jets, Lieutenant
-    Graves’ squadron filed a safety report to the navy, but they never heard back
-    from anyone.
   claim_id: 87a9c2e7-2f28-4c45-b1c0-2d1f65c02741
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-87a9c2e7-2f28-4c45-b1c0-2d1f65c02741
@@ -619,8 +582,6 @@ references:
 - text: Walker wrote to the Secretary of the Navy on 2019-07-16 regarding UFO sightings
   source: In Plain Sight
   location: ch34:47367-47457
-  quote: Congressman Mark Walker, Letter to Hon Richard Spencer, Secretary of the
-    US Navy, 16 July 2019.
   claim_id: f99b1f6d-6daf-4774-8e1a-2eddaa3a40d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f99b1f6d-6daf-4774-8e1a-2eddaa3a40d8
@@ -628,9 +589,6 @@ references:
     evidence/foreign origin
   source: In Plain Sight
   location: ch22:8672-8906
-  quote: He queried what resources the navy was dedicating to investigating the sightings
-    and he asked if any physical evidence had been found to substantiate the claims,
-    or whether foreign adversaries or private companies have developed this technology.
   claim_id: 7767d417-796b-420b-96ea-2890e2f526de
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7767d417-796b-420b-96ea-2890e2f526de
@@ -638,9 +596,6 @@ references:
     logged/investigated them
   source: In Plain Sight
   location: ch22:9474-9674
-  quote: He was told by Navy Undersecretary Thomas Modly that ‘the Department of the
-    Navy takes these reports very seriously and continues to log sightings and fully
-    investigate the accounts’.
   claim_id: 63add907-4914-4ef1-b520-f40dd58f56e0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-63add907-4914-4ef1-b520-f40dd58f56e0
@@ -648,25 +603,18 @@ references:
     USAF shot down in Feb 2023
   source: In Plain Sight
   location: ch29:22079-22299
-  quote: Mellon also reiterated that many of the UAPs encountered by Navy pilots,
-    'appeared to exhibit performance characteristics that are far more impressive
-    and concerning than any of the objects recently downed by the US Air Force.'
   claim_id: 402cc7a6-d6ae-488e-9449-45e978d92b63
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-402cc7a6-d6ae-488e-9449-45e978d92b63
 - text: USAF F-22 Raptors in the same training areas had superior sensor systems
   source: In Plain Sight
   location: ch29:22307-22447
-  quote: He also stressed how US Air Force F-22 fighters were operating in the same
-    training areas as the Navy pilots, and they had superior sensor systems,
   claim_id: 431bdb4c-7314-4a1a-9117-8cb5db605562
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-431bdb4c-7314-4a1a-9117-8cb5db605562
 - text: Mellon arranged for Navy aviators to brief the Senate Armed Services Committee
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:22535-22618
-  quote: we arranged for Navy aviators to brief Senate Armed Services Committee members
-    and staff
   claim_id: 238e88cf-c964-4dd1-9e52-67b97d0a4894
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-238e88cf-c964-4dd1-9e52-67b97d0a4894
@@ -674,18 +622,12 @@ references:
     with Navy pilots
   source: In Plain Sight
   location: ch29:23734-23982
-  quote: Pointedly, Mellon went on to savage the US Air Force for being, 'notably
-    *unhelpful* [his emphasis], if not hostile to inquiries on the subject,' when
-    he and Luis Elizondo facilitated meetings between US Navy pilots and the congressional
-    oversight committees.
   claim_id: 75e73ea1-13a2-4506-b3f1-67a04e9cf81e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-75e73ea1-13a2-4506-b3f1-67a04e9cf81e
 - text: Bender reported the Navy was drafting new UFO-reporting guidelines
   source: In Plain Sight
   location: ch34:48339-48430
-  quote: Bryan Bender, 'U.S. Navy Drafting New Guidelines for Reporting UFOs', Politico,
-    23 April 2019.
   claim_id: 4f8d398c-24a5-406c-b506-d3120b4574b8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4f8d398c-24a5-406c-b506-d3120b4574b8
@@ -693,52 +635,36 @@ references:
     Congressional staff
   source: In Plain Sight
   location: ch22:15927-16073
-  quote: The story also revealed that the navy had given briefings by senior naval
-    intelligence officials as well as aviators to Congressional members and staff.
   claim_id: 2207fbaa-60b6-42bd-be87-0933d1053bd4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2207fbaa-60b6-42bd-be87-0933d1053bd4
 - text: Navy was assignee on a series of Pais patents filed over three years
   source: In Plain Sight
   location: ch28:2759-2865
-  quote: Over three years, he applied for a series of mind-bogglingly exotic patents
-    for which the US Navy was the assignee.
   claim_id: 24a28fa0-b050-47fb-9131-c25b871fe648
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-24a28fa0-b050-47fb-9131-c25b871fe648
 - text: 'April 2016: Pais filed a patent for a gravity-wave-driven spacecraft'
   source: In Plain Sight
   location: ch28:1487-1758
-  quote: Yet, within just eight weeks of the announcement of this momentous breakthrough,
-    in April 2016, an unknown US Navy aerospace engineer named Dr Salvatore Pais filed
-    a patent application for a revolutionary spacecraft driven by gravity waves that
-    was straight out of Star Trek.
   claim_id: ae55a433-f3dc-45a6-9746-04db031c17e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ae55a433-f3dc-45a6-9746-04db031c17e7
 - text: Navy vouched for Pais's hybrid craft patent in an appeal letter after rejection
   source: In Plain Sight
   location: ch28:12868-13064
-  quote: the approval of the patent for the hybrid craft in particular is so controversial,
-    because when the US Patent Office knocked back Pais's application, the navy vouched
-    for Pais's work in an appeal letter.
   claim_id: 7426bc13-cb28-479c-81a3-04a2e7bfd5ae
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7426bc13-cb28-479c-81a3-04a2e7bfd5ae
 - text: Navy secured Pais's Electro-magnetic Forcefield Generator patent as operable
   source: In Plain Sight
   location: ch28:16040-16110
-  quote: The US Navy secured the patent for the supposedly operable forcefield generator.
   claim_id: 5f5fa3fd-ccc1-4cd3-b122-2dffb7bde4e2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5f5fa3fd-ccc1-4cd3-b122-2dffb7bde4e2
 - text: Navy did not seek secrecy orders on Pais's patents despite being able to
   source: In Plain Sight
   location: ch28:17539-17794
-  quote: The fact that the navy did not apply for the patents to be kept secret under
-    the US Invention Secrecy Act, as it could easily have done, suggests these applications
-    are more about just sending a message to the United States' potential rivals,
-    China and Russia.
   claim_id: ce065ee1-1e0c-4117-848b-a6b36f468503
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ce065ee1-1e0c-4117-848b-a6b36f468503
@@ -746,18 +672,12 @@ references:
     and royalties
   source: In Plain Sight
   location: ch28:12090-12331
-  quote: It has been suggested that the navy filed these patents simply to stop the
-    Chinese or Russians from claiming rights over any of these future technological
-    breakthroughs, ensuring the United States would never have to pay royalties for
-    their use.
   claim_id: d697f7df-9f43-4eab-b53f-8e286e2015a5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d697f7df-9f43-4eab-b53f-8e286e2015a5
 - text: Kobitz was the Navy's former Director of Science and Technology Development
   source: In Plain Sight
   location: ch27:628-742
-  quote: Nat Kobitz, the former Director of Science and Technology Development for
-    the US Navy, rang me one day out of the blue.
   claim_id: 42b9f2e3-5462-49b9-84c2-db5946d19857
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-42b9f2e3-5462-49b9-84c2-db5946d19857
@@ -765,25 +685,18 @@ references:
     Navy
   source: In Plain Sight
   location: ch27:12080-12316
-  quote: When I asked him if he ever worked on anti-gravity or field propulsion technology,
-    he volunteered that he did and that the navy was researching it, but he would
-    not tell me anything more, only that what he was working on was relatively unexciting.
   claim_id: 5c817205-d557-4f48-aafd-687ac99993da
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5c817205-d557-4f48-aafd-687ac99993da
 - text: Kobitz left the role in 1994 and set up NKA Science
   source: In Plain Sight
   location: ch27:16888-17005
-  quote: Nat Kobitz left his Navy Director of Science and Technology role in 1994
-    and set up a private consultancy called NKA Science.
   claim_id: c98c12c1-f605-4356-950d-22b74e70ce8b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c98c12c1-f605-4356-950d-22b74e70ce8b
 - text: Kobitz was read into a programme working with recovered UAP technology
   source: In Plain Sight
   location: ch27:20450-20594
-  quote: he wouldn’t talk any further about the program working with recovered UAP
-    technology, which he admitted he was read into during his time at the navy
   claim_id: 631e80d7-44ce-4f6c-90fd-7f1ff54136fe
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-631e80d7-44ce-4f6c-90fd-7f1ff54136fe
@@ -834,26 +747,18 @@ references:
     black magic cult
   source: Dark Mission
   location: ch12:82693-82825
-  quote: The Church of Scientology claims that he was sent by the U.S. Navy to infiltrate
-    and break up a "black magic cult" operating in Los Angeles.
   claim_id: 4d9fb5e1-3ec0-41b4-9653-429cbdde2cc0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4d9fb5e1-3ec0-41b4-9653-429cbdde2cc0
 - text: Navy documents show Hubbard assigned to intelligence duties in July 1941
   source: Dark Mission
   location: ch5:19571-19670
-  quote: According to Navy documents, Lafayette Ronald Hubbard was assigned to intelligence
-    duties in July, 1941.
   claim_id: 3285d470-0a62-4dbc-9bb5-b4c3ac293c64
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3285d470-0a62-4dbc-9bb5-b4c3ac293c64
 - text: Hubbard remained in the Navy reserves until October 1950
   source: Dark Mission
   location: ch5:19676-19953
-  quote: While it appears from his service record that he was no longer actively serving
-    in intelligence assignments during the period he was hanging around with Parsons,
-    he was still technically on active duty and remained in the reserves until October
-    of 1950, well after his time in Pasadena.
   claim_id: 69259146-3c29-4f27-afc1-06890b2b729d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-69259146-3c29-4f27-afc1-06890b2b729d

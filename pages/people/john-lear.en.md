@@ -27,9 +27,6 @@ references:
     when they first met in the early 1980s.
   source: In Plain Sight
   location: ch13:20222-20408
-  quote: Goodall told me that, at their first meeting in the early 1980s, Bob Lazar
-    was actually a UFO sceptic and both of them mocked a mutual pilot friend John
-    Lear for his outspoken belief in UFOs
   claim_id: 5a8938ec-3e4f-4006-b067-acda48e5ce5c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5a8938ec-3e4f-4006-b067-acda48e5ce5c

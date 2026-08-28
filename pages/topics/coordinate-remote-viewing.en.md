@@ -72,9 +72,6 @@ references:
     a target site
   source: Remote Viewing Secrets
   location: ch28:2885-3082
-  quote: 'COORDINATE REMOTE VIEWING (CRV): Form of remote viewing used by remote viewers
-    many years ago, which entailed prompting the remote viewer with specific geographic
-    coordinates for a specific target site.'
   claim_id: c18c1dee-394f-4c3a-bfeb-5b114fabc828
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c18c1dee-394f-4c3a-bfeb-5b114fabc828
@@ -101,8 +98,6 @@ references:
 - text: Targets are identified using a numeric or alpha/numeric series
   source: Remote Viewing Secrets
   location: ch14:8923-9012
-  quote: Coordinate Remote Viewing. Uses numeric or Alpha/numeric series to identify
-    the specific target.
   claim_id: 4b0a590b-d264-4256-99c6-7104755f1c4f
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4b0a590b-d264-4256-99c6-7104755f1c4f
@@ -110,7 +105,6 @@ references:
     Remote Viewing
   source: Remote Viewing Secrets
   location: ch17:50254-50307
-  quote: (Sometimes Referred to as Coordinate Remote Viewing [CRY])
   claim_id: 4a4c5bd2-52d7-4d1d-a307-03b8f8690fcd
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4a4c5bd2-52d7-4d1d-a307-03b8f8690fcd
@@ -118,10 +112,6 @@ references:
     Remote Viewing
   source: Remote Viewing Secrets
   location: ch14:9493-9762
-  quote: 'Examples for some of these are: ERV (Extended Remote Viewing), CRV (first
-    known as Coordinate Remote Viewing, now known as Controlled Remote Viewing), SRV
-    (Scientific Remote Viewing) that is scientific in name only, and TRV (Technical
-    Remote Viewing)[4] a variation on CRV.'
   claim_id: 9c974499-911c-488e-bb66-fdb4c9977b25
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-9c974499-911c-488e-bb66-fdb4c9977b25
@@ -130,48 +120,30 @@ references:
     the coordinate system
   source: Remote Viewing Secrets
   location: ch17:10096-10320
-  quote: As I understand it, one of the psychics working at the lab, Ingo Swann, suggested
-    the answer. They could use map coordinates to identify a specific location on
-    the ground. Hence was born what is now known as the "coordinate system."
   claim_id: 11171130-a8f8-4ecc-8e61-804212377dc9
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-11171130-a8f8-4ecc-8e61-804212377dc9
 - text: Initial targets were large geographic features identified by map coordinates
   source: Remote Viewing Secrets
   location: ch17:10330-10489
-  quote: The initial targets selected and identified by coordinates were large geographic
-    features, such as islands, rivers, mountains, waterfalls, cityscapes, and the
-    like.
   claim_id: ebf83b05-7724-4cb4-9838-e3166865d98e
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-ebf83b05-7724-4cb4-9838-e3166865d98e
 - text: Sceptics theorised viewers memorised topographical maps by gridlines
   source: Remote Viewing Secrets
   location: ch17:10680-10970
-  quote: This alleged that remote viewers could have memorized (at least unconsciously)
-    all of the major land features that can be identified from topographical maps,
-    by their longitude and latitude gridlines. (I interpret this as a nice way of
-    saying we were all cheating. Which of course we weren't.)
   claim_id: e4a7a7d2-e505-40ee-b187-10c53da1a5d4
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e4a7a7d2-e505-40ee-b187-10c53da1a5d4
 - text: Military side of STARGATE used a different, changing map coordinate system
   source: Remote Viewing Secrets
   location: ch17:11119-11361
-  quote: So, to deal with the skeptical issues, the military side of the house did
-    what the military does best—they improvised. Instead of using standard grid coordinates
-    that anyone can read, they used military maps, which use a different coordinate
-    system.
   claim_id: 4602e95f-a749-450f-83e2-aa4365e1b70c
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4602e95f-a749-450f-83e2-aa4365e1b70c
 - text: Real coordinates were sealed in envelopes with false identifiers written outside
   source: Remote Viewing Secrets
   location: ch17:11790-12135
-  quote: So, at least on the military side, we began putting the real map coordinates
-    inside sealed and opaque envelopes, and then we would write false coordinates
-    on the outside. ... Point being, they really had no actual meaning, other than
-    to identify that day's project.
   claim_id: c57b12c7-d9fd-4670-8ecb-1457e1e28a18
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c57b12c7-d9fd-4670-8ecb-1457e1e28a18
@@ -179,10 +151,6 @@ references:
     target
   source: Remote Viewing Secrets
   location: ch33:11776-12029
-  quote: Coordinate targets are where information written on the sealed envelope is
-    used to identify the specific target of interest. It can be alpha or numeric,
-    or a combination of both. This identifying data has no relationship to what is
-    contained within the envelope.
   claim_id: 7b7b6e28-ee40-4a68-9ead-a59bcc1a0487
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-7b7b6e28-ee40-4a68-9ead-a59bcc1a0487
@@ -190,58 +158,36 @@ references:
     method
   source: Remote Viewing Secrets
   location: ch17:12663-12753
-  quote: 'There are only two differences between the outbounder type of protocol and
-    the coordinate protocol:'
   claim_id: 6bf6768f-d786-4bc1-bed2-b1455f1fa670
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-6bf6768f-d786-4bc1-bed2-b1455f1fa670
 - text: Feedback in CRV is provided by the person controlling the target information
   source: Remote Viewing Secrets
   location: ch17:13535-13943
-  quote: Since there is no outbounder site that the remote viewer can visit for feedback
-    after the remote viewing has been completed and information evaluated, it becomes
-    necessary to provide the viewer with as much information as is feasible about
-    the original target after the remote viewing has been completed. The person who
-    controls the targeting information or the target pool is usually the person tasked
-    with this.
   claim_id: 4180bfa9-4af1-466d-866e-887ac9521c68
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4180bfa9-4af1-466d-866e-887ac9521c68
 - text: Mobile targets can be tasked via Outbounder RV, CRV, or sealed-envelope protocols
   source: Remote Viewing Secrets
   location: ch17:21208-21388
-  quote: In these examples, the viewer can be told the specific tasking (1-4), as
-    long as the target is being targeted through the outbounder, coordinate, or photographic
-    (sealed envelope) protocols.
   claim_id: 102b7e7f-f680-409a-bf02-ab63d9f62b0d
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-102b7e7f-f680-409a-bf02-ab63d9f62b0d
 - text: Abstract concepts can be targeted via coordinates or illustrative photographs
   source: Remote Viewing Secrets
   location: ch17:21739-21906
-  quote: All humor aside, lots of things can be targeted using a coordinate system
-    (sealed envelopes), or photographs illustrating ideas, concepts, plans, thoughts,
-    words, and feelings.
   claim_id: 5ad48822-f160-42c5-b4f1-867dffe2f460
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-5ad48822-f160-42c5-b4f1-867dffe2f460
 - text: Associative RV uses two targets, A and B, rather than one random target
   source: Remote Viewing Secrets
   location: ch17:27746-28079
-  quote: 'The way it works is identical to the Coordinate protocol, with the following
-    change: First we must know what the specific forced-choice question is and the
-    kind of answers it might require... instead of randomly choosing a single target
-    from a pool of possible targets, two targets are chosen: Target A and Target B.'
   claim_id: c5edb116-f4bb-40f3-8845-ea1260d304b2
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c5edb116-f4bb-40f3-8845-ea1260d304b2
 - text: Sub-atomic targets use the coordinate protocol but pose framing difficulties
   source: Remote Viewing Secrets
   location: ch17:38768-39031
-  quote: Again, using the coordinate or sealed envelope protocol is the normal route
-    here. However the difficulty then becomes how to frame the question, as we can
-    only hypothesize as to how most sub-atomic structures look, and there are very
-    few ways to actually display them.
   claim_id: 7cd679d4-ba1b-421e-8257-94a3186a982d
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-7cd679d4-ba1b-421e-8257-94a3186a982d

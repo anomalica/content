@@ -35,8 +35,6 @@ references:
     security clearance.
   source: In Plain Sight
   location: ch13:24124-24222
-  quote: Filmmaker Jeremy Corbell also found a witness whom Lazar said vetted him
-    for his Area 51 security clearance.
   claim_id: 0d3f353e-2e00-45ff-945d-832286061739
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d3f353e-2e00-45ff-945d-832286061739

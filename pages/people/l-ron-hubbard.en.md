@@ -94,8 +94,6 @@ references:
 - text: Hubbard founded Dianetics and later the Church of Scientology
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:10303-10379
-  quote: Ron Hubbard, on the other hand, founded Dianetics and, later, the Church
-    of Scientology.
   claim_id: 67fdaf08-e23f-417f-acc3-bd110d99dfad
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-67fdaf08-e23f-417f-acc3-bd110d99dfad
@@ -103,15 +101,12 @@ references:
     Angeles branch
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:9935-10049
-  quote: two of the most ardent members were Jack W. Parsons, a propulsion engineer,
-    and L. Ron Hubbard, a science-fiction buff.
   claim_id: ff37d091-7adf-4abc-9e47-5b97c8b981cc
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ff37d091-7adf-4abc-9e47-5b97c8b981cc
 - text: Hubbard came to Parsons' Pasadena mansion in 1945
   source: Dark Mission
   location: ch12:82545-82592
-  quote: until one very special individual showed up in 1945
   claim_id: f5b96007-dde9-4a04-b3ec-47d4d38c9c25
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f5b96007-dde9-4a04-b3ec-47d4d38c9c25
@@ -119,9 +114,6 @@ references:
     rituals for short-term goals
   source: Dark Mission
   location: ch12:82994-83156
-  quote: the two quickly fell into a variety of "magikal workings," mostly sexual
-    rituals designed to achieve one short-term goal or another. By 1946, Parsons had
-    bigger plans.
   claim_id: 7976e772-4086-444e-93a7-413dbe7c7fca
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7976e772-4086-444e-93a7-413dbe7c7fca
@@ -129,8 +121,6 @@ references:
     intelligence during World War II
   source: Dark Mission
   location: ch12:169229-169373
-  quote: Fig. 5-19 - L. Ron Hubbard, Parsons “magical” partner in the so-called “Babalon
-    Working,” during his service in naval intelligence in World War II.
   claim_id: ddab5ae8-7296-41f6-86dc-4278233fe0f3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ddab5ae8-7296-41f6-86dc-4278233fe0f3
@@ -138,9 +128,6 @@ references:
     I
   source: Dark Mission
   location: ch12:83164-83323
-  quote: He and Hubbard decided that they would recreate a famous series of séances
-    performed by Dr. John Dee, the Royal Astrologer to Queen Elizabeth in the sixteenth
-    century.
   claim_id: edcfc65a-9055-4497-bbc9-cbb088d31c48
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-edcfc65a-9055-4497-bbc9-cbb088d31c48
@@ -148,18 +135,12 @@ references:
     spirit
   source: Dark Mission
   location: ch12:83516-83671
-  quote: He and Hubbard meditated intensely in the California desert for eleven days,
-    until one night Parsons declared "it is done" to Hubbard, and returned to the
-    mansion.
   claim_id: 7ba575ad-b976-42d9-9ea0-8d836365c53e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7ba575ad-b976-42d9-9ea0-8d836365c53e
 - text: The rituals used Dee's Enochian calls and invoked Osiris
   source: Dark Mission
   location: ch12:85004-85165
-  quote: The rituals used by Parsons and Hubbard employed the Enochian calls, or angelic
-    language, of John Dee, and specifically required the calling of the Egyptian god
-    Osiris.
   claim_id: 48e9b8dc-b371-432d-bdf7-a52dd15d910c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-48e9b8dc-b371-432d-bdf7-a52dd15d910c
@@ -167,10 +148,6 @@ references:
     pantheon, as JPL was founded nearby
   source: Dark Mission
   location: ch12:122309-122544
-  quote: The magick being practiced by Parsons and Hubbard in Southern California
-    in the 1940's, as JPL was born, also saw its roots in ancient Egypt, and ultimately
-    involved the invocation of Osiris, Horus, and the rest of the *same* Egyptian
-    pantheon.
   claim_id: 83d9cd8d-277d-4250-897b-569a3ccd7b9d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-83d9cd8d-277d-4250-897b-569a3ccd7b9d
@@ -178,9 +155,6 @@ references:
     produce a Moonchild
   source: Dark Mission
   location: ch12:87184-87403
-  quote: when Crowley caught wind of what Hubbard and Parsons were attempting, he
-    became alarmed. "Apparently Parsons and Hubbard or somebody is producing a Moonchild.
-    I get fairly frantic when I contemplate the idiocy of these louts."
   claim_id: b1910fc0-a024-4475-9600-de30f7988d2f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b1910fc0-a024-4475-9600-de30f7988d2f
@@ -188,10 +162,6 @@ references:
     to attempt this safely
   source: Dark Mission
   location: ch12:87411-87643
-  quote: Crowley evidently considered the actual raising of a "Moonchild" to be an
-    incredibly risky endeavor. In his view, neither man was experienced enough in
-    the methods (and consequences) of using Crowley's "Thelemic sex magick" in this
-    way.
   claim_id: 2f4fc32a-61fb-4b2a-b5a7-72ac171612c9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2f4fc32a-61fb-4b2a-b5a7-72ac171612c9
@@ -199,9 +169,6 @@ references:
     fled to Florida with the boat and remaining cash
   source: Dark Mission
   location: ch12:88415-88602
-  quote: The whole notion collapsed when Hubbard went to New York with Parsons' money
-    (and his still legal wife, Betty), then ran off to Florida—with the boat, the
-    girl and the rest of Parsons' cash.
   claim_id: 4fe35bb8-7142-4606-bbf0-17216cfd1d55
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4fe35bb8-7142-4606-bbf0-17216cfd1d55
@@ -209,17 +176,12 @@ references:
     the Harpoon
   source: Dark Mission
   location: ch5:21864-22053
-  quote: Hubbard eventually ended up in Florida with Sara "Betty" Northrup, sister
-    of Parsons' wife Helen (and Parsons' lover prior to Hubbard appearing on the scene),
-    and a sailing boat named the *Harpoon*
   claim_id: 02ec2ec3-1096-492b-ba40-bb55569a43c2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-02ec2ec3-1096-492b-ba40-bb55569a43c2
 - text: A Bill of Sale shows Parsons sold the Harpoon to Hubbard
   source: Dark Mission
   location: ch5:22063-22142
-  quote: A Bill of Sale produced by the Church shows that Parsons sold the *Harpoon*
-    to Hubbard.
   claim_id: 2423a791-723b-4afb-9c15-c1117d298e24
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2423a791-723b-4afb-9c15-c1117d298e24
@@ -227,8 +189,6 @@ references:
     fleeing pair
   source: Dark Mission
   location: ch12:88853-88950
-  quote: Parsons set up a magical circle and summoned the god Bartzabel (a form of
-    Mars) to "conjure up a storm."
   claim_id: e43e4108-1f95-4b0a-a3ff-2c39057f35f7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e43e4108-1f95-4b0a-a3ff-2c39057f35f7
@@ -236,15 +196,12 @@ references:
     arrested
   source: Dark Mission
   location: ch12:88958-89088
-  quote: Indeed, Hubbard and Betty did encounter a fierce storm at sea, and were forced
-    to return to Miami—where Parsons promptly had them arrested.
   claim_id: 5a18c054-e00e-4dda-b4f4-30030c5eb94f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5a18c054-e00e-4dda-b4f4-30030c5eb94f
 - text: Hubbard married Northrup and went on to found the Church of Scientology
   source: Dark Mission
   location: ch12:89151-89216
-  quote: Hubbard went on to marry Betty and eventually form the Church of Scientology
   claim_id: 4bde6a83-7d48-437d-aedf-1ad63d0f6358
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4bde6a83-7d48-437d-aedf-1ad63d0f6358
@@ -252,8 +209,6 @@ references:
     a black magic cult
   source: Dark Mission
   location: ch12:82693-82825
-  quote: The Church of Scientology claims that he was sent by the U.S. Navy to infiltrate
-    and break up a "black magic cult" operating in Los Angeles.
   claim_id: 4d9fb5e1-3ec0-41b4-9653-429cbdde2cc0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4d9fb5e1-3ec0-41b4-9653-429cbdde2cc0
@@ -261,8 +216,6 @@ references:
     Parsons in Dark Mission'
   source: Dark Mission
   location: ch5:17847-17986
-  quote: They sought to set the record straight on what they viewed as mischaracterizations
-    in the section dealing with Hubbard and Jack Parsons of JPL.
   claim_id: 6b36ea45-237d-4158-b88d-09ac34b727ff
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6b36ea45-237d-4158-b88d-09ac34b727ff
@@ -270,11 +223,6 @@ references:
     at 1003 Orange Grove Avenue
   source: Dark Mission
   location: ch5:18477-18825
-  quote: The Church has argued Hubbard was not so much a willing participant in Parsons’
-    pursuits as he was an instrument of disruption inside the Ordo Templi Orientis.
-    According to the Church—and as we outlined in Chapter Five of the original edition—Hubbard
-    was sent to infiltrate and disrupt the worrisome activities of Jack Parsons at
-    1003 Orange Grove Avenue.
   claim_id: 6d7865d7-6307-4398-9e8d-760aada2de21
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6d7865d7-6307-4398-9e8d-760aada2de21
@@ -282,9 +230,6 @@ references:
     than being a willing participant
   source: Dark Mission
   location: ch5:18833-18986
-  quote: Documents provided to me by the Church now incline me to lean more toward
-    this interpretation, although I think it is fair to say we will never know for
-    certain.
   claim_id: f4c1e6f7-c1b0-4989-af61-a4cf9b704d0d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f4c1e6f7-c1b0-4989-af61-a4cf9b704d0d
@@ -292,8 +237,6 @@ references:
     at some point in his career'
   source: Dark Mission
   location: ch5:19035-19149
-  quote: Hubbard was a US Naval Intelligence Officer, as the Church has claimed, at
-    least at some point during his service career.
   claim_id: c89e1520-9f7c-4021-8d00-1765ae2e3156
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c89e1520-9f7c-4021-8d00-1765ae2e3156
@@ -301,15 +244,12 @@ references:
     and infiltrating the OTO'
   source: Dark Mission
   location: ch5:19160-19299
-  quote: Hubbard was residing in the area at the time he supposedly was befriending
-    Parsons and infiltrating the OTO, and was still an active naval officer.
   claim_id: a7d40d58-971f-4976-acc5-7854b1d217cf
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a7d40d58-971f-4976-acc5-7854b1d217cf
 - text: 'Bara: Hubbard would have made an ideal agent for such an infiltration'
   source: Dark Mission
   location: ch5:19311-19362
-  quote: Hubbard would have been an ideal agent for such an operation.
   claim_id: 88b90e27-d2b4-4514-b0c7-415dbc3901ef
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-88b90e27-d2b4-4514-b0c7-415dbc3901ef
@@ -317,15 +257,12 @@ references:
     actions'
   source: Dark Mission
   location: ch5:19376-19446
-  quote: Pasadena’s OTO headquarters was indeed damaged for years by Hubbard’s actions.
   claim_id: 8f949905-461e-448f-a600-c734e71317c6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8f949905-461e-448f-a600-c734e71317c6
 - text: 'Bara: the OTO never fully recovered from the harm done to Parsons'
   source: Dark Mission
   location: ch5:19458-19561
-  quote: The OTO was disrupted by his presence, and it never truly recovered from
-    the damage done by Hubbard to Parsons.
   claim_id: d97744a4-9a0f-46b3-94e2-12c238729cbf
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d97744a4-9a0f-46b3-94e2-12c238729cbf
@@ -333,18 +270,12 @@ references:
     1941
   source: Dark Mission
   location: ch5:19571-19670
-  quote: According to Navy documents, Lafayette Ronald Hubbard was assigned to intelligence
-    duties in July, 1941.
   claim_id: 3285d470-0a62-4dbc-9bb5-b4c3ac293c64
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3285d470-0a62-4dbc-9bb5-b4c3ac293c64
 - text: 'Bara: Hubbard remained in the Navy reserves until October 1950'
   source: Dark Mission
   location: ch5:19676-19953
-  quote: While it appears from his service record that he was no longer actively serving
-    in intelligence assignments during the period he was hanging around with Parsons,
-    he was still technically on active duty and remained in the reserves until October
-    of 1950, well after his time in Pasadena.
   claim_id: 69259146-3c29-4f27-afc1-06890b2b729d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-69259146-3c29-4f27-afc1-06890b2b729d
@@ -352,8 +283,6 @@ references:
     until December 1945
   source: Dark Mission
   location: ch5:20839-20949
-  quote: Although he was officially listed as a patient at Oak Knoll Naval hospital
-    in San Francisco until December of 1945
   claim_id: e7f61333-180c-4b36-b27c-514be45054e8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e7f61333-180c-4b36-b27c-514be45054e8
@@ -361,32 +290,24 @@ references:
     OTO lodge
   source: Dark Mission
   location: ch5:20955-21087
-  quote: a telegram from Hubbard to the Navy dated October 13, 1945 indicates he was
-    staying in Hollywood, near Parsons and the OTO lodge in Pasadena
   claim_id: 1ef13d14-5752-4ef4-8398-9f6ec7da7738
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1ef13d14-5752-4ef4-8398-9f6ec7da7738
 - text: FAS meeting minutes from 1945-11-15 record both Hubbard and Parsons in attendance
   source: Dark Mission
   location: ch5:21652-21838
-  quote: Minutes from a November 15th, 1945 meeting of the FAS (again, while Hubbard
-    was officially still in the hospital) indicate that both Hubbard and Parsons attended
-    and participated in the meeting.
   claim_id: a4b1fb60-6fe5-4825-a010-66b554fd3c75
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a4b1fb60-6fe5-4825-a010-66b554fd3c75
 - text: Hubbard had an intelligence background
   source: Dark Mission
   location: ch5:22954-22982
-  quote: Hubbard had an intelligence background
   claim_id: 230cdd27-a46f-4a72-a346-6306166037f2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-230cdd27-a46f-4a72-a346-6306166037f2
 - text: Hubbard attended one of the first US university courses on nuclear physics
   source: Dark Mission
   location: ch5:23088-23183
-  quote: he did attend one of the first university courses on nuclear physics ever
-    taught in the United States
   claim_id: a865d542-a532-4c03-b57e-bf83ed95415c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a865d542-a532-4c03-b57e-bf83ed95415c
@@ -394,8 +315,6 @@ references:
     the OTO and FAS
   source: Dark Mission
   location: ch5:22842-22949
-  quote: After seeing the documentation supplied to me by the Church of Scientology,
-    I find the premise a plausible one.
   claim_id: 630b43e8-dd36-4538-8c53-5db1a973caa7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-630b43e8-dd36-4538-8c53-5db1a973caa7
@@ -403,8 +322,6 @@ references:
     the alternative account
   source: Dark Mission
   location: ch5:23597-23730
-  quote: I will admit that I now hold that the weight of the evidence supports the
-    Scientologist's version of events over the less flattering one.
   claim_id: 1e75a06c-1766-4b67-82ac-399c975489de
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1e75a06c-1766-4b67-82ac-399c975489de
@@ -412,8 +329,6 @@ references:
     belief
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:694-802
-  quote: The same links can be traced around people like Jack Parsons, who founded
-    JPL, and Ron Hubbard, who founded Scientology.
   claim_id: 2c586e2f-7861-4683-bf72-73c3affe2a70
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2c586e2f-7861-4683-bf72-73c3affe2a70
@@ -421,9 +336,6 @@ references:
     performing rituals in the LA desert
   source: American Cosmic
   location: ch1:35097-35290
-  quote: Jack Parsons was uniquely American in that he collaborated with Aleister
-    Crowley and L. Ron Hubbard and spent time both launching rockets and engaging
-    in provocative rituals in the Los Angeles desert.
   claim_id: 89b8270c-54ab-4a51-8a92-3451f647b1ed
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-89b8270c-54ab-4a51-8a92-3451f647b1ed
@@ -431,10 +343,6 @@ references:
     described in Hubbard''s Mission Earth'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch19:30396-30653
-  quote: March 2003 We were contacted by an overseas source who suggested the saga
-    had more to do with some misguided secret Scientology "mission" to find a buried
-    spaceship, as described in the Mission Earth science fiction series by Scientology's
-    founder, L. Ron Hubbard.
   claim_id: 568b822d-2718-4874-9ebf-af74b97d17d4
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-568b822d-2718-4874-9ebf-af74b97d17d4
@@ -442,9 +350,6 @@ references:
     with the Gundiah property
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch19:31312-31548
-  quote: Recalling that the Gundiah property was called Whispering Winds, Diane mentioned
-    that Hubbard, lived out his last years on a remote property in the United States—"It
-    is a quiet place, a perfect place to hide." It's name? Whispering Winds!
   claim_id: e28492f2-8e2c-453d-b88e-a56e1355b8f5
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e28492f2-8e2c-453d-b88e-a56e1355b8f5

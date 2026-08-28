@@ -37,10 +37,6 @@ references:
     describing four alleged UFO bases
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:30560-30821
-  quote: In 1973 Pat Price, one of the “stars” of the Stanford Research Institute’s
-    (SRI) genesis RV program, gave an unsolicited package to Hal Puthoff, one of the
-    key scientists running the SRI project. It contained Price’s remote viewing notes
-    of four “UFO bases” on Earth.
   claim_id: 3e907b24-9c5a-4782-90b9-5a0f34231f7d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-3e907b24-9c5a-4782-90b9-5a0f34231f7d
@@ -48,8 +44,6 @@ references:
     follows an addressing scheme
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:62704-62813
-  quote: The SRI experiments with Swann and Price, for example, suggest that remote
-    viewing is based on an addressing scheme.
   claim_id: df72ab9c-594b-4c7f-aed0-926606b21c24
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-df72ab9c-594b-4c7f-aed0-926606b21c24
@@ -57,43 +51,30 @@ references:
     of Price's psychic skill
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:30828-30909
-  quote: Puthoff didn’t know what to think, but he was sure of Price’s remarkable
-    psychic skills.
   claim_id: 1afcba14-41a3-4e0b-9a65-abe9851f645f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1afcba14-41a3-4e0b-9a65-abe9851f645f
 - text: One base lay just west of Pine Gap in central Australia
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:31044-31158
-  quote: One of the bases was alleged to be located just to the west of the secret
-    U.S. spy base in central Australia—Pine Gap.
   claim_id: 8e38f7aa-401b-4c72-9902-027951f2015e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8e38f7aa-401b-4c72-9902-027951f2015e
 - text: Chalker said Puthoff was intrigued the Australian site was Mt. Zeil
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:31503-31596
-  quote: Puthoff was intrigued, as Price’s RV location of the alleged Australian “alien
-    base” was Mt. Zeil!
   claim_id: cf93ff54-d6ea-4730-919f-db3ed81bf535
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-cf93ff54-d6ea-4730-919f-db3ed81bf535
 - text: The four alleged bases were at Mt. Zeil, Mt. Hayes, Mt. Perdido and Mt. Inyangani
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:32077-32236
-  quote: Apart from Mt. Zeil in Australia, the other three “alien bases” were located
-    at Mt. Hayes in Alaska, Mt. Perdido in the Spanish Pyrenees, and Mt. Inyangani
-    in Zimbabwe!
   claim_id: 77cbd21a-7a00-476c-9b50-e01b0db11960
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-77cbd21a-7a00-476c-9b50-e01b0db11960
 - text: Mt. Perdido was identified as near the Basque territories
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:54044-54286
-  quote: Perhaps an interesting place to contemplate that Mt. Perdido in the Spanish
-    Pyrenees, near the Basque territories, was one of four underground “UFO bases”
-    identified by remote viewing back in the 1970s by pioneer and “star” remote viewer
-    Pat Price.
   claim_id: 6e06a9a1-b6ea-48fa-bc29-26d5ba6eb690
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-6e06a9a1-b6ea-48fa-bc29-26d5ba6eb690
@@ -101,9 +82,6 @@ references:
     army remote viewers
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:31602-31822
-  quote: By the early 1980s these notes made their way into the hands of army officer
-    Atwater. Charged with the responsibility of training and assessing the army remote
-    viewers he utilized Price’s “targets” in a blind controlled fashion.
   claim_id: 56fd6d72-f7f9-4518-9b55-6225be3ae50e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-56fd6d72-f7f9-4518-9b55-6225be3ae50e
@@ -111,10 +89,6 @@ references:
     four localities
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:31831-32068
-  quote: He was struck when his own army remote viewers supplied him with information
-    that suggested there were hidden underground facilities with some sort of alien
-    or extraterrestrial connection at the four localities Price had viewed a decade
-    earlier.
   claim_id: f4c0f543-8660-4d81-9fbf-ace10434e311
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-f4c0f543-8660-4d81-9fbf-ace10434e311
@@ -122,9 +96,6 @@ references:
     file-cabinet labels
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:33958-34137
-  quote: From a couch on the west coast, Price penetrated a secret NSA location in
-    West Virginia and correctly described identifying labels on manila file folders
-    locked in a subterranean cabinet.
   claim_id: 76b1b0ab-78bd-45f0-88f3-73fbaab7a2b5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-76b1b0ab-78bd-45f0-88f3-73fbaab7a2b5

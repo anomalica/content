@@ -1216,9 +1216,6 @@ references:
     United Nations in 1992.
   source: Dark Mission
   location: ch12:10084-10322
-  quote: In the same 1992 U.N. presentation Hoagland went on to demonstrate an additional
-    level to this possible Earth/Mars connection. He showed that the right half of
-    the Face, when flipped symmetrically over the left half, appeared distinctly feline.
   claim_id: f144a59f-59f3-49f6-9df2-087e2e03cab2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f144a59f-59f3-49f6-9df2-087e2e03cab2
@@ -1226,9 +1223,6 @@ references:
     photograph the Face on Mars.
   source: Dark Mission
   location: ch10:24876-25060
-  quote: Hoagland and Dr. Stanley McDaniel began to dig into Malin’s contentions,
-    and quickly discovered that Malin’s claim of at best “one or two” opportunities
-    to target the Face was greatly understated.
   claim_id: bef6d82d-f099-4757-991e-7640db5c2945
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bef6d82d-f099-4757-991e-7640db5c2945
@@ -1236,9 +1230,6 @@ references:
     Face during Mars Observer's science phase.
   source: Dark Mission
   location: ch10:25073-25282
-  quote: After consulting with Mission Planners at JPL and reviewing the technical
-    specs, they found that there would be more on the order of *forty plus* chances
-    to target the Face during the regular two-year science phase.
   claim_id: 5677538c-2816-4588-9d8f-740415c12f6b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5677538c-2816-4588-9d8f-740415c12f6b
@@ -1246,10 +1237,6 @@ references:
     physics.
   source: Dark Mission
   location: ch15:38591-38862
-  quote: Hoagland’s Geometric Relationship Model for Cydonia—with its potential for
-    quantification and testing of the foundations of the “intelligence hypothesis”
-    itself (in the form of specific predictions made by  the hyperdimensional physics
-    theory derived from that alignment model)
   claim_id: 3bcc0c47-1271-411e-9624-e798da204801
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3bcc0c47-1271-411e-9624-e798da204801
@@ -1257,9 +1244,6 @@ references:
     as conveying knowledge of tetrahedral physics.
   source: Dark Mission
   location: ch13:43075-43257
-  quote: if Hoagland and Torun had been right all along in their declaration that
-    the arrangements of the monuments at Cydonia were intended to inculcate knowledge
-    of tetrahedral physics to observers
   claim_id: 24c95344-dc4e-4129-b597-31b8da1483e4
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-24c95344-dc4e-4129-b597-31b8da1483e4
@@ -1267,17 +1251,12 @@ references:
     a tetrahedral latitude of 19.5 degrees.
   source: Dark Mission
   location: ch13:42449-42628
-  quote: The numbers predicted that the behavior of a spinning sphere, such as a planet,
-    would outwell higher dimensional energies at the key tetrahedral latitude—the
-    now-ubiquitous 19.5º connection.
   claim_id: efa0682b-d132-40be-b149-7625d7277e16
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-efa0682b-d132-40be-b149-7625d7277e16
 - text: The model also predicts hexagonal inwelling points.
   source: Dark Mission
   location: ch13:42640-42778
-  quote: A lesser-known aspect of this model was the prediction that there would be
-    inwelling points in the system as well, and that they would be hexagonal.
   claim_id: d43d3d2e-7b21-42c5-9f38-77a399084362
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d43d3d2e-7b21-42c5-9f38-77a399084362
@@ -1285,8 +1264,6 @@ references:
     with a 19.5-degree stellar alignment.
   source: Dark Mission
   location: ch12:167893-168014
-  quote: Orion’s Belt stands at 19.5 degrees about southwest horizon, a redundant
-    mathematical code for “dimensional transition” (Hoagland)
   claim_id: 88f2f025-18b7-4ff1-9e48-275c03269e5b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-88f2f025-18b7-4ff1-9e48-275c03269e5b
@@ -1294,10 +1271,6 @@ references:
     of his ancient lunar dome hypothesis.
   source: Dark Mission
   location: ch11:105784-106021
-  quote: but it was the striking, unmistakable appearance of those slanted buttresses,
-    seen on a much bigger scale from the Apollo 12 landing site, which gave Hoagland
-    independent but vital confirmation for his entire model of the "ancient lunar
-    domes."
   claim_id: a343ae57-1347-4cba-9b9b-cfe4667a4415
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a343ae57-1347-4cba-9b9b-cfe4667a4415
@@ -1305,10 +1278,6 @@ references:
     site after adjusting scanned images.
   source: Dark Mission
   location: ch11:93782-94019
-  quote: by simply adjusting the gamma and contrast in the resulting digital images
-    Hoagland was stunned to see an enormous amount of previously invisible *geometric*
-    detail suddenly appear … hanging in the supposedly pitch-black, airless lunar
-    *sky.*
   claim_id: 45cc04df-43fb-424a-94cb-938e61063713
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-45cc04df-43fb-424a-94cb-938e61063713
@@ -1316,10 +1285,6 @@ references:
     and angled stringers.
   source: Dark Mission
   location: ch11:95601-95904
-  quote: As Hoagland made further enhancements and enlargements of this astonishing
-    full-resolution Apollo 14 image, he discovered multiple *layers* of breathtaking
-    'structural construction' embedded in the NASA frame; multiple surviving 'cell-like
-    rooms,' three-dimensional 'cross-bracing,' angled 'stringers,' etc
   claim_id: 5b6220d7-d64a-4fb7-814c-e7d0475e7046
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5b6220d7-d64a-4fb7-814c-e7d0475e7046
@@ -1327,10 +1292,6 @@ references:
     and placed Aldrin's communion ceremony thirty-three minutes after touchdown.
   source: Dark Mission
   location: ch12:30886-31203
-  quote: Using transcripts from the Apollo 11 mission logs, he and Johnston painstakingly
-    reconstructed the post-landing lockdown procedures that Aldrin and Armstrong had
-    gone through on that historic day. In doing so, they determined that the ceremony
-    took place precisely thirty-three minutes after touchdown on the lunar surface.
   claim_id: 46ce7898-0118-460c-bbfe-da1ae9bfae90
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-46ce7898-0118-460c-bbfe-da1ae9bfae90
@@ -1338,11 +1299,6 @@ references:
     appeared at the predicted time on 1998-04-14.
   source: Dark Mission
   location: ch13:37641-37956
-  quote: As we were watching the JPL websites, with Bara on the main JPL site and
-    Hoagland watching the primary mirror site, we continued to refresh our browsers
-    to insure we got the image at precisely the moment it was posted. Then at 6:55
-    p.m., exactly as we had predicted, the new image link appeared on the JPL main
-    web page.
   claim_id: 4f4f142b-6d2b-45cd-bebe-446acf802ba7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f4f142b-6d2b-45cd-bebe-446acf802ba7
@@ -1350,8 +1306,6 @@ references:
     NASA, JPL and Malin Space Science Systems.
   source: Dark Mission
   location: ch13:30167-30282
-  quote: Reduced the resolution of the original 2048 x 19200 image strip to 1024 x
-    9600, some time after acquisition of the image
   claim_id: 09360e50-31fd-4a0a-95cd-b86a8bf06982
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-09360e50-31fd-4a0a-95cd-b86a8bf06982
@@ -1359,9 +1313,6 @@ references:
     Cydonia.
   source: Dark Mission
   location: ch16:2076-2246
-  quote: The  infrared capability of THEMIS might also allow us to see “below the
-    surface” of Cydonia for the first time, using the ground-penetrating capabilities
-    of the near IR wavelengths
   claim_id: 88be8994-cc51-4909-8850-fb3886ad5be7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-88be8994-cc51-4909-8850-fb3886ad5be7
@@ -1369,10 +1320,6 @@ references:
     tidal model.
   source: Dark Mission
   location: ch16:27432-27735
-  quote: We were also pleased to get more confirmation of our tidal model at the press
-    briefing, in the form of Gamma Ray Spectrometer data... the GRS team, led by Dr.
-    William Boynton, gathered some data anyway while the instrument was still in its
-    “parked” position.
   claim_id: 304008a6-b477-46e0-b580-035a23749021
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-304008a6-b477-46e0-b580-035a23749021

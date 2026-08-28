@@ -67,7 +67,6 @@ references:
 - text: Inouye was a World War Two war hero who died in 2012
   source: In Plain Sight
   location: ch17:3833-3896
-  quote: Senator Daniel Inouye was a World War Two war hero who died in 2012
   claim_id: 13457c3c-0544-42d7-a59d-ded1a977cf8d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13457c3c-0544-42d7-a59d-ded1a977cf8d
@@ -75,15 +74,12 @@ references:
     gallantry
   source: In Plain Sight
   location: ch17:3902-3997
-  quote: a recipient of the Medal of Honor for conspicuous gallantry, the highest
-    military award in the US
   claim_id: 28b303c0-ff23-4f0b-951a-2c809980290a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-28b303c0-ff23-4f0b-951a-2c809980290a
 - text: Inouye lost an arm while serving in the US military during World War II
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:18564-18619
-  quote: The patriot Inouye had literally given his arm for his country.
   claim_id: 74181370-53a1-4f80-b2f8-310b87b5d908
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-74181370-53a1-4f80-b2f8-310b87b5d908
@@ -91,8 +87,6 @@ references:
     power
   source: In Plain Sight
   location: ch17:4001-4092
-  quote: A solid patriot, Inouye was well known for warning of the risks posed by
-    covert government power.
   claim_id: c9cde423-2073-41fd-ac8b-4dd724d2a565
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c9cde423-2073-41fd-ac8b-4dd724d2a565
@@ -100,9 +94,6 @@ references:
     those he held culpable for the scandal
   source: In Plain Sight
   location: ch17:4099-4283
-  quote: During the Iran-Contra Senate investigations into secret US military assistance
-    given to Iran and the Nicaraguan Opposition, Inouye was very critical of those
-    he held culpable for the scandal.
   claim_id: 05aa27d7-6a48-4bcd-8015-dd64d30430b6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-05aa27d7-6a48-4bcd-8015-dd64d30430b6
@@ -110,11 +101,6 @@ references:
     and the law itself
   source: In Plain Sight
   location: ch17:4292-4603
-  quote: He decried their apparent notion of 'a shadowy government with its own air
-    force, its own navy, its own fundraising mechanism, and the ability to pursue
-    its own ideas of the national interest, free from all checks and balances, and
-    free from the law itself. It is an elitist vision of government that trusts no
-    one.'
   claim_id: 8c630c86-7a92-4891-acab-ba7ed39658a6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8c630c86-7a92-4891-acab-ba7ed39658a6
@@ -161,9 +147,6 @@ references:
     UAP study
   source: In Plain Sight
   location: ch17:3449-3607
-  quote: The Senator approached his colleagues, Democrat Senator Daniel Inouye and
-    Republican Senator Ted Stevens, to get $22 million funding for a study into the
-    UAP mystery.
   claim_id: 9cb0750d-1402-4a84-bd24-ddbc4243d2ac
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9cb0750d-1402-4a84-bd24-ddbc4243d2ac
@@ -171,10 +154,6 @@ references:
     the efforts of Reid, Stevens and Inouye
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:17304-17583
-  quote: 'This time, Jim shared that the program enjoyed the support of the DIA''s
-    then director, Lieutenant General Michael D. Maples, and was funded through the
-    efforts of a bipartisan group of senators: Senator Harry Reid (D-NV), Senator
-    Ted Stevens (R-AK), and Senator Daniel Inouye (D-HI).'
   claim_id: 48783ee1-cc4d-4530-89be-e763adf1c0ee
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
@@ -182,8 +161,6 @@ references:
     Pentagon programs
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:19229-19315
-  quote: Together, these three men controlled congressional spending for black-budget
-    Pentagon programs.
   claim_id: d44a9df7-70f5-4eac-82a1-fa325abf1e50
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d44a9df7-70f5-4eac-82a1-fa325abf1e50

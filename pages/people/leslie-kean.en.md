@@ -415,9 +415,6 @@ references:
     military encounters with UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:7559-7752
-  quote: Leslie had been a longtime reporter for major metropolitan newspapers and
-    was very interested in the UAP topic. Years earlier, she’d written a well-received
-    book about military encounters with UAP
   claim_id: dcf270a1-5b05-42cc-bcf7-538cdf60b8ea
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dcf270a1-5b05-42cc-bcf7-538cdf60b8ea
@@ -425,8 +422,6 @@ references:
     Pennsylvania UAP incident
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:7760-7879
-  quote: had won a major court victory against NASA over the release of documents
-    relating to a 1965 UAP incident in Kecksburg, Pennsylvania.
   claim_id: a4675688-3d0e-49ff-b73f-0a1f505d1e92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a4675688-3d0e-49ff-b73f-0a1f505d1e92
@@ -454,17 +449,12 @@ references:
     hotel lobby near the Pentagon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:7273-7552
-  quote: 'Chris Mellon and Jim Semivan awaited me in the lobby of a hotel not far
-    from the Pentagon. Hal Puthoff arrived shortly after, as did the individual we
-    had all gathered to meet: an independent investigative journalist by the name
-    of Leslie Kean, whom Chris had arranged for us to meet.'
   claim_id: d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
 - text: The meeting with Elizondo, Mellon, Semivan and Puthoff lasted four hours
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:8535-8579
-  quote: Meeting with Kean lasted an exhausting four hours.
   claim_id: dcfd7856-89c8-4884-a4a2-961a4934e9fb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dcfd7856-89c8-4884-a4a2-961a4934e9fb
@@ -488,7 +478,6 @@ references:
 - text: That meeting was the first time Kean learned of the existence of AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:8794-8855
-  quote: I am certain this was the first time Kean learned of AATIP’s existence.
   claim_id: 1771e972-7fca-40ad-8485-cc38b98f3f26
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1771e972-7fca-40ad-8485-cc38b98f3f26
@@ -496,9 +485,6 @@ references:
     Blumenthal
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:15914-16069
-  quote: Later that month, I left our house for a short trip to Philadelphia to meet
-    again with Leslie Kean, this time with her longtime colleague and friend Ralph
-    Blumenthal.
   claim_id: a16721ee-db82-40f5-8ed9-bd3325e1bf5b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a16721ee-db82-40f5-8ed9-bd3325e1bf5b
@@ -506,10 +492,6 @@ references:
     to be an AFOSI surveillance team
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:17467-17716
-  quote: I noticed two individuals with tight military-style haircuts in different
-    parts of the street as we strolled. I was certain we were being observed. They
-    displayed the classic signs. They were most likely an AFOSI surveillance team,
-    just not their A-Team.
   claim_id: f2018acc-9885-4014-8e4b-4ddb9b500cf5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f2018acc-9885-4014-8e4b-4ddb9b500cf5
@@ -517,9 +499,6 @@ references:
     him
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:17927-18083
-  quote: One of the surveillance guys walked into the lobby, only to discover that
-    we were staring right at him and Leslie had just snapped his picture. He scurried
-    away.
   claim_id: e328bde1-ead1-4f0e-8da7-0354d65c946a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e328bde1-ead1-4f0e-8da7-0354d65c946a
@@ -557,11 +536,6 @@ references:
     get published in the NYT
   source: In Plain Sight
   location: ch28:25127-25471
-  quote: It's probably been the most difficult . . . topic to get out into The Times
-    because for all the reasons you could imagine, because of its controversy and
-    because the information about it is classified, and there's only so much that
-    we can bring forward and that makes it particularly difficult to report on that
-    topic, as well as it being so sensational.
   claim_id: 6e2714e6-6252-45cd-a8ab-c22573a25399
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6e2714e6-6252-45cd-a8ab-c22573a25399
@@ -569,10 +543,6 @@ references:
     to allegations the US government has recovered alien spacecraft
   source: In Plain Sight
   location: ch28:24642-24910
-  quote: It is very clear, from comments made by Blumenthal and his New York Times'
-    colleague Leslie Kean in an interview with Project Unity that both journalists
-    believe there is substance to the allegations that the US government has recovered
-    alien spacecraft or bits thereof
   claim_id: 01854123-0222-4ab6-b3dc-3948c3240f32
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-01854123-0222-4ab6-b3dc-3948c3240f32
@@ -580,9 +550,6 @@ references:
     independently of the brain and body
   source: Surviving Death
   location: ch16:1146-1310
-  quote: veridical OBEs are a stepping-stone toward that possibility, indicating that
-    our aware minds seem to exist and function independently of the brain and the
-    physical body
   claim_id: 806d2154-63ec-4c24-a842-c52db8b0df80
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-806d2154-63ec-4c24-a842-c52db8b0df80
@@ -590,16 +557,12 @@ references:
     Jim Tucker at the Division of Perceptual Studies
   source: Surviving Death
   location: ch10:2280-2424
-  quote: In 2014 I made a trip to Charlottesville, Virginia, to meet with Jim Tucker
-    and review selected case files housed at DOPS, some going back many decades.
   claim_id: fdd9e345-b2dc-491d-85d1-d63286c87b4c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fdd9e345-b2dc-491d-85d1-d63286c87b4c
 - text: James Leininger began exhibiting past-life statements before he turned two
   source: Surviving Death
   location: ch10:9996-10074
-  quote: beginning before he turned two, how many sources would he have needed to
-    draw from
   claim_id: e40fa56b-1f61-462d-8de3-b0c060a2e10a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e40fa56b-1f61-462d-8de3-b0c060a2e10a
@@ -607,16 +570,12 @@ references:
     who died in Japan in 1945
   source: Surviving Death
   location: ch10:317-476
-  quote: 'it turned out that all his memories matched the life of one person: James
-    Huston Jr., a committed World War II pilot who loved to fly and who died in Japan
-    in 1945.'
   claim_id: 2019f215-8dfe-4582-801b-dc6048cefb6f
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2019f215-8dfe-4582-801b-dc6048cefb6f
 - text: There was no connection between the Leininger and Huston families
   source: Surviving Death
   location: ch10:482-533
-  quote: There was absolutely no connection between the two families.
   claim_id: 13625a67-7bde-4328-a1a5-fed8a373f4b2
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-13625a67-7bde-4328-a1a5-fed8a373f4b2
@@ -624,8 +583,6 @@ references:
     existence rather than ESP
   source: Surviving Death
   location: ch10:10241-10351
-  quote: As implausible as it may sound, the evidence points toward James actually
-    remembering and reliving a previous existence.
   claim_id: a0291600-ed14-48be-bdaf-7d47a0606bf6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a0291600-ed14-48be-bdaf-7d47a0606bf6
@@ -633,17 +590,12 @@ references:
     as evidence of continuity of consciousness
   source: Surviving Death
   location: ch10:14078-14249
-  quote: I have to agree. Cases such as that of James Leininger provide some of the
-    strongest evidence suggesting a continuity of consciousness—before life, during
-    life, and after life.
   claim_id: 9d737208-c12f-4f6a-aa41-bbd053322931
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-9d737208-c12f-4f6a-aa41-bbd053322931
 - text: Kean met Ryan Hammons in Warner, Oklahoma, when he was ten
   source: Surviving Death
   location: ch13:108-183
-  quote: When I went to Warner, Oklahoma, to meet the Hammons family, Ryan was ten
-    years old.
   claim_id: 0ef02d68-e6b4-4375-aa4e-7a7f97d21cd6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0ef02d68-e6b4-4375-aa4e-7a7f97d21cd6
@@ -651,44 +603,30 @@ references:
     Ryan's statements from February 2010
   source: Surviving Death
   location: ch13:3770-3964
-  quote: After taking my copy of Cyndi’s journal back to New York, I went through
-    it meticulously, noting down all of Ryan’s specific points beginning with Cyndi’s
-    first letter to Jim Tucker in February 2010.
   claim_id: bfb1646f-f18b-42e7-b942-20a072a4fa3c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-bfb1646f-f18b-42e7-b942-20a072a4fa3c
 - text: Kean verified each of Hammons's key statements using public records
   source: Surviving Death
   location: ch13:4728-4927
-  quote: I was able to confirm a source to verify each of Ryan’s key statements from
-    public records at the national archives, newspapers, obituaries, census reports,
-    death certificates, travel documents, and photographs.
   claim_id: d4379b37-af5b-4dd0-965f-25bcb1887e04
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d4379b37-af5b-4dd0-965f-25bcb1887e04
 - text: Hammons made fifty-five accurate statements about Marty Martyn's life in total
   source: Surviving Death
   location: ch13:9127-9230
-  quote: When you add the eight original statements verified by Cyndi, there are a
-    total of fifty-five accurate statements.
   claim_id: 02329896-cd27-44fc-bcd0-c24e5ac2b87f
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-02329896-cd27-44fc-bcd0-c24e5ac2b87f
 - text: Hammons's claim about when Martyn's father died was incorrect
   source: Surviving Death
   location: ch13:10201-10318
-  quote: He said his (Marty’s) father died when he was a boy, which was not the case
-    (Marty’s father died six years before he did).
   claim_id: 762a7574-585f-4fe2-b81c-9a4fdfe54b9c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-762a7574-585f-4fe2-b81c-9a4fdfe54b9c
 - text: Kean wrote that strict controls in mediumship readings can rule out cold reading
   source: Surviving Death
   location: ch23:5426-5708
-  quote: When strict controls are in place—such as conducting the reading on the phone
-    eliminating all visual cues; making sure the medium knows nothing about the sitter,
-    not even a name; and not revealing any information whatsoever during the reading—we
-    are dealing with something entirely different.
   claim_id: 09e65c9b-4944-4c13-b3a7-b590a59e41d6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-09e65c9b-4944-4c13-b3a7-b590a59e41d6
@@ -696,9 +634,6 @@ references:
     her, without giving her last name
   source: Surviving Death
   location: ch23:8778-8954
-  quote: I was fortunate to get an appointment two months after emailing her, without
-    giving her my last name. I had a friend with an unrelated email conduct all the
-    communications for me.
   claim_id: 553ebad2-ef4b-4a39-ae41-cfbfcd6ef715
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-553ebad2-ef4b-4a39-ae41-cfbfcd6ef715
@@ -706,37 +641,24 @@ references:
     friend Budd Hopkins
   source: Surviving Death
   location: ch23:12278-12447
-  quote: She told me that he was older, maybe by twelve to fifteen years; that he
-    “crossed” two to three years ago, and that we were not married. These all were
-    accurate to Budd Hopkins.
   claim_id: 024b2a6f-efe8-493c-a050-49cc15dd31cc
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-024b2a6f-efe8-493c-a050-49cc15dd31cc
 - text: Jackson recognised a male on Kean's father's side as her brother
   source: Surviving Death
   location: ch23:16598-16715
-  quote: After finally getting Budd to pull back, she said a male on my father’s side
-    was there, and then recognized him as a brother.
   claim_id: 3ff93790-2676-466c-b0fd-d487ce456ee6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3ff93790-2676-466c-b0fd-d487ce456ee6
 - text: The brother thanked Kean, through Jackson, for keeping his secret
   source: Surviving Death
   location: ch23:18499-18926
-  quote: 'Then, Laura made the most powerful statement of all, coming from my brother:
-    “He said thank you for keeping his secret.” I was taken aback. This involved a
-    private circumstance and related issues involving my brother that no one knows
-    about outside the immediate family except possibly a few intimate friends. For
-    years I had kept this secret from the rest of the family, at his request, until
-    I realized I should no longer do so.'
   claim_id: 2c02b7f3-7c90-407e-8847-3cb84c544abb
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2c02b7f3-7c90-407e-8847-3cb84c544abb
 - text: Kean adopted the pseudonym Lesley Lay for her reading with Sandra O'Hara
   source: Surviving Death
   location: ch24:478-610
-  quote: I adopted a false name, Lesley Lay, and a friend by that last name conducted
-    all the correspondence with Sandra for me on his email address.
   claim_id: 9c011543-d94b-4d76-88cc-48d5b3afc40f
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-9c011543-d94b-4d76-88cc-48d5b3afc40f
@@ -744,17 +666,12 @@ references:
     reading
   source: Surviving Death
   location: ch24:2651-2845
-  quote: 'To reiterate: all that Sandra knew was that someone named Lesley Lay was
-    calling her at a certain time. She had no phone number, no email address, no location,
-    or real name that corresponded to me.'
   claim_id: d833b7bf-7c45-4916-96bc-1678cd844f73
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d833b7bf-7c45-4916-96bc-1678cd844f73
 - text: Sandy Ingham whispered to Kean, "You kept my secret"
   source: Surviving Death
   location: ch24:13204-13344
-  quote: Then, suddenly, Sandy leaned over to me across the couch. She cupped her
-    hands around her mouth and whispered close to my ear, “You kept my secret.”
   claim_id: ec7e2ed9-60ae-4a96-b21e-c79a3bc11e35
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ec7e2ed9-60ae-4a96-b21e-c79a3bc11e35
@@ -762,9 +679,6 @@ references:
     who had never spoken to each other
   source: Surviving Death
   location: ch24:13591-13786
-  quote: 'Three times? From three different mediums who have never spoken to each
-    other, I was given: “Thank you for keeping my secret”…the word “secrets”…“you
-    kept my secret,” all seemingly from the same source.'
   claim_id: dd9e6bdd-f134-4d5a-ac7e-a42833a08257
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dd9e6bdd-f134-4d5a-ac7e-a42833a08257
@@ -772,9 +686,6 @@ references:
     figure dissolved into shimmering particles
   source: Surviving Death
   location: '32'
-  quote: the form began to slowly dissolve... watching what appeared to be a solid
-    figure disintegrate before my eyes into shimmering little particles, and then
-    nothingness
   claim_id: 4ac2cefe-fbb4-4ef9-a40c-97155abe1eb7
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-4ac2cefe-fbb4-4ef9-a40c-97155abe1eb7
@@ -782,8 +693,6 @@ references:
     survival hypothesis debate for mental mediumship
   source: Surviving Death
   location: ch24:14618-14729
-  quote: There is ultimately no scientifically viable way to resolve the LAP vs. survival
-    debate with respect to mental mediumship.
   claim_id: 80b6dc66-861c-401c-8dc6-31c252c0f250
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-80b6dc66-861c-401c-8dc6-31c252c0f250

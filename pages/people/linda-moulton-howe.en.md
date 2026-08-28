@@ -78,9 +78,6 @@ references:
     samples
   source: In Plain Sight
   location: ch23:13493-13653
-  quote: The filing also disclosed that Moulton Howe had previously held and studied
-    these samples, 'reported to have come from an advanced aerospace vehicle of unknown
-    origin'.
   claim_id: ad2420a8-5948-484e-ab71-438f009534f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ad2420a8-5948-484e-ab71-438f009534f7
@@ -88,17 +85,12 @@ references:
     field
   source: In Plain Sight
   location: ch23:20632-20880
-  quote: Linda Moulton Howe has made stunning claims about the specific layered bismuth/magnesium
-    Art’s Parts samples over the years, including unproven suggestions that the material
-    will levitate if it is hit with the right magnetic field, an anti-gravity effect.
   claim_id: cde57871-30e0-4600-8925-7e43d6192d40
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cde57871-30e0-4600-8925-7e43d6192d40
 - text: A university scientist found a sample sent by Howe was 99 per cent aluminium
   source: In Plain Sight
   location: ch23:6236-6381
-  quote: Linda Moulton Howe says she sent the pieces to a scientist at a major midwestern
-    US university for analysis, who confirmed they were 99 per cent aluminium.
   claim_id: a85c1bc0-5abd-4b0b-8f7e-acb99f63d7dc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a85c1bc0-5abd-4b0b-8f7e-acb99f63d7dc
@@ -106,8 +98,6 @@ references:
     UFO near White Sands
   source: In Plain Sight
   location: ch23:7731-7856
-  quote: '''Micron-layered Bismuth and Magnesium Zinc from bottom of wedge-shaped
-    UFO in late 1940s near White Sands Proving Ground, New Mexico''.'
   claim_id: 0e8a73c4-8820-4f3b-83fc-94b67d12c25c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0e8a73c4-8820-4f3b-83fc-94b67d12c25c
@@ -115,9 +105,6 @@ references:
     achievable
   source: In Plain Sight
   location: ch23:8430-8664
-  quote: Howe says she was told by one exotic metals manufacturer in New Jersey that
-    it simply was not possible to layer bismuth and magnesium in any known industrial
-    process. 'It can't be done!' she was told. 'The layers won't bond with each other.'
   claim_id: 14004d06-6025-47ca-921e-c6f250a9a0ba
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-14004d06-6025-47ca-921e-c6f250a9a0ba
@@ -125,55 +112,36 @@ references:
     layers
   source: In Plain Sight
   location: ch23:8673-8885
-  quote: An unnamed scientist is quoted by Howe as speculating that the 'waviness
-    in the layers might be a fractal wave pattern calculated in the layered material's
-    construction perhaps to better resonate with a specific frequency'.
   claim_id: 6c490d29-5849-417f-8b70-cde4050412fd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6c490d29-5849-417f-8b70-cde4050412fd
 - text: 'Puthoff''s 2012 letter: field tests produced no anomalous result'
   source: In Plain Sight
   location: ch24:3163-3486
-  quote: A letter from Dr Hal Puthoff (formerly with TTSA) to Linda Moulton Howe in
-    2012, revealed by journalist M.J. Banias on Motherboard, admitted that tests he
-    did back then on the Art's Parts samples 'did not yield an interesting/anomalous
-    outcome in the tests involving the application of various fields'.
   claim_id: 21997da8-5d5c-407e-a042-57f3d9d59dbb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-21997da8-5d5c-407e-a042-57f3d9d59dbb
 - text: 'Puthoff''s 2012 letter: lacked equipment to test at 4.76-5.66 terahertz'
   source: In Plain Sight
   location: ch24:3932-4145
-  quote: In his 2012 letter, Dr Puthoff told Linda Moulton Howe that he did not have
-    the equipment that would allow him to zap the Art's Parts' bismuth/magnesium sample
-    with the required much higher frequency of 4.76–5.66 terahertz.
   claim_id: f9470ceb-d0f4-4319-9e17-b41f26ba7aa5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f9470ceb-d0f4-4319-9e17-b41f26ba7aa5
 - text: Coulthart on the 1996 letter's likely addressee and possible Howe/Bell collaborator
   source: In Plain Sight
   location: ch25:13360-13539
-  quote: It appeared to be written to a Los Angeles–based Hollywood TV show producer,
-    perhaps one collaborating with Linda Moulton Howe or Art Bell, reporting on the
-    results of scientific tests.
   claim_id: fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
 - text: Coulthart suspects the letter was forwarded to Edgar Mitchell by Howe or Bell
   source: In Plain Sight
   location: ch25:14363-14590
-  quote: I suspect the scientist's letter had been forwarded to Edgar Mitchell by
-    Linda Howe or Art Bell to keep Mitchell briefed, but they had protected the name
-    of the scientist by deleting a lot of the identifying information in the document.
   claim_id: 2248f7a6-452a-4431-9493-e12fee5807d0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2248f7a6-452a-4431-9493-e12fee5807d0
 - text: Howe received a phone call from the anonymous army sergeant letter writer
   source: In Plain Sight
   location: ch23:3911-4131
-  quote: At one stage, Howe even took a phone call from the anonymous letter writer,
-    who explained he was currently serving in the US Army and was heading to the Middle
-    East, 'and wanted me to know in case he didn't make it back alive'.
   claim_id: cd0cbc60-c268-46de-b5d5-7f1870cec471
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cd0cbc60-c268-46de-b5d5-7f1870cec471
@@ -181,18 +149,12 @@ references:
     18 years
   source: In Plain Sight
   location: ch23:10756-11057
-  quote: It happened in South Carolina on 30 November 1978, four years after the grandfather
-    supposedly imparted his solemn secret to his family. But, if this C-130 crash
-    was the one he claims, then that was a full 18 years before the supposed US Army
-    sergeant wrote his letter to Art Bell and Linda Moulton Howe.
   claim_id: 36d39e48-8642-4594-8f45-e75651455626
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-36d39e48-8642-4594-8f45-e75651455626
 - text: 'Strieber: Howe reported no blood found at the 1979 Elsie mutilation site'
   source: The Fourth Mind
   location: ch11:33841-33942
-  quote: Linda reported that there was no blood found around the carcass, despite
-    the extensive nature of the mutilation.
   claim_id: a11b002f-b723-48bf-bf54-b14c9203e577
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-a11b002f-b723-48bf-bf54-b14c9203e577
@@ -223,9 +185,6 @@ references:
 - text: Malin's response to Howe's question about the Cydonia imaging delay
   source: Dark Mission
   location: ch13:4669-4863
-  quote: When Howe asked him what he would say to those that had waited for almost
-    twenty years for new images of the region, Malin said “... all I can say is, jeez,
-    I’m sorry, that’s the reality of the thing.”
   claim_id: 351354f4-aa92-4e38-aba4-c32ac522bdcb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-351354f4-aa92-4e38-aba4-c32ac522bdcb

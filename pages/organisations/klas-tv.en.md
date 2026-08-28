@@ -32,9 +32,6 @@ references:
     UAP stories.
   source: In Plain Sight
   location: ch15:13284-13464
-  quote: Las Vegas investigative journalist George Knapp is a multi-award-winning
-    investigative journalist who has worked for Nevada's KLAS-TV for 40 years, breaking
-    many extraordinary UAP stories.
   claim_id: 477f7a1b-4745-422c-b4a1-a6ba8663ae90
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-477f7a1b-4745-422c-b4a1-a6ba8663ae90
@@ -43,10 +40,6 @@ references:
     the supposed Site 4 (S-4) facility.
   source: In Plain Sight
   location: ch13:20633-20945
-  quote: Years later, in 1989, Lazar went public in an interview with investigative
-    journalist George Knapp on Las Vegas TV station KLAS, asserting (anonymously,
-    at first) his purported employment working on a recovered extra-terrestrial flying
-    saucer at the supposed S-4 facility, adjacent to Papoose Lake south of Area 51
   claim_id: 46f173e7-f7db-489f-92fa-3898e1612ad0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46f173e7-f7db-489f-92fa-3898e1612ad0

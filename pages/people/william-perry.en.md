@@ -44,9 +44,6 @@ references:
     of Defense for Acquisition and Technology.
   source: In Plain Sight
   location: ch26:13574-13804
-  quote: The memo named a Department of Defense Major General Marshal Ward and William
-    Perry, a former Secretary of Defense, as having told Wilson he should examine
-    files in the Office of the Under Secretary of Defense for Acquisition and Technology.
   claim_id: b60643c4-f1a0-42d9-9eb4-4770bce10585
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b60643c4-f1a0-42d9-9eb4-4770bce10585
@@ -55,11 +52,6 @@ references:
     with.
   source: In Plain Sight
   location: ch26:15339-15691
-  quote: Dr Paul Kaminski (Director of Special Programs in the office of the Under
-    Secretary of Defense for Acquisition, Technology and Logistics); Brigadier General
-    Mike Kostelnik (Director of the Special Access Programs Coordination Office and
-    executive secretary for the SAP Oversight Committee); and former Defence Secretary
-    Bill Perry.
   claim_id: 56fcbb7e-48a2-47eb-a05c-37051064bd8b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56fcbb7e-48a2-47eb-a05c-37051064bd8b

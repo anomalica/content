@@ -245,8 +245,6 @@ references:
 - text: Hickson described a UFO landing in the old Schaupeter shipyard in Pascagoula
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:3966-4108
-  quote: Shipyard worker Charlie Hickson describes the October night in 1973 when,
-    he says, an unidentified flying object landed in the old Schaupeter shipyard.
   claim_id: 4f138d8c-fd31-43b7-b564-a4831c152127
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4f138d8c-fd31-43b7-b564-a4831c152127
@@ -254,8 +252,6 @@ references:
     for examination
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:4118-4246
-  quote: Hickson claims three “things” picked him and young Calvin Parker up, and
-    carried them aboard the craft, where they were closely examined.
   claim_id: b68a2c7b-5177-447f-93f8-f2f3ddb12d2e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-b68a2c7b-5177-447f-93f8-f2f3ddb12d2e
@@ -263,8 +259,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:49971-50051
-  quote: 'the witnesses were again two fishermen: Charles Hickson, 42, and Calvin
-    Parker, 19.'
   claim_id: 0dc2fdfa-38c0-46f2-8e64-913d8d15434a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0dc2fdfa-38c0-46f2-8e64-913d8d15434a
@@ -272,8 +266,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:1091-1182
-  quote: two men from Pascagoula, Mississippi, told their tale of abduction by grotesque
-    robot-like creatures
   claim_id: a3b6437a-04e5-495a-975d-609ba083c9bf
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a3b6437a-04e5-495a-975d-609ba083c9bf
@@ -281,8 +273,6 @@ references:
     abduction accounts
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:36692-36810
-  quote: 'They take lie detector tests and pass them: Betty Hill in Portsmouth, Charlie
-    Hickson in Pascagoula, Travis Walton in Arizona.'
   claim_id: 99bdad04-8a37-4a64-82c6-2d5a387bf59c
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-99bdad04-8a37-4a64-82c6-2d5a387bf59c
@@ -290,10 +280,6 @@ references:
     to cases like Hill's and Hickson's
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:38657-38899
-  quote: Not only did these “imaginary abductees” provide what Dr. Lawson calls “a
-    coherent, intriguing UFO abduction narrative,” but their stories were surprisingly
-    similar to the most classic UFO abduction cases, like those of Betty Hill or Charlie
-    Hickson.
   claim_id: 6190bcec-f65f-45ae-a515-6e43351f136c
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-6190bcec-f65f-45ae-a515-6e43351f136c

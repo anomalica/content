@@ -18,8 +18,6 @@ references:
 - text: Carl Sagan's criterion of a significant departure from thermodynamic equilibrium
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:280-420
-  quote: A necessary but not sufficient condition for the recognition of extraterrestrial
-    intelligence is a significant departure from thermodynamic equilibrium.
   claim_id: 47c8ab88-3ab0-4a42-b27f-896105827229
   claim_fingerprint: 48526cecbc39030997050b9ef13a9aa755e026c45d59c658fd4264bfbcdbb9b9
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -28,8 +26,6 @@ references:
 - text: Earth photography shows no clear sign of life below 100 metre resolution
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:548-651
-  quote: Photography of the Earth in reflected sunlight reveals no clear sign of life
-    until 100 m resolution is achieved
   claim_id: b8515a98-2ab9-4fdc-9a46-182cf50d57d7
   claim_fingerprint: 3e7d9759498e185196017b78fe98dabfd2b305f12b546ab89dae10164c1ae950
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -38,8 +34,6 @@ references:
 - text: Agricultural and urban rectangular arrays become apparent at 100 metre resolution
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:661-772
-  quote: at which point the agricultural and urban reworking of the Earth's surface
-    in rectangular arrays first becomes obvious
   claim_id: b9a27747-5ccc-45e5-ab54-bd03e898d604
   claim_fingerprint: d449b09294239a0f951e0514944c0dc8d1d4b04b927c8c9ddc66d1d0977ddb6c
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -48,7 +42,6 @@ references:
 - text: Mars lacks the relevant rectangular-array patterns
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:852-874
-  quote: Mars exhibits no such patterns.
   claim_id: 2f7073d0-f886-4f62-984f-956a2c1f3cff
   claim_fingerprint: af210423a1679af1da75b94091c116a0e5246ecf26724b09cb2b0dc247542b1e
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -58,9 +51,6 @@ references:
     distances
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:884-1073
-  quote: The departure from radiative equilibrium - represented by radio, television
-    and radar technology - in the microwave spectrum of the Earth is by contrast easily
-    detectable over interstellar distances.
   claim_id: 007eabc5-2db0-4527-badc-0629dd776132
   claim_fingerprint: 2a95bccf9bd5305bd322d15331cc2008038bf51cfe09b30b135facab42cca3bc
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -70,9 +60,6 @@ references:
     autocorrelation
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:1084-1271
-  quote: Even with a technology no more advanced than our own, a civilization on a
-    planet of a nearby star could easily determine, by auto-correlation techniques,
-    the artificiality of these radio signals.
   claim_id: c889057e-a55a-45ac-ae77-b251c1af40a2
   claim_fingerprint: d1157faf3f7159fee1ffda2b313b96c09d3a2fd8d853eccec7da4744dc82bcec
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -82,8 +69,6 @@ references:
     on Mars
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:13610-13753
-  quote: The Mariner 9 mission to Mars permitted for the first time a photographic
-    investigation of the possibility of a technical civilization on that planet.
   claim_id: 75843ec9-0bd6-4e84-be05-eee14b6d16f4
   claim_fingerprint: 70ec3fc7f0d7ce0ba5d9bcd137ebcabfae3a4ae365c98d18a9c0f7a7c7870569
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -92,8 +77,6 @@ references:
 - text: Mariner 9 obtained 7232 photographs and mapped Mars at 1 kilometre resolution
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:13761-13899
-  quote: A total of 7232 photographs were obtained, most of them at 1 km resolution,
-    at which resolution the entire planet was mapped from pole to pole.
   claim_id: 333184bd-cb92-465c-b010-157f505c05a5
   claim_fingerprint: 0c90316e055bf7b3ccc253a2f7fe2dfb66e93993bcbdb36ca8fa03509ffc2942
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -102,9 +85,6 @@ references:
 - text: Several percent of Mars was photographed at 100 metre resolution
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:13905-14064
-  quote: Several percent of the planet were also observed at 100 m resolution and
-    with adequate coverage to have detected a technical civilization on the Earth
-    at that resolution.
   claim_id: cbc8e042-0597-4ade-be24-1cf52998191e
   claim_fingerprint: 589856bd690f2ccf8416ec3286ce9cdc8f6998a7d254e92d437073d57cedb8b1
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -113,7 +93,6 @@ references:
 - text: No signs of a technical civilisation were found by Mariner 9
   source: The recognition of extraterrestrial intelligence (1975)
   location: line 132-147
-  quote: No signs of such a technical civilization were uncovered.
   claim_id: 259caead-3664-4cb8-b270-1baa6a3f8a70
   claim_fingerprint: 12a910de1699c3dd736af522b799f9ebf68a7cfdb48b71faa4bed2e705212bd1
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -122,9 +101,6 @@ references:
 - text: Iosif Shklovskii's 1966 hollow-Phobos hypothesis was based on erroneous data
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:15882-16085
-  quote: the innermost satellite of Mars, Phobos, which had been thought, on the basis
-    of what we now know to be erroneous celestial mechanical data, to be a hollow
-    artificial satellite of the planet (Shklovskii 1966)
   claim_id: d076d393-1f67-4a84-95a4-7e85a356f628
   claim_fingerprint: bc0bc7e380461a41cdf83992387b0eb811200e7c96309b9d3f32ae81dbe47df4
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -133,9 +109,6 @@ references:
 - text: Mariner 9 photography indicated that Phobos was a natural object
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:16092-16268
-  quote: proved to be an entirely natural object (figure 17) which, from its crater
-    density, is very likely contemporaneous with the origin of the terrestrial planets
-    (Pollack *et al.* 1973)
   claim_id: b0c18b6d-f788-4c85-9c2a-c6a5244e115d
   claim_fingerprint: 9bc12f7adb4c364e91305674cf173618ffd140566bfd17d9ccb65712cc5b6d79
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -144,7 +117,6 @@ references:
 - text: The Arecibo radio telescope's 305 metre semi-steerable design
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:20853-20892
-  quote: the 305 m semi-steerable Arecibo radio telescope
   claim_id: 35cb8ba6-3f82-4565-b898-480efe1899b0
   claim_fingerprint: 8af73087e8985ec9dcab28a8a8f4f6f63a422c43111437c33ef5287ebbaf65f5
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -153,7 +125,6 @@ references:
 - text: Cornell University operated Arecibo for the National Science Foundation
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:20903-20959
-  quote: operated by Cornell University for the National Science Foundation
   claim_id: 501084b4-4a89-47a8-9067-9f8902d07993
   claim_fingerprint: 2d86ca410163160afa22be808c98e28e3c46c3cfc6d0c96b469895b05c0d827f
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -163,9 +134,6 @@ references:
     1 bit per second
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:21081-21253
-  quote: With a 1 Hz bandpass and bit rate of about 1 bit per second, the two radio
-    telescopes could be essentially anywhere in the Milky Way Galaxy and still communicate
-    with each other.
   claim_id: 7b18585e-212d-4c1f-b18a-06f1f92abad6
   claim_fingerprint: 05b81b8009b59ea43f7c0ab9e75842964c14b3c748a2bacd4cdd79aff7b8ca83
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -174,9 +142,6 @@ references:
 - text: Intentional communication might be possible within about 1000 light years
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:21399-21594
-  quote: This implies that intentional communication among civilizations within, say,
-    a 1000 light year radius of the Earth might be accomplished even if the other
-    civilization were no more advanced than we.
   claim_id: fd96feab-e6c1-492e-8b29-d39abec2e53a
   claim_fingerprint: 86fc5ed4d1818843b56edccb7c815b2bdd0f0dd231d580f012d641764cb83c7f
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -185,8 +150,6 @@ references:
 - text: Several hundred stars had been examined at one or two frequencies
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:22242-22323
-  quote: Several hundred stars have been so examined at one or at most two frequencies
-    to date
   claim_id: 0958df87-60f5-4d3d-bbfd-188b06a913b9
   claim_fingerprint: 748607a279799e70d24ec1fd071e4056c22430191f2692450444d41c97509708
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -195,8 +158,6 @@ references:
 - text: B. Zuckerman and P. Palmer's search at the National Radio Astronomy Observatory
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:22329-22448
-  quote: the most elaborate search, which is still underway, being that of Zuckerman
-    and Palmer at the National Radio Astronomy Observatory
   claim_id: 5be717b4-62b3-41c4-9624-19c5be432941
   claim_fingerprint: 8e3290cabfadd27bfa0d56742b90a6237f1622e1fbfb8ec9f02cd3ddfac60199
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -206,8 +167,6 @@ references:
     as of 1975
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:1721-1874
-  quote: The only direct attempts to date to communicate with extraterrestrial intelligence
-    - the plaques aboard the Pioneer 10 and 11 spacecraft - are discussed briefly.
   claim_id: 033d14d6-e7f2-4f6b-bc78-d15ecd814bc7
   claim_fingerprint: 9ca6a37d581820c4797eeeabb3cf7fba10c22b64950c7c244a7bdec146d385dd
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -217,11 +176,6 @@ references:
     Solar System
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:32532-32854
-  quote: '[image: Figure 23. The plaque aboard the Pioneer 10 and 11 spacecraft, showing
-    a diagram of the hydrogen hyperfine transition, a radial pattern of pulsars indicating
-    the Sun''s location, line drawings of a nude man and woman, an outline of the
-    spacecraft behind them, and a diagram of the Solar System with the spacecraft''s
-    trajectory.]'
   claim_id: e222ce31-ace6-4a84-b920-ce0e2b8c69c8
   claim_fingerprint: 90aa359bdd1cf5ffba1455f1873e6e066d327e3993e68aadafc5a1c911e08d0f
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -231,9 +185,6 @@ references:
     plate
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:33365-33554
-  quote: The message (Sagan, Sagan & Drake 1972), attached to the antenna support
-    struts of the two spacecraft, is engraved on a 15 cm × 22½ cm gold-anodized aluminium
-    plate, and is shown in figure 23.
   claim_id: 111103ec-3da5-454c-b226-a06d192e9b93
   claim_fingerprint: 117ccad33c56244b7e6385ba3e9eaaaec0a0f84a01735da787a921dbf87f67bb
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -242,7 +193,6 @@ references:
 - text: The plaque was designed by Carl Sagan, Linda Sagan and Frank Drake
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:33365-33399
-  quote: The message (Sagan, Sagan & Drake 1972)
   claim_id: 89149bc9-20f8-4f8f-ba5d-1f9bb5d8f7e2
   claim_fingerprint: d72f412c3d2d26b4a7a242f59f6674630060b499fab3ff0ce07098a335a8b0ff
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -252,8 +202,6 @@ references:
     civilisation
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:33839-33916
-  quote: It employs a physics and astronomy which such a civilisation must share with
-    us.
   claim_id: 039ec7fb-bc3d-40ba-a6ff-76db0e79d812
   claim_fingerprint: ae9755d9bd97bbc4e7f9413f9bf9962129187a1d236e90ceda03a862bbb86180
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -262,8 +210,6 @@ references:
 - text: Carl Sagan found no compelling evidence for past extraterrestrial visitation
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:31064-31186
-  quote: My personal view is that for none of these claims is there anything even
-    approaching compelling evidence for interstellar visitation.
   claim_id: b3293f44-f2bf-461f-b266-174aec4833b7
   claim_fingerprint: 5ba9244ccbe8858944f7de52cf45554c87c38cae4f48a37c8ed706f388f843eb
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
@@ -273,9 +219,6 @@ references:
     of future evidence
   source: The recognition of extraterrestrial intelligence (1975)
   location: char:31454-31661
-  quote: There is no reason to think that evidence of interstellar visits may not
-    be forthcoming in the future. But by the usual standards of scientific evidence
-    there is no reason to think that such evidence exists today.
   claim_id: d66f1b70-f837-4840-b3ed-9cb7f8aaf32e
   claim_fingerprint: cd129cb42c4fa73fccf8b91319dadd81449a90f4fd923d11128de8f7b3ffe93d
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185

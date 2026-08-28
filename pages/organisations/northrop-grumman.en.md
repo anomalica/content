@@ -35,14 +35,12 @@ references:
 - text: Northrop Grumman is a major United States defence contractor.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch19:1769-1791
-  quote: another major defense contractor.
   claim_id: 661177b7-7703-49db-9802-432de87cb4cc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-661177b7-7703-49db-9802-432de87cb4cc
 - text: TRW was eventually purchased by Northrop Grumman.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch19:1719-1791
-  quote: and was eventually purchased by Northrop Grumman, another major defense contractor.
   claim_id: 7ec460a8-44f4-49ad-9cde-b1c5a56ae2ba
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7ec460a8-44f4-49ad-9cde-b1c5a56ae2ba
@@ -60,8 +58,6 @@ references:
     CEV contract.
   source: Dark Mission
   location: ch19:80349-80445
-  quote: As the spring of 2006 bloomed, all signs pointed to Northrop-Grumman-Boeing
-    getting the initial contract.
   claim_id: f7b82c88-30ae-4318-a71c-8dfbff6c4a7b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f7b82c88-30ae-4318-a71c-8dfbff6c4a7b
@@ -69,9 +65,6 @@ references:
     Grumman's Apollo-style concept.
   source: Dark Mission
   location: ch19:80643-80852
-  quote: NASA was unimpressed with their approach, and at a preliminary design review
-    in March told the contractor to go back to the drawing board and produce an Apollo-style
-    capsule more closely resembling Northrop’s concept.
   claim_id: 35472f81-4786-4edc-a01b-01b1a7f92436
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-35472f81-4786-4edc-a01b-01b1a7f92436
@@ -79,8 +72,6 @@ references:
     Grumman's used proven electronics.
   source: Dark Mission
   location: ch19:82402-82548
-  quote: Lockheed had proposed a new suite of avionics that would require extensive
-    technological development, while Northrop’s emphasized existing proven electronics.
   claim_id: 5036a5ea-d555-42f0-be8f-fa95c1da950a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5036a5ea-d555-42f0-be8f-fa95c1da950a
@@ -88,8 +79,6 @@ references:
     theirs surpassed Lockheed Martin's.
   source: Dark Mission
   location: ch19:82709-82841
-  quote: As the final designs were submitted in May 2006, Northrop officials were
-    confident their proposal had surpassed the Lockheed Martin design.
   claim_id: 25cd09e2-4179-4144-b7c5-519ca13ee8c2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-25cd09e2-4179-4144-b7c5-519ca13ee8c2
@@ -107,9 +96,6 @@ references:
     firms involved in crash-material retrieval.'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:4633-4853
-  quote: The big names included Lockheed Martin, TRW, McDonnell Douglas, Northrop
-    Grumman, Boeing, Raytheon, BAE Systems, and the Aerospace Corporation, all of
-    which have long been principal members of the US military-industrial complex.
   claim_id: a7f3a152-7714-45c3-8e1e-ff2cbc757810
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810

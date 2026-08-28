@@ -414,9 +414,6 @@ references:
     trained in mathematics and chemistry
   source: In Plain Sight
   location: ch9:11178-11381
-  quote: Bill Chalker, an Australian scientist and UAP researcher trained in mathematics
-    and chemistry, was the first civilian researcher to gain access to the Royal Australian
-    Air Force’s UAP files in the early 1980s.
   claim_id: 4b1b1e5e-48b7-4e67-99b8-98eebf14e3c8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b1b1e5e-48b7-4e67-99b8-98eebf14e3c8
@@ -424,17 +421,12 @@ references:
     learned of the Kelly Cahill case (1993)
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch11:226-319
-  quote: another very striking case came to my notice the same year I began researching
-    Peter’s alien experiences
   claim_id: 56a1cde9-1234-4854-8d29-fec0d0cb782d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-56a1cde9-1234-4854-8d29-fec0d0cb782d
 - text: Heard about Peter Khoury's 1992 encounter many months after it occurred
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:96-297
-  quote: Since I heard about Peter's 1992 encounter many months after its occurrence,
-    I wanted to know if what Peter had told other people about this experience was
-    consistent in every detail with what he told me.
   claim_id: 873dc6ae-ed1b-4d38-846a-55814e0d8b1a
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-873dc6ae-ed1b-4d38-846a-55814e0d8b1a
@@ -442,19 +434,12 @@ references:
     Chalker
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:9892-10048
-  quote: Given Peter's experiences with his own group, it hardly seems surprising
-    that he initially chose not to share details of his startling 1992 experience
-    with me.
   claim_id: 929e250c-8317-489b-a48f-0208954e7548
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-929e250c-8317-489b-a48f-0208954e7548
 - text: Peter Khoury revealed the story to Chalker in 1996
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:10706-10972
-  quote: After he revealed the story of the women to me in 1996, he said that he had
-    made mention of the experience in his diaries, but because of renovations and
-    building at his house at the time, he was unable to find them for several years.
-    He finally found them in April 1999.
   claim_id: d09333e9-ac58-4ee7-a48d-8d4754b7d2ae
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d09333e9-ac58-4ee7-a48d-8d4754b7d2ae
@@ -462,9 +447,6 @@ references:
     as described, given its significance
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:10509-10693
-  quote: Because of the significance of the hair evidence, I needed to establish with
-    some degree of certainty that the hair was indeed procured in the way Peter described
-    during his July 1992 experience.
   claim_id: 06fe2145-d7ae-4348-8968-32fbde899a81
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-06fe2145-d7ae-4348-8968-32fbde899a81
@@ -472,9 +454,6 @@ references:
     with Chalker as its public face
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:4019-4186
-  quote: our group, which called itself the Anomaly Physical Evidence Group (APEG),27
-    decided that I would be the public face of this biochemical variant of the UFO
-    “invisible college.”
   claim_id: 7abf5f4a-13d8-4a5a-9236-b5a3bd4ae797
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7abf5f4a-13d8-4a5a-9236-b5a3bd4ae797
@@ -482,8 +461,6 @@ references:
     scientists
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:3276-3395
-  quote: by early 1998 my circle of “invisible college” colleagues had expanded to
-    include some scientists from the biochemical field
   claim_id: 59b90d43-0951-43bb-a7d1-266411f0f9df
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-59b90d43-0951-43bb-a7d1-266411f0f9df
@@ -491,9 +468,6 @@ references:
     'forbidden science'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:3403-3594
-  quote: They were cautiously interested in UFOs, but mindful of the subject’s stature
-    as “forbidden science,” they insisted that their involvement would need to be
-    conducted strictly on an anonymous basis.
   claim_id: 969e78d2-39e8-44fe-abc5-4d497c47fed2
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-969e78d2-39e8-44fe-abc5-4d497c47fed2
@@ -501,9 +475,6 @@ references:
     from the hair sample
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:4689-4915
-  quote: Our discussions then focused on the fact that techniques like polymerase
-    chain reaction (PCR) amplification and sequencing of mitochondrial DNA on the
-    hair sample might provide a real challenge to the credibility of abduction stories
   claim_id: 94ca98f2-f656-4339-b107-18947433df33
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-94ca98f2-f656-4339-b107-18947433df33
@@ -511,9 +482,6 @@ references:
     a striking array of genetic findings
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:20877-21060
-  quote: Together, the two distinct phases of DNA analyses undertaken on the "alien
-    hair" sample recovered from Peter Khoury's bizarre 1992 experience provide a very
-    striking array of genetic findings.
   claim_id: b62a5ce7-961d-4628-af71-01b306b36f3d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-b62a5ce7-961d-4628-af71-01b306b36f3d
@@ -521,9 +489,6 @@ references:
     to normal humans but of a very unusual racial type
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:22054-22230
-  quote: And indeed our original analysis confirmed the “alien hair” in the Peter
-    Khoury case came from someone who was genetically close to normal humans, but
-    of a very unusual racial type.
   claim_id: 64ac2edd-6704-4a0c-a5f0-6479bec00ad0
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-64ac2edd-6704-4a0c-a5f0-6479bec00ad0
@@ -531,8 +496,6 @@ references:
     a strange DNA profile
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:21523-21612
-  quote: But for now we have only this anomalous sample, which has provided us with
-    a strange DNA profile.
   claim_id: cb134eb2-a953-40e8-9005-d26299f1d672
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-cb134eb2-a953-40e8-9005-d26299f1d672
@@ -540,9 +503,6 @@ references:
     1992 story
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:4752-4948
-  quote: So we have no coherent evidence that supports a scenario that Peter Khoury
-    fabricated his story of encountering two strange women and recovering a strange
-    hair sample at the same time during July 1992.
   claim_id: 72f24b2c-ad03-42e8-9483-eae4530b7702
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-72f24b2c-ad03-42e8-9483-eae4530b7702
@@ -550,11 +510,6 @@ references:
     North encounter
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch11:2742-3059
-  quote: Kelly Cahill first contacted me back on October 4, 1993, seeking assistance
-    in understanding a bizarre experience she had near the outer Melbourne suburban
-    housing development of Narre Warren North, in the foothills of the Dandenongs,
-    Victoria, between Belgrave and Fountain Gate, during the early hours of August
-    8, 1993.
   claim_id: 8286bb64-4276-49d4-8bd4-3c2ec6a34475
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8286bb64-4276-49d4-8bd4-3c2ec6a34475
@@ -562,9 +517,6 @@ references:
     on the Cahill case and came to regret involving PRA
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch11:32488-32670
-  quote: Given my own inability to gain full access to their data on the case, particularly
-    to what seemed provocative physical data, I grew to regret my decision to involve
-    PRA in the first place.
   claim_id: 20effe97-1899-4225-b3a5-050bd60eaf60
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-20effe97-1899-4225-b3a5-050bd60eaf60
@@ -572,10 +524,6 @@ references:
     the full potential of the physical evidence in Khoury's case
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch11:35384-35632
-  quote: The difficulties and frustrations in gaining full disclosure to the research
-    conducted in Kelly Cahill's case made me more determined than ever to try to extract
-    the full potential of the physical evidence in Peter Khoury's extraordinary abduction
-    encounter.
   claim_id: b3a9f763-6a00-45d6-82b2-f4f7292444b9
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-b3a9f763-6a00-45d6-82b2-f4f7292444b9
@@ -583,16 +531,12 @@ references:
     taped interview with Khoury
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:1207-1352
-  quote: To try to clarify this situation, I wrote to both Moira McGhee and Bryan
-    Dickeson, with Peter Khoury's written support, requesting a copy of the tape.
   claim_id: 5ae8cd0c-b171-4efe-bb46-10e2fbc93670
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5ae8cd0c-b171-4efe-bb46-10e2fbc93670
 - text: It took years before McGhee could find, copy and give Chalker the tape
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:1358-1460
-  quote: It took a few years before Moira was able to find, copy, and give me the
-    tape of their interview with Peter.
   claim_id: 3d69485e-121a-4294-9d5a-fe1cbe9cbefb
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-3d69485e-121a-4294-9d5a-fe1cbe9cbefb
@@ -600,9 +544,6 @@ references:
     women compelling
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:48745-48975
-  quote: The evidence for two separate encounters with strange women is compelling.
-    When this interpretation is embraced, the nature of the interactions becomes clearer,
-    and in a way a kind of alien logic or behavior gets laid out for our contemplation.
   claim_id: 5a6bb69b-5923-41a9-8cf2-aff6881dd7bf
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5a6bb69b-5923-41a9-8cf2-aff6881dd7bf
@@ -610,9 +551,6 @@ references:
     consistent with his conscious recollections
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:37483-37671
-  quote: Peter Khoury’s account of the July 1992 experience under hypnosis was largely
-    consistent with his conscious recollections. There are some elaborations of detail
-    and some elements that are new
   claim_id: 1d4dc0f1-4739-4bdd-936b-51f2ab41e2f0
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1d4dc0f1-4739-4bdd-936b-51f2ab41e2f0
@@ -620,9 +558,6 @@ references:
     to see if it triggered recollections
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:48010-48241
-  quote: That night I played the whole interview for Peter and Vivian Khoury together,
-    particularly in an effort to see if it triggered any recollections in either,
-    but also to see if any aspect could shed light on the whole dilemma of the tape.
   claim_id: 0863a432-89e5-4708-b773-a9f1de98cc37
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0863a432-89e5-4708-b773-a9f1de98cc37
@@ -630,9 +565,6 @@ references:
     invisible college network
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch11:33853-34067
-  quote: Over the years I have been fortunate to work with other scientists on this
-    controversial problem in a sort of "invisible college," an informal network of
-    scientists who view the UFO phenomenon as worthy of serious attention.
   claim_id: b2e88cc7-9fdc-446d-8579-0e2c074b524b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-b2e88cc7-9fdc-446d-8579-0e2c074b524b
@@ -640,8 +572,6 @@ references:
     to the ambiguity pervading the abduction experience
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch11:1689-1828
-  quote: One of the few compelling exceptions to the ambiguity and uncertainty that
-    pervade the alien abduction experience is the 1993 Kelly Cahill case.
   claim_id: 57496389-2436-4435-8f25-bdef77d2a853
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-57496389-2436-4435-8f25-bdef77d2a853
@@ -649,10 +579,6 @@ references:
     for the physical reality of UFOs
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch11:1103-1397
-  quote: Compelling evidence for the physical reality of UFOs comes from physical
-    traces in UFO landing events, so-called EM (electromagnetic) effects in close
-    encounter incidents, particularly car stalling type cases, radar sightings, physical
-    effects on witnesses, and to a lesser extent photographic evidence.
   claim_id: cc8fc3c0-6287-478a-b30e-a5ab76dc4d9e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-cc8fc3c0-6287-478a-b30e-a5ab76dc4d9e
@@ -660,8 +586,6 @@ references:
     compelling physical evidence
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch11:781-865
-  quote: I found the majority of abduction cases conspicuously devoid of compelling
-    physical evidence.
   claim_id: 32712e56-11fe-4c5d-8471-38eca1f01f12
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-32712e56-11fe-4c5d-8471-38eca1f01f12
@@ -669,17 +593,12 @@ references:
     group after Budd Hopkins's October 1992 lecture
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:5229-5335
-  quote: The group now wanted to take over the abduction support group that had been
-    nurtured principally by Peter Khoury.
   claim_id: e73d779d-2c43-4145-b426-17c934cfb1d8
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e73d779d-2c43-4145-b426-17c934cfb1d8
 - text: Peter Khoury and Jamie Leonarder formed UFOESA, formalised 14 April 1993
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:7067-7254
-  quote: Many in the support group left with him, including Leonarder, and together
-    they formed their own group, the UFO Experience Support Association (UFOESA),
-    which was formalized on April 14, 1993.
   claim_id: 1e74cedd-3b57-4da8-8f75-9fb099b1f904
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1e74cedd-3b57-4da8-8f75-9fb099b1f904
@@ -687,8 +606,6 @@ references:
     him describing the July 1992 experience
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:13473-13589
-  quote: I talked to a number of these group professionals, and most had some recollection
-    of Peter's telling them about the experience.
   claim_id: 355b11e4-5787-4423-aef8-233cd551a9e2
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-355b11e4-5787-4423-aef8-233cd551a9e2
@@ -696,8 +613,6 @@ references:
     episode
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:12671-12799
-  quote: Though a rift would eventually develop between them, I was surprised how
-    much Jamie supported the validity of Peter's July 1992 episode.
   claim_id: ebcb5eec-49af-4099-a7df-0336ab17a174
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-ebcb5eec-49af-4099-a7df-0336ab17a174
@@ -743,8 +658,6 @@ references:
 - text: Whitley Strieber asked Chalker to investigate a 1976 New South Wales encounter
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:1236-1325
-  quote: He asked me to investigate the experience detailed in the letter, since it
-    had come from Australia.
   claim_id: 6ecd9be9-155b-4025-b427-61500ddc19cf
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-6ecd9be9-155b-4025-b427-61500ddc19cf
@@ -752,9 +665,6 @@ references:
     of claims of an alien genetic agenda
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:21574-21737
-  quote: Therefore, the focused DNA profiling technique we used in the Peter Khoury
-    case goes to the very heart of one of the key claims behind the alleged alien
-    abduction agenda.
   claim_id: 423bcee6-192f-4ad9-8341-8db24484a1b2
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-423bcee6-192f-4ad9-8341-8db24484a1b2
@@ -762,10 +672,6 @@ references:
     show the same anomalies as Khoury's sample
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:28122-28366
-  quote: It should be noted that the “alien hair” sample obtained in the Peter Khoury
-    case is not the only one we subjected to DNA analysis. There was another alleged
-    “alien hair” sample, but it did not show the kind of anomalies we obtained in
-    Peter’s case.
   claim_id: 1fac79d8-0276-46f2-88d4-f7c263a9f563
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1fac79d8-0276-46f2-88d4-f7c263a9f563
@@ -774,10 +680,6 @@ references:
     from each other
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:33177-33428
-  quote: Ultimately we did the preliminary step of undertaking a mitochondrial DNA
-    PCR profiling comparison against the “human consensus” on both the “alien hair”
-    and Mike’s daughter’s sample. While different, both were within the normal “human
-    consensus” DNA range.
   claim_id: 1f5c1b72-3a0c-461c-9409-bfa897846ee3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1f5c1b72-3a0c-461c-9409-bfa897846ee3
@@ -785,15 +687,12 @@ references:
     the Westall object at ground level
   source: In Plain Sight
   location: ch10:18264-18409
-  quote: Researcher Bill Chalker also interviewed former student Victor Zakry, who
-    claimed to have seen the object at ground level, close enough to touch it.
   claim_id: f8ed4d11-1ea0-4bce-a73e-cb30e0254ed3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f8ed4d11-1ea0-4bce-a73e-cb30e0254ed3
 - text: Chalker befriended Harry Turner late in Turner's life
   source: In Plain Sight
   location: ch9:11388-11427
-  quote: He befriended Harry Turner late in his life
   claim_id: 4150be47-e9c1-47b2-919f-e5a8719b786f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4150be47-e9c1-47b2-919f-e5a8719b786f

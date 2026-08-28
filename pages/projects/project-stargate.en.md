@@ -136,9 +136,6 @@ references:
     for intelligence purposes during the Cold War
   source: Remote Viewing Secrets
   location: ch9:1518-1738
-  quote: I was one of the original remote viewers recruited into what is now commonly
-    referred to as Project STARGATE, the once secret Army project designed to use
-    trained remote viewers for intelligence purposes during the Cold War.
   claim_id: 89143734-1d5f-4192-9d95-2e00e30542cc
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-89143734-1d5f-4192-9d95-2e00e30542cc
@@ -170,31 +167,24 @@ references:
     1972
   source: The Fourth Mind
   location: ch22:13288-13439
-  quote: A famous remote viewing program, known as Project Stargate, was run for the
-    Central Intelligence Agency at the Stanford Research Institute starting in 1972
   claim_id: 4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
 - text: Terminated in November 1995
   source: Remote Viewing Secrets
   location: ch26:17103-17147
-  quote: Project STARGATE was terminated in November 1995.
   claim_id: 9fa9f0bc-7d66-4fbb-844d-19ee9e85843c
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-9fa9f0bc-7d66-4fbb-844d-19ee9e85843c
 - text: Cancelled in 1995, allegedly due to unreliable results
   source: The Fourth Mind
   location: ch22:13444-13495
-  quote: and cancelled in 1995, allegedly due to unreliable results.
   claim_id: 078ff853-7fa8-47de-9709-2ae2a0f53f18
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-078ff853-7fa8-47de-9709-2ae2a0f53f18
 - text: No known training method existed when the programme was organised
   source: Remote Viewing Secrets
   location: ch16:919-1088
-  quote: There were no books or articles that clearly outlined a method for finding
-    someone who might be psychic, nor did any known method for training someone in
-    remote viewing exist.
   claim_id: 1f84dd06-32f0-4758-bfc1-bd3f4619137a
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-1f84dd06-32f0-4758-bfc1-bd3f4619137a
@@ -202,58 +192,42 @@ references:
     for nearly five years
   source: Remote Viewing Secrets
   location: ch16:1216-1429
-  quote: The first place they looked, of course, was SRI-International, where remote
-    viewing had already been studied for nearly five years, and comments relative
-    to training and gifted versus non-gifted subjects could be found.
   claim_id: f84226f6-b364-44eb-a6b9-efff18d89434
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f84226f6-b364-44eb-a6b9-efff18d89434
 - text: The Army decided to find, train, and use remote viewers
   source: Remote Viewing Secrets
   location: ch16:788-912
-  quote: Back when the United States Army decided to find, train, and use remote viewers
-    for Project STARGATE, no one knew what this meant.
   claim_id: 907ad3e2-f8f1-4d7f-9dd0-98a8cf4f0fb3
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-907ad3e2-f8f1-4d7f-9dd0-98a8cf4f0fb3
 - text: Braud's 'Psi Conducive States' paper was used to identify possible subjects
   source: Remote Viewing Secrets
   location: ch16:6126-6366
-  quote: An additional document which was available and known to have been used by
-    Army STARGATE founders to identify possible remote viewing subjects was a paper
-    published in the Journal of Communications titled Psi Conducive States, by William
-    G. Braud
   claim_id: 34300682-2fbe-4514-94cc-af8b33023e84
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-34300682-2fbe-4514-94cc-af8b33023e84
 - text: Military personnel compiled their own list of indicators to identify psychics
   source: Remote Viewing Secrets
   location: ch16:9411-9677
-  quote: The military people tasked with finding psychics added their own list of
-    possible indicators that would show up against a common military background. ...
-    These were the general guidelines that were used to hunt down the original psychics
-    used in the STARGATE program.
   claim_id: b5a6d826-7c0a-4a65-8ff4-757b3fc2a77b
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-b5a6d826-7c0a-4a65-8ff4-757b3fc2a77b
 - text: 'Indicator: consistent success whatever the task'
   source: Remote Viewing Secrets
   location: ch16:9582-9622
-  quote: '1: Consistently successful whatever the task.'
   claim_id: 1ce81f56-68ae-4b25-af50-bbca83edf7ac
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-1ce81f56-68ae-4b25-af50-bbca83edf7ac
 - text: 'Indicator: liked by peers but considered different from the norm'
   source: Remote Viewing Secrets
   location: ch16:9629-9681
-  quote: '2: Liked by peers but considered different from the norm.'
   claim_id: 30cef02f-3b65-4cec-8da2-989fc47972ec
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-30cef02f-3b65-4cec-8da2-989fc47972ec
 - text: 'Indicator: willing to pursue new avenues of approach'
   source: Remote Viewing Secrets
   location: ch16:9738-9774
-  quote: '4: Willing to pursue new avenues of approach.'
   claim_id: 2c635ae1-2580-487f-b6c4-11a15af53c5e
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-2c635ae1-2580-487f-b6c4-11a15af53c5e
@@ -261,9 +235,6 @@ references:
     of trials'
   source: Remote Viewing Secrets
   location: ch4:1292-1474
-  quote: participating in protocol design, R&D evaluations,  thousands of remote viewing
-    trials in support of both experimental research as well as active intelligence
-    operations for Project STARGATE
   claim_id: c832d5ea-7222-4768-ba54-b5bb770e10eb
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c832d5ea-7222-4768-ba54-b5bb770e10eb
@@ -271,18 +242,12 @@ references:
     in November 1995
   source: Remote Viewing Secrets
   location: ch9:1752-1916
-  quote: I did applications (sometimes referred to as operational) remote viewing
-    in support of that unit for a period of nearly eighteen years, until it closed
-    in November 1995.
   claim_id: 40db8ff5-9190-4236-8662-1971b9dada75
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-40db8ff5-9190-4236-8662-1971b9dada75
 - text: Early concern about participants' psychological stability
   source: Remote Viewing Secrets
   location: ch15:488-641
-  quote: Way back in the beginning, there was concern about a number of things in
-    the STARGATE Project, but probably highest on the list was the stability of the
-    players.
   claim_id: 360f75de-d565-4523-9e7f-55cc1eb43ba9
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-360f75de-d565-4523-9e7f-55cc1eb43ba9
@@ -290,69 +255,48 @@ references:
     individuals
   source: Remote Viewing Secrets
   location: ch15:12087-12379
-  quote: The outset of the STARGATE Project involved extensive psychological testing
-    and numerous interviews, as well as a gradual program of exposure, to insure that
-    centered and stable individuals were allowed to participate, individuals who could
-    cope with and integrate what they would be exposed to.
   claim_id: 0e9645e7-e151-47b5-a624-62a73b4d2e4d
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-0e9645e7-e151-47b5-a624-62a73b4d2e4d
 - text: Vetting later dropped to reduce costs
   source: Remote Viewing Secrets
   location: ch15:12383-12524
-  quote: Later in the program, a decision was made to no longer do this testing in
-    order to reduce costs.
   claim_id: 2d8b9fc3-68dd-4091-a5de-c0e93e9fff6e
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-2d8b9fc3-68dd-4091-a5de-c0e93e9fff6e
 - text: Dropping vetting left some previously stable individuals unstable
   source: Remote Viewing Secrets
   location: ch16:34511-34812
-  quote: Without going into specific personalities, I can say that in more than one
-    case, otherwise stable individuals were stripped of their psychological boundaries,
-    and subjected to areas of inquiry that they should not have been. As a result
-    they became quite unstable, emotionally, mentally, or sometimes both.
   claim_id: 22ce907d-f554-48a6-b2d5-633fc22c0007
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-22ce907d-f554-48a6-b2d5-633fc22c0007
 - text: No one considered a remote viewer until training was complete
   source: Remote Viewing Secrets
   location: ch22:492-567
-  quote: In STARGATE we never considered anyone a remote viewer until s/he finished
-    training.
   claim_id: ec5b8052-5c0a-4271-bf40-d478acc02646
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-ec5b8052-5c0a-4271-bf40-d478acc02646
 - text: Training typically took three to eighteen months
   source: Remote Viewing Secrets
   location: ch22:582-758
-  quote: training in our program was almost always a minimum of anywhere from three
-    to eighteen months, usually depending upon how much innate talent the person had
-    walking through the door
   claim_id: e508e249-afa1-4443-8bec-54e51458ce29
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e508e249-afa1-4443-8bec-54e51458ce29
 - text: Talented trainees could become productive within ninety days
   source: Remote Viewing Secrets
   location: ch22:764-849
-  quote: Someone with a lot of natural talent could usually be quite productive within
-    ninety days.
   claim_id: 0da4cc40-ece6-4ce4-b095-2c42848c289c
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-0da4cc40-ece6-4ce4-b095-2c42848c289c
 - text: Less talented trainees used the full term or failed to complete it
   source: Remote Viewing Secrets
   location: ch22:855-967
-  quote: Those with very little either took the full term of training, or failed to
-    complete it. (Yes, we did have those too.)
   claim_id: 720c69a9-34ce-4029-a70b-b76b0df91e78
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-720c69a9-34ce-4029-a70b-b76b0df91e78
 - text: Early evaluation methods were tuned to drawings
   source: Remote Viewing Secrets
   location: ch16:18779-18884
-  quote: At the beginning of the project, all of the methods for evaluating or judging
-    the material were tuned to drawings.
   claim_id: 63df4ec4-d207-4b0e-bc56-a99088738252
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-63df4ec4-d207-4b0e-bc56-a99088738252
@@ -360,20 +304,12 @@ references:
     eidetic memory
   source: Remote Viewing Secrets
   location: ch17:11119-11361
-  quote: So, to deal with the skeptical issues, the military side of the house did
-    what the military does best—they improvised. Instead of using standard grid coordinates
-    that anyone can read, they used military maps, which use a different coordinate
-    system.
   claim_id: 4602e95f-a749-450f-83e2-aa4365e1b70c
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4602e95f-a749-450f-83e2-aa4365e1b70c
 - text: Real coordinates sealed in envelopes marked with false, incomplete coordinates
   source: Remote Viewing Secrets
   location: ch17:11790-12135
-  quote: So, at least on the military side, we began putting the real map coordinates
-    inside sealed and opaque envelopes, and then we would write false coordinates
-    on the outside. ... Point being, they really had no actual meaning, other than
-    to identify that day's project.
   claim_id: c57b12c7-d9fd-4670-8ecb-1457e1e28a18
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c57b12c7-d9fd-4670-8ecb-1457e1e28a18
@@ -381,17 +317,12 @@ references:
     feelings, emotions'
   source: Remote Viewing Secrets
   location: ch17:3054-3267
-  quote: Protocols developed within the military during Project STARGATE stretched
-    many of these well known protocols to address additional areas that include ideas,
-    concepts, plans, thoughts, feelings, and/or emotions as targets.
   claim_id: 17cf6ee0-2197-4333-84b1-27a220a4fef3
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-17cf6ee0-2197-4333-84b1-27a220a4fef3
 - text: McMoneagle trained in dowsing while assigned to the programme at Fort Meade
   source: Remote Viewing Secrets
   location: ch17:36051-36131
-  quote: I was originally trained in dowsing while assigned to the STARGATE unit at
-    Fort Meade.
   claim_id: 1c2c0e2f-393a-4a4f-a93c-6dd7beb87e61
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-1c2c0e2f-393a-4a4f-a93c-6dd7beb87e61
@@ -477,8 +408,6 @@ references:
     work, 1986-1995
   source: Remote Viewing Secrets
   location: ch9:7827-7931
-  quote: and to Dr. Edwin C. May and his colleagues—from 1986 through the termination
-    of the project in November 1995.
   claim_id: 42a1e688-629a-4f67-b440-b62ef6ac89c5
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-42a1e688-629a-4f67-b440-b62ef6ac89c5
@@ -486,19 +415,12 @@ references:
     of its existence
   source: Remote Viewing Secrets
   location: ch9:8678-8853
-  quote: findings and materials from the lab were shared and used within the operational
-    element of Project STARGATE, located at Fort Meade, Maryland, at least for most
-    of the time it existed.
   claim_id: e74a0e85-b437-4e01-9e67-d3bd94306800
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-e74a0e85-b437-4e01-9e67-d3bd94306800
 - text: CSL findings were sometimes dismissed or discarded by Fort Meade project managers
   source: Remote Viewing Secrets
   location: ch9:9090-9364
-  quote: Research that established changes to specific remote viewing applications
-    was sometimes not viewed as constructive or conducive to the operational requirements
-    by the Fort Meade project managers. In such cases, this research was summarily
-    dismissed as unnecessary or simply discarded.
   claim_id: 03ab0d79-abbb-4414-82e9-789754dd07da
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-03ab0d79-abbb-4414-82e9-789754dd07da
@@ -506,10 +428,6 @@ references:
     at Fort Meade
   source: Remote Viewing Secrets
   location: para 44
-  quote: There was always a large discrepancy between good managers and bad managers
-    within STAR-GATE.... Since full managerial responsibility for the project resided
-    within the Meade unit, the science side of the house was sometimes subjected to
-    these irregularities, as were certainly the remote viewers.
   claim_id: b5c01ea5-830a-4b1d-9946-ff3825a6e6cc
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-b5c01ea5-830a-4b1d-9946-ff3825a6e6cc
@@ -547,8 +465,6 @@ references:
 - text: As of 2013, 99% of Fort Meade operational material remained undeclassified
   source: Remote Viewing Secrets
   location: ch9:12963-13101
-  quote: The Operational, or Fort Meade Unit, for which ninety-nine percent of the
-    material has not yet been declassified or made available to the public.
   claim_id: 5238c66b-a9f5-4778-8e30-ea34350a5640
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-5238c66b-a9f5-4778-8e30-ea34350a5640
@@ -556,25 +472,18 @@ references:
     hosts
   source: Remote Viewing Secrets
   location: ch26:17153-17315
-  quote: Since then, I've had interaction with dozens of television production companies,
-    a number of newspaper, magazine, and book writers, and live and taped radio show
-    hosts.
   claim_id: 1da01218-ad52-42c9-8e13-8320a0f317b1
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-1da01218-ad52-42c9-8e13-8320a0f317b1
 - text: Roughly 80-85 people were involved over the programme's eighteen years
   source: Remote Viewing Secrets
   location: ch9:2589-2786
-  quote: Over the course of eighteen years, counting support and viewer personnel,
-    probably eighty to eighty-five people were involved in the project on both the
-    scientific and the operational sides of the house.
   claim_id: f81a036c-730b-4082-a39d-f7a602572282
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f81a036c-730b-4082-a39d-f7a602572282
 - text: Probably fewer than three dozen were remote viewers
   source: Remote Viewing Secrets
   location: ch9:2887-2931
-  quote: Probably fewer than three dozen people were viewers.
   claim_id: f79243f7-6c87-4c80-a8ca-0dcf78c79e04
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f79243f7-6c87-4c80-a8ca-0dcf78c79e04
@@ -582,26 +491,18 @@ references:
     functions
   source: Remote Viewing Secrets
   location: ch9:2940-3076
-  quote: Of the others, about half were scientists, and the remainder performed support
-    functions, such as evaluation, analysis, and operational monitoring.
   claim_id: 7538a6df-66e1-44a3-930a-0ea547e263ed
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-7538a6df-66e1-44a3-930a-0ea547e263ed
 - text: Dozens of targets produced successful predictions 90 to 365 days out
   source: Remote Viewing Secrets
   location: ch23:12195-12389
-  quote: Literally dozens of targets worked by viewers within the STARGATE Program
-    made successful predictions relating to events involving people, places, or things,
-    generally out to between 90 and 365 days.
   claim_id: 2ebc91db-42a1-4da0-914d-cbc98615e51a
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-2ebc91db-42a1-4da0-914d-cbc98615e51a
 - text: Opinion divided on whether remote viewing could be taught
   source: Remote Viewing Secrets
   location: ch9:3779-3945
-  quote: some members of the unit may say that they believe anyone can be taught remote
-    viewing. Others seem to say something quite the opposite—that remote viewing cannot
-    be taught.
   claim_id: 70416c1d-2370-4af9-ae46-d9c401d808b6
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-70416c1d-2370-4af9-ae46-d9c401d808b6

@@ -51,9 +51,6 @@ references:
     before becoming a US representative.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:13186-13491
-  quote: A born-again Christian, Burchett could not help but be intrigued by the possible
-    connection of UAP to the otherworldly visions of Ezekiel and Elijah in the Bible...
-    not a DC politician, but a blue-collar guy who used to own a trailer repair shop.
   claim_id: 1f7705dd-cc0c-4440-9171-dc7c0545312d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1f7705dd-cc0c-4440-9171-dc7c0545312d
@@ -62,9 +59,6 @@ references:
     UAP sightings.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:12918-13101
-  quote: Coincidentally, his district was near Oak Ridge, home to the nation’s uranium
-    stockpile and a former World War II “Secret City” of the Manhattan Project and
-    the site of countless UAP sightings.
   claim_id: 1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
@@ -222,7 +216,6 @@ references:
     UAP and US nuclear capabilities.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:13112-13172
-  quote: He was particularly alarmed by the connection to US nuclear capabilities.
   claim_id: 58bee08c-3f84-417c-beb3-f41e698d00b6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-58bee08c-3f84-417c-beb3-f41e698d00b6

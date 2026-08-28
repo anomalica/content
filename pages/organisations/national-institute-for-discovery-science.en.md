@@ -110,9 +110,6 @@ references:
 - text: NIDS was self-funded by Robert Bigelow in 1995.
   source: In Plain Sight
   location: ch15:8436-8607
-  quote: Recognising that the UAP mystery merited ongoing investigation, in 1995,
-    Bigelow self-funded the creation of the National Institute for Discovery Science,
-    better known as NIDS.
   claim_id: daf1800e-183a-4baa-991e-af32f21bbd35
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-daf1800e-183a-4baa-991e-af32f21bbd35
@@ -120,8 +117,6 @@ references:
     most remaining confidential.
   source: In Plain Sight
   location: ch15:27308-27457
-  quote: Robert Bigelow is a shrewd and successful billionaire businessman, and most
-    of what his NIDS team discovered across the US from 1995 to 2004 remains confidential.
   claim_id: be608b6d-4237-4a45-8b29-17cf5a49076e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-be608b6d-4237-4a45-8b29-17cf5a49076e
@@ -148,16 +143,12 @@ references:
     sightings.
   source: In Plain Sight
   location: ch37:7546-7665
-  quote: Bigelow founded the National Institute for Discovery Science and once owned
-    Skinwalker Ranch, the site of multiple UAP sightings.
   claim_id: 90b27c48-92ff-429b-a0c6-6ebf84fa1430
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-90b27c48-92ff-429b-a0c6-6ebf84fa1430
 - text: Colm Kelleher was a biochemist and administrator of NIDS.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:26254-26377
-  quote: Dr. Colm Kelleher, a biochemist and administrator of the National Institute
-    for Discovery Science, agreed to look into the case.
   claim_id: b4b76c9a-1aae-4920-a875-1fbfa3aac4c1
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-b4b76c9a-1aae-4920-a875-1fbfa3aac4c1
@@ -190,18 +181,12 @@ references:
 - text: Bigelow invited Edgar Mitchell to serve on the NIDS science advisory board.
   source: In Plain Sight
   location: ch25:5021-5183
-  quote: That was why billionaire UAP investigator Robert Bigelow invited Mitchell
-    to serve on the advisory board of his National Institute for Discovery Science
-    research organisation.
   claim_id: 149a8e9c-307a-47b2-a7e9-767832f7ecc1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-149a8e9c-307a-47b2-a7e9-767832f7ecc1
 - text: Mitchell sat on the board while NIDS conducted still-secret research for Bigelow.
   source: In Plain Sight
   location: ch25:14912-15142
-  quote: The paperwork also offered insights into the still-secret research undertaken
-    by billionaire aerospace businessman Robert Bigelow and his National Institute
-    of Discovery Science, while Ed Mitchell sat on the NIDS science advisory board.
   claim_id: 8b9a0dbc-7978-47de-ba78-35427c03740e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8b9a0dbc-7978-47de-ba78-35427c03740e
@@ -209,9 +194,6 @@ references:
     reports on Skinwalker and other sites.
   source: In Plain Sight
   location: ch15:18514-18748
-  quote: Mitchell, long a proponent of research into UAPs, served on the science advisory
-    board of NIDS and he retained some of the confidential NIDS research reports from
-    Skinwalker and other areas visited by the Bigelow-funded investigation team.
   claim_id: 9d08c98d-8100-4893-a12e-efb1204490f2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9d08c98d-8100-4893-a12e-efb1204490f2
@@ -219,16 +201,12 @@ references:
     board.
   source: In Plain Sight
   location: ch26:10517-10602
-  quote: Because Mitchell was on the NIDS science advisory board he was sent a copy
-    by Dr Hal Puthoff
   claim_id: 28e44829-a046-4df3-9b99-aa934dacea34
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-28e44829-a046-4df3-9b99-aa934dacea34
 - text: Bigelow funded full-time surveillance of Skinwalker Ranch as part of NIDS.
   source: In Plain Sight
   location: ch15:8738-8873
-  quote: Bigelow funded full-time surveillance of Skinwalker Ranch as part of NIDS,
-    ordering an investigation into the extraordinary paranormal claims.
   claim_id: 968bbb9d-9262-4f9b-ab55-0560eeb9dd5d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-968bbb9d-9262-4f9b-ab55-0560eeb9dd5d
@@ -236,10 +214,6 @@ references:
     had worked on a US Department of Defense remote viewing programme.
   source: In Plain Sight
   location: ch15:15597-15867
-  quote: Another intriguing character involved with the NIDS Skinwalker Ranch investigations
-    was a now retired former US Army special forces and military intelligence Colonel
-    John Alexander, who worked on a notorious US Defence Department remote viewing
-    program in the 1970s and 1980s.
   claim_id: 2f109b6c-36fe-4847-aa3d-402eb5447178
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2f109b6c-36fe-4847-aa3d-402eb5447178
@@ -247,9 +221,6 @@ references:
     Ranch and that extraordinary events occurred there.
   source: In Plain Sight
   location: ch15:16271-16450
-  quote: Alexander was one of the first NIDS employees to go on watch at the ranch
-    in the 1990s and, he claimed, 'many extraordinary events would happen with our
-    highly skilled scientists observing'.
   claim_id: af518ba0-5acb-43c1-8701-1ab3c74bbdd6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af518ba0-5acb-43c1-8701-1ab3c74bbdd6
@@ -257,11 +228,6 @@ references:
     near a road in August 1997.
   source: In Plain Sight
   location: ch15:17077-17427
-  quote: At 2.30 am one night in August 1997, two NIDS scientists, watching from an
-    escarpment, spotted a dim light that appeared in the vicinity of the road below
-    them. It grew slightly in size and intensity until it was about four feet in diameter.
-    It hovered about three feet above the ground and a third dimension was noted,
-    giving it the appearance of a tunnel.
   claim_id: 94b0622c-3463-4328-aa77-d6e07104a56f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-94b0622c-3463-4328-aa77-d6e07104a56f
@@ -269,12 +235,6 @@ references:
     emerging from the tunnel.
   source: In Plain Sight
   location: ch15:17435-17864
-  quote: Alexander recounted how 'the researchers were able to see the events that
-    unfolded quite clearly. A moving dark shape appeared in the tunnel and came to
-    the surface. Then the humanoid-like creature of considerable size – an estimated
-    six-foot tall and four hundred pounds – using arms pulled itself out of the tunnel
-    of light and landed on the road. Shortly thereafter the creature walked off into
-    the darkness . . .'.
   claim_id: 953bf87a-6932-42b5-8c8f-394ff59179be
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-953bf87a-6932-42b5-8c8f-394ff59179be
@@ -282,9 +242,6 @@ references:
     black creature emerge from a light tunnel.
   source: In Plain Sight
   location: ch15:14077-14293
-  quote: Perhaps the most astounding claim in the book was that NIDS investigators
-    witnessed a 'faceless black creature' emerging from a glowing yellow light tunnel
-    that winked into existence from nowhere, as if from another dimension.
   claim_id: e7cfa696-32eb-4a73-92a7-682b8ec85acb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e7cfa696-32eb-4a73-92a7-682b8ec85acb
@@ -292,18 +249,12 @@ references:
     about Skinwalker Ranch.
   source: In Plain Sight
   location: ch15:15128-15417
-  quote: From what was publicly revealed about the research, the enormous amount of
-    data known to have been collected by NIDS, such as video, electromagnetic radiation
-    measurements, analysis of soil and cattle mutilation samples, expert reports and
-    blood tests, did not support these extraordinary claims.
   claim_id: cfdc6e0c-d181-4ca6-993e-0137a9307aec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cfdc6e0c-d181-4ca6-993e-0137a9307aec
 - text: NIDS's investigations went beyond Skinwalker Ranch and much remains confidential.
   source: In Plain Sight
   location: ch15:18104-18232
-  quote: But the scope of Bigelow's private NIDS investigations went beyond the Skinwalker
-    Ranch and much of what NIDS uncovered remains confidential.
   claim_id: 5181a9dd-4c77-4edb-94bb-6691e65a40b5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5181a9dd-4c77-4edb-94bb-6691e65a40b5
@@ -311,8 +262,6 @@ references:
     cattle mutilations.
   source: In Plain Sight
   location: ch15:18371-18501
-  quote: They shed more light on the extensive early work done in the late 1990s by
-    Bigelow's NIDS investigators into both UFOs and cattle mutilations.
   claim_id: 58282492-15cb-4dd8-895f-f6eea80bb0b1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-58282492-15cb-4dd8-895f-f6eea80bb0b1
@@ -320,9 +269,6 @@ references:
     and New Mexico in August 1997.
   source: In Plain Sight
   location: ch15:18755-18969
-  quote: Intriguingly, the documents show that NIDS was investigating suspected UAP-related
-    cattle mutilations right across Utah, Nevada and New Mexico in August 1997, including
-    a dead cow with strange haemorrhaging on its back.
   claim_id: cdf17093-8dd7-4d40-9052-8305af23b390
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cdf17093-8dd7-4d40-9052-8305af23b390
@@ -330,7 +276,6 @@ references:
     height.
   source: In Plain Sight
   location: ch15:18975-19041
-  quote: The NIDS report ventured this was caused by 'being dropped from a height'.
   claim_id: a9bf97f9-bca5-420b-92cc-60b2cf78f64d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a9bf97f9-bca5-420b-92cc-60b2cf78f64d
@@ -338,9 +283,6 @@ references:
     cow mutilation.
   source: In Plain Sight
   location: ch15:19052-19213
-  quote: Another report, in September 1997, detailed interviews with UFO eyewitnesses
-    in Dulce, New Mexico, and the investigation of a five-day-old cow mutilation in
-    Los Brasos.
   claim_id: 117db451-d498-4827-a744-864ca1630244
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-117db451-d498-4827-a744-864ca1630244
@@ -348,8 +290,6 @@ references:
     no unusual electromagnetic readings.
   source: In Plain Sight
   location: ch15:19221-19373
-  quote: NIDS investigators recorded that the poor animal's teats were missing, and
-    its anus and tongue had been excised. They found no aberrant electromagnetic readings.
   claim_id: 08645c92-00a7-4607-b1bd-a970187a75b9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-08645c92-00a7-4607-b1bd-a970187a75b9
@@ -357,9 +297,6 @@ references:
     76-metre line.
   source: In Plain Sight
   location: ch15:19383-19596
-  quote: Curiously, there were multiple overturned cow pats in a straight line stretching
-    76 metres south-west of the animal that had clearly been blown up to six metres
-    from where they had originally been anchored to the grass.
   claim_id: e983a92c-84aa-40fa-b806-d44977e0e375
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e983a92c-84aa-40fa-b806-d44977e0e375
@@ -367,9 +304,6 @@ references:
     how far a kick could move one.
   source: In Plain Sight
   location: ch15:19800-19968
-  quote: The report reads, 'We also experimentally kicked cow pats and showed that
-    it is difficult to move them 20 feet from their original place. We concluded that
-    some strong wind velocit
   claim_id: f2e6fca9-ad5c-4422-948d-c525dc281842
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2e6fca9-ad5c-4422-948d-c525dc281842
@@ -377,9 +311,6 @@ references:
     in diameter.
   source: In Plain Sight
   location: ch15:22517-22723
-  quote: another local, Merl Elote, the director of the Game and Fish Department of
-    Dulce, told the NIDS team how he witnessed a craft 75 feet (23 metres) in diameter
-    with a single bright light; it was hovering and rotating.
   claim_id: aca4f023-7a55-48a2-b682-2db66d808cd8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-aca4f023-7a55-48a2-b682-2db66d808cd8
@@ -387,9 +318,6 @@ references:
     on the 1997 investigation.
   source: In Plain Sight
   location: ch15:22971-23177
-  quote: One of the NIDS investigators working with Colm Kelleher during this 1997
-    New Mexico NIDS investigation was Gabe Valdez, a New Mexico State policeman who
-    had strong links with the Jicarilla Apache tribe in Dulce.
   claim_id: e752aecd-226d-4a20-8f6a-9ccf70605b2c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e752aecd-226d-4a20-8f6a-9ccf70605b2c
@@ -397,8 +325,6 @@ references:
     hills around Dulce.
   source: In Plain Sight
   location: ch15:25408-25537
-  quote: After reading the NIDS’ files, it became clear Bigelow’s investigators suspected
-    the government was up to something in the Dulce hills.
   claim_id: b91f1cd0-6f01-425e-8e41-6426a0579cb6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b91f1cd0-6f01-425e-8e41-6426a0579cb6
@@ -406,26 +332,18 @@ references:
     ventilation shaft in Mount Archuleta.
   source: In Plain Sight
   location: ch15:25668-25944
-  quote: Kelleher’s NIDS report contains interviews with multiple members of the Jicarilla
-    Apache community who claimed in September 1997 to have witnessed not only hovering
-    UAPs but even to have stumbled across a mysterious ventilation shaft dug into
-    Mount Archuleta.
   claim_id: c4df3a48-44de-4ba7-b580-3e34d6295ab5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4df3a48-44de-4ba7-b580-3e34d6295ab5
 - text: Hoyt Velarde said he saw an egg-shaped craft on his father's farm in 1964.
   source: In Plain Sight
   location: ch15:21374-21532
-  quote: The previously undisclosed 1997 NIDS documents detail how Velarde also witnessed
-    an egg-shaped craft while working on his father’s farm many years earlier in 1964.
   claim_id: 3c6d9bcf-4c8c-4e07-bcd7-fe895ad99589
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c6d9bcf-4c8c-4e07-bcd7-fe895ad99589
 - text: NIDS investigated a 1997 burning-brush incident on Velarde's ranch.
   source: In Plain Sight
   location: ch15:22041-22153
-  quote: The NIDS team investigated another 1997 incident where Velarde came across
-    a small area of burning brush on his ranch.
   claim_id: e9426a78-bd45-4da7-bf60-b1a4d0c7cb6f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e9426a78-bd45-4da7-bf60-b1a4d0c7cb6f
@@ -433,9 +351,6 @@ references:
     ranch in 1997.
   source: In Plain Sight
   location: ch15:22304-22469
-  quote: The NIDS team went to the site and confirmed the mutilation to the three
-    dead cows; curiously, the carcasses, shrivelled and dried out, were apparently
-    untouched by scavengers.
   claim_id: fa88ce5d-3ffa-4c3f-82bd-0392f813f70b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fa88ce5d-3ffa-4c3f-82bd-0392f813f70b
@@ -443,15 +358,12 @@ references:
     APEG biochemists.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:26606-26697
-  quote: NIDS supported the work and eventually the APEG biochemists received a part
-    of the claw to examine.
   claim_id: 0f553e26-543d-433a-b6d0-e4bde863c231
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0f553e26-543d-433a-b6d0-e4bde863c231
 - text: The full Gary Lowrey report and data were made accessible on the NIDS website.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:43331-43405
-  quote: 'The full report and data can be accessed on the NIDS website: www.nidsci.org.'
   claim_id: 47595b32-17db-4894-aae4-856d59a11d41
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-47595b32-17db-4894-aae4-856d59a11d41
@@ -459,18 +371,12 @@ references:
     methods.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:9568-9872
-  quote: The National Institute for Discovery Science (NIDS), which supported Leir’s
-    work, was able to conduct physical analyses of the implants through a laboratory
-    at New Mexico Tech, an engineering university located in Socorro, New Mexico,
-    including X-ray energy-dispersive spectroscopy and X-ray diffraction work.
   claim_id: 0b19e62e-6636-4bae-b7a5-04564bcd729d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0b19e62e-6636-4bae-b7a5-04564bcd729d
 - text: Eric Davis started working for Bigelow's NIDS in July 1996.
   source: In Plain Sight
   location: ch15:9194-9283
-  quote: Davis started working for Bob Bigelow's National Institute for Discovery
-    Science in July 1996.
   claim_id: 173a406c-abae-40b6-b34c-eed7d5a602a3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-173a406c-abae-40b6-b34c-eed7d5a602a3
@@ -478,9 +384,6 @@ references:
     and concluded it was a hoax.
   source: In Plain Sight
   location: ch15:12808-13046
-  quote: National Institute for Discovery Science documents found in the newly discovered
-    Edgar Mitchell archive files show that, while Davis was with the NIDS, he investigated
-    a supposed alien attack and landing in Montana; he concluded it was a hoax.
   claim_id: 5f002bf0-986a-4bd1-a5ce-e2b4638d335b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5f002bf0-986a-4bd1-a5ce-e2b4638d335b
@@ -488,24 +391,18 @@ references:
     Studies programme.
   source: In Plain Sight
   location: ch17:5254-5409
-  quote: Bigelow hired several of the same scientists who had served on his private
-    decade-long National Institute for Discovery Science investigations.
   claim_id: efdd0682-4b33-49e0-941b-2a6dae5438de
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efdd0682-4b33-49e0-941b-2a6dae5438de
 - text: Davis was brought into the Bigelow team working on AATIP.
   source: In Plain Sight
   location: ch17:9960-10143
-  quote: In an interview with George Knapp, former National Institute for Discovery
-    Science scientist Dr Eric Davis was one of those brought into the Bigelow investigation
-    team working on the AATIP.
   claim_id: cf7d1b29-7a9a-4aa4-8a4a-7306637c2563
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cf7d1b29-7a9a-4aa4-8a4a-7306637c2563
 - text: William Livingston was a medical advisor to AAWSAP/AATIP and to NIDS.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:25278-25341
-  quote: Will served as a medical advisor to AAWSAP/AATIP and Bigelow's NIDS.
   claim_id: d481722a-d6fb-4768-9d9a-a3a174bea5d9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d481722a-d6fb-4768-9d9a-a3a174bea5d9
@@ -513,8 +410,6 @@ references:
     1990s.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:1387-1514
-  quote: The National Institute for Discovery Science (NIDS), his research organization,
-    had studied UAP and the paranormal back in the 1990s.
   claim_id: 0201cb46-cf65-432f-a523-bfc954b27a76
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0201cb46-cf65-432f-a523-bfc954b27a76

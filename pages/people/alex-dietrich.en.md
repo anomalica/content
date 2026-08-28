@@ -74,8 +74,6 @@ references:
     the encounter
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:4687-4804
-  quote: Making up the other half of the team was another US Navy F/A-18 Super Hornet
-    piloted by Lieutenant Junior Grade Alex Dietrich
   claim_id: 560bf8d9-3cf1-4899-b82c-55cc425ddff4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-560bf8d9-3cf1-4899-b82c-55cc425ddff4
@@ -102,12 +100,6 @@ references:
     spot, with whitecaps and bubbles
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:5353-5749
-  quote: Fravor and Dietrich were flying their aircraft at approximately 20,000 feet
-    when they both looked down into the sea. It was a gorgeous day, the sea calm.
-    In this one spot in the Pacific, the water churned and roiled. It looked the way
-    the surface of the water would look if a ship or some other vessel had sunk. There
-    were whitecaps floating on the water and a giant patch of bubbles rising from
-    them.
   claim_id: 24752b60-1587-443c-af87-e5dfac13ef8a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-24752b60-1587-443c-af87-e5dfac13ef8a
@@ -122,8 +114,6 @@ references:
     above the water
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:5756-5904
-  quote: At this moment, all four pilots noticed something even stranger. A bizarre
-    object darted back and forth over the whitecaps, about 50 feet above the water.
   claim_id: f38c8581-15c3-4da6-8b19-7887dbc0e3c8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f38c8581-15c3-4da6-8b19-7887dbc0e3c8
@@ -140,8 +130,6 @@ references:
 - text: Dietrich's WSO was known as 'Noodle'; together they made up FASTEAGLE 02
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:5214-5348
-  quote: Accompanying Dietrich as her WSO was another aviator known by the call sign
-    “Noodle.” Together, New Girl and Noodle made up FASTEAGLE 02.
   claim_id: aca7530d-9a73-40ba-837d-1121a637ed4e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-aca7530d-9a73-40ba-837d-1121a637ed4e
@@ -172,8 +160,6 @@ references:
 - text: Dietrich described the Tic Tac object as manoeuvring in a 'playful' manner
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:11594-11684
-  quote: Navy fighter pilot Alex Dietrich described the 2004 Tic Tac as maneuvering
-    in a "playful" manner.
   claim_id: ee69bb57-5673-4cd0-a338-5253765e3df6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ee69bb57-5673-4cd0-a338-5253765e3df6
@@ -227,8 +213,6 @@ references:
     their crews saw them as the best of the best'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:14284-14402
-  quote: Neither Fravor nor Dietrich had displayed any propensity to exaggerate. Their
-    crews perceived them as the best of the best.
   claim_id: a09eea88-71ff-42ee-afe3-a8264c79511c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a09eea88-71ff-42ee-afe3-a8264c79511c
@@ -236,9 +220,6 @@ references:
     the call sign suggested'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:4687-4876
-  quote: Making up the other half of the team was another US Navy F/A-18 Super Hornet
-    piloted by Lieutenant Junior Grade Alex Dietrich, who was more skilled and deadly
-    than her call sign—“New Girl”—suggested.
   claim_id: bd285379-7452-4a5b-ae35-1d7e992ba910
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bd285379-7452-4a5b-ae35-1d7e992ba910
@@ -246,8 +227,6 @@ references:
     why she was picked for Black Aces'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:4887-5023
-  quote: Fresh out of training, Dietrich flew circles around her peers, probably the
-    reason she was handpicked for her assignment with the Black Aces.
   claim_id: 8140ef98-a0f5-41b0-94ca-0185e665a500
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8140ef98-a0f5-41b0-94ca-0185e665a500
@@ -255,9 +234,6 @@ references:
     than the entire USMC
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:5029-5210
-  quote: A few years later, I heard a story that Alex had more confirmed kills in
-    a period of time than the entire US Marine Corps. I never knew if the story was
-    true, but I would not doubt it.
   claim_id: 3b8a094e-d8f4-4f25-8b4b-b3e5158fcdeb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3b8a094e-d8f4-4f25-8b4b-b3e5158fcdeb
@@ -265,8 +241,6 @@ references:
     in connection with briefing Mattis on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch28:1468-1613
-  quote: They asked for reams of data. They asked to speak to our pilot witnesses.
-    We brought in Fravor, Dietrich, and a radar operator.
   claim_id: a95af9c7-d2be-4044-90a4-1b716357ad9a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a95af9c7-d2be-4044-90a4-1b716357ad9a
@@ -274,9 +248,6 @@ references:
     Dietrich, and other Navy personnel
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:9189-9375
-  quote: he later arranged for me to participate in official debriefings with Commander
-    Fravor, Lieutenant Alex Dietrich, and other Navy personnel who had seen UAP up
-    close or on military sensor systems.
   claim_id: cdc362b8-15c9-41d0-939d-1eb085522c50
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cdc362b8-15c9-41d0-939d-1eb085522c50

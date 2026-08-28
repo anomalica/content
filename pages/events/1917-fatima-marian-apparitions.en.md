@@ -204,9 +204,6 @@ references:
 - text: The Virgin Mary appeared to three poor children in Fatima, Portugal, in 1917.
   source: American Cosmic
   location: ch5:18727-18894
-  quote: one of the most important events in the history of the faith is the appearance
-    of the mother of Jesus, the Virgin Mary, to three poor children in Fatima, Portugal,
-    in 1917.
   claim_id: bfd7d496-54e2-4845-a298-a734470877e1
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bfd7d496-54e2-4845-a298-a734470877e1
@@ -215,10 +212,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:4036-4384
-  quote: Three children were watching their sheep when a bright flash surprised them,
-    and they walked toward the large hollow pasture called Cova da Iria...in the center
-    of the light they perceived a little woman, who spoke to them, begging them to
-    return every month to the same spot.
   claim_id: 83475561-41eb-42b0-9199-7573954753f4
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-83475561-41eb-42b0-9199-7573954753f4
@@ -226,8 +219,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:1494-1587
-  quote: few American readers know the full story of what happened in 1917 near that
-    small Portuguese town
   claim_id: 1c665811-c6b5-42ea-879d-b29a7920d205
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1c665811-c6b5-42ea-879d-b29a7920d205
@@ -235,14 +226,12 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:3974-4030
-  quote: The first apparition of the woman took place on May 13, 1917.
   claim_id: 38b8a983-f9ce-415d-b86d-07fa82a6684d
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-38b8a983-f9ce-415d-b86d-07fa82a6684d
 - text: The children reported seeing the apparition six times in all.
   source: American Cosmic
   location: ch5:20082-20139
-  quote: The children reported seeing the apparition six times in all.
   claim_id: e5a45203-a86f-4881-899b-3c321b853c60
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e5a45203-a86f-4881-899b-3c321b853c60
@@ -250,8 +239,6 @@ references:
     seeing an angel in spring 1917.
   source: American Cosmic
   location: ch5:19467-19610
-  quote: It started with the three children, nine-year-old Lucia Santos and her cousins,
-    Jacinta and Francisco Marto, who saw an angel in the spring of 1917.
   claim_id: 82706c31-faa6-409a-8dbf-342d6f15ffa2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-82706c31-faa6-409a-8dbf-342d6f15ffa2
@@ -260,8 +247,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:1632-1782
-  quote: the entire sequence of observations of an entity thought to be the Holy Virgin
-    had begun two years previously with a fairly classical sequence of UFO sightings
   claim_id: 8a4a9b6f-a8f5-4ada-abc1-84611335f693
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-8a4a9b6f-a8f5-4ada-abc1-84611335f693
@@ -269,8 +254,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:10557-10662
-  quote: '(The size of the assembled crowd had grown in the following progression:
-    3, 50, 4,500, 18,000, 30,000, 70,000.)'
   claim_id: 6ca3a580-0fd8-41a5-9d52-2e092dc72d7a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6ca3a580-0fd8-41a5-9d52-2e092dc72d7a
@@ -279,9 +262,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:4530-4711
-  quote: there were fifty people the second time, on June 13. They watched while the
-    little shepherds knelt and became transfigured, as if transported into another
-    world, at the time of the observation.
   claim_id: 07ce3f2d-1651-4282-96c8-77e720bc7384
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-07ce3f2d-1651-4282-96c8-77e720bc7384
@@ -290,8 +270,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:4724-4846
-  quote: The oldest child, Lucia, who was 10 at the time, addressed an unseen entity
-    whose answers were not heard by others in the group.
   claim_id: bb8d634e-4800-4b23-ad82-fb2accd5d09b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bb8d634e-4800-4b23-ad82-fb2accd5d09b
@@ -300,9 +278,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:4991-5155
-  quote: At the end of the dialogue all witnesses heard an explosion and saw a small
-    cloud rise from the vicinity of a tree—on which all the succeeding manifestations
-    would center.
   claim_id: bcde1c98-24d9-419f-87cc-ff4ba494bb24
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bcde1c98-24d9-419f-87cc-ff4ba494bb24
@@ -310,8 +285,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:5164-5245
-  quote: The following month, on July 13, the number of witnesses had risen to forty-five
-    hundred!
   claim_id: bd1762d1-2e47-40af-9c58-034c95422f9f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bd1762d1-2e47-40af-9c58-034c95422f9f
@@ -320,9 +293,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:5461-5616
-  quote: a buzzing or humming sound, a decrease in the Sun's glow and heat, a small
-    whitish cloud about the tree of the apparitions, and a loud noise at the Lady's
-    departure.
   claim_id: 59a5194a-e517-4043-8598-3e108206b6d0
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-59a5194a-e517-4043-8598-3e108206b6d0
@@ -330,8 +300,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:5629-5712
-  quote: It is also remarkable that the children were shown a vision of hell that
-    terrified them
   claim_id: 2f32e354-3db8-4c05-bfe6-8b9f25311a75
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2f32e354-3db8-4c05-bfe6-8b9f25311a75
@@ -340,11 +308,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:5814-6176
-  quote: The war is going to end, but if people do not stop offending God another
-    and worse one will begin during the reign of Pius XI... When you see a night illuminated
-    by an unknown light know that this is the great sign that God is giving you that
-    he is going to punish the world for its crimes by means of war, famine, and persecution
-    of the Church and of the Holy Father.
   claim_id: 6455616f-36f7-4b22-92c8-a8aeeb1d15b0
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6455616f-36f7-4b22-92c8-a8aeeb1d15b0
@@ -353,9 +316,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:6185-6380
-  quote: To prevent this I shall come to ask for the consecration of Russia…. If they
-    heed my requests, Russia will be converted and there will be peace. If not, she
-    will spread her errors throughout the world.
   claim_id: 22f9f78f-42da-442d-9e3c-76132fb8bf8a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-22f9f78f-42da-442d-9e3c-76132fb8bf8a
@@ -364,9 +324,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:6756-6972
-  quote: On August 13 there were eighteen thousand people at the site of the apparitions.
-    The children, however, were not present. They had been kidnapped and jailed by
-    a local official who had decided to put an end to this "nonsense."
   claim_id: 057e8faa-ade6-4ee1-b3c1-f5ed49d55560
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-057e8faa-ade6-4ee1-b3c1-f5ed49d55560
@@ -375,9 +332,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:6983-7160
-  quote: In their absence, a clap of thunder was heard, followed by a bright flash.
-    A small whitish cloud was forming around the tree. It hovered for a few minutes,
-    then rose and melted away.
   claim_id: 7cf1e6b8-87b3-4efb-9cb3-854cbfbb0cfc
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7cf1e6b8-87b3-4efb-9cb3-854cbfbb0cfc
@@ -385,8 +339,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:7166-7250
-  quote: The clouds in the sky had turned crimson red, and then changed to pink, yellow,
-    and blue.
   claim_id: eca2ec8c-b39f-4a90-b021-bde83436b7c5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-eca2ec8c-b39f-4a90-b021-bde83436b7c5
@@ -395,9 +347,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:7431-7602
-  quote: The witnesses saw "falling flowers," the famous phenomenon of "angel hair"
-    so consistently reported after the passage of a UFO, and sometimes interpreted
-    as an ionization effect.
   claim_id: da7926ae-426e-4bcf-9747-1c28dc841ebd
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-da7926ae-426e-4bcf-9747-1c28dc841ebd
@@ -406,10 +355,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:7610-7860
-  quote: One man, Manuel Pedro Marto, reported seeing clearly a luminous globe spinning
-    through the clouds ("Uma especie de globo luminoso girando nas nuvens") in a statement
-    made under oath during the canonical enquiry concerning the "signs" of August
-    13, 1917.
   claim_id: f7bdaa83-dacf-4e7b-a0dc-cc20d0938d9e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f7bdaa83-dacf-4e7b-a0dc-cc20d0938d9e
@@ -418,10 +363,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:7867-8143
-  quote: On August 19 the children had been released and were tending sheep near Aljustrel,
-    when about 4 P.M. they noticed a sudden lowering of the temperature. The sun,
-    they said, became yellowish; the colors of the rainbow once again filled the countryside,
-    visible to adults in the vicinity
   claim_id: 6fb3e19a-8eaa-4203-acec-a0d3191818b1
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6fb3e19a-8eaa-4203-acec-a0d3191818b1
@@ -430,11 +371,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:8180-8608
-  quote: The bright flash was seen, and a glowing light came to settle about a tree
-    near the children. The entity, clothed in white and gold, stood once more in the
-    center of the glow... A dialogue followed in which the apparition asked the children
-    to "make sacrifices for sinners." After ten minutes the Lady of Light departed
-    slowly toward the east with a roaring sound!
   claim_id: c02b7572-63bf-42eb-8e52-076f650858d7
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c02b7572-63bf-42eb-8e52-076f650858d7
@@ -442,10 +378,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:8647-8885
-  quote: On September 13 the crowd numbered thirty thousand, including two "men in
-    black" (wearing the distinctive Roman collar). These two priests were absolutely
-    skeptical and had come specifically to establish the falsity of the much-heralded
-    "miracles."
   claim_id: b68aa1a8-f6db-4bef-a3db-aa6742a01d35
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b68aa1a8-f6db-4bef-a3db-aa6742a01d35
@@ -454,9 +386,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:9186-9424
-  quote: Noon. The sun got dimmer, although no clouds were seen in the sky... A globe
-    of light was seen by all, advancing slowly down the valley, from east to west,
-    toward the children. It came to rest on the tree.
   claim_id: 637dd44c-a329-4eab-a58f-39cc65eeb4b7
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-637dd44c-a329-4eab-a58f-39cc65eeb4b7
@@ -465,10 +394,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:9430-9801
-  quote: A white cloud formed and out of the empty sky, shiny white "petals" began
-    to fall... the falling, glistening globules, contrary to the laws of perspective,
-    grow smaller and smaller as they near them. And when they reach out their hands
-    and hats to catch them they find that they have somehow melted away.
   claim_id: 7e9900a5-007d-43f3-bfda-aa07af74ec70
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7e9900a5-007d-43f3-bfda-aa07af74ec70
@@ -477,8 +402,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:9985-10092
-  quote: The promise of a miracle on October 13 was repeated. Then the radiant globe
-    rose and disappeared into the sun.
   claim_id: bd9faf53-bc9e-4ab1-ba84-de4529031326
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bd9faf53-bc9e-4ab1-ba84-de4529031326
@@ -487,9 +410,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:10099-10284
-  quote: Asked what he thought the globe was, one of the priests, now quite shaken,
-    stated that "it was a heavenly vehicle that carried the Mother of God from her
-    throne above to this forbidden wasteland."
   claim_id: 54a48852-a055-492f-9eb0-975d73170ec6
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-54a48852-a055-492f-9eb0-975d73170ec6
@@ -498,8 +418,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:10296-10430
-  quote: The concept of the earth as a prison or a "forbidden wasteland" is decidedly
-    a popular one among those who have been exposed to these phenomena.
   claim_id: 1daba3c7-ec12-4b8a-819d-84561c66a704
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1daba3c7-ec12-4b8a-819d-84561c66a704
@@ -507,8 +425,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:10442-10550
-  quote: The last apparition, as predicted, took place on October 13, 1917. The crowd
-    numbered seventy thousand this time.
   claim_id: 7209a000-163c-4413-a913-c006892b5f65
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7209a000-163c-4413-a913-c006892b5f65
@@ -517,10 +433,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:10668-10946
-  quote: The vision was preceded by a flash of light at noon, a sweet strange fragrance.
-    The children engaged in a dialogue with the Lady. The crowd did not hear the conversation
-    and saw no Lady. They did observe the dramatic change on the faces of the three
-    children, enraptured by the vision.
   claim_id: ecaf50c4-ac6a-4256-ba98-37b02db8d057
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ecaf50c4-ac6a-4256-ba98-37b02db8d057
@@ -529,12 +441,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:11029-11466
-  quote: The rain, that had been pouring down on the crowd, suddenly stopped, and
-    the heavy clouds parted. The sun appeared as a disk of brilliant silver, "a weird
-    disk that turns rapidly on its own axis and casts off beams of colored lights
-    in all directions. Shafts of red light shot out from the rim of the sun and colored
-    the clouds, the earth, the trees, the people; then shafts of violet, of blue,
-    of yellow and of other colors followed in succession."
   claim_id: 1ea54302-0e12-49ba-a3c8-198c0e88e08a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1ea54302-0e12-49ba-a3c8-198c0e88e08a
@@ -543,9 +449,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:11577-11879
-  quote: The reports speak of a flat disk rather than a globe. After a while it stopped
-    spinning and "plunged downward in zigzag fashion toward the earth and the horrified
-    spectators."...Finally the disk reverted its motion and disappeared into the sun
   claim_id: cb2ebf6b-b75f-4aa1-9307-15672507a43b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-cb2ebf6b-b75f-4aa1-9307-15672507a43b
@@ -554,8 +457,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:11985-12084
-  quote: The astounded crowd suddenly realized that their clothes, the trees, and
-    the ground were perfectly dry.
   claim_id: b2ca7f84-c76a-42c2-b909-e1085cd81595
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b2ca7f84-c76a-42c2-b909-e1085cd81595
@@ -563,10 +464,6 @@ references:
     before evaporating.
   source: American Cosmic
   location: ch5:24038-24329
-  quote: It must have been 1:30 p.m. when there arose, at the exact spot where the
-    children were, a column of smoke, thin, fine and bluish, which extended up to
-    perhaps two meters above their heads, and evaporated at that height. This phenomenon,
-    perfectly visible to the naked eye, lasted for a few seconds.
   claim_id: 659618d7-2e11-4caf-b35d-d56cb8e0b994
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-659618d7-2e11-4caf-b35d-d56cb8e0b994
@@ -574,13 +471,6 @@ references:
     without discomfort.
   source: American Cosmic
   location: ch5:24741-25356
-  quote: Suddenly I heard the uproar of thousands of voices, and I saw the whole multitude
-    spread out in that vast space at my feet . . . turn their backs to that spot .
-    . . and look at the sun on the other side. I turned around, too . . . and I could
-    see the sun, like a very clear disc, with its sharp edge, which gleamed without
-    hurting the sight. . . . The most astonishing thing was to be able to stare at
-    the solar disc for a long time, brilliant with light and heat, without hurting
-    the eyes or damaging the retina.
   claim_id: 3e7d2b81-c1e9-426f-8825-4166ae1e651e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3e7d2b81-c1e9-426f-8825-4166ae1e651e
@@ -588,17 +478,12 @@ references:
     still.
   source: American Cosmic
   location: ch5:25484-25647
-  quote: the sun’s disc did not remain immobile, it had a giddy motion, [but] not
-    like the twinkling of a star in all its brilliance for it spun round upon itself
-    in a mad whirl.
   claim_id: b1da4848-bf78-46be-9511-01f015f1e898
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b1da4848-bf78-46be-9511-01f015f1e898
 - text: Garrett said everything he looked at took on an amethyst colour.
   source: American Cosmic
   location: ch5:25834-25979
-  quote: I looked first at the nearest objects and then extended my glance further
-    afield as far as the horizon. I saw everything had assumed an amethyst color.
   claim_id: ab310e02-d301-4c17-9ea3-d7328d7bffc2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ab310e02-d301-4c17-9ea3-d7328d7bffc2
@@ -606,10 +491,6 @@ references:
     a cry of anguish.
   source: American Cosmic
   location: ch5:26003-26246
-  quote: one heard a clamor, a cry of anguish breaking from all the people. The sun,
-    whirling wildly, seemed all at once to loosen itself from the firmament and, blood
-    red, advance threateningly upon the earth as if to crush us with its huge and
-    fiery weight.
   claim_id: 40bb0e3c-268c-424b-b4dc-76424e3c0a4d
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-40bb0e3c-268c-424b-b4dc-76424e3c0a4d
@@ -617,8 +498,6 @@ references:
     1917.
   source: American Cosmic
   location: ch5:26498-26605
-  quote: I must declare that never, before or after October 13 [1917], have I observed
-    similar atmospheric or solar phenomena.
   claim_id: dcc69b6e-1b26-4a15-825d-69e3275d3334
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-dcc69b6e-1b26-4a15-825d-69e3275d3334
@@ -627,10 +506,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:19228-19524
-  quote: The edges of the disk, according to all descriptions, were sharp. And it
-    was definitely not blinding, although pictures of the crowd show many witnesses
-    shading their eyes. But others report that the phenomenon darkened the sun to
-    such an extent that at one point they could see the moon and the stars.
   claim_id: 7f877889-91b5-42df-84bb-d2a02e40bf73
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7f877889-91b5-42df-84bb-d2a02e40bf73
@@ -638,8 +513,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:19138-19218
-  quote: Two witnesses looked at it with binoculars and reported seeing a ladder and
-    two entities.
   claim_id: e5a93a98-2960-4e54-a9f1-ba385403c72b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e5a93a98-2960-4e54-a9f1-ba385403c72b
@@ -648,8 +521,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:18685-18823
-  quote: The phenomenon, it seems, could not be photographed directly with the photographic
-    emulsions and shutter speeds commonly available at the time.
   claim_id: ccb239a7-102e-4c46-a003-d4d32e6e724c
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ccb239a7-102e-4c46-a003-d4d32e6e724c
@@ -658,9 +529,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:18830-18995
-  quote: (One picture often produced by the newspapers and alleged to show the miracle
-    is in fact a photograph of an eclipse of the sun that has nothing to do with the
-    Fatima miracle.)
   claim_id: 78dfd0f6-0961-47af-a0ef-cea272fbf3df
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-78dfd0f6-0961-47af-a0ef-cea272fbf3df
@@ -669,10 +537,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:18259-18517
-  quote: A woman named Mrs. Guilhermina Lopes da Silva, who lived in Leiria no less
-    than sixteen miles from the site of the miracle, could not go to the place appointed
-    for the apparition, but she looked toward the mountain at noon and saw "a great
-    red flash" in the sky.
   claim_id: ee7ffb7c-f82e-4a38-98b2-48814aa04d5b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ee7ffb7c-f82e-4a38-98b2-48814aa04d5b
@@ -681,8 +545,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:18522-18679
-  quote: The brilliance in the sky was such that it was seen thirty miles away (at
-    San Pedro de Muel, by Portuguese writer Afonso Vieira, his wife, and his mother-in-law).
   claim_id: da6cfc52-3a75-4990-80cf-663efbbe004f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-da6cfc52-3a75-4990-80cf-663efbbe004f
@@ -691,10 +553,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:16953-17250
-  quote: 'A child of 12, named Albano Barros, for example, who was in a field near
-    Minde, eight miles from Fatima, was so struck when he saw the disk of light falling
-    toward the earth that he does not remember what followed: "I cannot even remember
-    whether I took the sheep home, whether I ran, or what I did."'
   claim_id: b727b211-b134-4a6a-9ef4-0be3a0fd6071
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b727b211-b134-4a6a-9ef4-0be3a0fd6071
@@ -702,8 +560,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:17340-17416
-  quote: Others were so afflicted that, like farmer Manuel Francisco, they went home
-    weeping.
   claim_id: 86846410-817d-427d-b04a-101498dc7849
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-86846410-817d-427d-b04a-101498dc7849
@@ -712,10 +568,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:19532-19817
-  quote: Another remote witness was a schoolboy who was so impressed by what he saw
-    that he subsequently became a priest. (John Haffert interviewed him in 1960.)
-    At the time of the miracle he was with his brother and other children in the village
-    of Alburitel, nine miles away from the Cova da Iria
   claim_id: 03da54cd-a85e-408d-b5a9-7de242948ad1
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-03da54cd-a85e-408d-b5a9-7de242948ad1
@@ -724,10 +576,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:17592-17912
-  quote: 'A prominent lawyer, Mr. Mendes, stated in an interview with John Haffert
-    in 1960: "What I saw at Fatima could not help but affect the interior life...
-    I still remember it today as vividly as at the moment it happened, and I feel
-    myself to be dominated by that extraordinary event."'
   claim_id: 73ed26fd-b3b8-4bf8-a8a0-29deb84ca0d9
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-73ed26fd-b3b8-4bf8-a8a0-29deb84ca0d9
@@ -736,10 +584,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:16295-16679
-  quote: At my mother's request, I went once more to Cova da Iria in August at the
-    time of the apparitions, writes engineer Mario Godinho... My mother, who had had
-    a large tumor in one of her eyes for many years, was cured. The doctors who had
-    attended her said they could not explain such a cure.
   claim_id: 1ec8f44b-df3e-45b2-a7d2-724c41f6d31f
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1ec8f44b-df3e-45b2-a7d2-724c41f6d31f
@@ -748,9 +592,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:2292-2452
-  quote: This phenomenon, which no astronomical observatory registered and which therefore
-    was not natural, was witnessed by persons of all categories and of all social
-    classes
   claim_id: a16ed834-4ce8-4023-85fb-bd621184fa31
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a16ed834-4ce8-4023-85fb-bd621184fa31
@@ -759,9 +600,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:2391-2624
-  quote: was witnessed by persons of all categories and of all social classes, believers
-    and unbelievers, journalists of the principal Portuguese newspapers and even by
-    persons some miles away. Facts which annul any explanation of collective illusion.
   claim_id: 75a17a81-e131-4a53-b846-6cd1bfa85f07
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-75a17a81-e131-4a53-b846-6cd1bfa85f07
@@ -769,9 +607,6 @@ references:
     revelation.
   source: American Cosmic
   location: ch5:26750-26981
-  quote: The church, after thirteen years of investigation, approved the event as
-    worthy of belief, albeit under the category of “private revelation,” as distinguished
-    from “public revelation,” which is something Catholics are obligated to believe
   claim_id: f5546c0a-41f5-44d3-84c5-6f2482e80f5e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f5546c0a-41f5-44d3-84c5-6f2482e80f5e
@@ -779,9 +614,6 @@ references:
     to Our Lady of Fatima.
   source: American Cosmic
   location: ch5:18900-19056
-  quote: The apparition has received the official sanction of the Catholic Church,
-    and several popes have expressed open devotion to "Our Lady of Fatima," as she
-    is called.
   claim_id: 0f7c05bb-b127-4e33-a136-e631a844d496
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0f7c05bb-b127-4e33-a136-e631a844d496
@@ -790,9 +622,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:2793-3007
-  quote: She had not said that she was the Virgin Mary. She had simply stated that
-    she was "from Heaven" and instructed them to return every month until October,
-    when a public miracle would take place "so that everyone may believe."
   claim_id: ebe7c456-1784-4aca-ab54-c1a0b65db875
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ebe7c456-1784-4aca-ab54-c1a0b65db875
@@ -801,8 +630,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:3441-3544
-  quote: In one of the encounters a prophetic message was given to the children, and
-    transmitted by them to the Church.
   claim_id: ed9af248-1eb7-4aa9-81ce-bd52cbfd65e3
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ed9af248-1eb7-4aa9-81ce-bd52cbfd65e3
@@ -810,8 +637,6 @@ references:
     proved true.
   source: American Cosmic
   location: ch5:27474-27600
-  quote: One of the predictions of the lady was that Jacinta and Francisco would die
-    before they reached adulthood, which sadly proved true.
   claim_id: 6182013e-ddf8-4b01-af3b-daedb1b9f915
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6182013e-ddf8-4b01-af3b-daedb1b9f915
@@ -820,8 +645,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:3552-3692
-  quote: A part of that message was not to be revealed until 1960, at which time Pope
-    John XXIII opened the sealed envelope, but did not publish the secret.
   claim_id: 8714b42e-441f-423a-a845-5d56c5a45adc
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-8714b42e-441f-423a-a845-5d56c5a45adc
@@ -829,8 +652,6 @@ references:
     on his life.
   source: American Cosmic
   location: ch5:19176-19285
-  quote: May 13 was when the lady first appeared to the three young children, and
-    the pope was doubtless aware of the date.
   claim_id: 6aa3d7dc-fa78-4b35-b804-5b9b4c97edc2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6aa3d7dc-fa78-4b35-b804-5b9b4c97edc2
@@ -849,11 +670,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:12401-12768
-  quote: Not only was a flying disk or globe consistently involved, but its motion,
-    its falling-leaf trajectory, its light effects, the thunderclaps, the buzzing
-    sounds, the strange fragrance, the fall of "angel hair" that dissolves upon reaching
-    the ground, the heat wave associated with the close approach of the disk, all
-    of these are constant parameters of UFO sightings everywhere.
   claim_id: 0d44efc4-512f-4a80-9974-6495c92149d0
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0d44efc4-512f-4a80-9974-6495c92149d0
@@ -861,7 +677,6 @@ references:
     technology.
   source: American Cosmic
   location: ch5:20972-21041
-  quote: it is also indistinguishable from the technology surrounding the UFO phenomenon.
   claim_id: f216cc3f-9dc3-44e6-9bea-83928a5bbd9a
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f216cc3f-9dc3-44e6-9bea-83928a5bbd9a
@@ -870,10 +685,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch15:6388-6674
-  quote: The mixture of seriousness and absurdity that we have already noted in several
-    contactee stories is an unmistakable characteristic of this statement. We will
-    find the same thing to be true in Lourdes, where the alleged Virgin Mary instructs
-    the little Bernadette to perform meaningless actions.
   claim_id: 1f00e276-11d3-41bd-a1d6-66360e6223b4
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1f00e276-11d3-41bd-a1d6-66360e6223b4
@@ -881,9 +692,6 @@ references:
     humming, heat and healing.
   source: American Cosmic
   location: ch5:21139-21363
-  quote: including the arrival of a shining being in a small sphere (much like the
-    spheres described by Alison Kruse), spinning aerial discs, humming noises, heat
-    effects, healing phenomena, some people witnessing it while others do not
   claim_id: 2358e9d7-50e5-4df3-a5b5-1cb29ccfb37a
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2358e9d7-50e5-4df3-a5b5-1cb29ccfb37a
@@ -891,8 +699,6 @@ references:
     as with Fatima's secrets.
   source: American Cosmic
   location: ch5:21427-21546
-  quote: the message of the beings, which seems absurd and often includes the injunction
-    to remain silent (here, the secrets of Fatima)
   claim_id: de32289f-fe96-416c-aaea-a72e1d2ba759
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-de32289f-fe96-416c-aaea-a72e1d2ba759
@@ -900,8 +706,6 @@ references:
     Mary, as with UFO events generally.
   source: American Cosmic
   location: ch5:27963-28093
-  quote: He ignores the second-order, evaluative interpretations of the entity as
-    being the Virgin Mary. He takes the same approach to UFO events.
   claim_id: 52f2fa6d-607b-4b7c-9dcf-5bf993d94c8c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-52f2fa6d-607b-4b7c-9dcf-5bf993d94c8c
@@ -909,11 +713,6 @@ references:
     Fatima children and St. Teresa of Avila.
   source: American Cosmic
   location: ch5:31825-32185
-  quote: There is also the “psychic component” that Jacques mentions, which was reported
-    by the children who witnessed the apparition, as well as by St. Teresa of Avila.
-    This component is experienced as a direct knowing of what the beings seem to communicate.
-    It is as if the beings somehow get inside the heads of the experiencers, as if
-    there are no barriers between them.
   claim_id: 3064df3a-e96a-440f-8aa3-5bd0e4111cc0
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3064df3a-e96a-440f-8aa3-5bd0e4111cc0
@@ -921,9 +720,6 @@ references:
     altered by media coverage over time.
   source: American Cosmic
   location: ch5:20363-20566
-  quote: Although the story of Fatima is known by almost all Catholics, and even to
-    millions of non-Catholics, Jacques notes that the actual events are mostly unknown
-    and have been changed through media and over time.
   claim_id: d05ed45a-83c0-4b1d-971b-1bc71613bd5e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d05ed45a-83c0-4b1d-971b-1bc71613bd5e

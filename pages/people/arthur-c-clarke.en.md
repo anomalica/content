@@ -64,9 +64,6 @@ references:
     television above the bed, replaced by the monolith in the film
   source: American Cosmic
   location: ch4:37528-37709
-  quote: At the end of Arthur C. Clarke’s book, in the hotel room where Bowman eventually
-    finds himself, there is a television above the bed. In the movie, the television
-    is replaced by the monolith.
   claim_id: e1196d31-e64d-4e54-b0b9-957e3b364b9b
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e1196d31-e64d-4e54-b0b9-957e3b364b9b
@@ -184,8 +181,6 @@ references:
     raised them at a Planetary Society event
   source: Dark Mission
   location: ch14:36829-36968
-  quote: After seeing the images on Hoagland’s website, Clarke made a fuss about them
-    at an event in December 2000 hosted by Carl Sagan’s Planetary Society.
   claim_id: 3f6248e1-a97d-4919-80b2-e565482c6f7e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3f6248e1-a97d-4919-80b2-e565482c6f7e
@@ -193,16 +188,12 @@ references:
     remains
   source: Dark Mission
   location: ch14:36977-37127
-  quote: Clarke’s flat statement, that he believed the images constituted evidence
-    of life on Mars (he was thinking of the “glass tubes” as potentially fossil remains)
   claim_id: 40373828-fcc6-4d51-936d-e2311928ce59
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-40373828-fcc6-4d51-936d-e2311928ce59
 - text: Louis Friedman abruptly ended the video conference
   source: Dark Mission
   location: ch14:37137-37266
-  quote: made Society chairman Louis Friedman acutely uncomfortable—so much so, in
-    fact, that he abruptly ended the video conference with Clarke.
   claim_id: 394a80f4-3885-4f9a-8b9f-78e390b12abd
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-394a80f4-3885-4f9a-8b9f-78e390b12abd
@@ -210,18 +201,12 @@ references:
     JPL photographs
   source: Dark Mission
   location: ch14:37998-38265
-  quote: “I’m fairly convinced that we have discovered life on Mars. There are some
-    incredible photographs from [the Jet Propulsion Laboratory], which to me are pretty
-    convincing proof of the existence of large forms of life on Mars! Have a look
-    at them. I don’t see any other interpretation.”
   claim_id: d16c11d1-c03e-4491-b7f2-c1588234fc0f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d16c11d1-c03e-4491-b7f2-c1588234fc0f
 - text: NASA staff geologists attacked Clarke personally
   source: Dark Mission
   location: ch14:38283-38358
-  quote: NASA’s staff geologists were swift to respond. First, they attacked Clarke
-    personally
   claim_id: c21c00b3-e67f-4de5-b562-c5e2a6304a40
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c21c00b3-e67f-4de5-b562-c5e2a6304a40
@@ -229,9 +214,6 @@ references:
     of Mars, which excited Clarke in 2001
   source: Dark Mission
   location: ch17:10136-10327
-  quote: It was first noted by us because of its similarity to the Glass Tunnels Hoagland
-    found several hundred miles west of Cydonia two years previously, and that got
-    Arthur C. Clarke so excited in 2001
   claim_id: ddfc45f2-a076-4b25-8d2e-0ce727f49847
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ddfc45f2-a076-4b25-8d2e-0ce727f49847
@@ -239,8 +221,6 @@ references:
     magic
   source: American Cosmic
   location: ch1:37857-37971
-  quote: A much-quoted statement by Arthur C. Clarke, that "any sufficiently advanced
-    technology is indistinguishable from magic,"
   claim_id: 2af41cc1-79d7-420b-a7e2-bd7362861dfc
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2af41cc1-79d7-420b-a7e2-bd7362861dfc

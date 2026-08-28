@@ -70,8 +70,6 @@ references:
 - text: Ruppelt was a USAF officer privy to the Project Sign investigations.
   source: In Plain Sight
   location: ch8:1378-1466
-  quote: One insider privy to the Project Sign investigations was a US Air Force officer,
-    Edward Ruppelt
   claim_id: 5b6c1dde-c122-4963-bdb5-c22d7a45ee96
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b6c1dde-c122-4963-bdb5-c22d7a45ee96
@@ -79,18 +77,12 @@ references:
     Situation report.
   source: In Plain Sight
   location: ch8:1475-1628
-  quote: He subsequently claimed to have seen a highly classified 1948 Project Sign
-    report, entitled 'Estimate of the Situation', investigating the flying saucer
-    sightings
   claim_id: 94b1b41f-8928-43e1-a0d9-a87655ca181a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-94b1b41f-8928-43e1-a0d9-a87655ca181a
 - text: Ruppelt said the Estimate of the Situation concluded the craft were extra-terrestrial.
   source: In Plain Sight
   location: ch8:1742-1919
-  quote: Ruppelt, who later headed Project Blue Book's UAP investigations, claimed
-    this early report concluded that the best explanation for the phenomenon was that
-    the craft were extra-terrestrial
   claim_id: 05cfc5b9-7d76-49c6-99e5-7a607440887c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-05cfc5b9-7d76-49c6-99e5-7a607440887c
@@ -139,8 +131,6 @@ references:
     sightings.
   source: In Plain Sight
   location: ch8:3681-3825
-  quote: as project insider Edward Ruppelt later asserted, there was a widespread
-    view that Project Grudge was operating under a directive to debunk all sightings
   claim_id: 0249af1f-6fd2-4452-aa20-a78d88b0fd89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0249af1f-6fd2-4452-aa20-a78d88b0fd89
@@ -205,7 +195,6 @@ references:
 - text: Ruppelt later headed Project Blue Book's UAP investigations.
   source: In Plain Sight
   location: ch8:1742-1792
-  quote: Ruppelt, who later headed Project Blue Book's UAP investigations
   claim_id: 9fea55f0-6b72-4442-8eed-2972223676bd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9fea55f0-6b72-4442-8eed-2972223676bd

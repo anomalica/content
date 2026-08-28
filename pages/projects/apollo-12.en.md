@@ -85,8 +85,6 @@ references:
     released just after Apollo 12
   source: Dark Mission
   location: ch11:100630-100745
-  quote: Hoagland decided to focus first on the 16mm film that NASA had released just
-    after Apollo 12, called *Pinpoint for Science*.
   claim_id: f1f0cb39-e8e1-4900-b854-ac9dfad1416c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f1f0cb39-e8e1-4900-b854-ac9dfad1416c
@@ -94,9 +92,6 @@ references:
     dragged on for weeks
   source: Dark Mission
   location: ch11:101235-101454
-  quote: Because this official "landing uncertainty" had dragged on for several weeks,
-    well after the crew had returned and been debriefed, NASA was determined to refine
-    the lunar landing procedures for the next Mission, Apollo 12.
   claim_id: f82b146a-cf2b-4299-a5c0-210f62ca3563
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f82b146a-cf2b-4299-a5c0-210f62ca3563
@@ -104,17 +99,12 @@ references:
     real-time pinpoint navigation
   source: Dark Mission
   location: ch11:101468-101711
-  quote: since the second landing was being optimistically targeted within walking
-    distance of the two-year-old unmanned Surveyor 3 ... NASA had to come up with
-    a fool-proof means for real-time "pinpoint navigation"
   claim_id: 2549960b-96cc-43be-b01d-8f1931f87ad1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2549960b-96cc-43be-b01d-8f1931f87ad1
 - text: Pinpoint for Science was named for Conrad and Bean's successful pinpoint landing
   source: Dark Mission
   location: ch11:101792-101910
-  quote: Ergo the name of that official mission film, after Pete Conrad and Alan Bean's
-    incredibly successful "pinpoint" lunar landing.
   claim_id: dde73d64-34b9-4476-ae0a-1fe01916d09d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-dde73d64-34b9-4476-ae0a-1fe01916d09d
@@ -122,11 +112,6 @@ references:
     stills taken by Conrad and Bean
   source: Dark Mission
   location: ch11:102981-103312
-  quote: He was focusing on original Oxberry Animation Stand (another Hollywood device,
-    used to animate still photographs in movies) animations that NASA's "contract
-    producers" had incorporated in the film—pans and zooms of "stills" from the original
-    Apollo 12 Hasselblad shots taken on the Moon by the Apollo 12 crew, Pete Conrad
-    and Alan Bean.
   claim_id: 8579d04c-6e62-431a-8f10-30494ae2eb70
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8579d04c-6e62-431a-8f10-30494ae2eb70
@@ -134,12 +119,6 @@ references:
     zooms might make invisible detail in the lunar sky recoverable by computer
   source: Dark Mission
   location: ch11:104051-104584
-  quote: Hoagland reasoned that if the *Pinpoint for Lunar Landing* producers had
-    taken rush 8x10 hardcopy prints from the original Hasselblad Moon shots, placed
-    them under the intense lights on a professional Oxberry Animation Stand ... then
-    on those frames of the 16mm release print, even after several generations of copying,
-    some vital, invisible detail in the otherwise pitch black lunar skies over the
-    Apollo 12 landing site might remain—still detectable by the computer.
   claim_id: 7e297fe6-cd33-4839-937e-2a15fcff8860
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7e297fe6-cd33-4839-937e-2a15fcff8860
@@ -147,10 +126,6 @@ references:
     and massive inclined buttresses beyond the horizon
   source: Dark Mission
   location: ch11:104820-105131
-  quote: The enhanced 16mm frames (captured by John Stevens' machine from NASA's official
-    *Pinpoint for Science* print) unquestionably revealed more "reflective, glass-like
-    ruins" over the horizon from the Apollo 12 landing site, and the *same* massive
-    inclined buttresses, slanting down beyond the lunar horizon in the distance.
   claim_id: 7594d73b-57fd-4554-86d4-99c8204ff456
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7594d73b-57fd-4554-86d4-99c8204ff456
@@ -158,10 +133,6 @@ references:
     lunar dome hypothesis
   source: Dark Mission
   location: ch11:105784-106021
-  quote: but it was the striking, unmistakable appearance of those slanted buttresses,
-    seen on a much bigger scale from the Apollo 12 landing site, which gave Hoagland
-    independent but vital confirmation for his entire model of the "ancient lunar
-    domes."
   claim_id: a343ae57-1347-4cba-9b9b-cfe4667a4415
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a343ae57-1347-4cba-9b9b-cfe4667a4415
@@ -169,9 +140,6 @@ references:
     similar geometry in roughly the same area
   source: Dark Mission
   location: ch11:106030-106287
-  quote: Given that two Apollo missions—14 and now 12—had photographed the same crystalline
-    geometry, and apparently in generally the same location ... Hoagland was more
-    convinced than ever that his lunar dome theory was correct.
   claim_id: 9389b618-91af-4eeb-8c80-e5f38f09bba5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9389b618-91af-4eeb-8c80-e5f38f09bba5
@@ -179,7 +147,6 @@ references:
     apart
   source: Dark Mission
   location: ch11:106226-106241
-  quote: only 122 miles apart
   claim_id: 51bf05ae-fd21-49e3-8be1-1649504c77bf
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-51bf05ae-fd21-49e3-8be1-1649504c77bf
@@ -187,9 +154,6 @@ references:
     each time he was asked
   source: Dark Mission
   location: ch11:154443-154644
-  quote: 'The Apollo 12 commander, the late Pete Conrad, got so frustrated with his
-    inadequacy at answering the same question that he resorted to giving the same,
-    banal answer each time: “‘Super! Really enjoyed it!”'
   claim_id: 13a6aae5-1231-4d07-9936-92f8651d4a78
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-13a6aae5-1231-4d07-9936-92f8651d4a78
@@ -197,8 +161,6 @@ references:
     14 missions
   source: Dark Mission
   location: ch11:91735-91906
-  quote: Most of the prints in Ken's priceless collection at his home... turned out
-    to be from earlier Missions—Apollo 12 and Apollo 14.
   claim_id: fd72b636-ce0d-41e3-a8d3-7c624aaee29d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fd72b636-ce0d-41e3-a8d3-7c624aaee29d
@@ -206,9 +168,6 @@ references:
     together of any Apollo landings
   source: Dark Mission
   location: ch11:91959-92232
-  quote: The 12 and 14 landing sites were unique in the entire Apollo Program—in that
-    they were closer together than any other landings... Only 122 miles separated
-    the two Apollo touchdowns in Oceanus Procellarum (the 'Sea of Storms').
   claim_id: fc765127-3627-43b5-94eb-5e8f151ad58b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fc765127-3627-43b5-94eb-5e8f151ad58b
@@ -216,8 +175,6 @@ references:
     thirty-one months later
   source: Dark Mission
   location: ch12:133097-133247
-  quote: the unmanned Surveyor 3 spacecraft had touched down in Oceanus Procellarum,
-    just a few hundred feet from where Apollo 12 would land thirty-one months later
   claim_id: 0134391a-28b0-45a1-8667-33ab01d822a3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0134391a-28b0-45a1-8667-33ab01d822a3
@@ -225,10 +182,6 @@ references:
     for a Moon mission in May 1961
   source: Dark Mission
   location: ch12:162648-162940
-  quote: With the discovery that this Apollo 12/Surveyor 3 site was, somehow, seen
-    as “sacred” long *before* any spacecraft actually touched down—as gauged by the
-    stunningly exact alignment of Orion on its lunar horizon, precisely as President
-    Kennedy called for “sending a man to the Moon” in May of 1961
   claim_id: bf624b03-6c8b-4373-9fdd-499ef5c5bf6c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bf624b03-6c8b-4373-9fdd-499ef5c5bf6c
@@ -236,13 +189,6 @@ references:
     site, Mars Pathfinder's site and Cydonia in a proposed set of ritual locations
   source: Dark Mission
   location: ch12:163118-163653
-  quote: 'After considerable discussion, we agreed on our own “reconstruction” of
-    the following “ritual temple” locations: The Giza Plateau on Earth (for obvious
-    reasons); the Apollo 11 (because it was the location of the first manned landing)
-    and Apollo 12 (because of the landing on Hitler’s birthday and “the Kennedy Connection”)
-    lunar landing sites; Viking 1 (because it was the first NASA landing on the planet
-    Mars); the Pathfinder landing sites (because of the 19.5 x 33º location); and,
-    of course, Cydonia (because of the Face and City Complex).'
   claim_id: 74a7369f-ec78-44ba-97c2-340edfe105e1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-74a7369f-ec78-44ba-97c2-340edfe105e1
@@ -250,10 +196,6 @@ references:
     than two years earlier, on Hitler's birthday
   source: Dark Mission
   location: ch12:166580-166831
-  quote: Fig. 5-7 - Apollo 12 astronaut Alan Bean inspects the Surveyor 3 spacecraft,
-    which had soft landed in virtually the same location as Apollo 12 (note Lunar
-    Module on Surveyor crater rim), but more than two years earlier - on *Adolf Hitler’s
-    birthday* (NASA).
   claim_id: 4f4f0e6c-32b9-4613-b9e7-c3e1dbcf50c3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f4f0e6c-32b9-4613-b9e7-c3e1dbcf50c3
@@ -261,10 +203,6 @@ references:
     as an alignment significant in ancient Egyptian religion
   source: Dark Mission
   location: ch12:166848-167114
-  quote: Fig. 5-8 - Apollo 12 landing site sky pattern at Apollo 11 touchdown, ~850
-    miles due east. Orion’s belt on the eastern horizon is an extremely significant
-    alignment in the ancient Egyptian stellar religion - unmistakably signifying “resurrection.”
-    But … of *what*? (Hoagland)
   claim_id: 99795b9e-f620-4147-ab2d-0f208a0b7978
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-99795b9e-f620-4147-ab2d-0f208a0b7978
@@ -272,9 +210,6 @@ references:
     touchdown on 1969-11-19 as coding for dimensional transition
   source: Dark Mission
   location: ch12:167511-167721
-  quote: Fig. 5-11 - Apollo 12 landing site sky pattern at Apollo 12 touchdown, November
-    19, 1969. Orion’s Belt stands 19.5 degrees above the Western lunar horizon - a
-    mathematical coding for “dimensional transition.” (Hoagland)
   claim_id: e6d7d9e6-848e-435f-9f50-1527fd5e4a08
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e6d7d9e6-848e-435f-9f50-1527fd5e4a08
@@ -282,12 +217,6 @@ references:
     at both the Surveyor 3 and Apollo 12 sites as symbolic
   source: Dark Mission
   location: ch12:168171-168582
-  quote: The announcement is timed as Orion’s (Osiris’) Belt stars rise precisely
-    on the eastern lunar horizon, both at the future Surveyor 3 landing site (April
-    20, 1967 - Hitler’s birthday) and the *future* site of Apollo 12’s revisit (November
-    19, 1969). Disturbingly -- in a Space Agency filled with newly-imported Nazi scientists
-    and engineers, the symbolism is again one of “resurrection.” Foreshadowing...
-    what? (Hoagland)
   claim_id: 41841031-c5d6-4ffe-a1f9-a68e1731b7d6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-41841031-c5d6-4ffe-a1f9-a68e1731b7d6
@@ -295,17 +224,12 @@ references:
     before Apollo 11 flew
   source: Dark Mission
   location: ch12:32976-33158
-  quote: At the time of the Apollo 11 landing and Aldrin's "Osiris/Isis ceremony"
-    back at Tranquility Base, NASA had already ritually marked the site by landing
-    the unmanned Surveyor 3 probe there.
   claim_id: 9cff6b07-6082-4a14-a6e0-821f8207aa69
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9cff6b07-6082-4a14-a6e0-821f8207aa69
 - text: The Lunar Module Intrepid landed on 1969-11-24
   source: Dark Mission
   location: ch12:45775-45884
-  quote: the Apollo 12 landing site—at the precise date and time of the Lunar Module
-    Intrepid's landing, November 24, 1969.
   claim_id: 434d18d2-6b15-41c1-91d8-a3c3a913df2d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-434d18d2-6b15-41c1-91d8-a3c3a913df2d
@@ -313,9 +237,6 @@ references:
     at the time of landing
   source: Dark Mission
   location: ch12:45890-46044
-  quote: 'Once again, he found a *major* alignment above the landing site: Orion''s
-    belt star "Mintaka," hovering right at 19.5° … over Oceanus Procellarum [Fig.
-    5-11].'
   claim_id: 024aed02-fa79-4c88-89ce-a59ec935be31
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-024aed02-fa79-4c88-89ce-a59ec935be31
@@ -323,10 +244,6 @@ references:
     at the moment of Kennedy's announcement
   source: Dark Mission
   location: ch12:49593-49861
-  quote: with Mintaka, the same star in the belt of Orion which would stand 19.5º
-    over the landing site when Apollo 12 actually made it eight *years* in the future
-    … rising *precisely,* now, dead on the eastern horizon of the *future* Surveyor
-    3/Apollo 12 landing site [Fig. 5-13].
   claim_id: b81881fb-3e67-4ccb-8e0b-88ff88f556f4
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b81881fb-3e67-4ccb-8e0b-88ff88f556f4
@@ -334,8 +251,6 @@ references:
     the anchor point of his proposed lunar ritual network
   source: Dark Mission
   location: ch12:50268-50387
-  quote: strongly implied that *this* was the "anchor point" of the entire "lunar
-    ritual network" … *not* the Apollo 11 landing site.
   claim_id: 26887970-7691-4eab-94df-8bbaa65f127f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-26887970-7691-4eab-94df-8bbaa65f127f
@@ -343,8 +258,6 @@ references:
     Lunar Surface Experiments Package (ALSEP)
   source: Dark Mission
   location: ch14:47082-47215
-  quote: Color Fig. 7 - Apollo 12 frame AS12-46-6807 shows astronaut Alan Bean, wearing
-    specially tuned gold visor, carrying ALSEP experiment package.
   claim_id: a06bcb57-6be1-4aac-9d1d-425affc84224
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a06bcb57-6be1-4aac-9d1d-425affc84224
@@ -352,7 +265,6 @@ references:
     from the Hasselblad camera
   source: Dark Mission
   location: ch14:47320-47382
-  quote: Hexagonal halo around Bean is Hasselblad camera internal lens flare.
   claim_id: c6c56e3b-2fc3-452b-84d8-f709696b7fb1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c6c56e3b-2fc3-452b-84d8-f709696b7fb1
@@ -360,8 +272,6 @@ references:
     without a Slow Scan TeleVision backup
   source: Dark Mission
   location: ch20:10199-10308
-  quote: Interestingly, the color camera *was* carried on Apollo 12 as the primary
-    camera, without the SSTV as a back-up.
   claim_id: a28361a4-af28-4e49-b4d9-8343660fab64
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a28361a4-af28-4e49-b4d9-8343660fab64
@@ -369,9 +279,6 @@ references:
     its receiver and rendering it useless
   source: Dark Mission
   location: ch20:10312-10495
-  quote: A few minutes after deployment of the camera, Alan Bean managed to violate
-    his training and point it directly into the sun, which badly damaged the receiver.
-    This rendered the camera useless.
   claim_id: 56a50d15-3dec-4e9d-9e8d-ec8908b96f8a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-56a50d15-3dec-4e9d-9e8d-ec8908b96f8a

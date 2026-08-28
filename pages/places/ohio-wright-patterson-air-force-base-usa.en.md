@@ -115,8 +115,6 @@ references:
 - text: Foreign Technology Division formally created at Wright-Patterson in 1961
   source: In Plain Sight
   location: ch27:20127-20208
-  quote: The US Air Force Foreign Technology Division was formally created at the
-    base in 1961.
   claim_id: 30364433-6d8a-4bf1-abcf-aa43cfe054f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-30364433-6d8a-4bf1-abcf-aa43cfe054f7
@@ -125,8 +123,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:22740-22865
-  quote: I visited the Foreign Technology Division of Wright-Patterson Air Force Base,
-    where the Air Force centralized its “official” data.
   claim_id: cef02576-17a6-41f9-aca9-9837fec0bc4e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-cef02576-17a6-41f9-aca9-9837fec0bc4e
@@ -134,9 +130,6 @@ references:
     the building lobby
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:30639-30822
-  quote: I remember visiting the Foreign Technology Division at Wright-Patterson Air
-    Force Base. In the building lobby a MIG interceptor was hanging from the ceiling,
-    hammer and sickle on its tail.
   claim_id: d9c6d560-2e30-462d-a8a9-4e7f100d4589
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-d9c6d560-2e30-462d-a8a9-4e7f100d4589
@@ -144,8 +137,6 @@ references:
     aerospace craft and space debris
   source: In Plain Sight
   location: ch27:19989-20118
-  quote: Wright-Patterson was the place where all foreign technology, including Russian
-    and Chinese aerospace craft and space debris, was studied.
   claim_id: 2fc7ad82-7736-4631-823a-0356db769002
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2fc7ad82-7736-4631-823a-0356db769002
@@ -167,17 +158,12 @@ references:
 - text: Conspiracy theory alleges Roswell wreckage taken to Wright Field in 1947
   source: In Plain Sight
   location: ch27:17819-17994
-  quote: The UAP conspiracy theory has long alleged that Wright Field, now Wright-Patterson,
-    was where the pieces of the supposed Roswell craft wreckage were taken in 1947
-    for further investigation.
   claim_id: 61fc86d6-f87e-4659-8430-b5d7341bc6aa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61fc86d6-f87e-4659-8430-b5d7341bc6aa
 - text: Alien corpses from Roswell allegedly sent to Wright-Patterson
   source: In Plain Sight
   location: ch23:1206-1324
-  quote: The corpses of its dead alien comrades were sent to the Wright-Patterson
-    Air Force Base in Ohio
   claim_id: aea2b7f1-cb61-4be9-90f9-8934c7c2432e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-aea2b7f1-cb61-4be9-90f9-8934c7c2432e
@@ -213,8 +199,6 @@ references:
     until July 2013
   source: In Plain Sight
   location: ch20:7912-8014
-  quote: the commander of the US Air Force's research laboratory at Wright-Patterson
-    Air Force Base until July 2013
   claim_id: 692be948-667e-47a5-a940-0cc9d7161f21
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-692be948-667e-47a5-a940-0cc9d7161f21
@@ -232,22 +216,12 @@ references:
     McCasland had run'
   source: In Plain Sight
   location: ch20:8997-9721
-  quote: '''He mentioned he''s a sceptic, he''s not,'' a clearly frustrated DeLonge
-    wrote after the 2016 meeting. ''I''ve been working with him for four months. I
-    just got done giving him a four-hour presentation on the entire project a few
-    weeks ago. Trust me, the advice is already been happening on how to do all this.
-    He just has to say that out loud, but he is very, very aware – as he was in charge
-    of all of the stuff. When Roswell crashed, they shipped it to the laboratory at
-    Wright-Patterson Air Force Base. General McCasland was in charge of that exact
-    laboratory up to a couple years ago. He not only knows what I''m trying to achieve,
-    he helped assemble my advisory team. He''s a very important man.'''
   claim_id: bae97258-0aac-4690-b461-502f1b8a7df7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bae97258-0aac-4690-b461-502f1b8a7df7
 - text: Exon assigned commander of Wright-Patterson in 1964
   source: The Fourth Mind
   location: ch8:9436-9504
-  quote: In 1964, he was assigned as commander of Wright-Patterson Air Force Base
   claim_id: cfd13814-89be-4a68-adbf-c7b13c866448
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-cfd13814-89be-4a68-adbf-c7b13c866448
@@ -273,8 +247,6 @@ references:
 - text: Exon told Strieber (1988) he was still consulting on the nonhuman bodies question
   source: The Fourth Mind
   location: ch8:9510-9600
-  quote: and as late as 1988 told me that he was still consulting with groups there
-    working on the question
   claim_id: d08d8b59-df40-4913-8d9e-b1b56bb9de73
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d08d8b59-df40-4913-8d9e-b1b56bb9de73
@@ -291,44 +263,30 @@ references:
 - text: Goldwater denied access to secret UFO documents (1975)
   source: Communion
   location: ch14:20971-21131
-  quote: In the 1970s Senator Barry Goldwater was denied access to secret documents
-    concerning apparent research into UFOs being conducted at Wright Patterson Air
-    Force Base.
   claim_id: 9ce0e5f4-7a0c-4505-8037-2b7873b75ae5
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-9ce0e5f4-7a0c-4505-8037-2b7873b75ae5
 - text: Goldwater (1994) told Larry King about secret places at the base
   source: In Plain Sight
   location: ch27:18658-18818
-  quote: '''I think at Wright-Patterson, if you could get into certain places, you''d
-    find out what the air force and the government does know about UFOs,'' the Senator
-    told King.'
   claim_id: d55dc692-b39c-4fe4-a1af-e1cf2cd75499
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d55dc692-b39c-4fe4-a1af-e1cf2cd75499
 - text: 'Goldwater (1994): spaceship hushed up, called LeMay about a secret room'
   source: In Plain Sight
   location: ch27:18825-19012
-  quote: '''Reportedly, a spaceship landed. It was all hushed up. I called Curtis
-    LeMay and said, "General, I know we have a room at Wright-Patterson where you
-    put all this secret stuff. Can I go in there?"'
   claim_id: 8a4f8ce9-51da-429f-bbd3-49086f288c6e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8a4f8ce9-51da-429f-bbd3-49086f288c6e
 - text: LeMay angry at Goldwater's request, told him never to ask again
   source: In Plain Sight
   location: ch27:19020-19137
-  quote: I've never heard General LeMay get mad, but he got madder than hell at me
-    and said, "Don't ever ask me that question again!"'
   claim_id: ee13d4a0-bccb-4a00-82d7-d51057726c51
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ee13d4a0-bccb-4a00-82d7-d51057726c51
 - text: Kobitz invited to Wright-Patterson via NKA Science to examine strange metal
   source: In Plain Sight
   location: ch27:17313-17524
-  quote: Perhaps because of this expertise, Kobitz mentioned that, during his time
-    at NKA, he was invited to visit Wright-Patterson Air Force Base in Dayton, Ohio,
-    to examine some strange pieces of metal held under high security.
   claim_id: effb82f7-a46d-4c5d-bf1d-d6eae3fb9479
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-effb82f7-a46d-4c5d-bf1d-d6eae3fb9479
@@ -345,8 +303,6 @@ references:
 - text: Kobitz was shown a strange piece of metal at the base
   source: In Plain Sight
   location: ch27:20312-20400
-  quote: Nat Kobitz’s admission that he was shown a strange metal at Wright-Patterson
-    tweaked my interest.
   claim_id: 2797929f-fa20-4a30-b883-6d7669da6328
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2797929f-fa20-4a30-b883-6d7669da6328
@@ -362,9 +318,6 @@ references:
 - text: Kobitz saw material reported as a titanium alloy not known to the USAF
   source: In Plain Sight
   location: ch27:20804-20977
-  quote: ‘I saw a piece of piece of material that was reported to me as being a titanium
-    alloy that was not known to the air force. I did not know what it was, I was not
-    told what it was.’
   claim_id: 4064203b-e546-4d7e-9a84-b488efb1b13f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4064203b-e546-4d7e-9a84-b488efb1b13f
@@ -418,8 +371,6 @@ references:
 - text: 'Kobitz: no known industrial process could replicate the bond he saw'
   source: In Plain Sight
   location: ch27:21808-21955
-  quote: Kobitz’s expert opinion was there was no known industrial process that could
-    replicate the bond he saw on that curious fragment of metal at Wright-Patterson.
   claim_id: 9bd8669e-e655-4ed8-b916-a224fd85b72b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9bd8669e-e655-4ed8-b916-a224fd85b72b
@@ -438,8 +389,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:7530-7673
-  quote: I called Dr. Hynek to alert him to the sightings, and he in turn called Project
-    Blue Book in Dayton, Ohio, to propose that they investigate at once.
   claim_id: a3328a6b-ca32-4a63-82b5-239d90fb7934
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a3328a6b-ca32-4a63-82b5-239d90fb7934
@@ -447,7 +396,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:7849-7911
-  quote: The case hasn’t been reported officially to the Air Force, he said.
   claim_id: ba11d2d1-4ca2-4793-bbf1-cb976fb6cdd7
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ba11d2d1-4ca2-4793-bbf1-cb976fb6cdd7
@@ -455,9 +403,6 @@ references:
     Division
   source: In Plain Sight
   location: ch10:1165-1321
-  quote: Another project, Operation Blue Fly, was proposed to deliver the recovered
-    objects to the Foreign Technology Division at Wright Patterson Air Force Base
-    in Ohio.
   claim_id: 8e0d8781-d634-4990-b713-58afff5960f4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8e0d8781-d634-4990-b713-58afff5960f4
@@ -472,26 +417,18 @@ references:
     programme'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch19:1427-1616
-  quote: Eric and some of our other colleagues were familiar with TRW's rumored crash-retrieval
-    program run out of Wright-Patterson Air Force Base in Ohio, and they shared this
-    view, based on their recoveries.
   claim_id: 53cadf97-5e8c-4d12-84dc-9e262df25d59
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-53cadf97-5e8c-4d12-84dc-9e262df25d59
 - text: Wright-Patterson laboratory formerly known as the Foreign Technology Division
   source: In Plain Sight
   location: ch20:8119-8216
-  quote: the Wright-Patterson Air Force Base laboratory, which used to be known as
-    the Foreign Technology Division
   claim_id: 5097414c-ff8d-4470-bfc2-eacb1dfd09c6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5097414c-ff8d-4470-bfc2-eacb1dfd09c6
 - text: Whistleblowers claim laboratory houses recovered alien craft; military denies
   source: In Plain Sight
   location: ch20:8226-8437
-  quote: Numerous purported whistleblowers and insiders have claimed for years that
-    this secure installation is a veritable underground carpark of recovered alien
-    craft and technology, a claim adamantly denied by the US military.
   claim_id: 36f6a1b5-451f-4e64-b8ab-a09105a60315
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-36f6a1b5-451f-4e64-b8ab-a09105a60315
@@ -509,7 +446,6 @@ references:
 - text: Wright-Patterson recipient of 1956 Takala UAP landing cables
   source: In Plain Sight
   location: ch9:3948-4018
-  quote: Wright Patterson Air Force Base in the USA was the recipient of these cables.
   claim_id: a76b00d8-a8fb-42e6-b924-de31b0d72c5e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a76b00d8-a8fb-42e6-b924-de31b0d72c5e

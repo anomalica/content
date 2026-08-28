@@ -55,10 +55,6 @@ references:
     Roosevelt strike group in late 2014
   source: In Plain Sight
   location: ch22:344-593
-  quote: In late 2014, two pilots in Super Hornet F/A-18 fighter jets had been training
-    for imminent combat operations in the Middle East, as part of a carrier strike
-    group led by the nuclear-powered and nuclear-armed flagship aircraft carrier USS
-    Theodore Roosevelt.
   claim_id: 954d60d5-7825-49eb-9ebf-e1be01489808
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-954d60d5-7825-49eb-9ebf-e1be01489808
@@ -66,9 +62,6 @@ references:
     every time they flew as training continued into 2015
   source: In Plain Sight
   location: ch22:3724-3920
-  quote: The stories from the east coast Roosevelt training exercises revealed how,
-    as the training off the east coast rolled into 2015, pilots encountered these
-    anomalous objects almost every time they flew.
   claim_id: b2e94a80-e819-4624-a0e4-ee4d29c9d4e4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b2e94a80-e819-4624-a0e4-ee4d29c9d4e4
@@ -76,8 +69,6 @@ references:
     radar, unlike the jets in the 2004 Nimitz encounter
   source: In Plain Sight
   location: ch22:652-764
-  quote: unlike those on the USS Nimitz ten years earlier, they had new advanced APG-79
-    electronic beam scanning radar systems
   claim_id: cc66340d-b159-4c82-a8ab-023a0b1de83c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cc66340d-b159-4c82-a8ab-023a0b1de83c
@@ -85,9 +76,6 @@ references:
     a comprehensive battlespace overview
   source: In Plain Sight
   location: ch22:773-946
-  quote: Carrier Strike Group Twelve, as it was known, also had a brand-new integrated
-    data-link capability, giving commanders a comprehensive overview of the battlespace
-    like never before.
   claim_id: 67e6e739-1209-4895-b594-f270cebb425d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-67e6e739-1209-4895-b594-f270cebb425d
@@ -95,7 +83,6 @@ references:
     encounters
   source: In Plain Sight
   location: ch22:954-1020
-  quote: New E-2D Hawkeye airborne early-warning aircraft were also in the air.
   claim_id: bea1250d-aec0-4b0e-a069-6a2f13686463
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bea1250d-aec0-4b0e-a069-6a2f13686463
@@ -103,8 +90,6 @@ references:
     objects
   source: In Plain Sight
   location: ch22:1026-1114
-  quote: For weeks, every pilot on almost every mission had been tracking strange
-    objects in the sky.
   claim_id: 42f15f1f-f1d7-48db-b912-bba993df731a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-42f15f1f-f1d7-48db-b912-bba993df731a
@@ -112,9 +97,6 @@ references:
     hypersonic speeds, altitudes from sea level to roughly 9,100 metres
   source: In Plain Sight
   location: ch22:1180-1361
-  quote: they showed unknown objects apparently hovering for hours and then flying
-    at instantaneous hypersonic speeds at altitudes ranging from 30,000 feet to sea
-    level
   claim_id: a3a60b2f-f351-4f5e-9e91-7845b3d1a367
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a3a60b2f-f351-4f5e-9e91-7845b3d1a367
@@ -122,8 +104,6 @@ references:
     to rule out false radar tracks
   source: In Plain Sight
   location: ch22:1372-1500
-  quote: when their jets’ infrared cameras started picking up the same objects, the
-    pilots realised these were not false radar tracks at all
   claim_id: d6e7e881-6c5b-4c5c-a52e-b3505c3b8a56
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d6e7e881-6c5b-4c5c-a52e-b3505c3b8a56
@@ -131,9 +111,6 @@ references:
     anomalous object pass through the gap between them
   source: In Plain Sight
   location: ch22:1863-2032
-  quote: the two fighters were flying in open skies barely 30 metres apart when, out
-    of nowhere, a mind-bogglingly anomalous object hurtled through the narrow gap
-    that separated them
   claim_id: ec0e8840-aafe-4cc2-88ce-5c019c02630f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ec0e8840-aafe-4cc2-88ce-5c019c02630f
@@ -142,11 +119,6 @@ references:
     the near-miss
   source: In Plain Sight
   location: ch22:2038-2399
-  quote: What the pilots saw was a translucent sphere, like ‘a giant soap bubble’,
-    that passed between the two jets. ‘It was basically a cube inside a sphere with
-    the points of the cube touching the outside of the sphere,’ navy fighter pilot
-    Lieutenant Ryan Graves said of the serious near-miss incident recounted to him
-    by his anonymous pilot colleague who experienced it.
   claim_id: 56fa3908-d548-4a13-91f4-0438b34b7372
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56fa3908-d548-4a13-91f4-0438b34b7372
@@ -154,10 +126,6 @@ references:
     sphere with a black cube inside whose edges touched the interior
   source: In Plain Sight
   location: ch22:2462-2754
-  quote: 'Christopher Mellon gave more detail about the mysterious cube-inside-a-sphere
-    object seen by the pilots in this incident: ‘They’re perhaps six to ten feet across.
-    And they’re transparent, like a soap bubble with a black cube inside. And the
-    edges of the cube are touching the interior of the bubble . . .’'
   claim_id: 34568746-2b6e-49b4-95a2-6de6e6e9e67d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34568746-2b6e-49b4-95a2-6de6e6e9e67d
@@ -166,10 +134,6 @@ references:
     procedure
   source: In Plain Sight
   location: ch22:5264-5554
-  quote: The pilots rationalised that such a craft could not possibly be part of some
-    covert US government project because the risk involved in deploying secret new
-    technology against your own pilots without warning was immense and a flagrant
-    breach of standard operating procedure.
   claim_id: 6a269a37-a40d-487d-b70a-63a3d5b967e9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6a269a37-a40d-487d-b70a-63a3d5b967e9
@@ -178,10 +142,6 @@ references:
     an hour later
   source: In Plain Sight
   location: ch22:5968-6235
-  quote: ‘What’s fascinating and interesting about these objects,’ Graves said, ‘is
-    that they’re up there when we take off, they’re doing their thing for our hour-and-a-half,
-    maybe two-hour flight, and then we land. And my buddy that takes off an hour later
-    is seeing the same things.’
   claim_id: 5facda27-1960-4a99-9001-c20ab15ed49c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5facda27-1960-4a99-9001-c20ab15ed49c
@@ -190,10 +150,6 @@ references:
     group
   source: In Plain Sight
   location: ch22:6246-6518
-  quote: Perhaps most disturbing of all was that when the USS Theodore Roosevelt left
-    Florida in March of 2015 for the Persian Gulf to be part of the battle against
-    ISIS in Iraq and Syria, these unknown craft apparently followed the carrier battle
-    group to the other side of the world.
   claim_id: 0626ab78-0b0d-45d8-9bc5-961e87b11d42
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0626ab78-0b0d-45d8-9bc5-961e87b11d42
@@ -201,9 +157,6 @@ references:
     airspace was so pervasive it was largely common knowledge among local flying units
   source: In Plain Sight
   location: ch22:4029-4214
-  quote: The ‘presence of the mysterious objects in the restricted training airspace
-    off America’s east coast was so pervasive that it was largely common knowledge
-    among local flying units,’ he wrote.
   claim_id: df8d28d6-5ed6-450c-823c-0fb9b1096a6b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df8d28d6-5ed6-450c-823c-0fb9b1096a6b
@@ -211,8 +164,6 @@ references:
     the US east coast
   source: In Plain Sight
   location: ch21:21734-21863
-  quote: it would later emerge that the Gimbal was almost certainly videoed sometime
-    in late 2014 or early 2015 off the east coast of the US
   claim_id: c00cd3b9-fa38-424b-a0a3-754ff9854383
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c00cd3b9-fa38-424b-a0a3-754ff9854383
@@ -220,8 +171,6 @@ references:
     filmed off the US east coast in late 2014 or early 2015
   source: In Plain Sight
   location: ch21:23042-23182
-  quote: His story revealed that this latest newly declassified Go-Fast video was
-    filmed off the east coast of the US sometime in late 2014 or early 2015.
   claim_id: c5997056-f7c7-4ca4-9925-58bdfab1e508
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5997056-f7c7-4ca4-9925-58bdfab1e508

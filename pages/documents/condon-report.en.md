@@ -72,9 +72,6 @@ references:
     and concluded no evidence existed for the reality of UFOs
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch6:5913-6099
-  quote: Professor Condon and his team, who had been picked because they were presumably
-    impartial and unprejudiced, went on to write a report stating that no evidence
-    existed for the reality of UFOs.
   claim_id: 9e17534a-19bf-43f1-926d-ce2e96f05bcd
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9e17534a-19bf-43f1-926d-ce2e96f05bcd
@@ -82,8 +79,6 @@ references:
     investigation into UAP
   source: In Plain Sight
   location: ch10:22675-22790
-  quote: Dr Edward Condon and his team of scientists had been recruited by the air
-    force to do an objective and independent investigation.
   claim_id: 1d58bd59-bb55-4878-8b23-8a5467cd09aa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d58bd59-bb55-4878-8b23-8a5467cd09aa
@@ -103,9 +98,6 @@ references:
     out a proposed strategy for the university's role
   source: In Plain Sight
   location: ch10:21836-22039
-  quote: In August 1966, an enlightening memorandum supporting this notion of an official
-    cover-up was written by a university staffer and former intelligence officer to
-    two senior officials at the University of Colorado.
   claim_id: c13b65bf-44b1-497a-a9e0-932e7a1103c4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c13b65bf-44b1-497a-a9e0-932e7a1103c4
@@ -188,25 +180,18 @@ references:
     that added to scientific knowledge
   source: In Plain Sight
   location: ch10:22805-23006
-  quote: It came as no surprise to anyone that two years later, in 1968, the final
-    Condon Report declared that ‘nothing has come from the study of UFOs in the past
-    twenty-one years that has added to scientific knowledge’.
   claim_id: 3c4ddf8c-f232-443d-ade5-e76454c33b8f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c4ddf8c-f232-443d-ade5-e76454c33b8f
 - text: The report concluded further study could not be justified
   source: In Plain Sight
   location: ch10:23018-23130
-  quote: Condon rejected the extra-terrestrial hypothesis for UAPs and concluded that
-    further study of them could not be justified.
   claim_id: 36bbf57e-7985-4757-a2dc-80c5e73853d4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-36bbf57e-7985-4757-a2dc-80c5e73853d4
 - text: The report rejected the extra-terrestrial hypothesis for UAP
   source: In Plain Sight
   location: ch10:23018-23130
-  quote: Condon rejected the extra-terrestrial hypothesis for UAPs and concluded that
-    further study of them could not be justified.
   claim_id: 4e237f91-124e-4e05-9646-c98cf65ca991
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4e237f91-124e-4e05-9646-c98cf65ca991
@@ -214,17 +199,12 @@ references:
     very likely a 'genuine UFO'
   source: In Plain Sight
   location: ch10:23141-23330
-  quote: One sighting the report did conspicuously acknowledge as very likely a ‘genuine
-    UFO’ was the previously mentioned 1956 RAF Lakenheath-Bentwaters radar-visual
-    incident in the United Kingdom.21
   claim_id: b58eac6f-0cd6-4421-97bc-94ca682cb470
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b58eac6f-0cd6-4421-97bc-94ca682cb470
 - text: The report gave the USAF the justification it sought to end Project Blue Book
   source: In Plain Sight
   location: ch10:23334-23432
-  quote: The Condon Report gave the US Air Force the excuse it was looking for to
-    bail out of Project Blue Book.
   claim_id: df697174-c6da-413d-86bb-2e929fc78fcc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df697174-c6da-413d-86bb-2e929fc78fcc
@@ -244,8 +224,6 @@ references:
     report's conclusions
   source: In Plain Sight
   location: ch10:23438-23572
-  quote: In November 1968, it sought and received a rubber-stamp from the National
-    Academy of Sciences, who reviewed and endorsed the report’s conclusions.
   claim_id: 67082648-7c49-4de9-bbed-97007f8d9890
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-67082648-7c49-4de9-bbed-97007f8d9890
@@ -264,16 +242,12 @@ references:
     report
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch6:6648-6734
-  quote: It has taken almost ten years for serious researchers to begin challenging
-    the Condon Report.
   claim_id: b2a09182-88da-4f2f-96a0-930ea9cc1c13
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-b2a09182-88da-4f2f-96a0-930ea9cc1c13
 - text: Harry Turner's 1968 paper criticised the Condon Committee report
   source: In Plain Sight
   location: ch11:2213-2352
-  quote: Turner's paper eviscerated the 1968 Condon Committee Report, the US Air Force–funded
-    study of UFOs under the direction of physicist Edward Condon.
   claim_id: 4eb91b39-5333-4306-9775-240aa24a8dcd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4eb91b39-5333-4306-9775-240aa24a8dcd
@@ -281,9 +255,6 @@ references:
     and had been discredited by many reputable scientists
   source: In Plain Sight
   location: ch11:2370-2565
-  quote: '''The conclusions of the Condon report conflict with its own contents and
-    has been discredited by many reputable scientists . . . It would appear wrong
-    for Australia to remain ignorant of the true situation.'''
   claim_id: fe60a4f0-944f-4aa3-b476-3e38c92462dc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fe60a4f0-944f-4aa3-b476-3e38c92462dc
@@ -291,9 +262,6 @@ references:
     was to shut down public scrutiny of UAP sightings
   source: In Plain Sight
   location: ch10:24028-24200
-  quote: It is difficult to escape the impression that Project Blue Book and the Condon
-    Report’s true purpose was an attempt to shut down public interest in and the scrutiny
-    of UAP sightings.
   claim_id: 3e2dd1b6-71ec-4409-aa94-8d6198fddbc8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3e2dd1b6-71ec-4409-aa94-8d6198fddbc8
@@ -301,8 +269,6 @@ references:
     to charlatans and hoaxers
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch6:6187-6265
-  quote: leaving the field of UFO research wide open for charlatans and hoaxers of
-    all kinds
   claim_id: 1f5d60f5-3f23-4591-a921-bfdf7700a3f2
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-1f5d60f5-3f23-4591-a921-bfdf7700a3f2

@@ -68,8 +68,6 @@ references:
 - text: Robert Bigelow founded Bigelow Aerospace in Las Vegas in 1998
   source: In Plain Sight
   location: ch15:27880-27993
-  quote: In 1998, he founded Bigelow Aerospace, a space technology company based in
-    Las Vegas, Nevada.
   claim_id: 76c31464-649e-4c7b-9f6a-9fac418b2fe2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-76c31464-649e-4c7b-9f6a-9fac418b2fe2
@@ -87,10 +85,6 @@ references:
     flying saucer at Site 4 (S-4)
   source: In Plain Sight
   location: ch13:20633-20945
-  quote: Years later, in 1989, Lazar went public in an interview with investigative
-    journalist George Knapp on Las Vegas TV station KLAS, asserting (anonymously,
-    at first) his purported employment working on a recovered extra-terrestrial flying
-    saucer at the supposed S-4 facility, adjacent to Papoose Lake south of Area 51
   claim_id: 46f173e7-f7db-489f-92fa-3898e1612ad0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
@@ -98,9 +92,6 @@ references:
     via Janet Airlines
   source: In Plain Sight
   location: ch13:22336-22497
-  quote: Fruehauf worked at Area 51 for six years from 1979 through to 1985, commuting
-    each day from Las Vegas to the desert site on a private charter flight named Janet
-    Airlines.
   claim_id: 286a93a6-db74-4a2b-b916-5522fb82ba4b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-286a93a6-db74-4a2b-b916-5522fb82ba4b
@@ -168,8 +159,6 @@ references:
 - text: An alien logo is painted on the exterior of the Bigelow Aerospace building
   source: In Plain Sight
   location: ch17:5779-5906
-  quote: He is so fascinated with aliens that an alien logo is painted on the exterior
-    of his massive Bigelow Aerospace building in Las Vegas.
   claim_id: 7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
@@ -177,9 +166,6 @@ references:
     as a terahertz waveguide
   source: In Plain Sight
   location: ch24:3496-3701
-  quote: But then Puthoff later told a Las Vegas conference in 2018 that the bismuth/magnesium
-    samples 'turn out to be an excellent microscopic waveguide for very high frequency
-    electromagnetic radiation terahertz frequencies'.
   claim_id: cde7b204-8177-4d96-8aef-eb13cebb8668
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cde7b204-8177-4d96-8aef-eb13cebb8668
@@ -209,8 +195,6 @@ references:
     Las Vegas in 2002
   source: In Plain Sight
   location: ch26:367-500
-  quote: purporting to detail what Defense Intelligence Agency Admiral Tom Wilson
-    admitted to Eric Davis in a private meeting in Las Vegas in 2002
   claim_id: 25d34f3d-730c-4c74-897f-76f1c83fbe8d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25d34f3d-730c-4c74-897f-76f1c83fbe8d
@@ -218,17 +202,12 @@ references:
     car park
   source: In Plain Sight
   location: ch26:4818-5042
-  quote: In his memo, Davis claims to have met the recently retired Director of the
-    US Defense Intelligence Agency, Vice Admiral Thomas Wilson, on 16 October 2002,
-    in a car parked in the carpark of a corporate office building in Las Vegas.
   claim_id: a734c16c-98ee-485c-9c2e-abadb7cee2f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
 - text: Wilson denied visiting Las Vegas in 2002 or meeting Davis
   source: In Plain Sight
   location: ch26:7529-7611
-  quote: Wilson denied visiting Vegas in 2002 and had no knowledge of ever meeting
-    Dr Eric Davis.
   claim_id: 46abfcfa-818a-478e-b610-348bceec1359
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46abfcfa-818a-478e-b610-348bceec1359
@@ -236,8 +215,6 @@ references:
     deployment to Nellis AFB
   source: In Plain Sight
   location: ch26:7618-7745
-  quote: He said the only time he was ever in Las Vegas was for a Carrier Air Wing
-    Three deployment to Nellis Air Force Base in 1979 or 1980.
   claim_id: a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0

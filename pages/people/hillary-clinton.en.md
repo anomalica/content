@@ -54,8 +54,6 @@ references:
 - text: Clinton lost the 2016 election to Trump in November 2016
   source: In Plain Sight
   location: ch20:23537-23620
-  quote: But . . . to everyone’s shock and surprise, Hillary loses the election in
-    November 2016.
   claim_id: 9dc0c5ba-c756-412c-a48c-274e7387847a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9dc0c5ba-c756-412c-a48c-274e7387847a
@@ -63,8 +61,6 @@ references:
     strong interest in UAPs
   source: In Plain Sight
   location: ch14:1424-1540
-  quote: What is known is that, on entering the White House in 1993, both Bill and
-    Hillary Clinton took a strong interest in UAPs
   claim_id: 5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
@@ -83,11 +79,6 @@ references:
     Rockefeller
   source: In Plain Sight
   location: ch14:1735-2066
-  quote: Two years later, a photograph of Hillary Clinton and Rockefeller shows her
-    conspicuously carrying the book *Are We Alone?*3 by Australian Professor Paul
-    Davies... Rockefeller, a long-time advocate for 'UFO disclosure', gave Hillary
-    the book as a gift; it looks at the philosophical implications of the discovery
-    of extra-terrestrial life.
   claim_id: 42199e36-3096-4528-b02e-402873c460ed
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-42199e36-3096-4528-b02e-402873c460ed
@@ -123,8 +114,6 @@ references:
     manager to Hillary Clinton'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:13091-13242
-  quote: John Podesta, who had served as chief of staff to President Clinton, counselor
-    to President Barack Obama, and campaign manager to Hillary Clinton, was involved.
   claim_id: 79bece11-f229-43bb-832d-42c337d7c6e9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-79bece11-f229-43bb-832d-42c337d7c6e9
@@ -148,19 +137,12 @@ references:
     UAP files could be declassified
   source: In Plain Sight
   location: ch20:16632-16875
-  quote: '''I''ve talked to Hillary about that,'' Podesta said in March 2016, from
-    the campaign trail. ''It''s a little bit of a cause of mine, which is, people
-    really want to know what the government knows, and there are still classified
-    files that could be declassified.'''
   claim_id: 3c8b5ec8-dda7-4245-95dc-e88e7fdc1633
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c8b5ec8-dda7-4245-95dc-e88e7fdc1633
 - text: Clinton said she would consider a taskforce to investigate Area 51
   source: In Plain Sight
   location: ch20:17299-17522
-  quote: As the campaign rolled on, Hillary Clinton also made no secret of the fact
-    that, if she became president, she would consider a taskforce to investigate the
-    mysterious Area 51 military base in Nevada, long linked to UFO/UAP conspiracies.
   claim_id: 81af1730-3dcc-4557-afbb-7e88fd998e89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-81af1730-3dcc-4557-afbb-7e88fd998e89
@@ -168,9 +150,6 @@ references:
     the UFO mystery
   source: In Plain Sight
   location: ch20:17536-17734
-  quote: She also conceded it was possible our planet had been visited by aliens and
-    she pledged she would make it a priority in her administration to get to the bottom
-    of the UFO mystery.
   claim_id: 25317738-c91a-4e4a-a7cc-8d5e8c14974e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25317738-c91a-4e4a-a7cc-8d5e8c14974e
@@ -188,11 +167,6 @@ references:
     2016-07-28
   source: In Plain Sight
   location: ch20:1938-2309
-  quote: on 28 July 2016, no one could quite believe what Republican presidential
-    nominee Donald Trump said at a press conference in Florida. The candidate invited
-    Russia to hack his rival Hillary Clinton's email account. 'Russia, if you're listening,
-    I hope you're able to find the 30,000 emails that are missing,' he said. 'I think
-    you will probably be rewarded mightily by our press.'
   claim_id: 945cfa7d-fc7e-48ac-b57c-dd853a6d19e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-945cfa7d-fc7e-48ac-b57c-dd853a6d19e6

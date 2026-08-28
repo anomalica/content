@@ -90,8 +90,6 @@ references:
     detailed analysis possible
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:9141-9281
-  quote: The PCR step, in simple terms, creates a very large quantity of the originally
-    extracted DNA, making it possible to analyze the DNA in more detail.
   claim_id: 54c496e2-998d-49b1-bfb1-16b1c117bc92
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-54c496e2-998d-49b1-bfb1-16b1c117bc92
@@ -99,32 +97,24 @@ references:
     Mendocino County, California
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch13:256-507
-  quote: On a Friday night in April 1983, Mullis was driving up to his Anderson Valley
-    cabin in Mendocino County in northern California... Mullis made one of the great
-    discoveries of modern chemistry—the polymerase chain reaction (PCR)
   claim_id: d05fec6f-010b-4e9f-8f76-2ea4d8bb140f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d05fec6f-010b-4e9f-8f76-2ea4d8bb140f
 - text: Mullis is credited with the initial concept that led to PCR
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch7:5369-5516
-  quote: Dr. Kary Mullis is credited with the initial concept that led to the PCR
-    technique, a discovery that ultimately earned him the 1993 Nobel Prize in chemistry.
   claim_id: 42f914f2-74f0-4ef5-b50a-1080566306b3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-42f914f2-74f0-4ef5-b50a-1080566306b3
 - text: Mullis was awarded the 1993 Nobel Prize in Chemistry for PCR
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch7:5453-5516
-  quote: a discovery that ultimately earned him the 1993 Nobel Prize in chemistry
   claim_id: 90415310-69c6-4e4a-b343-7aad2a81191f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-90415310-69c6-4e4a-b343-7aad2a81191f
 - text: Modern DNA forensic work was made possible by PCR
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch7:5253-5357
-  quote: Such work was made possible only through a remarkable breakthrough, the PCR
-    (polymerase chain reaction) procedure.
   claim_id: d84e694a-5727-42d1-b525-1cead129558b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d84e694a-5727-42d1-b525-1cead129558b
@@ -132,13 +122,6 @@ references:
     contain very little material
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:65862-66380
-  quote: The most common way of doing the forensic analysis at the moment is using
-    PCR amplification of variable regions of DNA, called ‘short hand and repeats’
-    or STRs, but with forensics in particular, you often work with very small amounts
-    of material—it might be a single hair or even the DNA contained in the cells on
-    a fingerprint on a stamp, or something like that—so you’ve really got very little
-    DNA, there’s not really enough there to do any analysis on, somehow you’ve got
-    to increase the amount, and that’s done by PCR.
   claim_id: 9e109c1c-ec23-466e-a2e9-ba1f2ebb8f36
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-9e109c1c-ec23-466e-a2e9-ba1f2ebb8f36
@@ -146,10 +129,6 @@ references:
     of DNA into large amounts of identical copies
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch7:6821-7094
-  quote: '[Most] of the forensic techniques are generally powered by polymerase chain
-    reaction, or PCR, a revolutionary process that permits the faithful reproduction
-    of small, sometimes even vanishingly small, amounts of DNA. The process produces
-    large amounts (identical copies) of DNA'
   claim_id: eb5fc3d7-0323-456a-a935-4b7fa8e896ce
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-eb5fc3d7-0323-456a-a935-4b7fa8e896ce
@@ -157,8 +136,6 @@ references:
     and single hairs
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch7:7106-7201
-  quote: allows investigators to obtain a DNA profile from postage stamps, coffee
-    cups, and even single hairs.
   claim_id: 87a97d5c-c58d-485b-b5ef-6a8d9fce5a10
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-87a97d5c-c58d-485b-b5ef-6a8d9fce5a10
@@ -166,9 +143,6 @@ references:
     of mitochondrial DNA on Khoury's hair sample
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:4689-4915
-  quote: Our discussions then focused on the fact that techniques like polymerase
-    chain reaction (PCR) amplification and sequencing of mitochondrial DNA on the
-    hair sample might provide a real challenge to the credibility of abduction stories
   claim_id: 94ca98f2-f656-4339-b107-18947433df33
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-94ca98f2-f656-4339-b107-18947433df33
@@ -176,10 +150,6 @@ references:
     and freezing to release and purify DNA before PCR'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:8867-9134
-  quote: Following a prolonged extraction step at elevated temperatures, fragmentation
-    of the hair into smaller pieces, and repeated boiling and freezing with dry ice,
-    the DNA from each was released from its protein structure, purified, and prepared
-    for the PCR amplification step.
   claim_id: c41b15e9-3c54-4498-90b0-d319be6a4e1c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c41b15e9-3c54-4498-90b0-d319be6a4e1c
@@ -187,8 +157,6 @@ references:
     DNA comparisons
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:21698-21782
-  quote: UFOR (NSW) assisted with the funding of these preliminary PCR “human consensus”
-    DNA comparisons.
   claim_id: 901ab26f-e587-4b53-8c59-1c1fb07ec875
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-901ab26f-e587-4b53-8c59-1c1fb07ec875
@@ -196,10 +164,6 @@ references:
     samples both within normal human range but different from each other
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:33177-33428
-  quote: Ultimately we did the preliminary step of undertaking a mitochondrial DNA
-    PCR profiling comparison against the “human consensus” on both the “alien hair”
-    and Mike’s daughter’s sample. While different, both were within the normal “human
-    consensus” DNA range.
   claim_id: 1f5c1b72-3a0c-461c-9409-bfa897846ee3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1f5c1b72-3a0c-461c-9409-bfa897846ee3
@@ -207,8 +171,6 @@ references:
     due to chemical treatment
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:9645-9775
-  quote: Vivian’s hair sample did not produce PCR amplification products; the analysts
-    concluded that this might have been due to chemical treatment.
   claim_id: 4e8a879d-6679-40b2-bf36-24a6a08fd223
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4e8a879d-6679-40b2-bf36-24a6a08fd223
@@ -216,8 +178,6 @@ references:
     to extract non-human DNA
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:5123-5227
-  quote: A specialized (ribosomal) PCR DNA profiling was undertaken to extract non-human
-    DNA along with standard assessments.
   claim_id: 48280a30-11a7-4cca-8a58-9fcd12509871
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-48280a30-11a7-4cca-8a58-9fcd12509871
@@ -225,8 +185,6 @@ references:
     hair samples described in Chalker's book
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:1302-1427
-  quote: It needs to be made clear that Kary Mullis did not carry out the PCR DNA
-    testing of the Khoury hair samples detailed in this book.
   claim_id: d8be000c-0140-43cd-ab72-685693cc1920
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d8be000c-0140-43cd-ab72-685693cc1920
@@ -234,11 +192,6 @@ references:
     none from his wife''s hair'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch22:10152-10492
-  quote: 'Four PCR products were obtained in total: two from the hair of the tall
-    blond female (both left and right), two from the young man who collected the hair
-    (both left and right), but none from his wife whose hair may have been chemically
-    treated, so as to make recovery of DNA difficult (and who never came into direct
-    contact with the alien hair).'
   claim_id: c47755c1-1e26-4233-870e-012bb032296c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c47755c1-1e26-4233-870e-012bb032296c
@@ -246,9 +199,6 @@ references:
     DNA found on outer part
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch22:28167-28373
-  quote: we analysed a 2 cm portion of thin blond hair shaft, which was cut from just
-    above the root. That hard hair shaft required extensive grinding to release its
-    DNA; no contaminating DNA was found on any outer part.
   claim_id: 370ba6dc-5898-45f7-87b5-752dbe2740bf
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-370ba6dc-5898-45f7-87b5-752dbe2740bf
@@ -256,9 +206,6 @@ references:
     genetics with a rare 16,108 C-to-T mutation
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch22:28506-28699
-  quote: Those studies revealed an unusual mitochondrial DNA of Chinese genetics,
-    with a rare mutation 16,108 C-to-T, plus four other mutations 16,129, 16,162,
-    16,172, 16,304 in hypervariable region I (HVRI).
   claim_id: 82ca9693-8d40-411d-8bf7-21936da1a8fd
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-82ca9693-8d40-411d-8bf7-21936da1a8fd
@@ -266,10 +213,6 @@ references:
     for 40 cycles
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch22:30406-30681
-  quote: Our PCR methods also remain the same, where both the left and right-hand
-    sides of mitochondrial HVRI (hypervariable region I, nucleotides 16,020-16,400)
-    were amplified for 37 or 33 cycles respectively; while one small nuclear region
-    which codes for CCR5 was amplified for 40 cycles.
   claim_id: d6ecbb67-f031-4554-8b2b-a4625a76b457
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d6ecbb67-f031-4554-8b2b-a4625a76b457
@@ -277,11 +220,6 @@ references:
     within the same PCR run
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:74624-74945
-  quote: 'Two different samples from the hair root gave two different DNA sequences,
-    within the same PCR: 162555 genotype for 6/7 clones from the soft root (i.e.,
-    the skin area of the “donor”) and 16, 304 again (as in the shaft result from the
-    first round of testing) from the hard keratin inside the base of the hard shaft
-    of the hair).'
   claim_id: 99a90f1f-93b1-437b-b3ad-90a15eb2067a
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-99a90f1f-93b1-437b-b3ad-90a15eb2067a
@@ -289,8 +227,6 @@ references:
     of crime scenes
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:65657-65754
-  quote: has been drawing attention to the potential of deliberate contamination of
-    crime scenes with PCR products
   claim_id: 377fd9a5-4f6a-462c-9f6a-ed66cb4a74c4
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-377fd9a5-4f6a-462c-9f6a-ed66cb4a74c4
@@ -298,9 +234,6 @@ references:
     contaminated with PCR products
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:66538-66701
-  quote: if people want to contaminate a crime scene, using PCR as the diagnostic
-    test is a bit problematic because, as I said, you can contaminate a crime scene
-    using PCR products.
   claim_id: 34c36b61-50c9-4220-ad54-5c4561a87757
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-34c36b61-50c9-4220-ad54-5c4561a87757
@@ -308,18 +241,12 @@ references:
     the scene with PCR products
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:66711-66906
-  quote: You don’t have to distribute hairs or try to put a fingerprint on a wall
-    in the space that looks like it was accidentally put there during a crime—you
-    can just cover the whole scene with DNA PCR products.
   claim_id: e542cde1-bc4c-40c8-b7b1-ead0c9d24dc9
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e542cde1-bc4c-40c8-b7b1-ead0c9d24dc9
 - text: Berryman said it requires only a publicly available PCR kit and amplifier
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:66979-67174
-  quote: firstly, get access to the kit and amplifier, and that’s easy to do, it’s
-    just publicly available information—it’s like going down to the supermarket and
-    buying a litre of milk, it’s not hard to do
   claim_id: 15cdb5b0-0f66-4c06-b395-a6ab2f7c0821
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-15cdb5b0-0f66-4c06-b395-a6ab2f7c0821
@@ -327,9 +254,6 @@ references:
     on a stove
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:67178-67376
-  quote: then, do the PCR reaction and once again, that’s easy to do, it’s all publicly
-    available information, it doesn’t require any skill or any significant resource—in
-    fact, you can do it at home on your stove.
   claim_id: e9a7653b-5fb0-4931-9753-8874b1dafea3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e9a7653b-5fb0-4931-9753-8874b1dafea3
@@ -337,9 +261,6 @@ references:
     profiling
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:67383-67554
-  quote: Then just go to a crime scene and squirt it around, and that’s enough to
-    contaminate a crime scene from our data, virtually beyond any possibility of recovering
-    a genuine profile.
   claim_id: 3ab7fa4e-1e90-4bb3-98db-d45dae515997
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-3ab7fa4e-1e90-4bb3-98db-d45dae515997
@@ -347,9 +268,6 @@ references:
     ignored compared to lab efforts
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:67564-67799
-  quote: What concerned Berryman was that, while there was plenty of effort in resolving
-    such PCR-related contamination issues in a lab environment, the impact of deliberate
-    PCR contamination in the field, i.e., at crime scenes, seemed largely ignored.
   claim_id: 35a4092b-99d8-4429-bbe4-723423e36f5a
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-35a4092b-99d8-4429-bbe4-723423e36f5a
@@ -357,9 +275,6 @@ references:
     techniques
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:68034-68247
-  quote: Before someone suggests it, the chances of Peter Khoury having this sort
-    of knowledge, only now being discussed and debated in the field of forensics,
-    were certainly nil back in 1992 and pretty much the same even now.
   claim_id: 58ebe6fd-09d0-4222-b769-c1b4bb9c74ef
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-58ebe6fd-09d0-4222-b769-c1b4bb9c74ef
@@ -367,10 +282,6 @@ references:
     not impossible
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:68252-68527
-  quote: The dilemma now would be how anyone could fabricate a PCR “brew” in a similar
-    way that would contain the same rare genetic substitutions. Impossible? No, but
-    very difficult, given the rarity of the DNA profile and its unusual attributes
-    near the root and at the shaft of the hair.
   claim_id: 5b3ae527-9178-4efc-a64c-eaab40ca3ee3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5b3ae527-9178-4efc-a64c-eaab40ca3ee3
@@ -378,8 +289,6 @@ references:
     DNA profiling
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch21:481-591
-  quote: Even with standard PCR-based DNA profiling, considerable debate continues
-    about factors that might affect its accuracy.
   claim_id: bea25baa-3a67-4161-948b-e7dac09b4798
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-bea25baa-3a67-4161-948b-e7dac09b4798
@@ -387,10 +296,6 @@ references:
     out in the Gary Lowrey claw case
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:27313-27624
-  quote: six separate rounds of subsequent DNA analysis, using different and sometimes
-    very novel approaches, were carried out to bring this case to a conclusion. It
-    was necessary to invent a new polymerase chain reaction using novel primers to
-    the most conserved DNA sequences on Earth in order to finally resolve this case.
   claim_id: 57e6fcce-56d5-4265-9311-4e1034827ae8
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-57e6fcce-56d5-4265-9311-4e1034827ae8
@@ -398,10 +303,6 @@ references:
     enzymes
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:28131-28399
-  quote: Mollusks, particularly snails and slugs, secrete a thick mucus that contains
-    multiple inhibitors of many of the common enzymes that are fundamental to molecular
-    biology and DNA analysis, including polymerase chain reaction enzymes and those
-    used in standard molecular cloning.
   claim_id: 3a633a1e-4ea5-4b8d-8124-038d09e364c3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-3a633a1e-4ea5-4b8d-8124-038d09e364c3
@@ -409,8 +310,6 @@ references:
     identity
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:28635-28766
-  quote: Ultimately however rigorous DNA analysis using a novel set of oligonucleotide
-    primers for the polymerase chain reaction solved the puzzle
   claim_id: 2edb9b83-6e7e-4fda-b117-598479d83288
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-2edb9b83-6e7e-4fda-b117-598479d83288

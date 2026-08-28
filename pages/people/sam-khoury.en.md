@@ -39,8 +39,6 @@ references:
 - text: Sam Khoury is older than Peter Khoury by ten years.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:8629-8725
-  quote: Neither his brother, who is older than Peter by ten years, nor his father
-    had any idea what had happened.
   claim_id: 7b5d2a68-200b-43f4-83d4-bdd6eac4fa60
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7b5d2a68-200b-43f4-83d4-bdd6eac4fa60
@@ -48,8 +46,6 @@ references:
     watch it in the TV room.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:4432-4575
-  quote: Sam emerged and asked Peter if he wouldn’t mind watching the movie in his
-    room so that he, Sam, could watch it in his favorite chair in the TV room.
   claim_id: 66c703c9-75d0-4659-87d1-a1b052dac45c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-66c703c9-75d0-4659-87d1-a1b052dac45c
@@ -57,8 +53,6 @@ references:
     at about 11 p.m. while Sam Khoury slept in Peter's room.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:4319-4422
-  quote: At about 11 p.m. he and his father were watching television. His brother
-    Sam had been in Peter’s room, sleeping.
   claim_id: 709da64f-b02d-451f-8090-252872256903
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-709da64f-b02d-451f-8090-252872256903
@@ -77,9 +71,6 @@ references:
     in the TV room and had to wake Sam, who appeared dazed.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:8111-8277
-  quote: I jumped out of bed like a flash, I walked into the TV room where my dad
-    and brother (Sam) were. I noticed they were asleep. I woke my brother up—he looked
-    dazed and lost.
   claim_id: 79205583-d754-41ab-98bb-2a9253d12e2b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-79205583-d754-41ab-98bb-2a9253d12e2b
@@ -87,9 +78,6 @@ references:
     since Sam was normally a very light sleeper.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:9260-9432
-  quote: Sam was very puzzled by the fact that normally he was a very light sleeper.
-    That he, as well as his father, had seemingly been completely “zonked out” for
-    so long was very unusual.
   claim_id: 7c3bc2a2-db7c-49a4-a99f-8e1a235b4058
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7c3bc2a2-db7c-49a4-a99f-8e1a235b4058
@@ -97,9 +85,6 @@ references:
     recognising an unaccounted gap of roughly four hours.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:8996-9179
-  quote: Sam was initially skeptical, but then realized a good deal of time had passed—from
-    10:30 or 11 p.m. to something like 2:30 a.m.—and he began to accept that something
-    very strange had occurred.
   claim_id: 7715724c-2a0b-4fec-8673-84008ac9029c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7715724c-2a0b-4fec-8673-84008ac9029c

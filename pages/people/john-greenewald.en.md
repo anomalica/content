@@ -123,8 +123,6 @@ references:
     three officially acknowledged encounters
   source: In Plain Sight (2021)
   location: ch34:47692-47829
-  quote: John Greenewald Jr, 'U.S. Navy Releases Dates of Three Officially Acknowledged
-    Encounters with Phenomena', The Black Vault, 11 September 2019.
   claim_id: f66c86f4-cc07-4c4b-a267-7decee52d115
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f66c86f4-cc07-4c4b-a267-7decee52d115
@@ -132,8 +130,6 @@ references:
     with TTSA
   source: In Plain Sight (2021)
   location: ch34:51759-51881
-  quote: John Greenewald/TheBlackVault.com, 'U.S. Army Releases Agreement with To
-    The Stars Academy of Arts & Science', 18 October 2019.
   claim_id: fbe357d8-af29-4fa1-b676-e4819f6eb946
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fbe357d8-af29-4fa1-b676-e4819f6eb946

@@ -45,8 +45,6 @@ references:
     administration in 1981
   source: In Plain Sight
   location: ch12:7036-7157
-  quote: Jimmy Carter's liberal presidential administration was followed by conservative
-    Republican Ronald Reagan's presidency in 1981
   claim_id: e7890490-b3eb-4580-8f0d-f4d257869e4b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e7890490-b3eb-4580-8f0d-f4d257869e4b
@@ -54,8 +52,6 @@ references:
     and Trump were each briefed in some way on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:16189-16330
-  quote: 'As far as I know, the following US presidents were briefed in some way:
-    Truman, Eisenhower, JFK, LBJ, Carter, Reagan, George H. W. Bush, and Trump.'
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
@@ -63,9 +59,6 @@ references:
     with UAP, not just nuclear weapons
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:17198-17374
-  quote: As for Reagan, I have reason to believe that the Strategic Defense Initiative
-    (SDI), nicknamed the Star Wars program, which Reagan championed, was concerned
-    with UAP, not just nukes.
   claim_id: 48e38691-af41-4320-8f3b-b20e58bf35bf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48e38691-af41-4320-8f3b-b20e58bf35bf
@@ -73,8 +66,6 @@ references:
     event of an alien invasion
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:17452-17598
-  quote: we know that he once suggested to his USSR counterpart, Mikhail Gorbachev,
-    that the US and the USSR should work together in the event of an alien invasion.
   claim_id: 47f8adf1-bae1-4187-b5ea-765fa8440f63
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-47f8adf1-bae1-4187-b5ea-765fa8440f63
@@ -82,9 +73,6 @@ references:
     an alien threat, and asked whether such a force might already be among us
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:17884-18071
-  quote: I occasionally think how quickly our differences worldwide would vanish if
-    we were facing an alien threat from outside this world. And yet, I ask you, is
-    not an alien force already among us?
   claim_id: 45a56889-5bfc-4532-b859-7651e5213e1b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-45a56889-5bfc-4532-b859-7651e5213e1b
@@ -92,10 +80,6 @@ references:
     'Trust but Verify' treaty with the Soviets
   source: In Plain Sight
   location: ch13:29725-29966
-  quote: A previously very highly security cleared defence communications intelligence
-    insider, Fish has extensive experience working on classified programs, including
-    President Reagan's 'Trust but Verify' nuclear missile disarmament treaty with
-    the Soviets
   claim_id: 64e46480-d6c2-48a7-8b12-4d7cb07b1de1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-64e46480-d6c2-48a7-8b12-4d7cb07b1de1

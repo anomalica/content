@@ -77,15 +77,12 @@ references:
 - text: Directed NACA and was influential in major aerospace projects and companies.
   source: Dark Mission
   location: ch. 12
-  quote: The NACA director, Dr. Vannevar Bush, was influential in many major aerospace
-    projects and companies.
   claim_id: 30105898-60f2-474f-8e0f-90a8f11d62e7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-30105898-60f2-474f-8e0f-90a8f11d62e7
 - text: Co-founded Raytheon, still a major defence contractor.
   source: Dark Mission
   location: ch. 12
-  quote: He was co-founder of Raytheon systems (still a major defense contractor)
   claim_id: 99250b1e-e819-49e7-894f-741767ab81dc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-99250b1e-e819-49e7-894f-741767ab81dc
@@ -93,22 +90,18 @@ references:
     the Manhattan Project.
   source: Dark Mission
   location: ch. 12
-  quote: was director of the Office of Scientific Research and Development, which
-    oversaw the Manhattan Project
   claim_id: 0a367026-8ec5-4cb1-939c-2d317389121f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0a367026-8ec5-4cb1-939c-2d317389121f
 - text: Served as President Franklin D. Roosevelt's scientific advisor.
   source: Dark Mission
   location: ch. 12
-  quote: He was also President Roosevelt's scientific advisor
   claim_id: 251d055c-d679-4cb7-87dc-adeb3b6ae95c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-251d055c-d679-4cb7-87dc-adeb3b6ae95c
 - text: Hugh L. Dryden became NACA director in 1949, after Bush left.
   source: Dark Mission
   location: ch. 12
-  quote: (Director of NACA since 1949, after Dr. Bush left)
   claim_id: ed58c20a-32ae-4b03-8d5e-dc3df6e35af5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ed58c20a-32ae-4b03-8d5e-dc3df6e35af5
@@ -116,8 +109,6 @@ references:
     von Braun, to the United States.
   source: Dark Mission
   location: ch. 12
-  quote: played a key role in bringing many of the German rocket scientists, like
-    Wernher Von Braun, to the United States
   claim_id: 4f6adb27-4225-4780-badc-8a277c81ca2c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f6adb27-4225-4780-badc-8a277c81ca2c
@@ -125,9 +116,6 @@ references:
     according to the source.
   source: Dark Mission
   location: ch. 12
-  quote: Bush originally played a key role in bringing Von Braun and other "ardent
-    Nazis" to the U.S. illegally, in direct violation of President Truman's executive
-    orders.
   claim_id: b08f6750-e7ec-4ec0-bcb3-67d32f70579c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b08f6750-e7ec-4ec0-bcb3-67d32f70579c
@@ -135,20 +123,12 @@ references:
     unimportant, citing Churchill, Stalin and Roosevelt as comparably well-known figures.
   source: Dark Mission
   location: ch. 12
-  quote: when certain Nazi rocket scientists were deemed as "too unimportant" to be
-    brought to the U.S. by a military panel, Bush intervened with a scathing letter
-    to the Joint Intelligence Objectives Agency (JIOA) in which he derided the military
-    for not knowing "even elementary information on Germans whose names are as well
-    known in scientific circles as Churchill, Stalin and Roosevelt are in political
-    circles."
   claim_id: 6b5bc520-6122-4f98-b77a-d8eb5416fcc0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6b5bc520-6122-4f98-b77a-d8eb5416fcc0
 - text: Insisted several of the German rocket scientists were of Nobel Prize stature.
   source: Dark Mission
   location: ch. 12
-  quote: He insisted that several of the scientists were "intellectual giants of Nobel
-    Prize stature."
   claim_id: dc715a02-2e81-4674-b73b-f85470ed12b6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-dc715a02-2e81-4674-b73b-f85470ed12b6
@@ -156,10 +136,6 @@ references:
     past overlooked.'
   source: Dark Mission
   location: ch. 12
-  quote: Fortunately (for Von Braun) he had "friends in high places," not just in
-    Germany, but in the U.S.—in the personages of Drs. Bush and Von Karman. Their
-    influence was so powerful, that doubts expressed by the field investigators about
-    Von Braun's SS Nazi past were ultimately "conveniently" overlooked.
   claim_id: f8969e46-07af-4d73-844c-e04fa46cb12d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f8969e46-07af-4d73-844c-e04fa46cb12d
@@ -167,8 +143,6 @@ references:
     to the US.'
   source: Dark Mission
   location: ch. 12
-  quote: Bush's efforts were clearly a significant factor in some of the Germans being
-    brought to U.S.
   claim_id: 2da8b879-02af-4feb-ab9d-19ff3fcb2ef9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2da8b879-02af-4feb-ab9d-19ff3fcb2ef9
@@ -176,8 +150,6 @@ references:
     secret ballistic missile programmes.
   source: Dark Mission
   location: ch. 12
-  quote: With the help of Bush, the Pentagon supplied a steady stream of brainpower
-    to NASA through its secret ballistic missile programs led by Wernher Von Braun.
   claim_id: a77b32cd-4cff-46e3-9ffe-bab16306b395
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a77b32cd-4cff-46e3-9ffe-bab16306b395
@@ -185,9 +157,6 @@ references:
     War.
   source: Dark Mission
   location: ch. 12
-  quote: Shortly before the war, Bush was also working closely with Dr. Donald Menzel,
-    an astronomer at Harvard University, on the development of a "differential analyzer"—the
-    world's first (modern) analog computer.
   claim_id: 951afd96-5497-41e1-bedd-98b6d68a6d2f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-951afd96-5497-41e1-bedd-98b6d68a6d2f
@@ -195,9 +164,6 @@ references:
     at MIT.'
   source: Dark Mission
   location: ch. 12
-  quote: I first knew DHM [Menzel] of Cambridge, MA, in either 1934 or 1935 when I
-    was engaged in designing and building a machine known as a differential analyzer
-    at MIT, where I was then VP and Dean of Engineering.
   claim_id: 2e83dc0b-e772-4ca2-916b-9df6c2492a19
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2e83dc0b-e772-4ca2-916b-9df6c2492a19
@@ -205,10 +171,6 @@ references:
     to astrophysics.'
   source: Dark Mission
   location: ch. 12
-  quote: Dr. M., who was then an assistant or associate professor in the astronomy
-    department of Harvard University, was much interested in the possibility of applying
-    the differential analyzer to the solution of certain astronomical and astrophysical
-    problems.
   claim_id: 655851eb-8f17-4a98-9af4-b379b49d3044
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-655851eb-8f17-4a98-9af4-b379b49d3044
@@ -216,11 +178,6 @@ references:
     Carnegie Institution in 1939.'
   source: Dark Mission
   location: ch. 12
-  quote: This mutual interest led to a technical association of some intimacy over
-    a period of about a year. Thereafter, until I became associated with the Carnegie
-    Institution in 1939, we met in connection with scientific or technical matters
-    fairly frequently, usually in connection with the development of specialized machinery
-    for astrophysical use.
   claim_id: 39e2e05f-b41e-4946-b016-ca44fc85dc14
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-39e2e05f-b41e-4946-b016-ca44fc85dc14
@@ -228,24 +185,18 @@ references:
     centuries ahead.'
   source: Dark Mission
   location: ch. 12
-  quote: Although not overtly stated, Bush and Menzel's objective was to develop a
-    computer that could allow them to predict—and centuries ahead—the future positions
-    of stars and planets from any point in the solar system.
   claim_id: 9cb4b2b2-9664-4ed8-b6ea-01f8aac8e896
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9cb4b2b2-9664-4ed8-b6ea-01f8aac8e896
 - text: 'Hoagland: the analyzer eventually enabled NASA''s ''occult goals''.'
   source: Dark Mission
   location: ch. 12
-  quote: It was this pioneering work with Menzel which eventually—critically—enabled
-    NASA to accomplish some of its "occult" goals.
   claim_id: 298288c5-47ea-4ec1-a75b-0f0a0f4900cf
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-298288c5-47ea-4ec1-a75b-0f0a0f4900cf
 - text: Was a 33rd-degree Scottish Rite Freemason.
   source: Dark Mission
   location: ch. 12
-  quote: He was also a 33° Scottish Rite Freemason.
   claim_id: 71cec79b-4d2b-49fc-9ca6-f868229d412d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-71cec79b-4d2b-49fc-9ca6-f868229d412d
@@ -253,7 +204,6 @@ references:
     Shandera.
   source: Dark Mission
   location: ch. 12
-  quote: included both Bush and Menzel as founding members
   claim_id: a572a8f5-a29b-4d13-8123-45fd3f1a2c87
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a572a8f5-a29b-4d13-8123-45fd3f1a2c87
@@ -299,8 +249,6 @@ references:
 - text: Sarbacher told Smith a small group headed by Bush was studying the saucers.
   source: In Plain Sight
   location: ch. 8
-  quote: Their modus operandi is unknown, but a concentrated effort is being made
-    by a small group headed by Dr Vannevar Bush.
   claim_id: aa4c5eec-51f9-41d5-bae0-43d183816502
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-aa4c5eec-51f9-41d5-bae0-43d183816502

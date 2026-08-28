@@ -56,9 +56,6 @@ references:
     and Arnold's report of nine flat, saucer-like discs over Mount Rainier
   source: American Cosmic
   location: char:33707-33902
-  quote: Scholars of the history of the flying saucer usually date its emergence to
-    the beginning of the Cold War and pilot Kenneth Arnold's sighting of nine, flat,
-    saucerlike discs over Mount Rainier in 1947.
   claim_id: 0bb146cf-7ea7-4d36-b2d5-4774e9fa33da
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0bb146cf-7ea7-4d36-b2d5-4774e9fa33da
@@ -66,8 +63,6 @@ references:
     saucers'
   source: In Plain Sight
   location: ch7:5874-6000
-  quote: On 24 June 1947, businessman Kenneth Arnold had his seminal sighting of what
-    became notoriously known in the press as ‘flying saucers’.
   claim_id: e2c49e97-893e-4c67-9ec1-e9cf7de380af
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e2c49e97-893e-4c67-9ec1-e9cf7de380af
@@ -75,18 +70,12 @@ references:
     for a $5,000 reward
   source: In Plain Sight
   location: ch7:6010-6247
-  quote: Arnold was a private pilot and, in the hope of winning a generous $5000 reward
-    on offer for any sighting of a downed US military transport aircraft, he took
-    a plane up to search in the vicinity of Mount Rainer, Washington, south-east of
-    Seattle.
   claim_id: 79f7538f-d978-48c0-a237-a76adfe2786b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-79f7538f-d978-48c0-a237-a76adfe2786b
 - text: Arnold first saw a brilliant flashing light, worried it might be another aircraft
   source: In Plain Sight
   location: ch7:6256-6402
-  quote: In flight, in the middle of a bright afternoon, he at first saw a brilliant
-    flashing light in the distance, which he was worried might be another plane
   claim_id: edda2fc9-6a32-4540-bde0-c62668b0ae4a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-edda2fc9-6a32-4540-bde0-c62668b0ae4a
@@ -94,8 +83,6 @@ references:
     away
   source: In Plain Sight
   location: ch7:6409-6516
-  quote: and then from a distance of 30 to 40 kilometres away, he noticed a series
-    of bright flashes north of Mount Rainier.
   claim_id: d19e940e-d680-4693-a524-c91a27f1567c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d19e940e-d680-4693-a524-c91a27f1567c
@@ -103,15 +90,12 @@ references:
     snow-covered slopes
   source: In Plain Sight
   location: ch7:6525-6626
-  quote: The objects flew towards the mountain and Arnold watched as they passed in
-    front of its snow-covered slopes.
   claim_id: b48c3f84-5b68-4615-bf63-b09da5870e95
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b48c3f84-5b68-4615-bf63-b09da5870e95
 - text: Arnold described the objects' shape as convex, with one crescent-shaped
   source: In Plain Sight
   location: ch7:6634-6709
-  quote: He described their shape as convex with one object differently as crescent-shaped.
   claim_id: c4d1177b-6f78-4423-b78e-8282c2c38291
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4d1177b-6f78-4423-b78e-8282c2c38291
@@ -130,8 +114,6 @@ references:
     pilot
   source: In Plain Sight
   location: ch7:6717-6790
-  quote: As a pilot, Arnold was experienced in approximating the speed of distant
-    objects
   claim_id: 3e15c754-c0b8-44f2-a84e-f26fbcece129
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3e15c754-c0b8-44f2-a84e-f26fbcece129
@@ -212,8 +194,6 @@ references:
     the Air Force existed'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch11:54501-54649
-  quote: This was a year before Kenneth Arnold, mind you, several years before the
-    creation of Project Blue Book. Dammit, the Air Force didn't even exist in 1946!
   claim_id: 39e50285-c66b-464c-a675-c8b2d223eb78
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-39e50285-c66b-464c-a675-c8b2d223eb78
@@ -221,9 +201,6 @@ references:
     light appear in their home'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch14:3473-3644
-  quote: After the pilot Kenneth Arnold’s famous 1947 UAP sighting, which was a couple
-    of weeks before the Roswell crashes, he and his family allegedly had balls of
-    light in their home.
   claim_id: f14cba03-5b02-422b-8b43-c1d566982d92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f14cba03-5b02-422b-8b43-c1d566982d92

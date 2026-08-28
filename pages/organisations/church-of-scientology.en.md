@@ -47,31 +47,24 @@ references:
 - text: Hubbard founded Dianetics and later the Church of Scientology
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch. 13
-  quote: Ron Hubbard, on the other hand, founded Dianetics and, later, the Church
-    of Scientology.
   claim_id: 67fdaf08-e23f-417f-acc3-bd110d99dfad
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-67fdaf08-e23f-417f-acc3-bd110d99dfad
 - text: Hubbard married Sara Northrup before founding the Church
   source: Dark Mission
   location: ch. 12
-  quote: Hubbard went on to marry Betty and eventually form the Church of Scientology
   claim_id: 4bde6a83-7d48-437d-aedf-1ad63d0f6358
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4bde6a83-7d48-437d-aedf-1ad63d0f6358
 - text: Hubbard was Parsons' compatriot in occult rites before founding the Church
   source: Dark Mission
   location: ch. 12
-  quote: His compatriot in many of these bizarre rites was one L. Ron Hubbard [Fig.
-    5-19], who later went on to form the controversial "Church of Scientology"
   claim_id: ead61858-187f-4be6-badf-20bf04939405
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ead61858-187f-4be6-badf-20bf04939405
 - text: 'Vallée: Hubbard is said to have practised ritual magic with Parsons'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch. 4
-  quote: Indeed, the inventor of Dianetics is said to have practiced ritual magic
-    with a rocket expert named Jack Parsons
   claim_id: d1872e72-d885-47b3-96e3-15eb776002eb
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-d1872e72-d885-47b3-96e3-15eb776002eb
@@ -79,8 +72,6 @@ references:
     belief process
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch. 13
-  quote: The same links can be traced around people like Jack Parsons, who founded
-    JPL, and Ron Hubbard, who founded Scientology.
   claim_id: 2c586e2f-7861-4683-bf72-73c3affe2a70
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2c586e2f-7861-4683-bf72-73c3affe2a70
@@ -88,8 +79,6 @@ references:
     cult
   source: Dark Mission
   location: ch. 12
-  quote: The Church of Scientology claims that he was sent by the U.S. Navy to infiltrate
-    and break up a "black magic cult" operating in Los Angeles.
   claim_id: 4d9fb5e1-3ec0-41b4-9653-429cbdde2cc0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4d9fb5e1-3ec0-41b4-9653-429cbdde2cc0
@@ -97,17 +86,12 @@ references:
     to infiltrate the OTO and FAS
   source: Dark Mission
   location: ch. 5
-  quote: After seeing the documentation supplied to me by the Church of Scientology,
-    I find the premise a plausible one.
   claim_id: 630b43e8-dd36-4538-8c53-5db1a973caa7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-630b43e8-dd36-4538-8c53-5db1a973caa7
 - text: FAS described as a group of disaffected Manhattan Project veterans
   source: Dark Mission
   location: ch. 5
-  quote: a group called the Federation of American Scientists, a left wing group of
-    disaffected Manhattan Project veterans who were dismayed at the military uses
-    of atomic weapons
   claim_id: 23c47feb-7214-4c6f-afc3-a45df43a8bdc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-23c47feb-7214-4c6f-afc3-a45df43a8bdc
@@ -115,16 +99,12 @@ references:
     role at the OTO temple
   source: Dark Mission
   location: ch. 5
-  quote: I will admit that I now hold that the weight of the evidence supports the
-    Scientologist's version of events over the less flattering one.
   claim_id: 1e75a06c-1766-4b67-82ac-399c975489de
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1e75a06c-1766-4b67-82ac-399c975489de
 - text: Bara invited to the L. Ron Hubbard Life Exhibition, October 2008
   source: Dark Mission
   location: ch. 5
-  quote: In October, 2008, I was invited to the visit the L. Ron Hubbard Life Exhibition
-    in Hollywood and meet with several members of the Church of Scientology.
   claim_id: 5e304e29-0dff-47f1-a73c-e00bbb5377b2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5e304e29-0dff-47f1-a73c-e00bbb5377b2
@@ -132,60 +112,42 @@ references:
     section
   source: Dark Mission
   location: ch. 5
-  quote: They sought to set the record straight on what they viewed as mischaracterizations
-    in the section dealing with Hubbard and Jack Parsons of JPL.
   claim_id: 6b36ea45-237d-4158-b88d-09ac34b727ff
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6b36ea45-237d-4158-b88d-09ac34b727ff
 - text: Church most concerned to convey its teachings are not based on Crowley's Thelema
   source: Dark Mission
   location: ch. 5
-  quote: They were most concerned with conveying the message that none of their teachings
-    are based in any way on the Thelemic beliefs of Aleister Crowley.
   claim_id: 4fbd98f3-786c-4ba6-9e77-9b394206a763
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4fbd98f3-786c-4ba6-9e77-9b394206a763
 - text: Bara considers the Church deserving of the benefit of the doubt on that point
   source: Dark Mission
   location: ch. 5
-  quote: From my limited knowledge of the practices of the Church of Scientology,
-    it is my opinion is that the Church deserves the benefit of the doubt on this
-    point.
   claim_id: 676beb92-8657-4bac-8b1a-1e4e3359b8ca
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-676beb92-8657-4bac-8b1a-1e4e3359b8ca
 - text: Church argued Hubbard was sent to infiltrate, not a willing OTO participant
   source: Dark Mission
   location: ch. 5
-  quote: The Church has argued Hubbard was not so much a willing participant in Parsons’
-    pursuits as he was an instrument of disruption inside the Ordo Templi Orientis.
-    According to the Church—and as we outlined in Chapter Five of the original edition—Hubbard
-    was sent to infiltrate and disrupt the worrisome activities of Jack Parsons at
-    1003 Orange Grove Avenue.
   claim_id: 6d7865d7-6307-4398-9e8d-760aada2de21
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6d7865d7-6307-4398-9e8d-760aada2de21
 - text: Church documents inclined Bara toward the infiltration interpretation
   source: Dark Mission
   location: ch. 5
-  quote: Documents provided to me by the Church now incline me to lean more toward
-    this interpretation, although I think it is fair to say we will never know for
-    certain.
   claim_id: f4c1e6f7-c1b0-4989-af61-a4cf9b704d0d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f4c1e6f7-c1b0-4989-af61-a4cf9b704d0d
 - text: Bill of Sale shows Parsons sold the boat Harpoon to Hubbard
   source: Dark Mission
   location: ch. 5
-  quote: A Bill of Sale produced by the Church shows that Parsons sold the *Harpoon*
-    to Hubbard.
   claim_id: 2423a791-723b-4afb-9c15-c1117d298e24
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2423a791-723b-4afb-9c15-c1117d298e24
 - text: 'Hoagland: the Church remains a major influence in Hollywood today'
   source: Dark Mission
   location: ch. 12
-  quote: which is still a major influence in Hollywood today
   claim_id: 99194bf7-cfe7-4d71-b5df-752d16cb634c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-99194bf7-cfe7-4d71-b5df-752d16cb634c

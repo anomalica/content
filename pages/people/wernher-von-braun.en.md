@@ -152,25 +152,18 @@ references:
     Emmy von Braun
   source: Dark Mission
   location: ch12:94034-94177
-  quote: Born on March 23, 1912, in Wirsitz, Germany, Von Braun was the second of
-    three children born to aristocrats Baron Magnus and Baroness Emmy Von Braun.
   claim_id: 6d344983-fca2-4490-95df-df13e337cf4d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6d344983-fca2-4490-95df-df13e337cf4d
 - text: A telescope and Hermann Oberth's book led him to experiment with rocket motors
   source: Dark Mission
   location: ch12:94378-94539
-  quote: He received a telescope along with a copy of rocket pioneer Herman Oberth's
-    A Rocket Into Interplanetary Space, which influenced him to experiment with rocket
-    motors.
   claim_id: 1b744e9b-77c1-4e56-9c8a-10cd1d19618c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1b744e9b-77c1-4e56-9c8a-10cd1d19618c
 - text: At sixteen he organised an observatory construction team
   source: Dark Mission
   location: ch12:94547-94624
-  quote: At the age of sixteen, he organized an astronomical observatory construction
-    team
   claim_id: 0b396307-a871-42ed-ac8d-9723b3afa99b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0b396307-a871-42ed-ac8d-9723b3afa99b
@@ -178,8 +171,6 @@ references:
     Society for Space Travel
   source: Dark Mission
   location: ch12:94634-94775
-  quote: then went on to study mechanical engineering at the Berlin Institute of Technology,
-    where he became a member of the German Society for Space Travel.
   claim_id: a288937d-136f-4027-87c3-01a2656c745a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a288937d-136f-4027-87c3-01a2656c745a
@@ -187,9 +178,6 @@ references:
     Magnus'
   source: Dark Mission
   location: ch12:94783-94982
-  quote: In 1932, he enrolled at Berlin University, where he assembled a team of over
-    a hundred scientists. Von Braun's team, which included his younger brother, Magnus,
-    performed early experiments in rocket development.
   claim_id: 4b2f2310-2937-45c0-bfc6-7a664612ff09
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4b2f2310-2937-45c0-bfc6-7a664612ff09
@@ -197,12 +185,6 @@ references:
     engines instead
   source: Dark Mission
   location: ch12:94996-95427
-  quote: After World War I, Germany wanted to improve its artillery capabilities but
-    they were specifically prohibited from working on "big guns" by the Treaty of
-    Versailles. Recognizing Von Braun's early research and development skills in "alternative
-    munitions," they offered the young scientist a grant to conduct various experiments
-    on liquid-fueled rocket engines—which technically, were not prohibited by Germany's
-    post-War Treaty restrictions.
   claim_id: b89d4e82-e9b6-49d1-aec6-b52b50cd9688
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b89d4e82-e9b6-49d1-aec6-b52b50cd9688
@@ -210,9 +192,6 @@ references:
     thesis
   source: Dark Mission
   location: ch12:95442-95657
-  quote: Von Braun, who was still a student, operated at a secret laboratory on the
-    Baltic Coast (near Peenemunde, a favorite summer vacation destination of his family),
-    where his classified research doubled as his doctoral thesis.
   claim_id: 2b5fd61d-b783-487f-b16e-ee308a27d854
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2b5fd61d-b783-487f-b16e-ee308a27d854
@@ -227,57 +206,42 @@ references:
 - text: Remained in Germany after Hitler's 1933 rise to power despite options to leave
   source: Dark Mission
   location: ch12:95777-95905
-  quote: When Hitler came to power in 1933, Von Braun remained in Germany, even though
-    he could have left and gone to France, England or America.
   claim_id: 45c2eee3-1fb2-4a6f-a443-1f88c6012ecc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-45c2eee3-1fb2-4a6f-a443-1f88c6012ecc
 - text: Dornberger was assigned by Hitler to oversee his research for military use
   source: Dark Mission
   location: ch12:96011-96109
-  quote: Colonel Walter Dornberger was personally assigned by Hitler to oversee the
-    research for "military applications."
   claim_id: 41f0093b-fb6c-437c-a61a-a9879d25c800
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-41f0093b-fb6c-437c-a61a-a9879d25c800
 - text: Hitler visited von Braun's laboratories in 1939 for a rocket demonstration
   source: Dark Mission
   location: ch12:96125-96303
-  quote: In 1939, Adolf Hitler himself visited the young scientist's labs where he
-    was treated to an impressive demonstration of the capabilities of the rockets
-    Von Braun's team had been developing
   claim_id: b0da43cb-b990-46de-8416-c8451ddcd580
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b0da43cb-b990-46de-8416-c8451ddcd580
 - text: Himmler personally offered him an SS commission weeks after the 1939 visit
   source: Dark Mission
   location: ch12:96533-96637
-  quote: a few weeks after the meeting Von Braun received a letter offering a commission
-    in the SS from Himmler personally
   claim_id: 569e6e6d-6e9a-42b2-b594-7d0218737393
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-569e6e6d-6e9a-42b2-b594-7d0218737393
 - text: Close personal friend of Himmler, who offered him the SS rank of Major
   source: Dark Mission
   location: ch12:97252-97394
-  quote: it is now clear that Von Braun was a close personal friend of German Reichsführer
-    Heinrich Himmler, who offered him the SS degree and rank of Major.
   claim_id: 48abc23d-8e4a-4d80-9b46-027ab7491ed0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-48abc23d-8e4a-4d80-9b46-027ab7491ed0
 - text: Photographed with Himmler at his SS induction, the only time he wore the uniform
   source: Dark Mission
   location: ch12:98970-99158
-  quote: A testament to this is the fact that at his induction into the SS, the only
-    time he is known to have worn his SS uniform, Himmler himself was in attendance,
-    and the two were photographed together
   claim_id: 900700e3-12da-4fc6-a1ac-187397b45904
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-900700e3-12da-4fc6-a1ac-187397b45904
 - text: Was a Nazi party member
   source: Dark Mission
   location: ch12:116575-116620
-  quote: Debus, like Von Braun, was also a Nazi party member
   claim_id: bc1a38a2-daf1-4766-975b-98b5f380de8e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bc1a38a2-daf1-4766-975b-98b5f380de8e
@@ -285,17 +249,12 @@ references:
     unlikely
   source: Dark Mission
   location: ch12:96651-96842
-  quote: The canonical history is that he was "pressured" by the Third Reich to become
-    involved in many Nazi organizations and that he agonized over the decision, but
-    this actually seems increasingly unlikely.
   claim_id: 3b288149-1a44-417a-80bf-fc48f72885ae
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3b288149-1a44-417a-80bf-fc48f72885ae
 - text: 'Hoagland: von Braun held the rank of Major in the SS'
   source: Dark Mission
   location: ch12:100564-100641
-  quote: Clearly, as a Major in the SS, Von Braun met the minimum criteria of "ardent
-    Nazi."
   claim_id: bca10caa-c903-4cc3-b584-78d7bff7fb28
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bca10caa-c903-4cc3-b584-78d7bff7fb28
@@ -303,11 +262,6 @@ references:
     and V-2 programme'
   source: Dark Mission
   location: ch12:170033-170354
-  quote: Fig. 5-24 -Official photograph of the 1939 briefing and rocket demonstration
-    for Adolf Hitler (front row, center) by Von Braun’s (inset) “amateur” rocket team
-    - which led directly to Von Braun being personally offered a commission in the
-    S.S. by Reichsführer Heinrich Himmler, and the V-2 Program at Peenemunde (National
-    Archive)
   claim_id: a1a8ec38-3dcb-40ca-8ed5-53f2592697f0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a1a8ec38-3dcb-40ca-8ed5-53f2592697f0
@@ -315,47 +269,36 @@ references:
     at induction'
   source: Dark Mission
   location: ch12:170373-170584
-  quote: 'Fig. 5-25 - The only known photograph of SS Major Wernher Von Braun in his
-    black SS uniform, directly behind Reichsführer Heinrich Himmler. Taken at Von
-    Braun’s induction ceremony into the SS. (Source: National Archives)'
   claim_id: 8acef0ad-3aa7-462c-adf9-4b7811a156ec
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8acef0ad-3aa7-462c-adf9-4b7811a156ec
 - text: Perfected the A4 rocket, the world's first true ballistic missile
   source: Dark Mission
   location: ch12:99413-99496
-  quote: Von Braun perfected the A4, the world's first true ballistic missile, in
-    the early 1940s.
   claim_id: e018f3a9-1e21-4bed-bb14-ec53ec3b70bb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e018f3a9-1e21-4bed-bb14-ec53ec3b70bb
 - text: Engineered the surrender of 500 personnel as Allies neared the V-2 complex
   source: Dark Mission
   location: ch12:99872-99976
-  quote: As the Allies neared the capture of the V2 rocket complex, Von Braun engineered
-    the surrender of 500 of his
   claim_id: bca1169f-f181-40b3-a0e0-ee7404daa3e9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bca1169f-f181-40b3-a0e0-ee7404daa3e9
 - text: Brought to the United States under Project Paperclip
   source: Dark Mission
   location: ch12:100057-100184
-  quote: Von Braun and his compatriots were brought to America under Project Paperclip,
-    despite some objections by investigators in the JOIA.
   claim_id: caac74a0-dd91-4ccf-87f2-7027bc3c26ad
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-caac74a0-dd91-4ccf-87f2-7027bc3c26ad
 - text: JIOA investigators objected to bringing him to the US under Paperclip
   source: Dark Mission
   location: ch12:100136-100184
-  quote: despite some objections by investigators in the JOIA
   claim_id: 5fcf59a0-17d0-4331-bf9e-3415f73f8571
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5fcf59a0-17d0-4331-bf9e-3415f73f8571
 - text: JIOA wrote its evaluation of von Braun on 1947-06-25
   source: Dark Mission
   location: ch12:100950-101002
-  quote: In its evaluation of Von Braun, written on June 25, 1947
   claim_id: 4ee3e124-e30a-4dde-b78a-57a98820aebc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4ee3e124-e30a-4dde-b78a-57a98820aebc
@@ -363,10 +306,6 @@ references:
     established'
   source: Dark Mission
   location: ch12:101266-101545
-  quote: '"It cannot be ascertained by this office what the reasons were which caused
-    VON BRAUN to become a member of the SS. Neither can it be determined whether his
-    positions in the SS were honorary, required by the Nazi party, or desired by VON
-    BRAUN. No records of his arrest have been located."'
   claim_id: de8f1191-c856-48ed-94d5-d6307b5265e0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-de8f1191-c856-48ed-94d5-d6307b5265e0
@@ -374,19 +313,12 @@ references:
     Nazi pasts'
   source: Dark Mission
   location: ch12:100191-100389
-  quote: The simple fact that Von Braun, Arthur Rudolph, Kurt Debus, Humbertus Strughold
-    and many other German scientists with elaborate Nazi pasts were brought to the
-    U.S. at all is a testament to Cold War convenience.
   claim_id: c11ae606-c024-4593-bbf8-9c94265f1755
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c11ae606-c024-4593-bbf8-9c94265f1755
 - text: 'Hoagland: Bush and von Karman used influence to have his SS past overlooked'
   source: Dark Mission
   location: ch12:100648-100937
-  quote: Fortunately (for Von Braun) he had "friends in high places," not just in
-    Germany, but in the U.S.—in the personages of Drs. Bush and Von Karman. Their
-    influence was so powerful, that doubts expressed by the field investigators about
-    Von Braun's SS Nazi past were ultimately "conveniently" overlooked.
   claim_id: f8969e46-07af-4d73-844c-e04fa46cb12d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f8969e46-07af-4d73-844c-e04fa46cb12d
@@ -394,8 +326,6 @@ references:
     to the US
   source: Dark Mission
   location: ch12:66776-66882
-  quote: played a key role in bringing many of the German rocket scientists, like
-    Wernher Von Braun, to the United States
   claim_id: 4f6adb27-4225-4780-badc-8a277c81ca2c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f6adb27-4225-4780-badc-8a277c81ca2c
@@ -403,9 +333,6 @@ references:
     orders
   source: Dark Mission
   location: ch12:67454-67610
-  quote: Bush originally played a key role in bringing Von Braun and other "ardent
-    Nazis" to the U.S. illegally, in direct violation of President Truman's executive
-    orders.
   claim_id: b08f6750-e7ec-4ec0-bcb3-67d32f70579c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b08f6750-e7ec-4ec0-bcb3-67d32f70579c
@@ -413,10 +340,6 @@ references:
     him to the US
   source: Dark Mission
   location: ch12:91099-91392
-  quote: After the war, Von Karman was sent to Germany to interview the German rocket
-    scientists and tour the Nazi facilities at Pennemunde and Mittlework. He did meet
-    Von Braun there, and recommended he be brought to the U.S., which (as previously
-    noted) was in violation of the directives of Project Paperclip.
   claim_id: 9ac0baa4-4eab-4de9-af9a-864c5b693f40
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9ac0baa4-4eab-4de9-af9a-864c5b693f40
@@ -424,11 +347,6 @@ references:
     SS
   source: Dark Mission
   location: ch12:92870-93196
-  quote: Documents serendipitously obtained via an "Enterprise Mission" research foray
-    into the National Archives in the mid-1990's, confirm that Von Braun during World
-    War II was nothing less than a Major in the SS, the fearsome and fanatically loyal
-    arm of the Nazi war machine entrusted to carry out the most inhuman acts of the
-    regime.
   claim_id: bb4090fe-b14c-4640-ba93-275d23ee74a1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bb4090fe-b14c-4640-ba93-275d23ee74a1
@@ -436,16 +354,12 @@ references:
     factories'
   source: Dark Mission
   location: ch12:93204-93381
-  quote: Linda Hunt found survivors of the Nazi missile factories at Mittlework and
-    Peenemunde who told her that Von Braun not only "witnessed executions and abuse
-    of prisoners at those facilities,"
   claim_id: f9db4086-2590-43f5-ab01-8a628f1a9ad6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f9db4086-2590-43f5-ab01-8a628f1a9ad6
 - text: Survivors told Linda Hunt von Braun ordered executions at least once
   source: Dark Mission
   location: ch12:93394-93433
-  quote: but on at least one occasion ordered executions
   claim_id: 02c38367-d822-4544-b0b7-a2e39c705a36
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-02c38367-d822-4544-b0b7-a2e39c705a36
@@ -453,9 +367,6 @@ references:
     York City
   source: Dark Mission
   location: ch12:93446-93635
-  quote: Recently, new documents also show that Von Braun was commissioned to come
-    up with a plan near the end of World War II to use one of his V-2 rockets to bomb
-    New York City with a radioactive device
   claim_id: 8700892c-d74b-462f-af37-978797353364
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8700892c-d74b-462f-af37-978797353364
@@ -463,8 +374,6 @@ references:
     way
   source: Dark Mission
   location: ch12:101647-101781
-  quote: Once they cleared the hurdles imposed by Paperclip, Von Braun and his team
-    were quickly sent out to White Sands Missile Range, in New Mexico.
   claim_id: 9adf11dd-3c7e-4f50-895a-8b6b20264673
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9adf11dd-3c7e-4f50-895a-8b6b20264673
@@ -472,76 +381,54 @@ references:
     ones
   source: Dark Mission
   location: ch12:101789-101887
-  quote: There, they conducted tests on the captured V2s and worked on developing
-    bigger and more powerful rockets.
   claim_id: 46c64124-428e-4e69-9d1f-49b327263270
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-46c64124-428e-4e69-9d1f-49b327263270
 - text: Appointed technical director of the US Army's ballistic weapon programme
   source: Dark Mission
   location: ch12:101896-102070
-  quote: Von Braun immediately showed his expertise and abilities as an organizer,
-    and was eventually rewarded by being appointed technical director of the U.S.
-    Army ballistic weapon program.
   claim_id: 3810031a-ffed-4a8d-abf7-296c9a878879
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3810031a-ffed-4a8d-abf7-296c9a878879
 - text: Spent off-duty time in El Paso, Texas, near White Sands, in 1945
   source: Dark Mission
   location: ch12:170604-170761
-  quote: Fig. 5-26 - Wernher Von Braun and fellow “Project Paperclip” scientists spend
-    off-duty time in El Paso, Texas -- from nearby “White Sands Missile Range,” in
-    1945.
   claim_id: 868446f3-2f95-4dd0-9c8a-85e324e68fd7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-868446f3-2f95-4dd0-9c8a-85e324e68fd7
 - text: '1950: team transferred to Redstone Arsenal near Huntsville, Alabama'
   source: Dark Mission
   location: ch12:102080-102271
-  quote: In 1950, Von Braun and his team of "former" Nazis were transferred to the
-    Army's Redstone Arsenal near Huntsville, Alabama, where they developed the Redstone,
-    Jupiter and Jupiter-C ballistic missiles.
   claim_id: 7910933d-22e8-4749-a234-19907a03c4c7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7910933d-22e8-4749-a234-19907a03c4c7
 - text: At Redstone Arsenal, developed the Redstone, Jupiter and Jupiter-C missiles
   source: Dark Mission
   location: ch12:102204-102271
-  quote: where they developed the Redstone, Jupiter and Jupiter-C ballistic missiles
   claim_id: 3fc6c18d-d11b-4288-a8f9-eecae695c7a1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3fc6c18d-d11b-4288-a8f9-eecae695c7a1
 - text: 'Hoagland: team made no attempt to conceal their Nazi pasts once in the US'
   source: Dark Mission
   location: ch12:102306-102577
-  quote: Von Braun and his cohorts were so certain of their "value" that they made
-    no attempt to conceal either their Nazi pasts or, apparently, their love for the
-    Third Reich; having beaten the system through Paperclip, they evidently didn't
-    care who knew of their "ardent Nazi" histories.
   claim_id: 8bd7f336-a536-4459-9dfb-1f247f527295
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8bd7f336-a536-4459-9dfb-1f247f527295
 - text: 'Hoagland: members displayed swastikas and Nazi symbols at their US camps'
   source: Dark Mission
   location: ch12:102749-102916
-  quote: The group freely displayed swastikas and other Nazi symbols on their clothes
-    and on signs in the camps where they were kept for years after their immigration
-    to the U.S.
   claim_id: d9baa773-f67c-448c-a139-4e834445336c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d9baa773-f67c-448c-a139-4e834445336c
 - text: Became a US citizen in 1955
   source: Dark Mission
   location: ch12:106403-106506
-  quote: In 1955, Von Braun became a U.S. citizen and served as the primary army engineer
-    for space exploration support.
   claim_id: df619ebf-04c5-44df-9603-3008c86de6ca
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-df619ebf-04c5-44df-9603-3008c86de6ca
 - text: Served as the primary US Army engineer for space exploration support
   source: Dark Mission
   location: ch12:106448-106506
-  quote: served as the primary army engineer for space exploration support
   claim_id: c04d3722-6097-48c4-8436-1809b46a2b8f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c04d3722-6097-48c4-8436-1809b46a2b8f
@@ -549,8 +436,6 @@ references:
     own satellite
   source: Dark Mission
   location: ch12:106678-106823
-  quote: Von Braun boldly predicted that Vanguard would fail, but was expressly forbidden
-    from launching a U.S. Army satellite with his separate group in response.
   claim_id: c533111f-ed53-4373-b8c2-f2854aca3079
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c533111f-ed53-4373-b8c2-f2854aca3079
@@ -558,25 +443,18 @@ references:
     race'
   source: Dark Mission
   location: ch12:106919-107055
-  quote: Von Braun's team was then, suddenly, frantically recruited "to save the day"—and
-    get the U.S. some kind of "win" in the onrushing space race.
   claim_id: 6bb87ca2-1a61-4f1a-9e64-e7ef680361fc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6bb87ca2-1a61-4f1a-9e64-e7ef680361fc
 - text: Wrote articles in Collier's promoting space travel to Americans
   source: Dark Mission
   location: ch12:103039-103201
-  quote: He wrote several articles in the popular quarterly magazine Collier's, and
-    the success of these articles attracted the notice of 33° Scottish Rite Freemason
-    Walt Disney.
   claim_id: 1bf87eb5-4c4a-40b8-84d1-abdade7bcb95
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1bf87eb5-4c4a-40b8-84d1-abdade7bcb95
 - text: Walt Disney hired him to produce and star in three space television films
   source: Dark Mission
   location: ch12:103209-103312
-  quote: Disney hired Von Braun to produce and star in three popular television films
-    about space travel in the future.
   claim_id: ddb559b1-e95d-4c63-977d-3e6981ef5aa3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ddb559b1-e95d-4c63-977d-3e6981ef5aa3
@@ -584,8 +462,6 @@ references:
     expert'
   source: Dark Mission
   location: ch12:103505-103579
-  quote: These programs helped establish Von Braun as America's most notable space
-    expert.
   claim_id: 68b21d5d-e13b-434c-917f-b0b2e1d0d5ff
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-68b21d5d-e13b-434c-917f-b0b2e1d0d5ff
@@ -593,8 +469,6 @@ references:
     the far side'
   source: Dark Mission
   location: ch12:104253-104400
-  quote: In the dramatization, Von Braun's rocket takes five days to get to the Moon,
-    with a chance for one pass around the "dark side" before returning to Earth.
   claim_id: e1efc6a9-38ae-450a-b325-8f5038a029f7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e1efc6a9-38ae-450a-b325-8f5038a029f7
@@ -602,8 +476,6 @@ references:
     formation'
   source: Dark Mission
   location: ch12:105506-105632
-  quote: '*Not a word* is spoken about it in the dramatization, nor at any point later
-    in the film. Von Braun simply inserted it without comment.'
   claim_id: bd53072b-2f77-450e-a1ae-d372e56b37aa
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bd53072b-2f77-450e-a1ae-d372e56b37aa
@@ -611,8 +483,6 @@ references:
     to ''33'''
   source: Dark Mission
   location: ch12:106177-106315
-  quote: Von Braun and Disney obviously *intended* to portray the Moon as "previously
-    inhabited" … and, simultaneously, pay homage to the Masonic "33º."
   claim_id: 83ca83ab-ae92-45da-8a99-9de355c7b377
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-83ca83ab-ae92-45da-8a99-9de355c7b377
@@ -620,9 +490,6 @@ references:
     was Complex 33'
   source: Dark Mission
   location: ch12:130230-130463
-  quote: In looking at the White Sands Missile Range, where Wernher Von Braun conducted
-    his first V-2 tests in America, it came to light that there had, in fact, been
-    only *one* launch pad at the range, yet it was numbered—"Launch Complex *33*."
   claim_id: 9354eed6-5d0c-4ce3-a4da-0f177aaa13f4
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9354eed6-5d0c-4ce3-a4da-0f177aaa13f4
@@ -630,8 +497,6 @@ references:
     and SS members
   source: Dark Mission
   location: ch12:133910-134050
-  quote: NASA—remember, an Agency riddled at all levels by "German rocket scientists"
-    from Operation Paperclip, former Nazis and SS members like Von Braun
   claim_id: d1e2d0dc-43af-4bc9-940b-20f2515cd7ec
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d1e2d0dc-43af-4bc9-940b-20f2515cd7ec
@@ -639,41 +504,30 @@ references:
     NASA rockets'
   source: Dark Mission
   location: ch12:113992-114135
-  quote: Von Braun was appointed director of the new Marshall Space Flight Center
-    in July 1960 and given the task of developing the rockets for the new Agency.
   claim_id: 779ff451-52d2-4410-a5eb-31cd4ae4cf95
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-779ff451-52d2-4410-a5eb-31cd4ae4cf95
 - text: 'Hoagland: placed old Nazi colleagues into key NASA positions'
   source: Dark Mission
   location: ch12:116270-116424
-  quote: Once established as the head of the Huntsville rocket development site, Von
-    Braun placed many of his old Nazi cohorts into key positions in the new Space
-    Agency.
   claim_id: f75d4d6b-41df-4114-a027-8c619877afb5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f75d4d6b-41df-4114-a027-8c619877afb5
 - text: At his behest, Kurt Debus was made first Director of the Kennedy Space Center
   source: Dark Mission
   location: ch12:116432-116567
-  quote: At Von Braun's behest, Kurt Debus, a former colleague of Von Braun's in World
-    War II, was made the first Director of the Kennedy Space Center.
   claim_id: 46c64ba3-3edb-421f-aeb7-7ab673848b8a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-46c64ba3-3edb-421f-aeb7-7ab673848b8a
 - text: Debus had been his colleague during World War II
   source: Dark Mission
   location: ch12:116455-116514
-  quote: Kurt Debus, a former colleague of Von Braun's in World War II
   claim_id: 39c580df-c0ca-4e06-ab49-d7e0cab9e901
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-39c580df-c0ca-4e06-ab49-d7e0cab9e901
 - text: Parsons and Forman had early contact with Oberth and von Braun
   source: Dark Mission
   location: ch12:76319-76531
-  quote: Parsons and Ed Forman, his compatriot in chemistry and rocketry, are also
-    known to have had early contact with German rocket pioneers Herrmann Oberth, and
-    Oberth's "wunderkind" successor and protégé, Wernher Von Braun.
   claim_id: 32094487-a93c-4830-9da3-681950163f0a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-32094487-a93c-4830-9da3-681950163f0a
@@ -681,10 +535,6 @@ references:
     rockets
   source: Dark Mission
   location: ch12:76904-77178
-  quote: Parson's personal quest was to create powerful solid-fuel boosters, which
-    could someday—by being far simpler, thus cheaper and more reliable—supplant the
-    liquid fueled complexities (and spectacular accidents) of Goddard and Von Braun's
-    painful efforts at practical rocket development.
   claim_id: a99da1da-1e8e-444f-8018-6e00a71d8b5b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a99da1da-1e8e-444f-8018-6e00a71d8b5b
@@ -692,17 +542,12 @@ references:
     pioneers
   source: Dark Mission
   location: ch12:90589-90697
-  quote: both Wernher Von Braun and Von Karman named him as one of the "three most
-    important pioneers" of the rocket age
   claim_id: e0d5b8ea-4d3a-4055-aef4-5ea07de08d9f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e0d5b8ea-4d3a-4055-aef4-5ea07de08d9f
 - text: Hoagland speculates he may have discovered a private, parallel space programme
   source: Dark Mission
   location: ch6:46027-46219
-  quote: it may well be that one of the major players in the saga of *Dark Mission*,
-    Dr. Wernher von Braun himself, only discovered this private space program by stumbling
-    upon it at the dawn of space age.
   claim_id: d8dd2569-ddd5-4502-b096-be21117daddd
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d8dd2569-ddd5-4502-b096-be21117daddd
@@ -710,11 +555,6 @@ references:
     physics
   source: Dark Mission
   location: ch6:46224-46553
-  quote: It could well be that von Braun never even knew he wasn’t at the top of the
-    technological food chain until this seminal moment in time, when he *must* have
-    discovered the theory that we now call Hyperdimensional physics was very real,
-    and that he and his NASA co-workers had been carefully excluded from exploiting
-    its potential benefits.
   claim_id: 8bd02532-b7c2-41cf-8275-cf9eb9803f63
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8bd02532-b7c2-41cf-8275-cf9eb9803f63

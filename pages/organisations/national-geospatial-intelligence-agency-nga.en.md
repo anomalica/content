@@ -81,8 +81,6 @@ references:
 - text: Grusch was Senior GEOINT Capabilities Requirements Officer, Nov 2021-Apr 2023
   source: The Fourth Mind
   location: ch11:4025-4175
-  quote: David Grusch, who was from November 2021 until April 2023 a Senior GEOINT
-    Capabilities Requirements Officer with the National Geospatial-Intelligence Agency
   claim_id: fb6583a3-526a-4c47-bfa1-f0577c5ba4f2
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-fb6583a3-526a-4c47-bfa1-f0577c5ba4f2
@@ -116,14 +114,12 @@ references:
 - text: 'Elizondo: Grusch worked for the NGA'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:869-925
-  quote: worked for the National Geospatial-Intelligence Agency (NGA)
   claim_id: 856a972e-b1a5-4d6e-9981-846e91ca5372
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-856a972e-b1a5-4d6e-9981-846e91ca5372
 - text: 'Elizondo: Grusch was NRO and NGA''s representative on the UAP Task Force'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:931-974
-  quote: He was those agencies' rep on the UAP Task Force
   claim_id: b61036ef-78da-4966-9953-d63cb1cd578d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b61036ef-78da-4966-9953-d63cb1cd578d
@@ -200,10 +196,6 @@ references:
     each other'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:17564-17844
-  quote: Meanwhile, the National Reconnaissance Office (NRO), the Central Intelligence
-    Agency (CIA), the National Geospatial-Intelligence Agency (NGA), the Federal Bureau
-    of Investigation (FBI), and the National Security Agency (NSA) also appeared to
-    have important UAP data they were not sharing.
   claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a

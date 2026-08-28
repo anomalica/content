@@ -71,8 +71,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:1611-1736
-  quote: Professor Condon, who led the study, felt so strongly about the uselessness
-    of the whole thing that he destroyed the project files.
   claim_id: 0c397f89-a41e-4a7b-8dc5-9bff6f7009d7
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0c397f89-a41e-4a7b-8dc5-9bff6f7009d7
@@ -81,9 +79,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:19668-19895
-  quote: In Boulder, Colorado, a group was finally being assembled with much fanfare,
-    headed by Dr. Condon, a prestigious physicist close to retirement. The group had
-    received a sizable grant to ponder ufology and its report was due in 1969.
   claim_id: 95910219-35d1-4406-b28e-ce199350b0d5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-95910219-35d1-4406-b28e-ce199350b0d5
@@ -91,8 +86,6 @@ references:
     into UAP that became the Condon Report
   source: In Plain Sight
   location: ch10:22675-22790
-  quote: Dr Edward Condon and his team of scientists had been recruited by the air
-    force to do an objective and independent investigation.
   claim_id: 1d58bd59-bb55-4878-8b23-8a5467cd09aa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d58bd59-bb55-4878-8b23-8a5467cd09aa
@@ -100,8 +93,6 @@ references:
     given to Condon by the Pentagon
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch4:10146-10295
-  quote: In 1967, as the University of Colorado began spending the $512,000 given
-    to Professor Condon by the Pentagon to study UFOs, my interest had begun to shift.
   claim_id: 18e7f387-896e-43d7-8305-214c6e8f1c99
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-18e7f387-896e-43d7-8305-214c6e8f1c99
@@ -109,16 +100,12 @@ references:
     lunch with Condon and the project staff
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch6:5240-5411
-  quote: In 1967 I was visiting the University of Colorado physics department. I had
-    lunch with Professor Condon and the staff of his recently organized committee
-    for the study of UFOs.
   claim_id: c7d1ae20-0074-47cf-8ae2-a7c5f597def9
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-c7d1ae20-0074-47cf-8ae2-a7c5f597def9
 - text: Vallée told Condon he believed the UFO problem could be solved scientifically
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch6:5552-5618
-  quote: I told Condon that I believed the problem of UFOs could be solved scientifically.
   claim_id: 863d744e-6910-429c-bda3-ac8052602b8f
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-863d744e-6910-429c-bda3-ac8052602b8f
@@ -126,8 +113,6 @@ references:
     science had nothing to say about
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch6:5634-5775
-  quote: 'He replied that he wasn''t so sure: "It could be something like the existence
-    of God," he said, "a problem about which science has nothing to say."'
   claim_id: e5e63612-8ec8-403f-908a-86f75923bf49
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e5e63612-8ec8-403f-908a-86f75923bf49
@@ -135,8 +120,6 @@ references:
     reached a conclusion
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch6:5781-5878
-  quote: I disagree with that view. Science could have analyzed the observations and
-    reached a conclusion then.
   claim_id: 534d4aa5-dbe2-4abe-87e3-5013e9f6770c
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-534d4aa5-dbe2-4abe-87e3-5013e9f6770c
@@ -145,8 +128,6 @@ references:
     belief in space contact
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch6:8082-8203
-  quote: In 1967, Condon and his team could have done a serious scientific study of
-    UFOs, but they didn't. Now it is too late for science.
   claim_id: 75733369-4a75-4a2a-985b-14e34b32a5c3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-75733369-4a75-4a2a-985b-14e34b32a5c3
@@ -154,25 +135,18 @@ references:
     Report, concluding no evidence existed for the reality of UFOs
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch6:5913-6099
-  quote: Professor Condon and his team, who had been picked because they were presumably
-    impartial and unprejudiced, went on to write a report stating that no evidence
-    existed for the reality of UFOs.
   claim_id: 9e17534a-19bf-43f1-926d-ce2e96f05bcd
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9e17534a-19bf-43f1-926d-ce2e96f05bcd
 - text: The 1968 Condon Report concluded further study of UAP could not be justified
   source: In Plain Sight
   location: ch10:23018-23130
-  quote: Condon rejected the extra-terrestrial hypothesis for UAPs and concluded that
-    further study of them could not be justified.
   claim_id: 36bbf57e-7985-4757-a2dc-80c5e73853d4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-36bbf57e-7985-4757-a2dc-80c5e73853d4
 - text: The 1968 Condon Report rejected the extra-terrestrial hypothesis
   source: In Plain Sight
   location: ch10:23018-23130
-  quote: Condon rejected the extra-terrestrial hypothesis for UAPs and concluded that
-    further study of them could not be justified.
   claim_id: 4e237f91-124e-4e05-9646-c98cf65ca991
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4e237f91-124e-4e05-9646-c98cf65ca991
@@ -180,8 +154,6 @@ references:
     Blue Book
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:3687-3801
-  quote: Dr. Condon’s report provided the Air Force the excuse it sought to close
-    Project Blue Book, its controversial UFO investigation.
   claim_id: 64064f7a-6615-49fc-b0d3-0c33d73914d5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-64064f7a-6615-49fc-b0d3-0c33d73914d5
@@ -189,17 +161,12 @@ references:
     of scientific merit
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:3383-3543
-  quote: A subsequent Air Force–funded UAP study at the University of Colorado went
-    further, declaring the topic devoid of scientific merit. Chaired by physicist
-    Edward Condon...
   claim_id: cab171f2-f6fa-4bd5-b6dc-794f6f0f7999
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cab171f2-f6fa-4bd5-b6dc-794f6f0f7999
 - text: Harry Turner's paper criticised the 1968 Condon Committee report
   source: In Plain Sight
   location: ch11:2213-2352
-  quote: Turner's paper eviscerated the 1968 Condon Committee Report, the US Air Force–funded
-    study of UFOs under the direction of physicist Edward Condon.
   claim_id: 4eb91b39-5333-4306-9775-240aa24a8dcd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4eb91b39-5333-4306-9775-240aa24a8dcd
@@ -208,9 +175,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:22072-22234
-  quote: Publication of this document so outraged Condon that he fired the minority
-    group and ran the project without serious consideration of the possible reality
-    of the phenomenon.
   claim_id: 63438c82-52cb-4015-b5d1-c13587d358af
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-63438c82-52cb-4015-b5d1-c13587d358af
@@ -219,8 +183,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:1648-1736
-  quote: felt so strongly about the uselessness of the whole thing that he destroyed
-    the project files
   claim_id: 585c089d-6353-46a5-ac6d-73edfe8b0d7b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-585c089d-6353-46a5-ac6d-73edfe8b0d7b
@@ -229,8 +191,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:1744-1849
-  quote: Three days before his death, in March, 1974, he was still urging a physicist
-    friend to drop his study of UFOs.
   claim_id: 8031876c-8825-4317-bfbd-f4c9f2feb8ab
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-8031876c-8825-4317-bfbd-f4c9f2feb8ab
@@ -239,8 +199,6 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:1855-1947
-  quote: When he was told that a documentary was being prepared he advocated that
-    all the footage be burned.
   claim_id: ccbf3234-fadf-43a9-b737-29e3f6107aa9
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ccbf3234-fadf-43a9-b737-29e3f6107aa9

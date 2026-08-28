@@ -460,16 +460,12 @@ references:
 - text: A CIA/USAF panel that met in 1953 recommended monitoring civilian UFO groups
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:7950-8099
-  quote: One of the recommendations of a recently declassified CIA/USAF panel on UFOs,
-    which met in 1953, was precisely to monitor the activities of civilian groups
   claim_id: e3745a5e-3f58-48e3-b76c-0bf194b6872f
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e3745a5e-3f58-48e3-b76c-0bf194b6872f
 - text: NICAP's board of directors included a former head of the CIA
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:5933-6012
-  quote: the Board of Directors of NICAP lists among its members the former head of
-    the CIA
   claim_id: 1ee20b8a-e19a-4f25-9f32-24b0d5367c94
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-1ee20b8a-e19a-4f25-9f32-24b0d5367c94
@@ -477,8 +473,6 @@ references:
     they come from
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:32646-32767
-  quote: Admiral Hillenkoeter, the former CIA chief who stated, “It is imperative
-    that we learn what UFOs are and where they come from,”
   claim_id: 772143cb-2ceb-441d-bd34-1687e50168b3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-772143cb-2ceb-441d-bd34-1687e50168b3
@@ -557,33 +551,24 @@ references:
 - text: Stargate remote-viewing programme run for the CIA at SRI from 1972
   source: The Fourth Mind
   location: ch22:13288-13439
-  quote: A famous remote viewing program, known as Project Stargate, was run for the
-    Central Intelligence Agency at the Stanford Research Institute starting in 1972
   claim_id: 4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4c1962ff-2687-4f8d-b4cc-3a7a897d9eb0
 - text: Puthoff and Targ approached by CIA and told Russia had a remote viewing programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:25266-25447
-  quote: Hal had been a Stanford University researcher and an employee of the NSA
-    when he and his colleague Russell Targ were approached by the CIA and told that
-    Russia had a remote-viewing program.
   claim_id: 625a284f-b4d0-4b1e-a20c-70cf133e40cc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
 - text: Puthoff regularly reported directly to the White House and the CIA director
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2057-2163
-  quote: In various past capacities, he had regularly reported directly to the White
-    House and the director of the CIA.
   claim_id: d267f396-9477-4118-9435-449a2ca88ffd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d267f396-9477-4118-9435-449a2ca88ffd
 - text: Ingo Swann was an original participant in CIA remote-viewing evaluations
   source: Remote Viewing Secrets
   location: ch23:11743-11835
-  quote: one of the original participants in the CIA evaluations of remote viewing
-    back in the early 1970s
   claim_id: 5abb532a-5372-4696-a7c2-b7af1d8a2444
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-5abb532a-5372-4696-a7c2-b7af1d8a2444
@@ -599,8 +584,6 @@ references:
 - text: Puthoff managed the CIA's Stargate program before AAWSAP/AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:45073-45180
-  quote: The last time Hal had made this much progress on a program was during his
-    time managing the CIA’s Stargate program.
   claim_id: 401b6b38-170a-4e42-9d6e-697b04b42951
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-401b6b38-170a-4e42-9d6e-697b04b42951
@@ -616,10 +599,6 @@ references:
 - text: Stargate was later run by the DIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:24728-24968
-  quote: Stargate was embedded in the federal government, run for years by the CIA,
-    and later the DIA. Recruits were trained to spy upon enemies, but not in the usual
-    way. Stargate trained "supersoldiers" to spy on hard targets using their psychic
-    gifts.
   claim_id: 0a7c699d-a5ce-40cd-811f-2c609a3892be
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0a7c699d-a5ce-40cd-811f-2c609a3892be
@@ -646,9 +625,6 @@ references:
 - text: Jim Semivan retired from the CIA's Directorate of Operations after 25 years
   source: In Plain Sight
   location: ch21:787-952
-  quote: Semivan was only recently retired from the Central Intelligence Agency's
-    Directorate of Operations after 25 years as an operations officer working inside
-    the US and internationally.
   claim_id: 0e45d397-56fa-4bb5-bb51-20816c6e4517
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0e45d397-56fa-4bb5-bb51-20816c6e4517
@@ -714,27 +690,18 @@ references:
     his 1977 inauguration'
   source: In Plain Sight
   location: ch11:15229-15554
-  quote: According to celebrated civil rights attorney Daniel Sheehan, before Carter's
-    January inauguration he sought a meeting with the then Director of the CIA, George
-    Herbert Walker Bush, later the 41st president, but the CIA Director flatly refused
-    to give the president-elect a briefing on UFOs telling Carter he had no 'need
-    to know'.
   claim_id: bc4e12e5-674d-4ed6-ab78-35db0dd5d819
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc4e12e5-674d-4ed6-ab78-35db0dd5d819
 - text: 'Sheehan: Bush refused, telling Carter he had no ''need to know'''
   source: In Plain Sight
   location: ch11:15437-15554
-  quote: but the CIA Director flatly refused to give the president-elect a briefing
-    on UFOs telling Carter he had no 'need to know'.
   claim_id: 34b671a6-bd89-42f0-afdb-9f75e72a17f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
 - text: Bush's CIA directorship ended just before Carter's January 1977 inauguration
   source: In Plain Sight
   location: ch11:15562-15636
-  quote: (Bush's term as CIA Director ended just before the inauguration in January
-    1977.)
   claim_id: 8cb06a6c-7d0a-4660-b635-9f09b569f714
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
@@ -742,9 +709,6 @@ references:
     he found'
   source: In Plain Sight
   location: ch11:25712-25932
-  quote: that attorney Dan Sheehan told me he witnessed in 1977 – that the CIA Director
-    flatly refused the president a briefing and, moreover, what the president was
-    subsequently told in briefing documents did not reveal what Sheehan discovered
   claim_id: a7086018-21b5-444b-89b6-1e1cf2a630fa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7086018-21b5-444b-89b6-1e1cf2a630fa
@@ -752,9 +716,6 @@ references:
     to release more UAP files
   source: In Plain Sight
   location: ch14:1550-1726
-  quote: after lobbying from billionaire businessman and UAP believer Laurance Rockefeller,
-    the president ordered his new CIA Director James Woolsey to release more of the
-    files on the subject.
   claim_id: 3df658f8-ae37-4065-bd87-f55e38d1eebe
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3df658f8-ae37-4065-bd87-f55e38d1eebe
@@ -762,19 +723,12 @@ references:
     as a dinner party
   source: In Plain Sight
   location: ch14:3436-3650
-  quote: On his website, he dramatically casts a meeting he had with the then Director
-    of America's Central Intelligence Agency, James Woolsey, in 1993 as 'a covert
-    briefing on the topic of UFOs under the guise of a dinner party'.
   claim_id: e325c1dc-091c-496b-aa38-fa3968dd986b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e325c1dc-091c-496b-aa38-fa3968dd986b
 - text: Petersen raised redacted UFO-related documents with Woolsey at CIA headquarters
   source: In Plain Sight
   location: ch14:4798-5042
-  quote: He also said that when Woolsey became Director of the CIA, Petersen visited
-    him at his office and raised with him 'that there were a lot of highly redacted
-    documents that the UFO community thought might relate to government knowledge
-    of "alien stuff"'.
   claim_id: 64da8255-0547-4f22-ba45-7f3b5796669e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-64da8255-0547-4f22-ba45-7f3b5796669e
@@ -782,10 +736,6 @@ references:
     meeting
   source: In Plain Sight
   location: ch14:5593-5891
-  quote: Petersen flatly denied claims that the CIA boss reached out to Greer for
-    a briefing or that Woolsey requested the meeting. 'There was no "cover story"
-    and no "briefing" had been requested. It was simply a social function where it
-    was presumed that the subject of UFOs would be discussed,' Petersen says.
   claim_id: 329eff05-c536-499d-b77a-841a4700de02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-329eff05-c536-499d-b77a-841a4700de02
@@ -811,9 +761,6 @@ references:
     abductions linked to UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:4024-4213
-  quote: For years he presided over the little-known “weird desk” at the CIA, in charge
-    of investigating unusual medical issues, implants, and abductions, all related
-    to UAP encounters and anything strange.
   claim_id: 2245a04c-3ff4-441e-b16e-30b93db762ca
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2245a04c-3ff4-441e-b16e-30b93db762ca
@@ -852,8 +799,6 @@ references:
     and Gimbal were shown
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:21631-21748
-  quote: A few months later I was sitting in a room with high-level Navy officials,
-    CIA reps, and someone from the NSA... we rolled the tapes.
   claim_id: fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
@@ -861,9 +806,6 @@ references:
     with an inducted fan
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:24494-24663
-  quote: '"The only way I see this being even remotely possible is if you had a...
-    hybrid balloon with some sort of inducted fan at its center," he said, not quite
-    believing his own words.'
   claim_id: ce86cd54-c104-44c1-a4f6-b176e70c261a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce86cd54-c104-44c1-a4f6-b176e70c261a
@@ -871,8 +813,6 @@ references:
     propulsion
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:24671-24745
-  quote: '"Perhaps it is some sort of Mylar football that has its own navigation and
-    propulsion."'
   claim_id: 1fa03d4c-d413-47c7-acc1-9705d2008385
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1fa03d4c-d413-47c7-acc1-9705d2008385
@@ -880,24 +820,18 @@ references:
     platform
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:25108-25225
-  quote: '"Um... perhaps they are using some sort of tether or beamed energy to give
-    it power, you know? Like a floating platform nearby."'
   claim_id: 05cd2947-baec-4fb6-8c3e-6eb06c9ba55c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-05cd2947-baec-4fb6-8c3e-6eb06c9ba55c
 - text: CIA assessed the Gimbal object's aura was not a camera artefact or lens flare
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:25939-26021
-  quote: According to the CIA, it was not. It was not an artifact of the camera nor
-    a lens flare.
   claim_id: cb98d930-2531-4f1d-b764-8b806fa35e83
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb98d930-2531-4f1d-b764-8b806fa35e83
 - text: CIA and FBI have posted unclassified UAP documents on their websites
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:20721-20820
-  quote: The CIA and FBI sometimes slapped them up on their websites, for the whole
-    world to search for and download.
   claim_id: d227955c-cd8d-4f91-8eeb-69e89838ebe9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d227955c-cd8d-4f91-8eeb-69e89838ebe9
@@ -916,18 +850,12 @@ references:
     JFK assassination player
   source: Dark Mission
   location: ch10:93001-93123
-  quote: an infamous CIA operative actively involved with Watergate and long-rumored
-    to have also been a key player in the Kennedy assassination
   claim_id: 9ae83eeb-6fd0-4d1e-b3d7-36e75caad027
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9ae83eeb-6fd0-4d1e-b3d7-36e75caad027
 - text: Gordon Novel gave DA Jim Garrison a CIA-Cuban-emigre link to the JFK assassination
   source: In Plain Sight
   location: ch27:4030-4314
-  quote: Novel also provided a way too gullible New Orleans District Attorney Jim
-    Garrison with a CIA-Cuban-emigre link to the assassination of President John F.
-    Kennedy by suggesting that, while working for the CIA, he knew both the alleged
-    assassin Lee Harvey Oswald and Jack Ruby, Oswald's killer.
   claim_id: 8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8fcd2f87-921b-4c01-9eb4-1ce7fcb3a635

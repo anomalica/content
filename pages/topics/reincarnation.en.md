@@ -47,8 +47,6 @@ references:
 - text: Jim Tucker is a psychiatrist and an expert on child reincarnation cases.
   source: Surviving Death
   location: ch7:4123-4196
-  quote: his mother and psychiatrist Jim Tucker, an expert on child reincarnation
-    cases
   claim_id: cb5c5ad2-c975-43f6-904e-586dd1a083db
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-cb5c5ad2-c975-43f6-904e-586dd1a083db
@@ -56,8 +54,6 @@ references:
     genetics and environment, in personality development.
   source: Surviving Death
   location: ch11:12532-12679
-  quote: Stevenson argued that in addition to genetics and environment, previous lives
-    might be a third factor that contributes to the development of human personality.
   claim_id: 27554e94-a31d-4dd6-baca-a4c0bc8e64e1
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-27554e94-a31d-4dd6-baca-a4c0bc8e64e1
@@ -65,7 +61,6 @@ references:
     with a belief in reincarnation.
   source: Surviving Death
   location: ch11:3481-3536
-  quote: They were easiest to find in cultures with a belief in reincarnation.
   claim_id: 9336952e-9627-4b72-a247-fb2c90f0455c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-9336952e-9627-4b72-a247-fb2c90f0455c
@@ -73,8 +68,6 @@ references:
     consciousness can survive death.
   source: Surviving Death
   location: ch13:24343-24481
-  quote: “I think these cases contribute to the body of evidence that consciousness—at
-    least, in certain circumstances—can survive the death of the body
   claim_id: 0d306a09-6784-4af9-8dce-8253c1f2eb9d
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0d306a09-6784-4af9-8dce-8253c1f2eb9d
@@ -82,9 +75,6 @@ references:
     an NPR interview aired on Weekend Edition.
   source: Surviving Death
   location: ch41:15593-15765
-  quote: '"the idea can be judged on its merits," Jim said / From an interview for
-    NPR, "Searching for the Science Behind Reincarnation," aired on Weekend Edition,
-    Sunday, January 5, 2014.'
   claim_id: 86bb1288-be8e-492c-86b2-0d367b9d60ee
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-86bb1288-be8e-492c-86b2-0d367b9d60ee
@@ -92,16 +82,12 @@ references:
     a book across the bed.
   source: Surviving Death
   location: ch12:2586-2730
-  quote: He did, but then the book went flying across the bed. "Dammit, Cyndi! Reincarnation?
-    We don't have a child that's had another life before this one."
   claim_id: 77869e57-d42e-4106-b57a-7166b1b20d4b
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-77869e57-d42e-4106-b57a-7166b1b20d4b
 - text: Neither Cyndi Hammons nor Kevin Hammons came from a religion supporting reincarnation.
   source: Surviving Death
   location: ch13:18848-18925
-  quote: Neither one came from a religion or belief system that supported the idea
-    of reincarnation.
   claim_id: 70d32caa-c9a2-4112-85ef-76fd38c527aa
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-70d32caa-c9a2-4112-85ef-76fd38c527aa
@@ -109,8 +95,6 @@ references:
     rejected it as an explanation for his son's statements.
   source: Surviving Death
   location: ch9:9321-9438
-  quote: My spiritual side was ruled by the Christian faith, which did not accept
-    reincarnation, and that was the end of that story.
   claim_id: 97962ffa-e0a2-4d76-a6fd-ffe87b9c073d
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-97962ffa-e0a2-4d76-a6fd-ffe87b9c073d
@@ -118,9 +102,6 @@ references:
     more statements were verified.
   source: Surviving Death
   location: ch19:1956-2164
-  quote: the intermission memories tend to arise in the stronger reincarnation cases,
-    where more statements were made about the past life that were verified and more
-    specific names were remembered, than in the weaker cases.
   claim_id: d711ddd9-4dfd-4a80-af84-ee3572a2b1de
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d711ddd9-4dfd-4a80-af84-ee3572a2b1de
@@ -128,10 +109,6 @@ references:
     cases, in a 2004 paper.
   source: Surviving Death
   location: ch41:25408-25651
-  quote: 'intermission memories tend to arise in the stronger reincarnation cases
-    / Poonam Sharma and Jim B. Tucker, "Cases of the Reincarnation Type with Memories
-    from the Intermission Between Lives," Journal of Near-Death Studies 23(2) (Winter
-    2004): 116'
   claim_id: fd5b51ef-1499-41e2-8459-f10307bf98d9
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fd5b51ef-1499-41e2-8459-f10307bf98d9
@@ -139,9 +116,6 @@ references:
     reincarnation cases, and mediumship, including drop-in communicators.
   source: Surviving Death
   location: ch30:11722-11925
-  quote: Persons suffering a violent death feature predominantly in cases of apparitions
-    of the dead and in cases of the reincarnation type, as well as in mediumship,
-    including both direct communicators and drop-ins.
   claim_id: 0b9ec2ce-df90-4c36-9c75-d6ff69144339
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0b9ec2ce-df90-4c36-9c75-d6ff69144339

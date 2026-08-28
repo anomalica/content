@@ -45,9 +45,6 @@ references:
     at MIT in June 1992
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:10589-10761
-  quote: One of the more interesting “implant” studies to emerge was reported at the
-    Abduction Study Conference held at the Massachusetts Institute of Technology (MIT),
-    during June 1992.
   claim_id: 430f80ae-ba00-41b8-b360-9eadc60c4192
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-430f80ae-ba00-41b8-b360-9eadc60c4192
@@ -55,31 +52,24 @@ references:
     from abductee Richard Price
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:10768-10976
-  quote: At the conference and in a subsequent paper, MIT physicist Dr. David Pritchard
-    described his efforts at identifying a small foreign item that emerged from the
-    penis of a New York State abductee named Richard Price.
   claim_id: 0038f7f3-69c9-4abc-bde2-9c2a2af5904e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0038f7f3-69c9-4abc-bde2-9c2a2af5904e
 - text: Edgar Mitchell earned a PhD in aeronautics and astronautics from MIT
   source: American Cosmic
   location: ch6:28474-28573
-  quote: Edgar earned a PhD in aeronautics and astronautics from the Massachusetts
-    Institute of Technology (MIT).
   claim_id: d582d423-3526-4809-a543-b3dcaa109cfc
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d582d423-3526-4809-a543-b3dcaa109cfc
 - text: Luis Elizondo described Edgar Mitchell as an engineer trained at MIT
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:8135-8201
-  quote: an engineer trained at the Massachusetts Institute of Technology (MIT)
   claim_id: ae9adecc-9b7a-4535-a962-fd341cc0dd63
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ae9adecc-9b7a-4535-a962-fd341cc0dd63
 - text: Guy Consolmagno holds degrees from MIT and the University of Arizona
   source: American Cosmic
   location: ch7:24020-24089
-  quote: He is an American Jesuit with degrees from MIT and the University of Arizona.
   claim_id: b1285c2d-949b-4bbc-b701-57f4b809b2da
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b1285c2d-949b-4bbc-b701-57f4b809b2da
@@ -98,8 +88,6 @@ references:
     drive serious consideration
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:3230-3371
-  quote: In reality, US government research facilities associated with DoD, NASA,
-    and the Massachusetts Institute of Technology gave the idea serious consideration.
   claim_id: c8cfe656-51b4-46c6-8e9b-b881301ce8f2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c8cfe656-51b4-46c6-8e9b-b881301ce8f2
@@ -114,7 +102,6 @@ references:
 - text: Ron Levin, Gilbert Levin's son, is a physicist at MIT
   source: Dark Mission
   location: ch18:15603-15649
-  quote: His son, Dr. Ron Levin, is now a physicist at MIT.
   claim_id: 7690e020-75f8-4d26-81ec-6d8525767792
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7690e020-75f8-4d26-81ec-6d8525767792
@@ -152,12 +139,6 @@ references:
     including MIT physicist Bruce DePalma
   source: Dark Mission
   location: ch9:33848-34327
-  quote: As Hoagland continued to make new connections of the geometry of Cydonia
-    with the historical treatment of hyperspatial realities, he encountered a number
-    of independent, rogue experimentalists who had been working along these same lines.
-    Foremost among these were Dr. Bruce DePalma, an M.I.T. physicist and researcher,
-    and Lt. Col. Thomas Bearden, a nuclear engineer and physicist who had been working
-    on Maxwell’s original model since his days on the U.S. Army’s scalar weapons programs.
   claim_id: 3a7795b8-deee-4fd3-8535-e12412539e49
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3a7795b8-deee-4fd3-8535-e12412539e49
@@ -165,9 +146,6 @@ references:
     analyzer at MIT
   source: Dark Mission
   location: ch12:68768-68963
-  quote: I first knew DHM [Menzel] of Cambridge, MA, in either 1934 or 1935 when I
-    was engaged in designing and building a machine known as a differential analyzer
-    at MIT, where I was then VP and Dean of Engineering.
   claim_id: 2e83dc0b-e772-4ca2-916b-9df6c2492a19
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2e83dc0b-e772-4ca2-916b-9df6c2492a19
@@ -175,8 +153,6 @@ references:
     of NASA, and Margaret Mead
   source: Dark Mission
   location: ch10:52545-52690
-  quote: MIT’s Curtis H. Barker, NASA’s own Jack C. Oppenheimer, and famed anthropologist
-    Margaret Mead were all consulted for contributions to the final Report.
   claim_id: d38d4761-5cfc-4ccf-916e-55329f593739
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d38d4761-5cfc-4ccf-916e-55329f593739

@@ -106,18 +106,12 @@ references:
     Georgia, in 1969
   source: In Plain Sight
   location: ch11:14947-15195
-  quote: On the campaign trail, Carter had openly discussed how he personally witnessed
-    an unidentified glowing object hovering over Leary, Georgia, in 1969, and he promised
-    American voters that if he became president he would release any US government
-    UFO files.
   claim_id: 78f9c632-84ec-48a3-a565-efd70d0c4bdf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-78f9c632-84ec-48a3-a565-efd70d0c4bdf
 - text: Carter promised voters he would release US government UFO files if elected
   source: In Plain Sight
   location: ch11:15100-15195
-  quote: he promised American voters that if he became president he would release
-    any US government UFO files.
   claim_id: c15f5889-56e4-4228-bb36-9b3fed0199ef
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c15f5889-56e4-4228-bb36-9b3fed0199ef
@@ -125,16 +119,12 @@ references:
     at flying saucer reports
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch8:5269-5410
-  quote: Today mm like Jimmy Carter proclaim that they have seen unidentified lights
-    in the sky and are "no longer laughing at those who report Hying saucers."
   claim_id: 5764f46a-4701-4364-892c-14d9d4528185
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-5764f46a-4701-4364-892c-14d9d4528185
 - text: Carter testified about his own sighting of an unidentified aerial object
   source: American Cosmic
   location: ch4:51019-51127
-  quote: including one of former president Jimmy Carter’s testimony about his own
-    sighting of an unidentified aerial object
   claim_id: 9ac5ad32-ebd9-466a-b831-a1d87954958f
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9ac5ad32-ebd9-466a-b831-a1d87954958f
@@ -142,9 +132,6 @@ references:
     testimony
   source: American Cosmic
   location: ch4:50975-51196
-  quote: The film then displays newspaper clippings, including one of former president
-    Jimmy Carter’s testimony about his own sighting of an unidentified aerial object,
-    as the voiceover cites scientific evidence for ongoing alien visitations.
   claim_id: f4d70234-1ea4-49e7-aea7-394a5cdb88e2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f4d70234-1ea4-49e7-aea7-394a5cdb88e2
@@ -152,18 +139,12 @@ references:
     police and the public
   source: American Cosmic
   location: char:20895-21187
-  quote: Among those who report sightings are former US president Jimmy Carter and
-    legions of other credible witnesses, including the trained observers of the US
-    Air Force, pilots, commercial pilots, police officers, US Army personnel, and
-    millions of civilians who were certainly not out looking for UFOs.
   claim_id: 777b8a24-d2c6-46d4-92b2-af219c4caece
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-777b8a24-d2c6-46d4-92b2-af219c4caece
 - text: Carter said the 1973 object changed colour from red to green
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:43776-43848
-  quote: 'My father was mumbling: ‘Look, Jeff, now its red...now it’s green... My
-    God...’'
   claim_id: 60aa107f-898b-4e1a-b61c-14cbf08aadfb
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-60aa107f-898b-4e1a-b61c-14cbf08aadfb
@@ -171,16 +152,12 @@ references:
     fast
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:43994-44140
-  quote: I was heading for my car, when suddenly I saw an incandescent mass in the
-    starry sky, as brilliant and as big as the Moon. It moved at a terrific speed.
   claim_id: 7a301760-1ecc-4b73-8109-3c96904bdb0d
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-7a301760-1ecc-4b73-8109-3c96904bdb0d
 - text: Carter heard no noise, but Jeff Carter reported a metallic sound
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:44147-44280
-  quote: Personally, I did not hear any noise, but my son Jeff, who was with me, later
-    told me that he heard a metallic sound coming from the UFO.
   claim_id: d938520d-3bdf-4b7a-91ed-9156eab303af
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-d938520d-3bdf-4b7a-91ed-9156eab303af
@@ -188,9 +165,6 @@ references:
     disappearing
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:44285-44479
-  quote: We stood there with our mouths open for about ten minutes. The UFO flew above
-    us for a few moments; then it went south and changed route repeatedly and moved
-    east. Finally it disappeared on the horizon.
   claim_id: 3418e1a4-9630-4e3c-b1ac-7860d12868b3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-3418e1a4-9630-4e3c-b1ac-7860d12868b3
@@ -198,7 +172,6 @@ references:
     1976-11-04
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:45404-45479
-  quote: From the Heavens to Earth, ADONIENSIS. Nicolosi, 4 November 1976. Time 12:30
   claim_id: 3a939a9d-69ae-4ea4-9f31-90f3c3084f05
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-3a939a9d-69ae-4ea4-9f31-90f3c3084f05
@@ -206,43 +179,30 @@ references:
     to do as others had done
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:44887-45076
-  quote: 'Now that you have attained the goal to develop better your programmed mission
-    in the world, Remember: Do not do as others have done! We remind you that this
-    authority has been granted from above…'
   claim_id: 2968ea40-4d5e-4449-a240-fb555c36f3b3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2968ea40-4d5e-4449-a240-fb555c36f3b3
 - text: The Adoniensis channel claimed Carter had been secretly programmed
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:46599-46670
-  quote: The channel of Adoniensis claims that the President has been secretly “programmed.”
   claim_id: c15bdf28-3852-4584-9fa2-97c720807083
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-c15bdf28-3852-4584-9fa2-97c720807083
 - text: Vallée traced the message to the Study Center of Cosmic Fraternity
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:49835-49924
-  quote: They are the group responsible for the extraterrestrial message to Jimmy
-    Carter I quoted earlier.
   claim_id: 2b905702-300a-4de6-b9b3-6262260d09e5
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2b905702-300a-4de6-b9b3-6262260d09e5
 - text: 'Sheehan: Carter sought a pre-inauguration meeting with CIA Director Bush'
   source: In Plain Sight
   location: ch11:15229-15554
-  quote: According to celebrated civil rights attorney Daniel Sheehan, before Carter's
-    January inauguration he sought a meeting with the then Director of the CIA, George
-    Herbert Walker Bush, later the 41st president, but the CIA Director flatly refused
-    to give the president-elect a briefing on UFOs telling Carter he had no 'need
-    to know'.
   claim_id: bc4e12e5-674d-4ed6-ab78-35db0dd5d819
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc4e12e5-674d-4ed6-ab78-35db0dd5d819
 - text: 'Sheehan: Bush refused, saying Carter had no ''need to know'''
   source: In Plain Sight
   location: ch11:15437-15554
-  quote: but the CIA Director flatly refused to give the president-elect a briefing
-    on UFOs telling Carter he had no 'need to know'.
   claim_id: 34b671a6-bd89-42f0-afdb-9f75e72a17f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
@@ -250,33 +210,24 @@ references:
     Service'
   source: In Plain Sight
   location: ch11:15643-15740
-  quote: Bush suggested the incoming president instead seek a briefing through the
-    Congressional Research Service.
   claim_id: f88beec4-39ca-4842-8255-1a52b419f62e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f88beec4-39ca-4842-8255-1a52b419f62e
 - text: Bush's CIA directorship ended just before Carter's January 1977 inauguration
   source: In Plain Sight
   location: ch11:15562-15636
-  quote: (Bush's term as CIA Director ended just before the inauguration in January
-    1977.)
   claim_id: 8cb06a6c-7d0a-4660-b635-9f09b569f714
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
 - text: CRS specialist Marcia Smith was tasked to investigate
   source: In Plain Sight
   location: ch11:15749-15905
-  quote: Once in office, President Carter pressed the issue, and the Congressional
-    Research Service's specialist on space and aerospace, Marcia Smith, was tasked
-    to investigate.
   claim_id: 154cc047-ee83-4b93-b47a-5f0cd75c61d3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-154cc047-ee83-4b93-b47a-5f0cd75c61d3
 - text: Carter asked Jody Powell and Frank Press to investigate the UFO issue
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch4:4061-4208
-  quote: Some encouraging words by President Carter electrified these groups when
-    he asked Jody Powell and Science Adviser Frank Press to see what could be done.
   claim_id: 74c49fec-5241-455c-bb18-2372d2856120
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-74c49fec-5241-455c-bb18-2372d2856120
@@ -284,8 +235,6 @@ references:
     both
   source: In Plain Sight
   location: ch11:24671-24813
-  quote: Sheehan acknowledged he saw both reports written for the Library of Congress’
-    Science and Technology Division before they were sent on to the president
   claim_id: 30638841-1e09-43db-8c7f-f82ac62734ca
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-30638841-1e09-43db-8c7f-f82ac62734ca
@@ -293,9 +242,6 @@ references:
     origin in many cases
   source: In Plain Sight
   location: ch11:24479-24656
-  quote: The reports concluded that there were many cases in which official US Air
-    Force investigations could not rule out the possibility that some of these vehicles
-    were in fact extra-terrestrial.
   claim_id: a39a01bb-3c4a-4160-afdb-7d67d34b60bd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a39a01bb-3c4a-4160-afdb-7d67d34b60bd
@@ -303,9 +249,6 @@ references:
     documents omitted what Sheehan found'
   source: In Plain Sight
   location: ch11:25712-25932
-  quote: that attorney Dan Sheehan told me he witnessed in 1977 – that the CIA Director
-    flatly refused the president a briefing and, moreover, what the president was
-    subsequently told in briefing documents did not reveal what Sheehan discovered
   claim_id: a7086018-21b5-444b-89b6-1e1cf2a630fa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7086018-21b5-444b-89b6-1e1cf2a630fa
@@ -313,52 +256,36 @@ references:
     the US military
   source: In Plain Sight
   location: ch37:4411-4596
-  quote: While investigating what the US Government knew about UFOs for President
-    Jimmy Carter, Dan was shocked to discover archival photographs of a 'flying saucer'
-    craft being retrieved by US military.
   claim_id: 62bbb546-c523-44cd-9833-4f78262a0bd2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-62bbb546-c523-44cd-9833-4f78262a0bd2
 - text: It has never been revealed what Carter was told about UAP
   source: In Plain Sight
   location: ch11:24955-25069
-  quote: It has never been revealed just what President Carter or any other president
-    was told, if anything, about the UAP phenomenon.
   claim_id: 48aa762a-9140-4094-88a6-c4b373fc03e8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48aa762a-9140-4094-88a6-c4b373fc03e8
 - text: Carter and Smith never denied Sheehan's Blue Book and classified-report claims
   source: In Plain Sight
   location: ch11:25297-25397
-  quote: have easily killed Sheehan’s claims stone dead by issuing a short statement
-    denying all; they never have
   claim_id: 297ab2d3-044e-45c2-a5b3-efdff44c3857
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-297ab2d3-044e-45c2-a5b3-efdff44c3857
 - text: Frank Press asked NASA to consider investigating UFO inquiries, July 1977
   source: In Plain Sight
   location: ch11:26304-26526
-  quote: The same thing occurred in July 1977 when the US’s National Aeronautics and
-    Space Administration (NASA) was asked by President Carter’s science adviser Dr
-    Frank Press to consider investigating public ‘inquiries concerning UFOs’.
   claim_id: 8390f7bd-c8ce-40c3-8265-da73b10fcadf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8390f7bd-c8ce-40c3-8265-da73b10fcadf
 - text: No explanation for why Carter did not simply order NASA to investigate
   source: In Plain Sight
   location: ch11:26796-26920
-  quote: There was never any explanation for why the president did not just order
-    NASA to do the inquiry, which he surely could have done.
   claim_id: ff304725-ffb7-4f47-b98b-a9ca6ad5478e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ff304725-ffb7-4f47-b98b-a9ca6ad5478e
 - text: MUFON hoped Carter would open the withheld Project Blue Book files
   source: In Plain Sight
   location: ch11:14327-14590
-  quote: It was hoped by UFO disclosure groups such as MUFON (the Mutual UFO Network)
-    that this most liberal of recent United States presidents would open decades of
-    still top-secret Project Blue Book files, which it was widely known were still
-    being withheld from public release.
   claim_id: 45e28250-d4e9-4dd1-97c2-53aba991793c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-45e28250-d4e9-4dd1-97c2-53aba991793c
@@ -366,40 +293,30 @@ references:
     efforts'
   source: In Plain Sight
   location: ch11:14719-14936
-  quote: told me his search of President Carter's Presidential Library archives revealed
-    Carter had 'an extremely high interest in UFOs during his administration, but
-    it looks like he hit a brick wall because his efforts were stymied'.
   claim_id: 73e984d9-959b-4d91-84c2-6f08507fe3d9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-73e984d9-959b-4d91-84c2-6f08507fe3d9
 - text: Reagan's presidency followed Carter's in 1981
   source: In Plain Sight
   location: ch12:7036-7157
-  quote: Jimmy Carter's liberal presidential administration was followed by conservative
-    Republican Ronald Reagan's presidency in 1981
   claim_id: e7890490-b3eb-4580-8f0d-f4d257869e4b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e7890490-b3eb-4580-8f0d-f4d257869e4b
 - text: 'Strieber: Carter had seen a UFO before office and promised to find the truth'
   source: The Fourth Mind
   location: ch10:5688-5814
-  quote: including that of Jimmy Carter, who promised, after himself seeing a UFO
-    prior to entering office, that he would find out the truth
   claim_id: d5e09c47-a0ee-4905-9524-ac2a6e34e89f
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d5e09c47-a0ee-4905-9524-ac2a6e34e89f
 - text: Carter revealed nothing about UFOs during his administration
   source: The Fourth Mind
   location: ch10:5821-5860
-  quote: During his administration, he revealed nothing
   claim_id: 4490b746-5da2-4741-b682-5a66896abe17
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4490b746-5da2-4741-b682-5a66896abe17
 - text: Carter refused to discuss UFOs when later queried by Stanton Friedman
   source: The Fourth Mind
   location: ch10:5873-5974
-  quote: later, when queried about the matter by UFO researcher Stanton Friedman,
-    he refused to discuss it at all
   claim_id: 01eb0d8f-069b-4c1b-9ddb-165bf42f056c
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-01eb0d8f-069b-4c1b-9ddb-165bf42f056c
@@ -425,16 +342,12 @@ references:
 - text: Carter referenced a remote viewer locating a crashed Russian jet in the Congo
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:26551-26610
-  quote: President Jimmy Carter famously referenced the case to the media.
   claim_id: c4f05315-b400-4fce-a746-d27d47ed8b92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c4f05315-b400-4fce-a746-d27d47ed8b92
 - text: Carter revealed the existence of the psychic Stargate programme to the media
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:16338-16494
-  quote: Carter came across as an open-minded, intellectually curious leader, one
-    who matter-of-factly revealed the existence of the psychic Stargate program to
-    the media.
   claim_id: 20755b71-c92d-4085-8d39-210576f8d8e0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-20755b71-c92d-4085-8d39-210576f8d8e0
@@ -448,8 +361,6 @@ references:
 - text: Elizondo believes Carter was among several presidents briefed on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:16189-16330
-  quote: 'As far as I know, the following US presidents were briefed in some way:
-    Truman, Eisenhower, JFK, LBJ, Carter, Reagan, George H. W. Bush, and Trump.'
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8
@@ -463,8 +374,6 @@ references:
 - text: Clinton asked questions about UAPs in 1993, as Carter had in 1977
   source: In Plain Sight
   location: ch14:104-212
-  quote: When Bill Clinton became president in 1993, he asked questions about UAPs,
-    just as Jimmy Carter had done in 1977.
   claim_id: ba58875b-e22d-4cfc-8f79-c77d046ba64e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba58875b-e22d-4cfc-8f79-c77d046ba64e

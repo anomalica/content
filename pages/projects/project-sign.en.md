@@ -91,8 +91,6 @@ references:
     Project Sign
   source: In Plain Sight
   location: ch8:1148-1223
-  quote: He recommended a detailed study of the UAPs, which became known as Project
-    Sign
   claim_id: 41df29fa-62e9-409e-82d6-024099f70f30
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-41df29fa-62e9-409e-82d6-024099f70f30
@@ -156,7 +154,6 @@ references:
 - text: J. Allen Hynek had previously worked as an advisor for Project Sign
   source: In Plain Sight
   location: ch8:11805-11857
-  quote: who had previously worked as an advisor for Project Sign
   claim_id: d5123701-5106-4f8c-800d-79c3d4cd3731
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d5123701-5106-4f8c-800d-79c3d4cd3731
@@ -164,16 +161,12 @@ references:
     the project
   source: In Plain Sight
   location: ch8:11863-12015
-  quote: He had initially been extremely sceptical of so-called 'UFO' reports, having
-    said in his first year on Project Sign that the whole issue 'seems utterly ridiculous.'
   claim_id: 25989dbe-e0cf-4289-84ab-cefa36a563b6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25989dbe-e0cf-4289-84ab-cefa36a563b6
 - text: Edward Ruppelt was a US Air Force officer privy to the Project Sign investigations
   source: In Plain Sight
   location: ch8:1378-1466
-  quote: One insider privy to the Project Sign investigations was a US Air Force officer,
-    Edward Ruppelt
   claim_id: 5b6c1dde-c122-4963-bdb5-c22d7a45ee96
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b6c1dde-c122-4963-bdb5-c22d7a45ee96
@@ -212,8 +205,6 @@ references:
     origins
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:27992-28090
-  quote: Sign's findings were inconclusive but open to the possibility of extraterrestrial
-    origins for the craft.
   claim_id: 3c6a7780-f5d1-4b64-af32-3f2843e4e221
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3c6a7780-f5d1-4b64-af32-3f2843e4e221
@@ -259,15 +250,12 @@ references:
 - text: The air force-controlled Project Sign investigation ran for one year
   source: In Plain Sight
   location: ch8:1320-1371
-  quote: the air force-controlled investigation ran for one year
   claim_id: ca8ce4dd-73b6-41a1-b017-926ef93a487b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ca8ce4dd-73b6-41a1-b017-926ef93a487b
 - text: USAF studied UAP in 1948 and 1949 under Project Sign and Project Grudge
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:27859-27984
-  quote: The Air Force had studied UAP in 1948 and 1949, under the auspices of two
-    year-old studies known as Project Sign and Project Grudge.
   claim_id: 5d634a25-d1ea-42a7-b2ea-2f4c1a649b47
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5d634a25-d1ea-42a7-b2ea-2f4c1a649b47
@@ -305,8 +293,6 @@ references:
     predecessors, Project Sign and Project Grudge
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:13747-13833
-  quote: I had done a deep dive into Project Blue Book and its predecessors, Projects
-    Sign and Grudge.
   claim_id: 9a5cd75b-2ebf-43ea-94a6-2ff3fcf6f924
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9a5cd75b-2ebf-43ea-94a6-2ff3fcf6f924

@@ -178,8 +178,6 @@ references:
     Cornell University, Ithaca, New York
   source: The recognition of extraterrestrial intelligence
   location: char:167-259
-  quote: Center for Radiophysics and Space Research, Cornell University, Ithaca, New
-    York 14850, U.S.A.
   claim_id: 050586bb-8a53-4b35-9ba8-39c8118d9fdc
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-050586bb-8a53-4b35-9ba8-39c8118d9fdc
@@ -187,8 +185,6 @@ references:
     the Carl Sagan of his own day
   source: Dark Mission
   location: ch12:71270-71366
-  quote: Menzel, who served as Dr. Carl Sagan's mentor at Harvard, was essentially
-    the Carl Sagan of his day
   claim_id: 7b11d725-295f-4d0e-8d9c-70b376dab1ba
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7b11d725-295f-4d0e-8d9c-70b376dab1ba
@@ -196,9 +192,6 @@ references:
     endeavour within science
   source: The recognition of extraterrestrial intelligence
   location: char:1884-2076
-  quote: The search for extraterrestrial intelligence has recently evolved from a
-    largely disreputable pseudoscience to an interesting although extremely speculative
-    endeavour within the boundaries of science.
   claim_id: 1605437b-7b2a-49dc-a819-a6fe436cbf91
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-1605437b-7b2a-49dc-a819-a6fe436cbf91
@@ -206,8 +199,6 @@ references:
     for the field
   source: The recognition of extraterrestrial intelligence
   location: char:2085-2191
-  quote: This discussion meeting of the Royal Society is itself an indication of the
-    growing respectability of the subject.
   claim_id: 50deaa77-bc09-4b18-9388-a5e6bab95fd0
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-50deaa77-bc09-4b18-9388-a5e6bab95fd0
@@ -215,8 +206,6 @@ references:
     Solar System, about 10^-7
   source: The recognition of extraterrestrial intelligence
   location: char:3934-4066
-  quote: such simple considerations suggest that the chance of there being an extraterrestrial
-    civilization within the Solar System is about 10⁻⁷.
   claim_id: 49a3636e-f1ae-4daf-a178-8c035f7d4619
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-49a3636e-f1ae-4daf-a178-8c035f7d4619
@@ -224,14 +213,12 @@ references:
     black space
   source: The recognition of extraterrestrial intelligence
   location: char:18239-18288
-  quote: FIGURE 17. Phobos. Mariner 9 photograph IPL 1008:082243.
   claim_id: 201653a6-8919-4100-bf04-224caeab5c51
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-201653a6-8919-4100-bf04-224caeab5c51
 - text: The Pioneer plaque was designed by Sagan, Linda Sagan and Frank Drake
   source: The recognition of extraterrestrial intelligence
   location: char:33365-33399
-  quote: The message (Sagan, Sagan & Drake 1972)
   claim_id: 89149bc9-20f8-4f8f-ba5d-1f9bb5d8f7e2
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-89149bc9-20f8-4f8f-ba5d-1f9bb5d8f7e2
@@ -240,9 +227,6 @@ references:
     to the antenna struts of Pioneer 10 and 11
   source: The recognition of extraterrestrial intelligence
   location: char:33365-33554
-  quote: The message (Sagan, Sagan & Drake 1972), attached to the antenna support
-    struts of the two spacecraft, is engraved on a 15 cm × 22½ cm gold-anodized aluminium
-    plate, and is shown in figure 23.
   claim_id: 111103ec-3da5-454c-b226-a06d192e9b93
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-111103ec-3da5-454c-b226-a06d192e9b93
@@ -251,11 +235,6 @@ references:
     figures, and the Solar System diagram
   source: The recognition of extraterrestrial intelligence
   location: char:32532-32854
-  quote: '[image: Figure 23. The plaque aboard the Pioneer 10 and 11 spacecraft, showing
-    a diagram of the hydrogen hyperfine transition, a radial pattern of pulsars indicating
-    the Sun''s location, line drawings of a nude man and woman, an outline of the
-    spacecraft behind them, and a diagram of the Solar System with the spacecraft''s
-    trajectory.]'
   claim_id: e222ce31-ace6-4a84-b920-ce0e2b8c69c8
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-e222ce31-ace6-4a84-b920-ce0e2b8c69c8
@@ -264,8 +243,6 @@ references:
     the remoteness of interception
   source: The recognition of extraterrestrial intelligence
   location: char:33230-33353
-  quote: Despite the remoteness of these contingencies, we felt it appropriate that
-    a simple cosmic greeting card be aboard the two spacecraft.
   claim_id: 129d4e5f-12bb-4644-aae6-fe512f9a7df0
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-129d4e5f-12bb-4644-aae6-fe512f9a7df0
@@ -273,11 +250,6 @@ references:
     credibility to a waste of time or a scam
   source: Dark Mission
   location: ch11:2136-2517
-  quote: He objected to the use of the term “SETI.” This was a moniker developed by
-    Carl Sagan for the use of radio astronomy to scan for stray radio signals from
-    other stellar systems... Hoagland felt that the use of SETI gave unnecessary credibility
-    to what he had come to believe was a waste of time at best or an outright scam
-    at worst.
   claim_id: de5f5a10-e1a7-49da-9550-9f4e60f9a94c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-de5f5a10-e1a7-49da-9550-9f4e60f9a94c
@@ -285,9 +257,6 @@ references:
     archaeology
   source: Dark Mission
   location: ch11:2667-2886
-  quote: Hoagland also felt using this term gave Sagan the political playing field,
-    and would permit him to hold an unearned sway over the philosophical development
-    of what was essentially a brand new science—“extraterrestrial archaeology.”
   claim_id: 4489fcad-6dca-48bb-91f7-4da92411f2b5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4489fcad-6dca-48bb-91f7-4da92411f2b5
@@ -295,16 +264,12 @@ references:
     very rare
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:3524-3626
-  quote: Scientists like Carl Sagan pointed out that space visitations, if they occurred
-    at all, would be very rare.
   claim_id: de32708d-e50e-4a48-ad88-83f7a28a9e35
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-de32708d-e50e-4a48-ad88-83f7a28a9e35
 - text: Sagan's personal view that no past-visitation claims approach compelling evidence
   source: The recognition of extraterrestrial intelligence
   location: char:31064-31186
-  quote: My personal view is that for none of these claims is there anything even
-    approaching compelling evidence for interstellar visitation.
   claim_id: b3293f44-f2bf-461f-b266-174aec4833b7
   record_hash: db65684625707605ee783f094129c86f86b76812c216416543f96185
   workbench_url: https://workbench.anomalica.is/db65684625707605ee783f094129c86f86b76812c216416543f96185#claim-b3293f44-f2bf-461f-b266-174aec4833b7
@@ -313,8 +278,6 @@ references:
     aerial objects or visitors
   source: Communion
   location: ch14:25715-25864
-  quote: Cornell University professor Dr. Carl Sagan has stated many times that there
-    is no evidence that unidentified aerial objects-and presumably visitors exist.
   claim_id: a5388800-b48d-4f99-a465-f2365c7e2150
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a5388800-b48d-4f99-a465-f2365c7e2150
@@ -322,9 +285,6 @@ references:
     wrong, and Sagan was not in the conversation
   source: Dark Mission
   location: ch10:95-264
-  quote: “The question is not whether you are right or wrong, sir. You are not even
-    in the conversation.”—Dr. Carl Sagan to Dr. John Brandenburg, regarding Brandenburg’s
-    work on Cydonia.
   claim_id: 14bc9892-407d-4158-94fe-faef09443240
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-14bc9892-407d-4158-94fe-faef09443240
@@ -332,8 +292,6 @@ references:
     in a Parade piece Hoagland called disinformation'
   source: Dark Mission
   location: ch8:14041-14188
-  quote: Oddly, at the same time he was doing this, Sagan was attacking the whole
-    issue publicly with an infamous disinformation piece in *Parade* magazine.17
   claim_id: d8643a45-718e-43eb-a157-f795ed0546f9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d8643a45-718e-43eb-a157-f795ed0546f9
@@ -341,18 +299,12 @@ references:
     deny the meeting occurred
   source: Dark Mission
   location: ch14:37597-37759
-  quote: Sagan eventually gave up trying to get Friedman to look, and then told Brandenburg
-    and Webb that he would deny the meeting took place if he were ever asked about
-    it.
   claim_id: a4e93dfe-56a2-49cf-89bd-27febcf00d52
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a4e93dfe-56a2-49cf-89bd-27febcf00d52
 - text: NASA documents responding to Robert Roe used Sagan's Parade article as a model
   source: Dark Mission
   location: ch10:14499-14728
-  quote: Various documents were issued, seemingly using Carl Sagan’s Parade hit piece
-    as a model, in response to letters and requests from (among others), Representative
-    Robert Roe, Chairman of the House Committee on Science, Space and Technology.
   claim_id: c11b46cd-22cb-40cb-bb05-5214865eb1eb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c11b46cd-22cb-40cb-bb05-5214865eb1eb
@@ -367,8 +319,6 @@ references:
 - text: The Mars Pathfinder landing site was named Sagan Memorial Station
   source: Dark Mission
   location: ch12:154170-154254
-  quote: the landing site, "Sagan Memorial Station" as it came to be known, after
-    "The Carl" himself
   claim_id: 8606df23-e161-4397-9738-1fe95fc14d28
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8606df23-e161-4397-9738-1fe95fc14d28
@@ -376,16 +326,12 @@ references:
     event in December 2000
   source: Dark Mission
   location: ch14:36829-36968
-  quote: After seeing the images on Hoagland’s website, Clarke made a fuss about them
-    at an event in December 2000 hosted by Carl Sagan’s Planetary Society.
   claim_id: 3f6248e1-a97d-4919-80b2-e565482c6f7e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3f6248e1-a97d-4919-80b2-e565482c6f7e
 - text: Tyler D. found and read Sagan's Cosmos book left in his office
   source: American Cosmic
   location: ch1:26532-26650
-  quote: Someone left a book in my office at work, which had no title on the black
-    cover... It was Carl Sagan’s book on the cosmos and space travel.
   claim_id: 1d71c085-55c7-40f8-9f97-b95a45fb7efa
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-1d71c085-55c7-40f8-9f97-b95a45fb7efa
@@ -393,8 +339,6 @@ references:
     grace
   source: American Cosmic
   location: ch1:26831-26959
-  quote: I noticed as I read the book that I was able to settle down and even sleep
-    well. It became my saving grace, and I read it every night.
   claim_id: 8c987049-4397-4fad-9a88-f4ae6d4dd275
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-8c987049-4397-4fad-9a88-f4ae6d4dd275
@@ -402,9 +346,6 @@ references:
     biotechnology
   source: American Cosmic
   location: ch3:27488-27701
-  quote: It was Carl Sagan’s book about the cosmos that changed Tyler’s life and started
-    him on a path of fusing what he learned in the space program with his ideas about
-    biotechnologies to form companies that helped heal people.
   claim_id: f1b4130a-a529-42ea-828e-5522c6a311c8
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f1b4130a-a529-42ea-828e-5522c6a311c8

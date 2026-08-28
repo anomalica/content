@@ -119,39 +119,30 @@ references:
 - text: Served as Chief of Staff to President Clinton, 1998-2001
   source: In Plain Sight
   location: ch14:26259-26377
-  quote: John Podesta, a political consultant who served as President Clinton’s Chief
-    of Staff in the White House from 1998 to 2001
   claim_id: 12340195-1080-4fa6-94bd-8fb2123d8392
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12340195-1080-4fa6-94bd-8fb2123d8392
 - text: Served as Counsellor to President Obama, 2014-2015
   source: In Plain Sight
   location: ch14:26387-26451
-  quote: would later serve as Counsellor to President Obama from 2014 to 2015
   claim_id: 32dcefba-6c4b-4670-bda6-117e2884eaee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-32dcefba-6c4b-4670-bda6-117e2884eaee
 - text: Described as a confidant of Presidents Clinton and Obama
   source: In Plain Sight
   location: ch28:28552-28606
-  quote: John Podesta, the confidant of Presidents Clinton and Obama
   claim_id: 9f87020e-0b71-4a5c-96c1-665a4085bc5a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9f87020e-0b71-4a5c-96c1-665a4085bc5a
 - text: Campaign manager for Hillary Clinton's 2016 presidential campaign
   source: In Plain Sight
   location: ch20:109-274
-  quote: Sitting at his desk in Washington DC, this time as the campaign manager for
-    Hillary Clinton's 2016 presidency bid, John Podesta had never heard of Victor
-    Borisovich Netyksho
   claim_id: 1263b350-d4f5-404a-bbcb-2c54db2015be
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1263b350-d4f5-404a-bbcb-2c54db2015be
 - text: Held top-secret/SCI clearances under both administrations
   source: In Plain Sight
   location: ch20:17002-17135
-  quote: He is a senior and well-respected public servant who held top-secret/SCI
-    clearances in his past roles with both Presidents Obama and Clinton.
   claim_id: 3476f827-1a18-46dd-9d45-2c4cb30fc3b1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3476f827-1a18-46dd-9d45-2c4cb30fc3b1
@@ -167,46 +158,30 @@ references:
     files
   source: In Plain Sight
   location: ch18:3627-3799
-  quote: Podesta had enjoyed huge success securing Executive Order 12958 under President
-    Clinton, declassifying millions of pages of national security documents, including
-    many UAP files.
   claim_id: d18570b9-0086-4346-ba6a-ef8f49fbcca9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d18570b9-0086-4346-ba6a-ef8f49fbcca9
 - text: Supported 2002 lawsuit for release of Kecksburg UAP records
   source: In Plain Sight
   location: ch14:26457-26619
-  quote: In 2002, shortly after leaving the Clinton White House, he supported a lawsuit
-    fighting to get government records released on the 1965 UAP incident in Kecksburg,
-    Pennsylvania.
   claim_id: c5d92a41-e368-42fe-b2fb-763f561d9c5e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5d92a41-e368-42fe-b2fb-763f561d9c5e
 - text: Told press conference it was time to open the books on government UFO investigations
   source: In Plain Sight
   location: ch14:26699-27066
-  quote: ‘I think it’s time to open the books on questions that have remained in the
-    dark on the question of government investigations of UFOs. It’s time to find out
-    what the truth really is that’s out there. We ought to do it really because it’s
-    right. We ought to do it because the American people, quite frankly, can handle
-    the truth. And we ought to do it because it’s the law.’
   claim_id: 7a71b0e5-d681-4601-b492-f500b1afa137
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7a71b0e5-d681-4601-b492-f500b1afa137
 - text: 2015 tweet regretting failure to secure UFO file disclosure
   source: In Plain Sight
   location: ch18:3396-3613
-  quote: 'In February 2015, on his final day as Counsellor to President Obama, John
-    Podesta tweeted, ''Finally, my biggest failure of 2014: Once again not securing
-    the #disclosure of the UFO files. #thetruthisstilloutthere cc: @nytimesDowd''.'
   claim_id: 9612f758-1801-4bbc-b62c-cd638445e523
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9612f758-1801-4bbc-b62c-cd638445e523
 - text: Said the American people could handle the truth about the issue
   source: In Plain Sight
   location: ch20:16344-16443
-  quote: '''I think the American people can handle the truth about this,'' he said
-    while on the Hillary Clinton campaign.'
   claim_id: f7811dfd-a60c-4100-b341-cdd39434440a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f7811dfd-a60c-4100-b341-cdd39434440a
@@ -214,18 +189,12 @@ references:
     files remained'
   source: In Plain Sight
   location: ch20:16632-16875
-  quote: '''I''ve talked to Hillary about that,'' Podesta said in March 2016, from
-    the campaign trail. ''It''s a little bit of a cause of mine, which is, people
-    really want to know what the government knows, and there are still classified
-    files that could be declassified.'''
   claim_id: 3c8b5ec8-dda7-4245-95dc-e88e7fdc1633
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c8b5ec8-dda7-4245-95dc-e88e7fdc1633
 - text: Regrets not insisting on disclosure of UAP evidence in the White House
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:13252-13371
-  quote: Podesta has long said that one of his regrets was not insisting on disclosure
-    of UAP evidence when he was in the White House.
   claim_id: 61703131-0c1c-4b49-80a4-c34e762cebf3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-61703131-0c1c-4b49-80a4-c34e762cebf3
@@ -233,9 +202,6 @@ references:
     existed
   source: In Plain Sight
   location: ch13:30999-31178
-  quote: Fish told me he contacted Podesta because it frustrated him that no one was
-    seeking the evidence that, because of his high security clearances, he knew was
-    held inside government files.
   claim_id: d30cf669-3b94-4750-8c39-299ff05be108
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d30cf669-3b94-4750-8c39-299ff05be108
@@ -269,26 +235,18 @@ references:
 - text: Fish said 'Fast Walkers' were routinely detected by DSP satellites
   source: In Plain Sight
   location: ch13:27336-27523
-  quote: They showed Podesta was emailed about 'UFOs' by an associate named Robert
-    Fish revealing that Fast Walkers were routinely detected entering Earth's atmosphere
-    from outer space by the DSP satellites.
   claim_id: bf183d17-c213-4e7c-bcb7-ba289fda07a7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bf183d17-c213-4e7c-bcb7-ba289fda07a7
 - text: Fish said he was briefed on an object by a DSP operator in California
   source: In Plain Sight
   location: ch13:27535-27719
-  quote: Fish told Podesta confidentially about the object he was briefed on by a
-    US-based DSP operator at a high-security US private corporate aerospace facility
-    in California.
   claim_id: d3c66516-8e1d-4dfa-a0be-83281086b8d5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d3c66516-8e1d-4dfa-a0be-83281086b8d5
 - text: Object recorded passing a satellite during the run-up to the Iraq War, 1991
   source: In Plain Sight
   location: ch13:27731-27809
-  quote: The UAP was recorded passing a satellite during the run-up to the Iraq War
-    in 1991.
   claim_id: 3cdcad52-1f3d-4190-a46f-25b8c2e9c138
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3cdcad52-1f3d-4190-a46f-25b8c2e9c138
@@ -296,9 +254,6 @@ references:
     data
   source: In Plain Sight
   location: ch13:27816-27983
-  quote: '''So, it was under some sort of control – although whether it was "manned"
-    or just "robotic" there''s no way to tell,'' Bob Fish told Podesta, suggesting
-    he ask for the data.'
   claim_id: 75a61b45-f17f-4b19-b981-e83ce6b8ae22
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-75a61b45-f17f-4b19-b981-e83ce6b8ae22
@@ -306,9 +261,6 @@ references:
     Cuba
   source: In Plain Sight
   location: ch13:28654-28866
-  quote: in another email, Fish told him about a US Air Force noncommissioned officer
-    he knew at the same classified facility who flew on RC-135 reconnaissance aircraft
-    from MacDill Air Force Base in Florida to monitor Cuba.
   claim_id: a435b2f6-7f4b-4095-8056-c427837c9419
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a435b2f6-7f4b-4095-8056-c427837c9419
@@ -316,39 +268,24 @@ references:
     point
   source: In Plain Sight
   location: ch13:28873-29352
-  quote: '''He said there were times when they were diverted from these missions to
-    track UFOs off the east coast of Florida. His claim was the UFOs had a landing
-    and takeoff point in the ocean east of Miami, north of Bermuda. There was a specific
-    electronic signature (frequency) emanating from them when they were going into
-    or coming out of the water, so they were easy to track. On several occasions they
-    filmed the UFO as it transitioned from water to air or vice versa,'' Bob Fish
-    told Podesta.'
   claim_id: 7187a038-7743-46bd-9105-c829f81a71fb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7187a038-7743-46bd-9105-c829f81a71fb
 - text: Fish said high-quality UFO film is 'out there'
   source: In Plain Sight
   location: ch13:29362-29396
-  quote: '''High quality film of UFOs is "out there".'''
   claim_id: 2a1a0bbd-58a8-4d56-b54a-63ea892302eb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2a1a0bbd-58a8-4d56-b54a-63ea892302eb
 - text: Fish's view that UFO hunters look in the wrong places; hard data needed
   source: In Plain Sight
   location: ch13:28121-28577
-  quote: He also told Podesta 'UFO hunters' were looking in the wrong places. 'Random
-    personal observations, fuzzy photographers, and crop circles will never "prove"
-    the existence of anything, especially since UFO appearances to humans are transitory
-    and somewhat related to the observer's state of mind. What needs to be collected
-    and publicly disseminated is hard scientific data collected from instruments that
-    are known to be accurate and reliable,' Bob Fish wrote.
   claim_id: d3e3ac24-6eda-4f87-a933-756f65362bce
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d3e3ac24-6eda-4f87-a933-756f65362bce
 - text: Tom DeLonge exchanged emails with Podesta
   source: In Plain Sight
   location: ch28:28543-28606
-  quote: and with John Podesta, the confidant of Presidents Clinton and Obama.
   claim_id: 5106d413-3c38-4732-bf2e-684a55009176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5106d413-3c38-4732-bf2e-684a55009176
@@ -356,10 +293,6 @@ references:
     two generals
   source: In Plain Sight
   location: ch20:10178-10455
-  quote: they revealed beyond any doubt whatsoever that punk rock star Tom DeLonge
-    truly was in contact with one of America's most senior private aerospace chief
-    executives, a campaign manager for Hillary Clinton, and two very senior recently
-    retired air force generals – and UAPs were discussed
   claim_id: af2a5199-eea9-4b16-b522-84f8a0533deb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af2a5199-eea9-4b16-b522-84f8a0533deb
@@ -377,9 +310,6 @@ references:
     Carey'
   source: In Plain Sight
   location: 29-31
-  quote: The other meeting attendees were listed as DeLonge, Podesta, Skunk Works'
-    boss Rob Weiss, an assistant to the Hillary Clinton campaign Milia Fisher, and
-    retired Major General Michael Carey.
   claim_id: ba26da13-3d8c-4159-b75e-d3d9da7ee769
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba26da13-3d8c-4159-b75e-d3d9da7ee769
@@ -387,20 +317,12 @@ references:
     the project
   source: In Plain Sight
   location: ch20:13446-13822
-  quote: '''The General (from Wright Patt R&D) and I talk every other day. He and
-    I talked on the phone the other night and he is excited; he really thinks that
-    the DOD is going to embrace my project because I am out to show all the positive
-    things people have done on this topic. And I am eager to take direction from leadership
-    to do a good and needed public service.'''
   claim_id: 482877fc-950a-4d57-8cdf-f157a3d5eaeb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-482877fc-950a-4d57-8cdf-f157a3d5eaeb
 - text: DeLonge planned September 2015 dinner with Air Force Space Command officers
   source: In Plain Sight
   location: ch20:15554-15746
-  quote: he said he planned to have dinner in September 2015 with 'current commanding
-    officers at the Air Force Space Command in a couple [of] days in Colorado Springs
-    to discuss how to move this project forward'.
   claim_id: 4a13d97d-08e8-471d-b3cf-2a33b203a90b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a13d97d-08e8-471d-b3cf-2a33b203a90b
@@ -408,29 +330,18 @@ references:
     Podesta
   source: In Plain Sight
   location: ch20:5268-5803
-  quote: '''I would like to bring two very "important" people out to meet you in DC,''
-    he told Podesta. ''I think you will find them very interesting as they were principal
-    leadership relating to our sensitive topic. Both were in charge of most fragile
-    divisions, as it relates to Classified Science and DOD topics. Other words, these
-    are A-level officials. Worth our time, and as well the investment to bring all
-    the way out to you. I just need 2 hours from you. Just looking to have a casual
-    and private conversation in person.'''
   claim_id: d201f92a-9710-4b9b-8891-9dd12649082c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d201f92a-9710-4b9b-8891-9dd12649082c
 - text: Podesta was DeLonge's anonymous 'top man' contact in government
   source: In Plain Sight
   location: ch20:5048-5101
-  quote: Podesta was clearly DeLonge's anonymous 'top man' in government.
   claim_id: c5222691-32cd-4b42-87cc-4499ef323986
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5222691-32cd-4b42-87cc-4499ef323986
 - text: '2016-01-24 email: ''Neil Mcc'' confirming a Google Hangout time'
   source: In Plain Sight
   location: ch20:7199-7370
-  quote: In another leaked Podesta email dated 24 January 2016, a person calling himself
-    'Neil Mcc' responded to a Google Hangout invitation to check the time of another
-    proposed meeting.
   claim_id: fd041e01-83bb-4d21-9d13-75a9ab0bbcfb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fd041e01-83bb-4d21-9d13-75a9ab0bbcfb
@@ -472,42 +383,30 @@ references:
     bodies
   source: In Plain Sight
   location: ch20:11940-12253
-  quote: it needs to be emphasised that nothing in any of the leaked Podesta emails
-    proves the truth of what was claimed in these briefings by these military insiders
-    on alien visitations to this planet, or that Roswell and other purported crashes
-    of extra-terrestrial craft happened or that the recovery of alien corpses happened.
   claim_id: ee296dab-5dc5-4be0-9751-55f7c6f58dc6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ee296dab-5dc5-4be0-9751-55f7c6f58dc6
 - text: Podesta had never heard of Netyksho before 2016
   source: In Plain Sight
   location: ch20:224-355
-  quote: John Podesta had never heard of Victor Borisovich Netyksho, who headed unit
-    26165 of the Russian military intelligence agency, the GRU.
   claim_id: a9c46c3c-46fa-422c-96a4-ee2ade0343a3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a9c46c3c-46fa-422c-96a4-ee2ade0343a3
 - text: Netyksho and Fancy Bear turned hacking efforts on Podesta from a GRU building
   source: In Plain Sight
   location: ch20:1295-1398
-  quote: deep inside a secure GRU building somewhere in Moscow, Netyksho and Fancy
-    Bear turned their efforts on Podesta
   claim_id: 77404a1f-ef4d-49fe-9030-f0202a4f2e63
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-77404a1f-ef4d-49fe-9030-f0202a4f2e63
 - text: New hacking efforts against the Democrats followed Trump's 2016-07-28 comments
   source: In Plain Sight
   location: ch20:2577-2721
-  quote: within hours of his comments, the hackers began new penetration efforts against
-    the Democrats; eventually their cyber-sniffing led them to John Podesta
   claim_id: b113536b-243f-434d-a734-f60fc9cf9b62
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b113536b-243f-434d-a734-f60fc9cf9b62
 - text: Podesta re-entered his Gmail password via a phishing prompt, October 2016
   source: In Plain Sight
   location: ch20:1408-1538
-  quote: Sometime in 2016, probably October, Podesta was working on his computer when
-    he was prompted by his Gmail account to re-enter his password.
   claim_id: 0920676b-7dc3-435f-9e54-2ec948c886c1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0920676b-7dc3-435f-9e54-2ec948c886c1
@@ -515,17 +414,12 @@ references:
     minutes
   source: In Plain Sight
   location: ch20:4178-4383
-  quote: Within minutes of Podesta clicking the fake Gmail link, which was actually
-    a so-called cyber spear-phishing hack, his private communications were streaming
-    back to Netyksho and his colleagues at GRU HQ in Moscow
   claim_id: 2482e74d-1538-42d6-85eb-b0c947a073ea
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2482e74d-1538-42d6-85eb-b0c947a073ea
 - text: Thousands of emails leaked on WikiLeaks within days
   source: In Plain Sight
   location: ch20:4391-4486
-  quote: in a few days, thousands of Podesta's emails were leaked on the Wikileaks
-    website for all to read
   claim_id: 3a8bf1d6-9c20-485c-816b-d5c0691d850f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3a8bf1d6-9c20-485c-816b-d5c0691d850f

@@ -100,8 +100,6 @@ references:
 - text: Built by the United States Department of War at the outset of World War II
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:417-497
-  quote: The US Department of War constructed the building at the beginning of World
-    War II
   claim_id: 67c9f2d3-4014-4e69-b97f-03236794c497
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-67c9f2d3-4014-4e69-b97f-03236794c497
@@ -109,16 +107,12 @@ references:
     building in the world
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:238-322
-  quote: At 6.5 million square feet, this was the largest office building in the world
-    until recently.
   claim_id: ce6300dd-5b77-4d41-8f6d-58429dc10171
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce6300dd-5b77-4d41-8f6d-58429dc10171
 - text: Approximately twenty-two thousand people work in the Pentagon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:332-408
-  quote: Twenty-two thousand people work there, the population of a large university
-    campus.
   claim_id: a5f53c30-c777-4edf-ad7f-ac743e8d1b0b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a5f53c30-c777-4edf-ad7f-ac743e8d1b0b
@@ -126,8 +120,6 @@ references:
     foot in five minutes
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:605-712
-  quote: it has eleven corridors arranged like the spokes of a wheel, so you can reach
-    any location on foot in five minutes.
   claim_id: 599150e2-22a7-43d5-b01b-f13635ca0df3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-599150e2-22a7-43d5-b01b-f13635ca0df3
@@ -135,8 +127,6 @@ references:
     around it
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:1030-1180
-  quote: The central courtyard is so big that you can fit the US Capitol building
-    inside it and still run laps around the building's gleaming white marble and sandstone.
   claim_id: dc584512-c483-4cb9-ba69-42fb1cc49a35
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dc584512-c483-4cb9-ba69-42fb1cc49a35
@@ -144,26 +134,18 @@ references:
     war objective
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:1191-1438
-  quote: A nugget of trivia I always found humorous occurred at the end of the Cold
-    War, when the DoD discovered to their amusement that the Soviets had targeted
-    a minuscule structure in the Pentagon's central plaza as a prime objective in
-    case of nuclear war.
   claim_id: 5cb40c48-eeb8-469a-adbd-8deba5bcb0e2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5cb40c48-eeb8-469a-adbd-8deba5bcb0e2
 - text: Soviets believed the structure was an elevator to a secret underground bunker
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:1503-1639
-  quote: the image showed an object at the center of the courtyard that for decades
-    the Russians thought was an elevator to a secret underground bunker
   claim_id: 01594bb9-5257-4ef9-805b-04a3e975c25b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-01594bb9-5257-4ef9-805b-04a3e975c25b
 - text: After the Berlin Wall fell, it was determined to be a hot dog stand
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:1799-1885
-  quote: The dot in the middle of the satellite imagery was nothing more than a humble
-    hot dog stand.
   claim_id: 92ef3c56-40db-4fda-9320-664c4000eff7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-92ef3c56-40db-4fda-9320-664c4000eff7
@@ -171,8 +153,6 @@ references:
     with 512,000 US dollars
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch4:10146-10295
-  quote: In 1967, as the University of Colorado began spending the $512,000 given
-    to Professor Condon by the Pentagon to study UFOs, my interest had begun to shift.
   claim_id: 18e7f387-896e-43d7-8305-214c6e8f1c99
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-18e7f387-896e-43d7-8305-214c6e8f1c99
@@ -180,8 +160,6 @@ references:
     been revealed
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch11:54252-54376
-  quote: '"His conclusions have never been revealed," answered Major Murphy with a
-    sigh that seemed to say, If only the Pentagon could talk!'
   claim_id: 205b7915-e34b-42a4-b68b-546fdd0bf778
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-205b7915-e34b-42a4-b68b-546fdd0bf778
@@ -189,9 +167,6 @@ references:
     the Pentagon
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:8618-8837
-  quote: In 1976, an article in the youth newspaper Komsomolskaya Pravda, by writer
-    Yeremei Parnov, implied that those who spread UFO stories are "flirting with superstitions
-    and religious impulses indirectly manipulated by the Pentagon."
   claim_id: e1de3359-7261-4a15-9976-d60bd3c565fc
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-e1de3359-7261-4a15-9976-d60bd3c565fc
@@ -199,8 +174,6 @@ references:
     manipulators'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:16085-16234
-  quote: But the UFO enthusiasts who are so anxious to "expose" the government have
-    not reflected that they may, once again, be playing into the hands of the manipulators.
   claim_id: b7309023-4006-45e4-9837-ba64dde969df
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-b7309023-4006-45e4-9837-ba64dde969df
@@ -307,10 +280,6 @@ references:
     chairman and Secretary of Defense
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:1936-2167
-  quote: I was assigned a parking spot along the coveted River Entrance, alongside
-    all the senior military staff, the chairman of the Joint Chiefs of Staff, the
-    secretaries of each service, all of the undersecretaries, and the secretary of
-    defense.
   claim_id: 18fc8638-0404-4146-b35c-cb8317742af0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-18fc8638-0404-4146-b35c-cb8317742af0
@@ -318,16 +287,12 @@ references:
     tour
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:19983-20090
-  quote: as often asked to give personal tours since I took visitors to areas that
-    are not part of the normal Pentagon tour.
   claim_id: 008a9ca0-1315-4ac5-bf09-32510257f504
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-008a9ca0-1315-4ac5-bf09-32510257f504
 - text: In February 2012 Elizondo was giving a tour to a Japanese VIP delegation
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:19782-19912
-  quote: Another tragedy befell our family months later, in February 2012. I was giving
-    a tour of the Pentagon to a Japanese delegation of VIPs.
   claim_id: c8e30de3-82e1-42f1-a0d6-e9a45973be71
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c8e30de3-82e1-42f1-a0d6-e9a45973be71
@@ -335,8 +300,6 @@ references:
     by a vehicle
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:21277-21359
-  quote: Now she lay in the back of an ambulance and I was an hour and a half away,
-    at the Pentagon.
   claim_id: 266ff356-ebe8-4c72-b2d1-007bc00af5af
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-266ff356-ebe8-4c72-b2d1-007bc00af5af
@@ -344,24 +307,18 @@ references:
     nomads
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:29157-29336
-  quote: In our youth, Jenn and I had been military nomads, traveling wherever in
-    the world I was stationed. My Pentagon job had marked the beginning of an unusual
-    period of stability for us.
   claim_id: 1edefc25-ff16-4b90-967c-b0539f42faf7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1edefc25-ff16-4b90-967c-b0539f42faf7
 - text: James Mattis accepted Secretary of Defense in the incoming Trump administration
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:21603-21740
-  quote: I was working in the Pentagon building with Mad Dog himself, who had accepted
-    the position of secretary of defense in the incoming Trump administration.
   claim_id: 946320f6-fe91-4fa3-bb3f-b34b03be8cf1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-946320f6-fe91-4fa3-bb3f-b34b03be8cf1
 - text: Puthoff suggested to Stratton that they meet Semivan at the Pentagon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:25289-25339
-  quote: Hal suggested to Jay that we meet with Jim at the Pentagon.
   claim_id: 3e74a9cc-0464-48e1-a915-9acbf7fda48b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e74a9cc-0464-48e1-a915-9acbf7fda48b
@@ -369,8 +326,6 @@ references:
     the Pentagon'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:27396-27512
-  quote: He had heard rumblings of a real UAP program being run out of the Pentagon,
-    so he was excited to have finally found us.
   claim_id: 6a867e3d-a14e-4657-9dd3-69e3a2d6dd08
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6a867e3d-a14e-4657-9dd3-69e3a2d6dd08
@@ -378,8 +333,6 @@ references:
     well
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:20417-20524
-  quote: He was a very shrewd reporter who knew the ins and outs of the Pentagon better
-    than most people who worked there.
   claim_id: 097c2173-2164-4fa4-a132-75bec74e479f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-097c2173-2164-4fa4-a132-75bec74e479f
@@ -387,9 +340,6 @@ references:
     not in believing'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:21100-21304
-  quote: Bryan didn't come across as a "UAP believer." Rather, he seemed interested
-    in the Pentagon having a program that wasn't ever disclosed to the public or Congress,
-    but I could be wrong.
   claim_id: 1fb5f84b-2e87-4e83-98d3-30699c510c71
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1fb5f84b-2e87-4e83-98d3-30699c510c71
@@ -397,8 +347,6 @@ references:
     AATIP role'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:23060-23182
-  quote: The Politico piece in particular spelled out that the Pentagon's spokesperson,
-    Dana White, had confirmed my role in the program.
   claim_id: c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
@@ -406,18 +354,12 @@ references:
     and was proud of him
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:25579-25703
-  quote: He greeted us warmly, saying how surprised he was that the Pentagon admitted
-    it had a UAP program, and that he was proud of me.
   claim_id: 70109fb6-1cd1-4df1-b8bb-9b6313a22794
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-70109fb6-1cd1-4df1-b8bb-9b6313a22794
 - text: OUSDI authorised deletion of Elizondo's files, per a Pentagon FOIA response
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:27894-28163
-  quote: Sometime shortly thereafter, someone in OUSD(I) allegedly authorized the
-    complete deletion of all my electronic files, folders, and emails, under the justification
-    that they had "no historic value." Or so claimed a Freedom of Information Act
-    response from the Pentagon itself.
   claim_id: 10e36531-a250-4832-9d33-d971309aa8db
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10e36531-a250-4832-9d33-d971309aa8db
@@ -425,18 +367,12 @@ references:
     nuclear facilities, ICBMs taken offline
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:34352-34647
-  quote: Another shocking admission which completely took me by surprise was that
-    the Pentagon was unaware of the incursions of UAP near sensitive nuclear facilities.
-    The Pentagon admitted it was unaware of its own reporting going back to instances
-    including ICBMs being taken offline.
   claim_id: a274584d-4cdd-4515-a79c-68649db65e3a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a274584d-4cdd-4515-a79c-68649db65e3a
 - text: 'Elizondo: a records review would have found the Pentagon''s own prior reports'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:34656-34797
-  quote: Had the Pentagon done even a cursory review of its own records, it would
-    have realized that the Pentagon itself had written reports on these incursions.
   claim_id: 96724a0b-4cd7-444c-84e6-77bf212d9003
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-96724a0b-4cd7-444c-84e6-77bf212d9003
@@ -444,8 +380,6 @@ references:
     Force'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:41447-41577
-  quote: 'A spokesperson confirmed to the media: “Mr. Elizondo provides technical
-    advice on a variety of classified topics for the US Space Force.”'
   claim_id: 547e4e1a-db91-4538-8afb-80d259c1a735
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-547e4e1a-db91-4538-8afb-80d259c1a735

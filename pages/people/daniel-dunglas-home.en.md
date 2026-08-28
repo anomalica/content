@@ -50,14 +50,12 @@ references:
 - text: Home lived from 1833 to 1886.
   source: Surviving Death
   location: ch35:23892-23918
-  quote: Daniel Dunglas Home (1833–1886)
   claim_id: 22c188d6-a0b2-4ab0-a017-48d128ea16fd
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-22c188d6-a0b2-4ab0-a017-48d128ea16fd
 - text: Home was born in Scotland and raised in America.
   source: Surviving Death
   location: ch35:24072-24103
-  quote: Born in Scotland but raised in America
   claim_id: 3891d29f-abc5-4c41-95ec-0ce2b4b9be80
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3891d29f-abc5-4c41-95ec-0ce2b4b9be80
@@ -65,7 +63,6 @@ references:
     mediums.
   source: Surviving Death
   location: ch35:23925-23996
-  quote: considered along with Eusapia to be one of the most impressive mediums ever
   claim_id: 0d5ad3aa-5864-4edf-8b12-5a8875bee987
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0d5ad3aa-5864-4edf-8b12-5a8875bee987
@@ -73,16 +70,12 @@ references:
     cheating.
   source: Surviving Death
   location: ch35:24002-24062
-  quote: demonstrated for twenty-five years and was never accused of cheating
   claim_id: 03d678ae-4103-4720-8ebf-3f380fa1b554
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-03d678ae-4103-4720-8ebf-3f380fa1b554
 - text: Home was studied under controlled observation for many years by William Crookes.
   source: Surviving Death
   location: ch35:24112-24325
-  quote: Home (pronounced "Hume") was under carefully controlled observation for many
-    years by Sir William Crookes, a prominent chemist and physicist noted for his
-    discovery of the element thallium and for his cathode-ray studies.
   claim_id: ecb87c99-c412-4dc2-9f40-cfadb0e6096d
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ecb87c99-c412-4dc2-9f40-cfadb0e6096d
@@ -90,7 +83,6 @@ references:
     size, shape and colour.
   source: Surviving Death
   location: ch35:24495-24567
-  quote: Hands, supple, solid, mobile, and warm, of different sizes, shapes, and colors.
   claim_id: c82ce6bf-5f79-44f4-acb6-7d8375d91a55
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c82ce6bf-5f79-44f4-acb6-7d8375d91a55
@@ -98,8 +90,6 @@ references:
     and dissolved.
   source: Surviving Death
   location: ch35:24575-24701
-  quote: Although the hands were animated and solid to the touch, they would often
-    end at or near the wrist and eventually dissolve or melt.
   claim_id: d73b0252-0634-4e51-8683-c4b0aa5fe432
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d73b0252-0634-4e51-8683-c4b0aa5fe432
@@ -107,8 +97,6 @@ references:
     to Home had been.
   source: Surviving Death
   location: ch35:24707-24837
-  quote: Sometimes the hands were said to be disfigured exactly as the hands of a
-    deceased ostensible communicator (unknown to Home) had been.
   claim_id: 24bbed18-9cf1-45ea-8604-cd0f0f046aab
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-24bbed18-9cf1-45ea-8604-cd0f0f046aab
@@ -116,9 +104,6 @@ references:
     pull his coat.
   source: Surviving Death
   location: ch35:24906-25089
-  quote: On another occasion a small hand and arm, like a baby's, appeared playing
-    about a lady who was sitting next to me. It then passed to me and patted my arm
-    and pulled my coat several times.
   claim_id: 1f37f3f5-36e5-4a90-a5a6-57ea63b782eb
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1f37f3f5-36e5-4a90-a5a6-57ea63b782eb
@@ -126,41 +111,30 @@ references:
     visible.
   source: Surviving Death
   location: ch35:25100-25287
-  quote: A hand has repeatedly been seen by myself and others playing the keys of
-    an accordion, both of the medium's hands being visible at the same time, and sometimes
-    being held by those near him.
   claim_id: 46bad456-ad7e-4643-ad03-c2cb54c12d55
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-46bad456-ad7e-4643-ad03-c2cb54c12d55
 - text: Crookes noted the hand felt icy cold at times and warm and lifelike at others.
   source: Surviving Death
   location: ch35:25296-25440
-  quote: To the touch the hand sometimes appears icy cold and dead, at other times
-    warm and lifelike, grasping my own with the firm pressure of an old friend.
   claim_id: 7f0e4619-4bc1-49a2-b21d-edaccb7bf680
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7f0e4619-4bc1-49a2-b21d-edaccb7bf680
 - text: Home was observed on some occasions to levitate.
   source: The Fourth Mind
   location: ch22:26850-26942
-  quote: One nineteenth-century practitioner, Daniel Dunglas Home, was observed on
-    some occasions to levitate.
   claim_id: 431a6cbd-1123-4c96-85cb-c4485e95b383
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-431a6cbd-1123-4c96-85cb-c4485e95b383
 - text: Crookes observed Home's levitation and found no evidence of fraud.
   source: The Fourth Mind
   location: ch22:27045-27144
-  quote: a noted scientist of the period, Sir William Crookes, observed levitation
-    and found no evidence of fraud.
   claim_id: 85fadb92-1ee1-4d6d-9412-bbac3ec92237
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-85fadb92-1ee1-4d6d-9412-bbac3ec92237
 - text: Mark Twain witnessed Home and believed him to be genuine.
   source: The Fourth Mind
   location: ch22:26952-27032
-  quote: Home was witnessed by many people, including Mark Twain, who believed him
-    to be genuine
   claim_id: b89d26a8-c239-472e-af73-2fac708383d3
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-b89d26a8-c239-472e-af73-2fac708383d3
@@ -168,8 +142,6 @@ references:
     but that they would show what they could do.
   source: Surviving Death
   location: ch38:18555-18673
-  quote: 'The spirit communicator stated: “It is impossible for matter to pass through
-    matter, but we will show you what we can do.”'
   claim_id: f711c853-f081-4851-a0ba-7b3e37d170c3
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f711c853-f081-4851-a0ba-7b3e37d170c3
@@ -177,12 +149,6 @@ references:
     view of those present.
   source: Surviving Death
   location: ch38:18678-19111
-  quote: There was a bouquet of flowers on the center of the table. “In full view
-    of all present, a piece of china-grass fifteen inches long, which formed the center
-    ornament of the bouquet, slowly rose from the other flowers, and then descended
-    to the table in front of the vase between it and Mr. Home. It did not stop on
-    reaching the table, but went straight through it, and we all watched it till it
-    had entirely passed through,” Crookes wrote.
   claim_id: d04c4f7f-cf69-4ffc-a0f1-c4026661ef84
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d04c4f7f-cf69-4ffc-a0f1-c4026661ef84
@@ -190,8 +156,6 @@ references:
     pressure or abrasion.
   source: Surviving Death
   location: ch38:19118-19202
-  quote: Home’s hands were visible to all, and the grass stem showed no signs of pressure
-    or abrasion.
   claim_id: e0f3c667-a8ea-472a-8efc-c557a5afb624
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e0f3c667-a8ea-472a-8efc-c557a5afb624
@@ -199,9 +163,6 @@ references:
     with Home.
   source: Surviving Death
   location: ch36:3466-3635
-  quote: the strength and variety of the observed phenomena resemble those associated
-    with Daniel Dunglas Home, considered to be one of the most remarkable physical
-    mediums ever studied
   claim_id: 8cb1ca51-b1b6-4073-bf5d-2d2d28833e98
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8cb1ca51-b1b6-4073-bf5d-2d2d28833e98

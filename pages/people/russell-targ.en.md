@@ -61,9 +61,6 @@ references:
     by the CIA over a Russian remote viewing programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:25266-25447
-  quote: Hal had been a Stanford University researcher and an employee of the NSA
-    when he and his colleague Russell Targ were approached by the CIA and told that
-    Russia had a remote-viewing program.
   claim_id: 625a284f-b4d0-4b1e-a20c-70cf133e40cc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
@@ -80,8 +77,6 @@ references:
     accomplishments from 1972 through 1986
   source: Remote Viewing Secrets
   location: ch9:7692-7822
-  quote: These accomplishments were and are directly attributable to Dr. Hal Puthoff
-    and Mr. Russell Targ in the early years, 1972 through 1986
   claim_id: f4cb33f4-fcae-4d9c-ac99-b5f27a536892
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f4cb33f4-fcae-4d9c-ac99-b5f27a536892
@@ -90,8 +85,6 @@ references:
     in 1976
   source: Remote Viewing Secrets
   location: ch17:4388-4541
-  quote: Historically this is the baseline protocol that brought notoriety to remote
-    viewing following publication in the IEEE by Hal Puthoff and Russell Targ in 1976.
   claim_id: 28ae29f3-6fce-459c-b88b-a56ed32a6fc8
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-28ae29f3-6fce-459c-b88b-a56ed32a6fc8
@@ -99,10 +92,6 @@ references:
     and contract monitors, learned to perform well under the SRI procedure
   source: Remote Viewing Secrets
   location: ch16:2166-2423
-  quote: The development at SRI of a successful experimental procedure to elicit this
-    capability has evolved to the point where persons such as visiting government
-    scientists and contract monitors, with no previous exposure to such concepts,
-    have learned to perform well
   claim_id: fadb57c8-ea4e-41aa-ac48-caede7a11946
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-fadb57c8-ea4e-41aa-ac48-caede7a11946
@@ -110,8 +99,6 @@ references:
     variety of experimental conditions
   source: Remote Viewing Secrets
   location: ch16:2433-2541
-  quote: subjects who have trained over a one-year period have performed excellently
-    under a variety of experimental conditions.
   claim_id: b38c3f0f-e758-4bc5-bbca-248464eca087
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-b38c3f0f-e758-4bc5-bbca-248464eca087
@@ -119,9 +106,6 @@ references:
     could be assisted in developing remote perceptual abilities to a useful level
   source: Remote Viewing Secrets
   location: ch16:2553-2734
-  quote: Our accumulated data thus indicate that both specially selected and unselected
-    persons can be assisted in developing remote perceptual abilities up to a level
-    of useful information transfer.
   claim_id: 8bef8daf-91e6-4f65-bc05-f65963c367d4
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-8bef8daf-91e6-4f65-bc05-f65963c367d4
@@ -129,16 +113,12 @@ references:
     controlled conditions at better-than-chance, not world-class remote viewing
   source: Remote Viewing Secrets
   location: ch16:3129-3267
-  quote: What they actually mean here is the ability to display psychic functioning
-    under controlled conditions (or achieving a better than chance result).
   claim_id: 259bd5d6-c58f-4903-b4db-0b09726fcd4a
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-259bd5d6-c58f-4903-b4db-0b09726fcd4a
 - text: Most subjects displayed some degree of remote viewing talent from the outset
   source: Remote Viewing Secrets
   location: ch16:3847-3958
-  quote: 'most of the people Hal and Russell worked with were the ones who: A: Displayed
-    some degree of talent from the outset.'
   claim_id: f0f06ca1-2502-415c-bab2-b490d93768f7
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f0f06ca1-2502-415c-bab2-b490d93768f7
@@ -146,8 +126,6 @@ references:
     a form of self-selection
   source: Remote Viewing Secrets
   location: ch16:3967-4096
-  quote: 'B: Voluntarily chose to continue involvement out of a strong personal interest
-    in the subject (which is obviously a form of self-selection).'
   claim_id: 0a65b0eb-f7d0-467d-9cb8-a2daff7291b5
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-0a65b0eb-f7d0-467d-9cb8-a2daff7291b5
@@ -155,8 +133,6 @@ references:
     Targ, a laser pioneer
   source: Surviving Death
   location: ch30:4544-4680
-  quote: and coauthored two books on nonlocal consciousness and healing with physicist
-    Russell Targ, who was a pioneer in the development of the laser.
   claim_id: 2d7129da-8ba7-4066-a2d9-a43d43721086
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2d7129da-8ba7-4066-a2d9-a43d43721086
@@ -164,8 +140,6 @@ references:
     and died in 2002
   source: Surviving Death
   location: ch30:4687-4766
-  quote: In 2002, psychiatrist Elisabeth Targ, her close friend and Russell’s daughter,
-    died.
   claim_id: af850541-be4c-41f6-865e-b8e827479fbb
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-af850541-be4c-41f6-865e-b8e827479fbb
@@ -173,8 +147,6 @@ references:
     and suggested Katra read it aloud
   source: Surviving Death
   location: ch30:7154-7291
-  quote: He brought out the letter when he was eating lunch together with Jane and
-    Russell Targ, and suggested that Jane read it aloud for all to hear.
   claim_id: 38b2aa65-f941-4ad3-96a3-a53b7bd81e36
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-38b2aa65-f941-4ad3-96a3-a53b7bd81e36
@@ -182,8 +154,6 @@ references:
     not nonsense
   source: Surviving Death
   location: ch30:7297-7446
-  quote: After Jane had read the sequence of nonsense syllables out loud a few times,
-    Russell exclaimed, “Wait a minute! Those words aren’t nonsense! They’re Russian!”
   claim_id: 93a8ee42-3453-4cfc-b937-e800c315d973
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-93a8ee42-3453-4cfc-b937-e800c315d973

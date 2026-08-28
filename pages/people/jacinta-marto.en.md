@@ -288,16 +288,12 @@ references:
 - text: Jacinta Marto born 1910-03-11, twenty-one months after her brother Francisco
   source: The Fatima Secret
   location: ch8:2871-2957
-  quote: Francisco's sister Jacinta was born exactly twenty-one months after him,
-    on March 11, 1910.
   claim_id: 122681be-8bcf-4af8-91c0-7049df4a30fc
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-122681be-8bcf-4af8-91c0-7049df4a30fc
 - text: Aljustrel, where the children lived, was part of the village of Fatima
   source: The Fatima Secret
   location: ch9:710-839
-  quote: The hamlet of Aljustrel, where Lúcia, Jacinta, and Francisco lived, was part
-    of the village of Fatima, which got its name from a legend.
   claim_id: f82cf830-cfb3-4566-aec8-550489983028
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f82cf830-cfb3-4566-aec8-550489983028
@@ -305,8 +301,6 @@ references:
     slope
   source: The Fatima Secret
   location: ch8:9470-9614
-  quote: Several months later, in the spring of 1916, Lúcia, Francisco, and Jacinta
-    were watching their herds on the eastern slope of the Loca do Cabeso mountain.
   claim_id: d5d1f044-2441-4c49-83aa-9e5edb72c3bb
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d5d1f044-2441-4c49-83aa-9e5edb72c3bb
@@ -314,8 +308,6 @@ references:
     did not'
   source: The Fatima Secret
   location: ch8:12173-12246
-  quote: Lúcia and Jacinta heard these words, but not Francisco, who only saw the
-    angel.
   claim_id: fcb06f81-1f00-4411-a05d-94da11dcdb62
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-fcb06f81-1f00-4411-a05d-94da11dcdb62
@@ -323,18 +315,12 @@ references:
     de Cabeço
   source: The Fatima Secret
   location: ch8:12882-13042
-  quote: Late in August the angel showed himself for the third time. This time the
-    children were on the mountain slope between Preguiera and Lapa de Cabeco, overlooking
-    Aljustrel.
   claim_id: 32fe8e29-0b11-4138-b0c7-ea2a1774081b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-32fe8e29-0b11-4138-b0c7-ea2a1774081b
 - text: '1917-05-13: dazzling flash of light at Cova da Iria, assumed to be lightning'
   source: The Fatima Secret
   location: ch9:3327-3509
-  quote: Suddenly, they were interrupted by a dazzling flash of light. They assumed
-    it was lightning and were worried that a storm was coming, for then they would
-    have to head for home right away.
   claim_id: 12c6db3d-29ee-4b60-8f53-05818b163d9c
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-12c6db3d-29ee-4b60-8f53-05818b163d9c
@@ -342,53 +328,36 @@ references:
     listened
   source: The Fatima Secret
   location: ch9:8000-8201
-  quote: It turned out that only Lúcia had spoken to the Lady. Jacinta had only listened,
-    and Francisco had only seen her lips move. He couldn’t hear anything that she
-    or Lúcia said. It had all taken about ten minutes.
   claim_id: 6b9c8f87-ec76-4e57-b1ca-d03226925354
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6b9c8f87-ec76-4e57-b1ca-d03226925354
 - text: Jacinta could not keep the secret and told her mother Olimpia Marto
   source: The Fatima Secret
   location: ch9:9178-9494
-  quote: But Jacinta had barely gotten home before she forgot her promise. She always
-    told her mother everything and never kept secrets. She tried to keep silent but
-    finally couldn’t control herself anymore. She ran to her mother, grabbed her around
-    her knees, and cried out excitedly, “Mama, I saw Our Dear Lady in the Cova today!”
   claim_id: bd1da02f-c011-4d9d-bca8-a986ae667a78
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-bd1da02f-c011-4d9d-bca8-a986ae667a78
 - text: Olimpia Marto laughed and mockingly called Jacinta a saint
   source: The Fatima Secret
   location: ch9:9503-9638
-  quote: Senhora Marto laughed at her daughter. “Oh, yes, you certainly did,” she
-    said, “and you are a saint now, for you can see the Mother of God!”
   claim_id: 6fe1441d-0c76-4c53-8eb0-85d5756642b2
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6fe1441d-0c76-4c53-8eb0-85d5756642b2
 - text: Second apparition, 1917-06-13, parents refused to accompany the children
   source: The Fatima Secret
   location: ch9:12566-12803
-  quote: Following the instructions of the “White Lady,” Lúcia, Jacinta, and Francisco
-    arrived about eleven o’clock. Their parents had refused to come with them, because
-    they were afraid of being embarrassed if the whole thing turned out to be a fraud.
   claim_id: ed56adf5-d3c3-4a92-a563-c9be0b4fce6e
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ed56adf5-d3c3-4a92-a563-c9be0b4fce6e
 - text: Third apparition, 1917-07-13, vision of hell and the three secrets revealed
   source: The Fatima Secret
   location: ch25:115-207
-  quote: The children on July 13, 1917, after their “vision of hell” and the revelation
-    of the three secrets.
   claim_id: a7b07b42-e56f-4024-a94a-58bec055593b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-a7b07b42-e56f-4024-a94a-58bec055593b
 - text: For eighty years the content of the Third Secret was not known publicly
   source: The Fatima Secret
   location: ch10:6974-7137
-  quote: For eighty years, we did not know what she revealed to Lúcia and Jacinta
-    after that. The Third Secret of Fatima was perhaps the most closely guarded secret
-    of the Church.
   claim_id: b3412c24-de64-45e8-a25c-8605eebfbf02
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b3412c24-de64-45e8-a25c-8605eebfbf02
@@ -396,32 +365,24 @@ references:
 - text: Artur Santos abducted the three children toward Ourém, 1917-08-13
   source: The Fatima Secret
   location: ch10:15406-15430
-  quote: Santos had abducted the children.
   claim_id: 07eef032-889e-4039-aab6-5ca930615177
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-07eef032-889e-4039-aab6-5ca930615177
 - text: Santos threatened to throw them in boiling oil to force the secret from them
   source: The Fatima Secret
   location: ch10:18436-18655
-  quote: Meanwhile Santos tried to bribe the children to reveal their secret to him.
-    He then threatened to throw them into kettles filled with boiling oil. For two
-    hours they sat in a cell at the local prison, fearing for their lives.
   claim_id: c8dfe9ca-9083-4df8-848d-a06d4e88ed03
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-c8dfe9ca-9083-4df8-848d-a06d4e88ed03
 - text: Jacinta said she and her siblings did not care if Santos killed them
   source: The Fatima Secret
   location: ch10:15882-15983
-  quote: “You can kill us, but we don't care,” cried out Jacinta defiantly. “That
-    way we'll only get to heaven quicker.”
   claim_id: acacb279-3fe7-4605-b930-754f5d8fb467
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-acacb279-3fe7-4605-b930-754f5d8fb467
 - text: Fourth apparition occurred near Valinhos after the abduction
   source: The Fatima Secret
   location: ch10:19678-19804
-  quote: A few days later the Madonna appeared to the children, again above an oak
-    tree, but this time near the field of Valinhos near Aljustral.
   claim_id: 78822d3c-dc84-4030-ae72-512db90314e3
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-78822d3c-dc84-4030-ae72-512db90314e3
@@ -429,8 +390,6 @@ references:
     1917-09-27
   source: The Fatima Secret
   location: ch11:9177-9325
-  quote: On September 27 he had long, separate interviews with each of them, and thanks
-    to his records, we have an accurate report of what happened, free of distortion.
   claim_id: 28671e53-0341-41b7-918e-931aaf683b9a
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-28671e53-0341-41b7-918e-931aaf683b9a
@@ -438,16 +397,12 @@ references:
     since May
   source: The Fatima Secret
   location: ch11:10953-11030
-  quote: “Have you seen Our Dear Lady, since May, on the thirteenth of every month?”
-    “Yes.”
   claim_id: 409d7a1c-5457-409b-84f8-c862f3955cb1
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-409d7a1c-5457-409b-84f8-c862f3955cb1
 - text: Jacinta described the Lady's white and gold dress and folded hands to Formigao
   source: The Fatima Secret
   location: ch11:11148-11244
-  quote: “She wears a white dress decorated with gold and she wears a cloak, also
-    white, which covers her head.”
   claim_id: 67721705-cd97-4352-b7db-0ad69dd8642b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-67721705-cd97-4352-b7db-0ad69dd8642b
@@ -455,10 +410,6 @@ references:
     message
   source: The Fatima Secret
   location: 19-23
-  quote: '''It was on the thirteenth of October 1917... A severe punishment will come
-    to the whole of mankind, not today, not tomorrow, but in the second half of the
-    twentieth century.... The great war will break out in the second half of the twentieth
-    century. Fire and smoke will fall from the sky...'''
   claim_id: 97d60b44-755b-4212-ae18-d23a4febc9bf
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-97d60b44-755b-4212-ae18-d23a4febc9bf
@@ -466,26 +417,18 @@ references:
     another year
   source: The Fatima Secret
   location: ch12:18170-18400
-  quote: '''The war will come to an end today, and you can expect the soldiers to
-    return shortly,'' answered Lúcia and Jacinta... The war did not come to an end
-    that day, but went on for another year.'
   claim_id: 73d5086d-7390-4c12-949b-2977706a17d5
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-73d5086d-7390-4c12-949b-2977706a17d5
 - text: Manuel Pedro Marto described Jacinta's white dress with lace bows on 1917-10-13
   source: The Fatima Secret
   location: ch12:3650-3814
-  quote: Lúcia's dress was blue and Jacinta's white. She placed white lace bows on
-    their heads so they looked like little angels as they walked in the procession
-    to the oak tree.
   claim_id: e7d0a415-9c0b-480b-8358-04f94d31f83b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-e7d0a415-9c0b-480b-8358-04f94d31f83b
 - text: '1917-10-13: Jacinta carried in the arms of a man at Cova da Iria'
   source: The Fatima Secret
   location: ch25:226-318
-  quote: 'October 13, 1917: The children are brought to the apparition site, Jacinta
-    in the arms of a man.'
   claim_id: 9ce213b3-3e1b-4be2-be6e-be3a0a9b4fda
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-9ce213b3-3e1b-4be2-be6e-be3a0a9b4fda
@@ -493,27 +436,18 @@ references:
     priests
   source: The Fatima Secret
   location: ch13:4331-4616
-  quote: “I am thinking of the Savior and the Mother of God, of sinners and about
-    the war to come. How many people will die in it! So many houses will be destroyed,
-    so many priests will be killed. Oh, how terrible it all is! If only they would
-    stop insulting and hurting God, this war would not happen.”
   claim_id: fcf35587-8a2f-4b4d-b0e9-074c210a4680
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-fcf35587-8a2f-4b4d-b0e9-074c210a4680
 - text: 'Hesemann: her mother could not have known of the coming Second World War'
   source: The Fatima Secret
   location: ch13:4626-4764
-  quote: Since World War I had just come to an end, her mother couldn’t have known
-    what she was talking about. But the Second World War was on the horizon.
   claim_id: 7695ac36-fe1d-4cd8-9c17-b2eb66208d82
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7695ac36-fe1d-4cd8-9c17-b2eb66208d82
 - text: Jacinta, Francisco and their mother fell ill with Spanish flu in late 1918
   source: The Fatima Secret
   location: ch13:4774-4973
-  quote: A year after the visions, in either October or December of 1918 (the record
-    isn’t clear), Jacinta, Francisco, and their mother fell ill with the Spanish flu,
-    which was raging through Europe in those days.
   claim_id: 27489fe8-b3e7-4e9b-b161-e4c14e188f3e
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-27489fe8-b3e7-4e9b-b161-e4c14e188f3e
@@ -521,29 +455,18 @@ references:
     would suffer in hospital
   source: The Fatima Secret
   location: ch13:5056-5468
-  quote: “Our Dear Lady came to visit us and said she would soon take Francisco with
-    her to heaven. She asked me if I wanted to convert more sinners. I said yes. She
-    then said that I would go to a hospital and suffer a great deal there. I asked
-    her whether you would come with me. She said no, and that is what hurts me the
-    most. She said my mother would take me to the hospital, and after that I would
-    have to stay there alone.”
   claim_id: df98d4be-fb0d-4b98-baad-3655e8c20c59
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-df98d4be-fb0d-4b98-baad-3655e8c20c59
 - text: Francisco Marto died 1919-04-04 of lung inflammation
   source: The Fatima Secret
   location: ch13:5477-5592
-  quote: On April 4, 1919, the first part of this prophecy was fulfilled. Francisco
-    died after a severe inflammation of the lungs.
   claim_id: e9fa0140-8e46-473f-8317-818be4055d20
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-e9fa0140-8e46-473f-8317-818be4055d20
 - text: Dr Formigao described Jacinta as skeletal, feverish, with tuberculosis
   source: The Fatima Secret
   location: ch13:5819-6019
-  quote: “She resembles a skeleton, her arms are frightfully thin,” he said. “Since
-    leaving the hospital she has never been free of fever. It is heartbreaking to
-    see her. Tuberculosis is now eating up her weak body.”
   claim_id: 7c3046aa-4ca9-4d11-90b0-b0c846fc7ed5
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7c3046aa-4ca9-4d11-90b0-b0c846fc7ed5
@@ -551,46 +474,36 @@ references:
     Freire
   source: The Fatima Secret
   location: ch13:6893-7032
-  quote: On February 2, 1920, Jacinta was taken to the D. Estefania hospital to be
-    treated by the most prominent pediatrician in Lisbon, Dr. Castro Freire.
   claim_id: 4493f24c-5e66-4c6f-9069-8fb7b24c4db4
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-4493f24c-5e66-4c6f-9069-8fb7b24c4db4
 - text: Castro Freire operated on Jacinta, 1920-02-10
   source: The Fatima Secret
   location: ch13:10672-10717
-  quote: On February 10 Dr. Castro Freire operated on Jacinta.
   claim_id: 55d70130-70d0-453c-9e03-5ee15097a401
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-55d70130-70d0-453c-9e03-5ee15097a401
 - text: After the operation, Jacinta said Our Lady would soon take her to heaven
   source: The Fatima Secret
   location: ch13:10770-10933
-  quote: When the Mother Superior visited her at the hospital, Jacinta told her, “I
-    feel better now. Our Dear Lady said she would soon relieve me of my pain and take
-    me to heaven.”
   claim_id: 0239470c-fe8f-49f1-a8fd-aafc1697ce2a
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-0239470c-fe8f-49f1-a8fd-aafc1697ce2a
 - text: Jacinta Marto died 1920-02-20
   source: The Fatima Secret
   location: ch13:10942-10972
-  quote: On February 20, 1920, Jacinta died.
   claim_id: ef629299-ebed-4190-973e-17c97f02f29b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ef629299-ebed-4190-973e-17c97f02f29b
 - text: Remains reburied at Fatima cemetery, 1934-09-12
   source: The Fatima Secret
   location: ch13:11232-11363
-  quote: On September 12, 1934, the remains of Jacinta and Francisco were reburied
-    in a grave chosen especially for them at the cemetery of Fatima.
   claim_id: 6b2a7c87-a7dc-45f1-b488-057edc49ba51
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6b2a7c87-a7dc-45f1-b488-057edc49ba51
 - text: Body found undecayed when exhumed, 1935-09-12
   source: The Fatima Secret
   location: ch25:834-890
-  quote: The undecayed body of Jacinta, exhumed on September 12, 1935.
   claim_id: 7745bf86-705c-4544-b66b-476f2bc05382
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7745bf86-705c-4544-b66b-476f2bc05382
@@ -598,31 +511,24 @@ references:
     1951
   source: The Fatima Secret
   location: ch13:11511-11662
-  quote: After the beautiful basilica was built at the site of the vision, the bodies
-    were transferred there in 1951 and buried inside the church, close to the altar.
   claim_id: 914e95e5-00a7-4c12-b783-da69ff825258
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-914e95e5-00a7-4c12-b783-da69ff825258
 - text: Cardinal Ottaviani's 1967 declaration called them Lúcia's 'brother and sister'
   source: The Fatima Secret
   location: ch17:11547-11652
-  quote: Later on in his declaration Cardinal Ottaviani referred to Jacinto and Francisco
-    as Lúcia's "brother and sister."
   claim_id: 922bde38-3dee-4e6a-84dc-ea5ecb95b54d
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-922bde38-3dee-4e6a-84dc-ea5ecb95b54d
 - text: John Paul II beatified Jacinta and Francisco Marto in 2000
   source: The Fatima Secret
   location: ch18:15798-15831
-  quote: In 2000 he beatified Jacinta and Francisco.
   claim_id: 95ee8420-87a4-4762-a1fb-36016cf6c60d
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-95ee8420-87a4-4762-a1fb-36016cf6c60d
 - text: Beatification ceremony, 2000-05-13, pictures displayed on the Basilica tower
   source: The Fatima Secret
   location: ch24:9634-9768
-  quote: Next came the ceremony of the beatification of Francisco and Jacinta, whose
-    pictures were displayed on both sides of the tower of the basilica.
   claim_id: abd7d063-ffd7-45ab-b235-6b5a7f8685b2
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-abd7d063-ffd7-45ab-b235-6b5a7f8685b2
@@ -630,8 +536,6 @@ references:
     advanced their sainthood cause
   source: The Fatima Secret
   location: ch24:2341-2491
-  quote: The documentation of a miracle at Fatima by the Vatican Congregation for
-    the Cause of the Saints had finally put Francisco and Jacinta on the road to sainthood.
   claim_id: 1dc0109b-4774-4a6e-a5b3-d00c10305998
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-1dc0109b-4774-4a6e-a5b3-d00c10305998
@@ -639,10 +543,6 @@ references:
     of punishment
   source: The Fatima Secret
   location: ch16:7902-8161
-  quote: “Tell them, Father, that the Most Holy Virgin told my cousins, Francisco
-    and Jacinta, and me, that many nations will vanish from the face of the earth.
-    She said that Russia would be the instrument of punishment, if we do not convert
-    that poor nation before it happens.”
   claim_id: 136361a3-06f0-469d-ac46-98110a5aae12
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-136361a3-06f0-469d-ac46-98110a5aae12
@@ -650,8 +550,6 @@ references:
     an advanced age in a convent
   source: THE INVISIBLE COLLEGE
   location: ch15:21077-21205
-  quote: Two of the three children at Fatima died young, as the Lady had predicted,
-    but Lucia lived secluded in a convent to an advanced age.
   claim_id: 60d94d32-6d6d-4af4-bab0-f0cd784eac17
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-60d94d32-6d6d-4af4-bab0-f0cd784eac17
@@ -659,8 +557,6 @@ references:
     and Francisco Marto seeing an angel in spring 1917
   source: American Cosmic
   location: ch5:19467-19610
-  quote: It started with the three children, nine-year-old Lucia Santos and her cousins,
-    Jacinta and Francisco Marto, who saw an angel in the spring of 1917.
   claim_id: 82706c31-faa6-409a-8dbf-342d6f15ffa2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-82706c31-faa6-409a-8dbf-342d6f15ffa2
@@ -668,8 +564,6 @@ references:
     adulthood, which proved true
   source: American Cosmic
   location: ch5:27474-27600
-  quote: One of the predictions of the lady was that Jacinta and Francisco would die
-    before they reached adulthood, which sadly proved true.
   claim_id: 6182013e-ddf8-4b01-af3b-daedb1b9f915
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6182013e-ddf8-4b01-af3b-daedb1b9f915

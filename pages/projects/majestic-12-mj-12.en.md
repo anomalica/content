@@ -119,8 +119,6 @@ references:
     Majestic/MJ-12, tasked with the alien problem
   source: Dark Mission
   location: ch12:70700-70843
-  quote: It also listed a group of twelve members of a new organization tasked with
-    dealing with the "alien problem." The group, called Majestic or "MJ 12,"
   claim_id: 02360263-a2e6-498e-bda3-83db4bca416e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-02360263-a2e6-498e-bda3-83db4bca416e
@@ -171,7 +169,6 @@ references:
 - text: Bush and Menzel named as founding members in the Shandera memo
   source: Dark Mission
   location: ch12:70848-70890
-  quote: included both Bush and Menzel as founding members
   claim_id: a572a8f5-a29b-4d13-8123-45fd3f1a2c87
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a572a8f5-a29b-4d13-8123-45fd3f1a2c87
@@ -179,9 +176,6 @@ references:
     debunking record
   source: Dark Mission
   location: ch12:70899-71090
-  quote: At first, debunkers used the presence of Menzel on the list as "proof" the
-    documents were forgeries, since Menzel had been a frequent UFO debunker publicly
-    (having written three books on the subject)
   claim_id: 2b5d7616-bab2-476e-8b26-1069b00fcd66
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2b5d7616-bab2-476e-8b26-1069b00fcd66
@@ -189,9 +183,6 @@ references:
     life
   source: Dark Mission
   location: ch12:71453-71676
-  quote: long-time UFO researcher (and nuclear physicist) Stanton Friedman went painstakingly
-    through Menzel's papers as part of his research for a book on the MJ 12 documents,
-    and discovered that Menzel had led an elaborate double life
   claim_id: 5bbc4fd3-2f27-4063-9b70-aaa71ae5f2ff
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5bbc4fd3-2f27-4063-9b70-aaa71ae5f2ff
@@ -199,26 +190,18 @@ references:
     programmes
   source: Dark Mission
   location: ch12:71682-71891
-  quote: Friedman found numerous references to Menzel's participation in a variety
-    of intelligence projects and committees, including some top-secret weapons programs
-    that would have made him an ideal candidate for MJ 12.
   claim_id: 4c88887e-d711-4ed6-a300-f370dd92e4a1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4c88887e-d711-4ed6-a300-f370dd92e4a1
 - text: Friedman argues for the validity of the MJ-12 documents and organisation
   source: Dark Mission
   location: ch12:71895-72005
-  quote: Friedman also makes a compelling argument for the validity of the MJ 12 documents,
-    and the existence of MJ 12 itself.
   claim_id: 478aecf4-3309-4046-99da-e68e604c067f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-478aecf4-3309-4046-99da-e68e604c067f
 - text: Researchers have identified Theodore von Karman as a possible MJ-12 member
   source: Dark Mission
   location: ch12:79156-79328
-  quote: The MJ-12 document researchers have also identified Von Karman as a possible
-    member of MJ-12—based on his name appearing on certain new documents they have
-    been recently unearthed.
   claim_id: 3726d3f8-a83b-4a4d-8468-d12a6f7d03e6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3726d3f8-a83b-4a4d-8468-d12a6f7d03e6

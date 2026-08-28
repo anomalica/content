@@ -112,7 +112,6 @@ references:
     et nauta'
   source: The Fatima Secret
   location: ch21:10848-10919
-  quote: “Pastor et nauta,” “shepherd and seafarer,” applied to John XXIII (1958–63)
   claim_id: 4182bd9b-0566-4af3-9366-fb71c84356bb
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-4182bd9b-0566-4af3-9366-fb71c84356bb
@@ -120,16 +119,12 @@ references:
     as a boy
   source: The Fatima Secret
   location: ch21:10924-11014
-  quote: who came from the shepherds’ village of Soto-il-Monte near Bergamo, and herded
-    sheep as a boy.
   claim_id: 91f94bd6-d092-4aa0-8c20-4712a4e5b720
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-91f94bd6-d092-4aa0-8c20-4712a4e5b720
 - text: Had been patriarch of Venice before his election
   source: The Fatima Secret
   location: ch21:11019-11099
-  quote: Before being elected pope he had been patriarch of the famous seafaring city
-    of Venice.
   claim_id: 66f9bf50-938d-416b-931d-ca1ecc05b083
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-66f9bf50-938d-416b-931d-ca1ecc05b083
@@ -137,8 +132,6 @@ references:
     reading the Third Secret
   source: The Fatima Secret
   location: ch18:6683-6807
-  quote: On January 25, 1959, Pope John XXIII announced his intention to convene an
-    ecumenical council, before he had read the Third Secret.
   claim_id: b0706a73-1410-4220-b366-d0d2abb1b1fc
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b0706a73-1410-4220-b366-d0d2abb1b1fc
@@ -146,9 +139,6 @@ references:
     them know
   source: The Fatima Secret
   location: ch16:9355-9535
-  quote: Finally, the person who was in charge of keeping the envelope safe asked
-    him, “Holy Father, don’t you want to see it?” He answered, “I’ll let you know
-    when you should bring it to me.”
   claim_id: d492f92f-0647-491c-831d-201ca79bb76b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d492f92f-0647-491c-831d-201ca79bb76b
@@ -156,34 +146,24 @@ references:
     he had brought the document
   source: The Fatima Secret
   location: ch8:96-295
-  quote: It was August 17, 1959, in Castelgondolfo, Italy, the summer residence of
-    the pope. "There you are!" exclaimed the man in the white soutane, when he saw
-    the messenger from Rome. "Do you have it with you?"
   claim_id: 04a8b1f2-a057-43fd-ad3f-ae659badcce4
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-04a8b1f2-a057-43fd-ad3f-ae659badcce4
 - text: Father Paul Philippe delivered the envelope to him on 1959-08-17
   source: The Fatima Secret
   location: 7-11
-  quote: He handed him an envelope. ... Father Paul Philippe bowed respectfully. He
-    had done his job of bringing to Castelgondolfo what was perhaps the most explosive
-    document in the Christian world.
   claim_id: 122db297-02b9-477a-8ea7-22c9899c3567
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-122db297-02b9-477a-8ea7-22c9899c3567
 - text: The envelope's seal was still intact when brought to him
   source: The Fatima Secret
   location: ch16:6954-7073
-  quote: When the envelope was brought to his successor, Pope John XXIII, at Castelgondolfo,
-    the seal on the envelope was still intact.
   claim_id: 2ca9ffce-9bf0-41c4-ae5d-4e83a2009308
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-2ca9ffce-9bf0-41c4-ae5d-4e83a2009308
 - text: Waited four days, until Friday 1959-08-21, before breaking the seal
   source: The Fatima Secret
   location: ch8:817-953
-  quote: Pope John waited four days, until Friday, August 21, before breaking the
-    seal on the envelope, which bore the insignia of the bishop of Leiria.
   claim_id: 4d84296b-a69d-450a-8aa4-aead8d8ecd46
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-4d84296b-a69d-450a-8aa4-aead8d8ecd46
@@ -191,10 +171,6 @@ references:
     Alfredo Cavagna present
   source: The Fatima Secret
   location: ch8:961-1262
-  quote: He had arranged for a Vatican interpreter to be present, in case there was
-    difficulty understanding the Portuguese text. Sitting in a closed room, with only
-    the interpreter and his confessor, Monsignor Alfredo Cavagna, present, the pope
-    read the words that Sister Lúcia had written down fifteen years before.
   claim_id: b0e259be-5678-4ddc-abda-9284b23d04a0
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-b0e259be-5678-4ddc-abda-9284b23d04a0
@@ -202,32 +178,24 @@ references:
     speak Portuguese
   source: The Fatima Secret
   location: ch16:9888-10094
-  quote: On August 17, 1959, John XXIII read the text of the Third Secret slowly,
-    with trembling hands. The text was difficult and since he did not speak Portuguese,
-    he had to get help from an interpreter more than once.
   claim_id: 92f7a037-e11f-40c9-bd99-d381fc64bd05
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-92f7a037-e11f-40c9-bd99-d381fc64bd05
 - text: His face turned white as chalk as he grasped the content
   source: The Fatima Secret
   location: ch16:10172-10237
-  quote: When he realized what it was all about, his face turned white as chalk.
   claim_id: 96443a75-e233-4307-9d7c-a6491264ff81
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-96443a75-e233-4307-9d7c-a6491264ff81
 - text: Some closest to him reported he almost fainted with horror on opening it
   source: The Fatima Secret
   location: ch4:393-515
-  quote: When, in 1960, Pope John XXIII opened the Third Secret, some of those closest
-    to him reported that he almost fainted with horror.
   claim_id: d64717d2-e02f-42a5-99a5-70698e3f53ea
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d64717d2-e02f-42a5-99a5-70698e3f53ea
 - text: The seal had been broken six months before the 1960 announcement
   source: The Fatima Secret
   location: ch16:13226-13311
-  quote: Also, the seal of the letter had already been broken six months before, by
-    Pope John XXIII.
   claim_id: 1e93f0b9-bb8c-4246-8ad1-e7d166370e89
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-1e93f0b9-bb8c-4246-8ad1-e7d166370e89
@@ -235,37 +203,24 @@ references:
     it
   source: The Fatima Secret
   location: ch16:10245-10493
-  quote: The three men sat and discussed the contents of Lúcia’s writing until late
-    at night, then the pontiff made his decision. “I cannot publish this and will
-    not publish it. I’ll leave it for others to do so. It is certain that it does
-    not deal with my reign.”
   claim_id: 64ba6e8c-f994-4c3e-bb4d-7c3095dfc02f
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-64ba6e8c-f994-4c3e-bb4d-7c3095dfc02f
 - text: Resealed the letter with a personal note, told advisors, swore them to secrecy
   source: The Fatima Secret
   location: ch16:10501-10812
-  quote: He put Lúcia’s letter back in its envelope, together with a personal note
-    in which he wrote down the reasons for his decision. Back in Rome he called his
-    closest advisors together and told them about the contents of the secret as well
-    as his decision not to make them public. He made them all swear to keep the secret.
   claim_id: 900697e9-8732-4640-8d6d-e0e6870c4bc8
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-900697e9-8732-4640-8d6d-e0e6870c4bc8
 - text: Kept the Fatima message on his desk until his death on 1963-06-03
   source: The Fatima Secret
   location: ch16:13774-13889
-  quote: John XXIII kept the Fatima message on his desk during the rest of his period
-    in office, until his death on June 3, 1963.
   claim_id: f3340b67-b6f9-42fd-b575-360787f6186e
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f3340b67-b6f9-42fd-b575-360787f6186e
 - text: Capovilla recalled his decision was 'I will leave it to my successors'
   source: The Fatima Secret
   location: ch17:10222-10452
-  quote: Paul VI asked me, 'What was the opinion of Pope John XXIII?' Perhaps he wanted
-    to know more, but I could only say what I knew, which was that his decision was
-    'I will leave it to my successors.' And Paul VI said, 'I shall do that too.'
   claim_id: eb9e4db6-0d8a-45e5-90ac-bf012e23b81c
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-eb9e4db6-0d8a-45e5-90ac-bf012e23b81c
@@ -273,17 +228,12 @@ references:
     secret
   source: The Fatima Secret
   location: ch17:9578-9766
-  quote: Vatican radio announced on May 13, 1977, that neither Pope John XXIII nor
-    Pope Paul VI considered it right to reveal the contents of the third part of the
-    Secret of Fatima to the world at large.
   claim_id: a3aeeb10-57c4-4738-a541-9733d64576b1
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-a3aeeb10-57c4-4738-a541-9733d64576b1
 - text: Five popes, Pius XII to John Paul II, kept the secret under lock and key
   source: The Fatima Secret
   location: ch18:3861-3985
-  quote: There must have been a reason why five popes, Pius XII, John XXIII, Paul
-    VI, and John Paul I and II, kept it under lock and key.
   claim_id: 22d9a161-c1d4-45a7-85b9-32bbb274ab96
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-22d9a161-c1d4-45a7-85b9-32bbb274ab96
@@ -291,78 +241,54 @@ references:
     to open it
   source: The Fatima Secret
   location: ch16:9559-9879
-  quote: 'When he went to Castelgondolfo in August for the summer holidays, he was
-    surrounded by peace and quiet, so perhaps he felt the time had come. Thus Pope
-    John decided to do what his predecessor, out of respect for a falsely interpreted
-    date, had not had the courage to do: he opened the envelope containing the message
-    of Fatima.'
   claim_id: cbdd3aea-579f-498d-b1fc-ba205e9d4469
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-cbdd3aea-579f-498d-b1fc-ba205e9d4469
 - text: 'Three further popes followed him: Paul VI, John Paul I, John Paul II'
   source: The Fatima Secret
   location: ch21:9168-9295
-  quote: 'After John XXIII there have been three popes: Paul VI (1963–78), John Paul
-    I (1978), and John Paul II (who has been pope since 1978).'
   claim_id: 002c1430-d9b8-4630-92d1-13614eb3ec3a
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-002c1430-d9b8-4630-92d1-13614eb3ec3a
 - text: Conchita told her mother there would be three more popes when he died
   source: The Fatima Secret
   location: ch21:8771-8872
-  quote: When Pope John XXIII died, one of the girls, Conchita, told her mother that
-    there will be three more popes.
   claim_id: 32619ebf-4abf-45f0-bf24-55ce538da12d
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-32619ebf-4abf-45f0-bf24-55ce538da12d
 - text: Said in early 1959 he did not want to listen to 'prophets of doom'
   source: The Fatima Secret
   location: ch16:9087-9271
-  quote: Rome was preparing for the Second Vatican Council, and the air was filled
-    with a sense of hope and a new beginning. No one wanted to listen to “prophets
-    of doom,” as John XXIII called them.
   claim_id: 145be8d5-4a4f-4148-ac3d-0c073700d4de
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-145be8d5-4a4f-4148-ac3d-0c073700d4de
 - text: Opened Vatican II on 1962-10-11 railing again against prophets of doom
   source: The Fatima Secret
   location: ch18:6815-7035
-  quote: Vatican II was opened on October 11, 1962, with a speech in which the Holy
-    Father raised his voice “against the prophets of doom, who always announce the
-    coming of ominous events, as if the end of the world stood before us.”
   claim_id: 7e3c189e-9ccb-4eec-afd1-11d5f58753b1
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7e3c189e-9ccb-4eec-afd1-11d5f58753b1
 - text: Had already read the Third Secret by the time he opened the council
   source: The Fatima Secret
   location: ch18:7040-7146
-  quote: He had read Lúcia’s secret by then, so was he referring to its contents when
-    he talked about “prophets of doom”?
   claim_id: 7525fe19-ee55-46a0-98bb-8a3c53208fb6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7525fe19-ee55-46a0-98bb-8a3c53208fb6
 - text: Trembled reading it, wanted optimism rather than fear ahead of the council
   source: The Fatima Secret
   location: ch24:28908-29042
-  quote: Pope John XXIII trembled. He did not want to spread fear; he wanted a state
-    of optimism in the church in preparation for the upcoming Council.
   claim_id: 47ac9b7b-4497-4063-8d4f-a2735c880aae
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-47ac9b7b-4497-4063-8d4f-a2735c880aae
 - text: Declined a suggestion that Sister Lúcia address the world by radio
   source: The Fatima Secret
   location: ch16:8822-8986
-  quote: When, early in 1959, a high official in the Vatican suggested to Pope John
-    XXIII that Sister Lúcia be permitted to speak to the world over the radio, he
-    turned him down.
   claim_id: 3868beae-a86a-4fa8-a048-657db58f8c02
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-3868beae-a86a-4fa8-a048-657db58f8c02
 - text: His private secretary wrote it seemed he preferred her to remain silent
   source: The Fatima Secret
   location: ch16:8993-9080
-  quote: “It seemed as if he personally preferred her to be silent,” his private secretary
-    wrote later.
   claim_id: 9e3afdeb-8bc8-4cbf-8ddf-6205154dc2e4
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-9e3afdeb-8bc8-4cbf-8ddf-6205154dc2e4
@@ -370,53 +296,36 @@ references:
     Conference
   source: The Fatima Secret
   location: ch16:11267-11553
-  quote: At the “Fatima 2000” Conference in November 1995 the former secretary of
-    Cardinal Bea, Dr. Malachi Martin, recalled the reaction of the cardinal after
-    he left the secret meeting. He said that the cardinal was obviously shaken, but
-    also annoyed that the pope would not publish the Third Secret.
   claim_id: 0df938ba-9e7b-474d-922e-6e6b6d450d31
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-0df938ba-9e7b-474d-922e-6e6b6d450d31
 - text: Martin said John XXIII later told him the secret's contents himself
   source: The Fatima Secret
   location: ch16:11561-11628
-  quote: Dr. Martin was later told the contents of the Third Secret by Pope John.
   claim_id: 4d9adda6-42cc-4edd-82cd-3dd4daa7223e
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-4d9adda6-42cc-4edd-82cd-3dd4daa7223e
 - text: Freire said the secret influenced otherwise inexplicable decisions
   source: The Fatima Secret
   location: ch16:13982-14224
-  quote: “Quite the contrary,” declared Father José Geraldes Freire, an authority
-    regarding Fatima. “I have evidence that John XXIII gave the message great importance,
-    and that certain major decisions, which many found inexplicable, were influenced
-    by it.”
   claim_id: 6be43974-9ba1-436a-9fc7-0b82fea3e696
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-6be43974-9ba1-436a-9fc7-0b82fea3e696
 - text: 1962-10-25 appeal for peace during the Cuban Missile Crisis
   source: The Fatima Secret
   location: ch17:1841-1919
-  quote: Pope John XXIII appealed to the world on October 25, desperately pleading
-    for peace.
   claim_id: 3abbc59f-3852-477d-8f45-6e48f2e216f0
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-3abbc59f-3852-477d-8f45-6e48f2e216f0
 - text: Hesemann said it is unknown whether Fatima played a role in the crisis's diplomacy
   source: The Fatima Secret
   location: ch17:2349-2597
-  quote: Did the Fatima message really play a role in this drama? Did John XXIII reveal
-    some of its contents to the leaders of the major powers during the Cuban crisis?
-    And if he did, did this religious message actually have an influence on them?
-    We do not know.
   claim_id: 1a3112ff-7e3b-42d6-bacf-c183f578a0cc
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-1a3112ff-7e3b-42d6-bacf-c183f578a0cc
 - text: 'Separate account: part of the message not due for revelation until 1960'
   source: THE INVISIBLE COLLEGE
   location: ch15:3552-3692
-  quote: A part of that message was not to be revealed until 1960, at which time Pope
-    John XXIII opened the sealed envelope, but did not publish the secret.
   claim_id: 8714b42e-441f-423a-a845-5d56c5a45adc
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-8714b42e-441f-423a-a845-5d56c5a45adc
@@ -424,9 +333,6 @@ references:
     1960 opening'
   source: THE INVISIBLE COLLEGE
   location: ch15:21235-21465
-  quote: A man whose word I trust received an interesting report from one of the Pope’s
-    secretaries, who introduced the highest men in the Church into the presence of
-    John XXIII for the opening of the secret part of the Fatima prophecy in 1960.
   claim_id: 9ea22b89-d357-415d-9f6e-d867fe840a78
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9ea22b89-d357-415d-9f6e-d867fe840a78
@@ -434,20 +340,12 @@ references:
     had seen a ghost'''
   source: THE INVISIBLE COLLEGE
   location: ch15:21529-21853
-  quote: 'the secretary had the opportunity to see the cardinals as they left the
-    Pope’s office: they had a look of deep horror on their faces. He got up from behind
-    his desk and tried to speak to one of them whom he knew intimately, but the prelate
-    gently pushed him aside and walked on with the expression of someone who has seen
-    a ghost.'
   claim_id: 2190433c-199b-4d32-a3f1-8e5a30416c7d
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-2190433c-199b-4d32-a3f1-8e5a30416c7d
 - text: Vallée said the information sheds light on reactions, not necessarily contents
   source: THE INVISIBLE COLLEGE
   location: ch15:3700-3894
-  quote: Some indirect information on the circumstances of this opening of the message,
-    which I have obtained, sheds light on the reactions of high Church officials to
-    the prophecy, if not on its actual contents.
   claim_id: 78a25f32-618c-4a31-a9eb-f9222fd55c7d
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-78a25f32-618c-4a31-a9eb-f9222fd55c7d
@@ -455,19 +353,12 @@ references:
     group
   source: THE INVISIBLE COLLEGE
   location: ch12:26475-26824
-  quote: 'The expeditionary group that originated with the solidified celestial body
-    UMMO is found among the citizens of various nations on Earth, with the Man Bertrand
-    Russell and others among his brothers: Mirandas K. Gandhi, Ernesto (Che) Guevara,
-    Helder Camara, John XXIII, Martin Luther King, Karl Marx, Emmanuel Mounier, Albert
-    Schweitzer, Tolstoi, and others.'
   claim_id: e7502767-ca83-4378-9e66-4281bb612d91
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e7502767-ca83-4378-9e66-4281bb612d91
 - text: Latin Mass at St Peter's Basilica celebrated near his incorruptible body
   source: American Cosmic
   location: ch7:15008-15141
-  quote: The Mass was celebrated in Latin, near the incorruptible body of Pope John
-    XXIII, which certainly enhanced the surreal quality of my experience.
   claim_id: bf865a8b-8fa6-4f38-8aae-1647296ee1a5
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bf865a8b-8fa6-4f38-8aae-1647296ee1a5
@@ -475,9 +366,6 @@ references:
     it
   source: American Cosmic
   location: ch7:15864-16032
-  quote: Later I found out that he didn’t know what I had said and was astonished
-    that we had been so close to a dead body. He had never heard of the tradition
-    of incorruptible saints
   claim_id: 9b4e0569-bcd7-4494-ac96-0e300dfc5685
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9b4e0569-bcd7-4494-ac96-0e300dfc5685
@@ -485,8 +373,6 @@ references:
     funeral
   source: American Cosmic
   location: ch7:16301-16407
-  quote: Tyler and I talked about this on the day after his mother’s funeral, two
-    weeks after we had returned from Rome.
   claim_id: 8a853a83-b6f0-458f-b50d-adba3700c4ed
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-8a853a83-b6f0-458f-b50d-adba3700c4ed
@@ -494,8 +380,6 @@ references:
     death
   source: American Cosmic
   location: ch7:16413-16497
-  quote: The fact that we had been so close to John XXIII’s preserved body was comforting
-    to him.
   claim_id: 3b9eae22-9718-4aa7-b45d-f48678231b72
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3b9eae22-9718-4aa7-b45d-f48678231b72

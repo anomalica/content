@@ -130,18 +130,12 @@ references:
 - text: Greer founded CSETI in 1990, separate from the NASA-funded SETI Institute
   source: In Plain Sight
   location: ch14:2910-3126
-  quote: In 1990, Greer had founded the Center for the Study of Extra-terrestrial
-    Intelligence (CSETI), a lobby group separate from the non-profit SETI (Search
-    for Extra-terrestrial Intelligence) Institute formerly funded by NASA.
   claim_id: 3af1b87d-8aee-4450-862a-35c0c3bbda74
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3af1b87d-8aee-4450-862a-35c0c3bbda74
 - text: Greer created the Disclosure Project in 1992
   source: In Plain Sight
   location: ch14:3132-3299
-  quote: Two years later, Greer created the Disclosure Project, which advocates for
-    the release of UAP secrets he believes are hidden within the US government and
-    in aerospace corporations.
   claim_id: 7c7c9e96-a789-40ba-b4b1-6610674c01d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7c7c9e96-a789-40ba-b4b1-6610674c01d8
@@ -149,9 +143,6 @@ references:
     Club event
   source: In Plain Sight
   location: ch11:22151-22348
-  quote: Years later he worked with disclosure advocate Dr Steven Greer, vetting and
-    legally representing dozens of government and military witnesses who came forward
-    to speak at the National Press Club in 2001
   claim_id: a9681dc8-e450-444e-9ef6-ed56ce06c518
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a9681dc8-e450-444e-9ef6-ed56ce06c518
@@ -159,16 +150,12 @@ references:
     'UFO reality'
   source: In Plain Sight
   location: ch14:3341-3426
-  quote: Dr Greer says he has personally briefed presidents and a CIA Director about
-    the 'UFO reality'.
   claim_id: 03620066-c756-47e8-9fd7-6cd11ea4cdb7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-03620066-c756-47e8-9fd7-6cd11ea4cdb7
 - text: John Petersen invited Woolsey and Greer to dinner in 1993
   source: In Plain Sight
   location: ch14:4071-4215
-  quote: Futurist John Petersen, the founder and president of The Arlington Institute,
-    was the man who invited Woolsey and Greer to dinner that night in 1993.
   claim_id: 929e4040-f933-4cd0-be03-1f3fec12c3eb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-929e4040-f933-4cd0-be03-1f3fec12c3eb
@@ -176,16 +163,12 @@ references:
     as a dinner party
   source: In Plain Sight
   location: ch14:3436-3650
-  quote: On his website, he dramatically casts a meeting he had with the then Director
-    of America's Central Intelligence Agency, James Woolsey, in 1993 as 'a covert
-    briefing on the topic of UFOs under the guise of a dinner party'.
   claim_id: e325c1dc-091c-496b-aa38-fa3968dd986b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e325c1dc-091c-496b-aa38-fa3968dd986b
 - text: Woolsey denied the 1993 dinner was a briefing
   source: In Plain Sight
   location: ch14:3659-3703
-  quote: Woolsey denied the gathering was a briefing,6
   claim_id: 05fa65d4-92e8-4078-a050-4eff824f0fb5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-05fa65d4-92e8-4078-a050-4eff824f0fb5
@@ -193,8 +176,6 @@ references:
     significant redacted documents
   source: In Plain Sight
   location: ch14:5412-5492
-  quote: Petersen organised for Greer and researcher Stan Friedman to create the list
-    of documents;
   claim_id: d9b7742e-2c51-45e6-83ef-110f401a63f2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d9b7742e-2c51-45e6-83ef-110f401a63f2
@@ -202,19 +183,12 @@ references:
     dinner
   source: In Plain Sight
   location: ch14:5593-5891
-  quote: Petersen flatly denied claims that the CIA boss reached out to Greer for
-    a briefing or that Woolsey requested the meeting. 'There was no "cover story"
-    and no "briefing" had been requested. It was simply a social function where it
-    was presumed that the subject of UFOs would be discussed,' Petersen says.
   claim_id: 329eff05-c536-499d-b77a-841a4700de02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-329eff05-c536-499d-b77a-841a4700de02
 - text: 'Coulthart: Woolsey likely felt obliged to deny the meeting if embarrassed'
   source: In Plain Sight
   location: ch14:3705-3879
-  quote: which a former CIA Director probably would feel obliged to do if he was embarrassed
-    about having been exposed for conversing with Greer about a supposed UAP government
-    cover-up.
   claim_id: b6556c56-1465-479e-83a6-2c7a45c825d5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b6556c56-1465-479e-83a6-2c7a45c825d5
@@ -222,10 +196,6 @@ references:
     claims'
   source: In Plain Sight
   location: ch14:7500-7747
-  quote: Assuming that Greer's account of his meeting with Woolsey was correct, it
-    suggests the CIA Director was genuinely motivated to hear and investigate Greer's
-    claims of a UAP cover-up, which begs the question why Greer publicly exposed his
-    potential source.
   claim_id: c0be1f3d-52c5-45fc-a919-9f481eb9f1b0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c0be1f3d-52c5-45fc-a919-9f481eb9f1b0
@@ -233,9 +203,6 @@ references:
     out'
   source: In Plain Sight
   location: ch14:7755-7912
-  quote: His aggressive public outing of Woolsey for soliciting such a briefing (if
-    that was true) damaged chances of persuading public officials to speak out on
-    the issue.
   claim_id: 2f5cc626-40ee-4c33-8987-eff55fc41c6b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2f5cc626-40ee-4c33-8987-eff55fc41c6b
@@ -243,10 +210,6 @@ references:
     offices
   source: In Plain Sight
   location: ch14:7920-8196
-  quote: When Greer went into the Pentagon in April 1997 as part of an unusual group
-    of UFO disclosure activists and former military servicemen and was escorted to
-    the innermost ring of America's military headquarters, the offices of the Deputy
-    Director of the US Defense Intelligence Agency,
   claim_id: 3b4b6352-274c-4bd5-bae5-79f4b49b2c41
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3b4b6352-274c-4bd5-bae5-79f4b49b2c41
@@ -260,44 +223,30 @@ references:
 - text: Wilson agreed to be briefed because he was denied knowledge of the 'Big Secret'
   source: In Plain Sight
   location: ch14:9766-9964
-  quote: The story goes that Admiral Thomas Wilson agreed to be briefed 'about UFOs'
-    by Greer and Miller because he was one of those senior military officers whom
-    Miller said was denied knowledge of The Big Secret.
   claim_id: d0e2eefe-7e4f-4153-b53a-70c6c872ed02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d0e2eefe-7e4f-4153-b53a-70c6c872ed02
 - text: Greer held a Georgetown hotel briefing for congressmen on 9 April 1997
   source: In Plain Sight
   location: ch14:8767-8910
-  quote: A day earlier, Greer had held a briefing on the UAP phenomenon at a Georgetown
-    Washington DC hotel with senior congressmen and dozens of their staffers.
   claim_id: 73ebff84-c6dd-468e-8e88-f3568894d70a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-73ebff84-c6dd-468e-8e88-f3568894d70a
 - text: Greer sent Wilson's staff a leaked NRO document listing SAP codenames
   source: In Plain Sight
   location: ch14:9972-10214
-  quote: In advance of their visit, Greer had sent Admiral Wilson's staff a leaked
-    US National Reconnaissance Office document that detailed a series of what turned
-    out to be authentic codenames for highly top-secret so-called Special Access Programs
-    (SAPs).
   claim_id: 65a6c9ce-ae3a-46ce-b108-25f0a6276518
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
 - text: The leaked document related to the July 1991 Nellis AFB lockdown
   source: In Plain Sight
   location: ch14:12366-12488
-  quote: The purpose of the document was of little consequence; it related to a security
-    lockdown at Nellis Air Force Base in July 1991.
   claim_id: b3b22453-88de-4282-8abe-c289607fe19d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b3b22453-88de-4282-8abe-c289607fe19d
 - text: Greer says Wilson was upset codenames were unknown to him
   source: In Plain Sight
   location: ch14:12137-12352
-  quote: When Admiral Tom Wilson saw the leaked document Greer sent him,12 he was,
-    Greer claims, very upset that there were SAP project codenames on the list that
-    were unknown to him, the second-most powerful man in Defence Intelligence.
   claim_id: a3ffd65a-f083-49de-9ee3-b024e9d393b7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a3ffd65a-f083-49de-9ee3-b024e9d393b7
@@ -305,11 +254,6 @@ references:
     official
   source: In Plain Sight
   location: ch14:13442-13714
-  quote: 'Whatever this program was (or is), the alleged UAP-UFO
-
-    cover-up laid out by Greer, Ed Mitchell and Commander Miller is supposedly so
-    secret that even the second-highest official in the Defense Intelligence Agency
-    was not permitted to know about it.'
   claim_id: d71594d4-6b32-4c72-a87a-5f04d66bcfcb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d71594d4-6b32-4c72-a87a-5f04d66bcfcb
@@ -326,8 +270,6 @@ references:
 - text: The top-level meeting took place on 10 April 1997 at 10am
   source: In Plain Sight
   location: ch14:9316-9435
-  quote: The next day, at 10 am on 10 April 1997, Greer, Mitchell and company were
-    deep inside the Pentagon for their top-level meeting.
   claim_id: b2b48e82-7670-4798-aa90-f73fcb46f08c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b2b48e82-7670-4798-aa90-f73fcb46f08c
@@ -335,11 +277,6 @@ references:
     evidence of a cover-up
   source: In Plain Sight
   location: ch14:14003-14350
-  quote: But we know Steven Greer, Willard Miller and Edgar Mitchell presented Admiral
-    Wilson with what they were convinced was strong witness evidence to support their
-    belief that the US government was covering up alien visitations to Earth, recovered
-    spacecraft and alien bodies, and incredible technological breakthroughs purportedly
-    derived from those discoveries.
   claim_id: d09d1a48-1cf6-4b76-b20f-2782eefe340a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
@@ -347,19 +284,12 @@ references:
     know'', line blocked'
   source: In Plain Sight
   location: ch14:12806-13261
-  quote: '''He actually recognised one of these entities and made an inquiry, and
-    it was being run by a contractor,'' Greer says. ''When he called them, he said,
-    "I''m Admiral Tom Wilson . . . I want to be read into this project". Guess what
-    happened? They said, "Sir, you don''t have a need to know"... They said, "Sir,
-    we cannot discuss this with you further" and they hung up and blocked his line.''13'
   claim_id: 672c4936-34c3-4b7f-ba71-940f39a64eab
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-672c4936-34c3-4b7f-ba71-940f39a64eab
 - text: 'Greer: Wilson began cancelling other appointments during the briefing'
   source: In Plain Sight
   location: ch14:14450-14574
-  quote: '''As the briefing progressed,'' Greer says, ''he began cancelling other
-    appointments – he was so interested in the information.''14'
   claim_id: 94f565f5-4115-4176-b4de-fc3dec1167ab
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-94f565f5-4115-4176-b4de-fc3dec1167ab
@@ -367,90 +297,60 @@ references:
     no need to know'
   source: In Plain Sight
   location: ch14:16188-16533
-  quote: Greer says, 'The admiral's aide turned to me and said you know the subject
-    of Majestic MJ-12 came up and there's been a lot of debate as to, you know, whether
-    that's real, whether it ever existed, and he said, you know we know it exists.
-    We here at the intelligence Directorate for the Joint Staff just don't have the
-    need to know what they do.'16
   claim_id: 97e71932-9336-475b-9c9b-320b2f0e8228
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-97e71932-9336-475b-9c9b-320b2f0e8228
 - text: 'Greer: Wilson reacted with horror at not having known'
   source: In Plain Sight
   location: ch14:16792-17105
-  quote: 'In another account given by Greer, Admiral Wilson (whom Greer had not named
-    at this point) reacted with horror during their briefing. ''After he looked at
-    all this and heard the witness, he turned to us and said: "Well I have no doubt
-    this is true, but I am horrified that I hadn''t known about it",'' Greer claimed.17'
   claim_id: b79323bc-807d-4c02-8888-dbd9e34bd663
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b79323bc-807d-4c02-8888-dbd9e34bd663
 - text: 'Greer: Wilson angry at the illegality and risk posed by the rogue group'
   source: In Plain Sight
   location: ch14:17317-17564
-  quote: Greer claimed Admiral Wilson was angry at the illegality of the alleged cover-up.
-    'During this briefing, the admiral and I discussed the risk this rogue group –
-    that had shoved him aside – was to the United States, the rule of law and to national
-    security . . .
   claim_id: dd01e1a8-054f-4770-bd64-936d1c61d019
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dd01e1a8-054f-4770-bd64-936d1c61d019
 - text: 'Greer: told Wilson the group had ARV technology able to circle a B-2 bomber'
   source: In Plain Sight
   location: ch14:17579-17746
-  quote: 'I told the admiral that this illegal, rogue group had ARV [alien reproduction
-    vehicle] technology that can do circles around his B2
-
-    Stealth bombers.'
   claim_id: 3c928d17-0863-4732-a576-3b91f2357b35
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c928d17-0863-4732-a576-3b91f2357b35
 - text: 'Greer: Wilson gave him permission to go to the media, calling the group illegal'
   source: In Plain Sight
   location: ch14:17755-17994
-  quote: He thought a minute and said, "Well, as far as I am concerned, if you can
-    get people who know about this matter to talk on the record, you have my permission
-    to go to the media with this! This group is illegal!"' Greer claimed he was told.20
   claim_id: 69a61d8d-c680-46a5-84a6-8eef1fd1db17
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-69a61d8d-c680-46a5-84a6-8eef1fd1db17
 - text: Mitchell later confirmed to friends the meeting happened as Greer described
   source: In Plain Sight
   location: ch14:14577-14660
-  quote: Edgar Mitchell later confirmed to many friends that this meeting happened
-    as Greer described.
   claim_id: 931de085-d4dd-4f3a-afcb-a98ad1cb14b3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-931de085-d4dd-4f3a-afcb-a98ad1cb14b3
 - text: Miller supported Greer's account of Wilson's frustration
   source: In Plain Sight
   location: ch14:15145-15234
-  quote: Retired Navy Commander Willard Miller also supported Greer's account of Admiral
-    Wilson's frustration.
   claim_id: ade03666-fb02-471b-91e5-44b987726c58
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ade03666-fb02-471b-91e5-44b987726c58
 - text: Adamiak, Lovekin, Mitchell and Miller backed Greer's account of the meeting
   source: In Plain Sight
   location: ch14:23846-23991
-  quote: Multiple witnesses at this meeting – Shari Adamiak, Stephen Lovekin, astronaut
-    Edgar Mitchell and Commander Willard Miller – have backed Greer’s account.
   claim_id: 105688f2-9437-443c-8f5f-5666f6d5996e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-105688f2-9437-443c-8f5f-5666f6d5996e
 - text: 'Coulthart: Wilson confirmed the meeting to Richard Dolan over a decade later'
   source: In Plain Sight
   location: ch14:20976-21102
-  quote: The admiral confirmed the 1997 Pentagon meeting with Greer and Mitchell in
-    an interview with Richard Dolan more than a decade later
   claim_id: 990d55d0-bb27-44ad-a734-6cedc3669b3d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-990d55d0-bb27-44ad-a734-6cedc3669b3d
 - text: Wilson called the rest of Greer's account 'poppycock' and hung up on Dolan
   source: In Plain Sight
   location: ch14:21243-21350
-  quote: Wilson claimed everything else about the meeting described by Greer was ‘poppycock’
-    and he then hung up on Dolan.
   claim_id: 5376f5ea-1e55-4367-b5f8-36d1dee475c2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5376f5ea-1e55-4367-b5f8-36d1dee475c2
@@ -458,9 +358,6 @@ references:
     plausible'
   source: In Plain Sight
   location: ch14:17998-18188
-  quote: There is something about Steven Greer's accounts of his numerous 'briefings'
-    of military and government officials that does not ring as wholly plausible, and
-    in some cases it seems outright implausible.
   claim_id: df89bcbb-fa26-4798-874a-440007152f19
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df89bcbb-fa26-4798-874a-440007152f19
@@ -468,9 +365,6 @@ references:
     than officials
   source: In Plain Sight
   location: ch14:18201-18386
-  quote: I suspect it is the way he casts himself as always so much better informed
-    than every official with whom he engages (which I concede might possibly be true,
-    if you believe the cover-up claims).
   claim_id: 2c53d2c3-18ef-4582-ad1c-f756a0468923
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2c53d2c3-18ef-4582-ad1c-f756a0468923
@@ -478,69 +372,42 @@ references:
     strains credibility'
   source: In Plain Sight
   location: ch14:18973-19315
-  quote: It is remarkable that Greer achieved the extraordinary feat of being invited
-    to brief top Defense Intelligence Agency officials on UAPs on at least two occasions,
-    but the claim that both a senior admiral and a general confirmed at their first
-    meeting with him that they both believed in a 'UFO cover-up' strains credibility
-    for many who hear it.
   claim_id: 6370b973-8d9b-46e7-9c43-8a3113f236e4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6370b973-8d9b-46e7-9c43-8a3113f236e4
 - text: 'Coulthart: outing Wilson and Hughes sent an unhelpful message to other officials'
   source: In Plain Sight
   location: ch14:19319-19573
-  quote: But, if his account is accurate, his public outing of both Defence Intelligence
-    Agency officials, Admiral Wilson and General Hughes, sent an unhelpful message
-    to any other official contemplating disclosure that they could not expect confidentiality
-    from Greer.
   claim_id: 6d895de9-4223-4e93-88df-575e62b21cec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6d895de9-4223-4e93-88df-575e62b21cec
 - text: 'Coulthart: hard to escape the conclusion Wilson felt improperly blocked'
   source: In Plain Sight
   location: ch14:23600-23760
-  quote: it is difficult to escape the conclusion that Admiral Wilson gave the impression
-    in some way to Greer’s group that he was improperly blocked from accessing UFO
-    information
   claim_id: bf6a0798-7fad-42a8-9f4e-65f066fd8924
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bf6a0798-7fad-42a8-9f4e-65f066fd8924
 - text: Hughes invited Greer and Miller back months after the April 1997 meeting
   source: In Plain Sight
   location: ch14:23223-23369
-  quote: it begs the question why Wilson’s Defense Intelligence Agency boss General
-    Patrick Hughes invited Greer and Miller back to talk about UAPs months later
   claim_id: 5b4654a8-6c9e-452e-b44b-63ff8fe007e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b4654a8-6c9e-452e-b44b-63ff8fe007e7
 - text: In 1998 Greer was invited back to the DIA to brief Hughes on UFOs
   source: In Plain Sight
   location: ch14:18395-18635
-  quote: It is to Greer's credit, for example, that he was invited back in 1998 to
-    the Defense Intelligence Agency, again with Commander Willard Miller, to brief
-    the then Director, Wilson's immediate superior, Lieutenant General Patrick Hughes,
-    'on UFOs'.
   claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
 - text: 'Greer: Hughes produced an alien doll, saying inquiries yielded nothing else'
   source: In Plain Sight
   location: ch14:18642-18969
-  quote: Greer claims that General Hughes grabbed an ET doll from the Stephen Spielberg
-    movie, which he just happened to have on his shelf, declaring, '"Well, I have
-    no doubt that what you are sharing is true, but I have made inquiries through
-    channels in my agency and nobody can tell me anything! In fact, all I have gotten
-    is this!"'21
   claim_id: bab55aa5-c543-45fd-97a8-d34f820c01e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bab55aa5-c543-45fd-97a8-d34f820c01e7
 - text: The Admiral Wilson Memo supports what Greer's group said Wilson told them
   source: In Plain Sight
   location: ch26:2846-3151
-  quote: The reason the Admiral Wilson memorandum matters is because, on its face,
-    it supports everything Dr Steven Greer, Edgar Mitchell, Commander Willard Miller,
-    Stephen Lovekin and Shari Adamiak each said they were told by Admiral Wilson at
-    their April 1997 Pentagon meeting, discussing the supposed UAP cover-up.
   claim_id: 3428b898-7fe7-4880-94d3-ddc3656646a9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3428b898-7fe7-4880-94d3-ddc3656646a9
@@ -548,8 +415,6 @@ references:
     briefing
   source: In Plain Sight
   location: ch26:13390-13564
-  quote: The memorandum asserted that, after Admiral Wilson’s 1997 ‘UFO briefing’
-    with Greer and his colleagues, Wilson searched for the ‘UFO files’ in the Pentagon.
   claim_id: ba123bd0-11eb-42e0-b1f8-d0ba8be8e7f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba123bd0-11eb-42e0-b1f8-d0ba8be8e7f7
@@ -557,19 +422,12 @@ references:
     from learning more
   source: In Plain Sight
   location: ch26:3155-3434
-  quote: If authentic, it means Wilson truly did tell them he investigated the codenames
-    in a leaked document given to him by Greer, that he discovered a secret group
-    working on recovered alien technology and that he was blocked from finding out
-    any more about it.
   claim_id: eb17d750-9b2b-4fc1-a7d7-69c676a47745
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb17d750-9b2b-4fc1-a7d7-69c676a47745
 - text: Greer has claimed dark forces were trying to kill him or his colleagues
   source: In Plain Sight
   location: ch14:5898-6064
-  quote: Greer has sometimes been the butt of ridicule for his melodramatic claims
-    about the alleged 'UFO cover-up', asserting that dark forces were trying to kill
-    him or his colleagues.
   claim_id: 2900458d-a351-4934-a940-eccff267dc89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2900458d-a351-4934-a940-eccff267dc89
@@ -577,62 +435,42 @@ references:
     not to push
   source: In Plain Sight
   location: ch14:6076-6364
-  quote: Greer has claimed that when he sent a briefing document to President Clinton
-    a response came back that the president 'couldn't get anywhere with [UFOs] and
-    didn't want to push on the issue because a very good friend of his came to his
-    home and said he would end up assassinated like Jack Kennedy.
   claim_id: 4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
 - text: Greer's book claims he and Adamiak had cancers caused by an EM weapon in Utah
   source: In Plain Sight
   location: ch14:6595-6893
-  quote: 'In his book, *Hidden Truth: Forbidden Knowledge*, Greer dramatically tells
-    how he and his fellow UAP disclosure activist colleague Shari Adamiak were diagnosed
-    with metastatic cancers that he claimed were caused by an electro-magnetic (EM)
-    weapons system targeting them ''from a laboratory in Utah''.9'
   claim_id: aafb39a3-132d-4589-ae2b-2ad0cf726e8c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-aafb39a3-132d-4589-ae2b-2ad0cf726e8c
 - text: 'Coulthart: no evidence supports the EM weapon claim'
   source: In Plain Sight
   location: ch14:6895-6927
-  quote: There is no evidence for such a claim.
   claim_id: f5ae349a-80c4-4624-9113-f097959ab7ee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f5ae349a-80c4-4624-9113-f097959ab7ee
 - text: Greer claims William Colby was assassinated for planning to help his organisation
   source: In Plain Sight
   location: ch14:6934-7133
-  quote: Nor is there any evidence to support another claim made by Greer, that former
-    CIA Director William Colby (who died in a boating accident) was actually assassinated
-    because he planned to help Greer's organisation.
   claim_id: 352bcef9-3e73-4c31-8c1a-d6fcb191dbcf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-352bcef9-3e73-4c31-8c1a-d6fcb191dbcf
 - text: 'Coulthart: no evidence supports the Colby assassination claim'
   source: In Plain Sight
   location: ch14:6934-7133
-  quote: Nor is there any evidence to support another claim made by Greer, that former
-    CIA Director William Colby (who died in a boating accident) was actually assassinated
-    because he planned to help Greer's organisation.
   claim_id: d96ac246-9bc0-4918-84b3-a15f6fe75aa8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d96ac246-9bc0-4918-84b3-a15f6fe75aa8
 - text: Greer says his dog Yami absorbed some of the EM weapon's effect
   source: In Plain Sight
   location: ch14:7190-7359
-  quote: Greer has claimed the reason he survived was because his golden retriever
-    dog Yami 'bonded to me and astrally took some of the "hit" from the EM weapon
-    system targeting us'.
   claim_id: cb606ff5-427b-4878-9157-892d9827e24d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cb606ff5-427b-4878-9157-892d9827e24d
 - text: Greer calls the UAP-as-alien-threat narrative a 'false threat narrative'
   source: In Plain Sight
   location: ch25:20552-20652
-  quote: Dr Steven Greer has asserted, for example, that the whole alien threat narrative
-    is a 'false threat narrative'.
   claim_id: f2850bd8-39e9-4ce3-8a8d-ccff6be7d485
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2850bd8-39e9-4ce3-8a8d-ccff6be7d485

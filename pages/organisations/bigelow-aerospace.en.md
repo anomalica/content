@@ -50,8 +50,6 @@ references:
     build manufactured space equipment
   source: American Cosmic
   location: char:11705-11816
-  quote: Bigelow founded his company, which specializes in manufactured space equipment,
-    mostly with his own funding in 1998.
   claim_id: f60a097b-1c0b-4280-a8c0-cfef0017d988
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f60a097b-1c0b-4280-a8c0-cfef0017d988
@@ -59,8 +57,6 @@ references:
     in 1998
   source: In Plain Sight
   location: ch15:27880-27993
-  quote: In 1998, he founded Bigelow Aerospace, a space technology company based in
-    Las Vegas, Nevada.
   claim_id: 76c31464-649e-4c7b-9f6a-9fac418b2fe2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-76c31464-649e-4c7b-9f6a-9fac418b2fe2
@@ -68,9 +64,6 @@ references:
     and safety
   source: American Cosmic
   location: char:11822-12011
-  quote: Due to the reliability and safety of Bigelow Aerospace’s equipment, NASA
-    and other space companies use Bigelow’s space habitats and other equipment in
-    their explorations and experiments in space.
   claim_id: bb4e5adf-57b9-4b3e-a180-71035c55bf36
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bb4e5adf-57b9-4b3e-a180-71035c55bf36
@@ -153,8 +146,6 @@ references:
 - text: An alien logo is painted on the exterior of the Las Vegas building
   source: In Plain Sight
   location: ch17:5779-5906
-  quote: He is so fascinated with aliens that an alien logo is painted on the exterior
-    of his massive Bigelow Aerospace building in Las Vegas.
   claim_id: 7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e11fdc7-1a5b-4bef-85fe-4f2ff6ec37eb
@@ -196,8 +187,6 @@ references:
 - text: Blumenthal later said he had learned no materials were in fact provided
   source: In Plain Sight
   location: ch21:18231-18380
-  quote: But *Times* reporter Ralph Blumenthal has since walked back from that claim
-    in an interview, admitting they have now learned that 'no materials were provided'.
   claim_id: f502d7b8-31d6-4e72-8ab1-3ddc097d2bcc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f502d7b8-31d6-4e72-8ab1-3ddc097d2bcc

@@ -23,10 +23,6 @@ references:
     believed the animals were killed by an unrecognised technology
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:6979-7249
-  quote: A veterinarian from Montana who happened to work with the USDA and conducted
-    autopsies on some of the cattle expressed his concern to me that these poor creatures
-    had been killed by a technology we have yet to see and that no one was taking
-    it seriously, other than the ranchers.
   claim_id: b39d4cce-9d1e-450d-936f-5e0599c9e9fa
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b39d4cce-9d1e-450d-936f-5e0599c9e9fa
@@ -34,8 +30,6 @@ references:
     USDA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:6858-6966
-  quote: As for bovine samples related to alleged cattle mutilations, those could
-    be found with the US Department of Agriculture.
   claim_id: dc751c00-14ab-4e00-95ee-d80a09d6bf95
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dc751c00-14ab-4e00-95ee-d80a09d6bf95

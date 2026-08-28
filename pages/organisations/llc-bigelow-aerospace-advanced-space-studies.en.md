@@ -41,18 +41,12 @@ references:
 - text: BAASS was owned by Robert Bigelow
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:12347-12455
-  quote: '...the primary firm was Bigelow Aerospace Advanced Space Studies (BAASS),
-    owned by former hotel magnate Robert Bigelow...'
   claim_id: 70f2b459-68d3-4b27-b0da-bb9d78d67724
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-70f2b459-68d3-4b27-b0da-bb9d78d67724
 - text: BAASS was the primary contractor firm for AAWSAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:12266-12514
-  quote: The program had taken on a slew of subcontractors to help with the research,
-    but the primary firm was Bigelow Aerospace Advanced Space Studies (BAASS), owned
-    by former hotel magnate Robert Bigelow, who, as I mentioned, at the time owned
-    Skinwalker Ranch.
   claim_id: d2a59530-ddb1-484f-846f-bed27dbb968d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d2a59530-ddb1-484f-846f-bed27dbb968d
@@ -68,8 +62,6 @@ references:
 - text: Much of the Pentagon funding for the UAP investigation went to Bigelow's company
   source: In Plain Sight
   location: ch17:5141-5246
-  quote: Much of the Pentagon funding went to a Robert Bigelow company, Bigelow Aerospace
-    Advanced Space Studies (BAASS).
   claim_id: 7201f205-c587-409e-baf3-a92002347e74
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7201f205-c587-409e-baf3-a92002347e74
@@ -77,16 +69,12 @@ references:
     for Discovery Science investigations
   source: In Plain Sight
   location: ch17:5254-5409
-  quote: Bigelow hired several of the same scientists who had served on his private
-    decade-long National Institute for Discovery Science investigations.
   claim_id: efdd0682-4b33-49e0-941b-2a6dae5438de
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efdd0682-4b33-49e0-941b-2a6dae5438de
 - text: Colm Kelleher, a biochemist, was BAASS's deputy administrator during AAWSAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:14650-14728
-  quote: Colm Kelleher, a biochemist who was the deputy administrator for BAASS during
-    AAWSAP
   claim_id: 6bea6b1c-3eda-474e-b1b0-967c675b92a6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6bea6b1c-3eda-474e-b1b0-967c675b92a6
@@ -94,11 +82,6 @@ references:
     investigators traced secret project codenames
   source: In Plain Sight
   location: ch17:19983-20345
-  quote: in 2009 to get the Pentagon’s UFO investigation program classified as a Special
-    Access Program was because Bigelow’s dogged investigators had already tracked
-    down the secret project codenames that pointed to a purported secret UAP program
-    hidden inside the US government and private aerospace, which is supposedly still
-    attempting to re-engineer recovered alien technology.
   claim_id: b6aac8b7-ad7e-440d-a214-67a75d930903
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b6aac8b7-ad7e-440d-a214-67a75d930903
@@ -106,9 +89,6 @@ references:
     information not yet revealed
   source: In Plain Sight
   location: ch17:15421-15637
-  quote: Talking about his work for the Bigelow BAASS Defense Intelligence Agency
-    contract, Dr Davis went on to tell George Knapp there were indeed recovered ET
-    craft, the information about which had not yet been revealed or published.
   claim_id: 2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2cc7dbcd-d8d4-42f5-93cb-c6b11d8827a4
@@ -116,10 +96,6 @@ references:
     reports were uploaded by AAWSAP chain of command rather than BAASS
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:13031-13289
-  quote: The names and contact information of those US citizens had allegedly been
-    stripped out before anything went to the government, but the redacted reports
-    had allegedly been uploaded to DoD databases, not by BAASS but by someone in AAWSAP's
-    government chain of command.
   claim_id: ce18a1af-e287-45f1-9134-34777fd4bf68
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ce18a1af-e287-45f1-9134-34777fd4bf68
@@ -127,8 +103,6 @@ references:
     team
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch37:2261-2378
-  quote: It was very similar in appearance to other samples collected earlier by the
-    Bigelow Aerospace Advanced Space Studies team.
   claim_id: a53a26a0-88b4-4e66-a751-4a02884239e6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a53a26a0-88b4-4e66-a751-4a02884239e6

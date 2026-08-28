@@ -421,23 +421,18 @@ references:
     imaging analyses
   source: Dark Mission
   location: ch17:59043-59138
-  quote: Dr. Carlotto, a world-class imaging expert, and DOD contractor on a host
-    of classified imaging analyses
   claim_id: 7cb91929-7a87-4666-be06-d345a25c1840
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7cb91929-7a87-4666-be06-d345a25c1840
 - text: Carlotto is a member of the Society for Planetary SETI Research
   source: Dark Mission
   location: ch17:60082-60119
-  quote: Considering Carlotto’s membership in SPSR
   claim_id: 0605d08a-233f-46d1-b313-053e53d151c2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0605d08a-233f-46d1-b313-053e53d151c2
 - text: Carlotto joined Hoagland's Mars Investigation Group in 1985
   source: Dark Mission
   location: ch8:9107-9235
-  quote: Dr. Mark Carlotto had been brought in to the second Mars research group organized
-    by Hoagland, the Mars Investigation Group, in 1985.
   claim_id: 9caf2bfa-6879-40e3-a42f-9b5a8f3a258d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9caf2bfa-6879-40e3-a42f-9b5a8f3a258d
@@ -445,8 +440,6 @@ references:
     and Torun
   source: Dark Mission
   location: ch10:5767-5904
-  quote: He knew the details—some of them quite obscure—of almost a decade of research
-    on Cydonia carried out by DiPietro, Molenaar, Carlotto and Torun.
   claim_id: 70507fe2-6587-4acf-ade7-e3702541dae8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-70507fe2-6587-4acf-ade7-e3702541dae8
@@ -454,8 +447,6 @@ references:
     than Dipietro and Molenaar's method
   source: Dark Mission
   location: ch8:9241-9365
-  quote: He used new imaging techniques to bring out more detail than Dipietro and
-    Molenaar’s earlier method had from the two Viking images.
   claim_id: 6c684b48-3edd-4a1d-8193-e8bc506d62ba
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6c684b48-3edd-4a1d-8193-e8bc506d62ba
@@ -463,18 +454,12 @@ references:
     lines and striping
   source: Dark Mission
   location: ch8:8275-8471
-  quote: This image also eventually revealed (under enhancements by Dr. Mark Carlotto)
-    what appeared to be teeth in the mouth, bilaterally crossed lines on the forehead
-    and lateral striping on the western half.
   claim_id: 2fb866e3-10dc-48f1-b1fc-5b3ff3506d96
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2fb866e3-10dc-48f1-b1fc-5b3ff3506d96
 - text: Carlotto developed a fractal analysis technique applied to the Cydonia images
   source: Dark Mission
   location: ch8:15429-15648
-  quote: Dr. Carlotto moved the research in a new direction when he developed a fractal
-    analysis technique, to discern which objects in an image were the least consistent
-    with the “natural” background, to be used on the Cydonia images.
   claim_id: 908ee99e-9f62-4503-9528-79d50a0d34b9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-908ee99e-9f62-4503-9528-79d50a0d34b9
@@ -482,19 +467,12 @@ references:
     the most non-fractal objects
   source: Dark Mission
   location: ch8:15656-15863
-  quote: After an initial study of about 3,000 square kilometers around the Face,
-    Carlotto and his partner, Michael C. Stein, determined that the Face and the Fortress
-    were the two most “non-fractal” objects in that terrain.
   claim_id: b43502c0-a422-440d-8959-d594dab37855
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b43502c0-a422-440d-8959-d594dab37855
 - text: Carlotto and Stein extended the survey to 15,000 sq km with consistent results
   source: Dark Mission
   location: ch8:15872-16121
-  quote: Pressed to go even further, they eventually used the program on images covering
-    some 15,000 square kilometers around the Face. The results were consistent with
-    the earlier run-through. The Face was by far the most non-natural object in the
-    surveyed terrain.
   claim_id: 9d4c97a9-c8fc-4a69-a3db-afe9ea58a521
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9d4c97a9-c8fc-4a69-a3db-afe9ea58a521
@@ -502,19 +480,12 @@ references:
     not artificial
   source: Dark Mission
   location: ch8:16130-16438
-  quote: NASA responded through Dr. Malin to the effect that Carlotto had not measured
-    anything other than the fact that the Face was different, rather than artificial,
-    and suggested that if he applied the technique to a broader area, he would find
-    that the curve would smooth out, and that the Face was not all that unusual.
   claim_id: d47cc9ce-9897-4bdd-b405-687ba3bc746d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d47cc9ce-9897-4bdd-b405-687ba3bc746d
 - text: The Face's distinctiveness became more pronounced at the larger survey scale
   source: Dark Mission
   location: ch8:16448-16661
-  quote: This response ignored the fact that Carlotto had already done just that by
-    expanding the survey from 3,000 square kilometers to 15,000 and that, contrary
-    to Malin’s assertions, the Face’s uniqueness was even more pronounced.
   claim_id: 35a29bf3-c9e6-4d6e-8fe7-8b3a993a4154
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-35a29bf3-c9e6-4d6e-8fe7-8b3a993a4154
@@ -522,9 +493,6 @@ references:
     declined
   source: Dark Mission
   location: ch8:16673-16901
-  quote: Lacking the funds to expand the research even further, Carlotto offered to
-    turn the program over to NASA so that the agency could continue the survey over
-    the entire Martian surface. NASA’s response was a polite “thanks, but no thanks.”
   claim_id: a696b43d-1fe9-450a-bd36-3be394d6ef48
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a696b43d-1fe9-450a-bd36-3be394d6ef48
@@ -532,16 +500,12 @@ references:
     better than NASA's
   source: Dark Mission
   location: ch13:31216-31324
-  quote: Carlotto produced a better ortho-rectification than the NASA version, and
-    still others produced even better versions.
   claim_id: cb0864d7-638b-4656-9b94-32f54d70fe8a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cb0864d7-638b-4656-9b94-32f54d70fe8a
 - text: Carlotto contended the Face might be artificial but highly eroded
   source: Dark Mission
   location: ch13:33833-33935
-  quote: Carlotto contended that the Face might be artificial, but that if it was,
-    it was in a “highly eroded” state.
   claim_id: 6b1d842f-165e-40ce-983d-e5b8c6358e64
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6b1d842f-165e-40ce-983d-e5b8c6358e64
@@ -549,17 +513,12 @@ references:
     near the D&M Pyramid crater
   source: Dark Mission
   location: ch16:53343-53548
-  quote: it seems to substantiate earlier 3D shape-from-shading work done by Mark
-    Carlotto that indicated it might actually be a horizontal “entrance point,” either
-    from a projectile or as an actual architectural entrance.
   claim_id: b2adaac2-9de0-477e-b976-5c780d1c5f70
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b2adaac2-9de0-477e-b976-5c780d1c5f70
 - text: Carlotto's enhancements showed the D&M Pyramid as five-sided rather than four-sided
   source: Dark Mission
   location: ch8:11745-11881
-  quote: Enhancements by Carlotto revealed that the “D&M” seemed to be a *five-sided
-    pentagonal* object, rather than four-sided, as Dipietro had argued
   claim_id: d767db44-dc0d-4578-95c1-b039c4823be5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d767db44-dc0d-4578-95c1-b039c4823be5
@@ -567,18 +526,12 @@ references:
     Webb and Fiertek
   source: Dark Mission
   location: ch10:38397-38571
-  quote: would be attended by many of the principals involved in the independent investigation,
-    including Dr. Mark Carlotto, Dr. Tom Van Flandern, Dr. David Webb and architect
-    Robert Fiertek.
   claim_id: dc00c892-909b-4e32-b026-a29ac83716a0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-dc00c892-909b-4e32-b026-a29ac83716a0
 - text: Carlotto attended the November 1997 SPSR meeting with Carl Pilcher
   source: Dark Mission
   location: ch13:2394-2611
-  quote: At the meeting, which was attended by McDaniel, Carlotto and Brandenberg
-    among others, Pilcher feigned interest and promised that Cydonia would be imaged
-    at every opportunity during the “science mapping phase” of the mission.
   claim_id: cbfa4bb7-c3ab-49e7-960d-b9d7a61b2efe
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cbfa4bb7-c3ab-49e7-960d-b9d7a61b2efe
@@ -586,46 +539,30 @@ references:
     objects
   source: Dark Mission
   location: ch13:2838-3293
-  quote: “Moreover, they said that they are in fact very interested in these objects,
-    for two reasons. There are two groups in NASA. One group believes that [UFO researchers]
-    are all wrong, and they want to prove it. So they want to take these pictures
-    to prove that you’re wrong, so you’ll go away. The other group—and our sense is
-    that it’s a small but growing group within NASA—believes that we have some interesting
-    data, and they want to take a closer look at it.”
   claim_id: 6f7103c8-8b41-46d9-a988-13ae8270ef69
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6f7103c8-8b41-46d9-a988-13ae8270ef69
 - text: Carlotto published his THEMIS Cydonia analysis on 2002-08-29
   source: Dark Mission
   location: ch17:53730-53922
-  quote: Shortly before we published our revelation of the existence of two THEMIS
-    Cydonia IR images, on August 29, 2002, SPSR’s Dr. Mark Carlotto put out his own
-    analysis of the Cydonia multispectral image.
   claim_id: 1ee176e5-78cc-4434-ab63-61a40bb1208f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1ee176e5-78cc-4434-ab63-61a40bb1208f
 - text: The analysis cited the infrared file under an incorrect file name
   source: Dark Mission
   location: ch17:54067-54204
-  quote: the IR image is referred to as “E0201847.gif,” which is the wrong file name
-    for the multispectral Cydonia image, “20020724A”
   claim_id: 795f9627-fb4e-43eb-a0a0-85c196188690
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-795f9627-fb4e-43eb-a0a0-85c196188690
 - text: Mike Bara emailed Carlotto to point out errors and urge withdrawal
   source: Dark Mission
   location: ch17:60456-60613
-  quote: Bara subsequently e-mailed Carlotto, informing him he’d made several errors
-    in his article, and advising him to pull it, at least until we published our own
-    analysis.
   claim_id: be96beb7-6386-4c85-aac7-d657463d514e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-be96beb7-6386-4c85-aac7-d657463d514e
 - text: Carlotto and Hoagland spoke by phone on 2002-09-04
   source: Dark Mission
   location: ch17:61062-61160
-  quote: Carlotto e-mailed Bara back, got Hoagland’s phone number, and the two men
-    had a chat on September 4.
   claim_id: bbfb120c-fc01-4d25-aa7a-b411d8e68bac
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bbfb120c-fc01-4d25-aa7a-b411d8e68bac
@@ -633,24 +570,18 @@ references:
     article
   source: Dark Mission
   location: ch17:61164-61299
-  quote: According to Hoagland, what Carlotto seemed most concerned about was that
-    his previously published paper would be made obsolete by our article.
   claim_id: 9b25f60c-3d39-47ee-b794-61a364b6ea3d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9b25f60c-3d39-47ee-b794-61a364b6ea3d
 - text: Carlotto agreed to reprocess the image and report results to Hoagland
   source: Dark Mission
   location: ch17:61437-61615
-  quote: Carlotto agreed to  take the “real” image, perform all of the proper steps
-    (composite, color ratios and decorrelation-stretch) on it, and either call or
-    e-mail Hoagland with his results.
   claim_id: e4d6b3e7-aa0a-4bcc-92cd-816669288009
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e4d6b3e7-aa0a-4bcc-92cd-816669288009
 - text: Carlotto never reported the results back
   source: Dark Mission
   location: ch17:61624-61635
-  quote: That never happened.
   claim_id: dd377233-ea32-4db3-9576-6c53b5836ad4
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-dd377233-ea32-4db3-9576-6c53b5836ad4
@@ -658,9 +589,6 @@ references:
     and blur filters
   source: Dark Mission
   location: ch17:61999-62234
-  quote: Carlotto decided instead to take the “official” version of the Cydonia THEMIS
-    image and subject it to a series of contrast and blur filters in an apparent attempt
-    to “prove” that the Laney image was generated by degrading the official one.
   claim_id: 16b7b8f4-9220-40d6-8115-44796acbc0b6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-16b7b8f4-9220-40d6-8115-44796acbc0b6
@@ -668,8 +596,6 @@ references:
     the ASU release
   source: Dark Mission
   location: ch17:62411-62560
-  quote: This led him to conclude “its similarity to the top left [“real”] image strongly
-    suggests that the Enterprise image is an altered version of the ASU image.”
   claim_id: 0e55149e-1d78-48dd-b363-cc26ea27e028
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0e55149e-1d78-48dd-b363-cc26ea27e028
@@ -677,9 +603,6 @@ references:
     request
   source: Dark Mission
   location: ch17:64041-64220
-  quote: Keith Laney, at our request,  produced an image similar to the section that
-    Carlotto had done, only with the various bands properly aligned geometrically.
-    It took him all of five minutes.
   claim_id: 8ab72d0c-0a13-4e08-b5bf-56835a48883d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8ab72d0c-0a13-4e08-b5bf-56835a48883d
@@ -687,10 +610,6 @@ references:
     earlier Viking work
   source: Dark Mission
   location: ch17:67844-68097
-  quote: Not only are the THEMIS blocks—which Carlotto now flatly claims are “enhancement”
-    or “filtering” artifacts—clearly visible on *his own work* from twelve years ago,
-    but they match up very precisely with the blocks on the Laney image, *literarily
-    one for one*
   claim_id: 0adbc0c4-2419-4ef6-af37-30c0e6c81303
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0adbc0c4-2419-4ef6-af37-30c0e6c81303
@@ -698,27 +617,18 @@ references:
     results
   source: Dark Mission
   location: ch17:69205-69466
-  quote: We simply challenge him again in this volume—as we did in 2002—to  produce
-    and *publish* the composites, color ratios and decorrelation-stretch results from
-    the appropriate multi-spectral analysis he promised Richard Hoagland he would
-    do on the “leaked” THEMIS image.
   claim_id: 78b9692e-acf8-4b14-9fb0-5778412a7856
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-78b9692e-acf8-4b14-9fb0-5778412a7856
 - text: Hoagland concluded Carlotto had erred badly over the THEMIS analysis
   source: Dark Mission
   location: ch17:59503-59665
-  quote: The authors and Keith Laney conferenced about Carlotto’s article on the night
-    of September 3. The general consensus was that Carlotto had effectively “polished
-    a turd”
   claim_id: 938113df-3c45-464a-81a7-39228a2899ad
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-938113df-3c45-464a-81a7-39228a2899ad
 - text: Hoagland defended Carlotto's broader skill and professionalism
   source: Dark Mission
   location: ch17:59804-59961
-  quote: Hoagland, however, refused to buy into the notion that Carlotto was as incompetent
-    as his analysis made it seem. He staunchly defended Carlotto’s skills and professionalism
   claim_id: b938573a-68b8-414b-a367-77a5ce412226
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b938573a-68b8-414b-a367-77a5ce412226

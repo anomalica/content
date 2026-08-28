@@ -47,9 +47,6 @@ references:
     Marian Keech, who had predicted UFOs would arrive amid a global cataclysm.
   source: American Cosmic
   location: ch3:51052-51206
-  quote: In the 1950s three Stanford University sociologists infiltrated a small UFO
-    group whose leader, Marian Keech, predicted the arrival of UFOs amid a global
-    cataclysm.
   claim_id: 146b2af1-c483-4d97-b4a9-55b35017ca0d
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-146b2af1-c483-4d97-b4a9-55b35017ca0d
@@ -57,17 +54,12 @@ references:
     the failed prediction in a way that reinforced their faith in her.
   source: American Cosmic
   location: ch3:51428-51667
-  quote: The sociologists had assumed that they would come to disbelieve Keech, but
-    that didn’t exactly happen. Instead, some of her followers reinterpreted the meaning
-    of the events in a way that supported their faith in Keech, and their original
-    beliefs.
   claim_id: 5485556d-d77f-415c-a615-32a1077d5b1f
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5485556d-d77f-415c-a615-32a1077d5b1f
 - text: Harold Puthoff earned his PhD from Stanford University in 1967.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2368-2415
-  quote: Hal earned his PhD from Stanford University in 1967.
   claim_id: a204dd47-287c-48cb-b4a7-99a80528c391
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a204dd47-287c-48cb-b4a7-99a80528c391
@@ -75,8 +67,6 @@ references:
     in the late 1960s, led by Harold Puthoff.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:25107-25203
-  quote: The program, pioneered at Stanford University in the late 1960s, was led
-    by none other than Hal Puthoff
   claim_id: c17217b6-187a-479f-abcb-d31254a39eb7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c17217b6-187a-479f-abcb-d31254a39eb7
@@ -84,9 +74,6 @@ references:
     were approached by the CIA and told Russia had a remote viewing programme.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:25266-25447
-  quote: Hal had been a Stanford University researcher and an employee of the NSA
-    when he and his colleague Russell Targ were approached by the CIA and told that
-    Russia had a remote-viewing program.
   claim_id: 625a284f-b4d0-4b1e-a20c-70cf133e40cc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
@@ -94,8 +81,6 @@ references:
     and SRI International.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2421-2542
-  quote: His professional background spans decades of research at General Electric,
-    Sperry, the NSA, Stanford University, and SRI International
   claim_id: 29055d3f-19b0-4a6e-9149-aa17ec070132
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-29055d3f-19b0-4a6e-9149-aa17ec070132
@@ -113,8 +98,6 @@ references:
     before earning her medical degree.
   source: Surviving Death
   location: ch30:4772-4894
-  quote: Elisabeth had spent a decade at Stanford University, becoming a certified
-    Russian translator and then earning her medical degree.
   claim_id: 2577a673-8f57-4df3-9f5c-5cdc9d7ddbed
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2577a673-8f57-4df3-9f5c-5cdc9d7ddbed
@@ -122,8 +105,6 @@ references:
     worked at Stanford.
   source: In Plain Sight
   location: ch10:6382-6470
-  quote: Mansmann, who by 1982 held a doctorate in biomedical engineering and worked
-    at Stanford University
   claim_id: 5b387560-94a6-415c-90da-39d5a2ea5377
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b387560-94a6-415c-90da-39d5a2ea5377
@@ -138,9 +119,6 @@ references:
     and graduate students studied human genetics.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:12588-12761
-  quote: Garry P. Nolan had a chaired position and his own laboratory at Stanford
-    University, where an army of postdocs and graduate students investigated various
-    mysteries of human genetics.
   claim_id: 9d570b51-8c5e-42ea-9f58-0f472d6de883
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9d570b51-8c5e-42ea-9f58-0f472d6de883
@@ -148,9 +126,6 @@ references:
     servicemen and intelligence officials, to Nolan's office.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:15357-15552
-  quote: Will’s team had brought MRI images of the brains of the UAP experiencers—all
-    servicemen and intelligence officials—who had given them permission to share their
-    medical data.
   claim_id: 0d99a206-ee32-4278-b4c4-24a1965b1dcd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0d99a206-ee32-4278-b4c4-24a1965b1dcd
@@ -158,7 +133,6 @@ references:
     DeLonge's advisory board.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:13554-13614
-  quote: my friend and colleague from Stanford University, Dr. Garry Nolan
   claim_id: 2863f5c1-c383-448b-9c58-6587ca071baf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2863f5c1-c383-448b-9c58-6587ca071baf
@@ -166,8 +140,6 @@ references:
     materials paper was his first aerospace-journal publication.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:38451-38562
-  quote: It was the first time that Nolan, a professor at Stanford’s medical school,
-    had ever published in an aerospace journal
   claim_id: af50dfe6-97b1-492d-bc35-325d72bd153a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af50dfe6-97b1-492d-bc35-325d72bd153a
@@ -175,10 +147,6 @@ references:
     Ubatuba samples were extra-terrestrial or unusually pure magnesium.
   source: In Plain Sight
   location: ch24:11894-12158
-  quote: more recent Stanford University analysis and a 2020 analysis by Robert Powell
-    of the Scientific Coalition for UAP Studies has suggested there is no evidence
-    at all that the Ubatuba specimens are of extra-terrestrial origin, nor that the
-    magnesium is especially pure.
   claim_id: 6b9636bc-f8ee-4a69-9494-74baea2ed4b9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6b9636bc-f8ee-4a69-9494-74baea2ed4b9

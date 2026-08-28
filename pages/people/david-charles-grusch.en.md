@@ -449,8 +449,6 @@ references:
     to April 2023
   source: The Fourth Mind
   location: ch11:4025-4175
-  quote: David Grusch, who was from November 2021 until April 2023 a Senior GEOINT
-    Capabilities Requirements Officer with the National Geospatial-Intelligence Agency
   claim_id: fb6583a3-526a-4c47-bfa1-f0577c5ba4f2
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-fb6583a3-526a-4c47-bfa1-f0577c5ba4f2
@@ -674,8 +672,6 @@ references:
     found alongside crashed disks
   source: The Fourth Mind
   location: ch11:4183-4322
-  quote: stated under oath in a congressional hearing on July 26, 2023 that he was
-    aware that, along with crashed disks, “non-human biologics” were found.
   claim_id: 2c101989-095c-4c91-b4ac-2ecb2d21ee69
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-2c101989-095c-4c91-b4ac-2ecb2d21ee69
@@ -683,10 +679,6 @@ references:
     testified under oath
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:2345-2593
-  quote: members of Congress held another historic bipartisan UAP hearing. This time
-    the hearing had highly credible military witnesses, Commander Fravor, Lieutenant
-    Graves, and Dave Grusch, who were now testifying to the American people in Congress
-    *under oath*
   claim_id: bfb42c69-0416-49a7-87b0-4e3047b26a19
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19

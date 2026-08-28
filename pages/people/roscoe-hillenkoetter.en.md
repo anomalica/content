@@ -46,10 +46,6 @@ references:
     Intelligence in Washington, D.C. in May 1947.
   source: In Plain Sight
   location: ch7:5036-5323
-  quote: About the same time as the southern Australia sightings, in May 1947, on
-    the other side of the planet in Washington DC, Rear Admiral Roscoe Hillenkoetter
-    was settling into his new job as the Director of Central Intelligence, which later
-    that year became the Central Intelligence Agency (CIA).
   claim_id: 81697f7d-8545-4d1e-8a38-632f67d8c68b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-81697f7d-8545-4d1e-8a38-632f67d8c68b
@@ -57,25 +53,18 @@ references:
     in 1947.
   source: In Plain Sight
   location: ch7:5156-5323
-  quote: Rear Admiral Roscoe Hillenkoetter was settling into his new job as the Director
-    of Central Intelligence, which later that year became the Central Intelligence
-    Agency (CIA).
   claim_id: b1375d69-f83f-4842-abd2-3e57e8987ef6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b1375d69-f83f-4842-abd2-3e57e8987ef6
 - text: He had formerly commanded the battleship USS Missouri.
   source: In Plain Sight
   location: ch7:5329-5484
-  quote: A former commander of the battleship USS Missouri, Hillenkoetter had been
-    wounded on another vessel during the attack on Pearl Harbor
   claim_id: ddd1d2c6-6859-46b1-bec0-e8cb39ab27cc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ddd1d2c6-6859-46b1-bec0-e8cb39ab27cc
 - text: He was wounded aboard a vessel during the attack on Pearl Harbor on 1941-12-07.
   source: In Plain Sight
   location: ch7:5408-5484
-  quote: Hillenkoetter had been wounded on another vessel during the attack on Pearl
-    Harbor
   claim_id: b26db7a2-3d63-41d4-b049-0cbc8784a4e4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b26db7a2-3d63-41d4-b049-0cbc8784a4e4
@@ -83,15 +72,12 @@ references:
     undetected was a major priority in his new role.
   source: In Plain Sight
   location: ch7:5495-5618
-  quote: a major priority in his new job was to fix the intelligence failures that
-    had allowed the Japanese to attack undetected in 1941.
   claim_id: c87ead90-11cb-46ae-b2c8-9abbc5e0210c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c87ead90-11cb-46ae-b2c8-9abbc5e0210c
 - text: He joined the Board of Directors of NICAP.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:32773-32810
-  quote: and joined the Board of Directors of NICAP
   claim_id: f15c72a4-ad1a-4396-8a99-2196c1221424
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-f15c72a4-ad1a-4396-8a99-2196c1221424
@@ -99,8 +85,6 @@ references:
     after leaving the CIA directorship.
   source: In Plain Sight
   location: ch9:14715-14855
-  quote: Former CIA Director Vice Admiral Roscoe Hillenkoetter, barely a year out
-    of the job, was one of the three former navy admirals on the NICAP board
   claim_id: 909f2ddf-1eb2-4bdf-9c43-b87adc6b8599
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-909f2ddf-1eb2-4bdf-9c43-b87adc6b8599
@@ -108,8 +92,6 @@ references:
     come from.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:32646-32767
-  quote: Admiral Hillenkoeter, the former CIA chief who stated, “It is imperative
-    that we learn what UFOs are and where they come from,”
   claim_id: 772143cb-2ceb-441d-bd34-1687e50168b3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-772143cb-2ceb-441d-bd34-1687e50168b3
@@ -117,8 +99,6 @@ references:
     hearings.
   source: In Plain Sight
   location: ch9:15260-15347
-  quote: ‘It is time for the truth to be brought out in open congressional hearings,’
-    he said in 1960.
   claim_id: 6ceca9f9-2cdc-4030-9366-f12c7cf70099
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6ceca9f9-2cdc-4030-9366-f12c7cf70099
@@ -126,9 +106,6 @@ references:
     about UFOs while secrecy and ridicule led the public to dismiss them.
   source: In Plain Sight
   location: ch9:15353-15570
-  quote: He would tell Congress, ‘Behind the scenes, high-ranking air force officers
-    are soberly concerned about UFOs. But through official secrecy and ridicule, many
-    citizens are led to believe the unknown flying objects are nonsense.’
   claim_id: 40a7560c-749b-41dc-8e72-24f9e95ad0fc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-40a7560c-749b-41dc-8e72-24f9e95ad0fc
@@ -136,9 +113,6 @@ references:
     Force publicly debunked UAP sightings but took the phenomenon seriously in private.
   source: In Plain Sight
   location: ch9:17242-17443
-  quote: While the US Air Force aggressively debunked most UAP sightings in public,
-    privately it was taking the phenomenon very seriously. Former CIA Director Roscoe
-    Hillenkoetter was pushing for Congressional hearings.
   claim_id: 6ee9a279-9c83-4c4f-8cb9-9c0866496b29
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6ee9a279-9c83-4c4f-8cb9-9c0866496b29
@@ -147,8 +121,6 @@ references:
     UFOs.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:32817-32919
-  quote: could have been lending credibility to the stratagem by deliberately promoting
-    the “extraterrestrial” theory.
   claim_id: 422238e0-ca4d-42cf-afc7-222669d1fe79
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-422238e0-ca4d-42cf-afc7-222669d1fe79
@@ -156,9 +128,6 @@ references:
     the government knew UFOs were extraterrestrial but withheld this from the public.
   source: In Plain Sight
   location: ch11:2703-2929
-  quote: '''Many intelligence officers associated with the UFO problem,'' he said,
-    including former CIA boss Admiral Hillenkoetter, had ''stated that the US government
-    knew UFOs were extra-terrestrial but was withholding this fact from the public''.'
   claim_id: f2bc05b7-75f8-4e7e-8a9d-e29a1f770adb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2bc05b7-75f8-4e7e-8a9d-e29a1f770adb

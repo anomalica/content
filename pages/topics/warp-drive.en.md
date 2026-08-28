@@ -33,9 +33,6 @@ references:
     antigravity, and brain/machine interfaces
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:44339-44555
-  quote: Even before I’d come aboard, Hal conceived and commissioned fascinating studies
-    for AAWSAP/AATIP, including invisibility cloaking, traversable wormholes and stargates,
-    antigravity, brain/machine interfaces, and warp drives.
   claim_id: 524f204c-f983-4be1-8a6e-61e1f2c65e25
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-524f204c-f983-4be1-8a6e-61e1f2c65e25
@@ -43,16 +40,12 @@ references:
     writer
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:2793-2899
-  quote: The phrase “warp drive” had been cooked up by a sci-fi writer who wrote for
-    pulp fiction magazines in the 1930s.
   claim_id: aef67c61-56b8-471b-ab7a-be443e558f80
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-aef67c61-56b8-471b-ab7a-be443e558f80
 - text: Puthoff's papers touched on warp drives, traversable wormholes and time machines
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:2637-2714
-  quote: His paper touched on such things as warp drives, traversable wormholes, time
-    machines…
   claim_id: 0de0b2fb-62ff-4e2a-abb1-4497dc092a4a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0de0b2fb-62ff-4e2a-abb1-4497dc092a4a
@@ -60,8 +53,6 @@ references:
     drive serious consideration
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:3230-3371
-  quote: In reality, US government research facilities associated with DoD, NASA,
-    and the Massachusetts Institute of Technology gave the idea serious consideration.
   claim_id: c8cfe656-51b4-46c6-8e9b-b881301ce8f2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c8cfe656-51b4-46c6-8e9b-b881301ce8f2
@@ -69,9 +60,6 @@ references:
     thesis how warp drives could work in theory
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:3472-3626
-  quote: At age thirty, for his PhD thesis in theoretical physics, Alcubierre, then
-    a student at Cardiff University in Wales, showed how warp drives could work in
-    theory.
   claim_id: fbad143b-ef77-42a1-8c6d-e8df5029f72c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fbad143b-ef77-42a1-8c6d-e8df5029f72c
@@ -79,8 +67,6 @@ references:
     but not practical
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:3938-4062
-  quote: A number of physicists after Alcubierre wrote papers saying, well, warp drives
-    might be *possible*, but they are surely not practical.
   claim_id: c3025e80-6e0d-405b-a7d1-d0ebe8de6983
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3025e80-6e0d-405b-a7d1-d0ebe8de6983
@@ -88,8 +74,6 @@ references:
     in size by the energy needed to sustain it
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch24:16049-16168
-  quote: It also turns out that this bubble, in theory, can only be so big due to
-    the great amount of energy required to create it.
   claim_id: 898853e9-f3d6-40e4-8ffc-34c2b2afe498
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-898853e9-f3d6-40e4-8ffc-34c2b2afe498
@@ -97,8 +81,6 @@ references:
     around a UAP craft
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch24:1760-1881
-  quote: “if we had the right technology, we could warp space and time in a localized
-    area, creating a localized ‘bubble’ around a craft.”
   claim_id: 31842d70-1eb4-4850-bedd-d10e9e78f22f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-31842d70-1eb4-4850-bedd-d10e9e78f22f
@@ -106,10 +88,6 @@ references:
     space ahead of a vehicle and stretching it behind'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch24:3225-3472
-  quote: it is theoretically possible that with a sufficient amount of energy, a vehicle
-    could compress the space in front of you while stretching it behind you. If you
-    had the technology to do that, you could achieve—or begin to achieve—faster-than-light
-    travel.
   claim_id: 48da34aa-835b-4e37-85ab-c46b569ba73a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48da34aa-835b-4e37-85ab-c46b569ba73a
