@@ -207,6 +207,7 @@ references:
 - text: Betty and Barney Hill lived in New Hampshire
   source: American Cosmic
   location: ch4:42070-42088
+  quote: They lived in New Hampshire.
   claim_id: 9183580f-d09a-45de-9d1b-f7a8215d2e96
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9183580f-d09a-45de-9d1b-f7a8215d2e96
@@ -214,6 +215,8 @@ references:
 - text: The Hills were an interracial couple, both active in the civil rights movement
   source: American Cosmic
   location: ch4:41972-42060
+  quote: Betty Hill and Barney Hill, an interracial couple, were both active in the
+    civil rights movement.
   claim_id: dd61c15c-b683-4464-b0c6-8203ffea0cc2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-dd61c15c-b683-4464-b0c6-8203ffea0cc2
@@ -222,6 +225,10 @@ references:
     watershed early abduction reports
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:11203-11512
+  quote: Most researchers in this field recognize that there are actually two "first"
+    abduction reports that have had a strong impact on our perceptions of the phenomenon...These
+    are the watershed case of Betty and Barney Hill from 1961 and the controversial
+    sexual "seduction" encounter of Antonio Villas-Boas from 1957.
   claim_id: f88051f5-282d-463a-b008-047d7d3431e8
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-f88051f5-282d-463a-b008-047d7d3431e8
@@ -242,6 +249,8 @@ references:
 - text: They spotted a light resembling a falling star that moved differently
   source: American Cosmic
   location: ch4:42099-42237
+  quote: On September 19, 1961, they were driving on a rural road in that state, when
+    they spotted a light that resembled a falling star but moved differently.
   claim_id: f7201d79-2649-4546-93db-3ea2257a8767
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f7201d79-2649-4546-93db-3ea2257a8767
@@ -249,6 +258,8 @@ references:
 - text: They stopped, used binoculars, then continued their journey
   source: American Cosmic
   location: ch4:42250-42359
+  quote: They stopped and used binoculars to try to identify it, but then got back
+    into their car and continued their journey.
   claim_id: 597426ab-c836-45c4-a9ce-fa8afff204fa
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-597426ab-c836-45c4-a9ce-fa8afff204fa
@@ -256,6 +267,8 @@ references:
 - text: The light came toward the car, almost filling the windshield
   source: American Cosmic
   location: ch4:42462-42545
+  quote: At one point, it came toward their vehicle, almost filling the windshield
+    with its light.
   claim_id: 6b6d8285-759d-4780-831d-9a5314313b2d
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6b6d8285-759d-4780-831d-9a5314313b2d
@@ -263,6 +276,8 @@ references:
 - text: Frightened, they stopped again and Barney Hill got out with a pistol
   source: American Cosmic
   location: ch4:42552-42626
+  quote: Frightened, they stopped the car, and Barney got out with a pistol he was
+    carrying.
   claim_id: fb447b5c-6172-4cc6-886f-e5cd63aee74c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-fb447b5c-6172-4cc6-886f-e5cd63aee74c
@@ -270,6 +285,8 @@ references:
 - text: Barney Hill said he saw a curved window with humanoid figures behind it
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:22051-22181
+  quote: Barney stops the car, gets his binoculars. The object has a large curved
+    window, and behind that window, humanoids are looking at him.
   claim_id: dd0ac7b1-3d30-476b-83a7-d311272ddbc6
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-dd0ac7b1-3d30-476b-83a7-d311272ddbc6
@@ -277,6 +294,7 @@ references:
 - text: Barney Hill said he became frightened, rushed to the car, and drove away
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:22186-22240
+  quote: Barney rushes back to the car, frightened, and drives away.
   claim_id: ba0ccce7-fc61-4d66-a354-36901690d794
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ba0ccce7-fc61-4d66-a354-36901690d794
@@ -294,6 +312,8 @@ references:
     100 km south
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:22246-22393
+  quote: A few miles down the road the middle-aged couple loses all awareness of their
+    actions. They next remember driving past Ashland… sixty miles to the south!
   claim_id: 8a65ef8a-d4e4-427f-ae53-5541f05b4c2b
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8a65ef8a-d4e4-427f-ae53-5541f05b4c2b
@@ -301,6 +321,9 @@ references:
 - text: Betty Hill said they became aware of missing time and arrived home hours late
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:11830-12006
+  quote: After the experience, they became aware of a period of missing time during
+    which they were unable to remember what had happened. They arrived home a couple
+    of hours later than anticipated.
   claim_id: 3e72997c-a78c-4a01-9b15-abddf1ce2e29
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-3e72997c-a78c-4a01-9b15-abddf1ce2e29
@@ -328,6 +351,8 @@ references:
 - text: He also experienced headaches and nightmares
   source: American Cosmic
   location: ch4:43634-43712
+  quote: Additionally, Barney had been experiencing headaches and nightmares since
+    the event.
   claim_id: a8ecbd59-b311-4e50-9088-d235bcc6a8fa
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a8ecbd59-b311-4e50-9088-d235bcc6a8fa
@@ -337,6 +362,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch13:10312-10496
+  quote: They did not say anything about the creatures (category 5) or the time loss
+    (category 7), which only came to light after they discussed the case with someone
+    they trusted, a local UFO amateur.
   claim_id: 60823d99-15b2-4a14-adfa-3b07d603cfd6
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-60823d99-15b2-4a14-adfa-3b07d603cfd6
@@ -346,6 +374,10 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch13:10053-10305
+  quote: The Betty and Barney Hill "abduction" case of 1961 is a fascinating one in
+    light of this classification because one part of the incident (the observation
+    of a disk with windows) is clearly of category 3 and this is indeed what they
+    reported to the Air Force.
   claim_id: f0cfb649-ad41-4de4-becb-72ce14d42064
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f0cfb649-ad41-4de4-becb-72ce14d42064
@@ -354,6 +386,11 @@ references:
     trusted not to scoff, such as Donald Keyhoe and their therapist'
   source: American Cosmic
   location: ch5:7068-7389
+  quote: They reported empirical evidence to the Air Force, the sighting of the starlike
+    object. But when describing their experience to people they felt would not be
+    inclined to scoff, like Donald Keyhoe and later their therapist (who, ironically,
+    did not believe in UFOs), they divulged the story of the encounter with nonhuman
+    beings.
   claim_id: 0ab8d589-9486-4efc-ab61-f5aaaeeb4074
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0ab8d589-9486-4efc-ab61-f5aaaeeb4074
@@ -409,6 +446,9 @@ references:
 - text: By January 1964 they sought Dr. Benjamin Simon's ongoing help
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:12020-12228
+  quote: The couple began experiencing problems—anxiety dreams for Betty and stress-related
+    problems for Barney—that became so severe that they sought the help of a Boston
+    psychiatrist, Dr. Benjamin Simon, in January 1964.
   claim_id: 4ec532b4-855a-4fc6-8a1b-5b6a1805bb3d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4ec532b4-855a-4fc6-8a1b-5b6a1805bb3d
@@ -417,6 +457,8 @@ references:
     abduction
   source: American Cosmic
   location: ch4:41343-41445
+  quote: It may also have been the first time hypnosis was used on people who claimed
+    to have been abducted by aliens.
   claim_id: ec73ff26-f04a-4ca0-a6de-7f9c256b83ea
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ec73ff26-f04a-4ca0-a6de-7f9c256b83ea
@@ -546,6 +588,9 @@ references:
     relieve their anxiety
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:12635-12789
+  quote: Dr. Simon never believed that the Hills' UFO abduction was real. For him,
+    their story was a fantasy to be explored in an effort to relieve the associated
+    anxiety.
   claim_id: 3ebab16a-6f1b-4ac4-987b-16076ebb735c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-3ebab16a-6f1b-4ac4-987b-16076ebb735c
@@ -576,6 +621,9 @@ references:
 - text: Vallée believes the Hills really saw a UFO and were not lying or 'nuts'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:29064-29289
+  quote: Before I present my side of the story, I want to state that I think Betty
+    and Barney Hill really saw a UFO and that something unknown stopped their car
+    and took control of their minds. They were not lying, and they were not “nuts.”
   claim_id: ca2bb5f7-294e-4a60-83d0-e3c1aa565f78
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-ca2bb5f7-294e-4a60-83d0-e3c1aa565f78
@@ -584,6 +632,11 @@ references:
     physical one aboard a saucer'
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:35281-35645
+  quote: I do not believe that any of the contactees – not even Betty and Barney Hill
+    – have been physically on board an actual “saucer.” It is more likely that they
+    have taken a nonphysical “trip,” controlled and guided by a system of which we
+    have no clear idea as yet, a system that acts on human consciousness (the Soviets
+    use the term “psychotronic” to designate such devices)
   claim_id: 79c26bae-c94e-455b-832e-59f2cd315b0a
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-79c26bae-c94e-455b-832e-59f2cd315b0a
@@ -592,6 +645,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch17:17101-17217
+  quote: I have spent hours with Betty and Barney Hill and have had a chance to discuss
+    the case of their abduction with Dr. Simon.
   claim_id: 0b679581-6f26-4b41-b258-ef758283ddbe
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0b679581-6f26-4b41-b258-ef758283ddbe
@@ -600,6 +655,9 @@ references:
     to Zeta Reticuli
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:26832-27014
+  quote: It is this model that indicates to many authorities among the UFO believers
+    – men like Stanton Friedman and Dave Saunders – that the saucer which abducted
+    the Hills hailed from Zeta Reticuli.
   claim_id: 550ccd06-4f9e-46b8-93aa-06ba5335e3a0
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-550ccd06-4f9e-46b8-93aa-06ba5335e3a0
@@ -608,6 +666,8 @@ references:
     to the Hills
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:5014-5116
+  quote: My APEG team received some dress samples and control biological samples pertinent
+    to Betty and Barney Hill.
   claim_id: 7d39ca93-5a8a-4c46-89c8-bdb0c746ca23
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7d39ca93-5a8a-4c46-89c8-bdb0c746ca23
@@ -616,6 +676,9 @@ references:
     blood
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:5354-5542
+  quote: Despite the passage of decades, DNA found on the dress was connected to Betty
+    and Barney Hill, and rather surprisingly, at least some of the stained areas were
+    found to be due to spider’s blood.
   claim_id: e4adeacb-2b8c-43e8-b7be-e215d20d9f2e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e4adeacb-2b8c-43e8-b7be-e215d20d9f2e
@@ -624,6 +687,10 @@ references:
     close-set, trailing toward the sides of the head
   source: American Cosmic
   location: ch4:44259-44499
+  quote: 'In a sketch he made under hypnosis, the eyes look indefinably sinister,
+    malevolent: the irises and pupils, not distinguished from each other, are close
+    together, while the rest of the eyes trail away upward, toward the sides of the
+    being’s head.'
   claim_id: 9ac2ddf4-776b-4a8f-ada7-d270d9487d61
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9ac2ddf4-776b-4a8f-ada7-d270d9487d61
@@ -632,6 +699,11 @@ references:
     Hill's hypnotic session
   source: American Cosmic
   location: ch4:44704-45038
+  quote: In 1994, UFO skeptic and pop-culture expert Martin Kottmeyer announced a
+    startling discovery. These “wraparound eyes,” as they’d come to be known in UFO
+    parlance, had been seen by the nation’s television audience on February 10, 1964—twelve
+    days before Barney’s hypnotic session—in an episode of the science fiction series
+    *The Outer Limits*.
   claim_id: c15f92d2-5480-4a98-a8ca-bc5213155dfe
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-c15f92d2-5480-4a98-a8ca-bc5213155dfe
@@ -639,6 +711,8 @@ references:
 - text: The alien in 'The Bellero Shield' had the same sort of wraparound eyes
   source: American Cosmic
   location: ch4:45047-45120
+  quote: The alien in an episode titled “The Bellero Shield” had the same sort of
+    eyes.
   claim_id: 9914a4f4-58e8-4c2e-b1c3-8d53a8f81986
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9914a4f4-58e8-4c2e-b1c3-8d53a8f81986
@@ -647,6 +721,9 @@ references:
     of its head
   source: American Cosmic
   location: ch4:44505-44693
+  quote: Barney later told [author] John Fuller that the eyes continued around to
+    the sides of their heads, so that it appeared that they could see several degrees
+    beyond the lateral extent of our vision.
   claim_id: 6b9995d6-201b-47bb-b62d-47b5f890f75b
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6b9995d6-201b-47bb-b62d-47b5f890f75b
@@ -656,6 +733,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:33308-33523
+  quote: On December 3, 1967, a patrolman named Herb Schirmer, of Ashland, Nebraska,
+    had an experience that deserves to be placed in the context of the stories of
+    the abduction of Betty and Barney Hill and of the Pascagoula fishermen.
   claim_id: 0129e7d8-b592-4ca8-a25b-de7fa636d09a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0129e7d8-b592-4ca8-a25b-de7fa636d09a
@@ -676,6 +756,7 @@ references:
 - text: Barney Hill died of a cerebral haemorrhage at age 46
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch5:22816-22878
+  quote: Barney Hill is dead now. He suffered a cerebral hemorrhage at 46.
   claim_id: 9162fd1d-8a34-4bdf-83f0-b47e6de31fbb
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9162fd1d-8a34-4bdf-83f0-b47e6de31fbb

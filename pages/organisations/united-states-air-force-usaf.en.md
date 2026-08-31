@@ -493,6 +493,8 @@ references:
     had been terminated
   source: In Plain Sight
   location: ch10:23585-23735
+  quote: A little over a year later, it was all over; in December 1969, the Air Force
+    Secretary announced Project Blue Book had been terminated.
   claim_id: 84890d08-c552-4355-b806-a179d2225b6a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-84890d08-c552-4355-b806-a179d2225b6a
@@ -501,6 +503,8 @@ references:
     Air Force's official UAP investigation team
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:23023-23155
+  quote: Dr. J. Allen Hynek, the lead scientist in charge of the Air Force's official
+    UAP investigation team, Project Blue Book, visited the region.
   claim_id: 0ced0b8c-9645-4ace-8e3a-25e1fe8ce5a8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0ced0b8c-9645-4ace-8e3a-25e1fe8ce5a8
@@ -544,6 +548,8 @@ references:
     investigation into UAP that became the Condon Report
   source: In Plain Sight
   location: ch10:22675-22790
+  quote: Dr Edward Condon and his team of scientists had been recruited by the air
+    force to do an objective and independent investigation.
   claim_id: 1d58bd59-bb55-4878-8b23-8a5467cd09aa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d58bd59-bb55-4878-8b23-8a5467cd09aa
@@ -552,6 +558,8 @@ references:
     Project Blue Book
   source: In Plain Sight
   location: ch10:23334-23432
+  quote: The Condon Report gave the US Air Force the excuse it was looking for to
+    bail out of Project Blue Book.
   claim_id: df697174-c6da-413d-86bb-2e929fc78fcc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df697174-c6da-413d-86bb-2e929fc78fcc
@@ -606,6 +614,8 @@ references:
     mysteriously uncooperative on the topic of UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:1851-1984
+  quote: From the moment I came on board the team, I learned that the Air Force was
+    stubbornly and mysteriously uncooperative on the topic of UAP.
   claim_id: 8215a43e-8dc3-4109-be41-9527592bb49c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8215a43e-8dc3-4109-be41-9527592bb49c
@@ -614,6 +624,9 @@ references:
     information on UAP incidents, and the requests were repeatedly denied or ignored
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:2029-2219
+  quote: I cannot enumerate the times we sent carefully crafted emails to Air Force
+    liaisons requesting information or follow-up details on UAP incidents, only to
+    have the requests denied or ignored entirely.
   claim_id: 324d401c-3c7e-4d4b-b06c-e0f8c224e18e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-324d401c-3c7e-4d4b-b06c-e0f8c224e18e
@@ -687,6 +700,9 @@ references:
     objects and debris
   source: In Plain Sight
   location: ch10:814-991
+  quote: The 4602d AISS ran a secret project in which the US Air Force deployed covert
+    quick reaction intelligence teams around the world to recover unidentified objects
+    and debris from space.
   claim_id: 1fd93f7e-69bd-4e4c-9bd7-3ffaa881e9df
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1fd93f7e-69bd-4e4c-9bd7-3ffaa881e9df
@@ -728,6 +744,7 @@ references:
 - text: J. Allen Hynek was the Air Force's expert on UFO matters
   source: THE INVISIBLE COLLEGE
   location: ch8:22310-22365
+  quote: Dr. J. Allen Hynek, the U.S. Air Force’s expert on UFO matters
   claim_id: b3af6fba-8b15-4b5d-90f8-1eb23bb8aabd
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b3af6fba-8b15-4b5d-90f8-1eb23bb8aabd
@@ -736,6 +753,10 @@ references:
     unclassified, the building holding them requires a security clearance to enter
   source: THE INVISIBLE COLLEGE
   location: ch10:22247-22484
+  quote: The files of Project Blue Book have now been transferred into the Air Force
+    archives. The files are not classified but the building is, with the interesting
+    result that one needs a security clearance in order to see these "unclassified"
+    papers.
   claim_id: d00225bd-2b46-4183-bc1b-86235f9a2f03
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-d00225bd-2b46-4183-bc1b-86235f9a2f03

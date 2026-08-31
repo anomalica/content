@@ -46,6 +46,8 @@ references:
 - text: John Mack described as a Harvard researcher
   source: American Cosmic
   location: ch2:6709-6794
+  quote: An avid reader of science fiction, James picked up a book by Harvard researcher
+    John Mack
   claim_id: 05ab061e-52eb-489a-b6b5-1e5e3300ec45
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-05ab061e-52eb-489a-b6b5-1e5e3300ec45
@@ -63,6 +65,10 @@ references:
 - text: Ralph Blumenthal worked on a biography of the late John Mack
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:16543-16825
+  quote: For several years he had been quietly working on a biography of the late
+    Dr. John Mack, a Harvard psychiatrist who treated and extensively interviewed
+    UAP experiencers, who were often traumatized people who claimed to have been abducted
+    by aliens, or at least encountered aliens in person.
   claim_id: 82e8c5b4-f7c3-434b-a097-855b56f9b6f7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-82e8c5b4-f7c3-434b-a097-855b56f9b6f7
@@ -70,6 +76,10 @@ references:
 - text: Mack visited Australia in 1996 to research alien abduction
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:13541-13796
+  quote: When Harvard psychiatrist John Mack visited Australia to research the subject
+    of alien abduction in 1996,40 he took the opportunity to regress Peter to try
+    to clarify the 1988 experience beyond the moment of blankness after the needle
+    was inserted in his head.
   claim_id: 8eb22f1f-fdd0-4e2f-9f9d-6e2fbff803bb
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8eb22f1f-fdd0-4e2f-9f9d-6e2fbff803bb
@@ -87,6 +97,9 @@ references:
     reports
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:20086-20241
+  quote: During 2002 and 2003 research conducted at Harvard University reignited the
+    idea of psychological mechanisms as a possible explanation for alien abduction
+    reports.
   claim_id: 4f3e17ad-c7e8-4ed8-8135-61079ecb3fd3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4f3e17ad-c7e8-4ed8-8135-61079ecb3fd3
@@ -94,6 +107,8 @@ references:
 - text: Clancy and McNally were the key players in the debate
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch8:20250-20324
+  quote: The key players in the debate were psychologists Susan Clancy and Richard
+    McNally.
   claim_id: 9641fb47-a1d7-4f6e-9e56-10631ebb7dea
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-9641fb47-a1d7-4f6e-9e56-10631ebb7dea
@@ -111,6 +126,8 @@ references:
 - text: Elizondo met with Harvard students in Galileo Project seminars
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:37840-37991
+  quote: I met with Harvard University students participating in seminars at the Galileo
+    Project, which is charged with mapping ways to investigate life in the universe.
   claim_id: b978c751-ab3a-4696-8d7e-7164b2b78be3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b978c751-ab3a-4696-8d7e-7164b2b78be3
@@ -118,6 +135,9 @@ references:
 - text: Bush worked with Menzel on the differential analyzer
   source: Dark Mission
   location: ch12:68352-68549
+  quote: Shortly before the war, Bush was also working closely with Dr. Donald Menzel,
+    an astronomer at Harvard University, on the development of a "differential analyzer"—the
+    world's first (modern) analog computer.
   claim_id: 951afd96-5497-41e1-bedd-98b6d68a6d2f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-951afd96-5497-41e1-bedd-98b6d68a6d2f
@@ -125,6 +145,10 @@ references:
 - text: Bush recalled Menzel's position in Harvard's astronomy department
   source: Dark Mission
   location: ch12:68976-69219
+  quote: Dr. M., who was then an assistant or associate professor in the astronomy
+    department of Harvard University, was much interested in the possibility of applying
+    the differential analyzer to the solution of certain astronomical and astrophysical
+    problems.
   claim_id: 655851eb-8f17-4a98-9af4-b379b49d3044
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-655851eb-8f17-4a98-9af4-b379b49d3044
@@ -132,6 +156,8 @@ references:
 - text: Menzel served as Carl Sagan's mentor at Harvard
   source: Dark Mission
   location: ch12:71270-71366
+  quote: Menzel, who served as Dr. Carl Sagan's mentor at Harvard, was essentially
+    the Carl Sagan of his day
   claim_id: 7b11d725-295f-4d0e-8d9c-70b376dab1ba
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7b11d725-295f-4d0e-8d9c-70b376dab1ba
@@ -139,6 +165,7 @@ references:
 - text: Lisa Randall is a theoretical physicist at Harvard
   source: Surviving Death
   location: ch20:26377-26426
+  quote: Lisa Randall, theoretical physicist from Harvard University
   claim_id: 7bc2d78a-c32b-41b7-9862-d15ac117f542
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7bc2d78a-c32b-41b7-9862-d15ac117f542
@@ -146,6 +173,8 @@ references:
 - text: Alan Gauld spent a postgraduate year at Harvard
   source: Surviving Death
   location: ch28:1578-1694
+  quote: He spent a postgraduate year at Harvard and then he principally taught biological
+    psychology and neuropsychology at Nottingham.
   claim_id: d3c2873a-299c-476d-8519-8dae9e4ed3a5
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d3c2873a-299c-476d-8519-8dae9e4ed3a5
@@ -153,6 +182,7 @@ references:
 - text: Rudy Schild is a retired tenured professor of astrophysics at Harvard
   source: American Cosmic
   location: ch6:22040-22099
+  quote: and a retired tenured professor of astrophysics at Harvard University,
   claim_id: 7515804b-be7c-40a7-815e-8554d6683fbc
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7515804b-be7c-40a7-815e-8554d6683fbc
@@ -160,6 +190,8 @@ references:
 - text: William James of Harvard discovered Leonora E. Piper for psychical research
   source: Surviving Death
   location: ch28:6187-6336
+  quote: Mrs. Piper was “discovered” for psychical research by William James of Harvard
+    University, arguably the greatest psychologist of that or perhaps any time.
   claim_id: ae008755-15d6-4535-a736-ace882521a3e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ae008755-15d6-4535-a736-ace882521a3e
@@ -167,6 +199,7 @@ references:
 - text: Christopher Chabris is affiliated with Harvard University
   source: American Cosmic
   location: ch2:53917-53948
+  quote: Christopher Chabris of Harvard University
   claim_id: 18d782a3-9a53-4675-a282-a2838c8cf55f
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-18d782a3-9a53-4675-a282-a2838c8cf55f

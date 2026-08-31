@@ -65,6 +65,9 @@ references:
 - text: A UAP was spotted near Aguadilla airport in 2004 and tracked by a DHS helicopter
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:20405-20598
+  quote: a bizarre sighting occurred in Aguadilla, Puerto Rico...A UAP was spotted
+    near the airport and was quickly tracked by a helicopter from the US Department
+    of Homeland Security.
   claim_id: d058f296-0f9b-437d-aa6c-c3b05f621384
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d058f296-0f9b-437d-aa6c-c3b05f621384
@@ -72,6 +75,8 @@ references:
 - text: The object appeared to detect the DHS helicopter and rapidly moved away
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:20785-20880
+  quote: seemed to detect that it was being monitored by one of our helicopters. When
+    it did, it zipped away.
   claim_id: c2048fb8-ff4a-408a-aaab-6b83fc0b0cb1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c2048fb8-ff4a-408a-aaab-6b83fc0b0cb1
@@ -80,6 +85,8 @@ references:
     sister-agency origin
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch27:3644-3745
+  quote: I deemed the DHS video from Aguadilla, Puerto Rico, as too sensitive because
+    of its origin, a sister agency.
   claim_id: 34cce20e-1547-47e2-8b3e-5ff722ba5616
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-34cce20e-1547-47e2-8b3e-5ff722ba5616
@@ -88,6 +95,8 @@ references:
     DHS's agreement
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch27:3753-3882
+  quote: Even if it was already leaked online, I wasn’t about to confirm it was indeed
+    a US government video without DHS agreeing to that decision.
   claim_id: 86accb75-cf3c-4673-9547-5a1949c8bb5e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-86accb75-cf3c-4673-9547-5a1949c8bb5e
@@ -96,6 +105,9 @@ references:
     DHS, and local law enforcement
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:1326-1548
+  quote: While in that assignment, I worked for the Office of the Undersecretary of
+    Defense for Intelligence (OUSD(I)), focused on an information-sharing operation
+    between the DoD, DHS, and state, local, and tribal law enforcement authorities.
   claim_id: 6a85d80d-06cd-475c-91c5-66490a3bd7a0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6a85d80d-06cd-475c-91c5-66490a3bd7a0
@@ -104,6 +116,9 @@ references:
     DHS partners
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:719-912
+  quote: I led classified investigations worldwide with partners that included the
+    Federal Bureau of Investigation (FBI), the Central Intelligence Agency (CIA),
+    and the Department of Homeland Security (DHS).
   claim_id: 4d1a24ed-c8be-4d09-a5fa-9dd24272674a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4d1a24ed-c8be-4d09-a5fa-9dd24272674a
@@ -288,6 +303,9 @@ references:
     visitors
   source: American Cosmic
   location: ch3:46253-46423
+  quote: When I was out there, so was Homeland Security. She’s got all kinds of people
+    visiting and seeing the orbs and other things out in the skies above the woods
+    near her house.
   claim_id: b665bd43-2644-4c7d-96c2-5718d11ea355
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b665bd43-2644-4c7d-96c2-5718d11ea355

@@ -106,6 +106,9 @@ references:
     hyperdimensional physics under another name
   source: Dark Mission
   location: ch9:37547-37715
+  quote: Described as some sort of exotic quantum effect to make it seem acceptable,
+    this “zero-point energy” is nothing more than Maxwell’s hyperdimensional physics
+    in another guise.
   claim_id: 3f6fc901-43c5-4311-9066-0c7a187ebde8
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3f6fc901-43c5-4311-9066-0c7a187ebde8
@@ -115,6 +118,10 @@ references:
     space
   source: Dark Mission
   location: ch9:37729-37981
+  quote: creating and then relieving a “stress” in Maxwell’s vorticular aether is
+    precisely equivalent to tapping the energy of the vacuum that, according to current
+    quantum mechanics models, possesses a staggering amount of such energy per cubic
+    inch of empty space.
   claim_id: de0fd3df-95b8-4e1d-96e1-3dcd3e861ac3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-de0fd3df-95b8-4e1d-96e1-3dcd3e861ac3
@@ -123,6 +130,10 @@ references:
     spin polarisation of the physical vacuum
   source: Dark Mission
   location: ch9:92996-93290
+  quote: The closest thing I could find [in reading the existing Russian literature]
+    is a comment made by Matveeko that the torsion field is identical to the transverse
+    spin polarization of the physical vacuum and a gravitational field is identical
+    to the longitudinal spin polarization of the physical vacuum.
   claim_id: e023559c-d7ca-47d0-9530-8c2c2987c4f9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e023559c-d7ca-47d0-9530-8c2c2987c4f9
@@ -131,6 +142,8 @@ references:
     so-called zero-point energy
   source: In Plain Sight
   location: ch21:5797-5887
+  quote: DeLonge also claimed the US already knew the secrets of free energy, so-called
+    zero-point energy.
   claim_id: c5da5a00-587b-4135-aff3-ebd18432bca8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5da5a00-587b-4135-aff3-ebd18432bca8
@@ -139,6 +152,7 @@ references:
     of years
   source: In Plain Sight
   location: ch21:5896-5958
+  quote: '''One inch of air could power the US for hundreds of years,'' he said.'
   claim_id: ae2363ed-3860-43dc-a74f-32e209f64e6f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ae2363ed-3860-43dc-a74f-32e209f64e6f
@@ -147,6 +161,9 @@ references:
     he could not tell him
   source: In Plain Sight
   location: ch21:5964-6132
+  quote: But when Joe Rogan pressed him on who exactly was telling him this, DeLonge
+    went vague. 'You don't know what I know. I can't tell you some of the shit that
+    I know,' he said.
   claim_id: 4bd0fdaf-487e-4698-b3cb-713e7599dfcf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4bd0fdaf-487e-4698-b3cb-713e7599dfcf
@@ -155,6 +172,11 @@ references:
     research while keeping the antigravity system a 'Supreme Cosmic Secret'
   source: In Plain Sight
   location: ch27:2788-3160
+  quote: '''Wally [Katz] admitted reluctantly that [the] ARV was, in fact, a reproduction
+    of a universal UFO drive design . . . he was willing to fund [Hal Puthoff''s]
+    zero point energy (ZPE) research and development program and secretly show us
+    how to do it, but the antigravity system of ARV was going to have to remain a
+    "Supreme Cosmic Secret" and the Number one national security issue.'''
   claim_id: 6b8354c6-110a-4284-9c52-9fa70bbda8e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6b8354c6-110a-4284-9c52-9fa70bbda8e6
@@ -163,6 +185,8 @@ references:
     energy exists in the vacuum of space
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:1018-1173
+  quote: Hal was an expert on the theory of zero-point energy, a holy grail of science
+    that stipulates there is free energy even in the vacuum of space that we can harness.
   claim_id: 338eb159-f71d-4ff0-b7dd-519c59ac17b2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-338eb159-f71d-4ff0-b7dd-519c59ac17b2
@@ -171,6 +195,12 @@ references:
     fluctuations, based on zero-point energy
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch24:19411-19839
+  quote: Hal explained that if one were to try to achieve the levels of energy required
+    to warp space-time, one might need to start with the most basic form of energy
+    that we know of—that of the underlying roiling quantum fluctuations of empty space,
+    so-called vacuum fluctuations. This speculative hypothesis, yet to be practically
+    implemented, was based on the now well-studied phenomenon of what is commonly
+    referred to as zero-point energy.
   claim_id: 9a9d6a77-c6d0-479e-8a21-2f6673c5a9ca
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9a9d6a77-c6d0-479e-8a21-2f6673c5a9ca
@@ -179,6 +209,8 @@ references:
     enable limitless propulsion in small UFOs
   source: The Fourth Mind
   location: ch21:14483-14583
+  quote: The one force we know of that might enable this level of functionality is
+    the release of zero-point energy.
   claim_id: 6aeb81a1-2084-409a-a078-2415a5a27fda
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6aeb81a1-2084-409a-a078-2415a5a27fda

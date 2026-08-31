@@ -414,6 +414,7 @@ references:
 - text: Given his life to physical mediumship for close to fifty years
   source: Surviving Death
   location: ch38:1062-1123
+  quote: For close to fifty years, Stewart has given his life to this task.
   claim_id: 3a90b9d8-b978-4599-81fb-ee54ef340ce1
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3a90b9d8-b978-4599-81fb-ee54ef340ce1
@@ -421,6 +422,7 @@ references:
 - text: Interest in physical mediumship began in 1968 aged twenty-two
   source: Surviving Death
   location: ch38:1398-1440
+  quote: It all started in 1968 when he was twenty-two.
   claim_id: 6740b329-1a33-46de-ad70-1b51822aeb2a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-6740b329-1a33-46de-ad70-1b51822aeb2a
@@ -428,6 +430,9 @@ references:
 - text: Lived as a part-time medium, running a business and raising two children
   source: Surviving Death
   location: ch38:5670-5843
+  quote: Stewart has always lived his life as only a part-time medium. Throughout
+    the many years of his development, he ran a business with his wife seven days
+    a week and raised two children,
   claim_id: 17625289-0e02-4251-8ee1-3ee85555fd67
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-17625289-0e02-4251-8ee1-3ee85555fd67
@@ -435,6 +440,7 @@ references:
 - text: Spends time with his two grandchildren
   source: Surviving Death
   location: ch38:5853-5911
+  quote: and he now spends a great deal of time with his two young grandchildren.
   claim_id: 2707dfa3-7a28-4305-96a2-c67b6f7188c4
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2707dfa3-7a28-4305-96a2-c67b6f7188c4
@@ -442,6 +448,9 @@ references:
 - text: Sons unaware of his mediumship until given his 2010 book
   source: Surviving Death
   location: ch38:5926-6121
+  quote: He always kept his home and business life entirely separate from his mediumship
+    life—remarkably, his two sons never knew of his deep involvement as a medium until
+    he gave them copies of his 2010 book.
   claim_id: fbea1999-10c8-4bb1-9785-18340e13e678
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fbea1999-10c8-4bb1-9785-18340e13e678
@@ -449,6 +458,8 @@ references:
 - text: Remains a private person despite publishing his memoir
   source: Surviving Death
   location: ch38:7447-7560
+  quote: He has always been a very private person, and despite the fact that he published
+    his memoir, he prefers to avoid publicity.
   claim_id: 31a1cde7-b9cf-4ae5-ae93-07120e3c4024
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-31a1cde7-b9cf-4ae5-ae93-07120e3c4024
@@ -456,6 +467,8 @@ references:
 - text: Worked as a design engineer at an international engineering company
   source: Surviving Death
   location: ch39:3076-3215
+  quote: The next morning I arrived at my office—at the time I was a design engineer
+    at a large international engineering company—and the phone was ringing.
   claim_id: 8aeb2a9e-023e-476a-833a-78a8fbf23a00
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8aeb2a9e-023e-476a-833a-78a8fbf23a00
@@ -463,6 +476,8 @@ references:
 - text: Did not seek to become a medium, only to help create conditions for phenomena
   source: Surviving Death
   location: ch38:1901-2032
+  quote: Stewart was not looking to become a medium himself; he simply wanted to help
+    create the right conditions for phenomena to possibly occur.
   claim_id: e8659893-9e55-4ec5-8be1-10bde623fc90
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e8659893-9e55-4ec5-8be1-10bde623fc90
@@ -471,6 +486,9 @@ references:
     after months without phenomena
   source: Surviving Death
   location: ch39:1174-1403
+  quote: I had been sitting for months with a small group, and nothing at all had
+    happened. On one such occasion I was with only my brother and sister-in-law, and
+    we sat with our hands on the table in front of us with a dim red light, as always.
   claim_id: 7564b6b3-bc3d-43d3-afa4-de5a46b49472
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7564b6b3-bc3d-43d3-afa4-de5a46b49472
@@ -479,6 +497,8 @@ references:
     guide
   source: Surviving Death
   location: ch38:2049-2185
+  quote: one evening, without warning, he was entranced by an entity or presence called
+    “White Feather,” who was to become his principal “spirit guide”
   claim_id: 1a0cbbbd-1ef0-4303-bb37-d5a65e44f3dc
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1a0cbbbd-1ef0-4303-bb37-d5a65e44f3dc
@@ -487,6 +507,7 @@ references:
     known
   source: Surviving Death
   location: ch39:1099-1170
+  quote: My longtime guide White Feather was the first to make himself known to me.
   claim_id: 9db498d2-5fcb-48dd-9563-734814630310
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-9db498d2-5fcb-48dd-9563-734814630310
@@ -495,6 +516,10 @@ references:
     off
   source: Surviving Death
   location: ch39:2325-2569
+  quote: At the moment the light went out, something approached me from behind. Whatever
+    it was, as it came toward me, everything in my entire body, every nerve, every
+    muscle, began to twitch and jump, and suddenly he was there—inside my body—and
+    I was outside.
   claim_id: 124e793c-a703-46d7-8feb-6907ba187ccc
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-124e793c-a703-46d7-8feb-6907ba187ccc
@@ -502,6 +527,8 @@ references:
 - text: Heard himself speak the words 'I come, speak, brother, sister'
   source: Surviving Death
   location: ch39:2578-2654
+  quote: 'And then I heard “myself” talking from a distance: “I come, speak, brother,
+    sister.”'
   claim_id: 46c81f0b-ab09-49fc-8419-3f852ea75757
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-46c81f0b-ab09-49fc-8419-3f852ea75757
@@ -509,6 +536,9 @@ references:
 - text: His left hand becomes almost deformed when controlled by White Feather
   source: Surviving Death
   location: ch39:3677-3879
+  quote: Whenever he did come, the first thing that would happen was that my left
+    hand would become almost deformed. It would curl in on itself. It was as if I
+    had severe, crippling arthritis, except it was not painful.
   claim_id: 4883e8ff-4cf8-467e-8f1f-72ee092aa550
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-4883e8ff-4cf8-467e-8f1f-72ee092aa550
@@ -516,6 +546,8 @@ references:
 - text: White Feather developed the ability to speak through him in trance over months
   source: Surviving Death
   location: ch38:2196-2305
+  quote: who, over a period of many months, developed the ability to speak through
+    Stewart when he went into a trance state.
   claim_id: 2ba1a0da-fb71-45b9-aedf-3b3bb9ffd303
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2ba1a0da-fb71-45b9-aedf-3b3bb9ffd303
@@ -524,6 +556,10 @@ references:
     levitated trumpet
   source: Surviving Death
   location: ch38:2312-2583
+  quote: It took over ten years, but eventually White Feather was able to speak independently
+    through what is called a “trumpet”—a simple eighteen-inch cone made of lightweight
+    materials with one narrow opening and one larger, like a small megaphone—while
+    it was levitated in the air.
   claim_id: ec0ff687-0877-4114-835e-1ed518c11239
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ec0ff687-0877-4114-835e-1ed518c11239
@@ -531,6 +567,9 @@ references:
 - text: Christopher arrived, saying he had died as a young boy
   source: Surviving Death
   location: ch38:2865-3029
+  quote: A second guide arrived, also speaking through Stewart, who called himself
+    Christopher and said he had died as a young boy, so he presented himself as a
+    very lively child.
   claim_id: 81b6807f-8079-47fd-93e4-5b60353aae9a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-81b6807f-8079-47fd-93e4-5b60353aae9a
@@ -538,6 +577,8 @@ references:
 - text: Christopher's job is relaxing sitters and making them laugh
   source: Surviving Death
   location: ch38:4871-4954
+  quote: The young and witty Christopher now has the job of relaxing people and making
+    them laugh.
   claim_id: 847aef23-d6e8-4020-8182-4cb7cc92968f
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-847aef23-d6e8-4020-8182-4cb7cc92968f
@@ -545,6 +586,8 @@ references:
 - text: Walter Stinson joined the spirit team in 1992 to develop the physical phenomena
   source: Surviving Death
   location: ch38:4348-4455
+  quote: arrived as another member of Stewart’s “spirit team” in 1992, and was in
+    charge of developing the physical phenomena.
   claim_id: 8a813953-45cb-4af1-a010-13ecf1c3379b
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8a813953-45cb-4af1-a010-13ecf1c3379b
@@ -553,6 +596,8 @@ references:
     continue through Stewart Alexander
   source: Surviving Death
   location: ch38:4627-4739
+  quote: Walter worked with his sister in her séance room after his death, and he
+    intended to continue this work through Stewart.
   claim_id: ade066fc-cf42-4c1b-b225-b6e99aae7510
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ade066fc-cf42-4c1b-b225-b6e99aae7510
@@ -560,6 +605,8 @@ references:
 - text: Freda completed the spirit team in 1996
   source: Surviving Death
   location: ch38:4748-4865
+  quote: Next, Freda Johnson, a strong and nurturing proper lady who provides evidence
+    from loved ones, completed the team in 1996.
   claim_id: 8efc947b-5f85-4050-a833-30f8122fe231
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8efc947b-5f85-4050-a833-30f8122fe231
@@ -568,6 +615,9 @@ references:
     séances
   source: Surviving Death
   location: ch38:4961-5153
+  quote: Some years later, another “spirit person,” Dr. Barnett, who has been a physical
+    healer for many sitters, was able to regularly speak independently of the medium
+    and materialize fully during séances.
   claim_id: 969ea61b-7241-4bbd-b992-7669b76c696e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-969ea61b-7241-4bbd-b992-7669b76c696e
@@ -575,6 +625,9 @@ references:
 - text: Describes his spirit team as close friends who took part in weekly sittings
   source: Surviving Death
   location: ch39:8507-8680
+  quote: In time, the “team” of Spirit People (White Feather, Christopher, Freda Johnson,
+    Walter Stinson, and Dr. Barnett), who are now like close friends, became part
+    of our weekly sittings.
   claim_id: 13000a6d-33d3-432f-97ed-af2cb7ec33ba
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-13000a6d-33d3-432f-97ed-af2cb7ec33ba
@@ -582,6 +635,7 @@ references:
 - text: Current home circle formed in 1988
   source: Surviving Death
   location: ch38:3354-3397
+  quote: In 1988, Stewart’s current home circle was formed.
   claim_id: a45831e3-82df-478c-bca0-17c7ff1cbf77
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a45831e3-82df-478c-bca0-17c7ff1cbf77
@@ -589,6 +643,8 @@ references:
 - text: Has sat with the same small group for almost thirty years
   source: Surviving Death
   location: ch38:6496-6589
+  quote: Stewart has been sitting with the same small group—his current home circle—for
+    almost thirty years.
   claim_id: 8cebc7d5-81ac-40b6-9e52-ad94342c74a6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8cebc7d5-81ac-40b6-9e52-ad94342c74a6
@@ -596,6 +652,7 @@ references:
 - text: Gave his first public séance in 1992
   source: Surviving Death
   location: ch38:3520-3555
+  quote: He gave his first public séance in 1992,
   claim_id: 1f27585f-042f-40d9-a6b2-53a0cb0d5e7b
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1f27585f-042f-40d9-a6b2-53a0cb0d5e7b
@@ -603,6 +660,8 @@ references:
 - text: Sitters invited to test him in the light at public séances
   source: Surviving Death
   location: ch38:3653-3780
+  quote: It was during these larger séances that sitters were invited to test Stewart
+    in the light to show that he was really in a deep trance.
   claim_id: 8ee4ea2e-47e3-458c-b4a2-dea09eedf340
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8ee4ea2e-47e3-458c-b4a2-dea09eedf340
@@ -610,6 +669,9 @@ references:
 - text: Manifestations rest on ectoplasm, used to manipulate objects and materialise
   source: Surviving Death
   location: ch39:9350-9529
+  quote: Also, the physical manifestations rest upon the use of an energy substance
+    (referred to as ectoplasm), which the Spirit People use to manipulate objects
+    and to partially or fully materialize.
   claim_id: c2e7fe76-6f7b-4d52-aa29-cf0afbfaa8bc
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c2e7fe76-6f7b-4d52-aa29-cf0afbfaa8bc
@@ -617,6 +679,8 @@ references:
 - text: Doubts about the voices were relieved after a séance with Leslie Flint
   source: Surviving Death
   location: ch39:4942-5064
+  quote: My persistent doubts would finally be relieved when I attended a séance with
+    the English medium Leslie Flint in the early 1970s.
   claim_id: 392871a7-7630-4162-9a55-81a478c95d66
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-392871a7-7630-4162-9a55-81a478c95d66
@@ -625,6 +689,10 @@ references:
     mediums
   source: Surviving Death
   location: ch39:5071-5344
+  quote: At that time, he was celebrated internationally as one of the finest “direct-voice”
+    mediums in the world, in whose presence the voices of the dead were heard speaking
+    independently of him in another part of the room as if coming out of the air,
+    while he sat quietly in his chair.
   claim_id: 36937fcd-7d2d-42e5-bac6-f201c4bb5150
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-36937fcd-7d2d-42e5-bac6-f201c4bb5150
@@ -632,6 +700,9 @@ references:
 - text: Leslie Flint was a stranger who knew nothing of his mediumistic development
   source: Surviving Death
   location: ch39:8037-8231
+  quote: The unalterable fact is that in that room—in the presence of Leslie Flint,
+    who was a virtual stranger and knew nothing of my mediumistic development—the
+    communicator had uttered just six potent words.
   claim_id: 7be7fb11-4049-49f5-9164-ecb8f83b97b0
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7be7fb11-4049-49f5-9164-ecb8f83b97b0
@@ -640,6 +711,9 @@ references:
     collapsed
   source: Surviving Death
   location: ch39:6062-6223
+  quote: She had been like a mother to me, my brother, and my two sisters, taking
+    a central role in raising us following the collapse of our parents’ marriage when
+    I was ten.
   claim_id: 33b4ed0b-8324-419c-9795-29b605f74788
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-33b4ed0b-8324-419c-9795-29b605f74788
@@ -647,6 +721,9 @@ references:
 - text: Sat alone with his dying grandmother, holding her hand
   source: Surviving Death
   location: ch39:6332-6488
+  quote: I had sat alone with her at her hospital bedside. She had been unconscious
+    but I had held her hand, and something had passed between us not known to anyone
+    else.
   claim_id: a1e3b002-874e-4c66-ab17-4c091411297a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a1e3b002-874e-4c66-ab17-4c091411297a
@@ -654,6 +731,8 @@ references:
 - text: Grandmother died two or three weeks before the séance
   source: Surviving Death
   location: ch39:6228-6373
+  quote: On the day she passed over, just two or three weeks before that séance—a
+    fact entirely unknown to Flint—I had sat alone with her at her hospital bedside.
   claim_id: bd34172a-b24e-401b-8df7-e42d6c224cf8
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-bd34172a-b24e-401b-8df7-e42d6c224cf8
@@ -661,6 +740,9 @@ references:
 - text: The voice mentioned the private hospital-bedside moment
   source: Surviving Death
   location: ch39:6494-6647
+  quote: Suddenly, there in that small séance room a few weeks later, she mentioned
+    this to me—something known only to me, on the earth, and to her, on the other
+    side.
   claim_id: ab39a083-7e86-404d-864c-17c32c3a27aa
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ab39a083-7e86-404d-864c-17c32c3a27aa
@@ -668,6 +750,9 @@ references:
 - text: Asked White Feather, via Flint, whether he had had a physical deformity
   source: Surviving Death
   location: ch39:7739-7910
+  quote: Suddenly the solution popped into my head, and I said, “Can I ask a question?”
+    He said, “Yes,” and I inquired if, during his earthly life, he had had any kind
+    of physical deformity.
   claim_id: 22fbbe32-6115-4dd3-8236-5fb8c508f907
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-22fbbe32-6115-4dd3-8236-5fb8c508f907
@@ -675,6 +760,7 @@ references:
 - text: White Feather replied 'Do you mean my left hand?'
   source: Surviving Death
   location: ch39:7921-7965
+  quote: 'Instantly, he replied: “Do you mean my left hand?”'
   claim_id: 70c9bc05-30b0-476b-aaf5-5aeb83069f0a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-70c9bc05-30b0-476b-aaf5-5aeb83069f0a
@@ -682,6 +768,8 @@ references:
 - text: Leslie Kean attended two séances in April 2015 and two more in August 2015
   source: Surviving Death
   location: ch38:11560-11648
+  quote: I attended two séances that week in April 2015, and returned for two more
+    the following August.
   claim_id: 75c0390f-62bc-4e4b-95a8-f1d8c0e695dd
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-75c0390f-62bc-4e4b-95a8-f1d8c0e695dd
@@ -689,6 +777,9 @@ references:
 - text: Secured to his chair with cable ties removable only with a wire cutter
   source: Surviving Death
   location: ch38:13369-13589
+  quote: When the six of us entered the room at 8 p.m., Stewart was secured to the
+    wooden arms of his chair with thick cable ties, which are looped through an opening
+    attached to the arm and can be removed only with a noisy wire cutter.
   claim_id: f7bf5de1-b2a2-4aea-a934-9fa16398a101
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f7bf5de1-b2a2-4aea-a934-9fa16398a101
@@ -696,6 +787,8 @@ references:
 - text: Kean confirmed the ties were locked tightly
   source: Surviving Death
   location: ch38:13699-13807
+  quote: I made sure that the ties were locked in place tightly enough that neither
+    hand could possibly slide out of them.
   claim_id: 17604005-4271-49c2-b211-b7298d2764cf
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-17604005-4271-49c2-b211-b7298d2764cf
@@ -703,6 +796,9 @@ references:
 - text: Kean felt the locked cable tie holding him to the chair
   source: Surviving Death
   location: ch38:16366-16542
+  quote: At Walter’s direction, I took my other hand and felt that locked cable tie
+    holding Stewart tightly to the chair. “Do you feel the strap, ma’am?” Walter asked,
+    and I confirmed it.
   claim_id: 8e109cf2-c44e-457e-85a0-4d1ec968724e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8e109cf2-c44e-457e-85a0-4d1ec968724e
@@ -710,6 +806,9 @@ references:
 - text: His arm suddenly moved upward, carrying Kean's hand, with a snapping sound
   source: Surviving Death
   location: ch38:16661-16884
+  quote: “If I can now take Stewart’s arm through the strap I think that would be
+    somewhat impressive!” Walter stated. Then, suddenly, his arm flew upward, with
+    my hand gripping his and riding up along with it, with a quick snapping sound.
   claim_id: 16cf232d-458f-4371-8b75-8b202af4cd26
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-16cf232d-458f-4371-8b75-8b202af4cd26
@@ -717,6 +816,10 @@ references:
 - text: The cable tie remained locked and unbroken on the chair arm
   source: Surviving Death
   location: ch38:16892-17173
+  quote: Walter immediately said to feel the strap on the arm of the chair with my
+    other hand, while my left hand remained in the air still holding on to Stewart.
+    The cable tie remained there, still locked in place, unbroken, just as I had felt
+    it a second before with Stewart’s arm inside it.
   claim_id: 4123e04a-db91-4bc3-af15-cddd59f816ef
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-4123e04a-db91-4bc3-af15-cddd59f816ef
@@ -725,6 +828,8 @@ references:
     it to Kean
   source: Surviving Death
   location: ch38:17465-17596
+  quote: Walter then passed the intact cable tie, still closed in its loop, through
+    the solid arm of the chair, and said “it is yours, take it!”
   claim_id: 7798d270-2e66-4687-9a0e-77b30f882581
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7798d270-2e66-4687-9a0e-77b30f882581
@@ -732,6 +837,12 @@ references:
 - text: Ectoplasm formed a hand shape and banged three times on the table
   source: Surviving Death
   location: ch38:25804-26213
+  quote: The ectoplasm formed a grayish-black, foggy cloud that moved slowly toward
+    me over the table, coming from Stewart's side opposite me. Gradually, I saw it
+    grow, form into a rounded shape; then it looked more like a hand, then I saw emerging
+    fingers and a thumb, and suddenly it morphed into a three-dimensional, solid human
+    hand that formed a fist and banged three times loudly on the table to demonstrate
+    its solidity.
   claim_id: 80810edc-b24b-476f-bc85-0069f9751c65
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-80810edc-b24b-476f-bc85-0069f9751c65
@@ -739,6 +850,8 @@ references:
 - text: His arms remained locked to the chair, too far to reach the hand
   source: Surviving Death
   location: ch38:26978-27073
+  quote: Stewart, his arms still locked to his chair, was too far from the center
+    of the table to reach it.
   claim_id: 26203ce2-f3fc-47af-acf6-2621e64213b0
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-26203ce2-f3fc-47af-acf6-2621e64213b0
@@ -746,6 +859,9 @@ references:
 - text: On 2015-08-20, Kean witnessed the full materialisation of Dr. Barnett
   source: Surviving Death
   location: ch38:30723-30893
+  quote: 'During my fourth séance, on August 20, 2015, with nine other sitters, I
+    was fortunate to experience something else unbelievable but real: the full materialization
+    of Dr. Barnett.'
   claim_id: f214213c-1eac-4c25-8aad-30c0e585eb7c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f214213c-1eac-4c25-8aad-30c0e585eb7c
@@ -753,6 +869,9 @@ references:
 - text: Kean asked to videotape the materialisation of Walter Stinson's hand
   source: Surviving Death
   location: ch39:10448-10667
+  quote: Leslie Kean posed this question to me in 2015. She asked if she could videotape
+    the materialization of Walter’s hand using a newly developed small camera that
+    could shoot in the low red light we always have on for this experiment.
   claim_id: c609f94a-3a93-4dfb-a0f5-479a644c9e67
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c609f94a-3a93-4dfb-a0f5-479a644c9e67
@@ -761,6 +880,10 @@ references:
     and family
   source: Surviving Death
   location: ch39:10680-10983
+  quote: Knowing the nature of her book, I seriously considered throwing caution to
+    the wind and agreeing to this. But upon reflection, I realized, as I have before,
+    that this would throw my life, and that of the circle, into turmoil that would
+    be destructive to the purpose of our circle and problematic for my family.
   claim_id: be4f4e40-ebc2-4a52-b50a-59f20609abd6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-be4f4e40-ebc2-4a52-b50a-59f20609abd6
@@ -768,6 +891,8 @@ references:
 - text: Whitley Strieber witnessed the levitation of spirit trumpets
   source: The Fourth Mind
   location: ch22:28923-29046
+  quote: I have personally witnessed the levitation of “spirit trumpets” during the
+    weekly private séance of British medium Stewart Alexander.
   claim_id: 208599b4-f106-427e-8fb3-54ec17bef66f
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-208599b4-f106-427e-8fb3-54ec17bef66f
@@ -775,6 +900,9 @@ references:
 - text: A trumpet rubbed against Strieber's nose
   source: The Fourth Mind
   location: ch22:29057-29241
+  quote: One of them lifted off the floor and came right up to my face. When I thought
+    to myself, “This must be a trick,” it proceeded to rub itself against my nose,
+    as if to rub my nose in my doubts!
   claim_id: 399490a3-fa1e-41f8-b40b-e1e8ac7670e9
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-399490a3-fa1e-41f8-b40b-e1e8ac7670e9
@@ -782,6 +910,8 @@ references:
 - text: Strieber examined the room and trumpet, seeing it in the dim red light
   source: The Fourth Mind
   location: ch22:29250-29397
+  quote: I examined the room and the trumpet both before and after the séance, and
+    I could see it easily in the dim red light that was turned on during the session.
   claim_id: d95d726c-42a1-4025-a057-62dec2cfb07c
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d95d726c-42a1-4025-a057-62dec2cfb07c
@@ -789,6 +919,8 @@ references:
 - text: The paper trumpet had no wires and could not be moved by magnets
   source: The Fourth Mind
   location: ch22:29406-29502
+  quote: It was not connected to wires, and, as it was made of paper, could not have
+    been manipulated by magnets.
   claim_id: 3f831313-e01a-45a2-b90b-2b2a0aa19816
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-3f831313-e01a-45a2-b90b-2b2a0aa19816
@@ -796,6 +928,8 @@ references:
 - text: Strieber said there was no trickery, since no motive for it
   source: The Fourth Mind
   location: ch22:30081-30166
+  quote: I would assert that, in fact, Stewart’s séance doesn’t involve trickery.
+    There is no motive.
   claim_id: 5c71ea65-86c4-4a63-bc7b-cebf68a426ca
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-5c71ea65-86c4-4a63-bc7b-cebf68a426ca
@@ -803,6 +937,10 @@ references:
 - text: A vase of flowers toppled, spilling water onto the carpet
   source: Surviving Death
   location: ch39:18332-18595
+  quote: we observed a window shade flapping in a breeze coming in from the open window,
+    and the shade kept noisily hitting the back of a vase of flowers on the window
+    ledge. Inevitably, the vase toppled over onto the floor. We all saw it, and water
+    shot out all over the carpet.
   claim_id: 779e103e-20c7-47ee-bae8-956f9ec5a217
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-779e103e-20c7-47ee-bae8-956f9ec5a217
@@ -810,6 +948,10 @@ references:
 - text: The carpet was found totally dry
   source: Surviving Death
   location: ch39:18603-18858
+  quote: Alan immediately got a cloth and crouched down on the ground to wipe it up.
+    But then he sat right up and laughed and said, “Come feel this, the carpet is
+    totally dry!” It was thoroughly and completely dry, despite the pool of water
+    that was there moments before.
   claim_id: f5607170-35de-4976-be43-7d27ee2bf676
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f5607170-35de-4976-be43-7d27ee2bf676
@@ -818,6 +960,9 @@ references:
     a sitting
   source: Surviving Death
   location: ch38:37444-37607
+  quote: In 2014, Reville Mohr, a skeptic who did not believe in mediumship or the
+    afterlife, flew from Australia with his sister Leone Holdsworth to attend a sitting
+    with Stewart.
   claim_id: 6ede02aa-3840-4793-926f-83ceb6f1a1ea
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-6ede02aa-3840-4793-926f-83ceb6f1a1ea
@@ -825,6 +970,7 @@ references:
 - text: Kevin Kussow emailed Stewart Alexander for advice in 2016
   source: Surviving Death
   location: ch38:42264-42315
+  quote: Kevin had emailed Stewart early in 2016 to ask his advice.
   claim_id: d222d60d-96ca-4bbd-b48c-0fd39f2ac599
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d222d60d-96ca-4bbd-b48c-0fd39f2ac599
@@ -832,6 +978,7 @@ references:
 - text: Had never met Kussow and knew nothing of his home
   source: Surviving Death
   location: ch38:44269-44324
+  quote: Stewart had never met Kevin and knew nothing about his home.
   claim_id: c53c6fcb-8eb6-46e5-b23d-6a3c66c7f938
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c53c6fcb-8eb6-46e5-b23d-6a3c66c7f938
@@ -839,6 +986,9 @@ references:
 - text: A woman travelled over 320 kilometres to attend the séance
   source: Surviving Death
   location: ch39:21812-21991
+  quote: a lady had traveled over two hundred miles to attend. We knew nothing about
+    her other than the fact that she was evidently very sincere. Arriving at our circle
+    leader's home that night
   claim_id: cdb95c1b-1403-4a7f-8de8-0f3f85d2770d
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-cdb95c1b-1403-4a7f-8de8-0f3f85d2770d
@@ -846,6 +996,8 @@ references:
 - text: She came into communication with her deceased partner about two hours in
   source: Surviving Death
   location: ch39:22232-22386
+  quote: Two hours later and just prior to it ending the lady found herself in communication
+    with her beloved partner, who, tragically, she had lost twelve months earlier.
   claim_id: 421c7a82-0f3b-439f-b952-38696792d65d
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-421c7a82-0f3b-439f-b952-38696792d65d
@@ -853,6 +1005,8 @@ references:
 - text: She told him 'Thank you for saving my life'
   source: Surviving Death
   location: ch39:22949-23027
+  quote: 'Throwing her arms around me, she said the following: "Thank you for saving
+    my life."'
   claim_id: c8b719e7-d8af-44c4-82f9-0a56dc215372
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c8b719e7-d8af-44c4-82f9-0a56dc215372
@@ -861,6 +1015,8 @@ references:
     Helen Duncan
   source: Surviving Death
   location: ch38:1263-1388
+  quote: he has interviewed countless people who sat with Alec Harris, Minnie Harrison,
+    Helen Duncan, Hunter Selkirk, and other great mediums.
   claim_id: 3a8d58fb-dac0-44de-badc-3b202f643e5f
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3a8d58fb-dac0-44de-badc-3b202f643e5f
@@ -868,6 +1024,8 @@ references:
 - text: Kath Matthews was a medium who became his first mentor
   source: Surviving Death
   location: ch39:19426-19528
+  quote: when I was with a group hosted by a wonderful medium called Kath Matthews
+    (who was to become my first mentor)
   claim_id: b9f2eba4-70ba-43ed-95e8-9f7e694f4864
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-b9f2eba4-70ba-43ed-95e8-9f7e694f4864
@@ -875,6 +1033,10 @@ references:
 - text: David Fontana said his career was largely free of doubt-casting attempts
   source: Surviving Death
   location: ch38:11293-11546
+  quote: “Apart from the very few and unconvincing accusations made against him by
+    ill-informed individuals,” David Fontana wrote in 2010, “Stewart’s long career
+    has been free from attempts to cast doubt on the genuine nature of the phenomena
+    associated with his mediumship.”
   claim_id: ae901b8b-a833-4f93-998f-268291a4e287
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ae901b8b-a833-4f93-998f-268291a4e287

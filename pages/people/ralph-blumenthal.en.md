@@ -34,6 +34,8 @@ references:
 - text: Blumenthal was a contributor and former staff reporter for The New York Times.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:16341-16466
+  quote: she had immediately contacted Blumenthal, a contributor and former staff
+    reporter for the *New York Times,* to see if he was interested.
   claim_id: 4183a186-c537-4941-9bdb-5b44c1e5aa80
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4183a186-c537-4941-9bdb-5b44c1e5aa80
@@ -42,6 +44,10 @@ references:
     John Mack.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:16543-16825
+  quote: For several years he had been quietly working on a biography of the late
+    Dr. John Mack, a Harvard psychiatrist who treated and extensively interviewed
+    UAP experiencers, who were often traumatized people who claimed to have been abducted
+    by aliens, or at least encountered aliens in person.
   claim_id: 82e8c5b4-f7c3-434b-a097-855b56f9b6f7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-82e8c5b4-f7c3-434b-a097-855b56f9b6f7
@@ -49,6 +55,9 @@ references:
 - text: Elizondo travelled to Philadelphia to meet Kean and, for the first time, Blumenthal.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:15914-16069
+  quote: Later that month, I left our house for a short trip to Philadelphia to meet
+    again with Leslie Kean, this time with her longtime colleague and friend Ralph
+    Blumenthal.
   claim_id: a16721ee-db82-40f5-8ed9-bd3325e1bf5b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a16721ee-db82-40f5-8ed9-bd3325e1bf5b
@@ -57,6 +66,10 @@ references:
     them.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:17467-17716
+  quote: I noticed two individuals with tight military-style haircuts in different
+    parts of the street as we strolled. I was certain we were being observed. They
+    displayed the classic signs. They were most likely an AFOSI surveillance team,
+    just not their A-Team.
   claim_id: f2018acc-9885-4014-8e4b-4ddb9b500cf5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f2018acc-9885-4014-8e4b-4ddb9b500cf5
@@ -65,6 +78,10 @@ references:
     of alien visitation; he said the assumption might not be far off.
   source: In Plain Sight
   location: ch28:24366-24635
+  quote: A reader from San Francisco asked, 'Am I correct in assuming . . . The government,
+    or people closely associated with it, have successfully conspired for decades
+    to suppress evidence of alien visitation[?]'. Blumenthal responded that such an
+    assumption might not be far off.
   claim_id: 14c29016-7222-4176-bdf9-a8f504478869
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-14c29016-7222-4176-bdf9-a8f504478869
@@ -73,6 +90,8 @@ references:
     Las Vegas, saying none had been provided.
   source: In Plain Sight
   location: ch21:18231-18380
+  quote: But *Times* reporter Ralph Blumenthal has since walked back from that claim
+    in an interview, admitting they have now learned that 'no materials were provided'.
   claim_id: f502d7b8-31d6-4e72-8ab1-3ddc097d2bcc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f502d7b8-31d6-4e72-8ab1-3ddc097d2bcc
@@ -80,6 +99,7 @@ references:
 - text: UFO crash retrievals are a classified subject.
   source: In Plain Sight
   location: ch28:25527-25560
+  quote: Crash retrievals is a classified subject.
   claim_id: 8d02d5c0-3d5c-4f3e-b949-779037f6273b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8d02d5c0-3d5c-4f3e-b949-779037f6273b
@@ -88,6 +108,10 @@ references:
     to alien-spacecraft-recovery allegations.
   source: In Plain Sight
   location: ch28:24642-24910
+  quote: It is very clear, from comments made by Blumenthal and his New York Times'
+    colleague Leslie Kean in an interview with Project Unity that both journalists
+    believe there is substance to the allegations that the US government has recovered
+    alien spacecraft or bits thereof
   claim_id: 01854123-0222-4ab6-b3dc-3948c3240f32
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-01854123-0222-4ab6-b3dc-3948c3240f32

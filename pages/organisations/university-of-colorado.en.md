@@ -43,6 +43,7 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:5562-5594
+  quote: It eventually led to the Condon investigation.
   claim_id: e9e6c56f-7670-42db-a41f-da8fd7f1a200
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e9e6c56f-7670-42db-a41f-da8fd7f1a200
@@ -52,6 +53,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:16481-16571
+  quote: Several universities were contacted by the Department of Defense but they
+    turned down the assignment.
   claim_id: e33012eb-63ea-48a3-b624-e4a6068aa225
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e33012eb-63ea-48a3-b624-e4a6068aa225
@@ -60,6 +63,8 @@ references:
     Condon Report, was undertaken at the University of Colorado
   source: Communion
   location: ch14:21757-21873
+  quote: In 1966 a "Scientific Study of Unidentified Flying Objects" (the Condon Report)
+    was undertaken at the University of Colorado.
   claim_id: 63fe3d78-056f-48b2-b326-2106df308a59
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-63fe3d78-056f-48b2-b326-2106df308a59
@@ -79,6 +84,8 @@ references:
 - text: Robert Low was the university's business administrator at the project's inception
   source: Communion
   location: ch14:22590-22666
+  quote: Robert Low, the business administrator of the University of Colorado at the
+    time
   claim_id: f24a4a2b-ca7f-46e8-b0c5-d024306e354f
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-f24a4a2b-ca7f-46e8-b0c5-d024306e354f
@@ -98,6 +105,13 @@ references:
     publicly as objective
   source: Communion
   location: ch14:22715-23225
+  quote: Our study would be conducted almost exclusively by non-believers who, although
+    they couldn't possibly prove a negative result, could and probably would add an
+    impressive body of evidence that there is no reality to the observations. The
+    trick would be, I think, to describe the project so that, to the public, it would
+    appear a totally-objective study, but to the scientific community, would present
+    a group of non-believers trying their best to be objective but having an almost
+    zero expectation of finding a saucer.
   claim_id: 7bebb911-1cbd-4348-855d-6373c59a6811
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-7bebb911-1cbd-4348-855d-6373c59a6811
@@ -106,6 +120,9 @@ references:
     get out of the UFO business
   source: Communion
   location: ch14:23295-23494
+  quote: It is my inclination right now to recommend that the government get out of
+    this business. My attitude right now is that there is nothing to it. But I'm not
+    supposed to reach a conclusion for another year.
   claim_id: 7a7228b6-3587-4c96-abec-4a537581aad1
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-7a7228b6-3587-4c96-abec-4a537581aad1
@@ -113,6 +130,8 @@ references:
 - text: Scientists on the study disagreed with Condon and some resigned in protest
   source: Communion
   location: ch14:23630-23759
+  quote: Many of the scientists who participated in the study disagreed with London,
+    especially after they saw the data. Some resigned in protest.
   claim_id: 3826f442-e412-45cc-b7cf-05f20a82eae7
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-3826f442-e412-45cc-b7cf-05f20a82eae7
@@ -122,6 +141,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:1454-1601
+  quote: the eight-hundred-page post-mortem had clearly stated that the study of UFOs
+    "cannot be justified in the expectation that science will be advanced thereby."
   claim_id: b0ac08db-89da-44e3-9b38-4c331aa2a364
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b0ac08db-89da-44e3-9b38-4c331aa2a364
@@ -130,6 +151,9 @@ references:
 - text: The Condon Committee inquiry declared the UAP topic devoid of scientific merit
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:3383-3543
+  quote: A subsequent Air Force–funded UAP study at the University of Colorado went
+    further, declaring the topic devoid of scientific merit. Chaired by physicist
+    Edward Condon...
   claim_id: cab171f2-f6fa-4bd5-b6dc-794f6f0f7999
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cab171f2-f6fa-4bd5-b6dc-794f6f0f7999
@@ -138,6 +162,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:1344-1441
+  quote: The burial had been performed by the University of Colorado at the cost of
+    nearly half a million dollars
   claim_id: 1d5d9544-d365-4a21-b411-b10230650997
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1d5d9544-d365-4a21-b411-b10230650997
@@ -147,6 +173,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:15419-15518
+  quote: The history of the Condon investigation at the University of Colorado convinced
+    many of us of this fact.
   claim_id: 04c778fc-42ef-4900-b589-aa93d774e589
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-04c778fc-42ef-4900-b589-aa93d774e589
@@ -156,6 +184,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:22615-22779
+  quote: When the project wrote its report the files were locked up by the university.
+    I am told that they were later transferred to a private home, and were burned
+    shortly thereafter.
   claim_id: 0dcdfaaf-4f0d-4e32-b0cc-fe11d13c0c90
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0dcdfaaf-4f0d-4e32-b0cc-fe11d13c0c90

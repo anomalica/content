@@ -96,6 +96,9 @@ references:
     sightings to Chinese surveillance using ordinary drone technology
   source: In Plain Sight
   location: ch29:25190-25359
+  quote: Ms Gough asserted an intelligence report had formally attributed *some* (my
+    emphasis) of the military sightings to Chinese surveillance, 'with relatively
+    ordinary drone technology'.
   claim_id: 405fbf0d-e4e7-493b-8ee7-bf12003574e3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-405fbf0d-e4e7-493b-8ee7-bf12003574e3
@@ -104,6 +107,9 @@ references:
     that it was aware of potentially dangerous balloons or drones in American airspace
   source: In Plain Sight
   location: ch29:29481-29660
+  quote: She admitted the Pentagon knew in October 2022, four months prior to the
+    Super Bowl week shoot-downs, that they were aware of potentially dangerous balloons
+    or drones in American airspace.
   claim_id: 2a22065c-f361-482e-b6eb-0f4b4895609a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2a22065c-f361-482e-b6eb-0f4b4895609a

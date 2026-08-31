@@ -63,6 +63,9 @@ references:
 - text: Pasulka conducted an ethnography of UFO believers and of ufology itself
   source: American Cosmic
   location: char:15823-16004
+  quote: I proceeded in the conventional way in that I conducted an ethnography of
+    a variety of believers and delved into research into UFOs and ufology, a branch
+    of research devoted to the topic.
   claim_id: 9d673ad9-e774-4b7d-8315-6daae823096a
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9d673ad9-e774-4b7d-8315-6daae823096a
@@ -72,6 +75,10 @@ references:
     humanities scholars; Tyler D. was not invited
   source: American Cosmic
   location: ch1:12136-12408
+  quote: A few months prior to our trip, I had organized a small conference, to which
+    Tyler had not been invited, on the phenomenon. The small, closed meeting was unique
+    because it brought together ufologists and scientists with scholars of the humanities,
+    all of whom studied the phenomenon.
   claim_id: 3ec14aeb-c155-4b86-bbcb-63a9e8e85438
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3ec14aeb-c155-4b86-bbcb-63a9e8e85438
@@ -80,6 +87,8 @@ references:
     oaths, unlike academic norms
   source: American Cosmic
   location: ch1:13226-13357
+  quote: Scientist-ufologists are vetted extensively before their employment in the
+    field and, once hired, take oaths to keep their sources secret.
   claim_id: 3e741d83-e0ee-49f8-b40a-4abdb4fb248c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3e741d83-e0ee-49f8-b40a-4abdb4fb248c
@@ -88,6 +97,8 @@ references:
     issues'
   source: American Cosmic
   location: ch5:6101-6245
+  quote: Within ufology, there have arisen two main schools of thought. One emphasizes
+    material issues, and the other addresses subjective and spiritual issues.
   claim_id: d5c7faf0-5a69-4bac-9ffa-50c672b5a168
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d5c7faf0-5a69-4bac-9ffa-50c672b5a168
@@ -96,6 +107,9 @@ references:
     blips, sightings'
   source: American Cosmic
   location: ch5:6253-6460
+  quote: The materialist school focuses on the empirical effects of UFOs, like radiation
+    burns on material objects or on people, blips on radars, and sightings. This school
+    focuses on "the nuts and bolts" of the UFO event.
   claim_id: 60487237-e780-4ee7-8524-cb78a7116a80
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-60487237-e780-4ee7-8524-cb78a7116a80
@@ -104,6 +118,9 @@ references:
     movements, focusing on experiencers
   source: American Cosmic
   location: ch5:6467-6694
+  quote: The other school arose with the advent of the application of hypnotic regression
+    to experiencers and with the contactee and abduction movements; it focuses on
+    the experiencers themselves and the content of the extraterrestrial messages.
   claim_id: 05f2d9c8-c8f6-4876-bb21-99ecc9f06f35
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-05f2d9c8-c8f6-4876-bb21-99ecc9f06f35
@@ -120,6 +137,8 @@ references:
     single explanation
   source: American Cosmic
   location: ch2:36138-36286
+  quote: In fact, Jacques has infuriated most ufologists because he won’t fall in
+    line. All Jacques has ever claimed is that the phenomenon seems infinitely variable.
   claim_id: 7b24341e-2259-4cfd-990b-9d4de0abd241
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7b24341e-2259-4cfd-990b-9d4de0abd241
@@ -128,6 +147,8 @@ references:
     ufology
   source: American Cosmic
   location: char:18258-18357
+  quote: Some scientists, such as astronomer Massimo Teodorani and physicist Eric
+    Davis, have confirmed its existence.
   claim_id: 2dd4645e-1949-44e3-8a49-6a91ff784eb5
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2dd4645e-1949-44e3-8a49-6a91ff784eb5
@@ -135,6 +156,8 @@ references:
 - text: Rey Hernandez said FREE is not an organisation devoted to ufology
   source: American Cosmic
   location: ch6:25345-25451
+  quote: In my discussions with him about FREE, he was careful to note that FREE is
+    not an organization devoted to ufology.
   claim_id: 0bbe09d2-9db9-4e26-bcad-d671da6fbadf
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0bbe09d2-9db9-4e26-bcad-d671da6fbadf
@@ -143,6 +166,8 @@ references:
     Consciousness Paradigm is needed
   source: American Cosmic
   location: ch6:25460-25613
+  quote: He said, “This paradigm has revealed very little about this phenomenon over
+    the last sixty years. A new paradigm is needed and this is the Consciousness Paradigm.”
   claim_id: 0ed47736-5788-444b-8db6-831e63e3f052
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0ed47736-5788-444b-8db6-831e63e3f052
@@ -151,6 +176,8 @@ references:
     presence
   source: American Cosmic
   location: ch6:25961-26093
+  quote: Disclosure is a term used by ufologists that means that UFOs have revealed
+    themselves, or that there is a public awareness of their presence.
   claim_id: d76c9f47-c3ec-4b03-9a43-5b18edc54313
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d76c9f47-c3ec-4b03-9a43-5b18edc54313
@@ -159,6 +186,8 @@ references:
     in ufology
   source: American Cosmic
   location: ch7:26241-26389
+  quote: To set the record straight, the Jesuits at the Vatican Observatory are not
+    actively searching for UFOs, nor are they engaged in anything related to ufology.
   claim_id: eb5e48b7-3ca2-4ee4-8e46-ac43b47fe5b5
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-eb5e48b7-3ca2-4ee4-8e46-ac43b47fe5b5
@@ -178,6 +207,8 @@ references:
     and over 90% Anglo-American
   source: American Cosmic
   location: ch7:38244-38403
+  quote: ufology and the study of anomalous aerial phenomena, as observed by my colleague
+    Brenda Denzler, are “overwhelmingly white and male” and over 90 percent Anglo-American.
   claim_id: a28466e4-1bea-4ee1-b339-2536b7550be9
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a28466e4-1bea-4ee1-b339-2536b7550be9
@@ -186,6 +217,9 @@ references:
     UFO traditions predating 1947
   source: American Cosmic
   location: ch7:38549-38753
+  quote: The historians of ufology, with few exceptions, ignore the history of African
+    American and indigenous traditions of the UFO, which predate the standard assumption
+    that the UFO mythos was born in the year 1947.
   claim_id: 058c4153-c84b-4a97-9947-e2a6cd4b1db1
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-058c4153-c84b-4a97-9947-e2a6cd4b1db1

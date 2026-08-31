@@ -75,6 +75,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:23873-23976
+  quote: My wife and I investigated this sighting during a research trip through the
+    west of France in December 1973.
   claim_id: 6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
@@ -84,6 +86,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:6990-7132
+  quote: In 1964 I had established that landings tended to occur in desolate places,
+    a fact that was first apparent in the computer analysis of French cases.
   claim_id: df2ccd7f-09d6-421e-af33-cac309ed9c51
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-df2ccd7f-09d6-421e-af33-cac309ed9c51
@@ -94,6 +98,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:19357-19486
+  quote: But this rumor was taken seriously enough in Paris to prevent the creation
+    of an investigation committee similar to the American one.
   claim_id: 9afa7506-013b-4e78-8dd4-e16e73c1c405
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9afa7506-013b-4e78-8dd4-e16e73c1c405
@@ -104,6 +110,12 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch12:22879-23342
+  quote: When the United States Air Force released the negative conclusions of the
+    Condon study on UFOs, these conclusions were prominently displayed in the Paris
+    press. The result, however, was not what the U.S. Air Force had expected. The
+    French had quietly accumulated their own data on the subject and, although these
+    files were not available to most scientists, there was no lack of military personnel
+    and technical experts in France who knew what the real situation was.
   claim_id: 1fd62255-1043-4ad5-a471-6aa0f6cb9b40
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-1fd62255-1043-4ad5-a471-6aa0f6cb9b40
@@ -114,6 +126,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch12:23347-23484
+  quote: Some of them had joined UFO research groups in Paris. Others, in high official
+    positions in the French Space Agency, were working alone, secretly.
   claim_id: 5fe3f2ad-6eeb-47d9-bcdd-bb009bab67ec
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5fe3f2ad-6eeb-47d9-bcdd-bb009bab67ec
@@ -123,6 +137,10 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch12:23495-23739
+  quote: Through various private channels these scientists heard of the UMMO documents,
+    were provided with copies, and had them translated with great care. They were
+    intrigued by the “rational” approach to the problem of cosmic contact evident
+    in these documents.
   claim_id: 0659468a-0a26-4ed3-b30a-4c5aeb975de3
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-0659468a-0a26-4ed3-b30a-4c5aeb975de3
@@ -133,6 +151,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:6061-6283
+  quote: Instead of asking if these seemingly maneuverable and "impossible" objects
+    could be a manifestation of some advanced technology (and in some cases it may
+    well have been terrestrial), they thought only of suppressing their manifestation.
   claim_id: 62d509fc-ded2-43b8-8942-664a878daa1b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-62d509fc-ded2-43b8-8942-664a878daa1b
@@ -143,6 +164,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:6298-6521
+  quote: They did this by denying every observation, by blaming it on airplanes when
+    the documentation was unassailable, and by destroying the data when it was demonstrated
+    to them that no airplane could have behaved as the objects did.
   claim_id: 835516c4-43fe-4a9f-a923-cdcf1c2cd841
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-835516c4-43fe-4a9f-a923-cdcf1c2cd841
@@ -153,6 +177,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:12514-12752
+  quote: The following case is among the most thoroughly investigated accounts of
+    the interaction between human percipients...It involved a medical doctor who holds
+    an important official position in southern France.
   claim_id: 4a7d212a-5521-48d5-be96-a5f6102d78cd
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4a7d212a-5521-48d5-be96-a5f6102d78cd
@@ -164,6 +191,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch7:1102-1216
+  quote: They were augmented by the collections of sighting data I had brought from
+    Europe when I emigrated from France in 1962.
   claim_id: e515c217-e772-41af-a087-618c730738ad
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e515c217-e772-41af-a087-618c730738ad
@@ -173,6 +202,9 @@ references:
     planning agency
   source: Surviving Death
   location: ch44:1399-1575
+  quote: Since some of the military officers on the COMETA panel were serving with
+    the French Institute of Higher Studies for National Defense, a government-financed
+    strategic planning agency
   claim_id: 74a89855-207d-47dd-bbd0-7f25b6f72468
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-74a89855-207d-47dd-bbd0-7f25b6f72468
@@ -181,6 +213,8 @@ references:
     independently and then presented to the highest levels of government in France
   source: Surviving Death
   location: ch44:3660-3799
+  quote: The study was not a government-sanctioned one, but was undertaken independently,
+    and then presented to the highest levels of government in France.
   claim_id: a50588e9-a273-4029-b454-a15e913749cf
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a50588e9-a273-4029-b454-a15e913749cf
@@ -189,6 +223,9 @@ references:
     space experts working independently of the French government
   source: Surviving Death
   location: ch44:722-926
+  quote: The distinguished COMETA authors—thirteen retired generals, scientists, and
+    space experts working independently of the French government—had spent three years
+    analyzing military and pilot encounters with UFOs.
   claim_id: 888148f3-471b-4d4d-9199-28bdd5eda954
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-888148f3-471b-4d4d-9199-28bdd5eda954
@@ -197,6 +234,8 @@ references:
     agreements with interested European and foreign countries on the matter of UFOs
   source: Surviving Death
   location: ch44:5794-5939
+  quote: The writers recommended that France establish “sectorial cooperation agreements
+    with interested European and foreign countries” on the matter of UFOs
   claim_id: 7f592be4-1f00-43d2-aad7-e259fc22c489
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7f592be4-1f00-43d2-aad7-e259fc22c489
@@ -205,6 +244,8 @@ references:
     ultimatum, officially beginning the Second World War
   source: The Fatima Secret
   location: ch15:6243-6348
+  quote: When it was ignored, both nations declared war on Germany. With this the
+    Second World War had officially begun.
   claim_id: 12ff0950-e2f8-416d-a5f7-0f5e2e5aef08
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-12ff0950-e2f8-416d-a5f7-0f5e2e5aef08
@@ -213,6 +254,8 @@ references:
     military action by 1939-09-03
   source: The Fatima Secret
   location: ch15:6117-6237
+  quote: On September 2, Great Britain and France sent him an ultimatum demanding
+    the end of all military action by September 3, 1939.
   claim_id: cb006f68-f2cb-45d0-8457-c6099d512b12
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-cb006f68-f2cb-45d0-8457-c6099d512b12
@@ -221,6 +264,8 @@ references:
     to declare war on the German Reich
   source: The Fatima Secret
   location: ch8:7148-7237
+  quote: Germany reacted by marching against France, causing Britain to declare war
+    on the German Reich.
   claim_id: 98a67d15-1f49-4a99-ab63-50eb78109af1
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-98a67d15-1f49-4a99-ab63-50eb78109af1
@@ -230,6 +275,8 @@ references:
     attempt on John Paul II
   source: The Fatima Secret
   location: ch19:4503-4606
+  quote: Police traced him to Germany, East Germany, Hungary, Bulgaria, France, Spain,
+    Switzerland, and finally Italy.
   claim_id: 223f8fb7-4c1e-4bea-8e18-8ddf464fe4d6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-223f8fb7-4c1e-4bea-8e18-8ddf464fe4d6
@@ -237,6 +284,7 @@ references:
 - text: Marcel Clément is a French professor of philosophy
   source: The Fatima Secret
   location: ch19:21326-21381
+  quote: commented the French professor of philosophy Marcel Clément
   claim_id: ad6ba6be-e39f-4b73-bc1a-920dc8941a8b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ad6ba6be-e39f-4b73-bc1a-920dc8941a8b
@@ -247,6 +295,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:37792-37955
+  quote: Catholic priests at the end of the nineteenth century discouraged many French
+    families from experimenting with tables that tipped and tapped uncanny messages
+    from Beyond.
   claim_id: 4ecf3920-55bf-4e91-bcba-190f2c727bfc
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4ecf3920-55bf-4e91-bcba-190f2c727bfc
@@ -254,6 +305,7 @@ references:
 - text: According to official documents, George Draper died in France on 1916-07-16
   source: Surviving Death
   location: ch27:1668-1731
+  quote: According to official documents, he died in France on July 16, 1916.
   claim_id: 17dd33fd-3239-47dc-b657-6412dcef7671
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-17dd33fd-3239-47dc-b657-6412dcef7671

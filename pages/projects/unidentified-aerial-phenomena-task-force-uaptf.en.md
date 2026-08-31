@@ -210,6 +210,8 @@ references:
     Force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:5154-5231
+  quote: Once it was put together, this would go on to became the Pentagon’s UAP Task
+    Force.
   claim_id: c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c499fd2d-bda7-4c3a-92e1-ebd8d53b3ee0
@@ -218,6 +220,9 @@ references:
     support Stratton's task force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:5830-6022
+  quote: Soon after that, I started working as a contractor for USSF on the UAP front
+    and getting their unofficial help behind the scenes on my public efforts while
+    also contributing to Jay’s UAP Task Force.
   claim_id: ed75974a-7452-4db7-be4e-a3d5160b9b43
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ed75974a-7452-4db7-be4e-a3d5160b9b43
@@ -226,6 +231,9 @@ references:
     director.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:6057-6224
+  quote: After a couple of years of Jay quietly building the UAP Task Force behind
+    the scenes, the secretary of defense announced the UAP Task Force and named Jay
+    as its first director.
   claim_id: 1b20909d-0e9b-4d62-9c61-a1016fd748f9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b20909d-0e9b-4d62-9c61-a1016fd748f9
@@ -234,6 +242,9 @@ references:
     hurdles for the task force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:6381-6592
+  quote: From the moment the UAP Task Force became official, the Legacy Program started
+    quietly pushing back on Jay, behind the scenes, creating one bureaucratic hurdle
+    after another for him, the task force, and everyone involved.
   claim_id: c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
@@ -242,6 +253,8 @@ references:
     for the task force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:26232-26383
+  quote: the powers that be, took their pushback to the next level and somehow managed
+    to block the funding that had been appropriated to the UAP Task Force by Congress
   claim_id: cc27e93e-f606-49df-8e50-bb078b808ffc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cc27e93e-f606-49df-8e50-bb078b808ffc
@@ -250,6 +263,8 @@ references:
     and tried to kill AATIP and then the task force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:27632-27763
+  quote: My old office, the OUSD(I), was precisely the same organization that had
+    underplayed and tried to kill AATIP and then the UAP Task Force.
   claim_id: dd5cb2d1-6c31-42f7-8bf5-bb2f45b21b0c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dd5cb2d1-6c31-42f7-8bf5-bb2f45b21b0c
@@ -375,6 +390,9 @@ references:
     non-human-origin vehicles that had landed or crashed.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:1290-1513
+  quote: The UAP Task Force was refused access to a broad crash retrieval program,
+    retrieving nonhuman origin technical vehicles, you know, call it spacecraft, if
+    you will, nonhuman exotic origin vehicles that have either landed or crashed
   claim_id: 87ccdf24-ffeb-46c1-a562-208927df7e38
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-87ccdf24-ffeb-46c1-a562-208927df7e38
@@ -383,6 +401,13 @@ references:
     programs; both said they knew of nothing beyond the Navy UAP Task Force.
   source: In Plain Sight
   location: ch30:23527-24000
+  quote: 'Gallagher: Are you aware of any other DOD or DOD contract programs focused
+    on UAPs from a technological engineering perspective …? Mr. Moultrie: I am not
+    aware of any contractual programs that are focused on any anything related to
+    this, other than what we are doing in the Navy task force and what we are about
+    to launch in terms of our effort. Mr. Gallagher: Same question for you, Mr. Bray.
+    Mr. Bray: Same answer. Not aware of anything outside what we are doing in the
+    UAP Task Force.'
   claim_id: abf1d136-d3ae-441f-b9ad-49b04020d3be
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-abf1d136-d3ae-441f-b9ad-49b04020d3be

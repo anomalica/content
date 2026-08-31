@@ -114,6 +114,9 @@ references:
     with Top Secret clearances
   source: In Plain Sight
   location: ch14, char 9471-9677
+  quote: Another attendee was recently retired US Naval Reserve Lieutenant Commander
+    Willard Miller, who served on the operations staff of the US Atlantic Command
+    and at NORAD Space Command with Top Secret security clearances.
   claim_id: bde442ba-8fc2-4571-b187-9f9bfa4db840
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bde442ba-8fc2-4571-b187-9f9bfa4db840
@@ -121,6 +124,7 @@ references:
 - text: Previously served as a navy reservist on Admiral Thomas Wilson's staff
   source: In Plain Sight
   location: ch14, char 9689-9759
+  quote: He had also previously served as a navy reservist on Admiral Wilson's staff.
   claim_id: 3c5a1c3c-1117-46f5-b7af-522b3e5231df
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c5a1c3c-1117-46f5-b7af-522b3e5231df
@@ -129,6 +133,11 @@ references:
     of alien visitation
   source: In Plain Sight
   location: ch14, char 14003-14350
+  quote: But we know Steven Greer, Willard Miller and Edgar Mitchell presented Admiral
+    Wilson with what they were convinced was strong witness evidence to support their
+    belief that the US government was covering up alien visitations to Earth, recovered
+    spacecraft and alien bodies, and incredible technological breakthroughs purportedly
+    derived from those discoveries.
   claim_id: d09d1a48-1cf6-4b76-b20f-2782eefe340a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
@@ -146,6 +155,8 @@ references:
 - text: Miller corroborated Greer's account of Wilson's frustration at the briefing
   source: In Plain Sight
   location: ch14, char 15145-15234
+  quote: Retired Navy Commander Willard Miller also supported Greer's account of Admiral
+    Wilson's frustration.
   claim_id: ade03666-fb02-471b-91e5-44b987726c58
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ade03666-fb02-471b-91e5-44b987726c58
@@ -153,6 +164,8 @@ references:
 - text: Adamiak, Lovekin, Mitchell and Miller backed Greer's account of the meeting
   source: In Plain Sight
   location: ch14, char 23846-23991
+  quote: Multiple witnesses at this meeting – Shari Adamiak, Stephen Lovekin, astronaut
+    Edgar Mitchell and Commander Willard Miller – have backed Greer’s account.
   claim_id: 105688f2-9437-443c-8f5f-5666f6d5996e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-105688f2-9437-443c-8f5f-5666f6d5996e
@@ -169,6 +182,9 @@ references:
 - text: Miller said an aide to Wilson admitted the MJ-12 conspiracy was real
   source: In Plain Sight
   location: ch14, char 15247-15454
+  quote: He even claimed that, just before they left the meeting, an aide to the admiral
+    made the extraordinary admission that a long-held (and much debunked) UAP conspiracy
+    theory called Majestic MJ-12 was actually real.
   claim_id: 029cf75f-82ce-49d6-a5ab-6143ef4334fa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-029cf75f-82ce-49d6-a5ab-6143ef4334fa
@@ -176,6 +192,10 @@ references:
 - text: 1998 DIA briefing of Lieutenant General Hughes on UFOs
   source: In Plain Sight
   location: ch14, char 18395-18635
+  quote: It is to Greer's credit, for example, that he was invited back in 1998 to
+    the Defense Intelligence Agency, again with Commander Willard Miller, to brief
+    the then Director, Wilson's immediate superior, Lieutenant General Patrick Hughes,
+    'on UFOs'.
   claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
@@ -183,6 +203,8 @@ references:
 - text: Greer and Miller invited back months later to discuss UAPs
   source: In Plain Sight
   location: ch14, char 23223-23369
+  quote: it begs the question why Wilson’s Defense Intelligence Agency boss General
+    Patrick Hughes invited Greer and Miller back to talk about UAPs months later
   claim_id: 5b4654a8-6c9e-452e-b44b-63ff8fe007e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b4654a8-6c9e-452e-b44b-63ff8fe007e7
@@ -190,6 +212,10 @@ references:
 - text: The Admiral Wilson Memo supports what the group said they were told
   source: In Plain Sight
   location: ch26, char 2846-3151
+  quote: The reason the Admiral Wilson memorandum matters is because, on its face,
+    it supports everything Dr Steven Greer, Edgar Mitchell, Commander Willard Miller,
+    Stephen Lovekin and Shari Adamiak each said they were told by Admiral Wilson at
+    their April 1997 Pentagon meeting, discussing the supposed UAP cover-up.
   claim_id: 3428b898-7fe7-4880-94d3-ddc3656646a9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3428b898-7fe7-4880-94d3-ddc3656646a9
@@ -197,6 +223,8 @@ references:
 - text: Wilson, colleagues and Miller cast doubt on the memo's authenticity
   source: In Plain Sight
   location: ch26, char 24177-24303
+  quote: And the comments of Tom Wilson, his former Defence Department colleagues,
+    and Commander Willard Miller pour cold water on its authenticity.
   claim_id: 639a998b-ebb3-4e2b-b359-116efbb4a6a5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-639a998b-ebb3-4e2b-b359-116efbb4a6a5

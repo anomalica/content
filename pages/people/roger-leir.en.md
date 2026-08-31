@@ -54,6 +54,10 @@ references:
     the mid-1990s
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:8850-9114
+  quote: since the mid-1990s a concerted effort has been made to recover these artifacts,
+    largely through the efforts of California podiatric physician and surgeon Dr.
+    Roger Leir, who has facilitated the surgical removal of a number of these strange
+    items and has had them analyzed.
   claim_id: 72d85dd3-192a-4002-9399-417198061f31
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-72d85dd3-192a-4002-9399-417198061f31
@@ -62,6 +66,9 @@ references:
     Patricia and Paul
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:9125-9303
+  quote: The first of his “implant” removals occurred on August 19, 1995, when medically
+    supervised surgical procedures isolated three objects from two abductees known
+    as “Patricia” and “Paul.”
   claim_id: d6d7da9e-aa69-4a8a-a989-e53cace830e3
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d6d7da9e-aa69-4a8a-a989-e53cace830e3
@@ -69,6 +76,8 @@ references:
 - text: Described about a dozen implant removal surgeries since 1995
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:9483-9557
+  quote: Since then Roger Leir has described about a dozen such surgical “implant”
+    removals.
   claim_id: 671ef9bf-d8cf-4c90-8758-90d0dbe86e4f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-671ef9bf-d8cf-4c90-8758-90d0dbe86e4f
@@ -77,6 +86,10 @@ references:
     spectroscopy and diffraction
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:9568-9872
+  quote: The National Institute for Discovery Science (NIDS), which supported Leir’s
+    work, was able to conduct physical analyses of the implants through a laboratory
+    at New Mexico Tech, an engineering university located in Socorro, New Mexico,
+    including X-ray energy-dispersive spectroscopy and X-ray diffraction work.
   claim_id: 0b19e62e-6636-4bae-b7a5-04564bcd729d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0b19e62e-6636-4bae-b7a5-04564bcd729d
@@ -85,6 +98,10 @@ references:
     a possible meteoritic origin
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:9879-10114
+  quote: A few, namely Leir’s first three implant removals, suggest compositional
+    results and isotopic ratios that lend support to the idea that they may be of
+    extraterrestrial origin. In short, the implant materials seemed to be of meteoritic
+    origin.
   claim_id: 845e3d45-9651-46a3-bb71-fe55155b4beb
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-845e3d45-9651-46a3-bb71-fe55155b4beb
@@ -93,6 +110,9 @@ references:
     an extraterrestrial source'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:10123-10305
+  quote: While provocative, these correlations are tentative and were made on the
+    basis of technical interpretations from meteorite data. This is a long way from
+    intelligent extraterrestrial sources.
   claim_id: 25d4c29d-7b85-4981-b93d-9234dcd5df57
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-25d4c29d-7b85-4981-b93d-9234dcd5df57
@@ -101,6 +121,9 @@ references:
     calcified inside the body'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:10315-10501
+  quote: 'The New Mexico Tech analysis also offered a more prosaic origin for the
+    implants: a stone, for example, subjected to calcification because of its apparent
+    embedding inside the body of a person.'
   claim_id: 2cb86611-b9af-4990-8f84-3d037573b87c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-2cb86611-b9af-4990-8f84-3d037573b87c
@@ -109,6 +132,8 @@ references:
     including Leir
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:43073-43166
+  quote: Gary Lowrey’s experiences have been investigated by a number of parties,
+    including Dr. Roger Leir.
   claim_id: 5251dc86-baf4-4f5f-a57a-e914fc5cd572
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-5251dc86-baf4-4f5f-a57a-e914fc5cd572
@@ -117,6 +142,9 @@ references:
     was a good DNA study candidate
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:26436-26599
+  quote: Kelleher, after consultation with Dr. Roger Leir, who had already made extensive
+    enquiries into the case, felt the “claw” sample could be a good candidate for
+    DNA study.
   claim_id: 7ccd8905-be5e-4908-9ae1-03f57edb7d1d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7ccd8905-be5e-4908-9ae1-03f57edb7d1d
@@ -125,6 +153,9 @@ references:
     of the Varginha case
   source: The Fourth Mind
   location: ch13:8191-8353
+  quote: I knew Dr. Leir well, and when he first heard of the case in 2002, he called
+    me and asked me to go to Brazil with him. My schedule, unfortunately, did not
+    permit it.
   claim_id: f3a5200d-13e0-4f54-9f6e-6e0b5055a9df
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-f3a5200d-13e0-4f54-9f6e-6e0b5055a9df
@@ -133,6 +164,9 @@ references:
     confirmed only that her husband died in hospital
   source: The Fourth Mind
   location: ch13:13637-13811
+  quote: When Dr. Leir was in Brazil in 2002, he attempted to interview the officer’s
+    wife, but she would not give any details beyond the fact that her husband had
+    indeed died in the hospital.
   claim_id: 8634ede7-d56a-43dc-a951-9dcd2f8c0828
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-8634ede7-d56a-43dc-a951-9dcd2f8c0828
@@ -141,6 +175,9 @@ references:
     in UFO research history
   source: The Fourth Mind
   location: ch13:8406-8571
+  quote: When he was in Varginha, he called me again to tell me that he had just conducted
+    what he thought was one of most amazing interviews ever done in the history of
+    UFO research.
   claim_id: 296b5b87-01a3-4eeb-b973-6955a9a0cdd8
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-296b5b87-01a3-4eeb-b973-6955a9a0cdd8
@@ -149,6 +186,8 @@ references:
     done on any subject
   source: The Fourth Mind
   location: ch13:8581-8689
+  quote: Actually, it was more than that. It stands as one of the most amazing interviews
+    ever done anywhere, on any subject.
   claim_id: 442f994c-c10f-4978-b4e4-d7fa74070c96
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-442f994c-c10f-4978-b4e4-d7fa74070c96
@@ -156,6 +195,8 @@ references:
 - text: Strieber never doubted Leir's truthfulness about the Varginha story
   source: The Fourth Mind
   location: ch13:9259-9345
+  quote: I was, too, when he told me. There was never the slightest doubt in my mind
+    about his truthfulness.
   claim_id: 71c7bdde-346c-4e8a-ac1d-194ed243bd3a
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-71c7bdde-346c-4e8a-ac1d-194ed243bd3a
@@ -164,6 +205,10 @@ references:
     revealing firsthand participation
   source: The Fourth Mind
   location: ch13:15829-16072
+  quote: Roger does remark that he noticed a change in the attitude of the individuals
+    involved as he talked with them. They first claimed to be thirdhand witnesses,
+    but when they talked, it became clear that they were actually firsthand witnesses
+    and participants.
   claim_id: 0ae77544-e36a-46ab-833b-c4c8940eb40b
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-0ae77544-e36a-46ab-833b-c4c8940eb40b
@@ -172,6 +217,9 @@ references:
     brown-skinned creature
   source: The Fourth Mind
   location: ch13:11396-11592
+  quote: Dr. Leir conducted an interview with Valquira, who described seeing a short
+    creature, crouching and motionless. She described it as “horrible looking, brown
+    in color with an oily skin and a large head.”
   claim_id: 86da6a1a-e1aa-4a0f-8f98-652e5ce80e80
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-86da6a1a-e1aa-4a0f-8f98-652e5ce80e80
@@ -180,6 +228,9 @@ references:
     creature's eyes
   source: The Fourth Mind
   location: ch13:21647-21823
+  quote: One of the medical personnel interviewed by Dr. Leir specifically comments,
+    “For some reason, all of us did not want to look into this creature’s eyes and
+    refrained from doing so.”
   claim_id: 06000d9d-f25a-466a-b037-bca730d23ae3
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-06000d9d-f25a-466a-b037-bca730d23ae3
@@ -188,6 +239,8 @@ references:
     told him about human beings
   source: The Fourth Mind
   location: ch13:23347-23497
+  quote: The doctor was reticent to tell Dr. Leir everything that was in the “thought
+    grams,” but he was willing to say what the creature told him about human beings.
   claim_id: ac5745be-d309-472a-9c2a-f328b4c9ad99
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-ac5745be-d309-472a-9c2a-f328b4c9ad99
@@ -196,6 +249,8 @@ references:
     that led to his practice's decline
   source: The Fourth Mind
   location: ch13:8022-8128
+  quote: Like John Mack, his license to practice was challenged. He had to deal with
+    a nuisance suit. His practice declined.
   claim_id: 19331b2c-7286-4a4f-a980-ed5cefc0b522
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-19331b2c-7286-4a4f-a980-ed5cefc0b522

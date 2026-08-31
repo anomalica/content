@@ -19,6 +19,8 @@ references:
     in the source.
   source: American Cosmic (2019)
   location: ch7:1594-1677
+  quote: This was perhaps the most miraculous and strange event of my eventful six
+    years of research.
   claim_id: 894af19d-386e-4b94-aebb-bc879bd566e0
   claim_fingerprint: 29fa34309f5acc229f0f8f65689fe87235f30abdd3a22f19ac7e075fa6668e32
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
@@ -29,6 +31,9 @@ references:
     and ufology.
   source: American Cosmic (2019)
   location: char:15823-16004
+  quote: I proceeded in the conventional way in that I conducted an ethnography of
+    a variety of believers and delved into research into UFOs and ufology, a branch
+    of research devoted to the topic.
   claim_id: 9d673ad9-e774-4b7d-8315-6daae823096a
   claim_fingerprint: e1ef0fde1b7d41b6b7a48557061354967842ec1cdf2d7cf2e0784f979e05997c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
@@ -39,6 +44,8 @@ references:
     resolving the UFO phenomenon's ontology.
   source: American Cosmic (2019)
   location: ch3:48117-48272
+  quote: Eventually I knew that my task was to document the formation of a new religious
+    form—not to reach ultimate conclusions about the ontological status of its mystery.
   claim_id: 1a4621b0-5e29-4d24-832e-24fc214e2081
   claim_fingerprint: 99d1c758ce575590bce628a5d4bf5e99d13e1047d5fe118125c2fe6687b17285
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
@@ -49,6 +56,11 @@ references:
     of the UFO phenomenon.
   source: American Cosmic (2019)
   location: ch1:55341-55734
+  quote: 'We were all well acquainted with the theories of Jacques Vallee, the famous
+    researcher, astronomer, and computer scientist. Vallee''s approach addressed three
+    aspects: the physical aspect, which Tyler represented; the testimonial aspect,
+    represented by experiencers; and the social aspect, how belief in the phenomenon
+    persists regardless of whether there is any verifiable evidence to support it.'
   claim_id: 5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
   claim_fingerprint: 99f2dab116c1c49789be4798b630325045faa049ae7101dbabf0c62a266dea26
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
@@ -59,6 +71,7 @@ references:
     Mexico.
   source: American Cosmic (2019)
   location: ch2:38420-38483
+  quote: By the time we traveled to New Mexico, they were already close associates.
   claim_id: 6d41abee-9086-4e14-9672-dd03d425a097
   claim_fingerprint: 396de94059de69443c8f60e87acda33040b06bbb6cd5267267a27d5ae64301d7
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
@@ -69,6 +82,8 @@ references:
     detector.
   source: American Cosmic (2019)
   location: ch1:52702-52796
+  quote: He was examining a small, metallic object. It had been identified as an artifact
+    by the metal detector.
   claim_id: e9bf50b4-10f5-4dfb-86e7-242a4ec94bc1
   claim_fingerprint: b1fd562a5da23dc0150cc54a931bf404f0cf9ed3fac5a5217af3b941a328d57b
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
@@ -79,6 +94,8 @@ references:
     as to be incomprehensible.
   source: American Cosmic (2019)
   location: ch7:43039-43127
+  quote: It was analyzed by research scientists, who concluded that it was so anomalous
+    as to be incomprehensible.
   claim_id: faefe3eb-0e92-46ad-945d-92495f84366e
   claim_fingerprint: c946a90ea2568be63db8ab11e49b2d38741e3f73529a187d41e2fde72124905b
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
@@ -89,6 +106,8 @@ references:
     reality.
   source: American Cosmic (2019)
   location: ch5:6020-6095
+  quote: He advocates that researchers throw out the dichotomy because it skews the
+    data.
   claim_id: a5fe650a-0258-4052-81d8-c3e8dd26c881
   claim_fingerprint: d147eb88186753929dbe8cbc87700cf9d85b09f6c0c78a881f7488f46d6546e8
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
@@ -99,6 +118,9 @@ references:
     in Castel Gandolfo.
   source: American Cosmic (2019)
   location: ch7:173-336
+  quote: This book began with a journey, and it ends with a journey, a plane trip
+    to Rome where I visited the Vatican Secret Archives and the Vatican Observatory
+    in Castel Gandolfo
   claim_id: 215b546c-741d-41ce-8e16-d292c855d556
   claim_fingerprint: 7849dbb73576c03bac2f56bb88bf6c5e72ee06f4d1d0327cf1d5dffa06089ae1
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
@@ -108,6 +130,7 @@ references:
 - text: Tyler D. experienced a profound religious conversion during the trip to Rome.
   source: American Cosmic (2019)
   location: ch7:1519-1588
+  quote: Here he experienced a profound religious conversion, right before my eyes.
   claim_id: bea4fae2-efb1-4ca4-95a2-ec29504d60c0
   claim_fingerprint: 87f3e6b929557157ab81c9177291b2475286feaa95f2d0baf067359bbfa5dc34
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
@@ -118,6 +141,8 @@ references:
     a new form of religion.
   source: American Cosmic (2019)
   location: ch7:1688-1777
+  quote: I have made the case that belief in extraterrestrials and UFOs constitutes
+    a new form of religion.
   claim_id: b0941270-424f-442d-817f-42d7ae2798b6
   claim_fingerprint: 176e799fb72dfc925e73a5fdd90f328ac9b07bdbe2faf8fac804df37d5eebea9
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b

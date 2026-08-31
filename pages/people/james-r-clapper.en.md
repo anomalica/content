@@ -58,6 +58,8 @@ references:
     director
   source: In Plain Sight
   location: ch21:11636-11755
+  quote: The then US Deputy Secretary of Defense for Intelligence, James Clapper,
+    a former director of the Defense Intelligence Agency
   claim_id: 8489fd4d-b292-43e9-8c20-c0ca2eca871c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8489fd4d-b292-43e9-8c20-c0ca2eca871c
@@ -66,6 +68,9 @@ references:
     of Air Force intelligence, and former DNI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:25129-25290
+  quote: the legendary general James Clapper, a former undersecretary of defense for
+    intelligence, former head of Air Force intelligence, and former director of national
+    intelligence.
   claim_id: c7a88c5d-064d-45db-b48b-1c0bd94b8b76
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c7a88c5d-064d-45db-b48b-1c0bd94b8b76
@@ -81,6 +86,10 @@ references:
 - text: In 2008 Clapper hired Elizondo into OUSDI, overseeing DIA and NSA
   source: In Plain Sight
   location: ch21:11763-12072
+  quote: recognised Elizondo's skills and, in 2008, had personally hired him into
+    the office that acts as the principal staff for the Department of Defense on sensitive
+    intelligence-related matters, overseeing a cluster of three-letter DoD agencies,
+    including the Defense Intelligence Agency and the National Security Agency
   claim_id: 264fac5f-5e8c-4840-ae89-50f9c152e404
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
@@ -88,6 +97,8 @@ references:
 - text: Clapper was Elizondo's boss at OUSDI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:49102-49227
+  quote: This all began when General James Clapper, my old boss at the Office of the
+    Undersecretary of Defense for Intelligence (OUSD(I))
   claim_id: b1120fd2-e0b3-4ab9-bb32-c35dddc7ed96
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b1120fd2-e0b3-4ab9-bb32-c35dddc7ed96
@@ -95,6 +106,8 @@ references:
 - text: Elizondo considered Clapper one of his supervisors during OUSDI's golden era
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:25357-25533
+  quote: Clapper had been one of my upper-level supervisors, in what I considered
+    the golden era of OUSD(I), when people were happy and the mission was their focus.
   claim_id: 6b23250c-6525-4a14-acbe-bf95108cbf1c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6b23250c-6525-4a14-acbe-bf95108cbf1c
@@ -114,6 +127,7 @@ references:
 - text: Obama asked Clapper to become the new DNI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:49232-49286
+  quote: was asked by President Barack Obama to become the new DNI.
   claim_id: cdf8d701-990d-4487-bad6-7ea598e8ee59
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cdf8d701-990d-4487-bad6-7ea598e8ee59
@@ -122,6 +136,9 @@ references:
     shortly after
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:5551-5778
+  quote: '"Sir, it''s Obama," she said. Clapper stepped out to take the president''s
+    call. When he reentered the room, he said to us, "How do you all feel about me
+    being the next director of national intelligence?" And just like that, he was.'
   claim_id: 49e96a35-8ee8-408a-824b-1588b1889847
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-49e96a35-8ee8-408a-824b-1588b1889847
@@ -138,6 +155,9 @@ references:
 - text: Woods did not get along with Clapper at the DoD
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:5031-5192
+  quote: Unfortunately, Woods did not get along with my current boss over at DoD,
+    Lieutenant General James Clapper, who at the time was the undersecretary of defense
+    for intelligence.
   claim_id: 7310a06e-1534-4980-a1f0-541204a4103c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7310a06e-1534-4980-a1f0-541204a4103c
@@ -145,6 +165,8 @@ references:
 - text: Clapper offered Woods a DIA job despite their disagreements
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:49291-49421
+  quote: Clapper and Woods didn’t always see eye to eye, but when Clapper made the
+    move to become the DNI, he offered Woods the job at DIA regardless.
   claim_id: d1cc47f0-2761-41c6-891f-795d0a50985e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d1cc47f0-2761-41c6-891f-795d0a50985e
@@ -152,6 +174,8 @@ references:
 - text: Woods accepted the DIA deputy director post after Clapper became DNI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:6181-6308
+  quote: When I next heard that Woods had accepted the position of the deputy director
+    of DIA, I took this to be a consolation prize of sorts.
   claim_id: b8a9bdd6-4c2f-4ef9-9fcc-202135202d9a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b8a9bdd6-4c2f-4ef9-9fcc-202135202d9a
@@ -159,6 +183,8 @@ references:
 - text: Clapper approached Elizondo and Jennifer in a CNN greenroom
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:25015-25157
+  quote: While waiting in the greenroom at CNN prior to an on-camera interview, Jenn
+    and I were approached by my old boss, the legendary general James Clapper.
   claim_id: 98903661-01f9-4138-bbcd-398b8713311e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-98903661-01f9-4138-bbcd-398b8713311e
@@ -167,6 +193,8 @@ references:
     and was proud of him
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:25579-25703
+  quote: He greeted us warmly, saying how surprised he was that the Pentagon admitted
+    it had a UAP program, and that he was proud of me.
   claim_id: 70109fb6-1cd1-4df1-b8bb-9b6313a22794
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-70109fb6-1cd1-4df1-b8bb-9b6313a22794

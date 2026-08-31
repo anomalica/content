@@ -170,6 +170,7 @@ references:
     aircraft carrier
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:1402-1467
+  quote: The lead vessel was the USS *Nimitz*, a nuclear-powered aircraft carrier.
   claim_id: 08942780-f53b-4197-b790-7f1037478f05
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-08942780-f53b-4197-b790-7f1037478f05
@@ -349,6 +350,9 @@ references:
 - text: USS Princeton, not Nimitz, provided air defence via SPY-1 Aegis
   source: In Plain Sight
   location: ch16:740-914
+  quote: it was actually the accompanying Ticonderoga-class guided missile cruiser
+    USS Princeton that was providing air defence protection with its then brand-new
+    SPY-1 Aegis radar system
   claim_id: 9c13836a-6561-4b29-8009-791ca00f99d2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c13836a-6561-4b29-8009-791ca00f99d2
@@ -356,6 +360,9 @@ references:
 - text: Princeton detected objects appearing to descend from low earth orbit
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:7637-7846
+  quote: the USS *Princeton*, an Aegis-class guided missile cruiser, escorting the
+    mighty aircraft carrier the USS *Nimitz*, detected a large number of maneuvering
+    objects that appeared to be descending from low earth orbit.
   claim_id: a646b948-551d-4ad3-89c6-05ac2c048791
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a646b948-551d-4ad3-89c6-05ac2c048791
@@ -363,6 +370,7 @@ references:
 - text: Kevin Day confirmed Nimitz radar tracking same cluster of 14 objects as Princeton
   source: In Plain Sight
   location: ch16:3446-3511
+  quote: this time, he confirmed the Nimitz's radar was seeing the same thing
   claim_id: 90742dd6-fb52-4b59-b254-7f1d77a2752d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-90742dd6-fb52-4b59-b254-7f1d77a2752d
@@ -370,6 +378,8 @@ references:
 - text: Nimitz sent up E-2 Hawkeye, detected object on own radar
   source: In Plain Sight
   location: ch16:3518-3655
+  quote: The aircraft carrier also sent up one of its airborne early-warning aircraft
+    – an E2 Hawkeye – and it detected the closest object on its radar.
   claim_id: a104bd6a-8d33-4f71-92c4-39843995f257
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a104bd6a-8d33-4f71-92c4-39843995f257
@@ -377,6 +387,8 @@ references:
 - text: Day recommended to Captain Smith that aircraft investigate; Smith concurred
   source: In Plain Sight
   location: ch16:6428-6542
+  quote: Day recommended to the Nimitz's Captain James Smith that they send out aircraft
+    to take a look, and the captain concurred.
   claim_id: 1e9fa5fc-7581-419e-97db-131b5fbfdaa9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e9fa5fc-7581-419e-97db-131b5fbfdaa9
@@ -385,6 +397,9 @@ references:
     a circular disturbance 50-100m across
   source: In Plain Sight
   location: ch16:7213-7398
+  quote: Somewhere about 100 kilometres south-west of the Nimitz, Kurth arrived at
+    the intercept point, but all he saw was a circular disturbance on the surface
+    of the ocean, 50–100 metres in size.
   claim_id: 00ba059b-86a1-4099-bdfe-1de5723f302b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-00ba059b-86a1-4099-bdfe-1de5723f302b
@@ -392,6 +407,9 @@ references:
 - text: Slaight's submarine theory ruled out by Nimitz's intelligence officer
   source: In Plain Sight
   location: ch16:8969-9201
+  quote: Remaining above, weapons systems officer Lieutenant Commander Slaight and
+    his pilot thought it might be a submarine that was part of the exercise, but this
+    was later ruled out by the Nimitz's intelligence officer in a post-flight debriefing.
   claim_id: 72f28544-5245-4b89-8c2d-39d957b86719
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72f28544-5245-4b89-8c2d-39d957b86719
@@ -432,6 +450,8 @@ references:
 - text: two F/A-18s intercepted object at close quarters in perfect visibility
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:8066-8195
+  quote: two US Navy F/A-18s from the *Nimitz* managed to intercept one of these strange
+    craft at close quarters in conditions of perfect visibility.
   claim_id: 9f7a3d29-35e9-4dd6-9892-93e8c29873ac
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9f7a3d29-35e9-4dd6-9892-93e8c29873ac
@@ -449,6 +469,10 @@ references:
 - text: swarm shot back above approximately 24,000m in a fraction of a second
   source: In Plain Sight
   location: ch16:15562-15822
+  quote: Inside the USS Princeton's Combat Information Centre astonished operators
+    watched as, once Fravor and his wingman returned to the USS Nimitz, in a fraction
+    of a second, the swarm of other objects that had descended towards the ocean shot
+    back above 80,000 feet.
   claim_id: ad95b4e5-4a0c-4936-a957-e971802cfb64
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ad95b4e5-4a0c-4936-a957-e971802cfb64
@@ -474,6 +498,10 @@ references:
 - text: third pair including Underwood, jet fitted with ATFLIR pod, headed out
   source: In Plain Sight
   location: ch16:16657-16902
+  quote: As Commander Fravor and his wingman returned to the USS Nimitz from their
+    Tic Tac encounter that 14 November afternoon, a third pair of aircraft headed
+    out. One of the pilots, Lieutenant Chad Underwood, had what is called an ATFLIR
+    pod on his jet.
   claim_id: bb93ed9d-0f01-4ca8-b126-b8bd225234c3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bb93ed9d-0f01-4ca8-b126-b8bd225234c3
@@ -507,6 +535,9 @@ references:
 - text: FLIR1 video downloaded on return; conspiracy theories among crewmen at sea
   source: In Plain Sight
   location: ch16:19232-19424
+  quote: The ATFLIR video of the encounter was downloaded when Lieutenant Underwood
+    returned to the USS Nimitz; conspiracy theories abound among crewmen who saw the
+    video while the ship was still at sea.
   claim_id: c4d0935a-8ff0-4a53-b5ef-707008f589b5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4d0935a-8ff0-4a53-b5ef-707008f589b5
@@ -535,6 +566,9 @@ references:
 - text: deck crew ribbing, some wore tin-foil hats in jest
   source: In Plain Sight
   location: ch16:21796-21972
+  quote: What the returning pilots did get was a good-natured ribbing about their
+    'flying saucer' sighting from the USS *Nimitz*'s deck crew, some of whom were
+    wearing tin-foil hats in jest.
   claim_id: 4d036a1a-2fdb-45f6-80ef-6c53e7cfa059
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d036a1a-2fdb-45f6-80ef-6c53e7cfa059
@@ -554,6 +588,8 @@ references:
 - text: two unknown individuals arrived by navy helicopter immediately afterwards
   source: In Plain Sight
   location: ch16:23537-23664
+  quote: Immediately after the incident, two unknown individuals, presumably serving
+    military, arrived by navy helicopter on board the *Nimitz*.
   claim_id: cadc7ae1-5b58-4890-8f7b-d4d9828fbfe3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cadc7ae1-5b58-4890-8f7b-d4d9828fbfe3
@@ -571,6 +607,7 @@ references:
 - text: no further jets sent up to engage the craft
   source: In Plain Sight
   location: ch16:21453-21518
+  quote: No further jets from the USS *Nimitz* were sent up to engage the craft.
   claim_id: 985d67e1-72d2-4bf0-9e5f-487cb88f47f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-985d67e1-72d2-4bf0-9e5f-487cb88f47f7
@@ -588,6 +625,8 @@ references:
 - text: crewmen aboard Nimitz and Princeton shared video via classified email
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:14067-14188
+  quote: By then, many crewmen aboard the *Nimitz* and the *Princeton* had shared
+    the video via the government’s classified email system.
   claim_id: a050fde6-b287-46a6-ab81-12035ed0ae68
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a050fde6-b287-46a6-ab81-12035ed0ae68
@@ -595,6 +634,8 @@ references:
 - text: little follow-up investigation after pilots returned to Nimitz
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:13506-13594
+  quote: Back in 2004, very little follow-up had been conducted when the pilots returned
+    to the *Nimitz*.
   claim_id: 9aacf04b-2bd3-4d1b-8377-cdc5f36b256a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9aacf04b-2bd3-4d1b-8377-cdc5f36b256a
@@ -602,6 +643,9 @@ references:
 - text: October 2019 Lambright FOIA request to ONI
   source: In Plain Sight
   location: ch22:19078-19280
+  quote: In October 2019, researcher Christian Lambright made a Freedom of Information
+    Act request to the US Navy’s Office of Naval Intelligence (ONI), seeking records
+    relating to the USS Nimitz Tic Tac UAP encounter.
   claim_id: 9303c476-64f9-4867-8047-a925e45064f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9303c476-64f9-4867-8047-a925e45064f1
@@ -609,6 +653,9 @@ references:
 - text: ONI admitted holding Top Secret records and a Secret video, reported 2020-01-08
   source: In Plain Sight
   location: ch34:48917-49107
+  quote: Paul Dean, 'Office of Naval Intelligence (ONI) Admits to "Top Secret" Records
+    and "Secret" Video from USS Nimitz "Tic Tac" UFO Incident', UFOs – Documenting
+    The Evidence Blog, 8 January 2020.
   claim_id: 8e2b24e7-dcc8-4172-8622-c937c405a63d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8e2b24e7-dcc8-4172-8622-c937c405a63d
@@ -616,6 +663,9 @@ references:
 - text: Eric Davis's team responsible for covert investigation
   source: In Plain Sight
   location: ch17:11975-12207
+  quote: Former Bigelow NIDS scientist Dr Eric Davis has admitted that his team was
+    responsible for the covert investigation into the 2004 Tic Tac USS Nimitz incident
+    and they too reached a dramatic conclusion as to who or what was behind it.
   claim_id: 091ecbf9-1702-4677-a96e-e5d67cd15522
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-091ecbf9-1702-4677-a96e-e5d67cd15522
@@ -634,6 +684,8 @@ references:
 - text: 2014-2015 Roosevelt F/A-18s had new APG-79 radar, unlike 2004 Nimitz jets
   source: In Plain Sight
   location: ch22:652-764
+  quote: unlike those on the USS Nimitz ten years earlier, they had new advanced APG-79
+    electronic beam scanning radar systems
   claim_id: cc66340d-b159-4c82-a8ab-023a0b1de83c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cc66340d-b159-4c82-a8ab-023a0b1de83c
@@ -641,6 +693,9 @@ references:
 - text: 'Elizondo: Roosevelt incursions shared characteristics with Nimitz encounter'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:2114-2300
+  quote: 'The situation had all the hallmarks of the Nimitz/Princeton case back in
+    2004. Like the Nimitz, the Roosevelt was a nuclear-powered vessel. Two of the
+    boxes were ticked: water and nukes.'
   claim_id: 6c111a55-0f8f-44cd-9bc9-fc4433881a79
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6c111a55-0f8f-44cd-9bc9-fc4433881a79
@@ -649,6 +704,8 @@ references:
     crews'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:2553-2665
+  quote: The crew reported the UAP displayed the same abilities that dazzled the Nimitz
+    and Princeton crews a decade earlier.
   claim_id: c405ff40-ea0d-41f8-8495-8d8b9be51576
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c405ff40-ea0d-41f8-8495-8d8b9be51576
@@ -657,6 +714,9 @@ references:
     object
   source: In Plain Sight
   location: ch28:3496-3707
+  quote: it means the US Navy officially claims to be developing an anti-gravity craft,
+    a patent applied for in April 2016, 12 years after the USS Nimitz and its pilots
+    tracked and videoed the Tic Tac UAP off the west coast.
   claim_id: b18de831-3244-4834-8ab2-fcf002ee7274
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b18de831-3244-4834-8ab2-fcf002ee7274
@@ -664,6 +724,8 @@ references:
 - text: 'Mellon: does not consider the object an experimental US aircraft'
   source: In Plain Sight
   location: ch21:3329-3394
+  quote: '''Clearly this is not an experimental US aircraft but whose is it?'' Mellon
+    asked.'
   claim_id: c3771b29-a5c4-4999-80c1-99b74c6e95b2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c3771b29-a5c4-4999-80c1-99b74c6e95b2

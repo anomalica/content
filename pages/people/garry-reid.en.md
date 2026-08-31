@@ -133,6 +133,7 @@ references:
 - text: Reid ran security and law enforcement for the Department of Defense
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:5335-5379
+  quote: He ran security and law enforcement for the DoD.
   claim_id: a53c3d27-b1e9-42b8-be29-d425a3163942
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a53c3d27-b1e9-42b8-be29-d425a3163942
@@ -141,6 +142,7 @@ references:
     Elizondo's
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:5691-5785
+  quote: Reid also controlled security clearances for all of DoD, including mine.
   claim_id: 01c42881-cb71-4262-ba78-652a71917453
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-01c42881-cb71-4262-ba78-652a71917453
@@ -149,6 +151,9 @@ references:
     not related to Senator Harry Reid
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:10702-10923
+  quote: His replacement was a man whom I did not trust named Garry Reid (no relation
+    to our congressional benefactor, Senator Harry Reid). He had been brought to the
+    OUSD(I) from the special operations community.
   claim_id: 900dd4a3-9342-437d-9180-a6de8346dbad
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-900dd4a3-9342-437d-9180-a6de8346dbad
@@ -219,6 +224,8 @@ references:
 - text: Elizondo had kept Reid out of the loop on anything pertaining to AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:4203-4309
+  quote: I had kept our top boss Garry Reid out of the loop on anything pertaining
+    to AATIP, for reasons mentioned earlier.
   claim_id: 699599cb-01ac-461d-a853-8e12d70f5e35
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-699599cb-01ac-461d-a853-8e12d70f5e35
@@ -299,6 +306,9 @@ references:
     him immediately
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:3988-4188
+  quote: About an hour later, I got the call. On the other end I heard the somber
+    voice of John Garrity, my immediate supervisor on the Guantanamo portfolio. “Hey,
+    Lue,” he said, “Garry Reid wants to see you immediately.”
   claim_id: f43085fc-6f19-4978-9f96-6f19f7ba3bd4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f43085fc-6f19-4978-9f96-6f19f7ba3bd4
@@ -306,6 +316,8 @@ references:
 - text: Reid asked Elizondo what he was supposed to do with the resignation letter
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:4334-4441
+  quote: When his assistant patched him through, Reid flippantly asked, “What am I
+    supposed to do with this letter, Lue?”
   claim_id: 0c765668-436e-4dec-abbc-2f0912c4bb9c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0c765668-436e-4dec-abbc-2f0912c4bb9c
@@ -314,6 +326,9 @@ references:
     could affect his security clearance
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:5479-5685
+  quote: “Lue, you realize that if you do this, I will have no option but to tell
+    people that you’re acting crazy. You don’t want this affecting your security clearance,
+    do you? You still want a job somewhere, don’t you?”
   claim_id: 88fb4bff-98d9-41dd-a3bf-02312f368ba4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-88fb4bff-98d9-41dd-a3bf-02312f368ba4
@@ -480,6 +495,8 @@ references:
 - text: Reid initiated an AFOSI inquiry into how the UAP videos had been released
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:26003-26120
+  quote: In reaction to the press, Garry Reid initiated an inquiry through the AFOSI
+    to determine how the UAP videos had been released.
   claim_id: 7632ca75-dec7-4660-93a6-34b7f9669ac3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7632ca75-dec7-4660-93a6-34b7f9669ac3
@@ -487,6 +504,8 @@ references:
 - text: Reid seized Elizondo's computers and files and questioned his former employees
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:6828-6921
+  quote: Reid had already seized my computers and files from my office and questioned
+    every one of my employees.
   claim_id: f99ab138-7484-403e-a69f-ef784f2cf6a8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f99ab138-7484-403e-a69f-ef784f2cf6a8
@@ -495,6 +514,9 @@ references:
     the video declassification allegations
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:1747-1950
+  quote: I received a call one day from an agent with the Defense Counterintelligence
+    Security Agency (DCSA), which Garry Reid oversaw. The agent referenced allegations
+    that I had improperly declassified the UAP videos.
   claim_id: 69523cbf-2b32-4908-8f0b-c5e9a0215a70
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-69523cbf-2b32-4908-8f0b-c5e9a0215a70
@@ -502,6 +524,8 @@ references:
 - text: Employees filed complaints about Reid's conduct with the DoD Inspector General
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:11288-11371
+  quote: Employees would soon file charges with the DoD inspector general about some
+    of his behavior.
   claim_id: c7a7e9ca-5253-4925-84f0-7e926b8e93c9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c7a7e9ca-5253-4925-84f0-7e926b8e93c9
@@ -510,6 +534,9 @@ references:
     a complaint from a female employee
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:3661-3881
+  quote: It had taken time for a female DoD employee's complaint to work its way through
+    the proper channels, but the IG was now investigating Garry Reid for a litany
+    of issues that would later be made public.
   claim_id: f0ff397d-5044-43b8-8881-bb72020c6863
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f0ff397d-5044-43b8-8881-bb72020c6863
@@ -518,6 +545,9 @@ references:
     with a subordinate, sexual harassment and a hostile work environment
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:11381-11592
+  quote: The DoD’s Inspector General’s Office went on to investigate Reid on numerous
+    allegations, including maintaining a sexual relationship with a subordinate employee,
+    sexual harassment, and fostering a hostile work environment.
   claim_id: 28ffe871-723f-460d-8b76-adbea35c6df2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-28ffe871-723f-460d-8b76-adbea35c6df2
@@ -526,6 +556,10 @@ references:
     over an inappropriate relationship and mishandling Controlled Unclassified Information
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:11606-11850
+  quote: The IG’s Office would eventually conclude that Reid had violated Joint Ethics
+    Regulations by creating an appearance of an inappropriate relationship or preferential
+    treatment with a female subordinate and mishandling of Controlled Unclassified
+    Information.
   claim_id: 1cb05220-f4c8-4ec3-9a39-974c573b6d7b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1cb05220-f4c8-4ec3-9a39-974c573b6d7b
@@ -534,6 +568,8 @@ references:
     Mattis, hoping never to reveal it
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:19379-19495
+  quote: Apparently, Garry Reid had swept my resignation under the rug, hoping he
+    would never need to reveal my departure to Mattis.
   claim_id: 0d1b40fa-2cfc-4abd-afd0-a9007250508d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0d1b40fa-2cfc-4abd-afd0-a9007250508d
@@ -541,6 +577,7 @@ references:
 - text: Reid was reassigned from OUSD(I)
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:40978-41023
+  quote: they had reassigned Garry Reid from the OUSD(I)
   claim_id: 3c440f66-1d63-4144-8ea6-79d9d831935b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3c440f66-1d63-4144-8ea6-79d9d831935b
@@ -548,6 +585,7 @@ references:
 - text: Reid was reassigned to DIA as a 'special advisor'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:40073-40112
+  quote: He was reassigned to DIA as a “special advisor.”
   claim_id: f40a9557-d26a-4529-a458-45b635e4c62f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f40a9557-d26a-4529-a458-45b635e4c62f
@@ -556,6 +594,8 @@ references:
     concluded
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:40122-40235
+  quote: The long-running inspector general investigation into alleged sexual harassment
+    and other claims against him had concluded.
   claim_id: b2dce5b7-24b9-4ca0-bc56-d9b31c89db7c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b2dce5b7-24b9-4ca0-bc56-d9b31c89db7c

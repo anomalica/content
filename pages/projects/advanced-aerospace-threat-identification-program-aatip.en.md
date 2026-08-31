@@ -572,6 +572,9 @@ references:
 - text: 'Reid: request tied to being refused access to alleged retrieved materials'
   source: In Plain Sight
   location: ch17:21686-21863
+  quote: he confirmed that was why he’d requested Special Access Program status for
+    AATIP. Reid said, ‘Yeah, that’s why I wanted them to take a look at it. But they
+    wouldn’t give me the clearance.’
   claim_id: 4c4b68b3-679f-497f-a9a8-1528e334b4f9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4c4b68b3-679f-497f-a9a8-1528e334b4f9
@@ -579,6 +582,9 @@ references:
 - text: Elizondo described as former senior DoD intelligence officer who led AATIP
   source: In Plain Sight
   location: ch37:9360-9531
+  quote: Former senior US Defense Department intelligence officer Luis Elizondo, who
+    led the Pentagon's secret UFO investigation team, the Advanced Aerospace Threat
+    Identification Program.
   claim_id: 8337fa99-92d9-47a9-ac73-c5086c2c203d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8337fa99-92d9-47a9-ac73-c5086c2c203d
@@ -742,6 +748,11 @@ references:
     capability'
   source: In Plain Sight
   location: ch25:19028-19397
+  quote: Another of the retrieved Advanced Aerospace Threat Identification Program
+    slides found on Christopher Mellon's website was headed *DoD Threat Scenario*.
+    It flatly asserted, 'The science exists for an enemy of the United States to manipulate
+    both physical and cognitive environments in order to penetrate US facilities,
+    influence decision makers and compromise national security.'
   claim_id: c5df4a0a-2e48-4460-ba85-31013633631e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5df4a0a-2e48-4460-ba85-31013633631e
@@ -771,6 +782,9 @@ references:
 - text: Stratton changed acronym from UFO to UAP at Skinwalker Ranch
   source: In Plain Sight
   location: ch30:12508-12702
+  quote: Stratton also acknowledged he changed the offi cial acronym describing the
+    phenomenon from UFO to UAP while he was at Skinwalker working with the Advance
+    Aerospace Threat Identification Program team.
   claim_id: 1d8741fe-a48a-4616-9b3a-225433de1082
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d8741fe-a48a-4616-9b3a-225433de1082
@@ -803,6 +817,9 @@ references:
 - text: Two colleagues under medical care for injuries from UAP interactions
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch14:4485-4652
+  quote: Two colleagues in particular were under medical care for both cutaneous and
+    visceral injuries that were sustained from interactions with UAP while working
+    with AAWSAP/AATIP
   claim_id: 7dae73b0-7950-42e4-8c47-f9893b4d942d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7dae73b0-7950-42e4-8c47-f9893b4d942d
@@ -810,6 +827,8 @@ references:
 - text: John Robert experienced similar symptoms working around the team
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch14:5467-5580
+  quote: Another colleague and good friend, who wasn’t part of AAWSAP/AATIP but worked
+    around us often, experienced these symptoms.
   claim_id: 3170ac7c-ba5c-4f4c-af78-475e54b2a3a8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3170ac7c-ba5c-4f4c-af78-475e54b2a3a8
@@ -817,6 +836,7 @@ references:
 - text: Neill Tipton helped build AAWSAP/AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:21899-21942
+  quote: '"I helped build the program. Why wouldn''t I be?"'
   claim_id: 0a3a9874-c39f-484c-94c3-f353ce5fb4c5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0a3a9874-c39f-484c-94c3-f353ce5fb4c5
@@ -824,6 +844,8 @@ references:
 - text: Stratton secured $10 million in new funding from Reid
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:23014-23130
+  quote: Jay ran point on pulling off miracle after miracle and succeeded in getting
+    Senator Reid to give us new funding—$10 million!
   claim_id: cceef955-98ca-478d-b989-cd1bcd142a4a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cceef955-98ca-478d-b989-cd1bcd142a4a
@@ -831,6 +853,9 @@ references:
 - text: Funds were redirected to another DoD programme via ambiguous bill language
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:23181-23434
+  quote: we learned that another DoD program had absconded the funds... This happened
+    because the language on the funding bill was ambiguous enough for someone in a
+    powerful position to justify kicking the money to another line item.
   claim_id: a7ea9e3c-624d-43da-b671-83e853d1783d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a7ea9e3c-624d-43da-b671-83e853d1783d
@@ -838,6 +863,9 @@ references:
 - text: Eric Davis, astrophysicist, worked as contractor with Puthoff
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:6336-6498
+  quote: It wasn’t until much later that I met Eric Davis, an astrophysicist with
+    high-level national security clearances who also worked with Hal as a contractor
+    for the program.
   claim_id: 271695f2-2f93-4103-9532-36a12d5aba5f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-271695f2-2f93-4103-9532-36a12d5aba5f
@@ -845,6 +873,8 @@ references:
 - text: Elizondo's later office was 3C503A, Pentagon C-ring
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch17:128-228
+  quote: My new base of operations was office 3C503A—third floor, C-ring, fifth corridor,
+    alpha suite—in the Pentagon.
   claim_id: 4773b457-f14a-4809-9860-5674b47b7dca
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4773b457-f14a-4809-9860-5674b47b7dca
@@ -901,6 +931,9 @@ references:
 - text: First two DoD UAP videos posted mid-December 2017, timed with press coverage
   source: In Plain Sight
   location: ch21:20924-21123
+  quote: The first two were posted in mid-December 2017, timed for impact when Politico,
+    The Washington Post and The New York Times broke the story of the Defence Department's
+    AATIP investigations into UAPs.
   claim_id: 9898cf75-2714-46d8-bb85-c5020299e488
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9898cf75-2714-46d8-bb85-c5020299e488

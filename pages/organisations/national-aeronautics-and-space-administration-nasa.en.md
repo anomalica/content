@@ -433,6 +433,8 @@ references:
     and its director agreed.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch4:4214-4354
+  quote: 'The new director of NASA was gingerly approached: would the Agency agree
+    to act as a focal point for public inquiries? The Director said he would.'
   claim_id: 2c6a01b7-d0c9-4c4a-a305-1c08a371ce0a
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2c6a01b7-d0c9-4c4a-a305-1c08a371ce0a
@@ -441,6 +443,9 @@ references:
     NIH, was chosen for UFO inquiries.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch4:4942-5168
+  quote: So why pick NASA rather than the Department of Energy, which could deal better
+    with the physical effects, or the National Institutes of Health, which are capable
+    of investigating the physiological responses so prevalent among witnesses?
   claim_id: 2b096ce7-9ebf-47e6-83be-034037d7c85a
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2b096ce7-9ebf-47e6-83be-034037d7c85a
@@ -449,6 +454,8 @@ references:
     the UFO problem with space.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch4:5298-5416
+  quote: In the mind of the public, the UFO problem has to do with space and therefore
+    it is appropriate for NASA to deal with it.
   claim_id: 6f8552da-0e91-4439-bc8f-21f8298c1ece
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-6f8552da-0e91-4439-bc8f-21f8298c1ece
@@ -470,6 +477,9 @@ references:
 - text: Frank Press asked NASA to consider investigating public UFO inquiries.
   source: In Plain Sight
   location: ch11:26304-26526
+  quote: The same thing occurred in July 1977 when the US’s National Aeronautics and
+    Space Administration (NASA) was asked by President Carter’s science adviser Dr
+    Frank Press to consider investigating public ‘inquiries concerning UFOs’.
   claim_id: 8390f7bd-c8ce-40c3-8265-da73b10fcadf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8390f7bd-c8ce-40c3-8265-da73b10fcadf
@@ -491,6 +501,10 @@ references:
     symposium.
   source: In Plain Sight
   location: ch11:26535-26786
+  quote: In December 1977, NASA’s administrator Dr Robert Frosch responded with a
+    remarkable rejection of the White House request, proposing instead that ‘NASA
+    take no steps to establish a research activity in this area [UFOs] or to convene
+    a symposium on the subject’.
   claim_id: 8f637a11-b477-47af-b927-82cda6c3451f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8f637a11-b477-47af-b927-82cda6c3451f
@@ -509,6 +523,8 @@ references:
     the inquiry.
   source: In Plain Sight
   location: ch11:26796-26920
+  quote: There was never any explanation for why the president did not just order
+    NASA to do the inquiry, which he surely could have done.
   claim_id: ff304725-ffb7-4f47-b98b-a9ca6ad5478e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ff304725-ffb7-4f47-b98b-a9ca6ad5478e
@@ -516,6 +532,9 @@ references:
 - text: NASA delivered the Brookings Report to Congress six days after Gagarin's spaceflight.
   source: Dark Mission
   location: ch10:60053-60205
+  quote: Six days later, NASA finally delivered a report they had commissioned on
+    the proposed plan for space exploration—the aforementioned Brookings Report—to
+    Congress.
   claim_id: 8555a5e1-e862-407e-9560-754b9e9527a6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8555a5e1-e862-407e-9560-754b9e9527a6
@@ -523,6 +542,8 @@ references:
 - text: The report had been sitting on the NASA Administrator's desk since 1960-11-30.
   source: Dark Mission
   location: ch10:60215-60352
+  quote: the delivery of the Report, which had been languishing on the desk of the
+    NASA Administrator since November 30, 1960, suddenly had a new urgency
   claim_id: 2746979c-a0ff-4e6b-b5be-7a077c061d9c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2746979c-a0ff-4e6b-b5be-7a077c061d9c
@@ -531,6 +552,8 @@ references:
     NASA cover-up policy.
   source: Dark Mission
   location: ch10:52218-52346
+  quote: who featured it in his final Report as strongly indicating a long-standing
+    potential NASA policy of “cover-up” on this specific issue.
   claim_id: 09c66cc9-3488-4adc-85f4-d33598601c5d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-09c66cc9-3488-4adc-85f4-d33598601c5d
@@ -539,6 +562,7 @@ references:
     by NASA on the Moon or Mars.
   source: Dark Mission
   location: ch10:55316-55379
+  quote: 1. Artifacts are likely to be found by NASA on the Moon and\or Mars.
   claim_id: 17e766cc-0a98-4926-9ede-a039ac9876fa
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-17e766cc-0a98-4926-9ede-a039ac9876fa
@@ -547,6 +571,8 @@ references:
     suggestion.
   source: Dark Mission
   location: ch10:60390-60532
+  quote: as if he was responding directly to the calls in the Report for NASA to consider
+    suppression of the discovery of ET artifacts, Kennedy made a speech
   claim_id: 1b3fb756-bcb7-4b1d-8740-ff34f748a73e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1b3fb756-bcb7-4b1d-8740-ff34f748a73e
@@ -555,6 +581,10 @@ references:
     findings.
   source: Dark Mission
   location: '65'
+  quote: In Mars exploration since 1976, NASA has discovered evidence of microbial
+    life in two Viking-era experiments...In each case, at each crossroad, they have
+    chosen to debunk, ignore, suppress and even destroy the evidence that could support
+    a finding of current-day life on Mars.
   claim_id: 77d04910-c0c4-4737-89f5-89068788998a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-77d04910-c0c4-4737-89f5-89068788998a
@@ -562,6 +592,10 @@ references:
 - text: Throughout the 1980s NASA's official position on Cydonia was uniformly caustic.
   source: Dark Mission
   location: ch10:289-577
+  quote: Throughout the 1980s, though many NASA officials and prominent scientists
+    expressed interest and curiosity about the results of Hoagland’s independent research
+    behind the scenes, the Agency’s quarter-century-long position on Cydonia—as well
+    as the position of its planetary scientists—was uniformly caustic.
   claim_id: 782b76c3-f389-4e4a-a9ae-dc0cd363bb97
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-782b76c3-f389-4e4a-a9ae-dc0cd363bb97
@@ -569,6 +603,8 @@ references:
 - text: Hoagland was invited on five occasions by NASA facilities to present on Cydonia.
   source: Dark Mission
   location: ch10:2137-2274
+  quote: he was invited on no less than five occasions by various NASA facilities
+    to make presentations to the Agency employees on the subject of Cydonia
   claim_id: 3452daef-d9d5-4ebf-9289-6a5da3b72641
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3452daef-d9d5-4ebf-9289-6a5da3b72641
@@ -576,6 +612,8 @@ references:
 - text: His first NASA/Lewis presentation took place on 1990-03-20.
   source: Dark Mission
   location: ch10:2886-2979
+  quote: The reality is that Hoagland’s initial NASA/Lewis presentation, on March
+    20, 1990, was quite significant.
   claim_id: a2b8a5bb-7fa0-45b5-9bea-a0773892077c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a2b8a5bb-7fa0-45b5-9bea-a0773892077c
@@ -583,6 +621,8 @@ references:
 - text: The presentation was videotaped and released as Hoagland's Mars, Vol. 1.
   source: Dark Mission
   location: ch10:2283-2426
+  quote: One of these appearances, at Cleveland’s NASA/Lewis (now NASA/Glenn) facility
+    was videotaped and eventually released as Hoagland’s Mars, Vol. 1.
   claim_id: dfff48f5-360c-414f-bacd-3ed148d4d97d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-dfff48f5-360c-414f-bacd-3ed148d4d97d
@@ -591,6 +631,8 @@ references:
     NASA artificiality standards.
   source: Dark Mission
   location: ch10:1423-1537
+  quote: that Cydonia did not meet established NASA standards for possible artificiality
+    (no such standards have ever been published)
   claim_id: 4ffcb3db-7543-4e0d-9d57-bae5a7da0b3c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4ffcb3db-7543-4e0d-9d57-bae5a7da0b3c
@@ -599,6 +641,8 @@ references:
     out of the ordinary.
   source: Dark Mission
   location: ch10:2734-2875
+  quote: Foremost among them is Dr. John Kleinberg, who now claims (at least according
+    to Posner) that Hoagland’s appearances were nothing out of the ordinary.
   claim_id: e7b618be-c790-4f88-9072-eb5a8bbf8116
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e7b618be-c790-4f88-9072-eb5a8bbf8116
@@ -607,6 +651,9 @@ references:
     from outside NASA.
   source: Dark Mission
   location: ch11:10625-10820
+  quote: Still measuring, he copied down the Apollo 10 frame number. The next step
+    involved attempting to acquire, from sources outside NASA, Apollo 10 photographic
+    maps and other data pertaining to this image.
   claim_id: adec54ca-6f36-40dd-8a10-07c439285d99
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-adec54ca-6f36-40dd-8a10-07c439285d99
@@ -615,6 +662,11 @@ references:
     to transfer Apollo films for the research.
   source: Dark Mission
   location: ch11:102387-102715
+  quote: at Hoagland's request Stevens rented a U-Haul, loaded up his "floating bed
+    film viewer/projector" in L.A., and *personally* drove the equipment 10,000 miles
+    (round trip) from Los Angeles to the Goddard Spaceflight Center, just outside
+    Washington, D.C., and back—just to transfer key Apollo mission films to video
+    for Hoagland's research.
   claim_id: 6f2dc432-95b9-4e19-a11b-1822adf26798
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6f2dc432-95b9-4e19-a11b-1822adf26798
@@ -623,6 +675,9 @@ references:
     uncertainty.
   source: Dark Mission
   location: ch11:101235-101454
+  quote: Because this official "landing uncertainty" had dragged on for several weeks,
+    well after the crew had returned and been debriefed, NASA was determined to refine
+    the lunar landing procedures for the next Mission, Apollo 12.
   claim_id: f82b146a-cf2b-4299-a5c0-210f62ca3563
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f82b146a-cf2b-4299-a5c0-210f62ca3563
@@ -631,6 +686,10 @@ references:
     be targeted before Mars Observer's launch.
   source: Dark Mission
   location: ch10:28977-29273
+  quote: By 1992, with the September launch of Mars Observer approaching, McDaniel
+    entered the fray. Using various political and academic contacts, he put pressure
+    on NASA and JPL from several directions, forcing them to address, *on the record*,
+    just why they were not able to target Cydonia or the Face specifically.
   claim_id: ebe07860-5ff6-4fa2-9e62-5bfba7d112d0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ebe07860-5ff6-4fa2-9e62-5bfba7d112d0
@@ -639,6 +698,10 @@ references:
     pointed the camera.
   source: Dark Mission
   location: ch10:25468-25716
+  quote: Hoagland and the other researchers then began to lobby NASA and Congress
+    to target the formations, only to make an extremely unpleasant discovery. Neither
+    NASA nor Congress had anything to say about where Michael Malin had pointed his
+    Mars Orbiter camera.
   claim_id: 57cb3e6f-4d0e-4283-b0c1-e93cf741a561
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-57cb3e6f-4d0e-4283-b0c1-e93cf741a561
@@ -646,6 +709,10 @@ references:
 - text: NASA sold exclusive Mars Observer data rights to Malin.
   source: Dark Mission
   location: ch10:25725-25976
+  quote: In an unprecedented move, NASA had decided to sell the rights to all of the
+    data collected by the Observer to Malin himself, in an exclusive arrangement that
+    gave Malin godlike powers over when, or even *if*, he decided to release any data
+    the camera collected.
   claim_id: fe162671-3014-4020-9ea1-8c8b08727150
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fe162671-3014-4020-9ea1-8c8b08727150
@@ -654,6 +721,9 @@ references:
     live.
   source: Dark Mission
   location: ch10:26268-26503
+  quote: This marked the first time in NASA history that data returning from an unmanned
+    space probe would not be seen “live,” as it had all throughout the preceding 30
+    plus years of Mariner, Lunar Orbiter, Surveyor, Apollo, Viking and Voyager Missions.
   claim_id: ea5301dc-ddc9-49bc-9097-44db9d5a48dd
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ea5301dc-ddc9-49bc-9097-44db9d5a48dd
@@ -662,6 +732,11 @@ references:
     bids.
   source: Dark Mission
   location: ch10:26564-26900
+  quote: NASA claimed that in order to assure that private contractors would bid on
+    future space projects like Mars Observer, they had to guarantee an “exclusive
+    rights period” to the private contractors/scientists, so that they could write
+    the first scientific papers from the data collected “without unfair competition
+    from other, non-project scientists.”
   claim_id: 40ade504-81b3-4c71-80d4-4e98e253528b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-40ade504-81b3-4c71-80d4-4e98e253528b
@@ -669,6 +744,10 @@ references:
 - text: NASA technicians found shroud contamination on Mars Observer in August 1992.
   source: Dark Mission
   location: ch10:30070-30306
+  quote: In late August 1992, during a routine inspection of the spacecraft on the
+    launch pad, NASA technicians discovered severe contamination, inexplicably *inside*
+    the protective shroud, consisting of “metal filings, paint chips and assorted
+    trash.”
   claim_id: 6d269a9b-9181-4a1e-a08b-77ab8cb44188
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6d269a9b-9181-4a1e-a08b-77ab8cb44188
@@ -676,6 +755,8 @@ references:
 - text: NASA never cited a specific cause for the contamination.
   source: Dark Mission
   location: ch10:30576-30668
+  quote: But the Agency never actually cited a specific cause for the contamination
+    from its (brief) investigation.
   claim_id: add72d55-e7c1-45a7-9d76-2e5d30c8dbb1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-add72d55-e7c1-45a7-9d76-2e5d30c8dbb1
@@ -683,6 +764,11 @@ references:
 - text: NASA changed its data-embargo and imaging plans weeks before the orbital burn.
   source: Dark Mission
   location: ch10:36194-36586
+  quote: Then, just weeks before Mars Observer’s scheduled orbital insertion burn
+    and the delivery of McDaniel’s report to both Congress and NASA, the Agency suddenly
+    decided to change plans. NASA indicated a willingness to reconsider not only its
+    position on the data embargo and the lack of live televised images from the Orbiter,
+    but also announced that they were considering a radical new science plan.
   claim_id: 6d3ca638-5008-410d-bd48-3d79e7980c68
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6d3ca638-5008-410d-bd48-3d79e7980c68
@@ -691,6 +777,8 @@ references:
     days early.
   source: Dark Mission
   location: ch10:36882-37003
+  quote: NASA’s solution was to try a “power in” maneuver that would place the spacecraft
+    in a mapping orbit some twenty-one days early.
   claim_id: da47419a-e950-4525-a70f-5e5d095ba83a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-da47419a-e950-4525-a70f-5e5d095ba83a
@@ -699,6 +787,8 @@ references:
     burn.
   source: Dark Mission
   location: ch10:42163-42312
+  quote: NASA, in another unprecedented move, had inexplicably ordered Mars Observer
+    to shut off its primary data stream prior to executing a key pre-orbital burn.
   claim_id: 16e5c561-6782-4fbe-8022-92ec304a79f0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-16e5c561-6782-4fbe-8022-92ec304a79f0
@@ -707,6 +797,8 @@ references:
     no cause was determined.
   source: Dark Mission
   location: ch10:42826-42978
+  quote: Instead, because NASA had violated the first rule of space travel—you never
+    turn off the radio—no cause for the probe’s loss was ever satisfactorily determined.
   claim_id: 4a6bfe12-3748-443a-88e6-41219b8e36cf
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4a6bfe12-3748-443a-88e6-41219b8e36cf
@@ -715,6 +807,10 @@ references:
     outside JPL's Mars Observer Control Center.
   source: Dark Mission
   location: ch10:43312-43600
+  quote: Through the overtime efforts of long-time friend, independent Mars investigation
+    supporter and colleague on the West Coast, David Laverty, they managed to pull
+    together a reasonable gathering right outside NASA’s Mars Observer Control Center—three
+    thousand miles away from Washington, at JPL.
   claim_id: b6256cc2-8c51-483a-9aff-0d93587387da
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b6256cc2-8c51-483a-9aff-0d93587387da
@@ -723,6 +819,10 @@ references:
     spacecraft story.
   source: Dark Mission
   location: ch10:43606-43892
+  quote: The local and national TV shots of “the people”—vocally demonstrating against
+    NASA’s planned Cydonia secrecy, and for the first time in the Agency’s decades-long
+    history—dominated CNN (and other network) coverage of the “missing Mars Observer
+    story” throughout the remainder of the day.
   claim_id: 68bcbd29-1396-4077-bed9-2b2466b3575f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-68bcbd29-1396-4077-bed9-2b2466b3575f
@@ -731,6 +831,9 @@ references:
     policy.
   source: Dark Mission
   location: ch10:50790-50963
+  quote: As we have shown, The McDaniel Report played a key role in pressuring NASA
+    to abandon its position that the principal investigator holds all data rights
+    from future space probes.
   claim_id: b3ee466d-ff9b-440e-92c9-d5d86c1a6027
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b3ee466d-ff9b-440e-92c9-d5d86c1a6027

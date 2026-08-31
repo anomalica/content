@@ -57,6 +57,9 @@ references:
     and Space Sciences Committee, and was a former SSCI chairman
   source: In Plain Sight
   location: ch27:19147-19327
+  quote: Goldwater was a very senior Senator; he served on the Armed Services Committee,
+    the Aeronautical and Space Sciences Committee, and was a former chairman of the
+    Senate Intelligence Committee.
   claim_id: 8b72cc0d-2659-420d-ae47-138a2023f3f3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8b72cc0d-2659-420d-ae47-138a2023f3f3
@@ -64,6 +67,8 @@ references:
 - text: Harry Reid served for two years on the Senate Select Committee on Intelligence
   source: In Plain Sight
   location: ch17:1214-1343
+  quote: He also served for two years on one of the Senate's most powerful committees,
+    the Select Committee on Intelligence.
   claim_id: d522cd02-b439-4e56-bd47-78f2c8d16132
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d522cd02-b439-4e56-bd47-78f2c8d16132
@@ -71,6 +76,8 @@ references:
 - text: Christopher Mellon was a staffer to the committee in Washington DC
   source: In Plain Sight
   location: ch13:7678-7761
+  quote: A staffer to the powerful US Senate Select Committee on Intelligence in Washington
+    DC
   claim_id: 83c001d4-c605-46ed-acfd-2f62fa8c8999
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-83c001d4-c605-46ed-acfd-2f62fa8c8999
@@ -88,6 +95,9 @@ references:
     Programs
   source: In Plain Sight
   location: ch13:9050-9253
+  quote: His role on the Senate Intelligence Committee staff required him to review
+    top-secret Sensitive Compartmented Information (SCI) projects inside Special Access
+    Programs (SAPs), most of which still remain classified.
   claim_id: 3001af87-f811-4ab3-8454-e641775abf6d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3001af87-f811-4ab3-8454-e641775abf6d
@@ -96,6 +106,9 @@ references:
     Range, for the committee
   source: In Plain Sight
   location: ch13:9266-9479
+  quote: One of the top-secret Department of Defense sites Mellon monitored for the
+    Senate Intelligence Committee was Area 51, a highly secure US Air Force facility
+    within the massive Nevada test range.
   claim_id: 86acde03-2c78-4459-a2ad-d227d1609f8d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-86acde03-2c78-4459-a2ad-d227d1609f8d
@@ -116,6 +129,9 @@ references:
     vehicles
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:12697-12864
+  quote: he went on to brief DoD agencies and staff members from both the Senate Armed
+    Services Committee and the Senate Select Committee on Intelligence on this very
+    topic as well
   claim_id: 8a89e117-678f-49f7-8c52-672a96cd2e99
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8a89e117-678f-49f7-8c52-672a96cd2e99
@@ -124,6 +140,9 @@ references:
     and members of Congress
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:1700-1896
+  quote: The first step of the strategy would be to engage key professional staff
+    on the Senate Select Committee on Intelligence (SSCI) and the Senate Armed Services
+    Committee (SASC) as well as members of Congress.
   claim_id: 4bd1a106-7164-402c-a625-ab24ffd3c681
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4bd1a106-7164-402c-a625-ab24ffd3c681
@@ -132,6 +151,9 @@ references:
     pilot sightings
   source: In Plain Sight
   location: ch28:26614-26815
+  quote: in late 2020, the US's powerful Senate Intelligence Committee also demanded
+    US intelligence agencies and the Defence Department compile a report on all data
+    collected on UAPs, including the navy pilot sightings.
   claim_id: a8496531-a608-4712-8976-2e3ce23befc7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a8496531-a608-4712-8976-2e3ce23befc7
@@ -161,6 +183,7 @@ references:
 - text: The report was due in June 2021 but was likely to be delayed
   source: In Plain Sight
   location: ch28:26826-26880
+  quote: That report was due in June 2021 but was likely to be delayed.
   claim_id: 51ece265-ac9f-4fc5-8aee-a88879ae9133
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-51ece265-ac9f-4fc5-8aee-a88879ae9133
@@ -181,6 +204,9 @@ references:
 - text: Warner and Rubio publicly supported UAP legislation in the FY2023 NDAA
   source: In Plain Sight
   location: ch30:13954-14150
+  quote: Both the former chairman of the Senate Select Committee for Intelligence,
+    Democrat Senator Mark Warner and his replacement, Republican Senator Marco Rubio,
+    strongly and publicly supported the UAP legislation.
   claim_id: 869a8653-cc65-47c0-ba8e-792f70dba6ec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-869a8653-cc65-47c0-ba8e-792f70dba6ec
@@ -231,6 +257,11 @@ references:
     AARO, fearing a honey trap
   source: The Fourth Mind
   location: ch29:29749-30124
+  quote: 'Question 1: Amazing story. Have you shared this with the Senate Select Commission
+    on Intelligence or with AARO and do you have evidence to back this up? Thank you,
+    no I haven''t and no I won''t. It sounds like a honey trap to me. I will not place
+    my life in the hands of politicians. I have no proof other than this message.
+    I know it''s not much but it''s what I''m prepared to offer'
   claim_id: 84f07469-aa64-4c12-a4e2-b5b90dce9a58
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-84f07469-aa64-4c12-a4e2-b5b90dce9a58

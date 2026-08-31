@@ -69,6 +69,7 @@ references:
     C. Hoagland.
   source: Dark Mission
   location: ch11:75549-75615
+  quote: he met Ken Johnston, a Boeing engineer at the time and a licensed pilot
   claim_id: 908abf28-41ba-4aaf-8a4d-9d61ba48b085
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-908abf28-41ba-4aaf-8a4d-9d61ba48b085
@@ -77,6 +78,12 @@ references:
     cliff and finding artificial ruins.
   source: Dark Mission
   location: ch19:14127-14565
+  quote: The poster had been commissioned by the Boeing Company and designed, as all
+    such materials are, to raise awareness and inspire enthusiasm for a given program.
+    In this case, the artists saw fit to inspire their workers and the public by creating
+    a depiction of NASA astronauts ascending a cliff (perhaps the Cliff, as there
+    is a suspiciously "Face-like" edifice in the background) and encountering nothing
+    less than clearly artificial ruins
   claim_id: 2f41a971-ff9c-4802-a6fb-2f38247c896a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2f41a971-ff9c-4802-a6fb-2f38247c896a
@@ -85,6 +92,11 @@ references:
     Washington, in 1997.
   source: Dark Mission
   location: ch19:13738-14121
+  quote: In 1997, the brother of one of the authors, Dave Bara, was walking through
+    an office area of the Boeing Company in Renton, Washington, which had just been
+    vacated by a relocated organization. On the wall of an abandoned cubicle, he spotted
+    a poster that he instantly knew to be highly significant. It was from the 1989
+    White House Mars Exploration Program proposed by then-President Bush.
   claim_id: 2909aefe-359c-4b38-b2c0-4882c3ccfab6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2909aefe-359c-4b38-b2c0-4882c3ccfab6
@@ -93,6 +105,9 @@ references:
     Aerospace and President Bush's office around 1985.
   source: Dark Mission
   location: ch5:25600-25768
+  quote: The commission for the painting came through the President's [George Herbert
+    Walker Bush] office via Boeing Aerospace, with whom I was working for at the time
+    (1985 or so?)
   claim_id: aecd8401-7413-4d30-8623-6318d3cc8d1c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-aecd8401-7413-4d30-8623-6318d3cc8d1c
@@ -101,6 +116,8 @@ references:
     painting.
   source: Dark Mission
   location: ch5:26170-26297
+  quote: I submitted the rough concept drawings through Boeing, was accepted, and
+    continued on to finish the painting as you see in the poster.
   claim_id: 43b9de95-64ce-49ab-9291-876a214ce3a1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-43b9de95-64ce-49ab-9291-876a214ce3a1
@@ -109,6 +126,8 @@ references:
     version had the ruins removed.
   source: Dark Mission
   location: ch5:24539-24670
+  quote: I've even seen a version of this poster used by the Planetary Society but
+    with the artifacts removed, because they felt it wasn't "appropriate."
   claim_id: bf513a25-ad19-4c4d-8486-97c0302d82ed
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bf513a25-ad19-4c4d-8486-97c0302d82ed
@@ -117,6 +136,9 @@ references:
     fate was unknown.
   source: Dark Mission
   location: ch5:27205-27410
+  quote: as far as I was told, no one knew what ever became of the original painting
+    or all of the posters (again, if I remember correctly, Boeing was told not to
+    give the posters out at any of the numerable trade shows)
   claim_id: 4feed9f6-b645-479a-9c15-9e401e26d76d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4feed9f6-b645-479a-9c15-9e401e26d76d
@@ -125,6 +147,10 @@ references:
     Nazi heritage and Masonic ties.
   source: Dark Mission
   location: ch5:27577-27843
+  quote: it has come to my attention that the image is used to bolster claims of the
+    President's Nazi heritage, and that, being both a Mason and a Nazi, the only reason
+    he wanted to send men to Mars was to return the Brotherhood back to the old stomping
+    grounds of the Aryan race
   claim_id: a0cb7975-108d-4fd3-a886-8356d22b57ff
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a0cb7975-108d-4fd3-a886-8356d22b57ff
@@ -133,6 +159,9 @@ references:
     without his knowledge.
   source: Dark Mission
   location: ch5:27920-28129
+  quote: Apparently there are quite a few Masonic symbols embedded in the painting
+    as well... if there is any credence to these theories, they were quite by accident,
+    or entirely without my knowing.
   claim_id: 6939279d-343e-44f9-a1ca-5359487817f6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6939279d-343e-44f9-a1ca-5359487817f6
@@ -140,6 +169,9 @@ references:
 - text: Hudson confirmed a depicted black man among the painting's pillars was intentional.
   source: Dark Mission
   location: ch5:28441-28601
+  quote: We had one further communication regarding the apparent image of a black
+    man in the stack of pillars in the painting, and he confirmed that the ethnic
+    take was intentional.
   claim_id: e980a36b-d275-4394-a26c-b474972afb25
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e980a36b-d275-4394-a26c-b474972afb25
@@ -147,6 +179,9 @@ references:
 - text: Bara doubted Hudson could have missed the Masonic symbols in his own painting.
   source: Dark Mission
   location: ch5:28754-28954
+  quote: I found it fascinating that he volunteered information about Masonic symbols
+    on his own work, which he denied knowing were there. It seems improbable that
+    he didn't notice them; after all, he painted them.
   claim_id: c3c80f6d-d9d0-4f65-ba14-df7b328dd929
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c3c80f6d-d9d0-4f65-ba14-df7b328dd929
@@ -155,6 +190,9 @@ references:
     submitting a detailed proposal.
   source: Dark Mission
   location: ch5:28960-29120
+  quote: He seemed anxious to dispel any notion that the Bush administration supported
+    his work, even though he submitted a detailed proposal before starting the actual
+    painting.
   claim_id: 48ab2b11-9178-4edc-bb7f-11f841573dd9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-48ab2b11-9178-4edc-bb7f-11f841573dd9
@@ -163,6 +201,8 @@ references:
     CEV contract.
   source: Dark Mission
   location: ch19:80349-80445
+  quote: As the spring of 2006 bloomed, all signs pointed to Northrop-Grumman-Boeing
+    getting the initial contract.
   claim_id: f7b82c88-30ae-4318-a71c-8dfbff6c4a7b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f7b82c88-30ae-4318-a71c-8dfbff6c4a7b
@@ -171,6 +211,8 @@ references:
     the Blair Cuspids.
   source: Dark Mission
   location: ch8:22463-22587
+  quote: William Blair, a Boeing anthropologist, noted that the "spires" had a series
+    of contextual, geometric relationships to each other.
   claim_id: b6c9228f-b037-4c60-b33e-f5294abb4575
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b6c9228f-b037-4c60-b33e-f5294abb4575
@@ -179,6 +221,9 @@ references:
     into 3D structures.
   source: Dark Mission
   location: ch6:8006-8212
+  quote: According to a Boeing Study (that Mike reminds me about constantly), only
+    about one-third of the population can rotate 2-D images in their brains, and then
+    see the 3-D geometric structures present in those images
   claim_id: d015db9f-9c48-4603-b17f-859a7862a9e9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d015db9f-9c48-4603-b17f-859a7862a9e9
@@ -237,6 +282,9 @@ references:
     Boeing, and Lockheed.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:20529-20690
+  quote: My primary job was to lock down sensitive, top secret technology from foreign
+    spies who were targeting major defense contractors like TRW, Raytheon, Boeing,
+    and Lockheed.
   claim_id: e59c0f57-d34c-4691-b499-4cc425233baf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e59c0f57-d34c-4691-b499-4cc425233baf
@@ -245,6 +293,11 @@ references:
     including Phantom Works.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:1871-2184
+  quote: 'At the time, I had a large corner office in a building the Pentagon rented
+    in {{redacted: ~3 words}} {{redacted: ~2 words}} Arlington, Virginia. Among other
+    things, the building housed various departments of Boeing Aerospace, including
+    Phantom Works, the division that is charged with dreaming up Boeing''s future
+    tech.'
   claim_id: d99d03f6-993f-42ce-b30d-6b4355c8dfa1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d99d03f6-993f-42ce-b30d-6b4355c8dfa1
@@ -252,6 +305,8 @@ references:
 - text: Boeing Phantom Works is the division developing Boeing's future technology.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:2036-2184
+  quote: the building housed various departments of Boeing Aerospace, including Phantom
+    Works, the division that is charged with dreaming up Boeing's future tech.
   claim_id: 6de6d7f2-c5f8-4c32-85c7-559824bb8432
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6de6d7f2-c5f8-4c32-85c7-559824bb8432
@@ -260,6 +315,9 @@ references:
     to retrieve and reverse-engineer crash materials.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:4633-4853
+  quote: The big names included Lockheed Martin, TRW, McDonnell Douglas, Northrop
+    Grumman, Boeing, Raytheon, BAE Systems, and the Aerospace Corporation, all of
+    which have long been principal members of the US military-industrial complex.
   claim_id: a7f3a152-7714-45c3-8e1e-ff2cbc757810
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810

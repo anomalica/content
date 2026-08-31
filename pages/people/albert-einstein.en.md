@@ -85,6 +85,8 @@ references:
     of Relativity
   source: In Plain Sight
   location: ch28:401-486
+  quote: In 1916, Albert Einstein predicted gravity waves must exist as part of his
+    Theory of Relativity.
   claim_id: 345d9e36-b740-4f02-9686-ab67d066322b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-345d9e36-b740-4f02-9686-ab67d066322b
@@ -93,6 +95,12 @@ references:
     and electromagnetism
   source: Dark Mission
   location: ch9:28544-29049
+  quote: At that time, a remarkable letter was delivered to one Albert Einstein. Written
+    by Theodr Kaluza, an obscure mathematician at the University of Konigsberg in
+    Germany, the letter’s first few lines offered a startling solution... to one of
+    physics’ still most intractable problems, the mathematical unification of his
+    own theory of gravity with Maxwell’s theory of electromagnetic radiation via introduction
+    of a fifth dimension.
   claim_id: 28b7a83a-2d32-44c5-b54f-1f9cb1484e27
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-28b7a83a-2d32-44c5-b54f-1f9cb1484e27
@@ -101,6 +109,10 @@ references:
     fourth
   source: Dark Mission
   location: ch9:29061-29301
+  quote: Because Einstein, in formulating the General and Special Theory of Relativity
+    in the intervening years since Reimann, had already appropriated time as the fourth
+    dimension, Kaluza was forced to specify his additional spatial dimension as a
+    fifth.
   claim_id: 04c4a6a4-ce90-46f0-9e63-dd6c1df4e461
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-04c4a6a4-ce90-46f0-9e63-dd6c1df4e461
@@ -108,6 +120,11 @@ references:
 - text: Cartan's 1913 refinement of general relativity introduced spacetime torsion
   source: Dark Mission
   location: ch9:93688-94032
+  quote: The theoretical "father" of torsion physics is generally considered to be
+    French mathematician, Dr Elie-Joseph Cartan, who in 1913 published a refinement
+    of Einstein's General Theory of Relativity, whereby curved "spacetime" could flow
+    in spiral patterns around *rotating* objects, a phenomenon not originally dealt
+    with in Relativity, termed "torsion."
   claim_id: 17a45403-03f2-472e-93d9-569fd7169d7a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-17a45403-03f2-472e-93d9-569fd7169d7a
@@ -116,6 +133,8 @@ references:
     from atom-smasher experiments
   source: Dark Mission
   location: ch9:32164-32311
+  quote: The rapidly multiplying populations of “fundamental particles” spawned by
+    this bizarre mathematical world led Einstein to refer to the theory as “sorcery.”
   claim_id: 60fbb4d7-100c-4b17-b13b-f7b959b87f2b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-60fbb4d7-100c-4b17-b13b-f7b959b87f2b
@@ -124,6 +143,9 @@ references:
     posed by the physical universe
   source: Dark Mission
   location: ch9:32321-32477
+  quote: Later, even though he accepted some of the experimental results, he remained
+    skeptical that it was a complete answer to the questions posed by the physical
+    universe.
   claim_id: 30a9a987-a413-4644-b682-d523b38b6381
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-30a9a987-a413-4644-b682-d523b38b6381
@@ -144,6 +166,9 @@ references:
 - text: In 1932 Einstein said nuclear energy would probably never be obtainable
   source: Communion
   location: ch15:3622-3800
+  quote: In 1932 Dr. Albert Einstein stated, "There is not the slightest indication
+    that nuclear energy will ever be obtainable. It would mean that the atom would
+    have to be shattered at will."
   claim_id: cb8eaa64-a0e5-41f8-8980-3fa53fba1780
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-cb8eaa64-a0e5-41f8-8980-3fa53fba1780
@@ -152,6 +177,8 @@ references:
     bomb
   source: Communion
   location: ch15:3807-3961
+  quote: Within the decade, he would write President Roosevelt the letter that started
+    the United States on the road to splitting the atom and creating the atomic bomb.
   claim_id: 27604bc0-92f9-4608-9fde-c4662dbf79a1
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-27604bc0-92f9-4608-9fde-c4662dbf79a1
@@ -317,6 +344,9 @@ references:
     bows and arrows'
   source: The Fatima Secret
   location: ch18:2628-2835
+  quote: 'One is reminded of Einstein’s answer to a question about how a third world
+    war would end: ‘I don’t know. One thing, however, is certain—should any other
+    war occur after that, it will be fought with bows and arrows.’ ”'
   claim_id: 3345f4e7-6b6f-4b58-96d3-20bbae3c7d93
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-3345f4e7-6b6f-4b58-96d3-20bbae3c7d93
@@ -325,6 +355,9 @@ references:
     a primitive state'
   source: The Fatima Secret
   location: ch22:6628-6802
+  quote: After the tenth secret is fulfilled, “those left on earth will live in harmony
+    with God,” which may hint that mankind will be returned to a primitive state,
+    just as Einstein predicted.
   claim_id: 2caad48b-2a5e-4ace-bac0-258568e47bd7
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-2caad48b-2a5e-4ace-bac0-258568e47bd7
@@ -333,6 +366,8 @@ references:
     Einstein'
   source: The Fatima Secret
   location: ch23:8114-8260
+  quote: The “holoraphic view of the universe,” as the British scientist Ken Wilber
+    calls it, has been proposed by Planck, Einstein, and many other major scientists.
   claim_id: 33f8b670-66e3-49cf-8569-4771269b18c6
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-33f8b670-66e3-49cf-8569-4771269b18c6

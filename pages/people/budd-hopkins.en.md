@@ -427,6 +427,8 @@ references:
     the Whitney.
   source: Communion
   location: ch9:44619-44733
+  quote: Anne and I are interested in art and Hopkins is a well-known abstract artist,
+    collected by the Guggenheim and the Whitney.
   claim_id: 47584f64-b13c-4e9d-bcfa-a4e5b439b583
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-47584f64-b13c-4e9d-bcfa-a4e5b439b583
@@ -434,6 +436,7 @@ references:
 - text: Budd Hopkins was also a sculptor.
   source: Surviving Death
   location: ch24:6463-6479
+  quote: (Budd was also a sculptor.)
   claim_id: d4b497cf-d3df-4144-ae02-fb9b8057ff32
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d4b497cf-d3df-4144-ae02-fb9b8057ff32
@@ -441,6 +444,8 @@ references:
 - text: Painting was his main career, with his UFO investigation work coming later.
   source: Surviving Death
   location: ch24:4722-4849
+  quote: (Budd was an established painter whose work was in the collections of major
+    museums. This was his main career—the UFO work came later.)
   claim_id: b548e0f9-d05c-430c-92a5-9db94c93d1b4
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-b548e0f9-d05c-430c-92a5-9db94c93d1b4
@@ -448,6 +453,7 @@ references:
 - text: His actual first name was Elliott.
   source: Surviving Death
   location: ch24:5563-5622
+  quote: This was Budd’s actual first name, also spelled with two t’s.
   claim_id: 82f5ec1b-154a-4040-bb6e-91c40bfd4ae8
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-82f5ec1b-154a-4040-bb6e-91c40bfd4ae8
@@ -455,6 +461,7 @@ references:
 - text: Had lived in New York since the 1950s.
   source: Surviving Death
   location: ch24:5854-5889
+  quote: (He had lived in New York since the 1950s.)
   claim_id: 034d9b69-0e16-40c1-90ad-f0f56b21b28c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-034d9b69-0e16-40c1-90ad-f0f56b21b28c
@@ -462,6 +469,7 @@ references:
 - text: Was married three times and had many affairs.
   source: Surviving Death
   location: ch24:6569-6609
+  quote: (He was married three times and had many affairs.)
   claim_id: a2742252-2a3c-41fd-9b92-843107d613a7
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a2742252-2a3c-41fd-9b92-843107d613a7
@@ -469,6 +477,7 @@ references:
 - text: His daughter was named Grace.
   source: Surviving Death
   location: ch24:6942-6965
+  quote: (His daughter’s name is Grace.)
   claim_id: 7f0320a0-77a4-485d-8976-be77ea120165
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7f0320a0-77a4-485d-8976-be77ea120165
@@ -476,6 +485,7 @@ references:
 - text: Died two months after his eightieth birthday.
   source: Surviving Death
   location: ch24:5774-5815
+  quote: (Budd died two months after his eightieth birthday.)
   claim_id: f1a04756-7806-4f4a-aeb5-82f0429d9656
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f1a04756-7806-4f4a-aeb5-82f0429d9656
@@ -484,6 +494,8 @@ references:
     and had problems with the co-owner.
   source: Surviving Death
   location: ch24:5980-6128
+  quote: (His daughter was trying to sell the town house he had lived in for fifty
+    years and was having serious problems with the co-owner who didn’t want to sell.)
   claim_id: 8934a287-3aac-41ee-85cf-5eaca58083af
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8934a287-3aac-41ee-85cf-5eaca58083af
@@ -491,6 +503,8 @@ references:
 - text: Had been a UFO investigator for two decades by the time he met Leslie Kean.
   source: Surviving Death
   location: ch24:5017-5113
+  quote: He had been a UFO investigator for two decades, and I had been reporting
+    on UFOs for about four years.
   claim_id: 1788c00c-9459-4035-a341-767331f39d11
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1788c00c-9459-4035-a341-767331f39d11
@@ -499,6 +513,8 @@ references:
     York to discuss one of his cases.
   source: Surviving Death
   location: ch24:4914-5013
+  quote: I first met Budd at a UFO conference and then in New York to discuss a case
+    of his that interested me.
   claim_id: 92fc54b0-11f1-4945-8498-d5bdca9c8393
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-92fc54b0-11f1-4945-8498-d5bdca9c8393
@@ -507,6 +523,8 @@ references:
     beings, referred to as "star people".
   source: Surviving Death
   location: ch24:5164-5292
+  quote: (Budd’s focus was on people who claimed to have had encounters with extraterrestrial
+    beings—“star people”—and the work connected us.)
   claim_id: a1573f6f-d951-4269-acc2-141d00e41864
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a1573f6f-d951-4269-acc2-141d00e41864
@@ -514,6 +532,9 @@ references:
 - text: Had dealt with more than a hundred cases and understood the pattern of response.
   source: Communion
   location: ch14:53524-53702
+  quote: Budd Hopkins has developed great sensitivity to the problems people face
+    after they encounter the visitors. He has dealt with more than a hundred cases,
+    and knows the pattern of response.
   claim_id: 26b4083c-a408-4084-9e07-1d66f8a28973
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-26b4083c-a408-4084-9e07-1d66f8a28973
@@ -541,6 +562,10 @@ references:
     traces, biopsy scars, alleged implants and testimony.'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch22:579-935
+  quote: 'those people who believe in the UFO scenario tend to accept the investigations
+    of authors such as B. Hopkins195 or J. Mack196, who have provided circumstantial
+    evidence for the abduction of humans in terms of: (a) landing-site traces, (b)
+    prominent “biopsy” scars, (c) alleged “implants” ... and (d) testimonies'
   claim_id: 642ae09f-c1d4-4d38-9819-34e11b9f65f9
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-642ae09f-c1d4-4d38-9819-34e11b9f65f9
@@ -659,6 +684,9 @@ references:
     on hypnotic regression.
   source: American Cosmic
   location: ch4:49677-49870
+  quote: The producers used “experts” like artist Budd Hopkins, who used hypnotic
+    regression to access memories of abductions, and included footage of military
+    bases, thus lending the project an air of credibility.
   claim_id: 37ee536b-3705-4380-834e-76b4d1baedf0
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-37ee536b-3705-4380-834e-76b4d1baedf0
@@ -667,6 +695,8 @@ references:
     cards causing some to scream and hug their parents.
   source: American Cosmic
   location: ch4:52210-52302
+  quote: as Budd Hopkins shows children cards featuring aliens, they scream and hug
+    their parents in terror.
   claim_id: 4b1e4adc-b11d-4414-9da3-bda024395929
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4b1e4adc-b11d-4414-9da3-bda024395929
@@ -684,6 +714,8 @@ references:
 - text: Hopkins listened to Strieber's story and invited him over immediately.
   source: Communion
   location: ch9:45093-45182
+  quote: I called Budd Hopkins. He answered the phone and listened to my story for
+    a few minutes... Could I come over — like right now?
   claim_id: bfaf4ad4-6527-472b-9dae-1a0c5376eccf
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-bfaf4ad4-6527-472b-9dae-1a0c5376eccf
@@ -691,6 +723,7 @@ references:
 - text: Hopkins's apartment was a ten-minute walk from Strieber's home.
   source: Communion
   location: ch9:45308-45376
+  quote: It turned out that his place in the city was a ten minute walk from mine.
   claim_id: 238315df-b9da-4b1f-8e1f-79f2162762c0
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-238315df-b9da-4b1f-8e1f-79f2162762c0
@@ -699,6 +732,8 @@ references:
     refer him to one.
   source: Communion
   location: ch9:45565-45693
+  quote: The moment our interview began, Hopkins explained that he was not a therapist
+    but he could put me in touch with one if I wanted that.
   claim_id: df374363-703c-4f99-b846-6c293e7ca7a4
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-df374363-703c-4f99-b846-6c293e7ca7a4
@@ -707,6 +742,9 @@ references:
     help instead.
   source: Communion
   location: ch13:939-1102
+  quote: my initial impulse was to hide everything, and when I could not do that I
+    sought professional help through Budd Hopkins. I told Anne nothing and our son
+    less than nothing.
   claim_id: 9f3280a0-c922-4228-9d45-96bda0d5d584
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-9f3280a0-c922-4228-9d45-96bda0d5d584
@@ -714,6 +752,7 @@ references:
 - text: Budd Hopkins first proposed to hypnotise Whitley Strieber.
   source: The Fourth Mind
   location: ch20:21391-21437
+  quote: When Budd Hopkins first proposed to hypnotize me
   claim_id: 37ca084b-7148-4f03-a396-e0e4ce6df559
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-37ca084b-7148-4f03-a396-e0e4ce6df559
@@ -734,6 +773,9 @@ references:
     seemed open-minded about the phenomenon.
   source: Communion
   location: ch10:1559-1722
+  quote: Hopkins remembered that Dr. Donald Klein of the New York State Psychiatric
+    Institute had expressed interest in the phenomenon and appeared to be open-minded
+    about it.
   claim_id: 8adc0251-ac22-4b56-85fd-95c1c49c6793
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8adc0251-ac22-4b56-85fd-95c1c49c6793
@@ -754,6 +796,8 @@ references:
     both men.
   source: The Fourth Mind
   location: ch20:21980-22096
+  quote: When the alien abduction memories I had presented with only became more detailed
+    under hypnosis, we were both quite surprised
   claim_id: a0539a24-8d8e-47ba-b07a-f4d8319cf545
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-a0539a24-8d8e-47ba-b07a-f4d8319cf545
@@ -762,6 +806,9 @@ references:
     them, permitted to question only at the end.
   source: Communion
   location: ch10:10156-10363
+  quote: I wish to add that Budd Hopkins was present at both of these sessions, recording
+    them. He was allowed to ask questions, but only at the end of each session, and
+    it was understood that his questions would be few.
   claim_id: de23db32-39b4-4419-abd9-38cc4fb60edf
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-de23db32-39b4-4419-abd9-38cc4fb60edf
@@ -771,6 +818,8 @@ references:
     often the worst and it gets easier afterward.
   source: Communion
   location: ch10:17679-17783
+  quote: Budd Hopkins responded. "It's often like this. Beginning moments are the
+    worst. And after that, it gets easier."
   claim_id: 0f93a1d5-31f9-40aa-943d-ccc639e9f0ec
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-0f93a1d5-31f9-40aa-943d-ccc639e9f0ec
@@ -779,6 +828,7 @@ references:
     their bed on the night of October 4, 1985.
   source: Communion
   location: ch13:21326-21351
+  quote: '"Whitley kept going. Kept leaving."'
   claim_id: 2655579b-01be-4fd2-959b-4590d5ea6b72
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-2655579b-01be-4fd2-959b-4590d5ea6b72
@@ -787,6 +837,8 @@ references:
     the stomach.
   source: Communion
   location: ch13:33146-33309
+  quote: '"Like a sharp jab in the stomach, right here. ... And it was like four fingers,
+    not just one finger. It was — *oof!* ... Woke me right up."'
   claim_id: 8e803601-a21f-45f1-80c7-2550b18948b7
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8e803601-a21f-45f1-80c7-2550b18948b7
@@ -795,6 +847,8 @@ references:
     of the results of the first.
   source: Communion
   location: ch13:37534-37617
+  quote: was hypnotized by Dr. Naiman, who still had not been informed of the results
+    of my sessions.
   claim_id: 3fdc67d1-c489-4f49-8d6b-d24cba8b0cd1
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-3fdc67d1-c489-4f49-8d6b-d24cba8b0cd1
@@ -803,6 +857,10 @@ references:
     a heavy door pushed against a wall.
   source: Communion
   location: ch10:33225-33454
+  quote: When I asked Annie Gottlieb what she would have to do to make the sound —
+    I said, 'Suppose you were given resources to make the sound. She said, 'If you
+    had a big, heavy door and you pushed it back against the wall, *bang*, like that
+    —'
   claim_id: 37e5186f-bec1-4c33-a9da-2e5d0c4111fc
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-37e5186f-bec1-4c33-a9da-2e5d0c4111fc
@@ -811,6 +869,7 @@ references:
     explosion sound.
   source: Communion
   location: ch10:34010-34079
+  quote: We've got four different people to come up with a description of the sound.
   claim_id: a51d1d4a-0071-47a4-aa3a-59586e874e39
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a51d1d4a-0071-47a4-aa3a-59586e874e39
@@ -819,6 +878,9 @@ references:
     lived in the New York area.
   source: Communion
   location: ch14:59262-59433
+  quote: On the night of April 13, 1986, eleven of us met at the home of Budd Hopkins.
+    We were selected simply on the basis of the fact that we live in the New York
+    area and could come.
   claim_id: f4c8daea-9d9f-4535-a3df-a077a73393a0
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-f4c8daea-9d9f-4535-a3df-a077a73393a0
@@ -827,6 +889,8 @@ references:
 - text: Only Strieber and Hopkins used their real names at the colloquy.
   source: Communion
   location: ch14:60163-60310
+  quote: Needless to say, none of these people would allow his or her name to be used.
+    The only real names in the colloquy are thus my own and that of Budd Hopkins.
   claim_id: 1f726ff1-65ec-46aa-a801-0c64dd1815de
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-1f726ff1-65ec-46aa-a801-0c64dd1815de
@@ -835,6 +899,8 @@ references:
     Hopkins was disgusted and thought he was dreaming.
   source: The Fourth Mind
   location: ch11:6975-7093
+  quote: The only person I told about it was Budd Hopkins. He was disgusted and thought
+    I must have been dreaming, so I put it aside.
   claim_id: d573186b-7d34-492a-98e1-dc90f6702525
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d573186b-7d34-492a-98e1-dc90f6702525
@@ -842,6 +908,7 @@ references:
 - text: Neither man wrote publicly about the observation.
   source: The Fourth Mind
   location: ch11:7100-7148
+  quote: To my knowledge, neither of us ever wrote about it.
   claim_id: 8a55e54e-2235-4270-888e-fd2adafd2384
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-8a55e54e-2235-4270-888e-fd2adafd2384
@@ -850,6 +917,10 @@ references:
     and shifted UFO Research New South Wales's attitude.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch10:4927-5221
+  quote: It took the visit of American alien abduction researcher Budd Hopkins in
+    October 1992 to shake the conservatism of the UFO group. Hopkins's public lecture
+    and its impact helped legitimize or popularize the reality of abductions and the
+    UFO group's negative attitude toward the subject began to change.
   claim_id: ed0683bb-d65a-428c-b56b-f85ab9d7a121
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-ed0683bb-d65a-428c-b56b-f85ab9d7a121
@@ -857,6 +928,9 @@ references:
 - text: Presented red-tinted photos of a suburban Brisbane playground taken in 1992.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:17016-17198
+  quote: Budd Hopkins has presented some curious, red-tinted photos of a playground
+    area in suburban Brisbane in Australia during 1992 that may have some significance
+    in a family’s abduction account.
   claim_id: fbf7df73-cb14-4235-9e22-af6d4e2998a2
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-fbf7df73-cb14-4235-9e22-af6d4e2998a2
@@ -865,6 +939,8 @@ references:
     used by abductors.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch18:17207-17313
+  quote: Hopkins cites the photos as displaying possible evidence of the invisibility
+    techniques employed by alien abductors.
   claim_id: d78dbf89-b396-4e82-bea1-a2da1ef29561
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d78dbf89-b396-4e82-bea1-a2da1ef29561
@@ -873,6 +949,9 @@ references:
     none had physical evidence such as hair samples.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch14:2583-2763
+  quote: Hopkins did pass on some Australian abductee contact details to Peter's new
+    support group, but none of these witnesses had experiences that featured physical
+    evidence such as hair samples.
   claim_id: 60e24156-48f8-4095-a3ba-1d8a83f15684
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-60e24156-48f8-4095-a3ba-1d8a83f15684
@@ -906,6 +985,8 @@ references:
     individual Hopkins described.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:20857-20973
+  quote: The picture Schnabel paints of “Lucy” (aka “Sally”) does not sit well with
+    the individual Budd Hopkins described to me.
   claim_id: e6cd3f7a-46cc-4588-ba2a-0801fbd0e61e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-e6cd3f7a-46cc-4588-ba2a-0801fbd0e61e
@@ -914,6 +995,8 @@ references:
     it.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:20977-21122
+  quote: Hopkins told me that he felt the subject frightened Schnabel at times, with
+    the end result being that Schnabel turned on it, debunking the whole subject.
   claim_id: fd1d4a60-1c9f-477d-bfc1-9d4bc4f797ee
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-fd1d4a60-1c9f-477d-bfc1-9d4bc4f797ee
@@ -921,6 +1004,8 @@ references:
 - text: Sally had been in contact with Hopkins since 1987 over a "missing time" experience.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:24009-24125
+  quote: Sally had been in contact with Budd Hopkins since 1987, when she was trying
+    to understand a peculiar “missing time” experience.
   claim_id: 54751e59-694a-486e-9f00-58cf536a1a1d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-54751e59-694a-486e-9f00-58cf536a1a1d
@@ -929,6 +1014,9 @@ references:
     death may not be the end, including Old Souls.
   source: Surviving Death
   location: ch23:13438-13630
+  quote: I carefully selected a few books that I thought might appeal to him, one
+    of them being *Old Souls* by *Washington Post* journalist Tom Shroder, who traveled
+    with Ian Stevenson and watched him work.
   claim_id: 8dd06250-5752-42a1-9f19-87a56e129d7e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8dd06250-5752-42a1-9f19-87a56e129d7e
@@ -937,6 +1025,8 @@ references:
     in any afterlife.
   source: Surviving Death
   location: ch23:13887-14022
+  quote: when I next saw him, he told me that he didn’t want to read them because
+    he didn’t believe in any sort of afterlife. This one life was it.
   claim_id: 6a125fb6-7bf2-4201-8fd6-9e4fc6ec14b4
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-6a125fb6-7bf2-4201-8fd6-9e4fc6ec14b4
@@ -945,6 +1035,9 @@ references:
     both recently deceased.
   source: Surviving Death
   location: ch23:10173-10399
+  quote: In preparing for the reading with Laura, I focused on two people close to
+    me who had recently died—my dear friend Budd Hopkins, an accomplished abstract
+    expressionist painter and UFO researcher, and my brother, Lloyd Garrison Kean.
   claim_id: cae3e19b-4bb9-4314-b89b-7ba3c0faa43b
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-cae3e19b-4bb9-4314-b89b-7ba3c0faa43b
@@ -953,6 +1046,8 @@ references:
     disbelief in an afterlife.
   source: Surviving Death
   location: ch23:14280-14426
+  quote: When Laura said he burst in and the first thing he said was “You were right,”
+    I immediately knew this was what he meant. And then Laura confirmed it.
   claim_id: 3cc5cb24-bfd9-4a9b-a1a4-f466c7080fb5
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3cc5cb24-bfd9-4a9b-a1a4-f466c7080fb5
@@ -961,6 +1056,7 @@ references:
     he died.
   source: Surviving Death
   location: ch23:14605-14662
+  quote: that he died from cancer and that I was with him when he died
   claim_id: 310be997-409c-4a04-9dba-d0bde66ac7af
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-310be997-409c-4a04-9dba-d0bde66ac7af
@@ -968,6 +1064,8 @@ references:
 - text: Jackson conveyed the spirit had one child, a daughter.
   source: Surviving Death
   location: ch23:14668-14750
+  quote: that he had one child, a daughter; that his third marriage was one of his
+    biggest regrets
   claim_id: 1a30e784-752b-4c21-b9d9-78e71845cbbb
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1a30e784-752b-4c21-b9d9-78e71845cbbb
@@ -976,6 +1074,10 @@ references:
     was withdrawn and appeared only at the end.
   source: Surviving Death
   location: ch24:10042-10290
+  quote: In both cases, the mediums said Budd was assertive and clear, but my brother
+    was withdrawn and harder to read, as if the same two distinct personalities were
+    present in each reading. Both times, Budd appeared first, and did all he could
+    to hog the stage.
   claim_id: e6c5be47-2f92-4087-aafc-d2dda5ad4e46
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e6c5be47-2f92-4087-aafc-d2dda5ad4e46
@@ -984,6 +1086,8 @@ references:
     could not have known.
   source: Surviving Death
   location: ch23:20712-20866
+  quote: What was most important was that both had provided at least one very personal
+    detail, among many, many factual details, that Laura couldn’t possibly have known.
   claim_id: 41369c36-bae2-42da-a540-15e7e748a6c2
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-41369c36-bae2-42da-a540-15e7e748a6c2
@@ -991,6 +1095,9 @@ references:
 - text: 'O''Hara laughed at Hopkins''s dominating behaviour: "Today was his show..."'
   source: Surviving Death
   location: ch24:10297-10467
+  quote: Echoing Laura, Sandra laughed at his dominating behavior, and said it was
+    quite unusual. “Today was his show,” she said. “He was saying, ‘I’m here! I have
+    the floor! I’m talking!’ ”
   claim_id: 3d3d6130-35bd-4d7c-9126-97de3fa68aee
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3d3d6130-35bd-4d7c-9126-97de3fa68aee
@@ -998,6 +1105,7 @@ references:
 - text: O'Hara said the male spirit had died of cancer.
   source: Surviving Death
   location: ch24:4235-4303
+  quote: He died of cancer. (Budd died of complications due to two types of cancer.)
   claim_id: 391629c6-c965-40f2-9f45-1637b1feea72
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-391629c6-c965-40f2-9f45-1637b1feea72
@@ -1005,6 +1113,9 @@ references:
 - text: O'Hara described the spirit as an artist holding a paintbrush.
   source: Surviving Death
   location: ch24:4657-4849
+  quote: He was an artist—“I see paintings and paintbrush in his hand.” (Budd was
+    an established painter whose work was in the collections of major museums. This
+    was his main career—the UFO work came later.)
   claim_id: 2a17ae8d-d182-4489-ba91-571da8ab0aa0
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2a17ae8d-d182-4489-ba91-571da8ab0aa0
@@ -1012,6 +1123,8 @@ references:
 - text: O'Hara referenced the song "Amazing Grace".
   source: Surviving Death
   location: ch24:6878-6965
+  quote: Referring to a name, the song “Amazing Grace” is significant. (His daughter’s
+    name is Grace.)
   claim_id: 2423e84e-1da8-454e-8daa-61d675a4a45e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-2423e84e-1da8-454e-8daa-61d675a4a45e
@@ -1020,6 +1133,9 @@ references:
     was unhappy about.
   source: Surviving Death
   location: ch24:5902-6128
+  quote: There was a problem with property after he died and he’s unhappy with that.
+    (His daughter was trying to sell the town house he had lived in for fifty years
+    and was having serious problems with the co-owner who didn’t want to sell.)
   claim_id: 7e849164-a8d7-43eb-9303-8d5440314317
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7e849164-a8d7-43eb-9303-8d5440314317
@@ -1027,6 +1143,7 @@ references:
 - text: Hopkins and Garry Kean both died within recent years of the readings.
   source: Surviving Death
   location: ch32:271-299
+  quote: who both died within recent years
   claim_id: b5b7bc35-4589-4507-88c4-d00fe1515d79
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-b5b7bc35-4589-4507-88c4-d00fe1515d79

@@ -70,6 +70,7 @@ references:
 - text: Robert Monroe founded and served as executive director of the Monroe Institute.
   source: Journeys Out of the Body
   location: ch2:444-499
+  quote: He is the founder and executive director of the Monroe Institute
   claim_id: 552fdbba-5552-42dc-a737-ef8a72edc346
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-552fdbba-5552-42dc-a737-ef8a72edc346
@@ -77,6 +78,7 @@ references:
 - text: The Monroe Institute research facility was formed and became active in 1972.
   source: Journeys Out of the Body
   location: ch7:4626-4683
+  quote: Yes, a research facility was formed and became active in 1972.
   claim_id: caa04f53-9987-462a-b0a4-18d7b391a9e3
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-caa04f53-9987-462a-b0a4-18d7b391a9e3
@@ -96,6 +98,8 @@ references:
     of sound wave forms on human behaviour.
   source: Journeys Out of the Body
   location: ch2:510-589
+  quote: internationally known for its work on the effects of sound wave forms on
+    human behavior
   claim_id: d0d6b83a-bc5f-41ec-b392-c66f54b6a245
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-d0d6b83a-bc5f-41ec-b392-c66f54b6a245
@@ -103,6 +107,7 @@ references:
 - text: Robert Monroe plays an active part in the work of the Monroe Institute.
   source: Journeys Out of the Body
   location: ch2:803-861
+  quote: Mr. Monroe plays an active part in the work of the Monroe Institute
   claim_id: e635f2f3-9217-41f8-8755-377a9d570f9a
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e635f2f3-9217-41f8-8755-377a9d570f9a
@@ -112,6 +117,9 @@ references:
     on its board of advisers.
   source: Journeys Out of the Body
   location: ch7:4690-4895
+  quote: Our work has attracted the interest and co-operation of physicists, psychologists,
+    biochemists, engineers, educators, psychiatrists, corporate presidents, statisticians,
+    many of whom serve on our board of advisers.
   claim_id: 412c3941-84ba-401e-b50a-dd0f94871cb2
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-412c3941-84ba-401e-b50a-dd0f94871cb2
@@ -119,6 +127,8 @@ references:
 - text: The Institute had received over eleven thousand pieces of mail.
   source: Journeys Out of the Body
   location: ch7:4905-4995
+  quote: Among the eleven thousand plus pieces of mail received to date, many sighs
+    of relief were reported.
   claim_id: 2ec427b5-087e-49f1-83d7-74fc346206f4
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-2ec427b5-087e-49f1-83d7-74fc346206f4
@@ -127,6 +137,8 @@ references:
     experimental training programme.
   source: Journeys Out of the Body
   location: ch7:5123-5210
+  quote: Over seven hundred persons have participated in our research and experimental
+    training program.
   claim_id: 7b15ec5e-e001-427c-b1f1-7a36e9dbd8d3
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-7b15ec5e-e001-427c-b1f1-7a36e9dbd8d3
@@ -135,6 +147,8 @@ references:
     at the facility.
   source: Journeys Out of the Body
   location: ch7:5260-5371
+  quote: Some fifty more are waiting for our facility to handle their final indoctrination,
+    and their number is growing daily.
   claim_id: 8998d5f5-2296-46ec-9b83-8024b14835e5
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-8998d5f5-2296-46ec-9b83-8024b14835e5
@@ -143,6 +157,8 @@ references:
     credit.
   source: Journeys Out of the Body
   location: ch7:5511-5610
+  quote: This year, training programs at the Institute may qualify for credit at the
+    college and university level.
   claim_id: 91ecf65c-8cf2-406a-98ad-d340b45ac8c8
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-91ecf65c-8cf2-406a-98ad-d340b45ac8c8
@@ -150,6 +166,7 @@ references:
 - text: The Monroe Institute Explorer Team had six members.
   source: Journeys Out of the Body
   location: ch7:5219-5251
+  quote: Our first Explorer Team has six members.
   claim_id: 2242037a-5429-4671-bbf3-6d9d56151e84
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-2242037a-5429-4671-bbf3-6d9d56151e84
@@ -158,6 +175,8 @@ references:
     could process it.
   source: Journeys Out of the Body
   location: ch7:5629-5755
+  quote: our Explorer Team of six is bringing back data faster than we can process
+    it, far more rapidly and diverse than I alone could accumulate.
   claim_id: b3cd50e8-6b4f-40f8-b5ca-3182b5567021
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-b3cd50e8-6b4f-40f8-b5ca-3182b5567021
@@ -177,6 +196,8 @@ references:
     Robert Monroe for help controlling his out-of-body experiences.
   source: Remote Viewing Secrets
   location: ch25:16413-16546
+  quote: So, I attended a Gateway Voyage seminar at the Monroe Institute, Virginia,
+    in the fall of 1983, after which I asked if he could help me.
   claim_id: a65a29f4-2a39-4e68-bf7d-c23b534bb304
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-a65a29f4-2a39-4e68-bf7d-c23b534bb304

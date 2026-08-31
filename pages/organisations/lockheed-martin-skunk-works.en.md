@@ -86,6 +86,9 @@ references:
     privately that if a TR3B craft exists, it is not made by Lockheed Martin
   source: In Plain Sight
   location: ch28:10916-11079
+  quote: Mellon says, 'My current and former colleagues at Lockheed Martin and the
+    Skunk Works are very clear in private settings that if there is a TR3B it is not
+    made by Lockheed.
   claim_id: 1c637488-34ff-4e19-97d8-82a393d101d7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1c637488-34ff-4e19-97d8-82a393d101d7
@@ -95,6 +98,11 @@ references:
     F-35 Lightning
   source: In Plain Sight
   location: ch18:15942-16329
+  quote: Skunk Works is a nickname for Lockheed's advanced development programs and
+    it has an illustrious super-secret black-budget history for its role in developing
+    the U2 and SR-71 Blackbird spy-planes, the F-117 Nighthawk stealth attack aircraft,
+    the F-22 Raptor fighter and the F-35 Lightning stealth jet – all by far the most
+    advanced known aerospace defence technology of their day on the planet.
   claim_id: 9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
@@ -104,6 +112,10 @@ references:
     Electromagnetic Vehicle
   source: In Plain Sight
   location: ch28:6936-7213
+  quote: At TTSA's October 2017 launch, Steve Justice, the then Skunk Works Lockheed
+    Martin Program Director for Advanced Systems, stated that TTSA was working on
+    a revolutionary Advanced Electromagnetic Vehicle that could 'dramatically reduce
+    the current travel limits of distance and time.
   claim_id: f36be07b-772b-495e-bf18-61a2d52681bb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f36be07b-772b-495e-bf18-61a2d52681bb
@@ -111,6 +123,7 @@ references:
 - text: Steve Justice was former head of Advanced Systems at Skunk Works
   source: In Plain Sight
   location: ch21:9293-9352
+  quote: former head of Advanced Systems at Lockheed Martin's Skunk Works
   claim_id: 7db5d234-5f6b-4af9-a15c-23b724ad8a79
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7db5d234-5f6b-4af9-a15c-23b724ad8a79
@@ -172,6 +185,11 @@ references:
     there had never been any evidence it exists
   source: In Plain Sight
   location: ch18:18088-18422
+  quote: DeLonge admits that when the executive he called 'BossMan' (probably Skunk
+    Work's then General Manager Rob Weiss) walked into the meeting, he was told, 'We
+    cannot be involved in any type of project whatsoever that has this topic associated
+    with it, specifically because there's never been any evidence whatsoever that
+    this stuff even exists.'
   claim_id: 2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
@@ -180,6 +198,10 @@ references:
     the pseudonym for Lockheed Martin's secretive Advanced Developments Projects division
   source: In Plain Sight
   location: ch13:13431-13709
+  quote: He befriended engineer Ben Rich, the former Director of US aerospace company
+    Lockheed Martin's Skunk Works (the pseudonym for Lockheed Martin's secretive Advanced
+    Developments Projects division, where many of America's most advanced aircraft
+    have been designed).
   claim_id: 4120858f-cd4d-4d65-a101-095ff0d14ef6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4120858f-cd4d-4d65-a101-095ff0d14ef6
@@ -189,6 +211,11 @@ references:
     vice-president and general manager of Skunk Works
   source: In Plain Sight
   location: ch20:4492-4853
+  quote: 'Amidst them was a smoking gun that lent strong support to DeLonge''s extraordinary
+    claims: a string of exchanges between Podesta and DeLonge, revealing plans for
+    a Google Hangout meeting between DeLonge, two US Air Force generals and Rob Weiss,
+    the Lockheed Martin executive vice-president and general manager of its advanced
+    development programs known as Skunk Works.'
   claim_id: 541e7b0f-e70b-4f52-802b-a63c58b9c921
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-541e7b0f-e70b-4f52-802b-a63c58b9c921
@@ -198,6 +225,14 @@ references:
     Martin ultimately declined to participate
   source: In Plain Sight
   location: ch18:15278-15884
+  quote: '''Tom DeLonge reached out to Skunk Works with interest in collaborating
+    on a documentary focused on secret machines and advanced development projects,''
+    Lockheed Martin said in a statement. ''Multiple members of the Skunk Works team
+    met with DeLonge to explore his vision for the documentary, as we would with any
+    individual or organisation interested in telling the story of Skunk Works and
+    the technologies we''ve developed. We ultimately decided to not move forward with
+    our participation in the documentary. During this exploration period, DeLonge
+    attended a Skunk Works employee event.'''
   claim_id: 96eab035-67ac-45fd-99ab-809b82bc55d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-96eab035-67ac-45fd-99ab-809b82bc55d8
@@ -207,6 +242,9 @@ references:
     Major General Michael Carey
   source: In Plain Sight
   location: 29-31
+  quote: The other meeting attendees were listed as DeLonge, Podesta, Skunk Works'
+    boss Rob Weiss, an assistant to the Hillary Clinton campaign Milia Fisher, and
+    retired Major General Michael Carey.
   claim_id: ba26da13-3d8c-4159-b75e-d3d9da7ee769
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba26da13-3d8c-4159-b75e-d3d9da7ee769
@@ -215,6 +253,8 @@ references:
     Skunk Works until 2019
   source: In Plain Sight
   location: ch18:16627-16704
+  quote: '...Rob Weiss, the Lockheed executive vice-president and GM of Skunk Works
+    until 2019.'
   claim_id: 6f56908d-013c-498a-b193-4d2489034a3b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6f56908d-013c-498a-b193-4d2489034a3b
@@ -223,6 +263,9 @@ references:
     the families' event was Rob Weiss
   source: In Plain Sight
   location: ch18:16530-16704
+  quote: It is also a fair bet that the executive whom DeLonge subsequently met at
+    the families event was Rob Weiss, the Lockheed executive vice-president and GM
+    of Skunk Works until 2019.
   claim_id: b598b750-4b72-4858-ba32-3b0989f6df0c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b598b750-4b72-4858-ba32-3b0989f6df0c
@@ -231,6 +274,7 @@ references:
     'conspiracy stuff'
   source: In Plain Sight
   location: ch18:18013-18081
+  quote: '''What are your intentions with the . . . conspiracy stuff?'' he was asked.'
   claim_id: ef68aede-29db-4573-a3e2-cc798b59a929
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ef68aede-29db-4573-a3e2-cc798b59a929
@@ -239,6 +283,8 @@ references:
     Martin's Skunk Works division
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch19:5009-5126
+  quote: my friend Steve Justice, former director of Advanced Systems Development
+    at Lockheed Martin’s mysterious Skunk Works division
   claim_id: 78d203a4-fae9-4bc7-bb3b-baa980e13cf4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-78d203a4-fae9-4bc7-bb3b-baa980e13cf4
@@ -247,6 +293,8 @@ references:
     TTSA's aerospace division
   source: In Plain Sight
   location: ch23:16038-16150
+  quote: Before he left TTSA in 2021, the former Lockheed Martin Skunk Works engineer
+    Steve Justice led TTSA's aerospace division
   claim_id: cb96298a-ccfc-4eb7-9664-e97a007c094d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cb96298a-ccfc-4eb7-9664-e97a007c094d
@@ -255,6 +303,9 @@ references:
     before joining DeLonge's advisory board
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:13378-13547
+  quote: DeLonge’s advisory board included Steve Justice, a highly respected aerospace
+    engineer who’d spent thirty-one years working for Lockheed Martin’s highly secretive
+    Skunk Works
   claim_id: e95a488f-bd34-4b22-b1c9-9af90cd1a10b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e95a488f-bd34-4b22-b1c9-9af90cd1a10b
@@ -296,6 +347,8 @@ references:
     finished as director of advanced systems at Skunk Works
   source: In Plain Sight
   location: ch21:1281-1376
+  quote: who just a month earlier had finished as director of advanced systems at
+    Lockheed Martin Skunk Works
   claim_id: 6f60ad98-6c37-4619-ada2-cd8d385705f4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6f60ad98-6c37-4619-ada2-cd8d385705f4
@@ -315,6 +368,8 @@ references:
     meetings with military/intelligence sources on UAP disclosure
   source: In Plain Sight
   location: ch19:23008-23144
+  quote: He made up all this stuff about flying around North America meeting The General
+    in an airport hangar and Skunk Works in its underground bunker.
   claim_id: ef1ce144-1313-4eee-bf09-871aa6fde9df
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ef1ce144-1313-4eee-bf09-871aa6fde9df
@@ -322,6 +377,7 @@ references:
 - text: DeLonge exchanged emails with a top Lockheed Martin Skunk Works executive
   source: In Plain Sight
   location: ch28:28494-28533
+  quote: with a top Lockheed Martin Skunk Works executive
   claim_id: 145cc3e5-6e5e-488f-baf5-68914a84afcb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-145cc3e5-6e5e-488f-baf5-68914a84afcb
@@ -330,6 +386,9 @@ references:
     UAP in his pitch to Skunk Works to gain access, calling it a classic media ruse
   source: In Plain Sight
   location: ch18:17478-17735
+  quote: When I read DeLonge's account of this meeting, I took a cynical view that
+    what he must have done was hide his real intentions about UAPs in his pitch to
+    Skunk Works to get in the door, a classic naughty media ruse if one is being honest.
   claim_id: 10214bf0-900d-42d4-ae47-d4e4f570ca46
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-10214bf0-900d-42d4-ae47-d4e4f570ca46
@@ -337,6 +396,7 @@ references:
 - text: Steve Justice is a former Skunk Works executive who was affiliated with TTSA
   source: In Plain Sight
   location: ch22:21142-21199
+  quote: TTSA’s Steve Justice, former Lockheed Martin Skunk Works executive
   claim_id: d502da75-f4fe-4ee1-ac64-36f0a320ce65
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d502da75-f4fe-4ee1-ac64-36f0a320ce65

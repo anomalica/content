@@ -52,6 +52,8 @@ references:
 - text: Johnson was a close political ally of Albert Thomas, a staunch anti-communist
   source: Dark Mission
   location: ch10:64016-64142
+  quote: Powerful congressmen, like Albert Thomas of Texas (a close political ally
+    of Vice President Lyndon Johnson and a staunch anti-communist)
   claim_id: 4f4ff60b-0245-4582-9e34-53d29d5841aa
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4f4ff60b-0245-4582-9e34-53d29d5841aa
@@ -59,6 +61,8 @@ references:
 - text: Thomas and Johnson secured the Manned Spacecraft Center for Houston
   source: Dark Mission
   location: ch10:64375-64462
+  quote: along with LBJ, later got the Manned Spacecraft Center located in his home
+    district in Houston
   claim_id: f4e05593-1495-4887-9405-4a63049465c3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f4e05593-1495-4887-9405-4a63049465c3
@@ -66,6 +70,8 @@ references:
 - text: Kennedy appointed James Webb as NASA Administrator on Johnson's recommendation
   source: Dark Mission
   location: ch12:114635-114753
+  quote: To this end, Kennedy (on the specific recommendation of Vice President Johnson100)
+    appointed James E. Webb as the new Administrator.
   claim_id: 604f0a96-c392-4a4b-90d5-160ac94af008
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-604f0a96-c392-4a4b-90d5-160ac94af008
@@ -73,6 +79,8 @@ references:
 - text: Bush re-created the National Space Council, once led by Johnson as Vice President
   source: Dark Mission
   location: ch19:7888-8005
+  quote: First, he re-created the National Space Council, an agency that had once
+    been led by Lyndon Johnson when he was Vice President.
   claim_id: 79d03200-43fb-4d95-9733-dfafd29831ac
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-79d03200-43fb-4d95-9733-dfafd29831ac
@@ -81,6 +89,9 @@ references:
     showdown, and space programme money
   source: Dark Mission
   location: ch10:76474-76676
+  quote: While he was generally unpopular in the South, he was actually more popular
+    in Texas because of Lyndon Johnson, his showdown with Khrushchev over Cuba, and
+    the dollars the space program was bringing to Texas.
   claim_id: a18218e3-c452-47c8-83c1-8281b65721f3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a18218e3-c452-47c8-83c1-8281b65721f3
@@ -89,6 +100,8 @@ references:
     Dallas
   source: Dark Mission
   location: ch10:87950-88050
+  quote: It wasn’t until September that a letter from Johnson aide Jack Valenti announced
+    the Texas campaign swing.
   claim_id: 5b40a742-5e16-4ee9-bc99-70c1cb44286d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5b40a742-5e16-4ee9-bc99-70c1cb44286d
@@ -97,6 +110,8 @@ references:
     summer
   source: Dark Mission
   location: ch10:87785-87938
+  quote: The plans for Kennedy to go to Texas had been made the previous spring, when
+    Vice President Lyndon Johnson stated that Kennedy might visit Dallas in the summertime.
   claim_id: 1dbc84b4-6fb5-49a2-80cd-d10e2eeef452
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1dbc84b4-6fb5-49a2-80cd-d10e2eeef452
@@ -105,6 +120,9 @@ references:
     planning
   source: Dark Mission
   location: ch10:88415-88569
+  quote: Originally proposed as a one-day trip for November 21, by October Lyndon
+    Johnson had become involved in the planning and a second day was added, November
+    22.
   claim_id: 2d8cd9a8-c72e-4995-b71d-590eab7be5cb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2d8cd9a8-c72e-4995-b71d-590eab7be5cb
@@ -112,6 +130,8 @@ references:
 - text: Thomas and Johnson accompanied Kennedy aboard Air Force One to Dallas
   source: Dark Mission
   location: ch10:89442-89596
+  quote: Kennedy departed after his speech, followed soon by Thomas and Vice President
+    Johnson. They both accompanied him to Dallas the next morning on Air Force One.
   claim_id: 7789f6a2-b264-4a77-b3f2-4160f9f55948
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7789f6a2-b264-4a77-b3f2-4160f9f55948
@@ -119,6 +139,7 @@ references:
 - text: Johnson was taken to an undisclosed location after the assassination
   source: Dark Mission
   location: ch10:89872-89930
+  quote: Vice President Johnson was whisked away to an undisclosed location.
   claim_id: 81cc4df8-4359-4a7e-9a9c-9cf760ceb1ad
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-81cc4df8-4359-4a7e-9a9c-9cf760ceb1ad
@@ -127,6 +148,8 @@ references:
     space
   source: Dark Mission
   location: ch10:90910-91020
+  quote: Over the next few weeks, Johnson made a show of arguing to continue Kennedy’s
+    plans for Soviet cooperation in space.
   claim_id: e92f1c9c-e005-4130-8c2a-3a448d5bb8f3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e92f1c9c-e005-4130-8c2a-3a448d5bb8f3
@@ -134,6 +157,9 @@ references:
 - text: Hoagland said Johnson had enormous political capital after the assassination
   source: Dark Mission
   location: ch10:91620-91783
+  quote: Keep in mind that Johnson had enormous political capital to continue any
+    initiative of the martyred Kennedy that he so chose in those days and weeks following
+    the assassination.
   claim_id: ed0f1cb9-3446-4c39-ac4c-ee9953a77ffb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ed0f1cb9-3446-4c39-ac4c-ee9953a77ffb
@@ -141,6 +167,9 @@ references:
 - text: Johnson chose not to seek re-election in 1968 amid Vietnam War unpopularity
   source: Dark Mission
   location: ch10:92107-92305
+  quote: He was constitutionally able to stand for re-election in 1968, but his great
+    unpopularity because of his mishandling of Vietnam convinced him to forsake a
+    second elected term and retire from public life.
   claim_id: 4d800604-569b-4141-9821-811e53687162
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4d800604-569b-4141-9821-811e53687162
@@ -149,6 +178,9 @@ references:
     turned off
   source: Dark Mission
   location: ch10:92551-92766
+  quote: as reported by presidential historian Doris Kearns Goodwin, Johnson not only
+    didn’t watch the Lunar Landing himself, he refused to let anyone at his Texas
+    ranch watch it either, and ordered all the TVs to be turned off.
   claim_id: 1c9bfc6a-4b5b-46f9-9e89-7de5047a708c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1c9bfc6a-4b5b-46f9-9e89-7de5047a708c
@@ -167,6 +199,10 @@ references:
     directing the assassination plot
   source: Dark Mission
   location: ch10:93449-93760
+  quote: The tape contains a remarkable “confirmation” in light of the completely
+    independent evidence presented here that, above the CIA operatives (and contractors)
+    who actually planned and carried out the plot to kill Kennedy, including E. Howard
+    Hunt himself, they were all directed by one “top man.” Lyndon Baines Johnson.
   claim_id: 0f5f3fca-d1c4-4c7c-973b-1d3c5e3f441e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0f5f3fca-d1c4-4c7c-973b-1d3c5e3f441e
@@ -175,6 +211,10 @@ references:
     discoveries
   source: Dark Mission
   location: ch10:93823-94108
+  quote: If men like Johnson and Thomas were willing to go so far as to orchestrate
+    the murder of the President in order to protect the United States’ own, singular
+    (and singularly expensive) space program, then they must have expected to find
+    wonders beyond imagining over the course of their voyages.
   claim_id: 2cc9fef4-6f26-4fc3-a9e9-d360dca22dbf
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2cc9fef4-6f26-4fc3-a9e9-d360dca22dbf
@@ -182,6 +222,8 @@ references:
 - text: Elizondo believes Johnson was among several presidents briefed on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:16189-16330
+  quote: 'As far as I know, the following US presidents were briefed in some way:
+    Truman, Eisenhower, JFK, LBJ, Carter, Reagan, George H. W. Bush, and Trump.'
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8

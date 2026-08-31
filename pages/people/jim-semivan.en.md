@@ -132,6 +132,7 @@ references:
 - text: Semivan is a former senior CIA official
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch35:5178-5209
+  quote: —Jim Semivan, former senior CIA official
   claim_id: 7124031c-feff-4c36-a43f-6ae7e957893a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7124031c-feff-4c36-a43f-6ae7e957893a
@@ -139,6 +140,8 @@ references:
 - text: Semivan was born and raised in Ohio
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24471-24560
+  quote: Born and raised in Ohio and having attended Ohio State University, Jim joined
+    the CIA in 1982
   claim_id: a3ba8ceb-571b-42d3-a4dc-d23ddb967178
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a3ba8ceb-571b-42d3-a4dc-d23ddb967178
@@ -146,6 +149,8 @@ references:
 - text: Semivan attended Ohio State University
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24471-24560
+  quote: Born and raised in Ohio and having attended Ohio State University, Jim joined
+    the CIA in 1982
   claim_id: fb449954-b926-4af4-a8dc-0a433bbd69da
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fb449954-b926-4af4-a8dc-0a433bbd69da
@@ -153,6 +158,7 @@ references:
 - text: Semivan joined the CIA in 1982
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24538-24610
+  quote: Jim joined the CIA in 1982 and retired in 2007 after a twenty-five-year career.
   claim_id: e6382aa1-3359-41dd-bf30-c5efd8becdcf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e6382aa1-3359-41dd-bf30-c5efd8becdcf
@@ -160,6 +166,9 @@ references:
 - text: Semivan served 25 years as an operations officer, US and internationally
   source: In Plain Sight
   location: ch21:787-952
+  quote: Semivan was only recently retired from the Central Intelligence Agency's
+    Directorate of Operations after 25 years as an operations officer working inside
+    the US and internationally.
   claim_id: 0e45d397-56fa-4bb5-bb51-20816c6e4517
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0e45d397-56fa-4bb5-bb51-20816c6e4517
@@ -167,6 +176,7 @@ references:
 - text: Semivan retired from the CIA in 2007 after a 25-year career
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24538-24610
+  quote: Jim joined the CIA in 1982 and retired in 2007 after a twenty-five-year career.
   claim_id: 086effc7-71b7-41ed-b188-6f173534ad24
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-086effc7-71b7-41ed-b188-6f173534ad24
@@ -175,6 +185,8 @@ references:
     CIA headquarters
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24707-24807
+  quote: He served multiple overseas and domestic tours along with having senior management
+    positions in CIA headquarters.
   claim_id: 48023bc5-06fa-45b3-9e37-05ad6c766287
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48023bc5-06fa-45b3-9e37-05ad6c766287
@@ -183,6 +195,9 @@ references:
     attaches
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24971-25194
+  quote: He operated around the world and recruited high-level operatives. His background
+    was the complete opposite of mine. I recruited scrappy street fighters, insurgents,
+    bomb makers. Jim recruited foreign ambassadors and attachés.
   claim_id: cc4ca6c0-a240-4392-9455-6ae99a3a2da2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cc4ca6c0-a240-4392-9455-6ae99a3a2da2
@@ -190,6 +205,8 @@ references:
 - text: Semivan held a top secret security clearance
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:27598-27707
+  quote: The only reason we are having this meeting is because Hal vouched for you
+    and you have a top secret security clearance.
   claim_id: c3fc3f20-4115-4a41-827a-482f58fe2234
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3fc3f20-4115-4a41-827a-482f58fe2234
@@ -197,6 +214,8 @@ references:
 - text: Semivan received the CIA's Career Intelligence Medal
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24821-24960
+  quote: He’s also the recipient of the Agency’s Career Intelligence Medal, along
+    with numerous Exceptional Performance Awards and Meritorious Unit Citations.
   claim_id: cb8e0c08-21be-4084-8ba9-abf969d83566
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb8e0c08-21be-4084-8ba9-abf969d83566
@@ -204,6 +223,8 @@ references:
 - text: Semivan received Exceptional Performance Awards and Meritorious Unit Citations
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24821-24960
+  quote: He’s also the recipient of the Agency’s Career Intelligence Medal, along
+    with numerous Exceptional Performance Awards and Meritorious Unit Citations.
   claim_id: f3052eb7-f6f3-4568-8d05-117fdddc1b3e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f3052eb7-f6f3-4568-8d05-117fdddc1b3e
@@ -221,6 +242,8 @@ references:
 - text: At retirement Semivan was a member of the CIA's Senior Intelligence Service
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24618-24698
+  quote: At the time of his retirement, he was a member of the CIA’s Senior Intelligence
+    Service.
   claim_id: 35c87d19-ad6b-4fb5-a094-5ee3062c138e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-35c87d19-ad6b-4fb5-a094-5ee3062c138e
@@ -228,6 +251,9 @@ references:
 - text: Semivan was a former CIA national clandestine service executive
   source: In Plain Sight
   location: ch30:25930-26150
+  quote: 'Let’s leave the last word to former CIA national clandestine service executive
+    Jim Semivan, an acknowledged experiencer with the phenomenon, who left the Coast
+    to Coast audience in no doubt about what he thinks is going on:'
   claim_id: 4a7dce2e-cb50-49d5-ac88-8371af707412
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a7dce2e-cb50-49d5-ac88-8371af707412
@@ -236,6 +262,8 @@ references:
     of Clandestine Operations
   source: In Plain Sight
   location: p241
+  quote: Jim Semivan ... is a former senior operations officer and a former trainer
+    for the CIA's Directorate of Clandestine Operations.
   claim_id: 875c0b38-ec33-4c19-abb0-1d7d4612beab
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-875c0b38-ec33-4c19-abb0-1d7d4612beab
@@ -254,6 +282,8 @@ references:
     to agency activities
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:25197-25283
+  quote: Having recently left the agency, Jim remained a CIA contractor but was still
+    “plugged in.”
   claim_id: 8dfb0e95-a115-43c1-bcd5-60b33457bec7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8dfb0e95-a115-43c1-bcd5-60b33457bec7
@@ -261,6 +291,8 @@ references:
 - text: Semivan had heard rumblings of a real UAP programme run out of the Pentagon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:27396-27512
+  quote: He had heard rumblings of a real UAP program being run out of the Pentagon,
+    so he was excited to have finally found us.
   claim_id: 6a867e3d-a14e-4657-9dd3-69e3a2d6dd08
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6a867e3d-a14e-4657-9dd3-69e3a2d6dd08
@@ -268,6 +300,9 @@ references:
 - text: Puthoff introduced Semivan, a senior CIA figure, to Elizondo's effort
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:24247-24430
+  quote: During this time, Hal had made a few connections of his own. One contact
+    was a highly intelligent man named Jim Semivan, a senior member of the CIA who
+    had enjoyed a long, successful career.
   claim_id: 8402a107-a236-49bf-aceb-c31e22d92e40
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8402a107-a236-49bf-aceb-c31e22d92e40
@@ -275,6 +310,7 @@ references:
 - text: Puthoff suggested to Jay Stratton that they meet Semivan at the Pentagon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:25289-25339
+  quote: Hal suggested to Jay that we meet with Jim at the Pentagon.
   claim_id: 3e74a9cc-0464-48e1-a915-9acbf7fda48b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e74a9cc-0464-48e1-a915-9acbf7fda48b
@@ -282,6 +318,8 @@ references:
 - text: The meeting was the first time Elizondo's group brought in an outsider
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:25349-25461
+  quote: This was the first time we brought someone into the fold from the outside.
+    We were taking a big chance trusting Jim.
   claim_id: 8d018ca3-92dd-4414-95c1-447aa99fca71
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8d018ca3-92dd-4414-95c1-447aa99fca71
@@ -289,6 +327,7 @@ references:
 - text: First time AATIP was referenced to someone outside the team
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:27964-28035
+  quote: This was the first time we ever referenced AATIP to someone not on the team.
   claim_id: 5cb874b7-4354-44a5-8564-fd24d9d76925
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5cb874b7-4354-44a5-8564-fd24d9d76925
@@ -296,6 +335,8 @@ references:
 - text: Semivan confided a personal UAP experience from his time as a senior CIA official
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:28099-28222
+  quote: To alleviate my fears, Jim courageously revealed a very personal UAP experience
+    he had had while he was still a senior CIA official.
   claim_id: 076835ba-dd4f-45d8-b398-747f91bb1e50
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-076835ba-dd4f-45d8-b398-747f91bb1e50
@@ -303,6 +344,8 @@ references:
 - text: Elizondo considered the experience similar to other incidents he knew of
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:28468-28545
+  quote: the details of his incident were very similar to other incidents I was aware
+    of.
   claim_id: 94c94a98-382a-437f-bfb6-449c4a7a01e1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-94c94a98-382a-437f-bfb6-449c4a7a01e1
@@ -311,6 +354,9 @@ references:
     a rock star
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:26584-26770
+  quote: This time Jim mentioned that he was working with some colleagues who consisted
+    of a hodgepodge of former senior military and intelligence officials and a rock
+    star.
   claim_id: 7ef3bd4e-d582-46d5-8a90-2436c5c0ae14
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7ef3bd4e-d582-46d5-8a90-2436c5c0ae14
@@ -318,6 +364,7 @@ references:
 - text: The 'rock star' was Tom DeLonge
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:26976-27011
+  quote: Then he said the rock star was Tom DeLonge.
   claim_id: d5d1ffcd-0e47-4a90-9d3c-aa4ed126218e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d5d1ffcd-0e47-4a90-9d3c-aa4ed126218e
@@ -325,6 +372,7 @@ references:
 - text: DeLonge described by Semivan as lead singer of Blink-182
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:27053-27099
+  quote: “You know,” he said, “the lead singer of Blink-182?”
   claim_id: 39700b45-4a87-46a0-a9ef-1b8d4ad4629b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-39700b45-4a87-46a0-a9ef-1b8d4ad4629b
@@ -333,6 +381,9 @@ references:
     Virginia
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:90-249
+  quote: Shortly after I accepted the role, Jim and Jay invited me to a large group
+    dinner for the team that was held in the private meeting room of a hotel in Roslyn,
+    Virginia.
   claim_id: b70fd8f5-473a-4ee6-9c52-f086a45e5e85
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b70fd8f5-473a-4ee6-9c52-f086a45e5e85
@@ -340,6 +391,8 @@ references:
 - text: The programme Semivan ran was not sharing UAP data with other nations
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:4318-4429
+  quote: At this point in time, Jim’s program wasn’t sharing UAP data with other nations,
+    out of a concern for national security.
   claim_id: e8f5256a-1fa2-4f55-8867-83a90f55a6a8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e8f5256a-1fa2-4f55-8867-83a90f55a6a8
@@ -348,6 +401,8 @@ references:
     Uchoa
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:3300-3426
+  quote: Jim introduced us all to a Brazilian general by the name of Paulo Roberto
+    Yog de Miranda Uchôa, and his daughter and personal translator.
   claim_id: c4ae0d79-6c65-48cd-a9b4-640693b5060d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c4ae0d79-6c65-48cd-a9b4-640693b5060d
@@ -355,6 +410,10 @@ references:
 - text: 1099 meeting with James Lacatski on dropping paranormal cases from AAWSAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:7085-7360
+  quote: I remember a meeting in the fall of 2009 that Jay and I attended with Jim,
+    in which we openly talked about the wisdom of Jim dropping the investigations
+    AAWSAP had gotten involved with that many considered to be dealing with the paranormal
+    and instead focusing solely on UAP threats.
   claim_id: 290aa661-6ea6-4ae5-9083-56a28d770985
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-290aa661-6ea6-4ae5-9083-56a28d770985
@@ -362,6 +421,9 @@ references:
 - text: Elizondo, Semivan and John Robert moved AATIP's remnants out of the DIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:16305-16509
+  quote: Jay, John Robert, and I decided to move the remnants of the effort away from
+    DIA and house it within my portfolio of national programs, ensuring the prying
+    eyes of our detractors would no longer have any visibility.
   claim_id: 66b40ce5-fa68-4695-a91a-6df339ce165c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-66b40ce5-fa68-4695-a91a-6df339ce165c
@@ -369,6 +431,7 @@ references:
 - text: Semivan, a mutual CIA friend of Mellon, brought Elizondo to Mellon's attention
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:5503-5564
+  quote: A mutual friend from the CIA, Jim Semivan, brought Lue to my attention.
   claim_id: b44a53ae-001a-4410-bb11-5d2ebf59e495
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b44a53ae-001a-4410-bb11-5d2ebf59e495
@@ -376,6 +439,8 @@ references:
 - text: Semivan told Elizondo he had informed Mellon about AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch26:3309-3431
+  quote: After Chris left, I heard from Jim Semivan, who revealed that he was the
+    one who told Chris about AATIP and where to find us.
   claim_id: 94906258-39ea-419a-9ce9-96e2e138cf8a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-94906258-39ea-419a-9ce9-96e2e138cf8a
@@ -383,6 +448,7 @@ references:
 - text: Semivan vouched for Mellon to Elizondo
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch26:3435-3450
+  quote: He vouched for Chris
   claim_id: 6264d4b9-6391-4a09-90d2-e7690e78820a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6264d4b9-6391-4a09-90d2-e7690e78820a
@@ -391,6 +457,8 @@ references:
     meet DeLonge
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:10660-10773
+  quote: Jim said TTSA could use my knowledge of the UAP topic and my help setting
+    up security, and encouraged me to meet Tom.
   claim_id: 1a77c8d4-f2c3-4a03-8316-771c951e13f8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1a77c8d4-f2c3-4a03-8316-771c951e13f8
@@ -398,6 +466,8 @@ references:
 - text: Semivan was one of TTSA's two co-founders
   source: In Plain Sight
   location: ch21:657-781
+  quote: The undeniably impressive line-up of former spooks and defence insiders included
+    Jim Semivan, one of the two co-founders of TTSA.
   claim_id: 82cab98f-9c54-4f71-bc77-fe00d1d3a0ee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-82cab98f-9c54-4f71-bc77-fe00d1d3a0ee
@@ -414,6 +484,9 @@ references:
 - text: Semivan remains on TTSA's board as Vice President of Operations
   source: In Plain Sight
   location: ch24:7857-8060
+  quote: Jim Semivan (who remains on TTSA's board and is still Vice President of Operations
+    at time of writing) is a former senior operations officer and a former trainer
+    for the CIA's Directorate of Clandestine Operations.
   claim_id: e9c95a57-2c99-4867-9ca1-00b69c3e9050
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e9c95a57-2c99-4867-9ca1-00b69c3e9050
@@ -421,6 +494,12 @@ references:
 - text: TTSA pursued a triple directive of science, education, and media
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:10033-10494
+  quote: 'They had aligned themselves with the organization that rock star Tom DeLonge
+    and Jim Semivan had put together, called To The Stars Academy (TTSA), and they
+    planned to pursue a triple directive for UAP disclosure: fresh approaches to UAP
+    science and engineering, educating laymen and journalists, and generating film/TV/publishing
+    content about the UAP phenomena, based on true stories, all to educate the public
+    and put an end to the stigma.'
   claim_id: 5c6c669d-c442-449d-9cb1-9c245e297d18
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5c6c669d-c442-449d-9cb1-9c245e297d18
@@ -446,6 +525,8 @@ references:
 - text: Semivan believed the UAP topic needed to be brought to the public
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch27:2186-2271
+  quote: What if Jim Semivan was right? What if we needed to somehow bring this topic
+    to “the people”?
   claim_id: ec0cfa97-fc92-4430-926c-2368e8fa0ae6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ec0cfa97-fc92-4430-926c-2368e8fa0ae6
@@ -453,6 +534,8 @@ references:
 - text: Semivan's team worked to move the UAP conversation out of government silos
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:27252-27388
+  quote: He and his team were working to wrestle the UAP conversation out of the silos
+    of government and place it into the hands of the American people.
   claim_id: 804c4d0f-220f-4a3e-9460-8fb1f22a5018
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-804c4d0f-220f-4a3e-9460-8fb1f22a5018
@@ -460,6 +543,10 @@ references:
 - text: Mellon, Semivan and Puthoff met Elizondo and Leslie Kean near the Pentagon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:7273-7552
+  quote: 'Chris Mellon and Jim Semivan awaited me in the lobby of a hotel not far
+    from the Pentagon. Hal Puthoff arrived shortly after, as did the individual we
+    had all gathered to meet: an independent investigative journalist by the name
+    of Leslie Kean, whom Chris had arranged for us to meet.'
   claim_id: d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d5f1aac8-b6aa-4393-bd6b-eb3ae368fcf3
@@ -467,6 +554,7 @@ references:
 - text: The meeting with Kean lasted four hours
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:8535-8579
+  quote: Meeting with Kean lasted an exhausting four hours.
   claim_id: dcfd7856-89c8-4884-a4a2-961a4934e9fb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dcfd7856-89c8-4884-a4a2-961a4934e9fb
@@ -474,6 +562,9 @@ references:
 - text: Mellon, Puthoff and Semivan urged Elizondo to connect with the media
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:9769-9935
+  quote: Chris Mellon, Hal, and Semivan urged me to consider a different path. If
+    you want to reach the American people on this issue, they said, you need to connect
+    with the media.
   claim_id: 9af1dc84-46d0-4114-a6ff-826cb5bd925f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9af1dc84-46d0-4114-a6ff-826cb5bd925f
@@ -481,6 +572,9 @@ references:
 - text: Elizondo joined TTSA in 2017 in part to rejoin Puthoff, Semivan and Mellon
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:12361-12535
+  quote: When I resigned from the Pentagon in 2017, I had jumped at the opportunity
+    to join TTSA because I thought I needed the platform to spread my message and
+    rejoin Hal, Jim, and Chris.
   claim_id: 1f678633-0525-490c-b5e3-ce9aad88b69e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1f678633-0525-490c-b5e3-ce9aad88b69e
@@ -488,6 +582,7 @@ references:
 - text: Semivan considers himself an acknowledged experiencer of the UAP phenomenon
   source: In Plain Sight
   location: ch30:26009-26059
+  quote: Jim Semivan, an acknowledged experiencer with the phenomenon
   claim_id: 428e2119-ab81-407d-b206-d8a4fc95ed78
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-428e2119-ab81-407d-b206-d8a4fc95ed78
@@ -495,6 +590,8 @@ references:
 - text: Semivan believes a non-human intelligence lives with humanity on Earth
   source: In Plain Sight
   location: ch30:26156-26275
+  quote: ‘There’s an entity out there! There’s some kind of non-human intelligence
+    that’s living with us on this fucking planet.’11
   claim_id: f58119ef-ff13-428d-932a-97c4d9e30e8b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f58119ef-ff13-428d-932a-97c4d9e30e8b
@@ -502,6 +599,8 @@ references:
 - text: Semivan considers there to be a nonhuman intelligence living with humanity
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch35:5058-5209
+  quote: “There is a nonhuman intelligence that is living with us on this planet…
+    . We are not alone, and we never have been.” —Jim Semivan, former senior CIA official
   claim_id: 62c4d73d-79b9-4f18-9afb-f39ad2d5371a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-62c4d73d-79b9-4f18-9afb-f39ad2d5371a

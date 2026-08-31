@@ -20,6 +20,10 @@ references:
     served as field producer and on-camera interviewee
   source: Surviving Death
   location: ch24:6140-6405
+  quote: You (Leslie) are behind the camera and in front of it, related to work. (The
+    month he died, a two-hour documentary based on my UFO book aired on the History
+    Channel, for which I was a field producer—behind the camera. I was also interviewed
+    on camera for the same piece.)
   claim_id: 0cbe354c-d0d8-4ba2-94fe-419b439b4ce7
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0cbe354c-d0d8-4ba2-94fe-419b439b4ce7
@@ -28,6 +32,8 @@ references:
     and the Smithsonian Institution
   source: American Cosmic
   location: ch4:16434-16593
+  quote: Their clients include National Geographic, the History Channel, and the Smithsonian,
+    all of which are known to produce historical and other presumably factual programing.
   claim_id: f639f8ed-ee0d-4283-bf24-9afcc30f0cd7
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f639f8ed-ee0d-4283-bf24-9afcc30f0cd7
@@ -37,6 +43,9 @@ references:
     encounters
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:357-519
+  quote: The History Channel wanted to do a show with the TTSA team that would put
+    seasoned investigators in the field, interviewing ex-military personnel about
+    their UAP encounters.
   claim_id: cb5369fd-11e7-403b-9b58-19107da89a59
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb5369fd-11e7-403b-9b58-19107da89a59
@@ -46,6 +55,9 @@ references:
     or former government witnesses
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:609-801
+  quote: 'Chris and I had only one condition for agreeing to be a part of the show:
+    it had to be authentic. No artificial drama or conspiracy theories, no scripts,
+    and only current or former government witnesses.'
   claim_id: 7c819735-be53-4faa-8845-34bc0b2b80d3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7c819735-be53-4faa-8845-34bc0b2b80d3

@@ -130,6 +130,8 @@ references:
 - text: Definition of telepathy as one mind influencing or reading another
   source: Surviving Death
   location: ch7:13992-14096
+  quote: Telepathy occurs when one mind influences or “reads” another, such as when
+    one perceives someone else’s thoughts.
   claim_id: 36622a18-3d22-44e9-b092-4837c5f65a51
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-36622a18-3d22-44e9-b092-4837c5f65a51
@@ -137,6 +139,10 @@ references:
 - text: The Living-Agent Psi (LAP) hypothesis for mediumship
   source: Surviving Death
   location: ch7:22749-23026
+  quote: This would mean that mediums who receive verifiable communications, which
+    they interpret as coming from discarnates, for example, are actually using their
+    highly developed telepathy to read the minds of those connected to the deceased
+    person, where the information can also be found.
   claim_id: 7fee698f-b3f7-4139-bbcb-9d0655a91ad9
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7fee698f-b3f7-4139-bbcb-9d0655a91ad9
@@ -144,6 +150,7 @@ references:
 - text: LAP-hypothesis telepathy not limited by physical distance
   source: Surviving Death
   location: ch7:23033-23102
+  quote: The human sources can be physically far away; that has no bearing on telepathy.
   claim_id: 7d9737b1-772e-4298-83b6-2f03d02b43aa
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7d9737b1-772e-4298-83b6-2f03d02b43aa
@@ -151,6 +158,8 @@ references:
 - text: Definition of mental mediumship
   source: Surviving Death
   location: ch23:2100-2236
+  quote: In a normal state of consciousness, a mental medium is able to receive messages
+    that she says are coming telepathically from a deceased person.
   claim_id: 06dde758-f5cf-43aa-80f6-b1a38cb2507a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-06dde758-f5cf-43aa-80f6-b1a38cb2507a
@@ -158,6 +167,10 @@ references:
 - text: Alan Gauld on a drop-in communicator case exceeding clairvoyance or telepathy
   source: Surviving Death
   location: ch28:42150-42451
+  quote: There is in the literature at least one carefully investigated case in which
+    a drop-in communicator made a series of correct statements, the totality of which
+    could not have been obtained either clairvoyantly from a single document, obituary,
+    etc., or telepathically, from the mind of a single living person.
   claim_id: 5323b9f7-5573-491d-8281-53184642d560
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-5323b9f7-5573-491d-8281-53184642d560
@@ -165,6 +178,10 @@ references:
 - text: Runki's grandson could not have telepathically supplied the confirming detail
   source: Surviving Death
   location: ch28:45831-46099
+  quote: That Runki had been tall was confirmed by his grandson, who, however, had
+    not known him, and was not aware of the bone and of other relevant facts. He could
+    therefore not have been, either through telepathy or through normal channels,
+    a source for all the information communicated.
   claim_id: 0a131266-14c9-4018-94dc-57a45bb0c931
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0a131266-14c9-4018-94dc-57a45bb0c931
@@ -172,6 +189,10 @@ references:
 - text: Kean on the super-ESP hypothesis requiring extreme telepathy and clairvoyance
   source: Surviving Death
   location: ch29:1790-2063
+  quote: the facts of the communicator’s life would often have to be culled from various
+    types of sometimes obscure sources in multiple locations and pulled together to
+    create the personality. The highly refined level of telepathy and clairvoyance
+    needed to do this would be almost unimaginable.
   claim_id: 32365fe4-612e-439b-832c-5ab4ef8fcc61
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-32365fe4-612e-439b-832c-5ab4ef8fcc61
@@ -179,6 +200,12 @@ references:
 - text: Kean on the telepathic requirements of a materialised form
   source: Surviving Death
   location: ch37:26809-27245
+  quote: For a medium to do this on his own, he would have to have the power to create
+    a form entirely *separate* from himself, which could walk and talk independently—a
+    functioning "other." In addition, he would have to use telepathic information
+    to make the form match a once-living person completely unknown to him, and then
+    imbue the form with the obscure verbal information and physical appearance that
+    would prove its identity to a family member.
   claim_id: 0e7c03fa-63bd-4697-8e4c-c920c65c07c1
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-0e7c03fa-63bd-4697-8e4c-c920c65c07c1
@@ -186,6 +213,10 @@ references:
 - text: Haraldsson on drop-in cases and the survival hypothesis
   source: Surviving Death
   location: ch36:4511-4759
+  quote: The hypothesis of telepathy among living persons and/or clairvoyance does
+    not adequately explain the strongest drop-in cases, thus establishing them as
+    being of particular significance for the question of the survival of the human
+    personality past death.
   claim_id: 998233a3-9234-4c7e-b3a9-c6c3c11d6837
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-998233a3-9234-4c7e-b3a9-c6c3c11d6837
@@ -193,6 +224,9 @@ references:
 - text: Kean's description of her first after-death communication
   source: Surviving Death
   location: ch30:14771-14975
+  quote: 'This seemed like an experience of telepathy: I felt like I was hearing with
+    my mind and not my ears. It wasn’t *in* my mind, but was perceived *by* my mind,
+    as if my consciousness had its own nonphysical ears.'
   claim_id: c3939194-dea4-4e85-b9a5-2a88e66627c0
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c3939194-dea4-4e85-b9a5-2a88e66627c0
@@ -200,6 +234,8 @@ references:
 - text: Auerbach on perceptual insertion and apparitions
   source: Surviving Death
   location: ch31:25780-25919
+  quote: This explains why only some people might experience apparitions—their perceptual
+    processes are susceptible to such insertion by telepathic projection.
   claim_id: b10a7f9d-7dd3-407b-95d4-71a545b7437b
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-b10a7f9d-7dd3-407b-95d4-71a545b7437b
@@ -207,6 +243,10 @@ references:
 - text: Auerbach's Chris/Lois case and telepathy as an explanation
   source: Surviving Death
   location: ch31:29086-29334
+  quote: We concluded that either Chris (or Lois) read our minds while we were there
+    or that Lois somehow really was present in the car with us. No matter what, telepathy
+    by either Chris or Lois would have been enough to explain this and seems a reasonable
+    interpretation.
   claim_id: 8f18dad1-6c30-4d00-8e48-1f1be1fbfacd
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8f18dad1-6c30-4d00-8e48-1f1be1fbfacd
@@ -214,6 +254,9 @@ references:
 - text: The six siddhi powers including telepathy
   source: The Fourth Mind
   location: ch21:4712-4876
+  quote: The powers are healing, clairvoyance, levitation, telepathy, astral projection
+    (also known as out-of-body travel), and manifestation, or the ability to materialize
+    objects.
   claim_id: 6651215a-1a96-4bdf-a140-901f268e6102
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6651215a-1a96-4bdf-a140-901f268e6102
@@ -221,6 +264,8 @@ references:
 - text: Levitation and telepathy among the secondary siddhis
   source: The Fourth Mind
   location: ch21:7935-8025
+  quote: Among the secondary ones, which the visitors are also seen to possess, are
+    levitation and telepathy.
   claim_id: 4b960ab4-c764-43f5-986b-2374e5ab48cd
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4b960ab4-c764-43f5-986b-2374e5ab48cd
@@ -228,6 +273,10 @@ references:
 - text: Telepathy as a side effect of addressing the universe from outside time
   source: The Fourth Mind
   location: ch21:1868-2179
+  quote: The ability to move and function outside of the block—outside of time—is
+    the key to what appear to us as skills—levitation, shape-shifting, telepathy,
+    spontaneous healing, instantaneous movement, and so forth—are actually side effects
+    of their being able to address the universe itself from the outside looking in.
   claim_id: d9ea78cb-fe2d-4b5e-be16-b2fb972bfa02
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d9ea78cb-fe2d-4b5e-be16-b2fb972bfa02
@@ -236,6 +285,10 @@ references:
 - text: The third eye as a telepathic transceiver in Hindu tradition
   source: The Fourth Mind
   location: ch24:6530-6825
+  quote: Hindu tradition relates the third eye to the pineal gland and contemplates
+    the third eye as a sort of transceiver that enables things like far-seeing and
+    telepathic communication as part of its ability to see into higher levels of reality,
+    and receive signals from what are thought of as subtle energies.
   claim_id: 738d2e9d-71c8-4e61-b454-a3ead6f0929a
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-738d2e9d-71c8-4e61-b454-a3ead6f0929a
@@ -243,6 +296,8 @@ references:
 - text: Humanity as a telepathic species before the Younger Dryas
   source: The Fourth Mind
   location: ch26:13002-13148
+  quote: Before the catastrophe, there is evidence that we were also a telepathic
+    species, linked together in a community of mind that we urgently need to restore.
   claim_id: e5160acb-200e-461f-b732-2a9c28708c3e
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-e5160acb-200e-461f-b732-2a9c28708c3e
@@ -250,6 +305,9 @@ references:
 - text: Telepathic social groups contracting during the Younger Dryas
   source: The Fourth Mind
   location: ch24:4311-4478
+  quote: Extensive, even worldwide social groups connected by telepathy would have
+    first contracted, then disappeared as individuals struggled to maintain local
+    and individual survival.
   claim_id: 564d82f7-6a7c-4c4d-b424-5a1e04f3b11e
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-564d82f7-6a7c-4c4d-b424-5a1e04f3b11e
@@ -257,6 +315,10 @@ references:
 - text: Ancient peoples abandoning powers including telepathy
   source: The Fourth Mind
   location: ch25:16133-16382
+  quote: I think that the old powers of mind were lost or perhaps even intentionally
+    abandoned by peoples worldwide who concluded that their use of them were angering
+    the gods. And it wasn’t just levitation that was involved, but also other siddhis,
+    such as telepathy
   claim_id: a0d749bc-0f56-478e-a14e-8fcdbf62e185
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-a0d749bc-0f56-478e-a14e-8fcdbf62e185
@@ -264,6 +326,9 @@ references:
 - text: Telepathy as the lost power most needed to restore community
   source: The Fourth Mind
   location: ch25:21607-21780
+  quote: Of all the powers we have lost, the one we need most is probably not levitation.
+    It is, rather, the one that is most able to restore the fractured human community,
+    which is telepathy.
   claim_id: 4455274f-bc8e-4dac-85fc-00d45fdd8421
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-4455274f-bc8e-4dac-85fc-00d45fdd8421
@@ -283,6 +348,7 @@ references:
 - text: Strieber's experience that 'the boy' was telepathic
   source: The Fourth Mind
   location: ch14:25382-25436
+  quote: My experience of him, as I have said, was that he was telepathic.
   claim_id: f95bd6cd-5bf4-4bc1-912d-dde4e2921f64
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-f95bd6cd-5bf4-4bc1-912d-dde4e2921f64
@@ -290,6 +356,9 @@ references:
 - text: Klinefelter syndrome suggested as linked to the boy's telepathy
   source: The Fourth Mind
   location: ch14:25497-25681
+  quote: He may have been that way because of the syndrome, which would suggest that
+    this may not have been due to a poor choice of genetic engineering at all, but
+    the result of an intentional choice.
   claim_id: 92a4e2ed-a55e-4459-83f8-da988f47d016
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-92a4e2ed-a55e-4459-83f8-da988f47d016
@@ -297,6 +366,9 @@ references:
 - text: Strieber on flawed telepathic hybrids lacking speech
   source: The Fourth Mind
   location: ch14:29511-29684
+  quote: Hybrids with humanoid bodies who possess powers such as telepathy but lack
+    the ability to talk have been created. These creatures, or many of them, seem
+    to be significantly flawed.
   claim_id: cbc6a417-520f-441c-a8b3-8f73c576556a
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-cbc6a417-520f-441c-a8b3-8f73c576556a
@@ -304,6 +376,8 @@ references:
 - text: Strieber on no known physical medium for telepathy
   source: The Fourth Mind
   location: ch15:6347-6439
+  quote: there is no known medium through which thought can be transmitted directly
+    from one mind to another
   claim_id: 884cf667-3fb2-49af-a4f9-ba8d8c45c921
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-884cf667-3fb2-49af-a4f9-ba8d8c45c921
@@ -311,6 +385,8 @@ references:
 - text: Strieber on telepathy requiring something outside known reality
   source: The Fourth Mind
   location: ch15:6830-6922
+  quote: for telepathy to work, something has to happen that cannot happen in reality
+    as we now know it
   claim_id: 82bdbc92-e639-4de1-9b71-7c853f420cd8
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-82bdbc92-e639-4de1-9b71-7c853f420cd8
@@ -318,6 +394,8 @@ references:
 - text: Witnesses observing visitors communicate telepathically
   source: The Fourth Mind
   location: ch24:1488-1603
+  quote: more similar to what I and other close encounter witnesses have observed
+    among the visitors, which is mind to mind telepathy
   claim_id: 1446b70a-45d5-4f00-92b0-afb8ffeae078
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-1446b70a-45d5-4f00-92b0-afb8ffeae078
@@ -325,6 +403,8 @@ references:
 - text: Strieber's personal experience of telepathy with the visitors
   source: The Fourth Mind
   location: ch26:11312-11423
+  quote: I have experienced telepathy with the visitors, and I'm not alone. ... It
+    seems natural and easy and unsurprising.
   claim_id: 41387c62-d23c-4011-a4e8-5485683e435b
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-41387c62-d23c-4011-a4e8-5485683e435b
@@ -524,6 +604,8 @@ references:
 - text: Strieber on Diane Hennacy Powell and autistic telepathic ability
   source: The Fourth Mind
   location: ch11:21671-21806
+  quote: It has been asserted and essentially proved by Dr. Diane Hennacy Powell,
+    that many unvoiced people on the autism spectrum do have this ability
   claim_id: 0dda1136-5e97-4e83-90f9-f3f5bc6e1cfb
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-0dda1136-5e97-4e83-90f9-f3f5bc6e1cfb

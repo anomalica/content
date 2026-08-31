@@ -52,6 +52,9 @@ references:
 - text: Rhine ran statistical card tests investigating ESP for around thirty years
   source: Journeys Out of the Body
   location: ch10:8157-8322
+  quote: The most well-known of these is Dr. J. B. Rhine, formerly of Duke University,
+    who conducted and compounded simple statistical probability card tests for some
+    thirty years.
   claim_id: 6617cdeb-0a3b-4803-b009-7be916650b2e
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-6617cdeb-0a3b-4803-b009-7be916650b2e
@@ -59,6 +62,7 @@ references:
 - text: Rhine's card tests proved ESP to his own satisfaction
   source: Journeys Out of the Body
   location: ch10:8329-8386
+  quote: To his satisfaction, he proved statistically that ESP is fact.
   claim_id: b3335883-e742-4aac-b229-3f8dd8d42f27
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-b3335883-e742-4aac-b229-3f8dd8d42f27
@@ -66,6 +70,8 @@ references:
 - text: Rhine's results were regarded dubiously by most US psychologists and psychiatrists
   source: Journeys Out of the Body
   location: ch10:8392-8530
+  quote: His results are looked upon dubiously and for the most part unacceptably
+    by the majority of psychologists and psychiatrists in the United States.
   claim_id: 77306ba8-59d2-4283-af35-3737ce89ecd6
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-77306ba8-59d2-4283-af35-3737ce89ecd6
@@ -137,6 +143,11 @@ references:
 - text: 'Gauld: the super-ESP hypothesis as a counter to the survival hypothesis'
   source: Surviving Death
   location: ch28:11815-12170
+  quote: When pushed to its limits, the preferred counterhypothesis to the survivalistic
+    one is that mediums’ information can be more simply and satisfactorily explained
+    in terms of ESP by living persons. Since we do not know the limits of ESP we can
+    never say for certain that ESP of the extraordinary extent that would often be
+    necessary—“super-ESP”—is actually impossible.
   claim_id: ffcbe355-e681-4a5e-bc10-cc1acf199930
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-ffcbe355-e681-4a5e-bc10-cc1acf199930
@@ -144,6 +155,9 @@ references:
 - text: Gauld on the quality of information in the Piper sittings
   source: Surviving Death
   location: ch28:16886-17107
+  quote: I know of no instance of undeniable telepathy between living persons, or
+    for that matter of any other variety of ESP, in which the flow of paranormally
+    acquired information has been so quick, so copious, and so free from error.
   claim_id: 048e735f-57de-41bf-9694-f75ad71965e1
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-048e735f-57de-41bf-9694-f75ad71965e1
@@ -151,6 +165,9 @@ references:
 - text: Haraldsson and Stevenson on the Runolfsson case's information sources
   source: Surviving Death
   location: ch28:46401-46623
+  quote: …it does not seem feasible to attribute all of this information to any single
+    person or any single written source. And this would be true, we believe, whether
+    the medium acquired the information normally or by extrasensory perception.
   claim_id: fb27781b-cb01-4caa-8726-cf2b1cdea175
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fb27781b-cb01-4caa-8726-cf2b1cdea175
@@ -158,6 +175,11 @@ references:
 - text: Definition of psi/psychic functioning as interchangeable with ESP
   source: Surviving Death
   location: ch7:13323-13654
+  quote: human beings have extraordinary mental abilities that science cannot explain.
+    They may be controversial, but they have been documented by legitimate scientists
+    for many years; I have also personally witnessed them in operation. We call these
+    abilities “psi,” or psychic functioning, interchangeable with “extrasensory perception”
+    (ESP).
   claim_id: 3b85b230-b710-477f-b548-78d4b6bd571e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3b85b230-b710-477f-b548-78d4b6bd571e
@@ -165,6 +187,8 @@ references:
 - text: Kean on Leininger as reliving a past life rather than using ESP
   source: Surviving Death
   location: ch10:10241-10351
+  quote: As implausible as it may sound, the evidence points toward James actually
+    remembering and reliving a previous existence.
   claim_id: a0291600-ed14-48be-bdaf-7d47a0606bf6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a0291600-ed14-48be-bdaf-7d47a0606bf6
@@ -172,6 +196,10 @@ references:
 - text: Braude on the implausibility of an ESP-only explanation for Leininger
   source: Surviving Death
   location: ch10:9388-9687
+  quote: To explain such a case in terms of psi only, “we may need to posit either
+    implausibly successful ESP links between the subject and multiple sources, or
+    even more incredible psi on the part of the parents, involving both information
+    gathering and telepathic influence over the subject,” says Stephen Braude
   claim_id: 382c353f-c2cc-4f2e-a20d-f25155a8a726
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-382c353f-c2cc-4f2e-a20d-f25155a8a726
@@ -179,6 +207,8 @@ references:
 - text: Braude on out-of-body experiences as manifestations of ESP
   source: Surviving Death
   location: ch16:2709-2805
+  quote: '"It''s reasonable to interpret OBEs as imagery-rich manifestations of ESP,"
+    Stephen Braude points out.'
   claim_id: 62044337-b8c2-4b8d-9298-613e750b2dd1
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-62044337-b8c2-4b8d-9298-613e750b2dd1
@@ -186,6 +216,9 @@ references:
 - text: Jackson's account of growing up with natural ESP
   source: Surviving Death
   location: ch26:6155-6320
+  quote: Like Sandra, Laura grew up with natural abilities, which mainly involved
+    an exceptional perception of people’s energies and an ESP that she seemed to have
+    been born with.
   claim_id: a0dc4783-6902-48bb-9ecd-777800bd76c5
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a0dc4783-6902-48bb-9ecd-777800bd76c5

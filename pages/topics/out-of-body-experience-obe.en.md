@@ -411,6 +411,9 @@ references:
     its origin
   source: Remote Viewing Secrets
   location: ch25:15853-16068
+  quote: In the Out of Body Experience (OBE), people actually perceive that they have
+    traveled to that location, and are present there in all ways except the presence
+    of their physical bodies, which remain at their place of origin.
   claim_id: c6146ce4-65c8-4c11-b390-39cbfb53d8b2
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c6146ce4-65c8-4c11-b390-39cbfb53d8b2
@@ -418,6 +421,7 @@ references:
 - text: Robert Monroe was a pioneer in exploring the OOBE
   source: Journeys Out of the Body
   location: ch2:2-67
+  quote: Robert A. Monroe has been a pioneer in exploring out-of-the-body experiences
   claim_id: 6397e88c-fe01-4309-af66-806fa708a0f7
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-6397e88c-fe01-4309-af66-806fa708a0f7
@@ -425,6 +429,9 @@ references:
 - text: Monroe's research spanned hundreds of experiments over twelve years
   source: Journeys Out of the Body
   location: ch10:24543-24698
+  quote: Hundreds of experiments spread over twelve years, and still continuing, have
+    brought forth conclusions that seem inescapable yet alien to my environmental
+    conditioning.
   claim_id: dc82aaa6-b0e3-41af-9bc7-ce2b6df16d43
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-dc82aaa6-b0e3-41af-9bc7-ce2b6df16d43
@@ -432,6 +439,8 @@ references:
 - text: Monroe classified approximately 589 out-of-the-body experiments
   source: Journeys Out of the Body
   location: ch27:3195-3297
+  quote: the sorting and classification of some 589 experiments over a period of twelve
+    years becomes somewhat easier
   claim_id: 741ffbbe-5b6b-4e40-9196-8639b536747e
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-741ffbbe-5b6b-4e40-9196-8639b536747e
@@ -439,6 +448,9 @@ references:
 - text: The State of Vibration beginning partway through relaxation, 1960-04-18
   source: Journeys Out of the Body
   location: ch18:603-770
+  quote: I lay down on the couch around ten, and started fractional relaxation. The
+    room was bright in morning daylight. Halfway through the second time around, the
+    vibrations started.
   claim_id: fba35c89-f8e1-417d-aacb-7f75aaa06ad1
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-fba35c89-f8e1-417d-aacb-7f75aaa06ad1
@@ -447,6 +459,9 @@ references:
     it
   source: Journeys Out of the Body
   location: ch18:902-1145
+  quote: With physical eyes open, I decided to try and “lift out” to see what happened
+    to my vision... I was just about eight inches over the physical when I saw a movement
+    out of the corner of my eye.
   claim_id: 5af25ca4-88b0-4d99-bf69-a46c901d9e81
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-5af25ca4-88b0-4d99-bf69-a46c901d9e81
@@ -454,6 +469,9 @@ references:
 - text: Description of the small humanoid entity, 1960-04-18
   source: Journeys Out of the Body
   location: ch18:1183-1408
+  quote: Walking up beside my body was a human-appearing body... It was nude, no clothes,
+    and male. He seemed in size to be about ten years old, some three feet tall, thin
+    legs, little pubic hair, undeveloped genitals.
   claim_id: 4c8bbc48-0d5f-463b-83cf-cd8ba55b7426
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-4c8bbc48-0d5f-463b-83cf-cd8ba55b7426
@@ -461,6 +479,9 @@ references:
 - text: The entity climbed onto Monroe's back and wrapped its legs around his waist
   source: Journeys Out of the Body
   location: ch18:1506-1711
+  quote: Calmly, as if it were a daily occurrence—like a boy swinging onto his favorite
+    horse—he swung a leg over my back and climbed on me. I could feel his legs around
+    my waist, his small body pressed against my back.
   claim_id: d5d2eb21-99ac-44e7-be08-905ba2c5bb50
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-d5d2eb21-99ac-44e7-be08-905ba2c5bb50
@@ -468,6 +489,9 @@ references:
 - text: Monroe retreated into his body rather than confront the entity
   source: Journeys Out of the Body
   location: ch18:2214-2432
+  quote: I felt that I didn’t want to confront whoever he was in an environment where
+    he was obviously more at home than I, so I retreated quickly back into my physical
+    body, cut down the vibrations, and started to write these notes.
   claim_id: 427a1997-bc98-49df-8839-a1247f911de0
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-427a1997-bc98-49df-8839-a1247f911de0
@@ -475,6 +499,8 @@ references:
 - text: Monroe considered the entity more animal-like than human despite its form
   source: Journeys Out of the Body
   location: ch18:2584-2738
+  quote: It was certainly humanoid in form, but upon reflection, it didn’t have the
+    feeling of human intelligence. It (he) seemed more animal, or somewhere in between.
   claim_id: c39f0965-da65-426d-b5a0-e3e6ea0a420e
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-c39f0965-da65-426d-b5a0-e3e6ea0a420e
@@ -482,6 +508,9 @@ references:
 - text: Attack by an unseen entity in a Durham hotel room, 1960-07-13
   source: Journeys Out of the Body
   location: ch18:11084-11321
+  quote: In hotel room in Durham with my wife in bed beside me, late at night... Immediately,
+    I was attacked by something I couldn’t see in the darkness. It fought at the animal
+    level, i.e., tried to bite and scratch.
   claim_id: 60aa3e63-3fc6-4a33-8162-b3164d26978d
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-60aa3e63-3fc6-4a33-8162-b3164d26978d
@@ -489,6 +518,9 @@ references:
 - text: Monroe ejected the entity through a window, estimating its size
   source: Journeys Out of the Body
   location: ch18:11624-11853
+  quote: it was only through sheer determination that I fought it step by step over
+    to the window and hurled it out. It apparently had no human or intelligence characteristics.
+    It seemed pure animal and about four feet long, like a large dog.
   claim_id: 6e5f3808-52e1-43ea-9ebf-83b4007a405b
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-6e5f3808-52e1-43ea-9ebf-83b4007a405b
@@ -496,6 +528,9 @@ references:
 - text: Monroe's hand passed through the closed window, confirming non-physical state
   source: Journeys Out of the Body
   location: ch18:11861-12050
+  quote: By the window, after disposing of it, I turned and realized for the first
+    time that I was not in the physical. (My hand was right through the closed window!)
+    I floated over to the bed... and was back “in.”
   claim_id: 02718845-9943-4ecb-a836-9ded53dde787
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-02718845-9943-4ecb-a836-9ded53dde787
@@ -503,6 +538,9 @@ references:
 - text: Monroe's letter to Richard Gordon describing OOB technique
   source: Journeys Out of the Body
   location: 60-66
+  quote: “Why don’t you write him a letter,” she suggested... She read it again and
+    again to Dr. Gordon whenever he was conscious. She told me later that these repeated
+    readings were at his request, not at her suggestion.
   claim_id: 453101db-0dce-4547-af1c-75af25729157
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-453101db-0dce-4547-af1c-75af25729157
@@ -510,6 +548,8 @@ references:
 - text: Monroe considered the 1963-08-23 episode might represent true death
   source: Journeys Out of the Body
   location: ch20:1418-1547
+  quote: It was then that I seriously considered another possibility. This might be
+    death, true death, instead of the typical out-of-body experience.
   claim_id: 30b0a99c-1beb-4d62-8492-ca1e137ecb5c
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-30b0a99c-1beb-4d62-8492-ca1e137ecb5c
@@ -517,6 +557,8 @@ references:
 - text: Eight laboratory attempts at the University of Virginia Medical School
   source: Journeys Out of the Body
   location: ch8:12393-12526
+  quote: On eight occasions Mr. Monroe was asked to try to produce an OOBE while hooked
+    up to various instruments for measuring physiological functions.
   claim_id: 0017413f-c38b-46e0-8d18-ac8c8226e6a2
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-0017413f-c38b-46e0-8d18-ac8c8226e6a2
@@ -524,6 +566,8 @@ references:
 - text: Unsuccessful on the first seven laboratory nights
   source: Journeys Out of the Body
   location: ch8:13301-13392
+  quote: On the first seven nights during which he attempted to produce an OOBE, Mr.
+    Monroe was not successful.
   claim_id: 70102fc3-c550-4b95-ab23-ab6e1c9cf8a4
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-70102fc3-c550-4b95-ab23-ab6e1c9cf8a4
@@ -531,6 +575,8 @@ references:
 - text: Two brief OOBEs on the eighth laboratory night
   source: Journeys Out of the Body
   location: ch8:13404-13519
+  quote: On his eighth night he was able to produce two very brief OOBEs, and these
+    are described in some detail in his own words
   claim_id: 16610bea-d273-40a2-a9f3-c2147bcde4e6
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-16610bea-d273-40a2-a9f3-c2147bcde4e6
@@ -540,6 +586,8 @@ references:
     in the corridor
   source: Journeys Out of the Body
   location: ch8:13915-14060
+  quote: He did correctly describe that the laboratory technician was out of the room,
+    and that a man (later identified as her husband) was with her in a corridor.
   claim_id: 678bc207-ee83-4160-a6f8-c7de75d30656
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-678bc207-ee83-4160-a6f8-c7de75d30656
@@ -548,6 +596,7 @@ references:
 - text: Two brief OOBEs under improved conditions, California 1968
   source: Journeys Out of the Body
   location: ch8:14785-14850
+  quote: Under these conditions, Mr. Monroe was able to produce two brief OOBEs.
   claim_id: a5045ed2-11a0-4b8f-823a-a4709884a93c
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-a5045ed2-11a0-4b8f-823a-a4709884a93c
@@ -555,6 +604,9 @@ references:
 - text: Tart and Crawford observed Monroe on closed-circuit television
   source: Journeys Out of the Body
   location: ch8:15543-15735
+  quote: An assistant, Joan Crawford, and I had been watching him on a closed-circuit
+    television set during this time and we saw him move his arm slightly away from
+    his throat just before he awoke and reported.
   claim_id: d1f8ae5f-7bf0-4972-b64f-6c9f25b8e4dd
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-d1f8ae5f-7bf0-4972-b64f-6c9f25b8e4dd
@@ -562,6 +614,8 @@ references:
 - text: McMoneagle's spontaneous, uncontrolled OBEs after his 1970 near-death experience
   source: Remote Viewing Secrets
   location: ch25:16077-16174
+  quote: After my near-death experience in 1970, I had continuing spontaneous OBEs,
+    but could not control them.
   claim_id: 7a8d6e70-1b2a-472e-a44c-0866098aa3fc
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-7a8d6e70-1b2a-472e-a44c-0866098aa3fc
@@ -569,6 +623,8 @@ references:
 - text: By 1983 McMoneagle regarded Monroe as able to control the experience
   source: Remote Viewing Secrets
   location: ch25:16180-16300
+  quote: In 1983, there was one man in the world who I felt I could trust who claimed
+    he could control them, and that was Robert Monroe.
   claim_id: fc07ecf6-f607-4d0c-8cea-ae4af8e305cc
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-fc07ecf6-f607-4d0c-8cea-ae4af8e305cc
@@ -576,6 +632,9 @@ references:
 - text: McMoneagle worked in Monroe's lab for nearly fourteen months
   source: Remote Viewing Secrets
   location: ch25:16550-16710
+  quote: We worked together in his lab for a period of nearly fourteen months, where
+    I was finally successful in learning to control the ability, albeit, not as well
+    as he.
   claim_id: 63fceb6b-f794-4524-873a-38d3674cddbf
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-63fceb6b-f794-4524-873a-38d3674cddbf
@@ -583,6 +642,8 @@ references:
 - text: McMoneagle and Monroe visited targets both OOB and via remote viewing
   source: Remote Viewing Secrets
   location: ch25:16714-16805
+  quote: We were able to visit a number of targets in both the Out of Body sense and
+    through remote viewing.
   claim_id: 7f793e6b-5000-4608-b761-17d72a08da57
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-7f793e6b-5000-4608-b761-17d72a08da57
@@ -590,6 +651,8 @@ references:
 - text: OBE training produced increased control over remote viewing
   source: Remote Viewing Secrets
   location: ch25:16938-17046
+  quote: I did find that there was substantial increase in control over my remote
+    viewing ability as a result of the experience.
   claim_id: d2a44173-7920-4c9b-95ec-79398b60c33f
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-d2a44173-7920-4c9b-95ec-79398b60c33f
@@ -597,6 +660,9 @@ references:
 - text: 'McMoneagle: impossible to confirm OOB travel versus ordinary psychic functioning'
   source: Remote Viewing Secrets
   location: ch18:21833-21989
+  quote: Since it's not possible to confirm out-of-body travel versus garden variety
+    psychic functioning, it is impossible to know if someone is actually seeing the
+    target.
   claim_id: d3b4a171-a092-4acc-b95f-7c366c11d930
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-d3b4a171-a092-4acc-b95f-7c366c11d930
@@ -604,6 +670,9 @@ references:
 - text: Pam Reynolds felt no pain and could move at will by thought
   source: Surviving Death
   location: '31'
+  quote: The feeling of exiting the body was incredible... I felt no more pain, no
+    more suffering, no more fear. No more anxiety, even for the sake of my children.
+    All of those things disappeared when I left that body.
   claim_id: b4ca0279-76ac-497b-b553-d0b6935a353a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-b4ca0279-76ac-497b-b553-d0b6935a353a
@@ -611,6 +680,9 @@ references:
 - text: Maria told Sharp she watched her resuscitation from the ceiling
   source: Surviving Death
   location: ch15:4293-4445
+  quote: Maria pointed to a corner of the ceiling in her room and told me that she
+    had left her body and had been up there, watching her resuscitation from that
+    place.
   claim_id: 72d2b3a7-82c1-4302-a5ec-6916a2bd2a16
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-72d2b3a7-82c1-4302-a5ec-6916a2bd2a16
@@ -618,6 +690,11 @@ references:
 - text: Maria's veridical perception of a tennis shoe on a window ledge
   source: Surviving Death
   location: ch15:7289-7618
+  quote: 'She said that while she was out of her body she was distracted by something
+    in another part of the hospital. By gesturing with the same quick snap of her
+    fingers, she described somehow finding herself three or four stories above the
+    ground staring very closely at an odd object sitting outside on a window ledge:
+    a single tennis shoe.'
   claim_id: 7df20c2a-e749-4890-bceb-a6fb61245018
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-7df20c2a-e749-4890-bceb-a6fb61245018
@@ -625,6 +702,7 @@ references:
 - text: 'Van Lommel: 25 percent of near-death experiencers reported an OBE'
   source: Surviving Death
   location: ch18:10353-10391
+  quote: 25 percent an out-of-body experience (OBE)
   claim_id: dc4e775c-e29f-4b0f-95e6-189f5516f598
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dc4e775c-e29f-4b0f-95e6-189f5516f598
@@ -633,6 +711,9 @@ references:
     apart from the body
   source: Surviving Death
   location: ch18:15527-15705
+  quote: In fact, veridical OBEs, such as that of the well-known case of Maria in
+    Seattle, provide the strongest evidence for the existence of consciousness outside
+    and separate from the body.
   claim_id: 63a430ca-2d1f-4bfc-81bd-6cb971f0dbd7
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-63a430ca-2d1f-4bfc-81bd-6cb971f0dbd7
@@ -641,6 +722,9 @@ references:
     brain function'
   source: Surviving Death
   location: ch18:18921-19086
+  quote: Based on these cases of corroborated OBEs, I think that there are good reasons
+    to assume that our consciousness does not always coincide with the functioning
+    of our brain.
   claim_id: 66ad161c-9c7f-4c97-88a2-5658bc5b8fb3
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-66ad161c-9c7f-4c97-88a2-5658bc5b8fb3
@@ -648,6 +732,7 @@ references:
 - text: 'Holden''s report: 8 percent minor errors, 2 percent false, in about 100 OBEs'
   source: Surviving Death
   location: ch18:16399-16452
+  quote: 8 percent contained minor errors, and 2 percent were false.
   claim_id: dee0a6a9-3e6d-4cd8-a839-0af59f753ea4
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dee0a6a9-3e6d-4cd8-a839-0af59f753ea4

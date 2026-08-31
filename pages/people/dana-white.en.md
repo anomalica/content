@@ -57,6 +57,8 @@ references:
     role in AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:23060-23182
+  quote: The Politico piece in particular spelled out that the Pentagon's spokesperson,
+    Dana White, had confirmed my role in the program.
   claim_id: c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d

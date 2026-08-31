@@ -130,6 +130,8 @@ references:
 - text: Top speed of Mach 3.3, approximately 3,500 kilometres per hour
   source: In Plain Sight
   location: ch13:19088-19201
+  quote: The fastest jet currently flying is the United States' SR-71 Blackbird, with
+    a top speed of mach 3.3, or 3500 km/h.
   claim_id: 77a80a46-3af5-4896-8f55-2f1705dd25b3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-77a80a46-3af5-4896-8f55-2f1705dd25b3
@@ -138,6 +140,9 @@ references:
     by heat
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:12066-12226
+  quote: The SR-71 Blackbird can just about hit Mach 5 at high altitudes. Made up
+    almost entirely of titanium, any faster, the aircraft would be incinerated by
+    the heat generated.
   claim_id: f1cc7a47-4251-4c89-98b4-f7676657da65
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f1cc7a47-4251-4c89-98b4-f7676657da65
@@ -146,6 +151,9 @@ references:
     a turn
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:13078-13238
+  quote: As an example, at full speed, the SR-71, known as the Blackbird, requires
+    airspace roughly half the size of the state of Ohio to complete a right- or left-hand
+    turn.
   claim_id: ab6dafb3-ecbc-4ff8-b764-ee701c8e6206
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ab6dafb3-ecbc-4ff8-b764-ee701c8e6206
@@ -195,6 +203,9 @@ references:
     B-2A
   source: In Plain Sight
   location: ch13:13251-13423
+  quote: Aviation journalist Jim Goodall has written 20 books on a plethora of top-secret
+    craft, such as the SR-71 Blackbird, the F-117 stealth attack aircraft and the
+    B-2A stealth bomber.
   claim_id: 1aaad40b-67cd-40c1-bf11-d19fe580040d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1aaad40b-67cd-40c1-bf11-d19fe580040d
@@ -202,6 +213,11 @@ references:
 - text: Skunk Works developed the U-2, SR-71, F-117A, F-22 and F-35
   source: In Plain Sight
   location: ch18:15942-16329
+  quote: Skunk Works is a nickname for Lockheed's advanced development programs and
+    it has an illustrious super-secret black-budget history for its role in developing
+    the U2 and SR-71 Blackbird spy-planes, the F-117 Nighthawk stealth attack aircraft,
+    the F-22 Raptor fighter and the F-35 Lightning stealth jet – all by far the most
+    advanced known aerospace defence technology of their day on the planet.
   claim_id: 9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9fe8d46b-10d7-4140-94d0-7b2fa3cf4e3d
@@ -210,6 +226,10 @@ references:
     craft at Kadena, 1972-73
   source: In Plain Sight
   location: ch13:17625-17897
+  quote: He told me how 'Dave', a retired lieutenant colonel in the US Air Force who
+    flew the high-altitude mach-3-plus Lockheed SR-71 reconnaissance aircraft, witnessed
+    an unidentified craft while night-flying out of Kadena Air Force Base in Okinawa,
+    Japan, in late 1972 or early 1973.
   claim_id: 699a3e88-07e2-431c-b5ac-ee8661c12c4e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-699a3e88-07e2-431c-b5ac-ee8661c12c4e
@@ -217,6 +237,8 @@ references:
 - text: Dave closed on the object and saw it was not round, with shiny metallic edges
   source: In Plain Sight
   location: ch13:18354-18504
+  quote: He advanced the throttles on the spy-plane to try to intercept the object
+    and as he grew closer, he could see it was not round, it had shiny metallic edges.
   claim_id: a381a031-01cb-435d-8afb-98ea060e987e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a381a031-01cb-435d-8afb-98ea060e987e
@@ -224,6 +246,9 @@ references:
 - text: Robert Fish shown radar tracks of a hypersonic UFO alongside a USAF SR-71
   source: In Plain Sight
   location: ch13:31185-31383
+  quote: In the early 1990s, while working in a high security aerospace company facility,
+    he was shown digital radar tracks showing a hypersonic UFO tracking alongside
+    the US Air Force's SR-71 Blackbird spy plane.
   claim_id: f9eeef63-58be-4494-8af5-6b01717b10dd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f9eeef63-58be-4494-8af5-6b01717b10dd
@@ -231,6 +256,9 @@ references:
 - text: Two images streaking at over Mach 3, lead being the SR-71, the other unidentified
   source: In Plain Sight
   location: ch13:31400-31572
+  quote: '''There were two images streaking through the sky at Mach 3+ – one in a
+    side-chase position to the other. The lead plane was our venerable SR-71 Blackbird;
+    the other one was unidentified.'
   claim_id: 5df5fdb3-0df3-4406-aa0c-acdb469a219f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5df5fdb3-0df3-4406-aa0c-acdb469a219f
@@ -239,6 +267,9 @@ references:
     maintaining speed
   source: In Plain Sight
   location: ch13:31586-31753
+  quote: At one point in the trace, the unidentified object made a 90-degree right
+    turn and headed off in a different direction, rapidly gaining altitude while maintaining
+    its speed.
   claim_id: d9728688-94b8-4b0c-8dd8-a0e3a1df0c29
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d9728688-94b8-4b0c-8dd8-a0e3a1df0c29
@@ -247,6 +278,10 @@ references:
     for aircraft like the U-2, SR-71 and Aurora
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:2185-2427
+  quote: They even popped up on the radar at 80,000 feet, where you begin to get into
+    space, well above the normal envelope of aircraft, even military aircraft, with
+    only a few notable exceptions, which include the U-2, the Blackbird, and the alleged
+    Aurora.
   claim_id: 3687c3dd-7ce7-4b8b-926e-da5ac90caf80
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3687c3dd-7ce7-4b8b-926e-da5ac90caf80
@@ -254,6 +289,8 @@ references:
 - text: UAP make right-angle turns at speeds up to ten times faster than the SR-71
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:13244-13339
+  quote: By contrast, UAP make immediate right-angle turns at speeds up to ten times
+    faster than the SR-71.
   claim_id: 09c962b1-af39-4fe1-af82-591778224e5f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-09c962b1-af39-4fe1-af82-591778224e5f
@@ -262,6 +299,9 @@ references:
     interview
   source: In Plain Sight
   location: ch13:22093-22326
+  quote: Two decades later, a former SR-71 pilot, David Fruehauf (whom I surmise was
+    Jim Goodall's confidential 'Dave' source), went public in a television interview,
+    partially backing Lazar's claims. 'I think he's very credible,' Fruehauf asserted.
   claim_id: 13282920-8ccf-48a6-95f1-8062c0345ff4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13282920-8ccf-48a6-95f1-8062c0345ff4

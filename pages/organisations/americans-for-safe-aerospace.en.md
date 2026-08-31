@@ -37,6 +37,9 @@ references:
     aerospace safety and national security
   source: In Plain Sight
   location: ch29:28922-29082
+  quote: In a laudable initiative, Ryan Graves has launched an organisation called
+    Americans for Safe Aerospace (ASA), which advocates for aerospace safety and national
+    security.
   claim_id: ab2f212d-3754-4c55-8ea2-97288d736b40
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ab2f212d-3754-4c55-8ea2-97288d736b40
@@ -64,6 +67,8 @@ references:
     UAP, demanding more disclosure from public officials
   source: In Plain Sight
   location: ch29:29092-29218
+  quote: It supports military and civilian pilots and others in the aerospace industry
+    who report UAPs, demanding more disclosure from public officials.
   claim_id: ea1c1e64-3d47-4ed3-b736-2a5345f5ec35
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ea1c1e64-3d47-4ed3-b736-2a5345f5ec35

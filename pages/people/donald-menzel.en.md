@@ -80,6 +80,9 @@ references:
     World War
   source: Dark Mission
   location: ch12:68352-68549
+  quote: Shortly before the war, Bush was also working closely with Dr. Donald Menzel,
+    an astronomer at Harvard University, on the development of a "differential analyzer"—the
+    world's first (modern) analog computer.
   claim_id: 951afd96-5497-41e1-bedd-98b6d68a6d2f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-951afd96-5497-41e1-bedd-98b6d68a6d2f
@@ -88,6 +91,9 @@ references:
     at MIT
   source: Dark Mission
   location: ch12:68768-68963
+  quote: I first knew DHM [Menzel] of Cambridge, MA, in either 1934 or 1935 when I
+    was engaged in designing and building a machine known as a differential analyzer
+    at MIT, where I was then VP and Dean of Engineering.
   claim_id: 2e83dc0b-e772-4ca2-916b-9df6c2492a19
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2e83dc0b-e772-4ca2-916b-9df6c2492a19
@@ -96,6 +102,10 @@ references:
     interested in applying the analyzer to astrophysical problems
   source: Dark Mission
   location: ch12:68976-69219
+  quote: Dr. M., who was then an assistant or associate professor in the astronomy
+    department of Harvard University, was much interested in the possibility of applying
+    the differential analyzer to the solution of certain astronomical and astrophysical
+    problems.
   claim_id: 655851eb-8f17-4a98-9af4-b379b49d3044
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-655851eb-8f17-4a98-9af4-b379b49d3044
@@ -104,6 +114,9 @@ references:
     lensing effect
   source: Communion
   location: ch14:27953-28165
+  quote: the distinguished Harvard astronomer Dr. Donald Menzel, in his 1953 book
+    *Flying Saucers*, explained that a major sighting, carried out by professional
+    observers with good equipment, was "an atmospheric lensing effect."
   claim_id: 9003adec-38d2-4df2-85bd-10e21cee5402
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-9003adec-38d2-4df2-85bd-10e21cee5402
@@ -112,6 +125,9 @@ references:
     to one side of it
   source: Communion
   location: ch14:29330-29506
+  quote: He claimed that what the observers saw was a mirage of the balloon, appearing
+    at first above the balloon and moving straight downward until it was below and
+    to one side of the balloon.
   claim_id: 8cc0ee9f-4a9f-4c1d-919f-c81db99f5b1d
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8cc0ee9f-4a9f-4c1d-919f-c81db99f5b1d
@@ -120,6 +136,8 @@ references:
     with observers' data from the April 24, 1949 sighting
   source: Communion
   location: ch14:28174-28322
+  quote: According to navy physicist Dr. Bruce Maccabee, critical errors were made
+    by Dr. Menzel in comparing his own tensing theory with the data reported observers.
   claim_id: d764fab1-39f3-46ca-a9c1-6538b4f89f38
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d764fab1-39f3-46ca-a9c1-6538b4f89f38
@@ -128,6 +146,8 @@ references:
     did not match the official report
   source: Communion
   location: ch14:29222-29322
+  quote: I found that Dr. Menzel's description of the sighting in *Flying Saucers*
+    is not the same as in the report.
   claim_id: 69293e61-de83-4261-a5d0-9ab730e6067c
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-69293e61-de83-4261-a5d0-9ab730e6067c
@@ -136,6 +156,8 @@ references:
     in Flying Saucers
   source: Communion
   location: ch14:30185-30271
+  quote: Nowhere in his book did Dr. Menzel mention the actual sighting angles reported
+    by Mr. Moore.
   claim_id: 00fdc63c-0e86-4cfc-97bb-3087ae6e46c3
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-00fdc63c-0e86-4cfc-97bb-3087ae6e46c3
@@ -145,6 +167,10 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:10809-11049
+  quote: it showed astronomer Donald Menzel pouring some benzine over a tankful of
+    acetone to demonstrate optical properties that were common knowledge since the
+    eighteenth century. He was trying to convince the audience that UFO’s were nothing
+    but mirages.
   claim_id: 9b8b532a-c4c1-4019-93a4-7601d77513da
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9b8b532a-c4c1-4019-93a4-7601d77513da
@@ -152,6 +178,9 @@ references:
 - text: Menzel led public attacks on Immanuel Velikovsky
   source: Dark Mission
   location: ch12:71103-71262
+  quote: was the point man for the attacks on Immanuel Velikovsky, a psychologist
+    who had written a popular book arguing for a catastrophic model of the solar system's
+    origin
   claim_id: 890d919f-581d-40df-8c28-0daf835ca409
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-890d919f-581d-40df-8c28-0daf835ca409
@@ -159,6 +188,8 @@ references:
 - text: Menzel served as Carl Sagan's mentor at Harvard
   source: Dark Mission
   location: ch12:71270-71366
+  quote: Menzel, who served as Dr. Carl Sagan's mentor at Harvard, was essentially
+    the Carl Sagan of his day
   claim_id: 7b11d725-295f-4d0e-8d9c-70b376dab1ba
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7b11d725-295f-4d0e-8d9c-70b376dab1ba
@@ -167,6 +198,7 @@ references:
     mailed to Jaime Shandera
   source: Dark Mission
   location: ch12:70848-70890
+  quote: included both Bush and Menzel as founding members
   claim_id: a572a8f5-a29b-4d13-8123-45fd3f1a2c87
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a572a8f5-a29b-4d13-8123-45fd3f1a2c87
@@ -175,6 +207,9 @@ references:
     documents were forgeries, given his record as a public UFO debunker
   source: Dark Mission
   location: ch12:70899-71090
+  quote: At first, debunkers used the presence of Menzel on the list as "proof" the
+    documents were forgeries, since Menzel had been a frequent UFO debunker publicly
+    (having written three books on the subject)
   claim_id: 2b5d7616-bab2-476e-8b26-1069b00fcd66
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2b5d7616-bab2-476e-8b26-1069b00fcd66
@@ -183,6 +218,9 @@ references:
     double life
   source: Dark Mission
   location: ch12:71453-71676
+  quote: long-time UFO researcher (and nuclear physicist) Stanton Friedman went painstakingly
+    through Menzel's papers as part of his research for a book on the MJ 12 documents,
+    and discovered that Menzel had led an elaborate double life
   claim_id: 5bbc4fd3-2f27-4063-9b70-aaa71ae5f2ff
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5bbc4fd3-2f27-4063-9b70-aaa71ae5f2ff
@@ -191,6 +229,9 @@ references:
     programmes and intelligence committees
   source: Dark Mission
   location: ch12:71682-71891
+  quote: Friedman found numerous references to Menzel's participation in a variety
+    of intelligence projects and committees, including some top-secret weapons programs
+    that would have made him an ideal candidate for MJ 12.
   claim_id: 4c88887e-d711-4ed6-a300-f370dd92e4a1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4c88887e-d711-4ed6-a300-f370dd92e4a1
@@ -199,6 +240,9 @@ references:
     the NSA, CIA, and US Navy, holding a top-secret-ultra clearance
   source: In Plain Sight
   location: ch7:22632-22849
+  quote: It was only revealed after his death that Harvard astronomer and self-described
+    'UFO sceptic' Donald Menzel had a clandestine association with the US National
+    Security Agency, CIA and Navy (holding a top-secret-ultra clearance).
   claim_id: 49032c1d-f626-4c65-bb29-74a20a51363a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-49032c1d-f626-4c65-bb29-74a20a51363a
@@ -206,6 +250,7 @@ references:
 - text: Menzel never disclosed this relationship, even to his own university
   source: In Plain Sight
   location: ch7:22861-22922
+  quote: It was a secret relationship he never disclosed, even to his university.
   claim_id: 4165ac93-d055-40c5-b4bf-a1520fe896af
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4165ac93-d055-40c5-b4bf-a1520fe896af
@@ -214,6 +259,8 @@ references:
     with shutting down UAP stories
   source: In Plain Sight
   location: ch7:22934-23048
+  quote: Researcher Stanton Friedman has accused Menzel of being a deep-cover disinformation
+    agent tasked to shut down UAP stories.
   claim_id: 482de68a-2d9c-4950-a617-a06f3a3379f0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-482de68a-2d9c-4950-a617-a06f3a3379f0

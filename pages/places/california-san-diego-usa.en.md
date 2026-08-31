@@ -63,6 +63,8 @@ references:
 - text: Five vessels formed the carrier strike group off San Diego ahead of the encounter
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:1129-1248
+  quote: Five vessels had begun traveling together in US waters off the coast of San
+    Diego in what is known as a carrier strike group.
   claim_id: bd4ed419-95d2-490a-a9a3-95f7f8c34563
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bd4ed419-95d2-490a-a9a3-95f7f8c34563
@@ -71,6 +73,9 @@ references:
     radar contact
   source: In Plain Sight
   location: ch16:6036-6205
+  quote: Within a few hours of this sighting, the USS Nimitz planned to launch as
+    many as 30 aircraft and more were scheduled to be joining the carrier group exercise
+    from San Diego.
   claim_id: 5d9c3e93-4e0e-4d13-ab4e-f031aeefd54d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5d9c3e93-4e0e-4d13-ab4e-f031aeefd54d
@@ -79,6 +84,9 @@ references:
     between San Diego and Ensenada'
   source: In Plain Sight
   location: ch16:270-440
+  quote: On a clear day in the north-eastern Pacific Ocean, about 100 kilometres off
+    the coast at a mid-point between the US city of San Diego and the coastal town
+    of Ensenada in Mexico
   claim_id: 7cf43ad3-fab9-4454-90ab-5e25d61e6bc2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7cf43ad3-fab9-4454-90ab-5e25d61e6bc2
@@ -106,6 +114,8 @@ references:
     Island
   source: In Plain Sight
   location: ch16:2144-2298
+  quote: The UAPs were first spotted somewhere above 80,000 feet (24,383 metres) tracking
+    south towards the carrier fleet from around San Clemente Island (off San Diego)
   claim_id: 721494c9-7f6d-4a0d-9af9-acdddc267a51
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-721494c9-7f6d-4a0d-9af9-acdddc267a51
@@ -114,6 +124,8 @@ references:
     object
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch24:7582-7708
+  quote: Think back to Commander Dave Fravor flying that F/A-18 Hornet as he circled
+    down to confront the Tic Tac off the coast of San Diego.
   claim_id: 95240f23-2f22-4843-95fa-116c48ba9070
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-95240f23-2f22-4843-95fa-116c48ba9070
@@ -164,6 +176,8 @@ references:
 - text: Bruce Leininger attended a Natoma Bay reunion in San Diego, September 2002
   source: Surviving Death
   location: ch9:19303-19443
+  quote: In September 2002, Bruce finally took the step of attending a Natoma Bay
+    reunion in San Diego, California, expecting to find some answers there.
   claim_id: b65feea6-3e04-47fe-800a-a3139ab4f65e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-b65feea6-3e04-47fe-800a-a3139ab4f65e
@@ -192,6 +206,8 @@ references:
 - text: Egg-shaped UAP form from Socorro echoed in the 2004 San Diego sightings
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:23962-24108
+  quote: This "egg" shape pops up in reports over the decades, arguably most famously
+    in the 2004 case of sightings by naval aviators off the coast of San Diego.
   claim_id: b6856481-ac2a-4a83-9363-333839eaa2b8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b6856481-ac2a-4a83-9363-333839eaa2b8
@@ -199,6 +215,8 @@ references:
 - text: TTSA's planned location in Encinitas, north of San Diego
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:15232-15374
+  quote: DeLonge was a proud son of Poway, near San Diego. TTSA’s planned location
+    was in Encinitas, about thirty minutes north of the city, along the coast.
   claim_id: 5242da16-a248-4220-93c8-a00b043f7cb6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5242da16-a248-4220-93c8-a00b043f7cb6
@@ -206,6 +224,8 @@ references:
 - text: Elizondo family move to California; daughters Taylor and Alex Elizondo
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:18610-18719
+  quote: Taylor was staying behind for college. Alex would be uprooted and finish
+    her senior year at a high school in California.
   claim_id: 3c7ab0d3-c53e-4b35-9254-a6696bb3b451
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3c7ab0d3-c53e-4b35-9254-a6696bb3b451

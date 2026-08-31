@@ -522,6 +522,11 @@ references:
     radar operators tracked the event using Princeton's multiple sensor systems
   source: In Plain Sight
   location: ch16:10599-10952
+  quote: Back on board the USS Princeton in the Combat Information Centre everyone
+    in the room was tense, listening to both fighter pilots' increasingly stressed
+    communications over the speaker system. Five radar operators were each tracking
+    the event in real time, imagery from the Princeton's multiple sensor systems displayed
+    on their screens in front of them.
   claim_id: 5e1475b4-7346-48f1-8eaf-83108da510cf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5e1475b4-7346-48f1-8eaf-83108da510cf
@@ -531,6 +536,8 @@ references:
     24,000 metres towards the ocean
   source: In Plain Sight
   location: ch16:11101-11259
+  quote: Right at that very moment the 14 other unidentified targets on the Princeton's
+    radar screen were also tracked plummeting from above 80,000 feet towards the ocean.
   claim_id: 0fbee440-3a2d-41d5-8987-03b8de85101e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0fbee440-3a2d-41d5-8987-03b8de85101e
@@ -539,6 +546,8 @@ references:
     point approximately 100 kilometres distant, known as the 'cap point'
   source: In Plain Sight
   location: ch16:13143-13288
+  quote: Fravor and his wingman were told by the Princeton to fly to a prearranged
+    rendezvous point 100 kilometres distant, which was known as the 'cap point'.
   claim_id: f3a8906e-b056-4037-9bdb-482233867c1e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f3a8906e-b056-4037-9bdb-482233867c1e
@@ -547,6 +556,9 @@ references:
     concerned by anomalous radar tracks detected on their screens aboard Princeton
   source: In Plain Sight
   location: ch16:1322-1553
+  quote: Over the previous four days, the Princeton's Operations Specialist Senior
+    Chief Kevin Day...was increasingly concerned by anomalous radar tracks he and
+    his team detected on their screens.
   claim_id: 6317c279-d48c-4a83-bc69-9ff607d4bed9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6317c279-d48c-4a83-bc69-9ff607d4bed9
@@ -555,6 +567,8 @@ references:
     coordinating the systems that protect the entire carrier group
   source: In Plain Sight
   location: ch16:1351-1493
+  quote: the Princeton's Operations Specialist Senior Chief Kevin Day, who was in
+    charge of coordinating the systems that protect the entire carrier group
   claim_id: 57bc4c1a-284e-44af-a570-1622602a8a0f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-57bc4c1a-284e-44af-a570-1622602a8a0f
@@ -563,6 +577,10 @@ references:
     objects shot back above approximately 24,000 metres in a fraction of a second
   source: In Plain Sight
   location: ch16:15562-15822
+  quote: Inside the USS Princeton's Combat Information Centre astonished operators
+    watched as, once Fravor and his wingman returned to the USS Nimitz, in a fraction
+    of a second, the swarm of other objects that had descended towards the ocean shot
+    back above 80,000 feet.
   claim_id: ad95b4e5-4a0c-4936-a957-e971802cfb64
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ad95b4e5-4a0c-4936-a957-e971802cfb64
@@ -572,6 +590,8 @@ references:
     picture
   source: In Plain Sight
   location: ch16:1821-1975
+  quote: He verified what he saw on the Princeton's CEC, the Cooperative Engagement
+    System, which took all the radars from every source and merged them into one picture.
   claim_id: d6e8aa35-cf54-4741-826b-146330acc778
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d6e8aa35-cf54-4741-826b-146330acc778
@@ -581,6 +601,9 @@ references:
     Signal Exploitation Space
   source: In Plain Sight
   location: ch16:19589-19785
+  quote: A former Petty Officer Jason Turner, on board the USS Princeton in 2004,
+    claimed to have seen a fuller version of the video on a console monitor in what
+    is called the ship's Signal Exploitation Space.
   claim_id: 5dd0acb2-0091-4fc6-b6e8-1b0ee6eaa98a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5dd0acb2-0091-4fc6-b6e8-1b0ee6eaa98a
@@ -590,6 +613,9 @@ references:
     report
   source: In Plain Sight
   location: ch16:22767-23004
+  quote: The morning after the dogfight, Senior Chief Kevin Day went to the USS *Princeton*'s
+    communications room to get a copy of the radio communications from the previous
+    day so that he could get the data he needed to write up an after-action report.
   claim_id: 922a56a4-1aba-4fed-86c2-15785656b43c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-922a56a4-1aba-4fed-86c2-15785656b43c
@@ -598,6 +624,10 @@ references:
     Princeton's optical disk, even though the date and time stamps remained
   source: In Plain Sight
   location: ch16:23092-23396
+  quote: But he was shocked to learn that the data for the Tic Tac encounter had been
+    wiped. 'As it turns out, all of our comms had been erased. Now, every time you
+    key a mic on the ship, it stamps the optical disk with a date and time stamp.
+    All the date and time stamps were there but the actual comms were all missing.'
   claim_id: 0a0fbdf2-f4a8-4332-b4c1-188e8a3616a0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0a0fbdf2-f4a8-4332-b4c1-188e8a3616a0
@@ -606,6 +636,8 @@ references:
     Engagement Centre after the encounter
   source: In Plain Sight
   location: ch16:23885-24003
+  quote: On board the *Princeton*, Gary Voorhis was also ordered to turn over the
+    data tapes from the ship's Combat Engagement Centre
   claim_id: 2917e1f8-3eff-4c05-b736-ffc136898ad1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2917e1f8-3eff-4c05-b736-ffc136898ad1
@@ -614,6 +646,8 @@ references:
     encounter, and the system was recalibrated with no problems detected
   source: In Plain Sight
   location: ch16:2541-2669
+  quote: USS Princeton Petty Officer Gary Voorhis checked the radar system for false
+    returns. It was recalibrated and no problems were detected.
   claim_id: 258ee87a-6222-4ca2-afee-88dc14413cd9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-258ee87a-6222-4ca2-afee-88dc14413cd9
@@ -622,6 +656,8 @@ references:
     Kevin Day again saw a cluster of 14 unidentified objects on his radar screen
   source: In Plain Sight
   location: ch16:3258-3438
+  quote: Late on that 14 November morning, in the Princeton's Combat Information Centre,
+    Senior Chief Day again saw a cluster of 14 unidentified objects on his screen
   claim_id: f4df5185-9cd6-4950-ba89-285bb9f0f240
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f4df5185-9cd6-4950-ba89-285bb9f0f240
@@ -631,6 +667,9 @@ references:
     on their radar screen
   source: In Plain Sight
   location: ch16:7049-7205
+  quote: About 2 pm that afternoon the pilot of an FA-18 Hornet, Lieutenant Colonel
+    Douglas Kurth, was directed by the Princeton to the closest UAP on their radar
+    screen.
   claim_id: f046ffab-6fd1-4255-bd32-e9a889f665d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f046ffab-6fd1-4255-bd32-e9a889f665d8
@@ -640,6 +679,9 @@ references:
     radar system
   source: In Plain Sight
   location: ch16:740-914
+  quote: it was actually the accompanying Ticonderoga-class guided missile cruiser
+    USS Princeton that was providing air defence protection with its then brand-new
+    SPY-1 Aegis radar system
   claim_id: 9c13836a-6561-4b29-8009-791ca00f99d2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c13836a-6561-4b29-8009-791ca00f99d2
@@ -648,6 +690,8 @@ references:
     360-degree coverage for the entire carrier group
   source: In Plain Sight
   location: ch16:922-1048
+  quote: The Princeton has a passive electronically scanning radar system, which provided
+    360-degree coverage for the entire carrier group
   claim_id: 5828bf96-0f1d-43bb-a0e4-272221ae80ef
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5828bf96-0f1d-43bb-a0e4-272221ae80ef
@@ -656,6 +700,9 @@ references:
     regularly logged over one hundred UAP in the air surrounding the vessels
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:1905-2084
+  quote: For nearly two weeks leading up to the incident, the radar operators aboard
+    the *Princeton* had regularly logged UAP activity in the air surrounding the vessels.
+    Over one hundred UAP.
   claim_id: 2acb9ced-9e9d-428d-ad80-05f6584e96a4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2acb9ced-9e9d-428d-ad80-05f6584e96a4
@@ -665,6 +712,8 @@ references:
     seen
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:2090-2179
+  quote: They performed acrobatics that would challenge any aircraft the radar operators
+    had ever seen.
   claim_id: ec56f388-545d-4513-901e-944c8b52b9cf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ec56f388-545d-4513-901e-944c8b52b9cf
@@ -673,6 +722,7 @@ references:
     took part in the November 2004 USS Nimitz carrier strike group deployment
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:1601-1699
+  quote: a state-of-the-art SPY-1 radar-equipped missile cruiser called the USS *Princeton*
   claim_id: 1e73a0e8-1534-4288-bca9-220706b3297b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1e73a0e8-1534-4288-bca9-220706b3297b
@@ -681,6 +731,8 @@ references:
     while the other vessels of the carrier strike group were otherwise occupied
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:1766-1894
+  quote: At the time the incident took place, the *Nimitz* and the *Princeton* traveled
+    close together. The other vessels were otherwise occupied.
   claim_id: 3e3549b7-4cd5-466b-94d4-6b2f3c3aea28
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e3549b7-4cd5-466b-94d4-6b2f3c3aea28
@@ -689,6 +741,8 @@ references:
     government's classified email system following the encounter
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:14067-14188
+  quote: By then, many crewmen aboard the *Nimitz* and the *Princeton* had shared
+    the video via the government’s classified email system.
   claim_id: a050fde6-b287-46a6-ab81-12035ed0ae68
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a050fde6-b287-46a6-ab81-12035ed0ae68

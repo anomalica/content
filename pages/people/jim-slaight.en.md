@@ -38,6 +38,7 @@ references:
     back seat during the encounter
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:4475-4530
+  quote: In his back seat was Commander Jim Slaight, call sign “Clean.”
   claim_id: 607d0bc7-7e07-4adc-82fb-8e1d585cf985
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-607d0bc7-7e07-4adc-82fb-8e1d585cf985
@@ -45,6 +46,8 @@ references:
 - text: Slaight was known as the "warheads on foreheads" guy for his bombing precision
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:4538-4679
+  quote: An experienced and effective WSO, Slaight was often known as the “warheads
+    on foreheads” guy, due to the precision with which he dropped his bombs.
   claim_id: 56107243-7475-4c25-b9a2-10a2bc620c3d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-56107243-7475-4c25-b9a2-10a2bc620c3d
@@ -52,6 +55,8 @@ references:
 - text: Slaight saw the giant Tic Tac craft from above during the encounter
   source: In Plain Sight
   location: ch16:11352-11488
+  quote: From above, Fravor's colleague, Lieutenant Commander Jim Slaight, the weapons
+    systems officer in the second jet, also saw the giant Tic Tac.
   claim_id: 6958bbd3-a28a-4859-950d-285a3717a3f5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6958bbd3-a28a-4859-950d-285a3717a3f5
@@ -60,6 +65,8 @@ references:
     above the water
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:5756-5904
+  quote: At this moment, all four pilots noticed something even stranger. A bizarre
+    object darted back and forth over the whitecaps, about 50 feet above the water.
   claim_id: f38c8581-15c3-4da6-8b19-7887dbc0e3c8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f38c8581-15c3-4da6-8b19-7887dbc0e3c8
@@ -68,6 +75,9 @@ references:
     closed on it
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:6739-6916
+  quote: As Fravor and Slaight approached the Tic Tac—“poof”—it disappeared over the
+    horizon in a split second. Never before had Fravor or Slaight encountered anything
+    like this type of performance.
   claim_id: f23f7b44-d60f-491b-86a5-ce473c1580a3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f23f7b44-d60f-491b-86a5-ce473c1580a3
@@ -75,6 +85,8 @@ references:
 - text: Slaight described the craft as having defined edges with a fuzzy-looking border
   source: In Plain Sight
   location: ch16:11493-11577
+  quote: Slaight described it as having defined edges but with a fuzzy looking border
+    around it.
   claim_id: c3759359-ca32-42ba-ba64-4a70eb110d76
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c3759359-ca32-42ba-ba64-4a70eb110d76
@@ -83,6 +95,9 @@ references:
     a carrier deck in the Persian Gulf
   source: In Plain Sight
   location: ch16:11582-11790
+  quote: '''It looked like what the heat waves would look like coming off a hot paved
+    road or what the carrier deck looked like if you looked across it when in the
+    Gulf in the Middle East,'' he recalls.'
   claim_id: 5086cb36-23de-48cc-a224-afa445d616fe
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5086cb36-23de-48cc-a224-afa445d616fe
@@ -91,6 +106,8 @@ references:
     off
   source: In Plain Sight
   location: ch16:11801-11943
+  quote: He also watched as the object completed a tight circle around Fravor's plane.
+    It stopped and, after hovering for a couple of seconds, it shot off.
   claim_id: be25f452-d5bc-4039-9f1a-1db0447e86a7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-be25f452-d5bc-4039-9f1a-1db0447e86a7
@@ -98,6 +115,11 @@ references:
 - text: Slaight said the craft rifled out of sight instantly, with no gradual acceleration
   source: In Plain Sight
   location: ch16:11950-12277
+  quote: '''It was there . . . then it rifled out of sight in a split second,'' Slaight
+    remembers. ''It was as if the object was shot out of a rifle. There was no gradual
+    acceleration or spooling up period, it just shot out of sight immediately. I have
+    never seen anything like it before or since. No human could have withstood that
+    kind of acceleration.'''
   claim_id: 3c3c171d-a95d-401b-a9d5-fb3d7b1862cc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c3c171d-a95d-401b-a9d5-fb3d7b1862cc
@@ -106,6 +128,9 @@ references:
     the Nimitz's intelligence officer
   source: In Plain Sight
   location: ch16:8969-9201
+  quote: Remaining above, weapons systems officer Lieutenant Commander Slaight and
+    his pilot thought it might be a submarine that was part of the exercise, but this
+    was later ruled out by the Nimitz's intelligence officer in a post-flight debriefing.
   claim_id: 72f28544-5245-4b89-8c2d-39d957b86719
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72f28544-5245-4b89-8c2d-39d957b86719
@@ -114,6 +139,10 @@ references:
     within seconds
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:7616-7873
+  quote: Yet the Tic Tac somehow knew the intended meeting point of the two Hornets,
+    though it was sixty miles away. Not only did the Tic Tac have secret information,
+    but it managed to scramble to that location within seconds after leaving Fravor
+    and Slaight in the dust.
   claim_id: 1168a439-1821-464b-85ff-79e98f8cc9d3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1168a439-1821-464b-85ff-79e98f8cc9d3
@@ -121,6 +150,8 @@ references:
 - text: Both Chad Underwood and Fravor/Slaight reported the craft's instant disappearance
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:8985-9072
+  quote: Both Underwood and Fravor/Slaight reported the UAP disappearing over the
+    horizon in an instant.
   claim_id: 3f811714-a60f-4724-b9fb-00bc7504d1ce
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3f811714-a60f-4724-b9fb-00bc7504d1ce

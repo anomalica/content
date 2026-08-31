@@ -222,6 +222,8 @@ references:
 - text: Mac Brazel found debris on a ranch 120 kilometres from Roswell on 1947-07-05
   source: In Plain Sight
   location: ch7:8249-8384
+  quote: On 5 July 1947, a ranch foreman named Mac Brazel found crash debris scattered
+    across a cattle ranch 120 kilometres from Roswell in New Mexico.
   claim_id: 25b7f4ef-4a4b-415b-9ea4-f5b560915bd0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25b7f4ef-4a4b-415b-9ea4-f5b560915bd0
@@ -230,6 +232,9 @@ references:
     writing
   source: In Plain Sight
   location: ch7:8771-8932
+  quote: The earliest reports described what he saw, and collected, as including extremely
+    strong and lightweight wires, foil, and metallic beams with strange writing on
+    them.
   claim_id: ceaefcd9-1b83-4749-9d37-aee64e1e02e9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ceaefcd9-1b83-4749-9d37-aee64e1e02e9
@@ -238,6 +243,9 @@ references:
     disc
   source: In Plain Sight
   location: ch7:11681-11874
+  quote: At midday on the same day, 8 July 1947, Blanchard ordered his base public
+    information officer Lieutenant Walter Haut to issue a press release announcing
+    that the US Army had recovered a flying disc.
   claim_id: 4d0c03f2-5f51-4884-b6de-467411880fa9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d0c03f2-5f51-4884-b6de-467411880fa9
@@ -245,6 +253,8 @@ references:
 - text: Initial press release referred to a recovered 'flying disc'
   source: In Plain Sight
   location: ch7:15472-15560
+  quote: The initial press release issued by the US Army clearly referred to a recovered
+    ‘flying disc’.
   claim_id: 0d000272-c680-4ae9-87ce-aa496e3be833
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d000272-c680-4ae9-87ce-aa496e3be833
@@ -252,6 +262,8 @@ references:
 - text: The Army never called it a 'flying saucer', only a 'disc'
   source: In Plain Sight
   location: ch7:12377-12460
+  quote: (The Army actually never said that it was a ‘flying saucer’; it only referred
+    to a ‘disc’.)
   claim_id: 334d0cb9-3756-4a41-bf09-c556d63c8b6d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-334d0cb9-3756-4a41-bf09-c556d63c8b6d
@@ -259,6 +271,9 @@ references:
 - text: Ramey's weather balloon statement three hours after the press release
   source: In Plain Sight
   location: ch7:13144-13322
+  quote: Just three hours after the noon Roswell press release, General Ramey issued
+    a new statement through Associated Press asserting that the supposed flying disc
+    was simply a weather balloon.
   claim_id: fb04972d-ff7d-44aa-a3aa-ac3f612eb5e9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fb04972d-ff7d-44aa-a3aa-ac3f612eb5e9
@@ -266,6 +281,8 @@ references:
 - text: Marcel convinced the disc was extraterrestrial
   source: In Plain Sight
   location: ch7:10748-10849
+  quote: Marcel came back clearly convinced that a flying disc of extra-terrestrial
+    origin had crashed on the ranch.
   claim_id: 046fea9f-435f-4841-99b5-8455c0789b32
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-046fea9f-435f-4841-99b5-8455c0789b32
@@ -273,6 +290,8 @@ references:
 - text: Marcel's description of the debris field's dimensions
   source: In Plain Sight
   location: ch7:10856-10936
+  quote: Marcel described a massive field of debris 1200 metres long and 60 to 90
+    metres wide.
   claim_id: 3f9e2860-a5e7-41af-84df-164e1e10881d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3f9e2860-a5e7-41af-84df-164e1e10881d
@@ -280,6 +299,8 @@ references:
 - text: Marcel described light, tear-resistant foil
   source: In Plain Sight
   location: ch7:11197-11301
+  quote: This included foil metal sheets that were as light as a feather yet incredibly
+    strong and impervious to tearing.
   claim_id: c2fe9751-ce6a-44c1-8162-a7f5e85854a1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c2fe9751-ce6a-44c1-8162-a7f5e85854a1
@@ -287,6 +308,8 @@ references:
 - text: Marcel described beams with hieroglyphic writing
   source: In Plain Sight
   location: ch7:11310-11386
+  quote: He also described light metal beams on which there was strange hieroglyphic
+    writing.
   claim_id: efffd874-ee46-40dd-af37-b6c5870d5196
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efffd874-ee46-40dd-af37-b6c5870d5196
@@ -294,6 +317,8 @@ references:
 - text: Marcel did not speak publicly until 1978
   source: In Plain Sight
   location: ch7:13585-13733
+  quote: Jesse Marcel did not speak up until 1978, but for eight years from 1978 until
+    he died in 1986, he claimed he had been ordered to collude in a cover-up
   claim_id: 41c4ec65-90ff-4918-8320-7bb4a8767c1f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-41c4ec65-90ff-4918-8320-7bb4a8767c1f
@@ -301,6 +326,10 @@ references:
 - text: Marcel's 1978-1986 claims of a cover-up and substituted debris
   source: In Plain Sight
   location: ch7:13631-13914
+  quote: for eight years from 1978 until he died in 1986, he claimed he had been ordered
+    to collude in a cover-up and dramatically alleged in multiple interviews that
+    the real debris he brought with him that day from Roswell was substituted by General
+    Ramey with wreckage from an old weather balloon
   claim_id: 27f9af84-66d9-4fcd-81aa-6cce723a6241
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-27f9af84-66d9-4fcd-81aa-6cce723a6241
@@ -308,6 +337,7 @@ references:
 - text: Marcel said he believed the crash was extraterrestrial
   source: In Plain Sight
   location: ch7:13927-13987
+  quote: that he actually believed what crashed at Roswell was extra-terrestrial.
   claim_id: a2edca60-4bf0-4eca-acb9-623c283dc91c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a2edca60-4bf0-4eca-acb9-623c283dc91c
@@ -315,6 +345,9 @@ references:
 - text: Blanchard told a newspaper editor he'd never seen anything like it
   source: In Plain Sight
   location: ch7:17371-17534
+  quote: Colonel Blanchard even confided to his friend, the editor of the Roswell
+    Morning Dispatch newspaper, that, ‘The stuff I saw, I’ve never seen anyplace else
+    in my life.’
   claim_id: 3a67efe8-4e7d-4611-aa51-3209fb4624bc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3a67efe8-4e7d-4611-aa51-3209fb4624bc
@@ -322,6 +355,10 @@ references:
 - text: Haut's 2002 affidavit describing bodies under a tarpaulin
   source: In Plain Sight
   location: ch7:17570-17864
+  quote: There is also the extraordinary deathbed affidavit of former US Army public
+    information officer Lieutenant Walter Haut, who testified in 2002 that he was
+    taken out to a hangar by Colonel Blanchard to view recovered child-sized bodies
+    with abnormally large heads, lying under a tarpaulin at the base.
   claim_id: 55ca4a47-6961-490c-9666-a5e171e5806b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-55ca4a47-6961-490c-9666-a5e171e5806b
@@ -329,6 +366,9 @@ references:
 - text: Haut's description of the craft's dimensions and appearance
   source: In Plain Sight
   location: ch7:17911-18135
+  quote: he alleged that Blanchard allowed him to see an apparent alien craft in a
+    hangar ‘approx. 12 to 15 feet in length, not quite as wide, about 6 feet high
+    and more of an egg shape. Lighting was poor, but its surface did appear metallic’.
   claim_id: 4975eefe-669c-47ca-bc7c-ac006e2675b8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4975eefe-669c-47ca-bc7c-ac006e2675b8
@@ -336,6 +376,8 @@ references:
 - text: Haut convinced it was a craft and crew from outer space
   source: In Plain Sight
   location: ch7:18146-18252
+  quote: Haut said, ‘I am convinced that what I personally observed was some type
+    of craft and its crew from outer space.’
   claim_id: b36edaf3-485b-4ead-baa3-c242b6e5987e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b36edaf3-485b-4ead-baa3-c242b6e5987e
@@ -343,6 +385,8 @@ references:
 - text: Haut alleged the press release was a ruse
   source: In Plain Sight
   location: ch7:18262-18407
+  quote: Haut also alleged Blanchard’s press release was a ruse to divert public attention
+    from the main recovery operation of the craft from a different site.
   claim_id: fbb5d4d6-9277-455b-aad9-17d756e29a83
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fbb5d4d6-9277-455b-aad9-17d756e29a83
@@ -350,6 +394,8 @@ references:
 - text: Critics on Haut's daughter's financial incentive
   source: In Plain Sight
   location: ch7:20477-20619
+  quote: The suggestion was made that she had a financial incentive to promote the
+    extra-terrestrial hypothesis and that her dying father was happy to oblige.
   claim_id: 48996f14-7c9d-4b99-b750-d2e713dec406
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48996f14-7c9d-4b99-b750-d2e713dec406
@@ -357,6 +403,8 @@ references:
 - text: Don Schmitt considers Haut sincere
   source: In Plain Sight
   location: ch7:21113-21195
+  quote: '''No one was in any doubt that Haut was sincere and truthful in what he
+    said in his affidavit.'''
   claim_id: efe057f4-cbb5-42ca-8e91-1269733e8348
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efe057f4-cbb5-42ca-8e91-1269733e8348
@@ -364,6 +412,8 @@ references:
 - text: Corso asserted a spacecraft crashed and was recovered by the government
   source: In Plain Sight
   location: ch25:22089-22200
+  quote: Corso asserted that there was indeed an alien spacecraft crash at Roswell
+    in 1947 that was recovered by the US government.
   claim_id: 24c1905b-c08b-4619-8042-ea6d3d5c0b3b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-24c1905b-c08b-4619-8042-ea6d3d5c0b3b
@@ -371,6 +421,8 @@ references:
 - text: Mitchell told Thurmond he was convinced Corso's account was true
   source: In Plain Sight
   location: ch25:22626-22719
+  quote: Edgar Mitchell's fax privately assured the Senator that he was convinced
+    the Corso story was true.
   claim_id: 107a25a3-a891-4597-a349-786c0e2df703
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-107a25a3-a891-4597-a349-786c0e2df703
@@ -378,6 +430,8 @@ references:
 - text: Thurmond said he knew of no cover-up and did not believe one existed
   source: In Plain Sight
   location: ch25:22530-22614
+  quote: '''I know of no such "cover-up" and do not believe one existed,'' the Senator
+    said in a statement.'
   claim_id: bfafbf0a-97c2-464e-948c-84d77198f126
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bfafbf0a-97c2-464e-948c-84d77198f126
@@ -385,6 +439,10 @@ references:
 - text: Strieber relayed Exon's alleged 'unequivocal cover-up' remark
   source: In Plain Sight
   location: ch25:22926-23176
+  quote: Strieber told the Senator in his letter that US Army Brigadier General Arthur
+    Exon had told him personally in 1989 that there was a 'completely unequivocal
+    cover-up' of a retrieved alien craft at Roswell and 'it went from [President Harry]
+    Truman on down'.
   claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b16cf133-6aca-486b-8091-52bd8e641c06
@@ -392,6 +450,9 @@ references:
 - text: Mitchell's scepticism turned to amazement
   source: In Plain Sight
   location: ch25:23327-23526
+  quote: '''My initial scepticism of the Corso and Strieber type accounts has slowly
+    turned to amazement as I dug through reams of documents and interviewed military
+    colleagues,'' Mitchell confided in his fax to Thurmond.'
   claim_id: 8c81cd62-43fa-47c9-95af-b3508f95330a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8c81cd62-43fa-47c9-95af-b3508f95330a
@@ -399,6 +460,9 @@ references:
 - text: Mitchell's interest fired by Artesia locals
   source: In Plain Sight
   location: ch25:5197-5449
+  quote: Mitchell's fascination was fired by locals he met near his hometown of Artesia,
+    New Mexico, just down the road from the Roswell 1947 crash site. They told him,
+    'Roswell was real', that there truly had been a government cover-up.
   claim_id: 7ce922e2-9535-469d-ae7f-b36ca96bde91
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7ce922e2-9535-469d-ae7f-b36ca96bde91
@@ -406,6 +470,9 @@ references:
 - text: The Spaceman on Mitchell being shown a memory-metal relic
   source: In Plain Sight
   location: ch25:5717-5899
+  quote: Edgar Mitchell revealed to his friend that he was shown relics from the crash,
+    including a sheet of memory metal that flattened back into its smooth-surfaced
+    shape after it had been crushed.
   claim_id: ba9e2fae-9a38-45be-9d11-6f8dcab47daa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba9e2fae-9a38-45be-9d11-6f8dcab47daa
@@ -413,6 +480,9 @@ references:
 - text: Goldwater's friendship with Blanchard, 509th Bomb Group commander
   source: In Plain Sight
   location: ch27:19451-19703
+  quote: Goldwater was also a close friend of air force General William 'Butch' Blanchard
+    who, as a colonel in 1947, was the commanding officer of the 509th Bomb Group
+    at the Roswell Army Air Field when the supposed Roswell UFO crash happened.
   claim_id: 7358ddd1-c8b0-444b-9a99-70df9693516e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7358ddd1-c8b0-444b-9a99-70df9693516e
@@ -420,6 +490,8 @@ references:
 - text: 'Coulthart: Goldwater knew people with direct knowledge'
   source: In Plain Sight
   location: ch27:19713-19794
+  quote: Goldwater knew several people with direct knowledge of what actually happened
+    at Roswell.
   claim_id: 741d0f4c-434b-4370-b316-4a71ed9343b8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-741d0f4c-434b-4370-b316-4a71ed9343b8
@@ -427,6 +499,9 @@ references:
 - text: Grandfather's claimed retrieval-team membership
   source: In Plain Sight
   location: ch23:803-1038
+  quote: a short time before his death in 1974, an elderly grandfather gathered trusted
+    members of his family together and confided he had been a member of a retrieval
+    team sent to the crash site of the so-called Roswell flying saucer craft in 1947
   claim_id: 6f25acd6-68ae-4118-ae7e-dd79022bac52
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6f25acd6-68ae-4118-ae7e-dd79022bac52
@@ -434,6 +509,8 @@ references:
 - text: Third letter's six metal fragments
   source: In Plain Sight
   location: ch23:7499-7607
+  quote: The writer claimed 'these scrapings came from the exterior underside of the
+    Disc itself'.
   claim_id: 07c35964-697d-4966-b89f-127939120083
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-07c35964-697d-4966-b89f-127939120083
@@ -441,6 +518,9 @@ references:
 - text: Fifth letter's claimed crash site location
   source: In Plain Sight
   location: ch23:5603-5781
+  quote: A fifth and final letter, sent in July 1996, revealed what the grandfather's
+    diary recorded as the precise location of the crash site, 'near Roswell AAF within
+    30 mile radius of Base'.
   claim_id: ea4d8ef0-0823-486a-8b0c-6d8de342bf9c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ea4d8ef0-0823-486a-8b0c-6d8de342bf9c
@@ -448,6 +528,8 @@ references:
 - text: Site's proximity to the first atomic bomb test
   source: In Plain Sight
   location: ch23:5789-5875
+  quote: The purported impact site was very close to where the first atomic bomb was
+    tested in 1945.
   claim_id: 893dda67-6f65-4172-b926-ba2a24b90970
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-893dda67-6f65-4172-b926-ba2a24b90970
@@ -544,6 +626,10 @@ references:
 - text: GAO found no surviving Roswell Army Air Field documents
   source: In Plain Sight
   location: ch7:16842-17116
+  quote: As the US Congress’s General Accounting Office discovered during its 1995
+    review of the incident’s paperwork, not a single document from the Roswell Army
+    Airfield in the crash period survives; every bit of paper relating to this 1947
+    incident was destroyed with no apparent authorisation.
   claim_id: 06d980b2-1a23-41de-beb0-8e514b7eb21a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-06d980b2-1a23-41de-beb0-8e514b7eb21a
@@ -551,6 +637,8 @@ references:
 - text: USAF has given four different explanations
   source: In Plain Sight
   location: ch7:10383-10497
+  quote: This is because the US Air Force has given four different explanations for
+    what supposedly happened at Roswell in 1947.
   claim_id: 6504de13-cc9f-49be-8a76-8ece4bbdc0cd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6504de13-cc9f-49be-8a76-8ece4bbdc0cd
@@ -558,6 +646,9 @@ references:
 - text: 1994 admission the weather balloon story was untrue
   source: In Plain Sight
   location: ch7:14648-14860
+  quote: What undoubtedly assisted the conspiracy theories was the 1994 decision by
+    the US Air Force to change its story yet again, offering a third explanation;
+    it admitted that its 1947 weather balloon story was indeed bunkum.
   claim_id: 3cf13962-4716-4418-8f29-2ff2ef1ce81e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3cf13962-4716-4418-8f29-2ff2ef1ce81e
@@ -565,6 +656,10 @@ references:
 - text: DeLonge on the recovery as the reason for USAF's creation
   source: In Plain Sight
   location: ch21:4594-4860
+  quote: DeLonge repeated claims long on the fringes of ufology conspiracy theories,
+    suggesting that the US's recovery of a crashed alien spacecraft was the reason
+    why, 90 days after the mythical 1947 Roswell crash, the US Air Force was created
+    as a separate entity from the Army.
   claim_id: 151aa9a8-93d5-47e0-89d1-bbf7081fe957
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-151aa9a8-93d5-47e0-89d1-bbf7081fe957
@@ -572,6 +667,9 @@ references:
 - text: DeLonge on the National Security Act and CIA
   source: In Plain Sight
   location: ch21:4866-5066
+  quote: He also claimed Roswell was why the US government enacted the 1947 *National
+    Security Act*, to create the security apparatus, including the CIA, that had supposedly
+    locked up the secret for nearly 75 years.
   claim_id: 3e0bc770-7e7d-47ee-aff1-232b3217e646
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3e0bc770-7e7d-47ee-aff1-232b3217e646
@@ -579,6 +677,9 @@ references:
 - text: DeLonge told it was a Nazi-built Russian saucer
   source: In Plain Sight
   location: ch21:5491-5710
+  quote: As Annie Jacobsen also claimed, DeLonge averred he was told the Roswell crash
+    was a Nazi-built Russian flying saucer, but neither he nor his insider sources
+    have provided any evidence to substantiate such a sensational claim.
   claim_id: b13a1157-ea8f-4a42-a2b3-7a641a87d12c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b13a1157-ea8f-4a42-a2b3-7a641a87d12c
@@ -586,6 +687,15 @@ references:
 - text: DeLonge's 2016 email on Wright-Patterson and McCasland
   source: In Plain Sight
   location: ch20:8997-9721
+  quote: '''He mentioned he''s a sceptic, he''s not,'' a clearly frustrated DeLonge
+    wrote after the 2016 meeting. ''I''ve been working with him for four months. I
+    just got done giving him a four-hour presentation on the entire project a few
+    weeks ago. Trust me, the advice is already been happening on how to do all this.
+    He just has to say that out loud, but he is very, very aware – as he was in charge
+    of all of the stuff. When Roswell crashed, they shipped it to the laboratory at
+    Wright-Patterson Air Force Base. General McCasland was in charge of that exact
+    laboratory up to a couple years ago. He not only knows what I''m trying to achieve,
+    he helped assemble my advisory team. He''s a very important man.'''
   claim_id: bae97258-0aac-4690-b461-502f1b8a7df7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bae97258-0aac-4690-b461-502f1b8a7df7
@@ -593,6 +703,9 @@ references:
 - text: Conspiracy allegation that debris went to Wright Field
   source: In Plain Sight
   location: ch27:17819-17994
+  quote: The UAP conspiracy theory has long alleged that Wright Field, now Wright-Patterson,
+    was where the pieces of the supposed Roswell craft wreckage were taken in 1947
+    for further investigation.
   claim_id: 61fc86d6-f87e-4659-8430-b5d7341bc6aa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61fc86d6-f87e-4659-8430-b5d7341bc6aa
@@ -600,6 +713,9 @@ references:
 - text: Kobitz laughed at the Mogul explanation
   source: In Plain Sight
   location: ch27:14837-15066
+  quote: I recited the official US Air Force explanation for the 1947 Roswell crash
+    to him – that the recovered Roswell debris was merely a high-altitude nuclear
+    test surveillance balloon from a secret project codenamed Mogul. He laughed dismissively
   claim_id: 54a8fbd7-770d-46f6-bc88-42a499f8a4f9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-54a8fbd7-770d-46f6-bc88-42a499f8a4f9
@@ -607,6 +723,8 @@ references:
 - text: Kobitz said material was hard metal, not soft
   source: In Plain Sight
   location: ch27:15079-15231
+  quote: and replied, 'More than one person reported that it was not soft material.
+    It was hard metal pieces and I've heard, but do not know of any actual space people.'
   claim_id: 651d3a97-eaef-4ccb-b9f8-53bd8d2ce9f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-651d3a97-eaef-4ccb-b9f8-53bd8d2ce9f7
@@ -614,6 +732,10 @@ references:
 - text: Eric Davis on radio calling Roswell a good bet
   source: In Plain Sight
   location: ch17:13030-13376
+  quote: Dr Davis went on to give Knapp's listeners an astonishing amount of additional
+    detail about supposed US government 'crash retrievals', suggesting the controversial
+    1947 Roswell crash was indeed a genuine crashed extra-terrestrial spacecraft.
+    'If you're going to throw your bets on Roswell, your bet is really good,' he said.
   claim_id: e53f519f-7dde-4c7f-be9d-fdc42ae4dcec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e53f519f-7dde-4c7f-be9d-fdc42ae4dcec
@@ -621,6 +743,9 @@ references:
 - text: Trump's 2020 interview with Don Trump Jr. on Roswell
   source: In Plain Sight
   location: ch28:25830-25986
+  quote: In June 2020, President Donald Trump made an intriguing comment about the
+    mythical 1947 Roswell, New Mexico, UFO crash in a cosy interview with his son
+    Don junior.
   claim_id: efa1474b-dff9-4bcf-9a0d-393f7ff5e9bf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efa1474b-dff9-4bcf-9a0d-393f7ff5e9bf
@@ -628,6 +753,8 @@ references:
 - text: Don Trump Jr.'s tongue-in-cheek question
   source: In Plain Sight
   location: ch28:25994-26147
+  quote: Don Jr. asked his father, tongue in cheek, if he planned to release any more
+    information about the Roswell incident 'and let us know what's really going on?
   claim_id: 754730b5-008c-44ec-bbae-94e0031f4686
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-754730b5-008c-44ec-bbae-94e0031f4686
@@ -635,6 +762,8 @@ references:
 - text: Trump's 'very interesting' response
   source: In Plain Sight
   location: ch28:26151-26231
+  quote: Trump responded, 'I won't talk to you about what I know about it, but it's
+    very interesting.'
   claim_id: 7583bcb5-6046-4d23-97aa-00c90f672143
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7583bcb5-6046-4d23-97aa-00c90f672143
@@ -642,6 +771,8 @@ references:
 - text: Trump said he'd heard interesting things, reported 2020-06-19
   source: In Plain Sight
   location: ch34:66515-66620
+  quote: Aamer Madhani/AP, 'Trump Says He's Heard "Interesting" Things about Roswell',
+    MilitaryTimes.com, 19 June 2020.
   claim_id: f94fcc21-af68-4962-b459-57af4c97a0d0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f94fcc21-af68-4962-b459-57af4c97a0d0
@@ -660,6 +791,7 @@ references:
 - text: Something crashed at Roswell in 1947
   source: In Plain Sight
   location: ch7:21309-21373
+  quote: Something crashed, and it is tempting to accept the air force's explanation
   claim_id: a798d39a-7e5d-473a-9768-35490f5dd08f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a798d39a-7e5d-473a-9768-35490f5dd08f
@@ -667,6 +799,8 @@ references:
 - text: As many critics within ufology as believers
   source: In Plain Sight
   location: ch7:21794-21927
+  quote: Even inside the world of ufology, there are as many trenchant critics of
+    the Roswell retrieved extra-terrestrials story as there are believers.
   claim_id: 7e706476-15ad-4454-b80e-230c5d18067b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e706476-15ad-4454-b80e-230c5d18067b
@@ -674,6 +808,9 @@ references:
 - text: Roswell as an open question given bungled explanations
   source: In Plain Sight
   location: ch7:21943-22120
+  quote: on the evidence, especially in light of the US Air Force's bungled explanations
+    and admitted lies, I do think what happened at Roswell should be treated as an
+    open question for investigation.
   claim_id: 81cac8c3-506e-4a22-adc7-f3935385a74d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-81cac8c3-506e-4a22-adc7-f3935385a74d

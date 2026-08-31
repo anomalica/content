@@ -71,6 +71,7 @@ references:
     agencies.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:7498-7566
+  quote: In France, some UFO cases have been investigated by five government agencies.
   claim_id: 514965f3-95de-4c2a-9731-4a4a519a9e76
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-514965f3-95de-4c2a-9731-4a4a519a9e76
@@ -79,6 +80,9 @@ references:
     in Paris to discuss UFOs.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch4:14795-15003
+  quote: One day in 1973 two friends met for lunch in a quiet Paris restaurant. One
+    of them was a journalist with a long-standing interest in the UFO problem. The
+    other was an intelligence officer with the French Air Force.
   claim_id: cd22259e-7f51-4d35-8720-893189cc9b8d
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-cd22259e-7f51-4d35-8720-893189cc9b8d
@@ -87,6 +91,8 @@ references:
     which knew nothing.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch4:15567-15646
+  quote: '"I didn''t go to our government. They don''t know anything. I went to my
+    American contacts."'
   claim_id: 624808a0-5c2c-44ef-b670-668eda1e5b0c
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-624808a0-5c2c-44ef-b670-668eda1e5b0c
@@ -95,6 +101,8 @@ references:
     the subject.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch4:16765-16899
+  quote: '"There isn''t a particular group deciding and enforcing a cover-up. Everybody
+    simply avoids looking at the problem. Why upset the whole machine?"'
   claim_id: 03840629-768d-41b0-8b7e-6a6aa7bd9168
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-03840629-768d-41b0-8b7e-6a6aa7bd9168
@@ -103,6 +111,9 @@ references:
     attributed to the Order of Melchizedek.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch8:9610-9775
+  quote: when I found the scribbled announcement that "The Lord is an Extraterrestrial,"
+    allegedly emanating from a mysterious "Order of Melchizedek," I had to stop and
+    take notice.
   claim_id: 8401d87b-eb2b-42e0-ba24-6ef7446bdc57
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8401d87b-eb2b-42e0-ba24-6ef7446bdc57
@@ -110,6 +121,8 @@ references:
 - text: The message was written in black felt-tip marker across several subway tunnels.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch8:10443-10568
+  quote: In Paris it was, however, and the note in black felt-tip marker was written
+    not once but many times, on the walls of several tunnels.
   claim_id: 0ba4caf6-2b35-4e65-9212-f65d471d82f3
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0ba4caf6-2b35-4e65-9212-f65d471d82f3
@@ -118,6 +131,8 @@ references:
     in France.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch11:42817-42958
+  quote: I was amused, therefore, when I discovered that one of the largest Urantia
+    organizations was based in France, as is a branch of the Order of Melchizedek.
   claim_id: 0dbf349a-ce23-4590-b0c3-d1ecc2394a72
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0dbf349a-ce23-4590-b0c3-d1ecc2394a72
@@ -126,6 +141,8 @@ references:
     five regions.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:48641-48769
+  quote: It comes from Ivan, who says he is responsible for the Order of Melchizedek
+    in Israel, Africa, and Europe, as well as India and China.
   claim_id: 0bb29f69-cd55-4628-b957-d9c961d51049
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0bb29f69-cd55-4628-b957-d9c961d51049
@@ -134,6 +151,10 @@ references:
     Building in Paris.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:3786-4033
+  quote: 'The latest release from the Order of Melchizedek announced the imminent
+    flight of seven flying saucers over Paris. They would land on top of the Radio
+    and Television Building: "the Peoples are invited to attend this Circonvolution,"
+    concluded the leaflet.'
   claim_id: db8662a9-ac54-460c-8e5f-ebc6e035b023
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-db8662a9-ac54-460c-8e5f-ebc6e035b023
@@ -141,6 +162,8 @@ references:
 - text: Ivan said the saucers had appeared in December as predicted.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:48776-48891
+  quote: 'He says that flying saucers have been seen in Paris last December as predicted
+    in his leaflet: “the reports are on file.”'
   claim_id: d230d34b-d9c3-4df2-b0e2-d515c85a0226
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-d230d34b-d9c3-4df2-b0e2-d515c85a0226
@@ -148,6 +171,7 @@ references:
 - text: Raymond Bernard lived near Paris, in Villeneuve-St.-Georges.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch11:63872-63916
+  quote: Bernard lives near Paris, in Villeneuve-St.-Georges.
   claim_id: fca235c6-9dca-44b3-8dfc-44af085718c5
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-fca235c6-9dca-44b3-8dfc-44af085718c5
@@ -156,6 +180,8 @@ references:
     a social revolution.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch6:17509-17633
+  quote: In Paris I visited the leaders of an occult organization who meet regularly
+    with extraterrestrials who are preparing social revolution.
   claim_id: cd615bdb-0893-4550-9a5b-7c6f7a10ed89
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-cd615bdb-0893-4550-9a5b-7c6f7a10ed89
@@ -164,6 +190,8 @@ references:
     a being met at Canigou.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch9:28728-28870
+  quote: During the summer of 1971 he received a phone call from Paris. He thought
+    he recognized the voice of his visitor of the Canigou, twenty years earlier
   claim_id: 7340ccbb-f472-4ff2-a199-a551926e543f
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-7340ccbb-f472-4ff2-a199-a551926e543f
@@ -172,6 +200,9 @@ references:
     Gaulle returned to power in 1958.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch13:43742-43974
+  quote: When de Gaulle came back to power in France in 1958, there were a dozen different
+    conspiracies fighting among themselves for control of the government, but they
+    were evolving very rapidly from one day to the next until the historic climax.
   claim_id: 1482e295-1992-4e08-b912-78676a322b4e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-1482e295-1992-4e08-b912-78676a322b4e
@@ -180,6 +211,9 @@ references:
     in 1920.
   source: Surviving Death
   location: ch37:5101-5281
+  quote: Most important, Geley and Richet and others working with them brought Kluski
+    to a windowless laboratory at the institute in Paris, where in 1920 they conducted
+    eleven successful séances.
   claim_id: fb98cf8b-d93c-4d67-937b-20c4569e3665
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fb98cf8b-d93c-4d67-937b-20c4569e3665
@@ -187,6 +221,8 @@ references:
 - text: Plaster molds from Kluski's paraffin experiments remain at the IMI.
   source: Surviving Death
   location: ch37:10213-10288
+  quote: and they remain to this day at the Institut Métapsychique International in
+    Paris.
   claim_id: f0ee4bf5-27ac-4bd8-8b91-2cb4a99eac0c
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f0ee4bf5-27ac-4bd8-8b91-2cb4a99eac0c
@@ -195,6 +231,11 @@ references:
     as singer Maria Felicia Malibran.
   source: Surviving Death
   location: ch36:18028-18417
+  quote: None of those present had the faintest idea about "Madame Malibran" and her
+    husband. The next day some of us looked for the name in some encyclopedias. Unexpectedly,
+    we found that in America (USA) there had been a wealthy French plantation owner
+    by the name of Malibran. He had married the singer Maria Felicia who was of Spanish
+    descent. She was born in Paris 1808 and died in Manchester 1836.
   claim_id: 383ae981-2283-4d5b-b1ca-a4786be890ee
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-383ae981-2283-4d5b-b1ca-a4786be890ee
@@ -202,6 +243,10 @@ references:
 - text: Malibran sang leading roles in Paris, Naples, London and New York.
   source: Surviving Death
   location: ch36:18515-18758
+  quote: With further research, they found that the celebrated mezzo-soprano named
+    Maria Felicia Malibran sang leading roles in opera houses in Paris, Naples, London,
+    and New York. She was considered one of the greatest opera singers of the nineteenth
+    century.
   claim_id: 79ff3145-a47a-4903-a87d-8c318e859f5a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-79ff3145-a47a-4903-a87d-8c318e859f5a
@@ -209,6 +254,8 @@ references:
 - text: Malibran was born in Paris to one of Rossini's favourite tenors.
   source: Surviving Death
   location: ch36:18767-18873
+  quote: Born in Paris, her father was one of Rossini's favorite tenors, and she trained
+    as a singer from an early age.
   claim_id: 1ec5fd79-9132-4322-84db-4de3e26993d4
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1ec5fd79-9132-4322-84db-4de3e26993d4
@@ -216,6 +263,7 @@ references:
 - text: Marty Martyn's sister lived and danced in Paris.
   source: Surviving Death
   location: ch12:23260-23318
+  quote: In fact, she had lived in Paris, dancing there at a young age
   claim_id: 186c830f-3e43-4b16-bce6-13a72e1ffa9b
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-186c830f-3e43-4b16-bce6-13a72e1ffa9b
@@ -223,6 +271,8 @@ references:
 - text: Photographs showed Martyn at Paris landmarks.
   source: Surviving Death
   location: ch12:23327-23402
+  quote: there were photos of Marty in front of Paris landmarks when he had visited
+    her
   claim_id: b13c4f43-c561-465d-b614-88d7c59d82f2
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-b13c4f43-c561-465d-b614-88d7c59d82f2
@@ -230,6 +280,8 @@ references:
 - text: A 1929 passenger list gives Martyn's birth date under the alias Marty Kolinsky.
   source: Surviving Death
   location: ch13:23383-23530
+  quote: a 1929 New York passenger list from the boat *Minnesota* arriving in New
+    York from France has Marty Kolinsky’s birth date clearly typed as May 19, 1903.
   claim_id: fc4ca0b2-65ea-4e77-9b5d-21451d9f998e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-fc4ca0b2-65ea-4e77-9b5d-21451d9f998e
@@ -237,6 +289,7 @@ references:
 - text: Ryan Hammons said Martyn saw the Eiffel Tower in Paris.
   source: Surviving Death
   location: ch13:8286-8319
+  quote: He went to Paris; saw the Eiffel Tower.
   claim_id: 1dbfd6e3-f6ec-4432-a48f-7858df0f9828
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1dbfd6e3-f6ec-4432-a48f-7858df0f9828
@@ -244,6 +297,8 @@ references:
 - text: The Striebers went to Paris in 1994 and rented a flat in Montparnasse.
   source: The Fourth Mind
   location: ch20:11380-11569
+  quote: I wish now to discuss an experience that took place in Paris in 1994... Anne
+    and I had gone to meet our son and his fiancée. We had rented a flat in Montparnasse
   claim_id: b2129db9-57d9-4ba7-99b5-483482493e24
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-b2129db9-57d9-4ba7-99b5-483482493e24
@@ -252,6 +307,9 @@ references:
     in Paris.
   source: The Fourth Mind
   location: ch20:12066-12262
+  quote: When I opened the door, I found two men standing there. They were very polite,
+    and showed me what appeared to be official identification, saying that they were
+    officers of the French intelligence service
   claim_id: 6f7f7ab9-47cb-4700-bd87-03576ec94098
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-6f7f7ab9-47cb-4700-bd87-03576ec94098
@@ -260,6 +318,9 @@ references:
     1990.
   source: In Plain Sight
   location: ch13:4665-4890
+  quote: a former French air force and Air France pilot, Jean Gabriel Greslé, was
+    standing outside a gym where he worked as an instructor in Gretz-Armainvilliers,
+    25 kilometres east of Paris, when he and six of his pupils witnessed a craft
   claim_id: 6d57c1c5-3477-418e-a95d-dcee17eecbd0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6d57c1c5-3477-418e-a95d-dcee17eecbd0

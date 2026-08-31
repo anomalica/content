@@ -224,6 +224,7 @@ references:
 - text: Reid served as a Congressman in the US House of Representatives from 1983.
   source: In Plain Sight
   location: ch17:963-1018
+  quote: serving first as a Congressman in the Lower House from 1983
   claim_id: e58611f3-714a-4058-8bb9-20d159c8a33a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e58611f3-714a-4058-8bb9-20d159c8a33a
@@ -231,6 +232,7 @@ references:
 - text: Reid served as a US Senator from 1987 to 2017.
   source: In Plain Sight
   location: ch17:1027-1058
+  quote: then as a Senator from 1987 to 2017
   claim_id: b7ffd06c-0c41-43f5-90d0-2fa0ef792444
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b7ffd06c-0c41-43f5-90d0-2fa0ef792444
@@ -238,6 +240,8 @@ references:
 - text: Reid rose to Senate Majority Leader over 30 years of Senate service.
   source: In Plain Sight
   location: ch17:1064-1206
+  quote: Over his 30 years of Senate service, he rose to become one of the most influential
+    senators in the Democratic Party, reaching Senate Majority Leader.
   claim_id: fd389e05-0eff-484d-a225-3b38a558da1a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fd389e05-0eff-484d-a225-3b38a558da1a
@@ -245,6 +249,8 @@ references:
 - text: Reid was born the son of a rock miner in Searchlight, Nevada.
   source: In Plain Sight
   location: ch17:833-955
+  quote: Now retired, Harry Reid is a political veteran, born the dirt-poor son of
+    a rock miner in the desert town of Searchlight, Nevada
   claim_id: 98cb42d6-6e97-416b-87a0-8c7c2d5652c2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-98cb42d6-6e97-416b-87a0-8c7c2d5652c2
@@ -253,6 +259,8 @@ references:
     school.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:18836-18948
+  quote: Reid had grown up boxing and worked as a United States Capitol Police Officer
+    while putting himself through law school.
   claim_id: 964884c7-32e6-4406-ae16-71b28f377f38
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-964884c7-32e6-4406-ae16-71b28f377f38
@@ -342,6 +350,11 @@ references:
     transformed by events at Skinwalker Ranch.
   source: In Plain Sight
   location: ch17:113-470
+  quote: In about 2008, one of the most powerful politicians in Washington DC, Democrat
+    Senator Harry Reid, received an intriguing letter written by a senior US Defence
+    Intelligence Agency (DIA) scientist (likely a physicist named James Lacatski,
+    although he was never named), whose world view had been transformed by extraordinary
+    events he witnessed at Skinwalker Ranch.
   claim_id: 37be4bef-43f5-47fb-b9ae-afcb0ac75a74
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-37be4bef-43f5-47fb-b9ae-afcb0ac75a74
@@ -349,6 +362,8 @@ references:
 - text: Bigelow sent Reid the letter.
   source: In Plain Sight
   location: ch17:2105-2231
+  quote: It was billionaire aerospace entrepreneur Robert Bigelow who sent Reid the
+    letter from the senior Defense Intelligence Agency physicist.
   claim_id: 498880d7-d2c2-4514-8143-828329e289dd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-498880d7-d2c2-4514-8143-828329e289dd
@@ -357,6 +372,9 @@ references:
     him it was a real phenomenon.
   source: In Plain Sight
   location: ch17:2242-2446
+  quote: Reid did not name the scientist, but he said he visited Bigelow's Skinwalker
+    Ranch, presumably about 2007–08, and what the DIA scientist saw there convinced
+    him it was a real phenomenon that needed to be investigated.
   claim_id: c4f3e639-3868-41f2-be1b-6a10455f03d7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4f3e639-3868-41f2-be1b-6a10455f03d7
@@ -365,6 +383,9 @@ references:
     be investigated.
   source: In Plain Sight
   location: ch17:2881-3069
+  quote: Senator Reid also says the scientist was clearly very rattled by his purported
+    paranormal Skinwalker experience and that he told the Senator he felt it was time
+    such phenomena be properly investigated.
   claim_id: 88acb1b5-b71e-4a70-8d04-383e69cf3e11
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-88acb1b5-b71e-4a70-8d04-383e69cf3e11
@@ -373,6 +394,8 @@ references:
     study.
   source: In Plain Sight
   location: ch17:3083-3167
+  quote: Reid claims that this one incident prompted him to seek Congressional funding
+    for a study.
   claim_id: 83a84d30-8d82-4b2e-a0f5-53299d9e4bd4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-83a84d30-8d82-4b2e-a0f5-53299d9e4bd4
@@ -381,6 +404,9 @@ references:
     letter suggested.
   source: In Plain Sight
   location: ch17:3175-3395
+  quote: I suspect Harry Reid was being deliberately vague and that he knew a lot
+    more from the classified intelligence world to prompt his interest in the phenomenon
+    than just that one DIA scientist's letter.
   claim_id: 4abb22cb-2e15-41f2-94f8-08d13d2b6c34
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4abb22cb-2e15-41f2-94f8-08d13d2b6c34
@@ -410,6 +436,9 @@ references:
 - text: Reid approached Senators Inouye and Stevens to secure funding for a UAP study.
   source: In Plain Sight
   location: ch17:3449-3607
+  quote: The Senator approached his colleagues, Democrat Senator Daniel Inouye and
+    Republican Senator Ted Stevens, to get $22 million funding for a study into the
+    UAP mystery.
   claim_id: 9cb0750d-1402-4a84-bd24-ddbc4243d2ac
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9cb0750d-1402-4a84-bd24-ddbc4243d2ac
@@ -427,6 +456,9 @@ references:
     needed to look into it.
   source: In Plain Sight
   location: ch17:4971-5133
+  quote: '''Whatever you want, you get it from me,'' Stevens told Senator Reid. He
+    explained he saw a UAP during one wartime flight. ''We need to take a look at
+    this,'' he told Reid.'
   claim_id: 13b6b030-3af0-4129-abde-bc550afb2172
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13b6b030-3af0-4129-abde-bc550afb2172
@@ -445,6 +477,8 @@ references:
     Pentagon programmes.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:19229-19315
+  quote: Together, these three men controlled congressional spending for black-budget
+    Pentagon programs.
   claim_id: d44a9df7-70f5-4eac-82a1-fa325abf1e50
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d44a9df7-70f5-4eac-82a1-fa325abf1e50
@@ -463,6 +497,10 @@ references:
     Special Access Programs.
   source: In Plain Sight
   location: ch17:1357-1589
+  quote: Having served as both a Senate Minority and Majority leader, Reid was for
+    years one of the so-called 'Gang of Eight', entitled to be briefed into highly
+    classified intelligence matters including Waived Unacknowledged Special Access
+    Programs.
   claim_id: 6e3af895-32c1-4931-89e5-e0d58167d670
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6e3af895-32c1-4931-89e5-e0d58167d670
@@ -484,6 +522,12 @@ references:
     2008, when Reid guaranteed the funding for what became AAWSAP.
   source: In Plain Sight
   location: ch17:7865-8337
+  quote: Their UAP investigations began even before the Defense Intelligence Agency
+    money came through in July 2008, when Senator Reid guaranteed the black budget
+    funding for what was to become known by its clunky acronym, AAWSAP. The full title
+    was a mouthful, no doubt intended to be as opaque as possible since this was a
+    secret 'black' UAP investigation program hidden in plain sight on the Pentagon
+    books. AAWSAP stood for the 'Advanced Aerospace Weapons Systems Applications Program'.
   claim_id: 5b0edc79-a794-4335-90b2-d450ae1d7516
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b0edc79-a794-4335-90b2-d450ae1d7516
@@ -491,6 +535,8 @@ references:
 - text: Stevens died in a plane crash two years after backing the funding.
   source: In Plain Sight
   location: ch17:4796-4901
+  quote: Reid's other backer, Senator Ted Stevens, who died in a plane crash only
+    two years later, also needed no convincing
   claim_id: c5d330e1-1da9-49c9-a185-516ebdb88176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5d330e1-1da9-49c9-a185-516ebdb88176
@@ -498,6 +544,9 @@ references:
 - text: Inside AAWSAP, Elizondo led AATIP, set up at Reid's urging to study UAP.
   source: In Plain Sight
   location: ch21:12280-12444
+  quote: Inside that program, he led the Advance Aerospace Threat Identification Program
+    (AATIP), the secretive Pentagon unit set up at Senator Harry Reid's urging to
+    study UAPs.
   claim_id: 06a3ef6c-fe8d-4cc0-bec2-f59ea0de9dc0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-06a3ef6c-fe8d-4cc0-bec2-f59ea0de9dc0
@@ -505,6 +554,7 @@ references:
 - text: AAWSAP's congressional funding ran out in 2012.
   source: In Plain Sight
   location: ch21:12644-12711
+  quote: While Senator Harry Reid's AAWSAP funding from Congress ran out in 2012
   claim_id: 7af441e4-f317-4f9b-a0d9-4de1baa86d55
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7af441e4-f317-4f9b-a0d9-4de1baa86d55
@@ -586,6 +636,8 @@ references:
 - text: Reid was senator of Nevada, the state that housed Area 51.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:18956-19067
+  quote: He was also the senator of the state that housed Area 51, and that came with
+    insider knowledge that piqued his curiosity.
   claim_id: 51a26607-4e81-4844-ac34-1800c58ac7df
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-51a26607-4e81-4844-ac34-1800c58ac7df
@@ -593,6 +645,9 @@ references:
 - text: Reid visited the Area 51 air force base during his Senate term.
   source: In Plain Sight
   location: ch17:1865-2092
+  quote: One of the secret sites he visited during his term was the Area 51 air force
+    base in his Nevada home state, the scene of so much conspiratorial speculation
+    about strange glowing craft and science-fiction-style future aerospace technology.
   claim_id: 6dfca8a6-37a7-4f2f-8bcb-657066ceac80
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6dfca8a6-37a7-4f2f-8bcb-657066ceac80
@@ -622,6 +677,8 @@ references:
     held retrieved materials from recovered craft.
   source: In Plain Sight
   location: ch17:21235-21315
+  quote: ‘I was told for decades that Lockheed had some of these retrieved materials,’
+    he said.
   claim_id: d246b639-801b-4df4-b208-2812d253ed09
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d246b639-801b-4df4-b208-2812d253ed09
@@ -630,6 +687,10 @@ references:
     materials, but was refused.
   source: In Plain Sight
   location: ch17:21322-21590
+  quote: ‘And I tried to get, as I recall, a classified approval by the Pentagon to
+    have me go look at the stuff. They would not approve that. I don’t know what all
+    the numbers were, what kind of classification it was, but they would not give
+    that to me.’
   claim_id: 924efd42-76c9-41f6-a16b-38beee31fea5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-924efd42-76c9-41f6-a16b-38beee31fea5
@@ -637,6 +698,8 @@ references:
 - text: The Pentagon gave Reid no explanation for its refusal.
   source: In Plain Sight
   location: ch17:21595-21674
+  quote: Reid told The New Yorker the Pentagon provided him with no explanation for
+    its refusal
   claim_id: e55e47f8-d59b-48d6-b02a-cf41d86248db
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e55e47f8-d59b-48d6-b02a-cf41d86248db
@@ -644,6 +707,9 @@ references:
 - text: Reid confirmed the refusal was why he had requested SAP status for AATIP.
   source: In Plain Sight
   location: ch17:21686-21863
+  quote: he confirmed that was why he’d requested Special Access Program status for
+    AATIP. Reid said, ‘Yeah, that’s why I wanted them to take a look at it. But they
+    wouldn’t give me the clearance.’
   claim_id: 4c4b68b3-679f-497f-a9a8-1528e334b4f9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4c4b68b3-679f-497f-a9a8-1528e334b4f9
@@ -652,6 +718,9 @@ references:
     had actual physical materials.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch35:5688-5852
+  quote: “After looking into this, I came to the conclusion that there were reports…
+    that there were actual materials that the government and the private sector had
+    in their possession.” —Senator Harry Reid
   claim_id: 49f2e5e1-fe42-4296-90f2-ca27732a412b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-49f2e5e1-fe42-4296-90f2-ca27732a412b
@@ -660,6 +729,8 @@ references:
     out.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch35:5864-5973
+  quote: It is extremely important that information about the discovery of physical
+    materials or retrieved craft come out.
   claim_id: 95c6a7bb-f6b8-4fec-9452-5ff91ecd6598
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-95c6a7bb-f6b8-4fec-9452-5ff91ecd6598
@@ -668,6 +739,9 @@ references:
     Elizondo's leadership of it.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:19979-20144
+  quote: retired senator Harry Reid, who had unabashedly corroborated his and his
+    colleagues' involvement in funding the original program that led to AATIP and
+    my leadership role.
   claim_id: b6c1a883-c5d2-49ff-9b4d-153686de89b7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b6c1a883-c5d2-49ff-9b4d-153686de89b7
@@ -676,6 +750,9 @@ references:
     resignation.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:31976-32171
+  quote: Former senator Harry Reid—who was our ally and champion at AATIP, who stood
+    up for me in the painful months after my resignation when DoD was trying to erase
+    and smear me
   claim_id: 7edd6cb2-7407-44f9-a006-4b743fc53086
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7edd6cb2-7407-44f9-a006-4b743fc53086
@@ -684,6 +761,9 @@ references:
     part in AATIP.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch35:2746-2908
+  quote: Official letter from former Senate Majority Leader and AATIP sponsor Harry
+    Reid. This letter counters the later claims made by the Pentagon that I had no
+    part in AATIP.
   claim_id: 513ced41-0d0f-4529-ac8e-d4c2b45bc7dd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-513ced41-0d0f-4529-ac8e-d4c2b45bc7dd
@@ -691,6 +771,7 @@ references:
 - text: Reid was a longtime benefactor of Elizondo and Mellon's UAP advocacy.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:508-555
+  quote: such as our longtime benefactor, Senator Harry Reid
   claim_id: 22331738-385b-4a4e-be29-8f9176b22e91
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-22331738-385b-4a4e-be29-8f9176b22e91
@@ -717,6 +798,7 @@ references:
     still supporting the UAP legislative effort.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:32392-32456
+  quote: he was in the final days of a three-year battle with pancreatic cancer
   claim_id: 6723f6c6-3f36-4ada-872c-c5dc5610b23e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6723f6c6-3f36-4ada-872c-c5dc5610b23e
@@ -725,6 +807,8 @@ references:
     UAP legislation into law.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:32656-32731
+  quote: Senator Reid said he would keep fighting his cancer until Biden signed the
+    act.
   claim_id: 03210439-c771-4c25-93c1-1e884b20ae4b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-03210439-c771-4c25-93c1-1e884b20ae4b
@@ -733,6 +817,7 @@ references:
     in December 2021.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:33049-33110
+  quote: A day later, my old friend Harry Reid died peacefully in his sleep.
   claim_id: 23aa726d-9813-4ce5-8390-9c6501a8fc9c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-23aa726d-9813-4ce5-8390-9c6501a8fc9c

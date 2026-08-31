@@ -58,6 +58,8 @@ references:
 - text: NSA went to the US Supreme Court to protect UFO-related documents
   source: Communion
   location: ch14:21137-21251
+  quote: The National Security agency has gone all the way to the Supreme Court to
+    protect some of its documents about the disks.
   claim_id: 3bdba6a0-f9d0-4a3c-a909-2ccb6a5e76d0
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-3bdba6a0-f9d0-4a3c-a909-2ccb6a5e76d0
@@ -65,6 +67,8 @@ references:
 - text: The 1973 redacted NSA UFO document was classified top-secret-umbra
   source: In Plain Sight
   location: ch11:12710-12788
+  quote: previously highly protected with one of the highest top-secret-umbra security
+    classifications
   claim_id: 3c4bbcb3-52b4-4a62-bc5f-ac834d84d523
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c4bbcb3-52b4-4a62-bc5f-ac834d84d523
@@ -72,6 +76,11 @@ references:
 - text: Chalker speculates the document may reference the 1973 North West Cape sighting
   source: In Plain Sight
   location: ch11:12579-12915
+  quote: but Bill Chalker has speculated it may be a sighting referred to in a heavily
+    redacted US National Security Agency (NSA) document, previously highly protected
+    with one of the highest top-secret-umbra security classifications, which was released
+    in court action taken in 1980 by the US group Citizens Against Unidentified Flying
+    Objects Secrecy.
   claim_id: db0896bb-d5d5-468d-b390-594f33645f46
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db0896bb-d5d5-468d-b390-594f33645f46
@@ -79,6 +88,9 @@ references:
 - text: NSA official admitted under deposition to holding 239 UFO-related documents
   source: In Plain Sight
   location: ch11:12925-13100
+  quote: An NSA official was compelled under deposition to admit that 239 UFO-related
+    documents were held in the agency's files, including one describing 'a purported
+    UFO sighting' in 1973
   claim_id: 92a6bc5a-2651-4db7-ac3a-98b7ad00ac89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-92a6bc5a-2651-4db7-ac3a-98b7ad00ac89
@@ -86,6 +98,8 @@ references:
 - text: One of the 239 documents described a 1973 sighting with location redacted
   source: In Plain Sight
   location: ch11:13045-13177
+  quote: including one describing 'a purported UFO sighting' in 1973; however, any
+    mention of where this 'UFO sighting' occurred was heavily redacted.
   claim_id: e4880dd8-2174-42ba-a077-cf29e74063d5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e4880dd8-2174-42ba-a077-cf29e74063d5
@@ -93,6 +107,9 @@ references:
 - text: Orders to ship tapes to NSA after the Cuban MIG-21 interception
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:31528-31729
+  quote: Within hours we received orders to ship all tapes and pertinent intelligence
+    to the National Security Agency, and were told to list the incident in the squadron
+    files as aircraft loss due to equipment malfunction.
   claim_id: 1d7bf81c-d50e-40d8-b239-aa5904809120
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-1d7bf81c-d50e-40d8-b239-aa5904809120
@@ -100,6 +117,8 @@ references:
 - text: Bobby Inman was a former NSA director
   source: Dark Mission
   location: ch14:22547-22653
+  quote: The “Admiral Inman” he was referring to was Admiral Bobby Inman, former director
+    of the National Security Agency
   claim_id: c0f2530b-bb4c-4041-ad6c-a0fb4df99549
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c0f2530b-bb4c-4041-ad6c-a0fb4df99549
@@ -107,6 +126,9 @@ references:
 - text: Menzel's clandestine NSA/CIA/Navy association was revealed after his death
   source: In Plain Sight
   location: ch7:22632-22849
+  quote: It was only revealed after his death that Harvard astronomer and self-described
+    'UFO sceptic' Donald Menzel had a clandestine association with the US National
+    Security Agency, CIA and Navy (holding a top-secret-ultra clearance).
   claim_id: 49032c1d-f626-4c65-bb29-74a20a51363a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-49032c1d-f626-4c65-bb29-74a20a51363a
@@ -114,6 +136,7 @@ references:
 - text: Menzel never disclosed the relationship, even to his university
   source: In Plain Sight
   location: ch7:22861-22922
+  quote: It was a secret relationship he never disclosed, even to his university.
   claim_id: 4165ac93-d055-40c5-b4bf-a1520fe896af
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4165ac93-d055-40c5-b4bf-a1520fe896af
@@ -121,6 +144,7 @@ references:
 - text: Puthoff worked for the NSA and the CIA
   source: In Plain Sight
   location: ch24:8072-8107
+  quote: Hal Puthoff worked for the NSA and CIA.
   claim_id: acaafa83-9eaa-450f-abcb-95aac0f83f9f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-acaafa83-9eaa-450f-abcb-95aac0f83f9f
@@ -128,6 +152,8 @@ references:
 - text: Puthoff's career spanned GE, Sperry, NSA, Stanford, and SRI International
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2421-2542
+  quote: His professional background spans decades of research at General Electric,
+    Sperry, the NSA, Stanford University, and SRI International
   claim_id: 29055d3f-19b0-4a6e-9149-aa17ec070132
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-29055d3f-19b0-4a6e-9149-aa17ec070132
@@ -136,6 +162,9 @@ references:
     agencies
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2561-2734
+  quote: he has served almost every government entity (for example, the Department
+    of Defense and agencies within the intelligence community, such as the NSA) as
+    a senior scientific advisor.
   claim_id: b303af53-033c-4220-97ba-a1ddfd6b2cc6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b303af53-033c-4220-97ba-a1ddfd6b2cc6
@@ -143,6 +172,9 @@ references:
 - text: Puthoff and Targ were told by the CIA that Russia had a remote-viewing programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:25266-25447
+  quote: Hal had been a Stanford University researcher and an employee of the NSA
+    when he and his colleague Russell Targ were approached by the CIA and told that
+    Russia had a remote-viewing program.
   claim_id: 625a284f-b4d0-4b1e-a20c-70cf133e40cc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
@@ -150,6 +182,9 @@ references:
 - text: McMoneagle provided intelligence support to the NSA
   source: Remote Viewing Secrets
   location: ch4:1504-1683
+  quote: Joe provided professional intelligence and creative/inovative informational
+    support to the CIA, DIA, NSA, DEA, Secret Service, FBI, US Customs, the NSC, major
+    commands within the DoD
   claim_id: 2811ab47-a795-4ba4-90c3-95871cd251cc
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-2811ab47-a795-4ba4-90c3-95871cd251cc
@@ -157,6 +192,9 @@ references:
 - text: 'Elizondo: Pat Price remote viewed a secret NSA site in West Virginia'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:33958-34137
+  quote: From a couch on the west coast, Price penetrated a secret NSA location in
+    West Virginia and correctly described identifying labels on manila file folders
+    locked in a subterranean cabinet.
   claim_id: 76b1b0ab-78bd-45f0-88f3-73fbaab7a2b5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-76b1b0ab-78bd-45f0-88f3-73fbaab7a2b5
@@ -164,6 +202,10 @@ references:
 - text: Clapper hired Elizondo into OUSDI, which oversees DIA and NSA
   source: In Plain Sight
   location: ch21:11763-12072
+  quote: recognised Elizondo's skills and, in 2008, had personally hired him into
+    the office that acts as the principal staff for the Department of Defense on sensitive
+    intelligence-related matters, overseeing a cluster of three-letter DoD agencies,
+    including the Defense Intelligence Agency and the National Security Agency
   claim_id: 264fac5f-5e8c-4840-ae89-50f9c152e404
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
@@ -171,6 +213,9 @@ references:
 - text: NSA and CIA offered assets for Operation Plan Interloper
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:13729-13930
+  quote: The NSA and CIA offered to provide assets as well, and we launched weekly
+    meetings in the SCIF spaces we had available. Some of these meetings occurred
+    at the Pentagon, while others were held at other agencies.
   claim_id: 9068dff4-55d0-482f-b78b-6cf064438682
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9068dff4-55d0-482f-b78b-6cf064438682
@@ -178,6 +223,8 @@ references:
 - text: Elizondo showed the GoFast and GIMBAL videos to Navy, CIA and NSA representatives
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:21631-21748
+  quote: A few months later I was sitting in a room with high-level Navy officials,
+    CIA reps, and someone from the NSA... we rolled the tapes.
   claim_id: fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
@@ -186,6 +233,10 @@ references:
     each other'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:17564-17844
+  quote: Meanwhile, the National Reconnaissance Office (NRO), the Central Intelligence
+    Agency (CIA), the National Geospatial-Intelligence Agency (NGA), the Federal Bureau
+    of Investigation (FBI), and the National Security Agency (NSA) also appeared to
+    have important UAP data they were not sharing.
   claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a

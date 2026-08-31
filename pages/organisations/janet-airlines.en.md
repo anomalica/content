@@ -23,6 +23,9 @@ references:
     Janet Airlines
   source: In Plain Sight
   location: ch13:22336-22497
+  quote: Fruehauf worked at Area 51 for six years from 1979 through to 1985, commuting
+    each day from Las Vegas to the desert site on a private charter flight named Janet
+    Airlines.
   claim_id: 286a93a6-db74-4a2b-b916-5522fb82ba4b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-286a93a6-db74-4a2b-b916-5522fb82ba4b

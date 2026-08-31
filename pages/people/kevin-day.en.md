@@ -82,6 +82,9 @@ references:
     monitored the craft tracked during the 2004 encounter
   source: In Plain Sight
   location: ch37:8069-8257
+  quote: retired US Navy chief petty officer and radar specialist Kevin Day, who,
+    as a TOPGUN air intercept controller, monitored the strange Tic-Tac craft videoed
+    and tracked by US Navy pilots in 2004.
   claim_id: 7698357a-332c-49e7-94d4-e8c410476a97
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7698357a-332c-49e7-94d4-e8c410476a97
@@ -90,6 +93,8 @@ references:
     carrier-group protection systems
   source: In Plain Sight
   location: ch16:1351-1493
+  quote: the Princeton's Operations Specialist Senior Chief Kevin Day, who was in
+    charge of coordinating the systems that protect the entire carrier group
   claim_id: 57bc4c1a-284e-44af-a570-1622602a8a0f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-57bc4c1a-284e-44af-a570-1622602a8a0f
@@ -106,6 +111,9 @@ references:
     by anomalous radar tracks
   source: In Plain Sight
   location: ch16:1322-1553
+  quote: Over the previous four days, the Princeton's Operations Specialist Senior
+    Chief Kevin Day...was increasingly concerned by anomalous radar tracks he and
+    his team detected on their screens.
   claim_id: 6317c279-d48c-4a83-bc69-9ff607d4bed9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6317c279-d48c-4a83-bc69-9ff607d4bed9
@@ -114,6 +122,9 @@ references:
     in groups of five to ten, at high altitude
   source: In Plain Sight
   location: ch16:1596-1812
+  quote: Since 10 November he had tracked numerous unidentified aerial objects with
+    no transponder return, closely clustering in groups of five to ten at a time at
+    an altitude far above normal commercial or military aviation traffic.
   claim_id: 5685dfec-b085-4bf5-b00f-b6118b2dc58d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5685dfec-b085-4bf5-b00f-b6118b2dc58d
@@ -122,6 +133,8 @@ references:
     system
   source: In Plain Sight
   location: ch16:1821-1975
+  quote: He verified what he saw on the Princeton's CEC, the Cooperative Engagement
+    System, which took all the radars from every source and merged them into one picture.
   claim_id: d6e8aa35-cf54-4741-826b-146330acc778
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d6e8aa35-cf54-4741-826b-146330acc778
@@ -160,6 +173,8 @@ references:
 - text: On 14 November, Day again saw a cluster of 14 unidentified objects on radar
   source: In Plain Sight
   location: ch16:3258-3438
+  quote: Late on that 14 November morning, in the Princeton's Combat Information Centre,
+    Senior Chief Day again saw a cluster of 14 unidentified objects on his screen
   claim_id: f4df5185-9cd6-4950-ba89-285bb9f0f240
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f4df5185-9cd6-4950-ba89-285bb9f0f240
@@ -167,6 +182,7 @@ references:
 - text: Day confirmed USS Nimitz's radar was tracking the same cluster
   source: In Plain Sight
   location: ch16:3446-3511
+  quote: this time, he confirmed the Nimitz's radar was seeing the same thing
   claim_id: 90742dd6-fb52-4b59-b254-7f1d77a2752d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-90742dd6-fb52-4b59-b254-7f1d77a2752d
@@ -175,6 +191,9 @@ references:
     unlikely
   source: In Plain Sight
   location: ch16:3662-3830
+  quote: The multiple corroboration of returns from different radar systems reassured
+    Day that it was extremely unlikely these anomalous objects on his radar screens
+    were false readings.
   claim_id: d07295d5-c39e-45d6-b88b-7b43bfc09591
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d07295d5-c39e-45d6-b88b-7b43bfc09591
@@ -183,6 +202,8 @@ references:
     at approximately 8,500 metres
   source: In Plain Sight
   location: ch16:3906-4009
+  quote: the cluster of UAPs was at one moment somewhere about 80,000 feet or higher,
+    some were lower at 28,000 feet
   claim_id: b5d77fe1-93fa-4522-8f24-bc6b8ad34da5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5d77fe1-93fa-4522-8f24-bc6b8ad34da5
@@ -191,6 +212,9 @@ references:
     to hover between 8,500 and 15 metres above the sea
   source: In Plain Sight
   location: ch16:4015-4222
+  quote: Then, instantly (Day calculates it to be 0.78 of a second) the UAPs plummeted
+    to hover at a range of different altitudes, spanning from 28,000 feet to one craft
+    hanging just 50 feet above the surface of the ocean.
   claim_id: 223e096a-0e46-4598-afcf-9329fee3d847
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-223e096a-0e46-4598-afcf-9329fee3d847
@@ -199,6 +223,9 @@ references:
     a repeated sound down to the water
   source: In Plain Sight
   location: ch16:4229-4391
+  quote: 'Day gave a memorable quote to a UFO conference in March 2019: ''It''s raining
+    UFOs. It was going choo, choo, choo, choo, choo down to the surface of the water,''
+    he recalled.'
   claim_id: 18b5b5b6-6955-4f5b-8e28-11d30c874670
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-18b5b5b6-6955-4f5b-8e28-11d30c874670
@@ -206,6 +233,8 @@ references:
 - text: Day recommended to Captain James Smith that aircraft investigate; Smith concurred
   source: In Plain Sight
   location: ch16:6428-6542
+  quote: Day recommended to the Nimitz's Captain James Smith that they send out aircraft
+    to take a look, and the captain concurred.
   claim_id: 1e9fa5fc-7581-419e-97db-131b5fbfdaa9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e9fa5fc-7581-419e-97db-131b5fbfdaa9
@@ -222,6 +251,8 @@ references:
 - text: Day recalls pilots and everyone on the radio screaming at the peak moment
   source: In Plain Sight
   location: ch16:11269-11341
+  quote: '''Pilots are screaming and everyone on the radio is screaming,'' Kevin Day
+    recalls.'
   claim_id: d2b0fcff-7be7-4028-bb2a-d1d6ae023ff4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d2b0fcff-7be7-4028-bb2a-d1d6ae023ff4
@@ -229,6 +260,7 @@ references:
 - text: Day said he decided the objects posed a serious threat to air navigation
   source: In Plain Sight
   location: ch16:6212-6284
+  quote: Kevin Day decided that these strange UAPs posed a serious threat to air navigation.
   claim_id: d9fe8a87-45d2-49b5-a2de-08c78f0ff188
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d9fe8a87-45d2-49b5-a2de-08c78f0ff188
@@ -236,6 +268,8 @@ references:
 - text: Day said he is very sure the objects were real, solid objects
   source: In Plain Sight
   location: ch16:1985-2131
+  quote: '''I am very sure these things were real; they were solid objects,'' Day
+    tells me from his home in a beautiful part of high-country Oregon in a phone interview.'
   claim_id: 393f153c-e3e8-4bb9-90d5-24ee2dfb499b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-393f153c-e3e8-4bb9-90d5-24ee2dfb499b
@@ -244,6 +278,9 @@ references:
     about 24,000 metres, above his radar's scan volume
   source: In Plain Sight
   location: ch16:16032-16233
+  quote: Kevin Day believes some of the objects were underwater just before they zoomed
+    back up to 80,000 feet, the upper atmosphere, 'maybe even higher because it was
+    above the scan volume of our radar at the time'.
   claim_id: a02d1ff4-c8d9-4ddf-abf4-08419751336b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a02d1ff4-c8d9-4ddf-abf4-08419751336b
@@ -252,6 +289,9 @@ references:
     that they had tracked some objects from orbit
   source: In Plain Sight
   location: ch16:4402-4593
+  quote: In our interview, Day tells me he learned from crewmen who worked in the
+    anti-ballistic missile defence area of the Princeton that they actually tracked
+    some of these objects that day from orbit.
   claim_id: e3237084-21a3-4c8c-bd39-62aec0989d0f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e3237084-21a3-4c8c-bd39-62aec0989d0f
@@ -260,6 +300,8 @@ references:
     on his own radar
   source: In Plain Sight
   location: ch16:4601-4744
+  quote: '''Some of these things came from space,'' he tells me. ''I didn''t see them
+    directly on my radar, but I know some came from orbit. We aren''t alone, Ross.'''
   claim_id: e2f6df57-3837-46aa-8f34-3677b7309d06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e2f6df57-3837-46aa-8f34-3677b7309d06
@@ -268,6 +310,9 @@ references:
     based on standard 'tapes on' practice before an intercept
   source: In Plain Sight
   location: ch16:20437-20655
+  quote: Kevin Day explains to me that it is standard in such an intercept for him
+    to order 'tapes on' onboard the aircraft before the intercept begins; he estimates
+    the full Tic Tac video would have to be at least ten minutes long.
   claim_id: 3b796af5-0995-4f32-a912-395466e1f818
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3b796af5-0995-4f32-a912-395466e1f818
@@ -276,6 +321,9 @@ references:
     to write an after-action report
   source: In Plain Sight
   location: ch16:22767-23004
+  quote: The morning after the dogfight, Senior Chief Kevin Day went to the USS *Princeton*'s
+    communications room to get a copy of the radio communications from the previous
+    day so that he could get the data he needed to write up an after-action report.
   claim_id: 922a56a4-1aba-4fed-86c2-15785656b43c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-922a56a4-1aba-4fed-86c2-15785656b43c
@@ -284,6 +332,10 @@ references:
     disk, though the time stamps remained
   source: In Plain Sight
   location: ch16:23092-23396
+  quote: But he was shocked to learn that the data for the Tic Tac encounter had been
+    wiped. 'As it turns out, all of our comms had been erased. Now, every time you
+    key a mic on the ship, it stamps the optical disk with a date and time stamp.
+    All the date and time stamps were there but the actual comms were all missing.'
   claim_id: 0a0fbdf2-f4a8-4332-b4c1-188e8a3616a0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0a0fbdf2-f4a8-4332-b4c1-188e8a3616a0
@@ -292,6 +344,8 @@ references:
     missing with time stamps intact, yet it happened
   source: In Plain Sight
   location: ch16:23405-23510
+  quote: And that was another anomalous thing because as far as I know I don't even
+    think that's possible. But it happened.
   claim_id: cb674f5f-8ce7-4149-82d1-b902fb4038bb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cb674f5f-8ce7-4149-82d1-b902fb4038bb
@@ -300,6 +354,9 @@ references:
     forming ice falling from space
   source: In Plain Sight
   location: ch16:21104-21281
+  quote: Kevin Day recalls asking his captain on the *Princeton* afterwards what he
+    thought the object was. 'He told me, "I think the objects were spontaneously forming
+    ice falling from space".'
   claim_id: b57d2f64-6c54-42ab-9df0-e6f14f5f4893
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b57d2f64-6c54-42ab-9df0-e6f14f5f4893
@@ -307,6 +364,7 @@ references:
 - text: Day said he considers that explanation absurd
   source: In Plain Sight
   location: ch16:21290-21328
+  quote: Day laughs at the absurdity of such a conclusion.
   claim_id: 9439c998-3d90-4e23-a7ce-4eb88f4d9955
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9439c998-3d90-4e23-a7ce-4eb88f4d9955
@@ -315,6 +373,8 @@ references:
     letting on
   source: In Plain Sight
   location: ch16:21340-21439
+  quote: His captain left him with the clear impression he knew a lot more than he
+    was letting on about the phenomenon.
   claim_id: 7a7a9d29-12de-4ad4-8a75-cc35fbd21bf6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7a7a9d29-12de-4ad4-8a75-cc35fbd21bf6
@@ -323,6 +383,8 @@ references:
     his world view
   source: In Plain Sight
   location: ch16:4752-4874
+  quote: It is quite clear this whole event has had a profound effect on Kevin Day,
+    that what he saw that day has rocked his world view.
   claim_id: 2fd56e58-c76d-42ab-b788-c0db94d8b876
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2fd56e58-c76d-42ab-b788-c0db94d8b876
@@ -331,6 +393,8 @@ references:
     would make human survival impossible
   source: In Plain Sight
   location: ch16:5626-5723
+  quote: Moreover, the g-forces caused by the acceleration that Day saw on his screen
+    make human survival impossible.
   claim_id: bc582bf2-38cb-4b91-98da-49d9e021cfd5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc582bf2-38cb-4b91-98da-49d9e021cfd5

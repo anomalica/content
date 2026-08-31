@@ -63,6 +63,9 @@ references:
     demanding new Cydonia photographs
   source: Dark Mission
   location: ch13:7832-8020
+  quote: In March 1998, after receiving literally tens of thousands of faxes from
+    Art Bell’s Coast-to-Coast AM audience demanding that NASA take new photos at the
+    first opportunity, NASA finally caved.
   claim_id: e6fd2fd2-1661-463f-9a3d-19a80a9c9941
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e6fd2fd2-1661-463f-9a3d-19a80a9c9941
@@ -71,6 +74,8 @@ references:
     for
   source: Dark Mission
   location: ch13:18464-18605
+  quote: He pointed out that, given the distance the spacecraft’s vertical track was
+    from the Face, such a side-view was the best that could be hoped for.
   claim_id: b58b0427-d94e-444a-985b-d65db37d4474
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b58b0427-d94e-444a-985b-d65db37d4474
@@ -79,6 +84,9 @@ references:
     for the TV news
   source: Dark Mission
   location: ch13:18945-19127
+  quote: Bell, however, was indignant at the political aspects of the day. He considered
+    it a joke that the horrible “MIPL” version had been the only one available as
+    the TV news had gone to air,
   claim_id: ad3ef148-ed2e-4163-bb17-d005ca459665
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ad3ef148-ed2e-4163-bb17-d005ca459665
@@ -86,6 +94,9 @@ references:
 - text: Bell said he'd have to conclude there was no Face on Mars
   source: Dark Mission
   location: ch13:19426-19585
+  quote: “Well, looking at that image, Richard, I’d have to conclude as well that
+    there is no Face on Mars,” Bell said, “and my question now is, where the hell
+    did it go?”
   claim_id: 46987c9f-3c10-4288-9e72-db8f4b73c513
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-46987c9f-3c10-4288-9e72-db8f4b73c513
@@ -93,6 +104,10 @@ references:
 - text: Bell's litter-box comment gave the MIPL image its 'Catbox' nickname
   source: Dark Mission
   location: ch13:19591-19825
+  quote: Bell summed up the MIPL image by saying that it reminded him of a pattern
+    his kitty might scratch up in her litter box. It was from that moment forward
+    that the MIPL image would forever be known as the “Catbox” version of the Face
+    on Mars.
   claim_id: 2e2d2854-09f5-4884-92d9-e6fa65cb7b69
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2e2d2854-09f5-4884-92d9-e6fa65cb7b69
@@ -101,6 +116,9 @@ references:
     Bell
   source: Dark Mission
   location: ch13:37252-37473
+  quote: Instead, we decided to e-mail our prediction to specific researchers and
+    members of the press, including Tom Van Flandern and Art Bell. We predicted an
+    image release at 6:55 p.m. PDT, when Sirius was at 33º above the JPL horizon.
   claim_id: bf4d8eb8-5aec-48f6-a4e9-46972982dfca
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bf4d8eb8-5aec-48f6-a4e9-46972982dfca
@@ -108,6 +126,8 @@ references:
 - text: Bell retired for family reasons; Mike Siegel replaced him as host
   source: Dark Mission
   location: ch14:24644-24768
+  quote: subsequently Mike Siegel, who replaced Art as host of Coast to Coast AM when
+    Art abruptly retired from the air for family reasons
   claim_id: e28fd767-90f5-4853-88dd-191bc269939f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e28fd767-90f5-4853-88dd-191bc269939f
@@ -116,6 +136,9 @@ references:
     to Bell's listeners
   source: Dark Mission
   location: ch15:1509-1694
+  quote: He spent nearly 90 minutes ... droning on about various aspects of the Cydonia
+    research that anyone who had heard him on the Art Bell show had heard many times
+    before
   claim_id: c636e421-4c8c-438c-8f8f-4f3ae6c756bf
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c636e421-4c8c-438c-8f8f-4f3ae6c756bf
@@ -124,6 +147,8 @@ references:
     THEMIS data
   source: Dark Mission
   location: ch17:946-1089
+  quote: Art Bell had returned from his abrupt “retirement,” and in concert with him
+    Hoagland used the airwaves to apply public pressure to release the data.
   claim_id: fbcac2d9-714b-4b9b-bd69-75e89e9806c9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fbcac2d9-714b-4b9b-bd69-75e89e9806c9
@@ -132,6 +157,8 @@ references:
     image
   source: Dark Mission
   location: ch17:52638-52777
+  quote: It was arranged for Keith to brief Art in more detail, and show him a comparison
+    between the earlier Phobos 2 IR image and the new Cydonia data
   claim_id: 72c7a164-328b-4142-86b4-dbe448fffd2d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-72c7a164-328b-4142-86b4-dbe448fffd2d
@@ -139,6 +166,8 @@ references:
 - text: Bell struggled to believe Laney's THEMIS images weren't faked
   source: Dark Mission
   location: ch17:49705-49798
+  quote: Art was having a hard time grasping the idea that the images Keith was getting
+    *couldn’t* be faked.
   claim_id: 70d11964-5d98-4c10-a905-10204160e322
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-70d11964-5d98-4c10-a905-10204160e322
@@ -147,6 +176,8 @@ references:
     THEMIS data
   source: Dark Mission
   location: ch17:49805-49925
+  quote: He was convinced that Gorelick or Christensen had somehow embedded the images
+    of various buildings and structure in the data.
   claim_id: 5241d2d4-1375-47c4-82f8-fa5338de943d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-5241d2d4-1375-47c4-82f8-fa5338de943d
@@ -155,6 +186,9 @@ references:
     samples
   source: In Plain Sight
   location: ch23:2950-3227
+  quote: In April 1996, the young sergeant finally overcame his reservations; he sat
+    down and wrote to Art Bell, host of one of America's most popular radio shows,
+    Coast to Coast AM... His letter included a package of strange metallic samples.
   claim_id: be90c9b0-ec7a-4893-b64a-4f3f6a4bfb4d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-be90c9b0-ec7a-4893-b64a-4f3f6a4bfb4d
@@ -162,6 +196,9 @@ references:
 - text: Sergeant sent five letters with excerpts from his grandfather's diary
   source: In Plain Sight
   location: ch23:3539-3703
+  quote: Over the following weeks, the anonymous army sergeant, who only ever identified
+    himself as 'A Friend', sent five letters with typed excerpts from his grandfather's
+    diary.
   claim_id: 5c01931a-dd22-4d7d-805f-cb17c5a36dad
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5c01931a-dd22-4d7d-805f-cb17c5a36dad
@@ -169,6 +206,9 @@ references:
 - text: Listeners responded sceptically when Bell told the story on air
   source: In Plain Sight
   location: ch23:6971-7171
+  quote: That is what Art Bell's listeners thought, too. When Art started telling
+    the story, letter by letter, week by week, on his Coast to Coast show, his listeners
+    responded sceptically; they did not buy it.
   claim_id: e2d71d2b-3037-4375-be3e-9d30ca8766d3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e2d71d2b-3037-4375-be3e-9d30ca8766d3
@@ -176,6 +216,9 @@ references:
 - text: Sergeant's second letter expressed surprise at listeners' negative response
   source: In Plain Sight
   location: ch23:7176-7381
+  quote: '''I must say that I was somewhat surprised by the negative and close-minded
+    responses directed your way, by some of your own listeners,'' the clearly peeved
+    anonymous sergeant wrote in a second letter to Art Bell.'
   claim_id: eb11ae0f-e4aa-4a68-b878-5058ab3d2f7a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb11ae0f-e4aa-4a68-b878-5058ab3d2f7a
@@ -184,6 +227,9 @@ references:
     during a broadcast
   source: In Plain Sight
   location: ch23:9063-9270
+  quote: the purported sergeant again compromised his anonymity by admitting that,
+    during a broadcast of one of Art Bell's recent radio shows, he was on a flight
+    to Hungary for a 1996 military operation called Joint Endeavor.
   claim_id: 6244f9cf-5fc1-481a-b6b1-da5ba2b2cd36
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6244f9cf-5fc1-481a-b6b1-da5ba2b2cd36
@@ -192,6 +238,9 @@ references:
     normally get struck by lightning and explode
   source: In Plain Sight
   location: ch23:9876-10059
+  quote: '''You see, Mr Bell, my friend was carrying a Roswell sample. I have reasons
+    to be fearful. C-130s don''t normally get hit by lightning and explode,'' the
+    anonymous sergeant solemnly told Art.'
   claim_id: caaa1f88-ff17-487b-bf6c-b00cf6ed697b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-caaa1f88-ff17-487b-bf6c-b00cf6ed697b
@@ -200,6 +249,10 @@ references:
     and 18 years before the letters to Bell and Howe
   source: In Plain Sight
   location: ch23:10756-11057
+  quote: It happened in South Carolina on 30 November 1978, four years after the grandfather
+    supposedly imparted his solemn secret to his family. But, if this C-130 crash
+    was the one he claims, then that was a full 18 years before the supposed US Army
+    sergeant wrote his letter to Art Bell and Linda Moulton Howe.
   claim_id: 36d39e48-8642-4594-8f45-e75651455626
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-36d39e48-8642-4594-8f45-e75651455626
@@ -208,6 +261,9 @@ references:
     possibly working with Howe or Bell'
   source: In Plain Sight
   location: ch25:13360-13539
+  quote: It appeared to be written to a Los Angeles–based Hollywood TV show producer,
+    perhaps one collaborating with Linda Moulton Howe or Art Bell, reporting on the
+    results of scientific tests.
   claim_id: fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fdd7b9ea-b0e5-491e-b5e8-d7334c44ec89
@@ -216,6 +272,9 @@ references:
     identifying details removed
   source: In Plain Sight
   location: ch25:14363-14590
+  quote: I suspect the scientist's letter had been forwarded to Edgar Mitchell by
+    Linda Howe or Art Bell to keep Mitchell briefed, but they had protected the name
+    of the scientist by deleting a lot of the identifying information in the document.
   claim_id: 2248f7a6-452a-4431-9493-e12fee5807d0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2248f7a6-452a-4431-9493-e12fee5807d0
@@ -224,6 +283,9 @@ references:
     Art's Parts samples
   source: In Plain Sight
   location: ch24:1297-1470
+  quote: Around the same time that Art Bell received the mysterious samples in the
+    mid-1990s, a British theoretical physicist, Sir John Pendry, was beginning to
+    conceive the idea of metamaterials.
   claim_id: 3d28a45d-b46a-4fd9-8dca-5bac666e0166
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3d28a45d-b46a-4fd9-8dca-5bac666e0166
@@ -231,6 +293,8 @@ references:
 - text: Mick West identified the aluminium louvered sheets as heat exchanger fins
   source: In Plain Sight
   location: ch34:49606-49718
+  quote: 'Mick West, ''Identified: Art Bell''s "UFO" Aluminum Louvered Sheets – Heat
+    Exchanger Fins'', Metabunk.org, 30 July 2019.'
   claim_id: 18886365-8a16-464e-ae34-a15698badaf5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-18886365-8a16-464e-ae34-a15698badaf5

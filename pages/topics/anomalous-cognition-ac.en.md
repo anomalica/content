@@ -142,6 +142,8 @@ references:
     under controls, including remote viewing
   source: Remote Viewing Secrets
   location: ch25:761-894
+  quote: The term "free response anomalous cognition" is the term used in CSL to denote
+    psychic functioning under controls (to include remote viewing).
   claim_id: 62eb53aa-d4d1-4c23-9180-787c0d73e93c
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-62eb53aa-d4d1-4c23-9180-787c0d73e93c
@@ -149,6 +151,8 @@ references:
 - text: Term used by the Cognitive Sciences Laboratory to define extrasensory perception
   source: Remote Viewing Secrets
   location: ch28:944-1053
+  quote: 'ANOMALOUS COGNITION (AC): Term used by the Cognitive Sciences Laboratory
+    to define Extra Sensory Perception (ESP).'
   claim_id: ff741884-6ec7-4693-a0ca-f7a8f1c7e887
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-ff741884-6ec7-4693-a0ca-f7a8f1c7e887
@@ -157,6 +161,9 @@ references:
     Z of 5.99 (p=7x10^-9)
   source: Remote Viewing Secrets
   location: ch29:13633-13821
+  quote: The original data set had an overall mean effect size of 0.148 (n:1,468),
+    corresponding to a Stouffer's Z:5.99, (p 7 x 10-9), while individual study effect
+    sizes ranged from –0.28 up to 0.56.
   claim_id: 276ae844-b011-4ac7-bbd4-08e23bf0ae83
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-276ae844-b011-4ac7-bbd4-08e23bf0ae83
@@ -165,6 +172,9 @@ references:
     Sidereal Time, assuming no unknown systematic bias
   source: Remote Viewing Secrets
   location: ch25:2567-2765
+  quote: His conclusion is that, "assuming that some unknown systematic bias is not
+    present in the data, it appears that Anomalous Cognition performance is strongly
+    dependent upon the LST at which the trial occurs."
   claim_id: 594e2904-4768-4cfd-bbf7-023163dfac4d
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-594e2904-4768-4cfd-bbf7-023163dfac4d
@@ -173,6 +183,7 @@ references:
     data set
   source: Remote Viewing Secrets
   location: ch29:14796-14818
+  quote: gave a value of 13.47 h
   claim_id: d8d3baf3-779f-460b-a289-2fcfa94cc5c5
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-d8d3baf3-779f-460b-a289-2fcfa94cc5c5
@@ -181,6 +192,9 @@ references:
     0.507 (n=83) versus 0.148 overall, a 3.42-fold increase
   source: Remote Viewing Secrets
   location: ch29:15346-15549
+  quote: the trials, which occurred within ±1 hour of 13.47 h, showed an average effect
+    size of 0.507 (n:83) as compared to the complete data set effect size of 0.148,
+    an increase of effect size by a factor of 3.42
   claim_id: 795d1bb7-5bc0-47a8-9e80-2b4a0d8ca38e
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-795d1bb7-5bc0-47a8-9e80-2b4a0d8ca38e
@@ -189,6 +203,9 @@ references:
     1 hour of 13.5 hours LST (p=0.05), confirming the effect
   source: Remote Viewing Secrets
   location: ch29:983-1179
+  quote: An independent database of 1,015 similar trials was subsequently obtained
+    in which trials within 1 hour of 13.5 h LST showed an effect size increase of
+    450% (p:0.05) providing confirmation of the effect.
   claim_id: 1bd10e59-16eb-4394-b1be-9a46ed43c0a4
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-1bd10e59-16eb-4394-b1be-9a46ed43c0a4
@@ -197,6 +214,8 @@ references:
 - text: Same 13.47-hour peak found independently in the validation data set
   source: Remote Viewing Secrets
   location: ch29:17085-17194
+  quote: the LST for maximum effect size was found to be 13.47 h, identical to the
+    value found from the original data set
   claim_id: b4ebc4ea-b185-4433-b83f-21b7fcdfa40a
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-b4ebc4ea-b185-4433-b83f-21b7fcdfa40a
@@ -205,6 +224,10 @@ references:
     the observed peak occurring by chance at any LST value
   source: Remote Viewing Secrets
   location: ch29:18289-18554
+  quote: In 10,000 such runs 14 produced a window mean effect size at some value of
+    LST, which was greater than or equal to that seen in the actual data. Thus the
+    probability of finding an effect size peak of the magnitude observed at any value
+    of LST was estimated to be 0.0014.
   claim_id: f1cfa56d-f8c8-4544-ac29-f49a3ea4f017
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f1cfa56d-f8c8-4544-ac29-f49a3ea4f017
@@ -213,6 +236,9 @@ references:
     in both Ganzfeld and remote viewing protocols
   source: Remote Viewing Secrets
   location: ch29:25160-25365
+  quote: It is likely that the increase of effect size for AC trials occurring at
+    13.5 h LST is real, replicable across different laboratories and occurs in the
+    diverse protocols of the ganzfeld and remote viewing experiments.
   claim_id: 59ab4e54-5dab-4cd5-8bf3-ee7861ea9d8f
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-59ab4e54-5dab-4cd5-8bf3-ee7861ea9d8f
@@ -221,6 +247,9 @@ references:
     over separations up to several thousand kilometres
   source: Remote Viewing Secrets
   location: ch29:2404-2588
+  quote: a puzzling feature of anomalous cognition is that there is no evidence that
+    performance falls off with the distance between receiver and target over separations
+    up to several thousand kilometers
   claim_id: 650ce7bd-ba26-4746-ae3f-4fe87aa44c3d
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-650ce7bd-ba26-4746-ae3f-4fe87aa44c3d
@@ -229,6 +258,10 @@ references:
     between receiver and target
   source: Remote Viewing Secrets
   location: ch29:28556-28839
+  quote: there is evidence that AC performance does not decrease with the distance
+    between target and receiver, at least up to separations of several thousand km
+    and these long-range tests demonstrate that no difference in AC performance is
+    made by interposing the earth between receiver and target
   claim_id: 75ffb18b-afd2-4a01-b735-886520f74a75
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-75ffb18b-afd2-4a01-b735-886520f74a75
@@ -237,6 +270,8 @@ references:
     when the geomagnetic field is relatively quiescent
   source: Remote Viewing Secrets
   location: ch29:4564-4660
+  quote: it is improved during periods when the geomagnetic field is relatively quiescent
+    (Spottiswoode, 1993)
   claim_id: 870de956-7994-42bd-8220-bc890bdf57d5
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-870de956-7994-42bd-8220-bc890bdf57d5
@@ -245,6 +280,8 @@ references:
     full dataset was -0.029 (N=2,879, p=0.06, one-tailed)
   source: Remote Viewing Secrets
   location: ch31:8167-8250
+  quote: The overall correlation of the data (p:-0.029, N:2,879, p:0.06, 1-tailed)
+    is shown dashed.
   claim_id: 831a016c-1639-4bbd-a287-e5a3f20bd25f
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-831a016c-1639-4bbd-a287-e5a3f20bd25f
@@ -253,6 +290,10 @@ references:
     p=0.002), versus -0.010 outside it (N=2,623, not significant)
   source: Remote Viewing Secrets
   location: ch31:8844-9088
+  quote: Taking as the correlation region the period between 11.2 h and 14.8 h LST,
+    where the correlation shown in Figure 1 crosses zero, the correlation in this
+    "in-band" was -0.192, N:256, p:0.002, whereas the correlation outside was -0.010
+    (N:2,623, ns).
   claim_id: 6032b7c4-09ee-4025-897b-be86567374a2
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-6032b7c4-09ee-4025-897b-be86567374a2
@@ -261,6 +302,9 @@ references:
     hours LST, approximately agreeing with the 13.3-hour peak in effect size
   source: Remote Viewing Secrets
   location: ch31:8631-8789
+  quote: The maximum magnitude correlation of -0.33 (N:134, p:0.0001) occurs at 12.9
+    h, in approximate agreement with the maximum of effect size for this data at 13.3
+    h.
   claim_id: 8c01a517-c5d1-435b-91e5-6acfcbd87157
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-8c01a517-c5d1-435b-91e5-6acfcbd87157
@@ -269,6 +313,9 @@ references:
     protocols
   source: Remote Viewing Secrets
   location: ch31:1568-1762
+  quote: The negative correlation peak was confirmed in both the ganzfeld and remote
+    viewing protocols and was homogeneously present in those individual studies with
+    trials in the relevant sidereal time interval.
   claim_id: 679e4897-9554-4cf3-bd13-994a15eb25ae
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-679e4897-9554-4cf3-bd13-994a15eb25ae
@@ -277,6 +324,9 @@ references:
     geomagnetic fluctuations were significantly lower than on surrounding days
   source: Remote Viewing Secrets
   location: ch31:2353-2554
+  quote: This idea arose from the work of Persinger (e.g. 1988) who found that anecdotal
+    cases of putative AC occurred on days when GMF fluctuations were significantly
+    lower than on the preceding and following days.
   claim_id: 8f70f8e1-7cca-4ad0-a88a-c286f52728ed
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-8f70f8e1-7cca-4ad0-a88a-c286f52728ed
@@ -285,6 +335,7 @@ references:
     high-scoring AC trials and low geomagnetic fluctuations in their 1987 work
   source: Remote Viewing Secrets
   location: ch31:2827-2897
+  quote: while Haraldsson and Gissurarson (1987) and Nelson & Dunne (1986) did not.
   claim_id: 4a74221e-7a4c-40ab-9b05-7257e4547d13
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-4a74221e-7a4c-40ab-9b05-7257e4547d13
@@ -293,6 +344,7 @@ references:
     work
   source: Remote Viewing Secrets
   location: ch31:2827-2897
+  quote: while Haraldsson and Gissurarson (1987) and Nelson & Dunne (1986) did not.
   claim_id: c6a16fd7-587a-4a53-8248-6e77eada53ad
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-c6a16fd7-587a-4a53-8248-6e77eada53ad
@@ -301,6 +353,8 @@ references:
     reported by other free-response AC investigations
   source: Remote Viewing Secrets
   location: ch29:8768-8894
+  quote: the effect size and associated 95% confidence interval of the PEAR data fall
+    within the range reported by other free-response investigations
   claim_id: b39e8dac-a8e6-4896-8657-e472d7d1881c
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-b39e8dac-a8e6-4896-8657-e472d7d1881c
@@ -310,6 +364,10 @@ references:
     other knowledge with no conventional explanation
   source: American Cosmic
   location: ch2:21896-22134
+  quote: The literature shows that contact manifests as anomalous experiences, as
+    telepathic communication with aerial objects and beings, or as anomalous cognition
+    (knowledge of future events or other knowledge for which there is no conventional
+    explanation).
   claim_id: 4ab9b4a4-c599-47e9-97cd-407be49c9b10
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4ab9b4a4-c599-47e9-97cd-407be49c9b10
@@ -318,6 +376,9 @@ references:
     world, which he suggests is a quantum level
   source: American Cosmic
   location: ch2:25979-26133
+  quote: “Basically, it appears that anomalous cognition starts on a level that is
+    beyond the physical world of which we are aware. I suggest it is on some quantum
+    level.”
   claim_id: 57db9b6c-2c3e-4fe0-b01b-92f9d38aa99c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-57db9b6c-2c3e-4fe0-b01b-92f9d38aa99c
@@ -327,6 +388,9 @@ references:
     alien spacecraft
   source: American Cosmic
   location: ch2:37136-37292
+  quote: James studied the biological hardware of human capabilities for anomalous
+    cognition, whereas Tyler studied the material hardware—the supposed crashed alien
+    spacecraft.
   claim_id: f35825d1-1b8e-4d85-b2fd-4acfb67e74de
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f35825d1-1b8e-4d85-b2fd-4acfb67e74de

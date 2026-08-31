@@ -38,6 +38,8 @@ references:
 - text: Tom DeLonge was the front man of Blink-182
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:11264-11339
+  quote: Tom DeLonge, the front man of Blink-182, was only a few years younger than
+    me
   claim_id: 22410738-59ee-43df-81ef-6c4638747374
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-22410738-59ee-43df-81ef-6c4638747374
@@ -45,6 +47,8 @@ references:
 - text: By 1999, as lead singer, DeLonge was a megastar filling stadiums worldwide
   source: In Plain Sight
   location: ch18:9536-9656
+  quote: By 1999, as Blink-182's lead singer, DeLonge was a megastar, packing stadiums
+    full of fans across the US and around the world.
   claim_id: 213ea6ad-712a-4e2c-80f8-e7ff21584efe
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-213ea6ad-712a-4e2c-80f8-e7ff21584efe
@@ -53,6 +57,9 @@ references:
     Lindemulder
   source: In Plain Sight
   location: ch18:9856-10025
+  quote: In June that year, the band released their hugely popular Enema of the State
+    album, featuring buxom porn star Janine Lindemulder in a nurse's uniform donning
+    a rubber glove.
   claim_id: 2751925b-97fc-44d0-8113-5d80a1de3981
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2751925b-97fc-44d0-8113-5d80a1de3981
@@ -60,6 +67,8 @@ references:
 - text: John Lydon dismissed Blink-182 as 'a bunch of silly boys'
   source: In Plain Sight
   location: ch18:9715-9818
+  quote: '...the cranky Sex Pistols veteran punk John Lydon, aka Johnny Rotten, dismissed
+    them as ''a bunch of silly boys'',...'
   claim_id: 0c6d475c-5c9a-4028-8322-210ad8deaa30
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0c6d475c-5c9a-4028-8322-210ad8deaa30
@@ -89,6 +98,8 @@ references:
 - text: In 2015 Tom DeLonge quit Blink-182
   source: In Plain Sight
   location: ch18:5680-5776
+  quote: The other seminal UAP event in 2015 was that punk pop rock star Tom DeLonge
+    quit his band Blink-182.
   claim_id: 0fe34a35-e9ef-4e50-9430-a38aa76a983f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0fe34a35-e9ef-4e50-9430-a38aa76a983f
@@ -97,6 +108,9 @@ references:
     focus on UAP research
   source: In Plain Sight
   location: ch18:12272-12446
+  quote: In early 2015, DeLonge quit Blink-182, or rather his relationship with the
+    band went on 'indefinite hiatus', in part because he wanted to focus on researching
+    the mystery of UAPs.
   claim_id: f8f05b75-00f1-485a-9bb7-aafcd60935e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f8f05b75-00f1-485a-9bb7-aafcd60935e6
@@ -105,6 +119,10 @@ references:
     aerospace contractor's family open house
   source: In Plain Sight
   location: ch18:14707-14951
+  quote: Shortly before he left Blink-182, the rock star was invited to an open house
+    for families of a top defence aerospace contracting company to MC at a function
+    where his job would be to introduce someone he would only describe as a lead aerospace
+    executive.
   claim_id: 7822dcc3-ea39-4a9c-a637-9be738869008
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7822dcc3-ea39-4a9c-a637-9be738869008

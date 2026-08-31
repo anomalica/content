@@ -71,6 +71,9 @@ references:
     UAP study
   source: In Plain Sight
   location: ch17:3449-3607
+  quote: The Senator approached his colleagues, Democrat Senator Daniel Inouye and
+    Republican Senator Ted Stevens, to get $22 million funding for a study into the
+    UAP mystery.
   claim_id: 9cb0750d-1402-4a84-bd24-ddbc4243d2ac
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9cb0750d-1402-4a84-bd24-ddbc4243d2ac
@@ -113,6 +116,9 @@ references:
     to take a look at this
   source: In Plain Sight
   location: ch17:4971-5133
+  quote: '''Whatever you want, you get it from me,'' Stevens told Senator Reid. He
+    explained he saw a UAP during one wartime flight. ''We need to take a look at
+    this,'' he told Reid.'
   claim_id: 13b6b030-3af0-4129-abde-bc550afb2172
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13b6b030-3af0-4129-abde-bc550afb2172
@@ -121,6 +127,8 @@ references:
     War II
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:18234-18314
+  quote: Stevens admitted openly that he had once seen a "foo fighter" while flying
+    on a mission.
   claim_id: 1347bdc3-1cde-4240-a44a-699fe86b49d7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1347bdc3-1cde-4240-a44a-699fe86b49d7
@@ -141,6 +149,9 @@ references:
     over the Himalayas from India to China
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:17843-18051
+  quote: During World War II, Stevens had served as a pilot in the Army Air Corps,
+    flying US military cargo over the so-called Hump of the Himalayas from India to
+    China, where it could be used in the US conflict with Japan.
   claim_id: e01e6560-d459-4eac-a43d-66ece2280527
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e01e6560-d459-4eac-a43d-66ece2280527
@@ -149,6 +160,10 @@ references:
     the efforts of Reid, Stevens, and Inouye
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:17304-17583
+  quote: 'This time, Jim shared that the program enjoyed the support of the DIA''s
+    then director, Lieutenant General Michael D. Maples, and was funded through the
+    efforts of a bipartisan group of senators: Senator Harry Reid (D-NV), Senator
+    Ted Stevens (R-AK), and Senator Daniel Inouye (D-HI).'
   claim_id: 48783ee1-cc4d-4530-89be-e763adf1c0ee
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
@@ -157,6 +172,8 @@ references:
     Pentagon programs
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:19229-19315
+  quote: Together, these three men controlled congressional spending for black-budget
+    Pentagon programs.
   claim_id: d44a9df7-70f5-4eac-82a1-fa325abf1e50
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d44a9df7-70f5-4eac-82a1-fa325abf1e50
@@ -165,6 +182,8 @@ references:
     years after backing the funding
   source: In Plain Sight
   location: ch17:4796-4901
+  quote: Reid's other backer, Senator Ted Stevens, who died in a plane crash only
+    two years later, also needed no convincing
   claim_id: c5d330e1-1da9-49c9-a185-516ebdb88176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5d330e1-1da9-49c9-a185-516ebdb88176

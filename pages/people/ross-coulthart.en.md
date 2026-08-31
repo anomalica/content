@@ -432,6 +432,9 @@ references:
     unexplained UAP sighting
   source: In Plain Sight
   location: ch10:10833-11003
+  quote: What the school children and teachers saw became known as the Westall school
+    incident, and it remains Australia's, and one of the world's, most witnessed unexplained
+    UAP sighting.
   claim_id: c020a973-4cfe-42f6-946e-6783498171cf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c020a973-4cfe-42f6-946e-6783498171cf
@@ -440,6 +443,9 @@ references:
     inviting interviews
   source: In Plain Sight
   location: ch10:15754-15922
+  quote: When, at my request, a flier was sent out to Westall witnesses, inviting
+    them to attend the 55th anniversary of the 1966 event in April 2021 and be interviewed
+    by this author
   claim_id: bf359fd0-ece9-49b6-a8d8-f4313f96a008
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bf359fd0-ece9-49b6-a8d8-f4313f96a008
@@ -448,6 +454,8 @@ references:
     report
   source: In Plain Sight
   location: ch10:16318-16453
+  quote: He told me that in the wake of the Westall incident his father had investigated
+    the event and written a secret report about it for the Department
   claim_id: f0049d4c-f607-436a-a4ea-e2724e049137
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f0049d4c-f607-436a-a4ea-e2724e049137
@@ -455,6 +463,9 @@ references:
 - text: A black Humber car collected the friend's father each morning after Westall
   source: In Plain Sight
   location: ch10:16469-16634
+  quote: that in the days after the mass sighting 'a black Humber car arrived at our
+    family home from the Department early every morning to take him back out each
+    day to the school'.
   claim_id: e1476186-821b-4df1-95ba-62655ec6a2cd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e1476186-821b-4df1-95ba-62655ec6a2cd
@@ -462,6 +473,8 @@ references:
 - text: No Westall document has ever surfaced from Australian government archives
   source: In Plain Sight
   location: ch10:16846-16972
+  quote: Not one document on the Westall incident has ever surfaced from any government
+    archives, despite strenuous efforts by several researchers.
   claim_id: 5fe828e4-4b73-4f6e-b491-6977fa8bc840
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5fe828e4-4b73-4f6e-b491-6977fa8bc840
@@ -469,6 +482,8 @@ references:
 - text: Coulthart in no doubt a secret Westall report was written
   source: In Plain Sight
   location: ch10:16985-17078
+  quote: Knowing the credibility and integrity of my source, I am in absolutely no
+    doubt a report was written.
   claim_id: 56182c24-4122-4771-b54a-c1fda1b12bfb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-56182c24-4122-4771-b54a-c1fda1b12bfb
@@ -476,6 +491,8 @@ references:
 - text: Shane Ryan works at Australia's Parliament House in Canberra
   source: In Plain Sight
   location: ch10:17910-18000
+  quote: Ryan is a dogged investigator who works in his day job at Australia's Parliament
+    House in Canberra.
   claim_id: bd5cd51c-9c4a-43b3-87b1-5d4743a5ecdd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd5cd51c-9c4a-43b3-87b1-5d4743a5ecdd
@@ -483,6 +500,8 @@ references:
 - text: Shane Ryan interviewed 122 Westall witnesses who saw a 'flying saucer'
   source: In Plain Sight
   location: ch10:17775-17901
+  quote: Researcher Shane Ryan told me he has interviewed an extraordinary tally of
+    122 witnesses who clearly saw a 'flying saucer' at Westall.
   claim_id: 59a81a5d-d2ea-4bb8-a2c3-da434bcb764d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-59a81a5d-d2ea-4bb8-a2c3-da434bcb764d
@@ -567,6 +586,8 @@ references:
 - text: Coulthart considers Project Blue Book largely for public show
   source: In Plain Sight
   location: ch10:378-464
+  quote: This went way beyond Project Blue Book, which appears to have been largely
+    for public show.
   claim_id: 3705ba2c-55df-49cc-be11-923aa23e0563
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3705ba2c-55df-49cc-be11-923aa23e0563
@@ -574,6 +595,7 @@ references:
 - text: Coulthart calls the 1985 USAF summary statement a blatant deceit
   source: In Plain Sight
   location: ch10:24387-24410
+  quote: But this was a blatant deceit.
   claim_id: 97361b62-ca01-4a6e-9c70-c0b674a92d83
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-97361b62-ca01-4a6e-9c70-c0b674a92d83
@@ -673,6 +695,10 @@ references:
 - text: John Audette told Coulthart about the Admiral Wilson meeting
   source: In Plain Sight
   location: ch14:14671-14910
+  quote: One of these friends was John Audette, the co-founder of Mitchell's Quantrek
+    research organisation, who responded in detail to my inquiry about this meeting.
+    'Yes, Ed shared with me details about the Admiral Wilson meeting,' Audette tells
+    me.
   claim_id: 6bd14f74-5b55-4de5-93a5-8edb79fef8fb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6bd14f74-5b55-4de5-93a5-8edb79fef8fb

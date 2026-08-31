@@ -67,6 +67,8 @@ references:
     effect
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch24:23287-23374
+  quote: the Manhattan Project unlocked the secrets of the atom with devastating and
+    miraculous effect
   claim_id: 2e97523b-a010-417a-bd63-4147c6f5cc66
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2e97523b-a010-417a-bd63-4147c6f5cc66
@@ -98,6 +100,8 @@ references:
     which oversaw the project
   source: Dark Mission
   location: ch12:66615-66710
+  quote: was director of the Office of Scientific Research and Development, which
+    oversaw the Manhattan Project
   claim_id: 0a367026-8ec5-4cb1-939c-2d317389121f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0a367026-8ec5-4cb1-939c-2d317389121f
@@ -137,6 +141,10 @@ references:
     years before Roswell
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:17680-17936
+  quote: Five years before Roswell, the US Department of War hid the Manhattan Project—the
+    successful US mission to build the world’s first atomic bomb—utilizing multiple
+    secret facilities in multiple US locations staffed by thousands of patriotic American
+    men and women
   claim_id: cb8920bd-8c29-43bc-b3c3-c937a8695d9b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cb8920bd-8c29-43bc-b3c3-c937a8695d9b
@@ -144,6 +152,7 @@ references:
 - text: There were enemy spies inside the Manhattan Project
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:17967-18025
+  quote: we did learn that there were enemy spies in the Manhattan Project
   claim_id: 9168201c-d609-48f4-a5f5-d6e490791771
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9168201c-d609-48f4-a5f5-d6e490791771
@@ -152,6 +161,9 @@ references:
     of UAP sightings
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:12918-13101
+  quote: Coincidentally, his district was near Oak Ridge, home to the nation’s uranium
+    stockpile and a former World War II “Secret City” of the Manhattan Project and
+    the site of countless UAP sightings.
   claim_id: 1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
@@ -159,6 +171,9 @@ references:
 - text: White Sands Missile Range is where the project constructed atomic bomb components
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:161-317
+  quote: the legendary White Sands missile test range, the same location where the
+    Manhattan Project constructed the components for the atomic bomb during World
+    War II
   claim_id: 858ba5bf-04b4-49f0-85aa-f535e8cdc2c7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-858ba5bf-04b4-49f0-85aa-f535e8cdc2c7
@@ -192,6 +207,11 @@ references:
 - text: In 2013 researchers at White Sands saw luminous orbs over a nearby ridge
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:101-466
+  quote: 'Los Alamos, New Mexico, 2013: Scientists and researchers at the legendary
+    White Sands missile test range, the same location where the Manhattan Project
+    constructed the components for the atomic bomb during World War II, were testing
+    yet another device (whose nature I cannot divulge) when witnesses spotted several
+    mysterious and luminous orbs moving over a nearby ridge.'
   claim_id: e04a3727-9905-4571-9dc0-94b580f6d00b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e04a3727-9905-4571-9dc0-94b580f6d00b
@@ -200,6 +220,9 @@ references:
     Project veterans
   source: Dark Mission
   location: ch5:21480-21643
+  quote: a group called the Federation of American Scientists, a left wing group of
+    disaffected Manhattan Project veterans who were dismayed at the military uses
+    of atomic weapons
   claim_id: 23c47feb-7214-4c6f-afc3-a45df43a8bdc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-23c47feb-7214-4c6f-afc3-a45df43a8bdc

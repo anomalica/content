@@ -423,6 +423,9 @@ references:
     sold millions of copies.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch7:2462-2659
+  quote: Communion, Whitley Strieber's 1987 account of his claimed encounters with
+    aliens, sold millions of copies and solidified in public consciousness the perception
+    of the alien as bald with large dark eyes.
   claim_id: 8b4b4c8b-0726-4a8f-baf6-d59d54d6113c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8b4b4c8b-0726-4a8f-baf6-d59d54d6113c
@@ -483,6 +486,8 @@ references:
     readers reporting similar encounters.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:722-799
+  quote: the thousands of letters that were sent to him in the wake of the success
+    of Communion
   claim_id: c62d5b18-9913-45ec-8801-ed0b276f99b8
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c62d5b18-9913-45ec-8801-ed0b276f99b8
@@ -491,6 +496,8 @@ references:
     alien stereotype in public consciousness.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:350-485
+  quote: The cover painting of the alien "visitor" on Whitley Strieber's 1987 book
+    Communion served to entrench this image widely in the public consciousness.
   claim_id: 7c2a3f90-bc61-4021-9b30-b352b8f5069d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7c2a3f90-bc61-4021-9b30-b352b8f5069d
@@ -580,6 +587,8 @@ references:
     referrals.
   source: Communion
   location: ch10:1210-1325
+  quote: I chose not to approach any hypnotist to whom Hopkins had made previous referrals,
+    despite the excellence of their credentials.
   claim_id: 9453789c-df50-4e1e-8cbb-7f56bbeb3275
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-9453789c-df50-4e1e-8cbb-7f56bbeb3275
@@ -599,6 +608,9 @@ references:
     by relaxation and warmth suggestions.
   source: Communion
   location: 74-76
+  quote: Dr. Klein stood before me and asked me to look up at his finger... he began
+    saying that my eyelids were getting heavy... soon Dr. Klein began to say that
+    my right hand was getting warm.
   claim_id: a67edea8-5973-4968-834f-cff7f02e769f
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a67edea8-5973-4968-834f-cff7f02e769f
@@ -606,6 +618,7 @@ references:
 - text: Strieber underwent a three-hour pre-interview in Klein's office before hypnosis.
   source: Communion
   location: ch10:1838-1914
+  quote: A few weeks later I was in his office undergoing a searching three-hour pre-interview.
   claim_id: 57181f11-0b26-4d64-9401-d7c451812048
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-57181f11-0b26-4d64-9401-d7c451812048
@@ -615,6 +628,7 @@ references:
     to the visitor experiences.
   source: Communion
   location: ch10:1925-1977
+  quote: I had provided him with a document outlining all my memories.
   claim_id: 8cae8e9f-89c9-4bf5-a969-ba80c05fe498
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8cae8e9f-89c9-4bf5-a969-ba80c05fe498
@@ -623,6 +637,9 @@ references:
     to ask questions only at the end.
   source: Communion
   location: ch10:10156-10363
+  quote: I wish to add that Budd Hopkins was present at both of these sessions, recording
+    them. He was allowed to ask questions, but only at the end of each session, and
+    it was understood that his questions would be few.
   claim_id: de23db32-39b4-4419-abd9-38cc4fb60edf
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-de23db32-39b4-4419-abd9-38cc4fb60edf
@@ -645,6 +662,8 @@ references:
     March 1, 1986, with Klein as psychiatrist.
   source: Communion
   location: ch10:10508-10582
+  quote: 'SESSION DATE: March 1, 1986 SUBJECT: Whitley Strieber PSYCHIATRIST: Donald
+    Klein, MD'
   claim_id: 60ffb135-507e-4cb5-8316-488c8c51f1c0
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-60ffb135-507e-4cb5-8316-488c8c51f1c0
@@ -654,6 +673,9 @@ references:
     the peak of his living room's cathedral ceiling.
   source: Communion
   location: ch10:12832-13000
+  quote: there's something went past the window?... I referred to an octagonal window
+    beneath the peak of the living room's cathedral ceiling, approximately thirty
+    feet from the ground.
   claim_id: f8cbf0b5-5916-4ce3-a2fe-4ae20cc0a998
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-f8cbf0b5-5916-4ce3-a2fe-4ae20cc0a998
@@ -662,6 +684,8 @@ references:
     bedroom.
   source: Communion
   location: ch10:13516-13629
+  quote: I was looking into the far corner of the bedroom, where I saw a dark shape
+    about three feet tall standing in the shadows.
   claim_id: 2a6312ee-f925-42a9-93af-baad578769c9
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-2a6312ee-f925-42a9-93af-baad578769c9
@@ -669,6 +693,8 @@ references:
 - text: Strieber recalled the figure as hooded with no visible head.
   source: Communion
   location: ch10:13951-14054
+  quote: '"I saw something that looked like it had a hood on it, standing over by
+    the wall near the corner in our bedroom"'
   claim_id: 6b60ef4b-262f-4c93-b28c-16e624b39e82
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-6b60ef4b-262f-4c93-b28c-16e624b39e82
@@ -677,6 +703,9 @@ references:
     if pressing something into his mind.
   source: Communion
   location: ch10:15491-15698
+  quote: 'comes over to the bed and he starts like sucking something in-not into my
+    head, y''understand, but like it was sticking into my mind... [Demonstrates noise:
+    a smacking, squeaking sound.]'
   claim_id: 7f4ad424-18d1-449b-8001-ed72b7426d26
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-7f4ad424-18d1-449b-8001-ed72b7426d26
@@ -685,6 +714,8 @@ references:
     Gottlieb to the country for the weekend.
   source: Communion
   location: ch10:11324-11446
+  quote: '"Yeah, we''re gonna take Jacques and Annie up to the country and I don''t
+    know whether or not Jacques is going to fit in the jeep."'
   claim_id: b320165b-8cb3-4157-9546-fdb2a715c596
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-b320165b-8cb3-4157-9546-fdb2a715c596
@@ -693,6 +724,10 @@ references:
     that touched his head and produced visions of a nuclear blast.
   source: Communion
   location: ch10:18613-18966
+  quote: He looks mean. He's little. Goes up to about the top of the lamp. Looking
+    down at me. Got eyes. Big eyes. Big slanted eyes. A bald head... He's got a ruler
+    in his hand. Has a tip of silver... I see pictures of the whole place just blowing
+    up when he touches my head with this thing.
   claim_id: aef5eb4f-538b-4111-bd8c-1a2aa6e0dbc1
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-aef5eb4f-538b-4111-bd8c-1a2aa6e0dbc1
@@ -700,6 +735,8 @@ references:
 - text: Strieber recalled hearing a voice tell him 'That's your home'.
   source: Communion
   location: ch10:19154-19231
+  quote: 'Remembered voice: That''s your home. That''s your home. You know why this
+    will happen.'''
   claim_id: d987aa80-12b9-4c6a-9392-50c5a5df9c0c
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d987aa80-12b9-4c6a-9392-50c5a5df9c0c
@@ -708,6 +745,9 @@ references:
     from hypnosis.
   source: Communion
   location: '162'
+  quote: '[Screams, prolonged, twenty seconds.]... I then emerged spontaneously from
+    hypnosis... All I can say is that I relived fear so raw, profound, and large that
+    I would not have thought it possible that such an emotion could exist.'
   claim_id: 62a2f613-39d1-4650-bde6-deb95465bcdf
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-62a2f613-39d1-4650-bde6-deb95465bcdf
@@ -716,6 +756,9 @@ references:
     room, overwhelmed by dread and a sense his personality had evaporated.
   source: Communion
   location: '110'
+  quote: The next thing I knew, I was sitting in a messy round room... this now left
+    me and I became entirely given over to extreme dread. The fear was so powerful
+    that it seemed to make my personality completely evaporate.
   claim_id: 8d095b8b-f767-4741-a47e-5a03d022882c
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8d095b8b-f767-4741-a47e-5a03d022882c
@@ -724,6 +767,9 @@ references:
     with his mother, his wife and his son.
   source: Communion
   location: 237-247
+  quote: '"I don''t want to go home.''" ... "''I do not want you to open that door!
+    I belong with my momma and my wife . . . and my boy. That is where I belong."
+    [Sobs.] I don''t belong here. I don''t know how I ended up here.'
   claim_id: d2bb5b10-3448-4d84-a06b-dce58e0d5e43
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d2bb5b10-3448-4d84-a06b-dce58e0d5e43
@@ -732,6 +778,9 @@ references:
     a convulsive mouth movement as though trying to get something out of his throat.
   source: Communion
   location: '139'
+  quote: he was standing up and he looked totally bereft and terrified... And then
+    I heard him screaming, but real faint, you know. I could see him — he was no farther
+    away than you are... but I could hear him very faintly, dust screaming and screaming.
   claim_id: 158c77e5-3ff7-49bf-b202-2842d6443c35
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-158c77e5-3ff7-49bf-b202-2842d6443c35
@@ -924,6 +973,8 @@ references:
     to Roswell to meet surviving witnesses of the 1947 Roswell UFO incident.
   source: The Fourth Mind
   location: ch11:1211-1361
+  quote: When we were making the Communion movie in 1988, Anne and I took a side trip
+    to Roswell to meet with witnesses, some of whom were still alive at that time.
   claim_id: 63df11cb-d372-4f21-8974-20791f0d823b
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-63df11cb-d372-4f21-8974-20791f0d823b
@@ -931,6 +982,8 @@ references:
 - text: Strieber sent a letter to Senator Strom Thurmond on 1997-06-16.
   source: In Plain Sight
   location: ch34:57725-57809
+  quote: Letter from Whitley Strieber to Senator Strom Thurmond, 16 Jun 1997, Edgar
+    Mitchell archive.
   claim_id: 0b8eed27-e42c-4a63-9737-e804e864e73d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0b8eed27-e42c-4a63-9737-e804e864e73d
@@ -940,6 +993,10 @@ references:
     at Roswell that 'went from Truman on down'.
   source: In Plain Sight
   location: ch25:22926-23176
+  quote: Strieber told the Senator in his letter that US Army Brigadier General Arthur
+    Exon had told him personally in 1989 that there was a 'completely unequivocal
+    cover-up' of a retrieved alien craft at Roswell and 'it went from [President Harry]
+    Truman on down'.
   claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b16cf133-6aca-486b-8091-52bd8e641c06
@@ -948,6 +1005,9 @@ references:
     small security-cleared group has definite knowledge concerning nonhuman visitors.
   source: The Fourth Mind
   location: ch10:3834-4051
+  quote: The United States Department of Defense makes certain that nobody outside
+    of a small coterie of individuals whose activities are controlled by security
+    clearances has any definite knowledge of anything to do with the visitors.
   claim_id: 68038aa4-cb3f-4cbe-9133-c7eaf6c10c5c
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-68038aa4-cb3f-4cbe-9133-c7eaf6c10c5c
@@ -956,6 +1016,8 @@ references:
     in 1947 has kept the secret of nonhuman visitors.
   source: The Fourth Mind
   location: ch10:5589-5680
+  quote: From Truman in 1947 until the present, all U.S. presidential administrations
+    have kept the secret
   claim_id: 080a72f9-28f2-4a49-8e6d-051f117a3260
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-080a72f9-28f2-4a49-8e6d-051f117a3260
@@ -964,6 +1026,8 @@ references:
     documents a year.
   source: The Fourth Mind
   location: ch10:10978-11064
+  quote: The United States government classifies between 60 million and 70 million
+    documents a year
   claim_id: eff9d015-d7fe-415f-9f04-7d272f4b68c0
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-eff9d015-d7fe-415f-9f04-7d272f4b68c0
@@ -973,6 +1037,10 @@ references:
     than aims or motives.
   source: The Fourth Mind
   location: ch10:6707-7025
+  quote: There is much known about UAPs and some of their occupants within the U.S.
+    defense establishment, but it is concentrated on aspects like materials and biology,
+    not so much on aims and motives and the needs behind them, let alone their relationship
+    to the ineffable and intricately resonant part of us that we call the soul
   claim_id: 714a9560-6407-480d-a990-bc73f962f9d2
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-714a9560-6407-480d-a990-bc73f962f9d2

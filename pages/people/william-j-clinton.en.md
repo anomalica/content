@@ -71,6 +71,8 @@ references:
     Carter's 1977 inquiries
   source: In Plain Sight
   location: ch14:104-212
+  quote: When Bill Clinton became president in 1993, he asked questions about UAPs,
+    just as Jimmy Carter had done in 1977.
   claim_id: ba58875b-e22d-4cfc-8f79-c77d046ba64e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba58875b-e22d-4cfc-8f79-c77d046ba64e
@@ -79,6 +81,8 @@ references:
     White House in 1993
   source: In Plain Sight
   location: ch14:1424-1540
+  quote: What is known is that, on entering the White House in 1993, both Bill and
+    Hillary Clinton took a strong interest in UAPs
   claim_id: 5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
@@ -87,6 +91,9 @@ references:
     more UAP files
   source: In Plain Sight
   location: ch14:1550-1726
+  quote: after lobbying from billionaire businessman and UAP believer Laurance Rockefeller,
+    the president ordered his new CIA Director James Woolsey to release more of the
+    files on the subject.
   claim_id: 3df658f8-ae37-4065-bd87-f55e38d1eebe
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3df658f8-ae37-4065-bd87-f55e38d1eebe
@@ -94,6 +101,8 @@ references:
 - text: Clinton admitted having aides research Area 51 to check for aliens
   source: In Plain Sight
   location: ch14:2073-2187
+  quote: President Clinton has also admitted that he had his aides research Area 51,
+    'to make sure there was no alien down there'.
   claim_id: a85aa7ce-bc27-482a-90eb-42fc1434d3e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a85aa7ce-bc27-482a-90eb-42fc1434d3e7
@@ -102,6 +111,9 @@ references:
     and whether UFOs are real
   source: In Plain Sight
   location: ch14:218-432
+  quote: Clinton's Associate Attorney General Webster Hubbell claimed he was asked
+    by the president to find out all he could about two things. '"One, who killed
+    JFK? And, two, are there UFOs?" He was dead serious,' Hubbell claimed.
   claim_id: 591daa3b-77e3-408b-9407-b98dc2f52f06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-591daa3b-77e3-408b-9407-b98dc2f52f06
@@ -131,6 +143,8 @@ references:
 - text: Clinton pushed for the GAO's 1995 review of the Roswell papers
   source: In Plain Sight
   location: ch14:2195-2277
+  quote: He also pushed for the General Accounting Office's 1995 review of all the
+    Roswell papers
   claim_id: 45cc9970-f422-4054-b1e7-4111983b6057
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-45cc9970-f422-4054-b1e7-4111983b6057
@@ -150,6 +164,8 @@ references:
     aliens existed
   source: In Plain Sight
   location: ch14:2425-2575
+  quote: In 2014, Clinton was asked on *Jimmy Kimmel Live*, 'If you saw that there
+    were aliens there, would you tell us?' Clinton said that he would have done so.
   claim_id: 107abe4e-2c1e-4796-b4b6-2afe76e93208
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-107abe4e-2c1e-4796-b4b6-2afe76e93208
@@ -157,6 +173,8 @@ references:
 - text: 'Clinton: ''If we were visited someday, I wouldn''t be surprised'''
   source: In Plain Sight
   location: ch14:2579-2711
+  quote: He also admitted he believed human beings were not alone in the universe.
+    'If we were visited someday, I wouldn't be surprised,' he said.
   claim_id: c05f26ce-efbe-4db6-bdb0-b94b017c4cee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c05f26ce-efbe-4db6-bdb0-b94b017c4cee
@@ -165,6 +183,9 @@ references:
     during his presidency
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch35:4245-4454
+  quote: “When I was president, we made every attempt to find out everything about
+    Roswell… . There are lots of mysteries out there… . It should keep us humble.
+    There is a lot of stuff we don’t know.” —President Bill Clinton
   claim_id: a0a74bb4-f626-496e-977c-7b514fc1f1b4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a0a74bb4-f626-496e-977c-7b514fc1f1b4
@@ -185,6 +206,8 @@ references:
     humble
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch35:4329-4429
+  quote: There are lots of mysteries out there… . It should keep us humble. There
+    is a lot of stuff we don’t know.
   claim_id: 7b8e8b9c-bfce-4197-80c7-e9e7eb10119e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7b8e8b9c-bfce-4197-80c7-e9e7eb10119e
@@ -193,6 +216,9 @@ references:
     to say, referencing Clinton's earlier answer
   source: In Plain Sight
   location: ch18:5144-5339
+  quote: 'Jimmy: ''Oh really. Because President Clinton said he did go right in and
+    he did check and there was nothing.'' President Obama: ''Well you know, that''s
+    what we''re instructed to say.'''
   claim_id: 9c8ff4cf-926d-48ca-b2d8-182d91584074
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c8ff4cf-926d-48ca-b2d8-182d91584074
@@ -200,6 +226,8 @@ references:
 - text: Podesta served as Clinton's Chief of Staff, 1998-2001
   source: In Plain Sight
   location: ch14:26259-26377
+  quote: John Podesta, a political consultant who served as President Clinton’s Chief
+    of Staff in the White House from 1998 to 2001
   claim_id: 12340195-1080-4fa6-94bd-8fb2123d8392
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12340195-1080-4fa6-94bd-8fb2123d8392
@@ -208,6 +236,8 @@ references:
     Clinton
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:13091-13242
+  quote: John Podesta, who had served as chief of staff to President Clinton, counselor
+    to President Barack Obama, and campaign manager to Hillary Clinton, was involved.
   claim_id: 79bece11-f229-43bb-832d-42c337d7c6e9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-79bece11-f229-43bb-832d-42c337d7c6e9
@@ -215,6 +245,9 @@ references:
 - text: Podesta secured Executive Order 12958, declassifying UAP files, under Clinton
   source: In Plain Sight
   location: ch18:3627-3799
+  quote: Podesta had enjoyed huge success securing Executive Order 12958 under President
+    Clinton, declassifying millions of pages of national security documents, including
+    many UAP files.
   claim_id: d18570b9-0086-4346-ba6a-ef8f49fbcca9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d18570b9-0086-4346-ba6a-ef8f49fbcca9
@@ -223,6 +256,10 @@ references:
     UFOs after a friend warned of assassination
   source: In Plain Sight
   location: ch14:6076-6364
+  quote: Greer has claimed that when he sent a briefing document to President Clinton
+    a response came back that the president 'couldn't get anywhere with [UFOs] and
+    didn't want to push on the issue because a very good friend of his came to his
+    home and said he would end up assassinated like Jack Kennedy.
   claim_id: 4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1

@@ -30,6 +30,9 @@ references:
     corporation under SEC laws and regulation
   source: In Plain Sight
   location: ch21:8186-8392
+  quote: TTSA is not just a lobby group; it is a public company soliciting money from
+    potential investors as a public benefit corporation pursuant to strict US government
+    Securities and Exchange Commission laws and regulation.
   claim_id: bd5189ac-3fc4-4267-b2d6-78f47cd3ea33
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd5189ac-3fc4-4267-b2d6-78f47cd3ea33
@@ -37,6 +40,8 @@ references:
 - text: TTSA was structured as a public benefit corporation as prescribed by the SEC
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:12495-12617
+  quote: His organization would be a “public benefit” corporation, structured exactly
+    as prescribed by the Securities and Exchange Commission.
   claim_id: 0877e6f1-5c28-424d-b9ad-1c3d0c9baefc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0877e6f1-5c28-424d-b9ad-1c3d0c9baefc
@@ -45,6 +50,8 @@ references:
     Elizondo and Justice had departed TTSA
   source: In Plain Sight
   location: ch21:23699-23837
+  quote: it took Tom DeLonge several more months to formally admit to the Securities
+    Exchange Commission not only their departure
   claim_id: bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
@@ -54,6 +61,10 @@ references:
     system plans
   source: In Plain Sight
   location: ch23:17382-17615
+  quote: An earlier 2018 disclosure TTSA made to the US Securities and Exchange Commission
+    revealed that TTSA has already retained Hal Puthoff's EarthTech International
+    Inc. to prepare plans on materials analysis and beamed energy propulsion launch
+    systems
   claim_id: fba74d5a-7425-4b66-b07c-ffb54813d1d9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fba74d5a-7425-4b66-b07c-ffb54813d1d9
@@ -62,6 +73,9 @@ references:
     Parts samples to the company for $35,000, with Hal Puthoff to analyse them
   source: In Plain Sight
   location: ch23:12669-12902
+  quote: There was a disclosure notice by TTSA to the Securities Exchange Commission
+    (SEC) revealing that in 2019 Tom DeLonge sold the same six 'Art's Parts' samples
+    to his company for $35,000 and that Hal Puthoff would be analysing them for TTSA.
   claim_id: 529dd6d7-40b5-4486-a95f-b7d9734f6a56
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-529dd6d7-40b5-4486-a95f-b7d9734f6a56

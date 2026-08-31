@@ -86,6 +86,8 @@ references:
 - text: AFOSI was investigating green fireballs seen over military sites in late 1949
   source: In Plain Sight
   location: ch8:2583-2694
+  quote: In late 1949, the Air Force Office of Special Investigations, investigating
+    green fireballs seen over military sites
   claim_id: c14fa12e-e0c0-4a55-a3a8-6db9737925fd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c14fa12e-e0c0-4a55-a3a8-6db9737925fd
@@ -94,6 +96,8 @@ references:
     installations was cause for concern
   source: In Plain Sight
   location: ch8:2701-2852
+  quote: confidentially reported that 'the continued occurrence of unexplained phenomena
+    of this nature in the vicinity of sensitive installations is cause for concern'
   claim_id: a513f266-bb01-47b6-ad2a-30b820e29307
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a513f266-bb01-47b6-ad2a-30b820e29307
@@ -102,6 +106,9 @@ references:
     debunk UFOs
   source: In Plain Sight
   location: ch11:1921-2112
+  quote: He asserted that in 1953 the US Air Force Office of Special Investigations
+    persuaded the US Air Force to use the Project Blue Book investigation into UAPs
+    as a 'means of publicly "debunking" UFOs'
   claim_id: 12a5052a-09e6-49d3-9bd6-e3625b026942
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12a5052a-09e6-49d3-9bd6-e3625b026942
@@ -110,6 +117,8 @@ references:
     Rendlesham Forest incident
   source: In Plain Sight
   location: ch12:10279-10375
+  quote: He said the US Air Force Office of Special Investigations (OSI) attacked
+    the credibility of his sighting.
   claim_id: ae4e2f6d-3ed1-4b21-9367-4b933068e9f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ae4e2f6d-3ed1-4b21-9367-4b933068e9f7
@@ -118,6 +127,8 @@ references:
     office the next day
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:33353-33488
+  quote: The next day, the servicemen who were eyewitnesses were called to the base's
+    office of the Air Force Office of Special Investigations (OSI).
   claim_id: 21d4bb7f-0e42-4ac3-b3c1-8c990b6dacb2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-21d4bb7f-0e42-4ac3-b3c1-8c990b6dacb2
@@ -126,6 +137,8 @@ references:
     of Rendlesham witnesses
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:33715-33812
+  quote: The ones I personally spoke to said there was someone from the CIA in the
+    room with the men from OSI.
   claim_id: ee418f3c-c6ec-4bc1-a3ed-2c52d5997b21
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ee418f3c-c6ec-4bc1-a3ed-2c52d5997b21
@@ -202,6 +215,8 @@ references:
     planes invisible actually worked on a sensitive Air Force technology
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:21710-21812
+  quote: '"That guy actually works for us, and we need whatever file you have on him."
+    ... "He is a contractor for one of our most sensitive technologies."'
   claim_id: df2b0c30-9cb6-421e-916f-507732850e7b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-df2b0c30-9cb6-421e-916f-507732850e7b
@@ -210,6 +225,8 @@ references:
     been released
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:26003-26120
+  quote: In reaction to the press, Garry Reid initiated an inquiry through the AFOSI
+    to determine how the UAP videos had been released.
   claim_id: 7632ca75-dec7-4660-93a6-34b7f9669ac3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7632ca75-dec7-4660-93a6-34b7f9669ac3
@@ -218,6 +235,8 @@ references:
     and found no impropriety by Elizondo
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:26130-26225
+  quote: That investigation would drag on well into spring. Eventually, they found
+    no impropriety in my actions.
   claim_id: c501feec-7b82-4dee-a32a-f66b113ded4e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c501feec-7b82-4dee-a32a-f66b113ded4e
@@ -226,6 +245,9 @@ references:
     AFOSI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:6566-6727
+  quote: Several people loyal to me who were still at OUSD(I) told me that Reid planned
+    to launch a criminal inquiry with the Air Force Office of Special Investigations
+    (AFOSI).
   claim_id: 41f64a5e-8363-4963-a189-a8ac6b46cd23
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-41f64a5e-8363-4963-a189-a8ac6b46cd23
@@ -233,6 +255,7 @@ references:
 - text: Within the Pentagon, AFOSI investigates internal matters pertaining to counterintelligence
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:6735-6806
+  quote: Within the Pentagon, AFOSI investigates internal matters pertaining to counterintelligence.
   claim_id: a733e5a3-5d69-4e6c-8a81-df73efb176b9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a733e5a3-5d69-4e6c-8a81-df73efb176b9
@@ -241,6 +264,10 @@ references:
     Kean were most likely an AFOSI surveillance team
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:17467-17716
+  quote: I noticed two individuals with tight military-style haircuts in different
+    parts of the street as we strolled. I was certain we were being observed. They
+    displayed the classic signs. They were most likely an AFOSI surveillance team,
+    just not their A-Team.
   claim_id: f2018acc-9885-4014-8e4b-4ddb9b500cf5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f2018acc-9885-4014-8e4b-4ddb9b500cf5
@@ -249,6 +276,8 @@ references:
     improperly declassified the UAP videos
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:1958-2082
+  quote: I had to remind the young agent that double jeopardy is a no-no, and that
+    AFOSI had investigated and adjudicated the matter favorably.
   claim_id: e366de8e-c734-456d-a492-801ab58f5a7f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e366de8e-c734-456d-a492-801ab58f5a7f

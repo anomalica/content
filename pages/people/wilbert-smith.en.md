@@ -62,6 +62,7 @@ references:
 - text: Wilbert Smith was a Canadian radio engineer.
   source: In Plain Sight (2021)
   location: ch8:6436-6497
+  quote: a top-secret memo written by Canadian radio engineer Wilbert Smith
   claim_id: a7b1d025-e22f-40b3-a7ac-05f88d8f21a7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7b1d025-e22f-40b3-a7ac-05f88d8f21a7
@@ -70,6 +71,8 @@ references:
     Transport.
   source: In Plain Sight (2021)
   location: ch8:6436-6555
+  quote: a top-secret memo written by Canadian radio engineer Wilbert Smith to the
+    Canadian Department of Transport in November 1950
   claim_id: d1ede045-1d74-4fba-b5f8-c9bdbc1bbc7d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d1ede045-1d74-4fba-b5f8-c9bdbc1bbc7d
@@ -77,6 +80,7 @@ references:
 - text: The memo was later found in his official papers in a Canadian university archive.
   source: In Plain Sight (2021)
   location: ch8:6561-6625
+  quote: later found in Smith's official papers in a Canadian university archive
   claim_id: 769edf0b-26af-416a-a85f-9ac66f4502b2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-769edf0b-26af-416a-a85f-9ac66f4502b2
@@ -84,6 +88,8 @@ references:
 - text: Smith worked on a separate top-secret project intercepting Soviet communications.
   source: In Plain Sight (2021)
   location: ch8:6634-6748
+  quote: Smith was highly regarded inside the Canadian government as he worked on
+    a top-secret project intercepting Soviet communications
   claim_id: e402ed0f-f5d7-48e3-a203-9052e9367ccf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e402ed0f-f5d7-48e3-a203-9052e9367ccf
@@ -92,6 +98,8 @@ references:
     newly published Behind the Flying Saucers.
   source: In Plain Sight (2021)
   location: ch8:6764-6898
+  quote: While at a conference in Washington DC in September that year, he read the
+    just published Behind the Flying Saucers book by Frank Scully
   claim_id: 099197f5-dd40-48bb-8c25-0dcf0ed011e3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-099197f5-dd40-48bb-8c25-0dcf0ed011e3
@@ -100,6 +108,9 @@ references:
     a scientist consulting for the U.S. Research and Development Board.
   source: In Plain Sight (2021)
   location: ch8:7082-7267
+  quote: Smith used his own contacts at the Canadian Embassy in Washington to interview
+    Dr Robert Sarbacher, an American scientist who consulted for the US government's
+    Research and Development Board
   claim_id: 7193073b-6521-410f-bcec-e66411d32d80
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7193073b-6521-410f-bcec-e66411d32d80
@@ -108,6 +119,8 @@ references:
     classified subject in the U.S. government, rating higher than the hydrogen bomb.
   source: In Plain Sight (2021)
   location: ch8:7412-7510
+  quote: . . . the most highly classified subject in the United States government,
+    rating higher even than the H-bomb.
   claim_id: 155bc58b-dacd-4774-b751-214aca08564b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-155bc58b-dacd-4774-b751-214aca08564b
@@ -115,6 +128,7 @@ references:
 - text: Sarbacher told Smith flying saucers exist.
   source: In Plain Sight (2021)
   location: ch8:7519-7534
+  quote: Flying Saucers exist.
   claim_id: 1d1dc125-f804-4cad-b34e-772f85108b71
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d1dc125-f804-4cad-b34e-772f85108b71
@@ -123,6 +137,8 @@ references:
     effort was being made by a group headed by Dr Vannevar Bush.
   source: In Plain Sight (2021)
   location: ch8:7544-7656
+  quote: Their modus operandi is unknown, but a concentrated effort is being made
+    by a small group headed by Dr Vannevar Bush.
   claim_id: aa4c5eec-51f9-41d5-bae0-43d183816502
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-aa4c5eec-51f9-41d5-bae0-43d183816502
@@ -131,6 +147,8 @@ references:
     of tremendous significance.
   source: In Plain Sight (2021)
   location: ch8:7665-7750
+  quote: The entire matter is considered by the United States authorities to be of
+    tremendous significance
   claim_id: 6d274281-89ce-4f9e-927f-5362951e8f93
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6d274281-89ce-4f9e-927f-5362951e8f93
@@ -139,6 +157,9 @@ references:
     book, including recovered aliens and spacecraft, were 'substantially correct'.
   source: In Plain Sight (2021)
   location: ch8:7764-7973
+  quote: Wilbert Smith's handwritten notes of the meeting recorded Dr Sarbacher confirming
+    that the facts set out in the Frank Scully flying saucers book (including recovered
+    aliens and spacecraft) were 'substantially correct'
   claim_id: c5e7074c-2b72-40da-832c-04ebbbbc1567
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5e7074c-2b72-40da-832c-04ebbbbc1567
@@ -147,6 +168,9 @@ references:
     humanoid recovered bodies.
   source: In Plain Sight (2021)
   location: ch8:7983-8153
+  quote: Wilbert Smith's son James has also admitted that his father told him much
+    more, including that 'he was shown recovered bodies from a recovered craft' that
+    were small and humanoid
   claim_id: 23cb236e-3a01-40f9-8136-30d1dbfe0d4d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-23cb236e-3a01-40f9-8136-30d1dbfe0d4d
@@ -155,6 +179,10 @@ references:
     record.
   source: In Plain Sight (2021)
   location: ch8:8165-8416
+  quote: There has never been any attempt by the United States or Canadian governments
+    to rebut Wilbert Smith's record of what he says he learned about the purported
+    US 'recovered flying saucers' program, both governments remaining conspicuously
+    silent on the issue
   claim_id: d7b76563-2836-422c-acda-a348b11287c5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d7b76563-2836-422c-acda-a348b11287c5

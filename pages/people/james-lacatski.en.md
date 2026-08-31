@@ -94,6 +94,9 @@ references:
     top rocket scientists
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch9:9173-9366
+  quote: He was a bona fide rocket scientist, with a doctorate in engineering, and
+    looked every bit the part... I later learned that he was one of our government's
+    top rocket scientists.
   claim_id: bdea3455-8a7f-44ce-a43c-6dbad2ef45d5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bdea3455-8a7f-44ce-a43c-6dbad2ef45d5
@@ -102,6 +105,8 @@ references:
     drawing authority from Congress
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch9:9945-10085
+  quote: Nestled deep inside DIA, a member of the US intelligence community (the IC),
+    AAWSAP drew its authority directly from Congress, according to Jim.
   claim_id: 10b54b87-31c4-44f8-875b-1d255a1760e6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10b54b87-31c4-44f8-875b-1d255a1760e6
@@ -110,6 +115,10 @@ references:
     Senators Reid, Stevens and Inouye
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch9:17304-17583
+  quote: 'This time, Jim shared that the program enjoyed the support of the DIA''s
+    then director, Lieutenant General Michael D. Maples, and was funded through the
+    efforts of a bipartisan group of senators: Senator Harry Reid (D-NV), Senator
+    Ted Stevens (R-AK), and Senator Daniel Inouye (D-HI).'
   claim_id: 48783ee1-cc4d-4530-89be-e763adf1c0ee
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
@@ -118,6 +127,10 @@ references:
     capabilities, now called UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch9:11397-11675
+  quote: He explained that AAWSAP focused on "unusual phenomena" and investigated
+    unidentified aircraft, specifically ones that seem to display beyond-next-generation
+    technology and capabilities—what we now call unidentified anomalous phenomena,
+    or UAP, or what were long referred to as UFOs.
   claim_id: 278b3d9e-3a51-460f-8d81-318ff6eb8947
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-278b3d9e-3a51-460f-8d81-318ff6eb8947
@@ -126,6 +139,11 @@ references:
     and law enforcement
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch9:11681-12020
+  quote: Jim explained that for decades, civilians, military personnel, and law enforcement
+    officers had reported strange sightings across the world, and there was actually
+    data to support what they saw. Data collected by the same intelligence-gathering
+    systems used to keep our country safe from our adversaries, arguably the most
+    advanced in the world.
   claim_id: 75a591ed-babe-4bd3-8abc-cc61ccf0b459
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-75a591ed-babe-4bd3-8abc-cc61ccf0b459
@@ -134,6 +152,8 @@ references:
     understood
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch9:12027-12111
+  quote: Jim emphasized that what they focused on didn't conform to physics as we
+    understood it.
   claim_id: 2da76bf1-2725-42f3-a88c-95234c1ff88d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2da76bf1-2725-42f3-a88c-95234c1ff88d
@@ -142,6 +162,7 @@ references:
     Virginia
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch9:9093-9162
+  quote: Finally, in a glass office space along the far wall, I met Dr. James Lacatski.
   claim_id: d6a0f326-48b7-4ced-913e-9365016bf9f8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d6a0f326-48b7-4ced-913e-9365016bf9f8
@@ -150,6 +171,8 @@ references:
     for AAWSAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch9:19326-19432
+  quote: In this second meeting, Jim Lacatski formally asked me to handle counterintelligence
+    and security for the program.
   claim_id: f174fbab-955b-4b77-b596-8019cad9c551
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f174fbab-955b-4b77-b596-8019cad9c551
@@ -158,6 +181,9 @@ references:
     foreign adversaries
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch9:9565-9763
+  quote: In a calm voice, he told me AAWSAP worked on sensitive aviation technology
+    and needed a senior counterintelligence agent to lock down all intel about the
+    program from the usual antagonists, foreign adversaries.
   claim_id: 1534e40a-6b44-41b8-bc7d-2c8ac38edbff
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1534e40a-6b44-41b8-bc7d-2c8ac38edbff
@@ -165,6 +191,7 @@ references:
 - text: Stratton and Lacatski briefed Elizondo on AAWSAP/AATIP in a SCIF
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch12:245-295
+  quote: Jay and Jim began briefing me on the program in a SCIF
   claim_id: 8deb1fc1-e9a8-429c-8ce4-36fe34463cf9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8deb1fc1-e9a8-429c-8ce4-36fe34463cf9
@@ -173,6 +200,9 @@ references:
     'anomaly' and 'UAP'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch12:2635-2792
+  quote: At Jim’s suggestion, I used my government computer to search terms including
+    *unknown technology*, *unusual performance*, *anomaly*, *unidentified*, *UFO*,
+    *UAP*.
   claim_id: cda9554e-03c7-4ae5-8e4c-d5fb86ae12d7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cda9554e-03c7-4ae5-8e4c-d5fb86ae12d7
@@ -181,6 +211,10 @@ references:
     warranted it'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch12:2117-2368
+  quote: 'Jim and his team had gone down this path for the simplest reason imaginable:
+    the science warranted further investigation of these strange phenomena, and they
+    could not yet rule out the possibility that these anomalous events and UAP were
+    inextricably linked'
   claim_id: a0568dbf-c6aa-4c17-b076-5f5f53e59c27
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a0568dbf-c6aa-4c17-b076-5f5f53e59c27
@@ -188,6 +222,8 @@ references:
 - text: 'Elizondo: Lacatski believed research at Skinwalker Ranch was worth pursuing'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch16:8947-9022
+  quote: Jim believed with all his core that research on Skinwalker Ranch was worth
+    pursuing.
   claim_id: 5744799d-b335-4423-8644-9eb4feb6df36
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5744799d-b335-4423-8644-9eb4feb6df36
@@ -196,6 +232,11 @@ references:
     Skinwalker Ranch
   source: In Plain Sight (2021)
   location: ch17:113-470
+  quote: In about 2008, one of the most powerful politicians in Washington DC, Democrat
+    Senator Harry Reid, received an intriguing letter written by a senior US Defence
+    Intelligence Agency (DIA) scientist (likely a physicist named James Lacatski,
+    although he was never named), whose world view had been transformed by extraordinary
+    events he witnessed at Skinwalker Ranch.
   claim_id: 37be4bef-43f5-47fb-b9ae-afcb0ac75a74
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-37be4bef-43f5-47fb-b9ae-afcb0ac75a74
@@ -204,6 +245,8 @@ references:
     positive
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch12:47290-47437
+  quote: As Jim Lacatski and his contractors circulated executive summaries, the email
+    responses they received via secure internal servers were unfailingly positive.
   claim_id: c9226745-372b-4dfa-9f3a-bb912d541b9d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c9226745-372b-4dfa-9f3a-bb912d541b9d
@@ -212,6 +255,9 @@ references:
     AAWSAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch12:47919-48127
+  quote: Within a matter of weeks of the transition, Lacatski began spending most
+    of his time defending his efforts instead of conducting research. The powers that
+    be in the ivory tower now actively tried to kill the program.
   claim_id: 61ba409a-3b22-47a6-9f3a-06d01a57c364
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-61ba409a-3b22-47a6-9f3a-06d01a57c364
@@ -219,6 +265,9 @@ references:
 - text: DIA bureaucrats killed, filed away, or ignored reports of Lacatski's work
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch12:48136-48348
+  quote: If the slightest glimmer of the truth of Jim’s work got released in a broader
+    report destined for the eyes of others in power, it got kicked upstairs, where
+    DIA’s bureaucrats killed it, filed it away, or ignored it.
   claim_id: 6740fcd2-1c1b-45e6-81bc-ec60872ad141
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6740fcd2-1c1b-45e6-81bc-ec60872ad141
@@ -227,6 +276,10 @@ references:
     shifted
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch16:6497-6762
+  quote: Within thirty to forty-five days of my mentor's reassignment to DIA, the
+    atmosphere at the agency changed with respect to our work. Woods brought in colleagues
+    from the CIA. Suddenly the response to Lacatski's well-crafted reports to higher-ups
+    elicited a shift in tone.
   claim_id: 7ef53de4-cc6d-4955-a5a2-c248f0b1292b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7ef53de4-cc6d-4955-a5a2-c248f0b1292b
@@ -235,6 +288,10 @@ references:
     cases to focus on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch16:7085-7360
+  quote: I remember a meeting in the fall of 2009 that Jay and I attended with Jim,
+    in which we openly talked about the wisdom of Jim dropping the investigations
+    AAWSAP had gotten involved with that many considered to be dealing with the paranormal
+    and instead focusing solely on UAP threats.
   claim_id: 290aa661-6ea6-4ae5-9083-56a28d770985
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-290aa661-6ea6-4ae5-9083-56a28d770985
@@ -243,6 +300,8 @@ references:
     AAWSAP'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch16:9218-9321
+  quote: Sometime after that, in the spring of 2010, Jim confided in me that he was
+    being pressured to stop all efforts.
   claim_id: 68ea8837-b63c-48b9-85a6-5f7962c06b2d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-68ea8837-b63c-48b9-85a6-5f7962c06b2d
@@ -251,6 +310,9 @@ references:
     Lynn
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch16:9330-9501
+  quote: He was about to take a meeting with Deputy Secretary of Defense William J.
+    Lynn, hoping he could talk some sense into the deputy secretary and allay any
+    of DoD's fears or concerns.
   claim_id: 0c5d5c50-2081-4a41-bc67-2ba427229517
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0c5d5c50-2081-4a41-bc67-2ba427229517
@@ -270,6 +332,10 @@ references:
     persecution
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch16:18562-18794
+  quote: '"Michael, I need you to protect one of our scientists. He is a good man
+    who has done great things for our country, and your agency is trying to persecute
+    him. I need to call in a favor and make sure he is protected from internal DIA
+    forces."'
   claim_id: 427be487-8a34-4076-b078-fbb64dac409a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-427be487-8a34-4076-b078-fbb64dac409a
@@ -277,6 +343,7 @@ references:
 - text: Higgins agreed to look into protecting Lacatski
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch16:18804-18863
+  quote: Michael simply replied, "You got it, Lue. I will look into it."
   claim_id: e6eabda3-15e9-47d4-b8be-543843522c6f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e6eabda3-15e9-47d4-b8be-543843522c6f
@@ -284,6 +351,8 @@ references:
 - text: Elizondo believed Lacatski and AAWSAP/AATIP had been targeted for elimination
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch12:51505-51651
+  quote: As the new kid, I was certainly not going to tell Jim how to do his job,
+    but I worried the powers that be had bull’s-eyes fixed on Jim and AAWSAP/AATIP.
   claim_id: e9588082-7ac7-41d6-9f8d-f4474e721849
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e9588082-7ac7-41d6-9f8d-f4474e721849
@@ -291,6 +360,9 @@ references:
 - text: Lacatski conceived a chart placing God, Angels, and Humans in a hierarchy
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch13:7013-7227
+  quote: One day I arrived at our group office to find Jim and a couple of the others
+    kicking around ideas for a chart Jim had conceived. At the top he'd typed the
+    word God. At the bottom was Humans. In the middle was Angels.
   claim_id: 9bbb30f9-f9ce-4afe-9a94-41baa3583ee3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9bbb30f9-f9ce-4afe-9a94-41baa3583ee3
@@ -299,6 +371,10 @@ references:
     angels and humans'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch13:7692-7991
+  quote: Jim theorized that if the distance between humans and angels is large, was
+    it not probable that other beings existed between the purely spiritual angels
+    and the flesh-and-soul creatures known as humans? Was it possible an entire ecosystem
+    of divine and semidivine life forms existed in an invisible ecosystem?
   claim_id: 4f71ecd8-66ed-40a6-ac31-1fa80cf8e5b5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4f71ecd8-66ed-40a6-ac31-1fa80cf8e5b5
@@ -307,6 +383,8 @@ references:
     spiritual realm
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch16:8057-8193
+  quote: 'The only problem: the briefing Jim wanted to share with leadership included
+    words like *archangels*, *angels*, *demons*, and *spiritual realm*.'
   claim_id: 45bd5514-9829-4c69-b4b7-2de396af42f0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-45bd5514-9829-4c69-b4b7-2de396af42f0
@@ -315,6 +393,9 @@ references:
     Program worked at cross-purposes'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch12:45975-46127
+  quote: Theoretically, Jim Lacatski and his team ran the US’s official program on
+    UAP, but at the same time the Legacy Program was working at cross-purposes to
+    ours.
   claim_id: eeca7ef6-97ca-42ac-a12f-bedc39718ed6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-eeca7ef6-97ca-42ac-a12f-bedc39718ed6

@@ -217,6 +217,10 @@ references:
     were unknown to him, as were the described SAP conversations.
   source: In Plain Sight
   location: ch26:11888-12171
+  quote: Many of the people (Oke Shannon, Mike Crawford, Linda, Rich, Doug) he characterises
+    in the memo as people I interacted with are completely unknown to me, as are the
+    conversations I purportedly had on Special Access Programs related to UFOs with
+    senior officials in the Department of Defense.
   claim_id: 67211ab2-ec6d-4f3b-b7cf-8b044d803579
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-67211ab2-ec6d-4f3b-b7cf-8b044d803579
@@ -225,6 +229,8 @@ references:
     Wilson well.
   source: In Plain Sight
   location: ch26:12559-12651
+  quote: In his interview with Cox, Oke Shannon gave the impression that he actually
+    knew Tom Wilson well.
   claim_id: 90ef622c-9b1d-4e47-803d-6e23c24c3e5a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-90ef622c-9b1d-4e47-803d-6e23c24c3e5a
@@ -233,6 +239,10 @@ references:
     and Davis, called Wilson honourable, and apologised if it embarrassed him.
   source: In Plain Sight
   location: ch26:12658-12946
+  quote: ‘I don’t know the provenance of that purported document – I don’t know whether
+    it’s real or not real,’ Oke Shannon told Billy Cox. ‘Let’s just leave it at the
+    fact that I do know both of these gentlemen. Tom Wilson is an honourable man.
+    And if this has embarrassed Tom Wilson, I am really sorry.’
   claim_id: 1d015a29-79e7-4c12-88a7-ebaa08668ee3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1d015a29-79e7-4c12-88a7-ebaa08668ee3
@@ -241,6 +251,8 @@ references:
     and Davis, or that it happened.
   source: In Plain Sight
   location: ch26:12955-13054
+  quote: Oke Shannon did not deny to Billy Cox that he had facilitated a meeting with
+    Tom Wilson or that it happened.
   claim_id: a4a15ecf-d47a-4f93-bd2b-9b7e81c1ae18
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a4a15ecf-d47a-4f93-bd2b-9b7e81c1ae18

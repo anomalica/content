@@ -418,6 +418,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch13:24585-24755
+  quote: There is a curious parallel to this case in the experiences of Robert Monroe,
+    an American businessman who systematically investigates out-of-the-body travel
+    (see Chapter Six).
   claim_id: f4178317-f088-4e6b-952f-05a3120bf573
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-f4178317-f088-4e6b-952f-05a3120bf573
@@ -453,6 +456,9 @@ references:
 - text: Research spanned hundreds of experiments over twelve years and was still continuing.
   source: Journeys Out of the Body
   location: ch10:24543-24698
+  quote: Hundreds of experiments spread over twelve years, and still continuing, have
+    brought forth conclusions that seem inescapable yet alien to my environmental
+    conditioning.
   claim_id: dc82aaa6-b0e3-41af-9bc7-ce2b6df16d43
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-dc82aaa6-b0e3-41af-9bc7-ce2b6df16d43
@@ -460,6 +466,8 @@ references:
 - text: No physiological cause found for the condition.
   source: Journeys Out of the Body
   location: ch10:2204-2339
+  quote: Even after I had determined that there was no physiological cause, and that
+    I was no more insane than most of my fellow men, the fears persisted.
   claim_id: 10003a7c-3b66-46ac-a965-a21682ed38b1
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-10003a7c-3b66-46ac-a965-a21682ed38b1
@@ -467,6 +475,8 @@ references:
 - text: Began experimenting, keeping notes of each event.
   source: Journeys Out of the Body
   location: ch10:2769-2852
+  quote: Finally, I began to experiment with this strange aberration, keeping notes
+    of each event.
   claim_id: 8e87939f-04b2-47fd-8998-c29d800f1b91
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-8e87939f-04b2-47fd-8998-c29d800f1b91
@@ -474,6 +484,8 @@ references:
 - text: Feared being classified as a patient by psychologist/psychiatrist friends.
   source: Journeys Out of the Body
   location: ch10:834-948
+  quote: I was afraid that I would then be classified as their “patients,” and lose
+    the closeness that equality (normalcy) brings.
   claim_id: 25277b0e-00b7-42f0-a631-7827e7c6ef5b
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-25277b0e-00b7-42f0-a631-7827e7c6ef5b
@@ -481,6 +493,8 @@ references:
 - text: Foster Bradshaw was his only outlet to discuss the condition.
   source: Journeys Out of the Body
   location: ch10:2433-2522
+  quote: There was no one to talk to about the problem, other than an occasional meeting
+    with Dr. Bradshaw.
   claim_id: 41cbaba6-6bde-4414-8e90-476b358dcd46
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-41cbaba6-6bde-4414-8e90-476b358dcd46
@@ -488,6 +502,8 @@ references:
 - text: The Bradshaws lived about eight kilometres from Monroe's office.
   source: Journeys Out of the Body
   location: ch11:2230-2305
+  quote: Dr. and Mrs. Bradshaw live in a house some five miles from my office, up
+    a hill
   claim_id: 6963414c-ebff-49f4-9c1b-8d1d73b8e4cf
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-6963414c-ebff-49f4-9c1b-8d1d73b8e4cf
@@ -495,6 +511,8 @@ references:
 - text: Bradshaw suggested the experience was astral projection.
   source: Journeys Out of the Body
   location: ch10:16982-17071
+  quote: Dr. Bradshaw had given me the clue, although he himself had heard about such
+    things only remotely.
   claim_id: 53f0cb9b-3411-405b-bdf3-75619493b0ea
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-53f0cb9b-3411-405b-bdf3-75619493b0ea
@@ -502,6 +520,9 @@ references:
 - text: Wife accepted the condition reluctantly.
   source: Journeys Out of the Body
   location: ch10:1342-1511
+  quote: She accepted it reluctantly because there was no other real choice, and thus
+    she became a worried witness to incidents and events much in contradiction to
+    her religious training.
   claim_id: 1e5c58c5-39b4-4075-b13b-5e6699502565
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-1e5c58c5-39b4-4075-b13b-5e6699502565
@@ -509,6 +530,9 @@ references:
 - text: Monroe preferred Second Body/Second State to 'astral'.
   source: Journeys Out of the Body
   location: ch10:17824-17990
+  quote: As no attempt was made to delve deeply into this area, I still don’t know
+    what the word “astral” means. Thus I prefer to stick to the terms “Second Body”
+    and “Second State.”
   claim_id: bce67ebe-3215-43bb-bbf0-479e8b6afc7c
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-bce67ebe-3215-43bb-bbf0-479e8b6afc7c
@@ -516,6 +540,8 @@ references:
 - text: Locale I defined as real people/places in the material world.
   source: Journeys Out of the Body
   location: ch12:464-580
+  quote: It consists of people and places that actually do exist in the material,
+    well-known world at the very moment of the experiment.
   claim_id: eebece31-6820-4e3c-b2ce-ec99e81483d8
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-eebece31-6820-4e3c-b2ce-ec99e81483d8
@@ -523,6 +549,9 @@ references:
 - text: Locale II held to be the natural environment of the Second Body.
   source: Journeys Out of the Body
   location: ch13:5087-5256
+  quote: Locale II is the natural environment of the Second Body. The principles involved
+    in its action, composition, perception, and control all correspond to those in
+    Locale II.
   claim_id: 7be4e3eb-9a25-489a-859a-52c6f6d3875b
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-7be4e3eb-9a25-489a-859a-52c6f6d3875b
@@ -530,6 +559,8 @@ references:
 - text: The Barrier blots out memory of dreams/Locale II visits.
   source: Journeys Out of the Body
   location: ch13:23927-24058
+  quote: This is the same screen that lowers when you awaken from sleep, blotting
+    out your last dream—or the memory of your visit to Locale II.
   claim_id: 8c9ac722-ac41-4a75-8166-5774be91ec19
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-8c9ac722-ac41-4a75-8166-5774be91ec19
@@ -538,6 +569,9 @@ references:
     an unfinished house.'
   source: Journeys Out of the Body
   location: '26'
+  quote: I mentally “wanted” upward, and I floated up... I was standing in an unfinished
+    house, with no windows installed as yet, and materials and scraps lying around
+    on the rough floor.
   claim_id: dcc8f5aa-76bf-45e6-bc9d-3f0049516357
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-dcc8f5aa-76bf-45e6-bc9d-3f0049516357
@@ -545,6 +579,9 @@ references:
 - text: Only provable evidential results came from Locale I travel.
   source: Journeys Out of the Body
   location: ch12:900-1055
+  quote: Thus it is that the only evidential results provable by standard methods
+    of confirmation have taken place while moving about via the Second Body in Locale
+    I.
   claim_id: 5a40dbf2-fb05-428c-8bd8-b62fd95206cf
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-5a40dbf2-fb05-428c-8bd8-b62fd95206cf
@@ -552,6 +589,9 @@ references:
 - text: Fantasy theory undermined by data known only to the other party.
   source: Journeys Out of the Body
   location: '62'
+  quote: At first, it was suggested that I was fantasizing these communications...
+    This theory received a setback when a number of such communications brought out
+    data known only to the second party.
   claim_id: 349dd13f-f3ca-4153-a29f-68102ab04104
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-349dd13f-f3ca-4153-a29f-68102ab04104
@@ -560,6 +600,11 @@ references:
     cards.'
   source: Journeys Out of the Body
   location: ch11:6527-6943
+  quote: 3/5/59 Morning / In a motel in Winston-Salem... the first thing I saw was
+    a boy walking along and tossing a baseball in the air and catching it. A quick
+    shift, and I saw a man trying to put something into the back seat of a car...
+    One person was dealing what looked like large white playing cards around to the
+    others at the table.
   claim_id: 510d4611-550b-4191-8cf4-9d62b71a9b95
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-510d4611-550b-4191-8cf4-9d62b71a9b95
@@ -567,6 +612,9 @@ references:
 - text: Bahnson's son confirmed tossing a baseball at that time.
   source: Journeys Out of the Body
   location: ch11:8218-8369
+  quote: He said he was going to school. When asked more specifically what he was
+    doing as he went, he said he was tossing his baseball in the air and catching
+    it.
   claim_id: 24de365d-6723-450c-b06a-18feda739376
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-24de365d-6723-450c-b06a-18feda739376
@@ -574,6 +622,9 @@ references:
 - text: Bahnson confirmed loading a Van de Graaff generator.
   source: Journeys Out of the Body
   location: ch11:8579-8763
+  quote: Exactly at that time, he told me, he was loading a Van DeGraff generator
+    into the back seat of his car. The generator was a large, awkward device with
+    wheels, an electric motor, and a platform.
   claim_id: 76c62fe4-28fd-475f-87c0-d73b7c40e6f0
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-76c62fe4-28fd-475f-87c0-d73b7c40e6f0
@@ -581,6 +632,9 @@ references:
 - text: Mrs. Bahnson confirmed handing out white envelopes.
   source: Journeys Out of the Body
   location: ch11:8979-9199
+  quote: It seems that for the first time in two years, because they had all arisen
+    late, she had brought the morning mail to the breakfast table and had passed out
+    the letters to them as she sorted the mail. Large white playing cards!
   claim_id: e6b5bcb2-448c-4031-9f53-1ea65367086c
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e6b5bcb2-448c-4031-9f53-1ea65367086c
@@ -588,6 +642,8 @@ references:
 - text: Monroe pinched R.W. during the 1960-10-10 out-of-body visit.
   source: Journeys Out of the Body
   location: ch11:20697-20848
+  quote: I said I had to be sure, so I reached over and tried to pinch her, gently,
+    I thought. I pinched her in the side, just above the hips and below the rib cage.
   claim_id: db3f1c48-6a39-49cd-8b84-aa5b1f2d5fba
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-db3f1c48-6a39-49cd-8b84-aa5b1f2d5fba
@@ -595,6 +651,8 @@ references:
 - text: R.W. cried out when pinched.
   source: Journeys Out of the Body
   location: ch11:20854-20989
+  quote: She let out a good loud “Ow,” and I backed up, because I was somewhat surprised.
+    I really hadn’t expected to be able actually to pinch her.
   claim_id: 8f110a36-1960-449c-8ac0-83b4d4abc998
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-8f110a36-1960-449c-8ac0-83b4d4abc998
@@ -602,6 +660,8 @@ references:
 - text: R.W. showed marks matching the pinch location.
   source: Journeys Out of the Body
   location: ch11:22619-22695
+  quote: There were two brown and blue marks at exactly the spot where I had pinched
+    her.
   claim_id: b788eb4d-bfaa-4844-a645-7245ceb4690c
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-b788eb4d-bfaa-4844-a645-7245ceb4690c
@@ -609,6 +669,9 @@ references:
 - text: Monroe apologised for pinching hard.
   source: Journeys Out of the Body
   location: ch11:22995-23149
+  quote: I apologized for pinching so hard, and she obtained from me a promise that
+    if I tried any such thing again, I would try something other than a pinch that
+    hard.
   claim_id: 100c565c-4f80-412b-8edd-00d83dcd6729
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-100c565c-4f80-412b-8edd-00d83dcd6729
@@ -616,6 +679,10 @@ references:
 - text: Monroe listed six matching details of the episode.
   source: Journeys Out of the Body
   location: ch11:23366-23614
+  quote: 'Identical reports with conditions of actual events: (1) Location (inside
+    rather than outside). (2) Number of people present. (3) Description of girls.
+    (4) Actions of people present. (5) The acknowledgment of pinching. (6) Physical
+    marks from pinching.'
   claim_id: 325bdc43-7224-472e-a498-d3cadbddf3f7
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-325bdc43-7224-472e-a498-d3cadbddf3f7
@@ -623,6 +690,9 @@ references:
 - text: Monroe categorised the episode as indeterminate autosuggestion with preknowledge.
   source: Journeys Out of the Body
   location: ch11:23157-23360
+  quote: In this episode, the time coincides with the actual events. Autosuggestion
+    hallucination, indeterminate, as willful desire was suggested, and preknowledge
+    was present of general location of R.W. at that time.
   claim_id: f0dd8814-2eca-4bef-84db-6fe4155e970d
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-f0dd8814-2eca-4bef-84db-6fe4155e970d
@@ -631,6 +701,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch14:20752-20881
+  quote: Another psychic experimenter, Mr. Robert Monroe, has described a similar
+    phenomenon in his own investigations of out-of-the-body consciousness.
   claim_id: 5d6f0500-ec7b-4273-ba7d-6c6b22654257
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5d6f0500-ec7b-4273-ba7d-6c6b22654257
@@ -639,6 +711,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch14:20897-21085
+  quote: On the night of September 9, 1960... I suddenly felt bathed in and transfixed
+    by a very powerful beam that seemed to come from the North, about 30° above the
+    horizon.
   claim_id: bf131436-0b66-4f30-9b47-9276dc5ba83d
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-bf131436-0b66-4f30-9b47-9276dc5ba83d
@@ -647,6 +722,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch14:21108-21249
+  quote: I was completely powerless, with no will of my own, and I felt as if I were
+    in the presence of a very strong force, in personal contact with it.
   claim_id: d805caec-e93a-4d81-b23a-bf0da81bfadc
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-d805caec-e93a-4d81-b23a-bf0da81bfadc
@@ -655,6 +732,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch14:21254-21407
+  quote: It had intelligence of a form beyond my comprehension, and it came directly
+    (down the beam?) into my head, and seemed to be searching every memory in my mind.
   claim_id: e1be75ec-535c-43aa-9cae-81e9c582a1e8
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e1be75ec-535c-43aa-9cae-81e9c582a1e8
@@ -663,6 +742,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch14:21498-21633
+  quote: 'On September 16, at night, again from the verbatim notes of Robert Monroe:
+    The same impersonal probing, the same power, from the same angle.'
   claim_id: 3fcc4521-4ee1-44b2-ade6-4f1c67bba30d
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-3fcc4521-4ee1-44b2-ade6-4f1c67bba30d
@@ -671,6 +752,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch14:22090-22190
+  quote: 'On September 30, the same pattern: They seemed to soar up into the sky,
+    while I called after them, pleading.'
   claim_id: be481137-f207-440a-a3ea-6caf75f463cf
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-be481137-f207-440a-a3ea-6caf75f463cf
@@ -679,6 +762,10 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch14:22288-22542
+  quote: It is an impersonal, cold intelligence, with none of the emotions of love
+    or compassion which we respect so much, yet this may be the omnipotence we call
+    God. Visits such as these in mankind's past could well have been the basis for
+    all of our religious beliefs.
   claim_id: 17f716c6-8ce2-4ec0-98ee-a31f9b7918e0
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-17f716c6-8ce2-4ec0-98ee-a31f9b7918e0
@@ -687,6 +774,10 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch14:22685-22937
+  quote: I sat down and cried, great deep sobs and I have never cried before, because
+    then I knew without any qualification or future hope of change that the God of
+    my childhood, of the churches, of religion throughout the world was not as we
+    worshipped him to be.
   claim_id: 5a527b15-94fc-4bbc-88d3-7efa0720838b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-5a527b15-94fc-4bbc-88d3-7efa0720838b
@@ -694,6 +785,8 @@ references:
 - text: Drove roughly 110km to the EEG lab, arriving 9pm on 1966-07-19.
   source: Journeys Out of the Body
   location: ch12:17739-17838
+  quote: July 19th, 1966. Arrived at the hospital EEG lab at 9:00 P.M., after driving
+    seventy miles from Richmond.
   claim_id: 0678738a-789d-490d-a1c2-3688a2427cd4
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-0678738a-789d-490d-a1c2-3688a2427cd4
@@ -701,6 +794,9 @@ references:
 - text: Technician attached electrodes.
   source: Journeys Out of the Body
   location: ch12:18002-18183
+  quote: By nine-thirty in the evening, all electrodes had been attached by the technician,
+    who was the only person present when I arrived. I reclined on a temporary cot,
+    in a semi-darkened room...
   claim_id: 3bd8fa58-9ce4-413e-931a-100e0d3a7871
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-3bd8fa58-9ce4-413e-931a-100e0d3a7871
@@ -709,6 +805,10 @@ references:
 - text: Fractional relaxation technique; cigarette break after 45 minutes.
   source: Journeys Out of the Body
   location: ch12:18564-18782
+  quote: I went finally into the fractional relaxation pattern (count up from number
+    one, associating each number with a body part...). After about forty five minutes
+    of this without attaining full relaxation, I decided to take a break, sat up (halfway),
+    and called to the technician.
   claim_id: 5b839ccd-f488-46bf-8fd1-41d1c8316d56
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-5b839ccd-f488-46bf-8fd1-41d1c8316d56
@@ -716,6 +816,10 @@ references:
 - text: Attempted the roll-out separation method.
   source: Journeys Out of the Body
   location: ch12:19612-19979
+  quote: I decided to try the "roll-out" method (i.e., start to turn over gently...).
+    I started to feel as if I were turning, and at first thought I truly was moving
+    the physical body. I felt myself roll off the edge of the cot, and braced for
+    the fall to the floor. When I didn't hit immediately, I knew that I
   claim_id: 6cca546e-3633-42e0-9b5d-61df889643a1
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-6cca546e-3633-42e0-9b5d-61df889643a1
@@ -723,6 +827,8 @@ references:
 - text: Floated through the EEG wires.
   source: Journeys Out of the Body
   location: ch12:20926-21071
+  quote: This time, I let myself float to the floor beside the cot. I fell slowly,
+    and could feel myself passing through the various EEG wires on the way down.
   claim_id: c44ee9a7-c39b-4873-9425-0efd58122b57
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-c44ee9a7-c39b-4873-9425-0efd58122b57
@@ -730,6 +836,9 @@ references:
 - text: Technician confirmed the man seen was her husband.
   source: Journeys Out of the Body
   location: ch12:22955-23141
+  quote: I opened my eyes, sat up, and called to the technician. She came in, and
+    I told her that I had made it finally, and that I had seen her, however, with
+    a man. She replied that it was her husband.
   claim_id: 2ad9f0de-72c1-48f4-a94f-784370e77ff8
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-2ad9f0de-72c1-48f4-a94f-784370e77ff8
@@ -737,6 +846,8 @@ references:
 - text: Monroe hadn't known of the husband's presence beforehand.
   source: Journeys Out of the Body
   location: ch12:24188-24337
+  quote: The only supporting evidence other than what might have appeared on the EEG
+    lies in the presence of the husband, of which I was unaware prior to the experiment.
   claim_id: cd548142-3819-4e8c-ae83-67dda1c3f274
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-cd548142-3819-4e8c-ae83-67dda1c3f274
@@ -744,6 +855,8 @@ references:
 - text: Technician confirmed Monroe hadn't known/met her husband before.
   source: Journeys Out of the Body
   location: ch12:24566-24648
+  quote: She also confirmed that I did not know he was present, and that I had not
+    met him previously.
   claim_id: 1705f122-85c1-44b7-a4a7-f2e7cf10151e
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-1705f122-85c1-44b7-a4a7-f2e7cf10151e
@@ -751,6 +864,9 @@ references:
 - text: Letter to Richard Gordon describing his out-of-body technique.
   source: Journeys Out of the Body
   location: 60-66
+  quote: “Why don’t you write him a letter,” she suggested... She read it again and
+    again to Dr. Gordon whenever he was conscious. She told me later that these repeated
+    readings were at his request, not at her suggestion.
   claim_id: 453101db-0dce-4547-af1c-75af25729157
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-453101db-0dce-4547-af1c-75af25729157
@@ -758,6 +874,8 @@ references:
 - text: McMoneagle regarded Monroe as the one person he trusted to control OBEs.
   source: Remote Viewing Secrets
   location: ch25:16180-16300
+  quote: In 1983, there was one man in the world who I felt I could trust who claimed
+    he could control them, and that was Robert Monroe.
   claim_id: fc07ecf6-f607-4d0c-8cea-ae4af8e305cc
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-fc07ecf6-f607-4d0c-8cea-ae4af8e305cc
@@ -766,6 +884,8 @@ references:
     1983.
   source: Remote Viewing Secrets
   location: ch25:16413-16546
+  quote: So, I attended a Gateway Voyage seminar at the Monroe Institute, Virginia,
+    in the fall of 1983, after which I asked if he could help me.
   claim_id: a65a29f4-2a39-4e68-bf7d-c23b534bb304
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-a65a29f4-2a39-4e68-bf7d-c23b534bb304
@@ -773,6 +893,9 @@ references:
 - text: McMoneagle worked in Monroe's lab for ~14 months, gaining partial control.
   source: Remote Viewing Secrets
   location: ch25:16550-16710
+  quote: We worked together in his lab for a period of nearly fourteen months, where
+    I was finally successful in learning to control the ability, albeit, not as well
+    as he.
   claim_id: 63fceb6b-f794-4524-873a-38d3674cddbf
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-63fceb6b-f794-4524-873a-38d3674cddbf
@@ -780,6 +903,8 @@ references:
 - text: OOB training with Monroe increased McMoneagle's remote viewing control.
   source: Remote Viewing Secrets
   location: ch25:16938-17046
+  quote: I did find that there was substantial increase in control over my remote
+    viewing ability as a result of the experience.
   claim_id: d2a44173-7920-4c9b-95ec-79398b60c33f
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-d2a44173-7920-4c9b-95ec-79398b60c33f

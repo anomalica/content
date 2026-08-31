@@ -64,6 +64,9 @@ references:
     member nations
   source: The Fatima Secret
   location: ch17:1653-1832
+  quote: The UN secretary general U Thant told the heads of state in Washington, Havana,
+    and Moscow that he would help mediate the discussion, at the request of forty-five
+    other UN member nations.
   claim_id: d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
@@ -71,6 +74,9 @@ references:
 - text: Kennedy used the UN to invite the Soviets into a joint US/USSR lunar expedition
   source: Dark Mission
   location: ch7:9941-10153
+  quote: 'at the United Nations on September 20, 1963, the President suddenly issued
+    a public invitation to the Soviets only two years into the Apollo "race" to the
+    Moon: an offer of a "cooperative, joint U.S./USSR lunar expedition."'
   claim_id: 3a9019fb-bb20-4023-b139-1f4c99a5e664
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3a9019fb-bb20-4023-b139-1f4c99a5e664
@@ -163,6 +169,9 @@ references:
     Viking Cydonia data, at the UN in 1992
   source: Dark Mission
   location: ch15:57200-57413
+  quote: Fig. 8-1 - “Hominid” (L) and “Feline” (R) halves of the “Face on Mars’” --
+    folded over symmetries -- from 1976 Viking Cydonia data. Originally discovered
+    and presented by Hoagland at the United Nations, 1992 (JPL/Hoagland)
   claim_id: 002a4de1-c2e6-46fa-a36b-2080a84a21fb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-002a4de1-c2e6-46fa-a36b-2080a84a21fb
@@ -171,6 +180,8 @@ references:
     Face on Mars had a feline aspect
   source: Dark Mission
   location: ch15:7437-7546
+  quote: Hoagland had speculated (and predicted) as far back as 1992 (at the UN) that
+    the eastern half had a *feline* aspect
   claim_id: 81cedeb8-277a-444e-890d-d4b9d6b087a6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-81cedeb8-277a-444e-890d-d4b9d6b087a6
@@ -179,6 +190,7 @@ references:
     he considers the 2007 MRO image to have confirmed
   source: Dark Mission
   location: ch20:44097-44168
+  quote: turns out to be *exactly* what we said it was at the United Nations in 1992.
   claim_id: 84fd5c62-5994-4ed6-855f-f95d928c7253
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-84fd5c62-5994-4ed6-855f-f95d928c7253
@@ -187,6 +199,10 @@ references:
     physics via the twenty-seven line problem
   source: Dark Mission
   location: ch9:68360-68679
+  quote: As Hoagland presented at the U.N. in 1992, the Great Red Spot (GRS)—a mysterious
+    vortex located for over 300 years at that infamous 19.5º S. Latitude, via the
+    circumscribed tetrahedral geometry of the equally infamous twenty-seven line problem
+    is *the* classic “signature” of hyperdimensional physics operating within Jupiter.
   claim_id: 9512d263-8f2c-403e-8959-5a37aa991515
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9512d263-8f2c-403e-8959-5a37aa991515
@@ -195,6 +211,11 @@ references:
     peaking near 19.5 degrees
   source: Dark Mission
   location: ch9:75849-76297
+  quote: 'Has already publicly identified, at the United Nations in 1992, a blatant
+    geometric clue to this entire hyperdimensional solar process: the maximum sunspot
+    numbers... rising, falling and methodically changing latitude, during the course
+    of the familiar twenty-two-year solar cycle—and peaking every half-cycle (around
+    eleven years), at the solar latitude of about 19.5º.'
   claim_id: bf20e0ce-70f3-4527-b46d-11b6123ab7fc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bf20e0ce-70f3-4527-b46d-11b6123ab7fc
@@ -203,6 +224,10 @@ references:
     probe watched Hoagland's UN video presentation
   source: Dark Mission
   location: ch11:13389-13715
+  quote: He also informed Hoagland that high-powered military brass involved in Pentagon
+    “procurement” (later to lay the groundwork of the Navy’s “Clementine” lunar probe)
+    routinely gathered in his conference room, to watch Hoagland’s latest “NASA-Cydonia
+    Briefing” video (from the UN presentations …) on the large-screen television console
   claim_id: 691f1e4d-65c1-40f0-a8ed-4f8193d1a579
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-691f1e4d-65c1-40f0-a8ed-4f8193d1a579
@@ -211,6 +236,11 @@ references:
     and UN video presentations
   source: Dark Mission
   location: ch11:13768-14148
+  quote: Several times throughout the Fall of 1992, this individual would call Hoagland
+    without warning from “that” conference room—in the company of “this Colonel,”
+    or “that General,” visiting from Washington, D.C.—while they were (ostensibly)
+    watching the “NASA-Cydonia” and “U.N.” video presentations, so his distinguished
+    visitors could ask questions directly regarding the Cydonia investigation.
   claim_id: 47510bb8-d26e-490f-9e31-1490442e4bdc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-47510bb8-d26e-490f-9e31-1490442e4bdc
@@ -219,6 +249,8 @@ references:
     physical reality
   source: American Cosmic
   location: char:27316-27423
+  quote: He told the committee that "the belief in space visitors is independent of
+    the physical reality of the UFO phenomenon."
   claim_id: 21cfcaef-871d-49cd-8646-068119c454a9
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-21cfcaef-871d-49cd-8646-068119c454a9

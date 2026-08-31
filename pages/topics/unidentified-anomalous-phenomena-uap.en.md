@@ -420,12 +420,17 @@ references:
     (UAP).
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: line 17
+  quote: The task force was established to investigate what were once called “unidentified
+    flying objects,” or UFOs, and are now officially called “unidentified anomalous
+    phenomena,” or UAP.
   claim_id: a578a803-30df-4ff1-b2f5-4279326a98cb
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
 - text: The US government had publicly ignored UFOs since closing its Project Blue
     Book investigation in 1969.
   source: Navy pilots describe encounters with UFOs
   location: 00:06:23.4-00:06:30.3
+  quote: The government has ignored it, at least publicly, since closing its Project
+    Blue Book investigation in 1969.
   claim_id: 695f0bb3-62ec-4b71-aa31-1957139276b8
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   quote: The government has ignored it, at least publicly, since closing its Project
@@ -435,6 +440,8 @@ references:
     UFOs, denying, dispelling and debunking the subject.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:06:01.5-00:06:16.6
+  quote: for decades, the Air Force, FBI, CIA, all the official agencies had a policy
+    of denial. Deny the subject, dispel the subject, debunk the subject.
   claim_id: 7b575d39-e3d8-46ff-99db-d0a44d345a76
   record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
   quote: for decades, the Air Force, FBI, CIA, all the official agencies had a policy
@@ -444,6 +451,9 @@ references:
     UAP after decades of public denial.
   source: Navy pilots describe encounters with UFOs
   location: 00:00:07.6-00:00:14.9
+  quote: It's the story of the U.S. government's grudging acknowledgement of Unidentified
+    Aerial Phenomena, UAP, more commonly known as ufos after decades of public denial
+    the pentagon now admits there's something out there
   claim_id: 380e6b56-4fea-4167-a1e5-99984f3741b8
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   quote: It's the story of the U.S. government's grudging acknowledgement of Unidentified
@@ -455,12 +465,17 @@ references:
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
   location: Line 13
+  quote: Yes, AATIP existed, and it “did pursue research and investigation into unidentified
+    aerial phenomena,” Pentagon spokesperson Christopher Sherwood told me.
   claim_id: 730b830c-8da5-48cd-8ecf-d6cc754a275e
   record_hash: 1d08270404f17837583ed897b3782f389158f11c5b95fc8872c8e41f
 - text: The mission of AATIP was to collect and analyse information involving anomalous
     aerial vehicles (AAV), known in the vernacular as UFOs.
   source: Navy pilots describe encounters with UFOs
   location: 00:01:24.1-00:01:34.3
+  quote: The mission of AATIP was quite simple. It was to collect and analyze information
+    involving anomalous aerial vehicles, what I guess in the vernacular you call them
+    UFOs. We call them UAPs.
   claim_id: ae131adf-640a-4d03-b509-f0a9e1f04fc8
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   quote: The mission of AATIP was quite simple. It was to collect and analyze information
@@ -471,6 +486,8 @@ references:
     Leader Harry Reid to investigate UFOs.
   source: Navy pilots describe encounters with UFOs
   location: 00:01:50.3-00:02:01.6
+  quote: Buried away in the Pentagon, AATIP was part of a $22 million program sponsored
+    by then Senate Majority Leader Harry Reid to investigate UFOs.
   claim_id: fd9a7030-681a-442c-b360-e6762d7e3e41
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   quote: Buried away in the Pentagon, AATIP was part of a $22 million program sponsored
@@ -480,6 +497,8 @@ references:
     implications of UAP documented by US service members.
   source: Navy pilots describe encounters with UFOs
   location: 00:02:01.6-00:02:10.8
+  quote: When Elizondo took over in 2010, he focused on the national security implications
+    of unidentified aerial phenomena documented by U.S. service members.
   claim_id: 34c859a3-7579-4c7e-a137-d44a304ea832
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   quote: When Elizondo took over in 2010, he focused on the national security implications
@@ -508,6 +527,9 @@ references:
     southeast of Virginia Beach in 2014, after their jet's radar was updated.
   source: Navy pilots describe encounters with UFOs
   location: 00:04:12.9-00:04:29.7
+  quote: He told us his F-18 squadron began seeing UAPs hovering over restricted airspace
+    southeast of Virginia Beach in 2014 when they updated their jet's radar, making
+    it possible to zero in with infrared targeting cameras.
   claim_id: b1af4475-0624-42c0-a610-14f0ffbe42a3
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   quote: He told us his F-18 squadron began seeing UAPs hovering over restricted airspace
@@ -518,6 +540,9 @@ references:
     of years.
   source: Navy pilots describe encounters with UFOs
   location: 00:04:48.2-00:04:56.6
+  quote: 'Bill Whitaker: Lieutenant Graves told us pilots training off the Atlantic
+    coast see things like that all the time. Ryan Graves: Every day. Every day for
+    at least a couple of years.'
   claim_id: 3ed5c698-bcec-4830-b1a2-0db573ffd500
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   quote: 'Bill Whitaker: Lieutenant Graves told us pilots training off the Atlantic
@@ -527,6 +552,7 @@ references:
 - text: The UAP under investigation can perform manoeuvres of 600 to 700 G-forces.
   source: Navy pilots describe encounters with UFOs
   location: 00:02:12.6-00:02:35.2
+  quote: Imagine a technology that can do 600 to 700 G-forces
   claim_id: 0e26e972-1d95-4f60-96fa-76acff8bf53b
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   quote: Imagine a technology that can do 600 to 700 G-forces
@@ -535,6 +561,7 @@ references:
     hour.
   source: Navy pilots describe encounters with UFOs
   location: 00:02:12.6-00:02:35.2
+  quote: that can fly at 13,000 miles an hour
   claim_id: 9841df2b-135c-42e0-ba9e-0bd42650ebed
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   quote: that can fly at 13,000 miles an hour
@@ -543,6 +570,7 @@ references:
     and no control surfaces.
   source: Navy pilots describe encounters with UFOs
   location: 00:02:12.6-00:02:35.2
+  quote: has no obvious signs of propulsion, no wings, no control surfaces
   claim_id: db4d6436-ab7a-41eb-98fd-e1537d39f4e0
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   quote: has no obvious signs of propulsion, no wings, no control surfaces
@@ -550,6 +578,7 @@ references:
 - text: The UAP under investigation can fly through air and water and possibly space.
   source: Navy pilots describe encounters with UFOs
   location: 00:02:12.6-00:02:35.2
+  quote: that can fly through air and water and possibly space
   claim_id: 1ce797c6-3bdd-4ce3-b1a2-ca5d7b92ea47
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   quote: that can fly through air and water and possibly space
@@ -560,6 +589,8 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 02:00:37.0-02:00:53.0
+  quote: Smooth, white. tic-tac you know we don't you don't see there's no no wings
+    no visible propulsion no windows no probes that we could see
   claim_id: 8384cf1a-f01f-4fef-bbb0-876d4966c66e
   record_hash: 14a67e8cc4370004b1c0165607d64b96778d88e61be0fd32a94da2e9
 - text: Kevin Day observed on radar that the unidentified object went from approximately
@@ -567,6 +598,7 @@ references:
     encounter.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:16:21.4-00:16:27.2
+  quote: It went from 28,000 feet to the surface of the ocean in 0.78 seconds.
   claim_id: 9506ac06-f851-438d-9709-c21fe380b81b
   record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
   quote: It went from 28,000 feet to the surface of the ocean in 0.78 seconds.
@@ -597,6 +629,9 @@ references:
     of Defense to deliver a report on UAP sightings.
   source: Navy pilots describe encounters with UFOs
   location: 00:00:09.1-00:00:44.4
+  quote: the u.s senate wants to know what it is the intelligence committee has ordered
+    the director of national intelligence and the secretary of defense to deliver
+    a report on the mysterious sightings by next month
   claim_id: 5e0e9bc8-b6eb-4122-b3fa-d1f80570bc2c
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   quote: the u.s senate wants to know what it is the intelligence committee has ordered
@@ -607,12 +642,17 @@ references:
     is pressing for answers on UAP.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: line 27
+  quote: Now, with two public hearings and many classified briefings under its belt,
+    Congress is pressing for answers.
   claim_id: 4d2e00fd-c4f0-403a-a026-aad371e42ae0
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
 - text: The FY2023 National Defense Authorization Act asks for reporting on material
     retrieval, analysis, reverse engineering, and development involving UAP.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: line 128
+  quote: In addition, the legislation asks for reporting on “material retrieval, material
+    analysis, reverse engineering, research, and development” involving unidentified
+    anomalous phenomena currently and going back decades.
   claim_id: 17aaa392-8955-46b9-a761-0b17871cd57c
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
 - text: David Grusch believes the US government is in possession of UAP, based on
@@ -630,6 +670,9 @@ references:
     to oversight authorities.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: line 57
+  quote: Grusch asserted that UFO “legacy programs” have long been concealed within
+    “multiple agencies nesting UAP activities in conventional secret access programs
+    without appropriate reporting to various oversight authorities.”
   claim_id: dc900632-1c36-465d-90f0-02ebf410fa67
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
 - text: UAP-related classified information has been withheld and/or concealed from
@@ -637,6 +680,11 @@ references:
     oversight.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
   location: line 82
+  quote: An unclassified version of the complaint provided to us states that Grusch
+    has direct knowledge that UAP-related classified information has been withheld
+    and/or concealed from Congress by “elements” of the intelligence community “to
+    purposely and intentionally thwart legitimate Congressional oversight of the UAP
+    Program.”
   claim_id: 96c2db33-c74f-4cd3-9a77-280a0656eb2c
   record_hash: 829ba5a1c0c1e05aea8a7d314e2d5f191727c659336b751c541aef5f
 - text: Joy Clarke described the Westall object's movement as incredible, going straight
@@ -644,6 +692,9 @@ references:
     with little lights around it.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:48:14.6-00:48:22.2
+  quote: The movement was incredible, straight up, side, up, down, all over the place....
+    It's sort of like a hump on the top. It's like a silvery thing, like this, and
+    it had like little lights around it.
   claim_id: 32b4c8f0-8d57-4179-9c5a-a91efaae4e1e
   record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
   quote: The movement was incredible, straight up, side, up, down, all over the place....
@@ -654,6 +705,8 @@ references:
     straight above the vehicle during her 1991 Exmouth encounter.
   source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
   location: 00:25:01.3-00:25:12.3
+  quote: I see a craft. I see a diamond-shaped craft hovering literally straight above
+    the vehicle.... Yes, there's lights at the bottom of it.
   claim_id: b15f0fc8-7aae-44b6-8375-e78f27c10daa
   record_hash: 17b01534426ca0e6ccbc24191515a0709768be9999017c77a0630b20
   quote: I see a craft. I see a diamond-shaped craft hovering literally straight above
@@ -662,6 +715,8 @@ references:
 - text: Ryan Graves considers UAP off the Atlantic coast a security risk.
   source: Navy pilots describe encounters with UFOs
   location: 00:04:06.2-00:04:12.9
+  quote: Former Navy pilot Lieutenant Ryan Graves calls whatever is out there a security
+    risk.
   claim_id: ed0d4af7-7d91-4640-a8dd-1b30bd58a606
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
   quote: Former Navy pilot Lieutenant Ryan Graves calls whatever is out there a security
@@ -682,6 +737,10 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:50:16.7-01:50:30.0
+  quote: it feels like there's some stigma to the subject from the scientific community.
+    A lot of people, especially when they hear your story are like, wow, this is really
+    interesting. but you don't even know, one, you're afraid to talk about it, and
+    two, you don't know what the next steps are
   claim_id: aba0bab9-5ed8-4886-917f-89e8a8743ce9
   record_hash: 14a67e8cc4370004b1c0165607d64b96778d88e61be0fd32a94da2e9
 ai_usage:

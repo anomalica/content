@@ -123,6 +123,9 @@ references:
     scientist, at his home in the summer of 2001.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:109-266
+  quote: In the course of my research into the UFO phenomenon, I visited Oliver Harry
+    Turner, a retired Australian government scientist, at his home in the summer of
+    2001.
   claim_id: c7c8e447-23ae-4e78-a8d3-8df349aa17f5
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c7c8e447-23ae-4e78-a8d3-8df349aa17f5
@@ -130,6 +133,8 @@ references:
 - text: Turner was a nuclear physicist.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:273-382
+  quote: A nuclear physicist, Turner was the chief health physics officer for the
+    controversial Maralinga atomic bomb trials
   claim_id: 98bbbad0-1ccf-42ff-83fc-c4c9eb33397f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-98bbbad0-1ccf-42ff-83fc-c4c9eb33397f
@@ -139,6 +144,10 @@ references:
     of Air Force Intelligence for a classified review of recent sightings.
   source: In Plain Sight
   location: ch9:9151-9447
+  quote: In 1954, Harry Turner, a Melbourne University nuclear physics professor,
+    approached the air force asking to read its UAP files. Because the air force was
+    being hammered to provide an explanation, Turner (who already had a security clearance)
+    was hired by DAFI to do a classified review of recent sightings.
   claim_id: 63bfc483-2011-4b0f-9a50-e264fb3c920e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-63bfc483-2011-4b0f-9a50-e264fb3c920e
@@ -147,6 +156,9 @@ references:
     have been observed to behave in a manner suggestive of extra-terrestrial origin.
   source: In Plain Sight
   location: ch9:9458-9683
+  quote: Turner’s report to DAFI subsequently concluded that ‘The evidence presented
+    by RAAF tends to support the conclusion . . . that certain strange aircraft have
+    been observed to behave in a manner suggestive of extra-terrestrial origin.’
   claim_id: b3db168e-8883-4891-9e54-1d7f11f66f91
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b3db168e-8883-4891-9e54-1d7f11f66f91
@@ -155,6 +167,9 @@ references:
     in his report to the RAAF's intelligence branch.
   source: In Plain Sight
   location: ch11:816-996
+  quote: Turner had been rebuffed in 1954 when he made his controversial findings
+    about UAPs being extra-terrestrial in his original report to the Royal Australian
+    Air Force's intelligence branch.
   claim_id: 041eaaed-dd44-41af-94cb-bf193a63862b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-041eaaed-dd44-41af-94cb-bf193a63862b
@@ -163,6 +178,10 @@ references:
     dismissed his findings after consulting with the US Air Force.
   source: In Plain Sight
   location: ch9:9728-10016
+  quote: because Harry Turner quoted US best-selling flying saucer author and National
+    Investigations Committee on Aerial Phenomena director Major Donald Keyhoe in his
+    research, Australia’s Director of Air Force Intelligence dismissed Professor Turner’s
+    findings, after consulting with the US Air Force
   claim_id: dd1d2293-344b-4e05-9d78-cde44a42bd21
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dd1d2293-344b-4e05-9d78-cde44a42bd21
@@ -171,6 +190,9 @@ references:
     Keyhoe, who supposedly gave a misleading impression of official US sanction.
   source: In Plain Sight
   location: ch9:10023-10194
+  quote: He said Professor Turner had ‘erred’ in quoting Keyhoe because the former
+    marine major supposedly gave the misleading impression his books had some official
+    US government sanction.
   claim_id: ddde7cb4-bb1f-423c-846f-8551fc0b53e3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ddde7cb4-bb1f-423c-846f-8551fc0b53e3
@@ -179,6 +201,8 @@ references:
     extra-terrestrial hypothesis.
   source: In Plain Sight
   location: ch9:11055-11166
+  quote: But the Royal Australian Air Force elected to heed its American ally and
+    play down Turner’s ‘flying saucer’ ET hypothesis.
   claim_id: 4a3b19e1-ff22-4bde-b746-a4a99d5e1176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a3b19e1-ff22-4bde-b746-a4a99d5e1176
@@ -187,6 +211,10 @@ references:
     at Maralinga from 1956 to 1963 as a health physics officer.
   source: In Plain Sight
   location: ch9:12761-13036
+  quote: One of the scientists whom now-declassified files show took part in the British
+    tests from 1956 to 1963 was a health physics officer named Oliver Harry Turner,
+    the same Professor Harry Turner hired in 1954 to do the classified review of UAP
+    sightings for Australia’s Defence Department.
   claim_id: 118d81b9-28a2-4ae3-8dc8-78c6a3e7d14e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-118d81b9-28a2-4ae3-8dc8-78c6a3e7d14e
@@ -195,6 +223,9 @@ references:
     sightings of anomalous objects over Maralinga during the British atmospheric testing.
   source: In Plain Sight
   location: ch9:13048-13249
+  quote: Previously secret files in Australia’s National Archives reveal Turner investigated11
+    strange sightings of anomalous objects in the skies over Maralinga throughout
+    the British atmospheric nuclear bomb testing.
   claim_id: 23905e98-4d35-4b63-9628-6629b6192b0f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-23905e98-4d35-4b63-9628-6629b6192b0f
@@ -203,6 +234,8 @@ references:
     in 1960.
   source: In Plain Sight
   location: ch11:447-560
+  quote: whose curiosity had been piqued by the mysterious UAPs seen at Maralinga
+    in the South Australian desert 11 years earlier
   claim_id: 9c006640-c295-4e7e-a60c-93061511747e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c006640-c295-4e7e-a60c-93061511747e
@@ -211,6 +244,9 @@ references:
     was not natural but caused by a UFO, either a satellite cone or a flying saucer.
   source: In Plain Sight
   location: ch9:13791-14037
+  quote: ‘He is of the opinion that the light was not the result of a natural phenomenon
+    but caused by an unidentified flying object, either a cone from a satellite or
+    a “flying saucer”,’ the Range’s security officer wrote in his report.
   claim_id: d99944cc-1ff1-4fcf-b240-d1d944ad29de
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d99944cc-1ff1-4fcf-b240-d1d944ad29de
@@ -219,6 +255,8 @@ references:
     the light was a meteor or static electricity.
   source: In Plain Sight
   location: ch9:14045-14172
+  quote: He ignored Harry Turner’s conclusion and went instead with the safer option,
+    speculating that it was either a meteor or static electricity.
   claim_id: 7fc67c6a-41cc-47bb-bc20-732f009d5f62
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7fc67c6a-41cc-47bb-bc20-732f009d5f62
@@ -227,6 +265,8 @@ references:
     Scientific and Technical Intelligence of the Joint Intelligence Bureau.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:1141-1265
+  quote: By then he was a scientific analyst with the Directorate of Scientific and
+    Technical Intelligence of the Joint Intelligence Bureau.
   claim_id: 224cd309-3d48-4eaa-9c17-534f3acadf6d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-224cd309-3d48-4eaa-9c17-534f3acadf6d
@@ -235,6 +275,9 @@ references:
     Directorate of Scientific and Technical Intelligence.
   source: In Plain Sight
   location: ch11:653-809
+  quote: He was now the head of the nuclear science section of the then Australian
+    Joint Intelligence Bureau's Directorate of Scientific and Technical Intelligence
+    (DSTI).
   claim_id: 216f18be-3da7-4b23-b13a-401c3bb9a0b7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-216f18be-3da7-4b23-b13a-401c3bb9a0b7
@@ -243,6 +286,10 @@ references:
     urgent investigation.
   source: In Plain Sight
   location: ch11:384-638
+  quote: By 1971, Australian Defence Department scientist Harry Turner, whose curiosity
+    had been piqued by the mysterious UAPs seen at Maralinga in the South Australian
+    desert 11 years earlier, was now firmly convinced the phenomenon was real and
+    required urgent investigation.
   claim_id: cd9da1b0-ddcf-4763-a938-6ebffb0b6f44
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cd9da1b0-ddcf-4763-a938-6ebffb0b6f44
@@ -250,6 +297,8 @@ references:
 - text: Turner's plan for a rapid intervention team was subsequently spiked.
   source: In Plain Sight
   location: ch11:4020-4094
+  quote: Not long after that, Turner's plan for a rapid intervention team was also
+    spiked.
   claim_id: 17200cfd-a055-4fae-8db0-39d670e2c0c5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-17200cfd-a055-4fae-8db0-39d670e2c0c5
@@ -258,6 +307,8 @@ references:
     UFO Problem' asserted unidentified objects were real.
   source: In Plain Sight
   location: ch11:1276-1449
+  quote: His now declassified 1971 paper, *Scientific and Intelligence Aspects of
+    the UFO Problem*, asserted not only that these unidentified objects were real
   claim_id: cb57ebc7-f074-4333-9eb2-854b88fa3663
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cb57ebc7-f074-4333-9eb2-854b88fa3663
@@ -266,6 +317,8 @@ references:
     sighting events to stifle public awareness.
   source: In Plain Sight
   location: ch11:1459-1591
+  quote: that there was also an ongoing deliberate official US policy to ridicule
+    sighting events in order to stifle public awareness of the phenomenon.
   claim_id: f3902ea0-3d24-4922-8a11-70a868f409f5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f3902ea0-3d24-4922-8a11-70a868f409f5
@@ -275,6 +328,10 @@ references:
     vehicles emulating UFO performance.
   source: In Plain Sight
   location: ch11:1605-1911
+  quote: '''By erecting a façade of ridicule, the US hoped to allay public alarm,
+    reduce the possibility of the Soviets taking advantage of UFO mass sightings for
+    either psychological or actual warfare purposes, and act as a cover for the real
+    US programme of developing vehicles that emulate UFO performance,'' Turner declared.'
   claim_id: 8aa4a6a2-2468-42f0-a56b-c1eec9517369
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8aa4a6a2-2468-42f0-a56b-c1eec9517369
@@ -284,6 +341,9 @@ references:
     UFOs.
   source: In Plain Sight
   location: ch11:1921-2112
+  quote: He asserted that in 1953 the US Air Force Office of Special Investigations
+    persuaded the US Air Force to use the Project Blue Book investigation into UAPs
+    as a 'means of publicly "debunking" UFOs'
   claim_id: 12a5052a-09e6-49d3-9bd6-e3625b026942
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12a5052a-09e6-49d3-9bd6-e3625b026942
@@ -292,6 +352,8 @@ references:
     a crash programme into anti-gravity power.
   source: In Plain Sight
   location: ch11:2118-2205
+  quote: while at the same time the US was secretly launching a crash program into
+    anti-gravity power.
   claim_id: b883c7f3-f341-4e39-bc66-adaf37a613c5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b883c7f3-f341-4e39-bc66-adaf37a613c5
@@ -300,6 +362,8 @@ references:
     study directed by physicist Edward Condon.
   source: In Plain Sight
   location: ch11:2213-2352
+  quote: Turner's paper eviscerated the 1968 Condon Committee Report, the US Air Force–funded
+    study of UFOs under the direction of physicist Edward Condon.
   claim_id: 4eb91b39-5333-4306-9775-240aa24a8dcd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4eb91b39-5333-4306-9775-240aa24a8dcd
@@ -308,6 +372,9 @@ references:
     contents and had been discredited by many reputable scientists.
   source: In Plain Sight
   location: ch11:2370-2565
+  quote: '''The conclusions of the Condon report conflict with its own contents and
+    has been discredited by many reputable scientists . . . It would appear wrong
+    for Australia to remain ignorant of the true situation.'''
   claim_id: fe60a4f0-944f-4aa3-b476-3e38c92462dc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fe60a4f0-944f-4aa3-b476-3e38c92462dc
@@ -316,6 +383,8 @@ references:
     the US Air Force in 1969.
   source: In Plain Sight
   location: ch11:2577-2696
+  quote: Turner also dismissed the official Project Blue Book UFO investigation shut
+    down by the air force two years earlier in 1969.
   claim_id: c4452189-b996-4b80-991f-2d3fd8482f30
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4452189-b996-4b80-991f-2d3fd8482f30
@@ -325,6 +394,9 @@ references:
     withheld this from the public.
   source: In Plain Sight
   location: ch11:2703-2929
+  quote: '''Many intelligence officers associated with the UFO problem,'' he said,
+    including former CIA boss Admiral Hillenkoetter, had ''stated that the US government
+    knew UFOs were extra-terrestrial but was withholding this fact from the public''.'
   claim_id: f2bc05b7-75f8-4e7e-8a9d-e29a1f770adb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2bc05b7-75f8-4e7e-8a9d-e29a1f770adb
@@ -332,6 +404,8 @@ references:
 - text: Turner met Project Blue Book expert J. Allen Hynek when Hynek visited Australia.
   source: In Plain Sight
   location: ch11:2938-3020
+  quote: Turner also met the Project Blue Book expert Dr J. Allen Hynek when Hynek
+    visited Australia.
   claim_id: 4d6c5d4e-78e7-4377-b2a7-46947be11b2c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d6c5d4e-78e7-4377-b2a7-46947be11b2c
@@ -341,6 +415,9 @@ references:
     hoax.
   source: In Plain Sight
   location: ch11:3032-3199
+  quote: '''It is quite clear that Dr Hynek along with many other reputable scientists
+    do not accept the USAF explanation of misidentification, hysteria or hoax,'' Turner
+    told his superiors.'
   claim_id: 94962b37-fc07-46da-8a2f-17d47021a081
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-94962b37-fc07-46da-8a2f-17d47021a081
@@ -348,6 +425,8 @@ references:
 - text: Turner obtained access to the Australian Air Force's UAP sightings reports.
   source: In Plain Sight
   location: ch11:3211-3284
+  quote: Harry Turner obtained access to the Australian Air Force's UAP sightings
+    reports.
   claim_id: eb4ca4bc-3221-4b55-b57e-6a40774aa21f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb4ca4bc-3221-4b55-b57e-6a40774aa21f
@@ -356,6 +435,8 @@ references:
     events, with an aircraft to be on standby.
   source: In Plain Sight
   location: ch11:3293-3440
+  quote: He even proposed an Australian 'rapid intervention team' to investigate 'UFO'
+    events, for which an aircraft was to be on standby.
   claim_id: 8c5c1392-4b94-49f7-b7b6-63ecf4c1e3e4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8c5c1392-4b94-49f7-b7b6-63ecf4c1e3e4
@@ -364,6 +445,8 @@ references:
     rapid intervention team.
   source: In Plain Sight
   location: ch11:3512-3643
+  quote: says Turner had the approval of Australia's Chief Defence Scientist for this
+    idea, so this was no idle flight of fancy on Turner's part.
   claim_id: c80663d5-cf42-466c-85a5-f50bebd26ee6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c80663d5-cf42-466c-85a5-f50bebd26ee6
@@ -372,6 +455,8 @@ references:
     objects at the Woomera test site were still occurring.
   source: In Plain Sight
   location: ch11:3649-3792
+  quote: His concern was being taken very seriously, possibly because the sightings
+    of strange unidentified objects at the Woomera test site were still happening.
   claim_id: b5bc0d11-8436-42ef-8a93-221145e03f8c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5bc0d11-8436-42ef-8a93-221145e03f8c
@@ -380,6 +465,8 @@ references:
     because he had criticised its past handling of UAP sightings reports.
   source: In Plain Sight
   location: ch11:3803-3928
+  quote: But there was bad blood with DAFI – air force intelligence – because Turner
+    had criticised DAFI's past handling of sightings reports.
   claim_id: 117a892d-5a95-4994-a038-ded72dbd27cf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-117a892d-5a95-4994-a038-ded72dbd27cf
@@ -387,6 +474,8 @@ references:
 - text: The Australian Air Force withdrew Turner's access to their UAP sightings files.
   source: In Plain Sight
   location: ch11:3937-4013
+  quote: Eventually, the Australian Air Force withdrew his access to their sightings
+    files.
   claim_id: 7d8dcfdf-3e75-4f74-853e-16f02d4d8366
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7d8dcfdf-3e75-4f74-853e-16f02d4d8366
@@ -396,6 +485,10 @@ references:
     of Air Force Intelligence took it as criticism and shut him out.
   source: In Plain Sight
   location: ch11:4102-4369
+  quote: Bill Chalker told me, 'Harry was actually arguing for the air force to be
+    given more resources and more help to investigate UFOs. That way their reports
+    would be a lot more scientific. They took that as a criticism. It was sheer bloody
+    mindedness by DAFI to shut him out.'
   claim_id: 25bd986e-a3ea-48f7-991c-5cf51eb03ffb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25bd986e-a3ea-48f7-991c-5cf51eb03ffb
@@ -403,6 +496,8 @@ references:
 - text: Turner's notes do not record the date of Klein's fourth UFO sighting.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:7630-7732
+  quote: Harry Turner’s notes of his interviews with Mrs. Klein do not record the
+    date, but list the following information
   claim_id: ef8ac887-ce94-47dc-86f4-6e2e0c00f7e5
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-ef8ac887-ce94-47dc-86f4-6e2e0c00f7e5
@@ -412,6 +507,8 @@ references:
     and by the air force.
   source: In Plain Sight
   location: ch11:1114-1264
+  quote: Turner was privately pushing at the very highest levels of Australia's Defence
+    Department for a scientific investigation by the military into the UAP phenomenon.
   claim_id: f58cbbcb-43cb-4be7-ac9c-93873c62e5ee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f58cbbcb-43cb-4be7-ac9c-93873c62e5ee
@@ -419,6 +516,7 @@ references:
 - text: Bill Chalker befriended Turner late in Turner's life.
   source: In Plain Sight
   location: ch9:11388-11427
+  quote: He befriended Harry Turner late in his life
   claim_id: 4150be47-e9c1-47b2-919f-e5a8719b786f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4150be47-e9c1-47b2-919f-e5a8719b786f
@@ -428,6 +526,9 @@ references:
     of UFOs.
   source: In Plain Sight
   location: ch9:11436-11612
+  quote: says of Turner’s efforts, ‘Political myopia from both the US and Australian
+    military effectively scuttled Australia’s first serious flirtation with scientific
+    investigation of UFOs’.
   claim_id: 8ea173fb-d2bc-4f5c-9e21-0ba491e345d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8ea173fb-d2bc-4f5c-9e21-0ba491e345d8
@@ -436,6 +537,9 @@ references:
     notes on his 1971-1972 investigation of a Canberra woman named Mrs. Klein.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:1511-1720
+  quote: During our discussions he handed me what turned out to be a particularly
+    remarkable document—ten pages of his handwritten notes—devoted to his investigation
+    during 1971 and 1972 of a Canberra woman named Mrs. Klein.
   claim_id: 7cecd7bb-b107-47ef-b423-5a2bd3a5645e
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7cecd7bb-b107-47ef-b423-5a2bd3a5645e
@@ -444,6 +548,8 @@ references:
     the local civilian UFO society, formed in 1967.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:8401-8500
+  quote: This activity had prompted Turner to contact the local civilian UFO society
+    in Canberra, formed in 1967.
   claim_id: 1920d8df-ae66-4eb5-94f4-aa724a8b162b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-1920d8df-ae66-4eb5-94f4-aa724a8b162b
@@ -453,6 +559,9 @@ references:
     1972, described her unfolding alien contact experience.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:8856-9072
+  quote: In the wake of Turner’s contact with the group, she privately made contact
+    with him and, during a series of meetings at her home between July 1971 and February
+    1972, Vicki Klein described her unfolding alien contact calling.
   claim_id: 4848424a-64c8-468f-8f32-f95c44e82038
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4848424a-64c8-468f-8f32-f95c44e82038
@@ -462,6 +571,8 @@ references:
     house.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:8570-8717
+  quote: Turner told me that while Vicki told the group of her sightings, she was
+    careful not to mention the unfolding “alien” dynamic happening in her own house.
   claim_id: b22228a2-1521-42fe-b43c-80588db4fdc7
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-b22228a2-1521-42fe-b43c-80588db4fdc7
@@ -471,6 +582,9 @@ references:
     sighting.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:7897-8083
+  quote: This brief description was supplemented in some detail via correspondence
+    Harry Turner had with Dr. Michael Duggin, a fellow Australian scientist who also
+    had a deep interest in the UFO phenomenon.
   claim_id: 103c95f2-34e6-4120-8811-27edf0c9032c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-103c95f2-34e6-4120-8811-27edf0c9032c
@@ -479,6 +593,8 @@ references:
     the UFO mystery.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:8095-8213
+  quote: Harry Turner and Mike Duggin were part of the secret “invisible college”
+    of scientists conducting research in the UFO mystery.
   claim_id: bca1b989-8a74-4bf4-aad4-4601473eb8d0
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-bca1b989-8a74-4bf4-aad4-4601473eb8d0
@@ -487,6 +603,8 @@ references:
     and was simply trying to make an accurate report of her claims.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:15077-15230
+  quote: Turner wasn’t sure what to make of this information in the early seventies.
+    At the time he was simply trying to make an accurate report of Vicki Klein’s claims.
   claim_id: 22e83c81-9400-42ed-9019-c99aca0367e8
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-22e83c81-9400-42ed-9019-c99aca0367e8
@@ -497,6 +615,10 @@ references:
     after which the world would be cleansed.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:11602-11895
+  quote: “The signal for the beginning of the end will be the disappearance of a small
+    island followed by a larger one—she suspects the New Guinea area. The chaos itself
+    will last three days getting progressively worse. The world has to be cleansed,
+    and a new development will take place in lands newly arisen.”
   claim_id: c8d60ffb-e649-4480-b985-597fb6ec4f3b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-c8d60ffb-e649-4480-b985-597fb6ec4f3b
@@ -505,6 +627,8 @@ references:
     Turner.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:22338-22439
+  quote: Ron graciously agreed to an interview. He confirmed the basic story that
+    Vicki had revealed to Harry Turner.
   claim_id: 9f4efbc7-0872-40d1-982f-88f30e61b10c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-9f4efbc7-0872-40d1-982f-88f30e61b10c
@@ -514,6 +638,9 @@ references:
     fifteen years later.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:14879-15069
+  quote: It’s what follows in Harry Turner’s notes that really struck me—how the story
+    strikingly resembles the alien abduction accounts that would come to dominate
+    the UFO controversy fifteen years later.
   claim_id: edfd5e46-43bb-4ad3-b528-206b427ff338
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-edfd5e46-43bb-4ad3-b528-206b427ff338
@@ -523,6 +650,10 @@ references:
     Budd Hopkins first described them in his 1987 book Intruders.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:3092-3395
+  quote: Harry Turner's 1971-72 notes revealed that Mrs. Klein's bizarre experiences
+    actually prefigured several extraordinary elements of the UFO abduction phenomenon
+    that would not become public for more than a decade and a half, when researcher
+    Budd Hopkins first described them in his 1987 best-selling book Intruders.
   claim_id: 66be3fe0-d0ca-441f-93d8-0c00ce26042b
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-66be3fe0-d0ca-441f-93d8-0c00ce26042b
@@ -531,6 +662,8 @@ references:
     during the 1950s and early 1960s.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:294-416
+  quote: Turner was the chief health physics officer for the controversial Maralinga
+    atomic bomb trials during the 1950s and early 1960s
   claim_id: 827b0825-87b6-4590-8caa-ac40ee128674
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-827b0825-87b6-4590-8caa-ac40ee128674
@@ -540,6 +673,9 @@ references:
     and the military.
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:926-1131
+  quote: During the late 1960s and early 1970s Turner had fought a secret battle to
+    encourage a more scientific and comprehensive examination of the UFO mystery within
+    the clandestine world of intelligence and the military.
   claim_id: 40d0f4ba-2b7c-4f0e-87a2-077ec9ab8431
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-40d0f4ba-2b7c-4f0e-87a2-077ec9ab8431

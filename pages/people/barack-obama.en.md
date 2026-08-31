@@ -64,6 +64,7 @@ references:
 - text: John Podesta served as Counsellor to President Obama from 2014 to 2015.
   source: In Plain Sight
   location: ch14:26387-26451
+  quote: would later serve as Counsellor to President Obama from 2014 to 2015
   claim_id: 32dcefba-6c4b-4670-bda6-117e2884eaee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-32dcefba-6c4b-4670-bda6-117e2884eaee
@@ -72,6 +73,8 @@ references:
     Clinton's campaign manager.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:13091-13242
+  quote: John Podesta, who had served as chief of staff to President Clinton, counselor
+    to President Barack Obama, and campaign manager to Hillary Clinton, was involved.
   claim_id: 79bece11-f229-43bb-832d-42c337d7c6e9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-79bece11-f229-43bb-832d-42c337d7c6e9
@@ -79,6 +82,8 @@ references:
 - text: Podesta held top-secret/SCI clearances under both Obama and Clinton.
   source: In Plain Sight
   location: ch20:17002-17135
+  quote: He is a senior and well-respected public servant who held top-secret/SCI
+    clearances in his past roles with both Presidents Obama and Clinton.
   claim_id: 3476f827-1a18-46dd-9d45-2c4cb30fc3b1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3476f827-1a18-46dd-9d45-2c4cb30fc3b1
@@ -87,6 +92,9 @@ references:
     was again failing to secure disclosure of the UFO files.
   source: In Plain Sight
   location: ch18:3396-3613
+  quote: 'In February 2015, on his final day as Counsellor to President Obama, John
+    Podesta tweeted, ''Finally, my biggest failure of 2014: Once again not securing
+    the #disclosure of the UFO files. #thetruthisstilloutthere cc: @nytimesDowd''.'
   claim_id: 9612f758-1801-4bbc-b62c-cd638445e523
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9612f758-1801-4bbc-b62c-cd638445e523
@@ -94,6 +102,7 @@ references:
 - text: Obama asked James Clapper to become the new Director of National Intelligence.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:49232-49286
+  quote: was asked by President Barack Obama to become the new DNI.
   claim_id: cdf8d701-990d-4487-bad6-7ea598e8ee59
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cdf8d701-990d-4487-bad6-7ea598e8ee59
@@ -102,6 +111,9 @@ references:
     before becoming DNI.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:5551-5778
+  quote: '"Sir, it''s Obama," she said. Clapper stepped out to take the president''s
+    call. When he reentered the room, he said to us, "How do you all feel about me
+    being the next director of national intelligence?" And just like that, he was.'
   claim_id: 49e96a35-8ee8-408a-824b-1588b1889847
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-49e96a35-8ee8-408a-824b-1588b1889847
@@ -123,6 +135,9 @@ references:
     secrets.
   source: In Plain Sight
   location: ch18:4626-4846
+  quote: 'President Obama (smiling): ''That''s why you will not be president. That''s
+    the first thing you would do. [laughing] Aaah – the aliens won''t let it happen.
+    You''ll reveal all their secrets. They exercise strict control over us.'''
   claim_id: 345a268c-769b-4cbf-84e5-2560f8059f15
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-345a268c-769b-4cbf-84e5-2560f8059f15
@@ -131,6 +146,7 @@ references:
     not reveal anything.
   source: In Plain Sight
   location: ch18:5063-5124
+  quote: 'President Obama (slightly more serious): ''I – I can''t reveal anything.'''
   claim_id: b2eaa265-5755-4ff1-a1d1-f0e9dcf1bac8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b2eaa265-5755-4ff1-a1d1-f0e9dcf1bac8
@@ -139,6 +155,9 @@ references:
     there was nothing is what presidents are instructed to say.
   source: In Plain Sight
   location: ch18:5144-5339
+  quote: 'Jimmy: ''Oh really. Because President Clinton said he did go right in and
+    he did check and there was nothing.'' President Obama: ''Well you know, that''s
+    what we''re instructed to say.'''
   claim_id: 9c8ff4cf-926d-48ca-b2d8-182d91584074
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c8ff4cf-926d-48ca-b2d8-182d91584074
@@ -188,6 +207,9 @@ references:
     and trajectory cannot be explained.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch35:3926-4113
+  quote: “There is footage and records of objects in the skies that we don’t know
+    exactly what they are. We can’t explain how they move, their trajectory… . They
+    did not have an easily explainable pattern.” —President Barack Obama
   claim_id: a293778b-0a30-4ecd-ae44-0ff38b2727fc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a293778b-0a30-4ecd-ae44-0ff38b2727fc
@@ -196,6 +218,8 @@ references:
     aerial objects are.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch35:4126-4211
+  quote: So I think that people take seriously trying to investigate and figure out
+    what that is.
   claim_id: b8540bfe-0c83-4236-9007-36869aff271d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b8540bfe-0c83-4236-9007-36869aff271d

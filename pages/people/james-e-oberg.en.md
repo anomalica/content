@@ -161,6 +161,9 @@ references:
     theory is unfounded
   source: Dark Mission
   location: ch11:145503-145695
+  quote: How else do you explain NASA formally commissioning James Oberg, a leading
+    space authority, just last year (2006) to finally write an official NASA book
+    on “why the Moon Hoax crowd is ‘out to lunch.’”
   claim_id: 97fbbabd-748b-422f-87db-335178e24745
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-97fbbabd-748b-422f-87db-335178e24745
@@ -169,6 +172,8 @@ references:
     publishing the book
   source: Dark Mission
   location: ch11:145704-145823
+  quote: Only, to have *another* part of NASA suddenly *cancel* Oberg’s contract …
+    abruptly withdrawing from publishing the one book
   claim_id: 371d215c-5590-4f15-956c-471264a4995b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-371d215c-5590-4f15-956c-471264a4995b
@@ -177,6 +182,10 @@ references:
     accusing JPL employees of knowing the Mars Polar Lander was doomed
   source: Dark Mission
   location: ch14:19256-19540
+  quote: Then, just a few days before Young issued his report, former NASA chief debunker
+    James Oberg published a story on UPI that accused JPL employees of knowing full
+    well that the MPL was doomed (due to software problems related to the spacecraft’s
+    landing legs) from very early on in the mission.
   claim_id: 8148aac3-0cac-480d-b0af-7c92e8905e4d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8148aac3-0cac-480d-b0af-7c92e8905e4d
@@ -185,6 +194,8 @@ references:
     wacko
   source: Dark Mission
   location: ch14:19549-19686
+  quote: JPL employees rabidly denied the report, using words like “bunk,” “complete
+    nonsense” and “wacko” to describe their reactions to Oberg’s charge.
   claim_id: 8e972af6-9930-40e4-937f-192186bc52b5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8e972af6-9930-40e4-937f-192186bc52b5
@@ -193,6 +204,9 @@ references:
     the Young Report's release
   source: Dark Mission
   location: ch14:21689-21871
+  quote: Yet following NASA’s damaging previous two weeks, stretching from Oberg’s
+    initial bizarre UPI accusation to the release of the Young Report, Dan Goldin
+    flew on March 29, 2000 to JPL itself.
   claim_id: 8412c745-ebba-4c91-8a2b-42ab3e02c277
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8412c745-ebba-4c91-8a2b-42ab3e02c277
@@ -201,6 +215,9 @@ references:
     System Ambassador position
   source: Dark Mission
   location: ch5:1246-1417
+  quote: Even Oberg’s direct intervention in getting Dr. Johnston dismissed from his
+    unpaid position as a JPL Solar System Ambassador failed to ignite any interest
+    among the media elite.
   claim_id: 53a14b17-7848-48c9-a029-3164bb6d8257
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-53a14b17-7848-48c9-a029-3164bb6d8257
@@ -208,6 +225,8 @@ references:
 - text: Oberg of NBC News made an assault on the integrity of Ken Johnston
   source: Dark Mission
   location: ch5:614-689
+  quote: an assault against the integrity of Dr. Ken Johnston by James Oberg of NBC
+    News
   claim_id: 0c15234c-49ad-479a-b5bb-f932119605db
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0c15234c-49ad-479a-b5bb-f932119605db
@@ -216,6 +235,9 @@ references:
     their comedic context
   source: Dark Mission
   location: ch19:27202-27361
+  quote: NASA sycophants, like James Oberg, immediately dismissed these comments as
+    simple humor because of their context—one of the most popular situation comedies
+    on television.
   claim_id: 33f3e80f-1176-4380-8479-88f1a225f0ee
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-33f3e80f-1176-4380-8479-88f1a225f0ee
@@ -224,6 +246,9 @@ references:
     Jacobs' 1964 Vandenberg sighting as fanciful and uncorroborated
   source: In Plain Sight
   location: ch10:6482-6647
+  quote: backed Jacobs' account because he read how sceptics James Oberg and journalist
+    Philip Klass were attacking Bob Jacobs with claims that his sighting was fanciful
+    and uncorroborated.
   claim_id: 0c37f328-192b-410d-b232-7a7fa1bd9144
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0c37f328-192b-410d-b232-7a7fa1bd9144

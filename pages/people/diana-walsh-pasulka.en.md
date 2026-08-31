@@ -418,6 +418,8 @@ references:
 - text: Pasulka is a professor of religious studies
   source: American Cosmic
   location: ch1:885-979
+  quote: As a professor of religious studies, this was outside my usual research territory,
+    but not by much.
   claim_id: 79e7bf5f-fb9a-49a4-9e24-30c6f28b7c47
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-79e7bf5f-fb9a-49a4-9e24-30c6f28b7c47
@@ -425,6 +427,8 @@ references:
 - text: Began researching the UFO phenomenon in January 2012
   source: American Cosmic
   location: ch1:17790-17903
+  quote: When I started my research in January 2012, I thought that the people I would
+    interview and learn about would be experiencers
   claim_id: 68470f4c-cdd2-4319-b2d7-4d76636c07b2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-68470f4c-cdd2-4319-b2d7-4d76636c07b2
@@ -432,6 +436,8 @@ references:
 - text: Raised a born-again Christian from age eleven; attends a Catholic church
   source: American Cosmic
   location: ch3:6765-6887
+  quote: I go to a Catholic Church, but I started out as a born-again Christian when
+    I was eleven years old, to the surprise of my parents.
   claim_id: fc32d51c-2338-4e3a-ae9e-385b5605a115
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-fc32d51c-2338-4e3a-ae9e-385b5605a115
@@ -439,6 +445,9 @@ references:
 - text: Coined the term 'meta-experiencer'
   source: American Cosmic
   location: ch1:18355-18584
+  quote: I coined the term “meta-experiencers” to describe this group of scientists.
+    I cautiously observed them, noting that most were reticent to admit they believed
+    in the reality of UFOs, but they readily scooped data from the primary experiencers.
   claim_id: 4e8bfae4-8dc8-4824-84f2-d9eb51251afe
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4e8bfae4-8dc8-4824-84f2-d9eb51251afe
@@ -446,6 +455,7 @@ references:
 - text: Tyler D. was an employee in the space industry
   source: American Cosmic
   location: ch1:18598-18650
+  quote: Tyler was one such person, an employee in the space industry.
   claim_id: 0253d69d-3488-4f0b-9a29-42e013713b3d
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0253d69d-3488-4f0b-9a29-42e013713b3d
@@ -453,6 +463,7 @@ references:
 - text: Tyler D. was a wealthy rocket scientist
   source: American Cosmic
   location: ch1:21715-21739
+  quote: He was a wealthy rocket scientist.
   claim_id: 63a2b88f-8a51-4c3f-a8bc-cd27a5c255ba
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-63a2b88f-8a51-4c3f-a8bc-cd27a5c255ba
@@ -460,6 +471,8 @@ references:
 - text: Tyler D. was an aeronautical engineer and biomedical entrepreneur
   source: American Cosmic
   location: ch1:21625-21701
+  quote: he was an aeronautical engineer, and on the other hand, he was a biomedical
+    entrepreneur
   claim_id: 649a54b7-73da-4e77-8ca0-73aa9b7509a2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-649a54b7-73da-4e77-8ca0-73aa9b7509a2
@@ -467,6 +480,10 @@ references:
 - text: Pasulka organised a closed conference to which Tyler D. was not invited
   source: American Cosmic
   location: ch1:12136-12408
+  quote: A few months prior to our trip, I had organized a small conference, to which
+    Tyler had not been invited, on the phenomenon. The small, closed meeting was unique
+    because it brought together ufologists and scientists with scholars of the humanities,
+    all of whom studied the phenomenon.
   claim_id: 3ec14aeb-c155-4b86-bbcb-63a9e8e85438
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3ec14aeb-c155-4b86-bbcb-63a9e8e85438
@@ -475,6 +492,10 @@ references:
     Mexico
   source: American Cosmic
   location: ch1:15950-16235
+  quote: On the day after I got back from the conference, I received a phone call
+    from Tyler. Now that I had begun to understand a little more about the phenomenon,
+    he would like to take me to a special place in New Mexico where I might understand
+    a little more about the phenomenon’s physical nature.
   claim_id: 37fa21ee-6c14-4894-9375-21c924bc7902
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-37fa21ee-6c14-4894-9375-21c924bc7902
@@ -483,6 +504,8 @@ references:
     Mexico site
   source: American Cosmic
   location: ch1:452-578
+  quote: We were to wear a blindfold for the last forty minutes of the car ride, so
+    we wouldn’t be able to see where we were or how we arrived.
   claim_id: f3e195f0-f810-4061-af1b-2ba678563123
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f3e195f0-f810-4061-af1b-2ba678563123
@@ -490,6 +513,7 @@ references:
 - text: Tyler D. drove them for forty minutes over a gravel road to reach the site
   source: American Cosmic
   location: ch1:4190-4224
+  quote: He started the car, and we jolted forward... We drove for forty minutes
   claim_id: 7a3a5557-ec69-4883-b330-9caeb20fedad
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7a3a5557-ec69-4883-b330-9caeb20fedad
@@ -498,6 +522,8 @@ references:
     as the artifact
   source: American Cosmic
   location: ch1:52702-52796
+  quote: He was examining a small, metallic object. It had been identified as an artifact
+    by the metal detector.
   claim_id: e9bf50b4-10f5-4dfb-86e7-242a4ec94bc1
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e9bf50b4-10f5-4dfb-86e7-242a4ec94bc1
@@ -506,6 +532,8 @@ references:
 - text: James Master found it lodged in a crevice between rocks in a gully
   source: American Cosmic
   location: ch1:53224-53366
+  quote: James found this particular part lodged in a crevice between a bunch of rocks
+    in a gully that certainly looked to me like a nesting place for rattlesnakes.
   claim_id: 3f946a0e-5792-4886-99cf-fcf0ea2a2925
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3f946a0e-5792-4886-99cf-fcf0ea2a2925
@@ -513,6 +541,9 @@ references:
 - text: Tyler D. photographed, labelled and bagged the specimen
   source: American Cosmic
   location: ch1:52864-53061
+  quote: Tyler took out a plastic bag and a label. He photographed the specimen and
+    labeled it with the date, and he also photographed where it was found. Then he
+    put it in a special bag he carried for the occasion.
   claim_id: 49c7208c-496f-4349-b714-3e64140de060
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-49c7208c-496f-4349-b714-3e64140de060
@@ -520,6 +551,7 @@ references:
 - text: James Master agreed to take the artifacts to study them
   source: American Cosmic
   location: ch1:54667-54729
+  quote: James agreed to take all the parts with him so he could study them.
   claim_id: 4be76785-0432-4ccc-9baa-7c32d15eafda
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4be76785-0432-4ccc-9baa-7c32d15eafda
@@ -527,6 +559,8 @@ references:
 - text: James Master's bag caused an airport X-ray scanner to shut down
   source: American Cosmic
   location: ch1:56264-56414
+  quote: As the bag moved slowly down the conveyor belt and through the X-ray scanner,
+    the whole thing suddenly stopped. The contraption shut down with a loud BEEEP.
   claim_id: c472de76-48f4-40c5-95fd-2e048c26a3de
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-c472de76-48f4-40c5-95fd-2e048c26a3de
@@ -534,6 +568,8 @@ references:
 - text: Security searched James Master and his belongings
   source: American Cosmic
   location: ch1:56818-56943
+  quote: The bag re-scan went without further incident. Security searched James, his
+    suitcase, his jacket, and everything that he was carrying.
   claim_id: f2047c37-48d4-43ca-96d0-b5f0a4080268
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f2047c37-48d4-43ca-96d0-b5f0a4080268
@@ -541,6 +577,8 @@ references:
 - text: James Master is one of the world's leading scientists
   source: American Cosmic
   location: ch1:2896-3008
+  quote: My research partner was James Master, one of the world’s leading scientists
+    and a professor at a major research university.
   claim_id: c51831f9-3acc-4418-aa81-8219622c4ca7
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-c51831f9-3acc-4418-aa81-8219622c4ca7
@@ -548,6 +586,8 @@ references:
 - text: James Master holds an endowed chair in molecular biology and heads a laboratory
   source: American Cosmic
   location: ch2:2810-2918
+  quote: He held an endowed chair of molecular biology and headed a laboratory at
+    one of the top universities in the world.
   claim_id: 60405294-1026-42b6-9ba6-66dd6234bf2c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-60405294-1026-42b6-9ba6-66dd6234bf2c
@@ -555,6 +595,8 @@ references:
 - text: Jacques Vallée described as a researcher, astronomer and computer scientist
   source: American Cosmic
   location: ch1:55374-55454
+  quote: the theories of Jacques Vallee, the famous researcher, astronomer, and computer
+    scientist
   claim_id: 4782951a-45e6-406d-bad8-642de4c660c2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4782951a-45e6-406d-bad8-642de4c660c2
@@ -563,6 +605,11 @@ references:
     the UFO phenomenon
   source: American Cosmic
   location: ch1:55341-55734
+  quote: 'We were all well acquainted with the theories of Jacques Vallee, the famous
+    researcher, astronomer, and computer scientist. Vallee''s approach addressed three
+    aspects: the physical aspect, which Tyler represented; the testimonial aspect,
+    represented by experiencers; and the social aspect, how belief in the phenomenon
+    persists regardless of whether there is any verifiable evidence to support it.'
   claim_id: 5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
@@ -571,6 +618,8 @@ references:
 - text: Vallée told Pasulka to trust no one, not even what she saw
   source: American Cosmic
   location: ch2:55618-55702
+  quote: Jacques Vallee once told me emphatically, “Trust no one. Do not even trust
+    what you see.”
   claim_id: fdbdcb10-8313-4b19-bd34-e49a70c4f1f2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-fdbdcb10-8313-4b19-bd34-e49a70c4f1f2
@@ -579,6 +628,8 @@ references:
     Cruz
   source: American Cosmic
   location: ch5:1385-1458
+  quote: Jacques and I interviewed one of the people who saw and photographed the
+    object.
   claim_id: a65b22bb-4a67-4632-96e6-7a9d9202132e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a65b22bb-4a67-4632-96e6-7a9d9202132e
@@ -587,6 +638,9 @@ references:
     viewing film images or apparitions
   source: American Cosmic
   location: ch2:55728-55935
+  quote: the well-known scholar Donna Haraway had asked me to think about what was
+    happening in my brain and my mind when I looked at images on film, or in the minds
+    of people who witnessed apparitions of the Virgin Mary.
   claim_id: fa2da5f0-c16d-4b30-a34d-d75a0ef2dabe
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-fa2da5f0-c16d-4b30-a34d-d75a0ef2dabe
@@ -594,6 +648,10 @@ references:
 - text: Pasulka interviewed Haraway about a plan to study Marian apparitions in Medjugorje
   source: American Cosmic
   location: ch5:29959-30234
+  quote: I arrived during her office hours, when she was officially available to talk
+    to students, and explained my plan of study. I told her that I wanted to study
+    the then-recent apparitions of the Virgin Mary in Medjugorje, a small town in
+    what was then Yugoslavia, now Bosnia and Herzegovina.
   claim_id: 21a84d5a-3cc0-4578-9348-a5228802ebcd
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-21a84d5a-3cc0-4578-9348-a5228802ebcd
@@ -601,6 +659,9 @@ references:
 - text: Scott Browne created and moderates In the Field
   source: American Cosmic
   location: ch3:3496-3689
+  quote: Scott is the creator and moderator of *In the Field,* an international study
+    group of trained videographers, photographers, and graphic designers who also
+    study the UFO phenomenon on a regular basis.
   claim_id: e9a4907c-07b6-418b-a183-0a65a5046363
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e9a4907c-07b6-418b-a183-0a65a5046363
@@ -609,6 +670,10 @@ references:
     with Vallée
   source: American Cosmic
   location: ch3:4836-5072
+  quote: I told him that I studied UFO phenomena, and then, on the chance that he
+    might respect Jacques Vallee’s work, I told him that I was a fan of Jacques and
+    that I worked with him. That was credential enough; he immediately let me into
+    the group.
   claim_id: ba4d450d-059c-4598-9a7b-7a0cfeacb36d
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ba4d450d-059c-4598-9a7b-7a0cfeacb36d
@@ -616,6 +681,9 @@ references:
 - text: Browne has been called a 'debunker' and worse online
   source: American Cosmic
   location: ch3:1033-1242
+  quote: Scott Browne has been called a debunker—and far worse than that. In fact,
+    the names he has been called are not fit to be printed. Yet they have been posted
+    on Facebook, on Twitter, on YouTube, and in internet forums.
   claim_id: 9cd88981-358d-4ed5-b606-17b3398d6dd4
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9cd88981-358d-4ed5-b606-17b3398d6dd4
@@ -623,6 +691,10 @@ references:
 - text: Browne received threats of bodily and emotional harm
   source: American Cosmic
   location: ch3:280-524
+  quote: “Talk to me face-to-face, and I will show you what I think of debunkers!”
+    The threat, posted on social media, devolved from that point into a series of
+    very specific descriptions of bodily and emotional harm. It was directed, by name,
+    to Scott Browne.
   claim_id: eb5158e5-eeca-4def-a54a-6fcf458e891f
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-eb5158e5-eeca-4def-a54a-6fcf458e891f
@@ -630,6 +702,12 @@ references:
 - text: Browne exposed viral UFO images as differently shaped balloons
   source: American Cosmic
   location: ch3:49858-50304
+  quote: I was reminded of a recent incident on social media in which Scott had exposed
+    a series of images of supposed UFOs. The original photographs had garnered a large
+    following. The images were of a distant object that was circular and did not look
+    like an airplane or anything conventionally seen in the sky. Scott took the images,
+    blew them up, and posted them side by side, showing what they really were, which
+    were different types of oddly shaped balloons.
   claim_id: 7dc4ed09-26b5-4527-a6c0-847151331962
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7dc4ed09-26b5-4527-a6c0-847151331962
@@ -637,6 +715,8 @@ references:
 - text: The door of Santa Sabina church depicts levitation and Christ's ascension
   source: American Cosmic
   location: 3-7
+  quote: I also saw images of levitation... The ascension of Christ is depicted in
+    two panels, and then a third shows Christ ascended.
   claim_id: 042ce593-e376-43cc-9bf4-8d3c1485363b
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-042ce593-e376-43cc-9bf4-8d3c1485363b
@@ -645,6 +725,9 @@ references:
     minutes before reaching the church
   source: American Cosmic
   location: '60'
+  quote: We took a tour of Rome on a golf cart... At one point, we were pulled over
+    by the police. The guide and the police haggled for twenty minutes. We waited
+    patiently and were finally brought to the beautiful church of Santa Sabina
   claim_id: bd98440e-ec59-40b7-90d8-80198c16b026
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bd98440e-ec59-40b7-90d8-80198c16b026
@@ -653,6 +736,9 @@ references:
     Archives security
   source: American Cosmic
   location: '42'
+  quote: Tyler texted, “Should I tell them who I am?” ... At that point, after almost
+    two hours of Tyler’s translator haggling with security, I thought it couldn’t
+    hurt, so I said, “Okay, go ahead.”
   claim_id: f722a8e6-8472-4c26-a81a-0600ced6bb5a
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f722a8e6-8472-4c26-a81a-0600ced6bb5a
@@ -660,6 +746,7 @@ references:
 - text: Tsiolkovsky regarded as founding father of rocketry and aeronautics
   source: American Cosmic
   location: ch1:34241-34313
+  quote: Konstantin Tsiolkovsky, regarded as the founding father of rocketry and aeronautics
   claim_id: e2fb4653-f326-4053-b2a9-7442528c98e6
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e2fb4653-f326-4053-b2a9-7442528c98e6
@@ -667,6 +754,9 @@ references:
 - text: Tsiolkovsky discovered the equations later used to develop rockets
   source: American Cosmic
   location: ch1:34849-35026
+  quote: Tsiolkovsky perhaps regarded himself as one of these geniuses, as he discovered
+    the equations that would later help scientists develop rockets to take humans
+    off Earth and into space.
   claim_id: 7bc479e0-470a-4ef5-9b54-c2c14da99de4
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7bc479e0-470a-4ef5-9b54-c2c14da99de4
@@ -675,6 +765,9 @@ references:
     conducting rituals
   source: American Cosmic
   location: ch1:35097-35290
+  quote: Jack Parsons was uniquely American in that he collaborated with Aleister
+    Crowley and L. Ron Hubbard and spent time both launching rockets and engaging
+    in provocative rituals in the Los Angeles desert.
   claim_id: 89b8270c-54ab-4a51-8a92-3451f647b1ed
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-89b8270c-54ab-4a51-8a92-3451f647b1ed
@@ -682,6 +775,8 @@ references:
 - text: Parsons died at thirty-seven when a rocket exploded in his garage
   source: American Cosmic
   location: ch1:35603-35716
+  quote: He was thirty-seven when one of his rockets exploded as he was experimenting
+    in his garage, and he perished with it.
   claim_id: 2f0d3c95-90d5-45fd-b361-5395514c1396
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-2f0d3c95-90d5-45fd-b361-5395514c1396
@@ -689,6 +784,7 @@ references:
 - text: Pasulka owned a pink iPhone
   source: American Cosmic
   location: ch1:51786-51820
+  quote: Jeff and I looked down at my pink iPhone.
   claim_id: b26c98ad-91f0-4362-8876-e25c75894ffa
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b26c98ad-91f0-4362-8876-e25c75894ffa
@@ -697,6 +793,8 @@ references:
     version of her iPhone'
   source: American Cosmic
   location: ch3:54892-54983
+  quote: As I watched scenes with the monolith, I realized that it resembled a larger
+    version of my iPhone.
   claim_id: 163b6674-5ecf-4ce2-a710-78d7a89d6769
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-163b6674-5ecf-4ce2-a710-78d7a89d6769
@@ -704,6 +802,10 @@ references:
 - text: Unable to sleep one New Year's Eve, Pasulka opened The Gay Science at random
   source: American Cosmic
   location: ch3:41335-41614
+  quote: It was New Year’s Eve. That night, I went to bed early and fell asleep immediately.
+    At midnight I was awakened by fireworks and the merry-making of New Year’s revelers.
+    Amid the noise, I had no hope of returning to sleep, so I picked up the book on
+    my nightstand. I opened it up randomly.
   claim_id: 51bd21e6-2e5b-4249-ae7c-0b35ebc414d9
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-51bd21e6-2e5b-4249-ae7c-0b35ebc414d9
@@ -711,6 +813,9 @@ references:
 - text: The book fell open to one of only three aphorisms devoted to New Year's Eve
   source: American Cosmic
   location: ch3:41673-41834
+  quote: I happened to open it to the only three aphorisms in the whole book devoted
+    to New Year’s Eve. The first was titled “Sanctus Januarius” (Saint Januarius or
+    Holy January).
   claim_id: a73cb27c-f825-4f3a-bd13-746168ede675
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a73cb27c-f825-4f3a-bd13-746168ede675
@@ -719,6 +824,8 @@ references:
     interpretation
   source: American Cosmic
   location: ch3:53053-53161
+  quote: The cultural narratives were formed through processes anticipated by Jung
+    with his concept of amplificatory interpretation.
   claim_id: a5d40175-45fd-44e0-9c68-3d53715d6d31
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a5d40175-45fd-44e0-9c68-3d53715d6d31

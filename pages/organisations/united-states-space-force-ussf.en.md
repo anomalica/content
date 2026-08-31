@@ -31,6 +31,8 @@ references:
     military.
   source: In Plain Sight
   location: ch20:19549-19665
+  quote: The Space Force, the sixth and newest branch of the US military, was created
+    in December 2019.
   claim_id: d14119f7-7cf6-4cd8-bb81-18a1cd5e54e9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d14119f7-7cf6-4cd8-bb81-18a1cd5e54e9
@@ -38,6 +40,8 @@ references:
 - text: Its Latin motto is 'Si Vis Pacem, Para Bellum'.
   source: In Plain Sight
   location: ch20:19671-19777
+  quote: 'Its Latin motto is unabashedly militaristic: Si Vis Pacem, Para Bellum,
+    ''If you want peace, prepare for war''.'
   claim_id: f27be69c-8f40-4f2a-8845-8acfa0fceda2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f27be69c-8f40-4f2a-8845-8acfa0fceda2
@@ -46,6 +50,8 @@ references:
     capabilities.
   source: In Plain Sight
   location: ch20:19783-19923
+  quote: 'Space Force''s stated vision includes: ''A world-class team of space professionals
+    developing combat-ready space forces and space warfighting capabilities''.'
   claim_id: 1e848d9f-26ae-4829-950e-e4491478996e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e848d9f-26ae-4829-950e-e4491478996e
@@ -53,6 +59,9 @@ references:
 - text: The Air Force oversees the Space Force and supports NORAD.
   source: In Plain Sight
   location: ch29:22672-22861
+  quote: despite the fact that the Air Force (as a department which also oversees
+    US Space Force) has far more aircraft and sensor systems than the Navy as well
+    as the responsibility for supporting NORAD.
   claim_id: bcd6d33c-3c78-49e6-8b5a-bb1c7f7293b3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bcd6d33c-3c78-49e6-8b5a-bb1c7f7293b3
@@ -61,6 +70,8 @@ references:
     USSF on classified topics.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:41447-41577
+  quote: 'A spokesperson confirmed to the media: “Mr. Elizondo provides technical
+    advice on a variety of classified topics for the US Space Force.”'
   claim_id: 547e4e1a-db91-4538-8afb-80d259c1a735
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-547e4e1a-db91-4538-8afb-80d259c1a735
@@ -69,6 +80,8 @@ references:
     for his task force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:5357-5474
+  quote: Jay needed a rep from Space Force (USSF), but that agency was still getting
+    set up at the time and didn’t have a UAP program
   claim_id: 2b1146f7-8532-43bd-9234-c58aaab6925b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2b1146f7-8532-43bd-9234-c58aaab6925b
@@ -77,6 +90,9 @@ references:
     the task force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:5830-6022
+  quote: Soon after that, I started working as a contractor for USSF on the UAP front
+    and getting their unofficial help behind the scenes on my public efforts while
+    also contributing to Jay’s UAP Task Force.
   claim_id: ed75974a-7452-4db7-be4e-a3d5160b9b43
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ed75974a-7452-4db7-be4e-a3d5160b9b43
@@ -84,6 +100,7 @@ references:
 - text: David Grusch worked with Elizondo at the USSF.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:981-1015
+  quote: Dave also worked with me at Space Force
   claim_id: daf92a2b-5dbc-4a65-a982-b051ff9b942a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-daf92a2b-5dbc-4a65-a982-b051ff9b942a

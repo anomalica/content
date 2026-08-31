@@ -126,6 +126,8 @@ references:
     a cattle ranch approximately 120 kilometres from Roswell, New Mexico.
   source: In Plain Sight (2021)
   location: Chapter 2
+  quote: On 5 July 1947, a ranch foreman named Mac Brazel found crash debris scattered
+    across a cattle ranch 120 kilometres from Roswell in New Mexico.
   claim_id: 890868b7-e305-4fe7-a90e-16ae0f1f211c
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -133,6 +135,9 @@ references:
     release announcing that the US Army had recovered a flying disc.
   source: In Plain Sight (2021)
   location: Chapter 2
+  quote: At midday on the same day, 8 July 1947, Blanchard ordered his base public
+    information officer Lieutenant Walter Haut to issue a press release announcing
+    that the US Army had recovered a flying disc.
   claim_id: bcb749a0-b2b4-4477-aa16-775a892436ec
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -140,6 +145,11 @@ references:
     of the 509th Bomb Group had gained possession of a disc.
   source: In Plain Sight (2021)
   location: Chapter 2
+  quote: 'The initial press release issued by the US Army clearly referred to a recovered
+    ''flying disc''. It began: ''The many rumors regarding the flying disc became
+    a reality yesterday when the intelligence office of 509th Bomb Group of the Eighth
+    Air Force, Roswell Army Air Field, was fortunate enough to gain possession of
+    a disc.'''
   claim_id: 5fdd33fe-d3ca-40bb-a894-42a3a17b9886
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -147,6 +157,8 @@ references:
     Ranch in Roswell Region' on 8 July 1947.
   source: In Plain Sight (2021)
   location: Chapter 2, endnote 13
+  quote: '''RAAF Captures Flying Saucer on Ranch in Roswell Region'', Roswell Daily
+    Record, 8 Jul 1947, p. 1.'
   claim_id: 8218b8fb-c3f8-4c1e-97f1-2034e4168cc5
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -154,6 +166,9 @@ references:
     asserting the recovered disc was simply a weather balloon.
   source: In Plain Sight (2021)
   location: Chapter 2
+  quote: Just three hours after the noon Roswell press release, General Ramey issued
+    a new statement through Associated Press asserting that the supposed flying disc
+    was simply a weather balloon.
   claim_id: 6e5c5c76-5f80-4647-98fb-58ed08d1ba53
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -161,6 +176,9 @@ references:
     long and 60 to 90 metres wide, with a gouge extending up to 150 metres long.
   source: In Plain Sight (2021)
   location: Chapter 2
+  quote: Marcel described a massive field of debris 1200 metres long and 60 to 90
+    metres wide. There was allegedly a gouge in the field that extended up to 150
+    metres long, which looked as if 'something had touched down and skipped along'.
   claim_id: 4944bc70-1870-4261-92ac-aa181a6a5174
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -169,6 +187,10 @@ references:
     crashed was extra-terrestrial.
   source: In Plain Sight (2021)
   location: Chapter 2
+  quote: he claimed he had been ordered to collude in a cover-up and dramatically
+    alleged in multiple interviews that the real debris he brought with him that day
+    from Roswell was substituted by General Ramey with wreckage from an old weather
+    balloon, and that he actually believed what crashed at Roswell was extra-terrestrial.
   claim_id: 6cc29443-f922-4c56-bbd1-db58fb35d929
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -176,6 +198,9 @@ references:
     was extra-terrestrial, leading Friedman to allege a 'cosmic Watergate cover-up'.
   source: In Plain Sight (2021)
   location: Chapter 2
+  quote: In retirement, Marcel told the 'real' story to nuclear physicist and self-described
+    flying saucer researcher Stanton Friedman. Friedman then alleged a 'cosmic Watergate
+    cover-up' of a recovered alien spacecraft and alien bodies.
   claim_id: 5c1e881d-c0f8-4ba1-8f7c-e3cd59e49974
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -184,6 +209,9 @@ references:
     MOGUL balloon designed to monitor Soviet nuclear tests.
   source: In Plain Sight (2021)
   location: Chapter 2
+  quote: The air force's 1994 report claimed the wreckage that was recovered was from
+    a then top-secret balloon project designed to monitor Soviet nuclear tests, known
+    as Project MOGUL.
   claim_id: cdcacfe1-6150-449a-a63b-c389dd0c1c4f
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -192,6 +220,10 @@ references:
     to the 1947 incident was destroyed with no apparent authorisation.
   source: In Plain Sight (2021)
   location: Chapter 2
+  quote: As the US Congress's General Accounting Office discovered during its 1995
+    review of the incident's paperwork, not a single document from the Roswell Army
+    Airfield in the crash period survives; every bit of paper relating to this 1947
+    incident was destroyed with no apparent authorisation.
   claim_id: dae67bac-64e4-40d3-a1d9-a2d54db03cf1
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -200,6 +232,9 @@ references:
     authority.
   source: In Plain Sight (2021)
   location: paragraph 2
+  quote: He also pushed for the General Accounting Office's 1995 review of all the
+    Roswell papers, which reported that the Roswell records were destroyed without
+    authority.
   claim_id: 61bf738c-9ca8-4897-a69b-5d0e55815e87
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -208,6 +243,9 @@ references:
     high, and more egg-shaped.
   source: In Plain Sight (2021)
   location: Chapter 2
+  quote: he alleged that Blanchard allowed him to see an apparent alien craft in a
+    hangar 'approx. 12 to 15 feet in length, not quite as wide, about 6 feet high
+    and more of an egg shape.'
   claim_id: ead747ba-aafd-453e-836d-9f7658945307
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -216,6 +254,10 @@ references:
     under a tarpaulin.
   source: In Plain Sight (2021)
   location: Chapter 2
+  quote: There is also the extraordinary deathbed affidavit of former US Army public
+    information officer Lieutenant Walter Haut, who testified in 2002 that he was
+    taken out to a hangar by Colonel Blanchard to view recovered child-sized bodies
+    with abnormally large heads, lying under a tarpaulin at the base.
   claim_id: fc2a224a-163c-47f6-a6dd-3b27f2006d22
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -224,12 +266,17 @@ references:
     approved every word in the presence of his daughter, a notary, and another witness.
   source: In Plain Sight (2021)
   location: Chapter 2
+  quote: '''We prepared the statement based on all the information that Walter had
+    provided us through the years. And he read through it; his daughter was present.
+    There was a notary present, there was another witness present.'''
   claim_id: f1defa37-f669-46e9-9a05-6bf378b5824a
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
 - text: Walter Haut signed the affidavit on 26 December 2002.
   source: In Plain Sight (2021)
   location: Chapter 2, endnote 21
+  quote: Affidavit of First Lt Walter G. Haut, 26 Dec 2002, Carey and Schmitt, Witness
+    to Roswell, Ch. 25.
   claim_id: 8be34584-c40c-45f1-9677-39ae03597084
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -238,6 +285,9 @@ references:
     journalists to photograph.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: Chapter 4, paragraph 28
+  quote: some days later the government disseminated a cover story about recovering
+    nothing more harmless than a weather balloon. To convince the public, they trotted
+    out pieces of Mylar for journalists to photograph.
   claim_id: 1ff30879-711a-4529-8fc8-a739a8884ffc
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   copyright_status: restricted
@@ -246,6 +296,9 @@ references:
     Soviet atomic testing by affixing microphones to high-altitude balloons.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: Chapter 4, paragraph 28
+  quote: For years later, the government claimed that the downed craft was part of
+    'Project Mogul,' an early attempt by the US Army Air Corps to detect Soviet atomic
+    testing by affixing microphones to high-altitude balloons.
   claim_id: aa4e6036-1dcd-4b66-881f-f1fa446aa104
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   copyright_status: restricted
@@ -253,6 +306,8 @@ references:
     at least twice in the seventy-odd years since the incident.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: Chapter 4, paragraph 28
+  quote: The government has revised the Roswell cover story at least twice more in
+    the ensuing seventy-odd years, replacing the first lie with more clever lies.
   claim_id: dc26a356-4624-4c5f-9c1a-22735e36935a
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   copyright_status: restricted
@@ -260,12 +315,15 @@ references:
     recovered from the 1947 Roswell crash.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: Chapter 4, paragraph 24
+  quote: Hal went on to tell me something else that truly blew my mind. Four deceased
+    nonhuman bodies were in fact recovered from the 1947 Roswell crash.
   claim_id: e56daff1-84e9-4ad5-b4bc-91594624059d
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   copyright_status: restricted
 - text: Harold Puthoff told Luis Elizondo that the Roswell UAP crash of 1947 was real.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: Chapter 4, paragraphs 20-22
+  quote: '"Well… it all goes back to Roswell in 1947." … "Yes, Lue, it was real."'
   claim_id: 8d870abf-e239-4450-b5b0-373c26439293
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   copyright_status: restricted
@@ -273,6 +331,8 @@ references:
     into two crash sites.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: Chapter 4, paragraph 27
+  quote: A UAP fell that day in the vicinity of a government test facility in New
+    Mexico and broke into two crash sites.
   claim_id: ed75ea1c-86fe-4cc7-be32-0ffdd80b128a
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   copyright_status: restricted
@@ -281,6 +341,10 @@ references:
     a nearby test range caused it to crash.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: Chapter 4, paragraph 27
+  quote: It was hypothesized that the UAP that crashed at Roswell had been conducting
+    some sort of reconnaissance on our budding atomic program when the unexpected
+    happened. An electromagnetic pulse generated from one of the nearby test ranges
+    had inadvertently intervened with the craft's technology and caused it to crash.
   claim_id: d2961c05-157a-4f54-9b29-3d6d143ea5a5
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   copyright_status: restricted
@@ -289,6 +353,10 @@ references:
     energy at a nearby test range.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: Chapter 9, paragraph 29
+  quote: Hal Puthoff appeared in my office to share a fascinating theory. He had been
+    thinking a lot about how the Roswell crash was believed to have been caused by
+    DoD experiments with electromagnetic pulse (EMP) energy, a by-product of the atomic
+    bomb, at one of the nearby test ranges.
   claim_id: 1bd2c12c-4f7a-48bd-9931-3e4316a025fc
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   copyright_status: restricted
@@ -297,6 +365,9 @@ references:
     life-support systems.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: Chapter 9, paragraph 30
+  quote: 'Hal''s theory: If the Roswell aircraft were downed with an EMP by accident,
+    this could mean the aircraft had an Achilles'' heel... Was it the aircraft''s
+    propulsion system? Its avionics, or electronics, systems? Its life-support systems?'
   claim_id: 7ea94ecf-3638-499d-b103-0da453619e14
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   copyright_status: restricted
@@ -305,6 +376,9 @@ references:
     of interlacing bismuth and magnesium and what appeared to be a beveled edge.'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: Chapter 16, paragraph on recovered material
+  quote: Hal had in his possession material allegedly recovered from the Roswell crash.
+    It was an intricate and fragile piece revealing multiple microscopic layers of
+    interlacing bismuth and magnesium. It also seemed to have a beveled edge.
   claim_id: 632a4de9-4bd8-40de-9f72-cb5dc550a9be
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   copyright_status: restricted
@@ -313,6 +387,9 @@ references:
     not to discuss this publicly.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: Chapter 5, paragraph 1
+  quote: numerous witnesses associated with the 1947 Roswell crashes told government
+    officials they saw hieroglyphics on various pieces of the debris, but they were
+    told not to discuss this publicly.
   claim_id: e9a5357d-9263-46c5-a161-b5b4e386ff52
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   copyright_status: restricted
@@ -320,6 +397,9 @@ references:
     two anomalous objects flying across the south-western United States.
   source: In Plain Sight (2021)
   location: Chapter 13, paragraph 2
+  quote: in July 1947, US Signal Corps engineers tracked two anomalous objects flying
+    across the south-western United States, the craft sometimes hovering before continuing
+    to fly on
   claim_id: 34d9ee2e-4bdd-4831-8932-1bc4968360b5
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -328,6 +408,9 @@ references:
     the crashed craft's power plant.
   source: In Plain Sight (2021)
   location: Chapter 13, paragraph 2
+  quote: immediately, the office of the Joint Chiefs of Staff . . . took command and
+    control and recovered the airframe and some propulsion equipment, including the
+    crashed craft's power plant, or energy source
   claim_id: 14b7abd3-6ff6-4613-99b0-2a4a4b1ed5e1
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -335,6 +418,8 @@ references:
     crafted by captured Nazi Germany scientists.
   source: In Plain Sight (2021)
   location: Chapter 13, paragraph 2
+  quote: Jacobsen's extraordinary assertion that what crashed at Roswell was actually
+    Russian, crafted by captured Nazi Germany scientists
   claim_id: d2cdec8c-17a0-4d02-967f-fd39342485d2
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -343,6 +428,8 @@ references:
     oversize eyes.
   source: In Plain Sight (2021)
   location: Chapter 13, paragraph 2
+  quote: bodies found on the craft were those of 'grotesquely deformed' children with
+    unusually large heads and abnormally-shaped oversize eyes
   claim_id: 9d7fbe07-12b9-4010-b80f-3a9a7baa9872
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -350,6 +437,8 @@ references:
     flying saucer, a claim also made by Annie Jacobsen.
   source: In Plain Sight (2021)
   location: Chapter 16, paragraph 6
+  quote: As Annie Jacobsen also claimed, DeLonge averred he was told the Roswell crash
+    was a Nazi-built Russian flying saucer.
   claim_id: c91d8e11-318b-4411-9288-4af34a7f9bab
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -357,6 +446,8 @@ references:
     corpses of alien occupants sent to Wright-Patterson Air Force Base in Ohio.
   source: In Plain Sight (2021)
   location: Chapter 18, paragraph 2
+  quote: The corpses of its dead alien comrades were sent to the Wright-Patterson
+    Air Force Base in Ohio
   claim_id: a617ae93-7e96-4d97-a0dd-497e8b2fbdc0
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -366,6 +457,10 @@ references:
     they spoke about the crashes, they would be killed.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: Chapter 4, paragraph 14
+  quote: 'He once confided to Hal and Eric that his family was among the Roswell families
+    who were threatened by the FBI after the famous Roswell crashes. FBI agents visited
+    ranchers in the region, going door-to-door to deliver the threatening message:
+    if you speak about the crashes, you will be killed.'
   claim_id: 427de396-90de-4cf4-a03c-8fa9324bb257
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   copyright_status: restricted
@@ -374,6 +469,9 @@ references:
     the Roswell crash.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: Chapter 11, paragraph 3
+  quote: Credible sources, including those involved at AATIP, told me the facts from
+    several historic UAP crashes from which nonhuman bodies were recovered by the
+    US, in addition to the Roswell crash.
   claim_id: aaaac1db-0f35-42db-b35a-7ec50b99d2d7
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   copyright_status: restricted
@@ -382,6 +480,10 @@ references:
     unequivocal cover-up' of a retrieved alien craft at Roswell.
   source: In Plain Sight (2021)
   location: Chapter 20, paragraph 19
+  quote: Strieber told the Senator in his letter that US Army Brigadier General Arthur
+    Exon had told him personally in 1989 that there was a 'completely unequivocal
+    cover-up' of a retrieved alien craft at Roswell and 'it went from [President Harry]
+    Truman on down'.
   claim_id: 3ad1d784-d37f-4fa6-9d14-1cb820ff8da3
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -391,6 +493,10 @@ references:
     build three alien reproduction vehicles.
   source: In Plain Sight (2021)
   location: paragraph 21
+  quote: Mark McCandlish testified to the Disclosure Project hearing at the National
+    Press Club that the US government had successfully reverse-engineered a spacecraft
+    retrieved from the 1947 Roswell crash site to build three so-called alien reproduction
+    vehicles (ARVs).
   claim_id: 9eb92db3-2304-451b-9612-d53ae1b3fc77
   record_hash: 49c1d99f89244490674188f07850920fd9e9f66269d58ae259a19bb4
   copyright_status: restricted
@@ -398,6 +504,8 @@ references:
     crashes.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: Chapter 6, paragraph 13
+  quote: After the pilot Kenneth Arnold's famous 1947 UAP sighting, which was a couple
+    of weeks before the Roswell crashes
   claim_id: a5ffc441-ccb3-4f34-9dc3-a6a5d4c42ccf
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   copyright_status: restricted
@@ -405,6 +513,9 @@ references:
     made to find out everything about Roswell, but many mysteries remain.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: Appendix, Statements section
+  quote: When I was president, we made every attempt to find out everything about
+    Roswell… . There are lots of mysteries out there… . It should keep us humble.
+    There is a lot of stuff we don't know.
   claim_id: d2786444-da76-4a30-89a1-b697cf49159c
   record_hash: 6585c21ba1f4127fb4ed981ec82500bffa8a53f0e45ba1d885b7a98d
   copyright_status: restricted

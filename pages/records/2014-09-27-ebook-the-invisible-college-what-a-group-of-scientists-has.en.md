@@ -22,6 +22,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:20825-20975
+  quote: This is not simply a book about UFOs or UCTs. This book presents a personal
+    interpretation of their patterns in the light of current changes in human consciousness.
   claim_id: 08ad77b3-f946-438b-8765-139ad9269a06
   claim_fingerprint: af6eae8c6d3f05e7c83dd434bbdc6a9a2b4403f5767e623e2eeef13b82893ee8
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -33,6 +35,7 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:21254-21324
+  quote: the scientists who compose it (about a hundred of them in five or six countries)
   claim_id: d7d829c7-1578-472b-848a-2f9933ba3dec
   claim_fingerprint: f5139b13a487dd221372ee1729cd527b1c082f3e8e7699539587d21146612a1d
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -44,6 +47,10 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch7:692-933
+  quote: For the small group of scientists who were actively investigating cases,
+    interviewing witnesses, and exchanging data through a small, informal network
+    of international contacts, the phenomenon did not seem to fall so simply into
+    comfortable patterns.
   claim_id: da0c7917-e746-4749-bfe9-64fac65dc806
   claim_fingerprint: d9aa14d2dc499da9c54f3b0bf9470664e3847d637fa438de8a56bca636603e03
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -54,6 +61,10 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch7:2102-2418
+  quote: With his keen sense of scientific history and his usual humor Dr. Hynek called
+    this informal network “the Invisible College” in reference to the secretive group
+    of “natural philosophers” who fought against the established dogmas of the church
+    in the mid-seventeenth century to acquire knowledge through experimental investigation.
   claim_id: 3da97800-4c78-49f5-a8c0-6f8cbe223623
   claim_fingerprint: 399e1a5dcb1a96fa189db61d451b6ca12d052ba8732da34647032efbb78bdafa
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -65,6 +76,10 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:22245-22490
+  quote: I was introduced to this informal group over ten years ago, when Dr. J. Allen
+    Hynek, the U.S. Air Force’s expert on UFO matters, invited me to apply my background
+    in computer science to a study of the statistical procedures used by Project Blue
+    Book.
   claim_id: 1a04b161-714c-491b-8c30-1dc2dff1bd94
   claim_fingerprint: db91559c2eb1d9bebfdb1c4ccb5bca3a2c5c46b3c97a20005ff9af45b1b676c1
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -75,6 +90,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:22603-22733
+  quote: I examined the 10,000 reports contained at that time in the files of the
+    USAF, spending four years in sorting the signal from the noise.
   claim_id: 8510410e-ddb1-42d1-a76a-f05b5158fdda
   claim_fingerprint: 97d4cc8ef3057fb6146745750421a99e7644a6634d079b8c6cb49c5b7ae9176d
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -85,6 +102,7 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:2918-2984
+  quote: I will approach this inquiry within the framework of *descriptive phenomenology,*
   claim_id: 4fd547cf-2c0e-46ee-9a78-2973f65746f4
   claim_fingerprint: 8e80da9b9eb1a49d40838e33ba2e775bbf115dd52590cc62b05f724de46f01ae
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -96,6 +114,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:12514-12752
+  quote: The following case is among the most thoroughly investigated accounts of
+    the interaction between human percipients...It involved a medical doctor who holds
+    an important official position in southern France.
   claim_id: 4a7d212a-5521-48d5-be96-a5f6102d78cd
   claim_fingerprint: 4379facf7fb7395f5d48e298839555e62d9ac23facdcb3292939f2812478f4ec
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -107,6 +128,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:14396-14704
+  quote: There were two of them, disk-shaped, horizontal, silvery-white on top and
+    bright red underneath.
   claim_id: f95a3632-1488-4d42-abfa-e8e51e639430
   claim_fingerprint: ebfbc38017a2fca2cefcd310b6e68ff9b35f7e90899e057a442e883a3ac67dfe
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -118,6 +141,11 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:18151-18514
+  quote: When the investigator (who kept the witness under close observation) published
+    the results of his two-year followup of the case, he noted that there had been
+    no recurrence of either the war sequelae or the wound on the leg; the peculiar
+    triangle, however, continued to come and go on both the father and the son, and
+    would stay visible for two or three days at a time
   claim_id: 5b69a871-abd5-4a52-b6e5-169e830e8b29
   claim_fingerprint: 14c6a820ea6f59d4549d7d478de05580f815927199004de1e0b82b5e109b6048
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -129,6 +157,10 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:38650-38956
+  quote: Sixteen-year-old Ronald Johnson, was tending the sheep, accompanied by his
+    dog, when it happened. What they suddenly saw was a mushroom-shaped object, illuminated
+    by multicolored lights over its entire surface, and hovering within two feet of
+    the ground twenty-five yards away. Its diameter was about nine feet.
   claim_id: 093ce10d-4cea-4d48-b5b6-6f02729a1051
   claim_fingerprint: 022db13cb30f26eb5e71f9672729795d2447fcc12444ba807d08bdee97e543ed
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -139,6 +171,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:39458-39636
+  quote: The three witnesses went around the house to the site of the near landing
+    and were surprised, they said, to observe a glowing ring on the ground. Parts
+    of nearby trees were also glowing.
   claim_id: 4c978b46-883a-4cf6-9b6f-6e0e855b568b
   claim_fingerprint: 790596dad945239d0ab015cc41ad7c5a330de709867b6e17df7047c7f8a92009
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -151,6 +186,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:41304-41497
+  quote: no one ever bothered to identify the white substance itself... Thorough analyses
+    of the soil have been made, however, showing no significant difference between
+    the inside and the outside of the ring.
   claim_id: 9a2a94d3-998a-439f-9efc-1b068a769154
   claim_fingerprint: b05fe6cc46c6077bd5cafbc3f32ea5490870ceb476b89a1bcd4b45af7759380e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -161,6 +199,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:1285-1369
+  quote: In this book I propose to examine the hypothesis that UFOs may constitute
+    a control system
   claim_id: 813b7456-399b-4ab6-868b-9bf66d554aa7
   claim_fingerprint: 966bb0e14b94e5f1324f335711d5b5940dd4990b4ba74ddacbaf5a6479e42d81
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -172,6 +212,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:2079-2160
+  quote: there have been two major approaches, which might be termed "technological"
+    and "psychological."
   claim_id: 267e54f7-ce5e-4c73-b25d-d1450d6e2e61
   claim_fingerprint: 692ffed13ba3e14b205826bdd7e74fe18b417d3c7711fd12da1ff76b7516be0a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -183,6 +225,14 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch8:18165-18837
+  quote: 'These four elements that forced a revision of previous ideas about UFOs
+    ... are: (1) the psychic component present in the apparent space and time alterations
+    and in the information transfer reported by the percipients; (2) the nature of
+    personal, social, and governmental reaction to the phenomenon, which can be described
+    as triple coverup; (3) the observation of patterns of belief (akin to a new religious
+    or mystical movement) among those who claim to be in contact with nonhuman intelligences;
+    and (4) the sophisticated groups which are already exploiting these patterns,
+    such as the UMMO organization in Spain.'
   claim_id: 60fe377d-fef1-4cd2-abb4-383affcf1a50
   claim_fingerprint: 503ea42a4ecfa012220a6371ee3fce4ede61ce7f8a808019daaaf25e083aaa8a
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -194,6 +244,11 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:27073-27405
+  quote: 'UFO reports are not necessarily caused by visits from space travelers. The
+    phenomenon could be a manifestation of a much more complex technology. If time
+    and space are not as simple in structure as physicists have assumed until now,
+    then the question, “where do they come from?” may be meaningless: they could come
+    from a place in *time.*'
   claim_id: 77061365-5b7d-4bb3-886e-8ca9ab6638b7
   claim_fingerprint: 75bbf142266d27a79c8120e05c4597e3044807b26c3fd87c683e6f299bb5c1e2
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -205,6 +260,10 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:27939-28265
+  quote: Contact between human percipients and the UFO phenomenon occurs under conditions
+    controlled by the latter. Its characteristic feature is a constant factor of absurdity
+    that leads to a rejection of the story by the upper layers of the target society
+    and an absorption at a deep unconscious level of the symbols conveyed by the encounter.
   claim_id: 4c0493a7-e6d9-4619-94e1-4b85f344d329
   claim_fingerprint: 9f644fccc6ea1137e85e363b0c1acb2ccee46728e40eb2a29702120fb3b26bca
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
@@ -216,6 +275,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch9:1454-1601
+  quote: the eight-hundred-page post-mortem had clearly stated that the study of UFOs
+    "cannot be justified in the expectation that science will be advanced thereby."
   claim_id: b0ac08db-89da-44e3-9b38-4c331aa2a364
   claim_fingerprint: bb65e0e9d9bcd082f8e340687c7797b59526861779a3ac29fb493d16ac83a33d
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848

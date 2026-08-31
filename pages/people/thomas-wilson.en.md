@@ -422,6 +422,7 @@ references:
 - text: Wilson served as Vice Director of Intelligence for the Joint Staff
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch43:140-184
+  quote: Vice Director of Intelligence for the Joint Staff
   claim_id: 865d622d-9d4c-4bda-ab83-fe4f7d86c6bb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-865d622d-9d4c-4bda-ab83-fe4f7d86c6bb
@@ -429,6 +430,7 @@ references:
 - text: Wilson served as Director of Intelligence for the United States Atlantic Command
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch43:191-251
+  quote: and Director of Intelligence for the United States Atlantic Command
   claim_id: e792eb3e-cd2e-49c0-ac18-f6e4703b8aaf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e792eb3e-cd2e-49c0-ac18-f6e4703b8aaf
@@ -437,6 +439,8 @@ references:
     at the CIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch43:5-132
+  quote: His other credentials included the Associate Director of Central Intelligence
+    for Military Support at the Central Intelligence Agency
   claim_id: 5754f9d2-d959-4031-ba37-567ab2448803
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5754f9d2-d959-4031-ba37-567ab2448803
@@ -444,6 +448,7 @@ references:
 - text: Wilson later became the 13th Director of the Defense Intelligence Agency
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch43:260-326
+  quote: Later Wilson became the 13th Director of the Defense Intelligence Agency.
   claim_id: e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
@@ -462,6 +467,9 @@ references:
     Joint Chiefs of Staff
   source: In Plain Sight
   location: ch26:16014-16207
+  quote: Remember, in 1997 Vice Admiral Tom Wilson was the Deputy Director of the
+    Defense Intelligence Agency and was responsible for briefing the generals who
+    advised the president and Joint Chiefs of Staff.
   claim_id: ac8e4aa1-3fcc-4e54-a82b-38546be1567c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ac8e4aa1-3fcc-4e54-a82b-38546be1567c
@@ -470,6 +478,9 @@ references:
     with Wilson
   source: In Plain Sight
   location: ch14:8565-8758
+  quote: Which was why in April 1997, Mitchell's renown opened the way for an extraordinary
+    briefing with the Deputy Director of Intelligence for the US military's Joint
+    Chiefs of Staff, Admiral Thomas Wilson.
   claim_id: 26e287f6-ae79-48e8-af43-1566a2e32b6c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-26e287f6-ae79-48e8-af43-1566a2e32b6c
@@ -478,6 +489,10 @@ references:
     of the April 1997 visit
   source: In Plain Sight
   location: ch14:9972-10214
+  quote: In advance of their visit, Greer had sent Admiral Wilson's staff a leaked
+    US National Reconnaissance Office document that detailed a series of what turned
+    out to be authentic codenames for highly top-secret so-called Special Access Programs
+    (SAPs).
   claim_id: 65a6c9ce-ae3a-46ce-b108-25f0a6276518
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-65a6c9ce-ae3a-46ce-b108-25f0a6276518
@@ -496,6 +511,8 @@ references:
 - text: Wilson met with UAP researchers at the Pentagon in 1997
   source: In Plain Sight
   location: ch26:7957-8068
+  quote: As detailed earlier, we know for sure that Vice Admiral Tom Wilson met with
+    UAP researchers in the Pentagon in 1997.
   claim_id: a75906a3-36eb-4985-95df-d37722088e7f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a75906a3-36eb-4985-95df-d37722088e7f
@@ -504,6 +521,11 @@ references:
     of a cover-up
   source: In Plain Sight
   location: ch14:14003-14350
+  quote: But we know Steven Greer, Willard Miller and Edgar Mitchell presented Admiral
+    Wilson with what they were convinced was strong witness evidence to support their
+    belief that the US government was covering up alien visitations to Earth, recovered
+    spacecraft and alien bodies, and incredible technological breakthroughs purportedly
+    derived from those discoveries.
   claim_id: d09d1a48-1cf6-4b76-b20f-2782eefe340a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d09d1a48-1cf6-4b76-b20f-2782eefe340a
@@ -511,6 +533,8 @@ references:
 - text: Mitchell later confirmed to friends the meeting happened as Greer described
   source: In Plain Sight
   location: ch14:14577-14660
+  quote: Edgar Mitchell later confirmed to many friends that this meeting happened
+    as Greer described.
   claim_id: 931de085-d4dd-4f3a-afcb-a98ad1cb14b3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-931de085-d4dd-4f3a-afcb-a98ad1cb14b3
@@ -519,6 +543,10 @@ references:
     UFOs
   source: In Plain Sight
   location: ch14:18395-18635
+  quote: It is to Greer's credit, for example, that he was invited back in 1998 to
+    the Defense Intelligence Agency, again with Commander Willard Miller, to brief
+    the then Director, Wilson's immediate superior, Lieutenant General Patrick Hughes,
+    'on UFOs'.
   claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
@@ -527,6 +555,8 @@ references:
     admitted to Davis in Las Vegas in 2002
   source: In Plain Sight
   location: ch26:367-500
+  quote: purporting to detail what Defense Intelligence Agency Admiral Tom Wilson
+    admitted to Eric Davis in a private meeting in Las Vegas in 2002
   claim_id: 25d34f3d-730c-4c74-897f-76f1c83fbe8d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25d34f3d-730c-4c74-897f-76f1c83fbe8d
@@ -535,6 +565,9 @@ references:
     Vegas on 2002-10-16
   source: In Plain Sight
   location: ch26:4818-5042
+  quote: In his memo, Davis claims to have met the recently retired Director of the
+    US Defense Intelligence Agency, Vice Admiral Thomas Wilson, on 16 October 2002,
+    in a car parked in the carpark of a corporate office building in Las Vegas.
   claim_id: a734c16c-98ee-485c-9c2e-abadb7cee2f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a734c16c-98ee-485c-9c2e-abadb7cee2f1
@@ -735,6 +768,9 @@ references:
 - text: Gansler reportedly told Wilson UFOs are real but alien abductions are not
   source: In Plain Sight
   location: ch26:20491-20681
+  quote: The memo also claimed Wilson was told by the Under Secretary for Defence
+    for Acquisition, Technology and Logistics, Dr Jacques Gansler, that ‘UFOS are
+    real, so-called “alien abductions” not real’.
   claim_id: e432db08-8382-45d4-bcb7-378bea035b61
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e432db08-8382-45d4-bcb7-378bea035b61
@@ -742,6 +778,9 @@ references:
 - text: Wilson complained to Senior Review Group members inside the Pentagon
   source: In Plain Sight
   location: ch26:22371-22596
+  quote: on his return to Washington, the memo claims Wilson complained to the Senior
+    Review Group members overseeing the Special Access Program Oversight Committee
+    inside the Pentagon, only to be threatened with his job if he caused trouble.
   claim_id: 6786d0b3-7e9f-4d88-8542-8fe9778c7d6e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6786d0b3-7e9f-4d88-8542-8fe9778c7d6e
@@ -792,6 +831,9 @@ references:
 - text: For over a year after the memo was published online, Wilson made no comment
   source: In Plain Sight
   location: ch26:1587-1805
+  quote: For well over a year after the memo was first published on the internet,
+    the former Defense Intelligence Agency official with whom Dr Eric Davis purportedly
+    had this explosive conversation, Admiral Tom Wilson, made no comment.
   claim_id: 09f77fb1-e637-41d7-816f-d286d3770264
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-09f77fb1-e637-41d7-816f-d286d3770264
@@ -800,6 +842,11 @@ references:
     by Davis but declined further comment
   source: In Plain Sight
   location: ch26:10770-11128
+  quote: Asked about the Admiral Wilson memo at an Arlington Institute address in
+    February 2020, he responded, ‘That is a question about the Wilson documents. They
+    probably got leaked on the internet. *And Wilson was one of the joint chiefs of
+    staff interviewed by my senior scientist colleague Eric Davis*. Since it discusses
+    potentially ongoing programs, I have no comment.’
   claim_id: 460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
@@ -808,6 +855,8 @@ references:
     happened
   source: In Plain Sight
   location: ch26:1819-1966
+  quote: as rumours of an imminent *New York Times* story mounted in June 2020, Wilson
+    finally issued a strong denial that any such meeting with Davis ever happened.
   claim_id: da5290a6-646b-4363-80ba-139ad6fb568e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-da5290a6-646b-4363-80ba-139ad6fb568e
@@ -815,6 +864,8 @@ references:
 - text: Wilson's denial letter called the entire memo pure fiction
   source: In Plain Sight
   location: ch26:11719-11879
+  quote: In it, he said, ‘The entire memo attributed to Dr Davis, including his characterization
+    of my attitude, emotions and sentiments about other individuals is pure fiction.
   claim_id: e86284f7-945b-4fa6-a546-2b54062b3a1a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e86284f7-945b-4fa6-a546-2b54062b3a1a
@@ -822,6 +873,8 @@ references:
 - text: Wilson denied visiting Las Vegas in 2002 and denied meeting Davis
   source: In Plain Sight
   location: ch26:7529-7611
+  quote: Wilson denied visiting Vegas in 2002 and had no knowledge of ever meeting
+    Dr Eric Davis.
   claim_id: 46abfcfa-818a-478e-b610-348bceec1359
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46abfcfa-818a-478e-b610-348bceec1359
@@ -830,6 +883,8 @@ references:
     to Nellis AFB in 1979 or 1980
   source: In Plain Sight
   location: ch26:7618-7745
+  quote: He said the only time he was ever in Las Vegas was for a Carrier Air Wing
+    Three deployment to Nellis Air Force Base in 1979 or 1980.
   claim_id: a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a594edcb-54a2-4dfc-8a94-e6be44b5d1e0
@@ -838,6 +893,9 @@ references:
     record
   source: In Plain Sight
   location: ch26:23971-24169
+  quote: We are left with the fact that, if the ‘EWD Notes’ memo is genuine, not one
+    person who should know about the purported Admiral Wilson meeting is actually
+    prepared to confirm its authenticity on the record.
   claim_id: 85914fc6-ffc6-46b0-a886-099712049ef5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-85914fc6-ffc6-46b0-a886-099712049ef5
@@ -846,6 +904,10 @@ references:
     until proved otherwise
   source: In Plain Sight
   location: ch26:25149-25415
+  quote: But without a senior Department of Defense official, Eric Davis, Admiral
+    Wilson or Hal Puthoff, going on the record admitting to the veracity of the memorandum,
+    its claims must be treated with extreme scepticism. It has to be treated as a
+    hoax document until proved otherwise.
   claim_id: 12d9e47e-a454-4115-a5cb-dd8834362356
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-12d9e47e-a454-4115-a5cb-dd8834362356
@@ -854,6 +916,7 @@ references:
     place
   source: In Plain Sight
   location: ch26:26887-26959
+  quote: But Wilson has categorically denied the meeting with Dr Eric Davis ever happened.
   claim_id: f97eda75-84a9-4669-bd06-8a92b13f3a17
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f97eda75-84a9-4669-bd06-8a92b13f3a17

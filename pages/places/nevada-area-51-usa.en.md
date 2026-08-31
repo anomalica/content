@@ -108,6 +108,9 @@ references:
     also known as Homey Airport or Groom Lake
   source: In Plain Sight
   location: ch37:7069-7237
+  quote: Area 51, also known as Homey Airport or Groom Lake, the super-secret US Air
+    Force base within the Nevada Test and Training Range used to test experimental
+    aircraft and weapons.
   claim_id: 1817ad3d-0fa0-4355-baf4-b291c23f76ac
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1817ad3d-0fa0-4355-baf4-b291c23f76ac
@@ -124,6 +127,8 @@ references:
 - text: The US Air Force first acquired Area 51 in 1955 to develop the U-2 spy plane
   source: In Plain Sight
   location: ch13:9486-9578
+  quote: First acquired by the air force in 1955 for developing aerospace company
+    Lockheed's U-2 spy plane
   claim_id: a7e3a377-ce5d-4804-b4f5-cec165aebeec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7e3a377-ce5d-4804-b4f5-cec165aebeec
@@ -141,6 +146,7 @@ references:
 - text: Area 51's existence was not officially acknowledged until 2013
   source: In Plain Sight
   location: ch13:9585-9637
+  quote: Area 51's existence was not even acknowledged until 2013
   claim_id: b8c68d96-6fdf-468c-be13-754f5936bbda
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b8c68d96-6fdf-468c-be13-754f5936bbda
@@ -149,6 +155,9 @@ references:
     secret aircraft testing
   source: In Plain Sight
   location: ch13:9642-9866
+  quote: and it enjoys a mythical status among UAP researchers as a location where
+    there have been frequent sightings of strange glowing and hovering objects, as
+    well as secret tests of more mundane but nonetheless super-secret test aircraft.
   claim_id: ffa44c51-6a0c-4f6d-99b5-47a0d9a0d562
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ffa44c51-6a0c-4f6d-99b5-47a0d9a0d562
@@ -157,6 +166,8 @@ references:
     and gravity-defying UAPs
   source: In Plain Sight
   location: ch37:7246-7359
+  quote: Area 51 is frequently the focus of conspiracy theories about recovered ET
+    craft and sightings of gravity-defying UAPs.
   claim_id: 19d32adb-ec86-47f7-b50c-bc45a4f2a588
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-19d32adb-ec86-47f7-b50c-bc45a4f2a588
@@ -165,6 +176,9 @@ references:
     51
   source: In Plain Sight
   location: ch13:10654-10824
+  quote: The speculation was rife by 1989 that America had developed a new super-stealthy
+    craft inside Area 51, perhaps even a breakthrough in anti-gravitics, hence the
+    mythical 'Aurora'.
   claim_id: 10a95105-449a-44ec-aa8e-e7daf42e2bc0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-10a95105-449a-44ec-aa8e-e7daf42e2bc0
@@ -172,6 +186,9 @@ references:
 - text: Christopher Mellon monitored Area 51 for the Senate Intelligence Committee
   source: In Plain Sight
   location: ch13:9266-9479
+  quote: One of the top-secret Department of Defense sites Mellon monitored for the
+    Senate Intelligence Committee was Area 51, a highly secure US Air Force facility
+    within the massive Nevada test range.
   claim_id: 86acde03-2c78-4459-a2ad-d227d1609f8d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-86acde03-2c78-4459-a2ad-d227d1609f8d
@@ -180,6 +197,8 @@ references:
     onsite
   source: In Plain Sight
   location: ch13:10834-10913
+  quote: Mellon visited Area 51, and had full access to review every classified project
+    onsite.
   claim_id: 1e635035-bc66-4b80-910c-81198bf2572c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1e635035-bc66-4b80-910c-81198bf2572c
@@ -188,6 +207,8 @@ references:
     alien spacecraft
   source: In Plain Sight
   location: ch13:10921-11077
+  quote: But he says he never saw anything there that equated to the kind of technology
+    demonstrated by the UAPs that were sighted – and certainly no captured alien spacecraft.
   claim_id: af8eafec-54b3-48ad-aa24-6faa360f7964
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af8eafec-54b3-48ad-aa24-6faa360f7964
@@ -196,6 +217,9 @@ references:
     51 or adjacent ranges
   source: In Plain Sight
   location: ch28:11340-11535
+  quote: One would think there would have been an enormous spending line for something
+    like that, but I at least never saw it, nor did I see evidence of such a craft
+    during visits to Area 51 and adjacent ranges.
   claim_id: 233982bc-14f8-40a8-8e25-af3400571456
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-233982bc-14f8-40a8-8e25-af3400571456
@@ -203,6 +227,8 @@ references:
 - text: Dave, Jim Goodall's SR-71 pilot source, became facility manager at Area 51
   source: In Plain Sight
   location: ch13:18778-18925
+  quote: Goodall's SR-71 pilot source, Dave, eventually became the facility manager
+    at Area 51, the secret US test site for high-tech black world aerospace technology.
   claim_id: 94e53edb-7069-4b00-b719-6bafea987d8a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-94e53edb-7069-4b00-b719-6bafea987d8a
@@ -211,6 +237,8 @@ references:
     the answer was always no
   source: In Plain Sight
   location: ch13:18938-19083
+  quote: '''And he started asking around, "Hey, did we ever fly anything out of here
+    that can go eight or ten thousand miles an hour?"'' The reply was always no.'
   claim_id: 5cb04c0e-d28e-4a3d-9400-8a802f0720d9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5cb04c0e-d28e-4a3d-9400-8a802f0720d9
@@ -218,6 +246,9 @@ references:
 - text: Bob Lazar's claim to have worked at Area 51 reverse-engineering alien propulsion
   source: In Plain Sight
   location: ch13:19774-19967
+  quote: Lazar is a Nevada businessman who went public in the late 1980s with incredible,
+    and much disputed, claims that he worked as a physicist at Area 51 on reverse-engineering
+    propulsion systems of recovered ali
   claim_id: e4c42ac4-a09a-40be-9498-99d61101dd72
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e4c42ac4-a09a-40be-9498-99d61101dd72
@@ -225,6 +256,10 @@ references:
 - text: Lazar's 1989 KLAS-TV interview with George Knapp about Site 4 (S-4)
   source: In Plain Sight
   location: ch13:20633-20945
+  quote: Years later, in 1989, Lazar went public in an interview with investigative
+    journalist George Knapp on Las Vegas TV station KLAS, asserting (anonymously,
+    at first) his purported employment working on a recovered extra-terrestrial flying
+    saucer at the supposed S-4 facility, adjacent to Papoose Lake south of Area 51
   claim_id: 46f173e7-f7db-489f-92fa-3898e1612ad0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
@@ -232,6 +267,8 @@ references:
 - text: Site 4 (S-4) is a much-rumoured, unconfirmed facility separate from Area 51
   source: In Plain Sight
   location: ch13:20099-20218
+  quote: which is a much-rumoured but never officially confirmed secret facility supposedly
+    located near but separate from Area 51
   claim_id: bc25a681-ad28-4474-8f53-4f79abfec4c5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc25a681-ad28-4474-8f53-4f79abfec4c5
@@ -239,6 +276,7 @@ references:
 - text: Site 4 (S-4) is adjacent to Papoose Lake, south of Area 51
   source: In Plain Sight
   location: ch13:20906-20945
+  quote: adjacent to Papoose Lake south of Area 51
   claim_id: f3ddf5dc-b5c0-45ba-b8ca-dd981117548c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f3ddf5dc-b5c0-45ba-b8ca-dd981117548c
@@ -247,6 +285,9 @@ references:
     Airlines
   source: In Plain Sight
   location: ch13:22336-22497
+  quote: Fruehauf worked at Area 51 for six years from 1979 through to 1985, commuting
+    each day from Las Vegas to the desert site on a private charter flight named Janet
+    Airlines.
   claim_id: 286a93a6-db74-4a2b-b916-5522fb82ba4b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-286a93a6-db74-4a2b-b916-5522fb82ba4b
@@ -255,6 +296,9 @@ references:
     Area 51
   source: In Plain Sight
   location: ch13:22507-22707
+  quote: Fruehauf says he noticed a regular group of scientists and military officials
+    who would board a bus to a facility he knew to be even more secretive than Area
+    51. He knew its codename was Site Four, S-4.
   claim_id: 2d47c79b-2aec-4f4b-97cf-682a646598e1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2d47c79b-2aec-4f4b-97cf-682a646598e1
@@ -263,6 +307,10 @@ references:
     737 and being bussed off separately
   source: In Plain Sight
   location: ch13:22711-22981
+  quote: '''We knew about S-4 but we didn''t know what they did,'' he says. ''All
+    we knew was there was certain people that got on the 737 in the morning and when
+    we got to Area 51, they were taken off in a different direction in a bus and we
+    went on to the north going up towards the hangars.'''
   claim_id: 9fb4c531-9333-4d72-acb0-4399ae22701b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9fb4c531-9333-4d72-acb0-4399ae22701b
@@ -271,6 +319,9 @@ references:
     account believable
   source: In Plain Sight
   location: ch13:22991-23149
+  quote: Lazar was never at Area 51 at the same time as Fruehauf, but Fruehauf said
+    Lazar's account was very accurate. 'He sounded totally believable to me,' Fruehauf
+    said.
   claim_id: 72b4ac21-be05-4071-b16e-19dd070530cc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72b4ac21-be05-4071-b16e-19dd070530cc
@@ -278,6 +329,7 @@ references:
 - text: Fruehauf said he knew witnesses who saw Lazar at Area 51
   source: In Plain Sight
   location: ch13:23155-23221
+  quote: He also claimed he knew witnesses who saw Lazar somewhere at Area 51.
   claim_id: 0d3a2ac4-92fc-43eb-a20d-f93256be5cff
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d3a2ac4-92fc-43eb-a20d-f93256be5cff
@@ -285,6 +337,8 @@ references:
 - text: Jeremy Corbell found a witness who Lazar said vetted him for Area 51 clearance
   source: In Plain Sight
   location: ch13:24124-24222
+  quote: Filmmaker Jeremy Corbell also found a witness whom Lazar said vetted him
+    for his Area 51 security clearance.
   claim_id: 0d3f353e-2e00-45ff-945d-832286061739
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d3f353e-2e00-45ff-945d-832286061739
@@ -293,6 +347,12 @@ references:
     near Site 4
   source: In Plain Sight
   location: ch13:21211-21839
+  quote: another Area 51 source of his went treasure-hunting near where Lazar said
+    the mythical S-4 site was located, a 30-minute south-westerly drive from the main
+    Area 51 base... 'there were a handful of black clad security guys with weapons
+    wanting to know, "What are you doing here? Let's see some ID,"' Goodall said.
+    He said what struck his source the most was that the security men did not arrive
+    by vehicle, yet there was no evidence of any building or tunnel they came from.
   claim_id: c12eaf28-ca0e-4d40-8c76-c4bacd9ffdbf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c12eaf28-ca0e-4d40-8c76-c4bacd9ffdbf
@@ -300,6 +360,8 @@ references:
 - text: Harry Reid was the senator of Nevada, the state that housed Area 51
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:18956-19067
+  quote: He was also the senator of the state that housed Area 51, and that came with
+    insider knowledge that piqued his curiosity.
   claim_id: 51a26607-4e81-4844-ac34-1800c58ac7df
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-51a26607-4e81-4844-ac34-1800c58ac7df
@@ -307,6 +369,9 @@ references:
 - text: Reid visited the Area 51 air force base during his Senate term
   source: In Plain Sight
   location: ch17:1865-2092
+  quote: One of the secret sites he visited during his term was the Area 51 air force
+    base in his Nevada home state, the scene of so much conspiratorial speculation
+    about strange glowing craft and science-fiction-style future aerospace technology.
   claim_id: 6dfca8a6-37a7-4f2f-8bcb-657066ceac80
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6dfca8a6-37a7-4f2f-8bcb-657066ceac80
@@ -314,6 +379,8 @@ references:
 - text: Bill Clinton had his aides research Area 51 to check for aliens
   source: In Plain Sight
   location: ch14:2073-2187
+  quote: President Clinton has also admitted that he had his aides research Area 51,
+    'to make sure there was no alien down there'.
   claim_id: a85aa7ce-bc27-482a-90eb-42fc1434d3e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a85aa7ce-bc27-482a-90eb-42fc1434d3e7
@@ -352,6 +419,10 @@ references:
     files
   source: In Plain Sight
   location: ch18:4328-4618
+  quote: Jimmy launched with, 'If I was the president . . . the moment I was inaugurated,
+    my hand would still be hot from touching the Bible, and I would immediately race
+    to wherever they hold the files about Area 51 and UFOs. And I would go through
+    everything to find out what happened. Did you do that?'
   claim_id: 00ba2512-e139-4c68-a46f-32fb900c3144
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-00ba2512-e139-4c68-a46f-32fb900c3144
@@ -359,6 +430,9 @@ references:
 - text: Hillary Clinton said she would consider a taskforce to investigate Area 51
   source: In Plain Sight
   location: ch20:17299-17522
+  quote: As the campaign rolled on, Hillary Clinton also made no secret of the fact
+    that, if she became president, she would consider a taskforce to investigate the
+    mysterious Area 51 military base in Nevada, long linked to UFO/UAP conspiracies.
   claim_id: 81af1730-3dcc-4557-afbb-7e88fd998e89
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-81af1730-3dcc-4557-afbb-7e88fd998e89
@@ -376,6 +450,11 @@ references:
 - text: DeLonge camped near Area 51 near Tonopah before quitting Blink-182
   source: In Plain Sight
   location: ch18:6005-6330
+  quote: DeLonge does not put an exact date on an event that convinced him the phenomenon
+    was real but sometime before quitting the band, he camped out with two friends
+    near the secret Area 51 base in Nevada. It was late on a chilly desert night,
+    somewhere north of a small town named Tonopah, which sits midway between Las Vegas
+    and Reno.
   claim_id: 7e3231c7-ddbc-4170-b0aa-478cead09427
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e3231c7-ddbc-4170-b0aa-478cead09427
@@ -383,6 +462,11 @@ references:
 - text: DeLonge described being taken through a secure bunker at Area 51
   source: In Plain Sight
   location: ch18:17134-17467
+  quote: 'He says he was invited back a second time, this time to a secure concrete
+    bunker actually inside Area 51. He says he went through four layers of security:
+    guns, electronic code entry systems, hallways with speakers playing ''white noise,
+    and a series of solid doors flanking my view, each with rotary locks and not a
+    single window in sight''.'
   claim_id: 5aedd31b-47ee-4ec2-9190-c10a67c2595d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5aedd31b-47ee-4ec2-9190-c10a67c2595d
@@ -391,6 +475,9 @@ references:
     guards
   source: In Plain Sight
   location: ch15:13052-13278
+  quote: Amusingly, like so many before him, Davis also admits driving around the
+    border of the secretive Area 51 government facility in the Nevada desert for a
+    peek, provoking the security guards from Wackenhut security to rumble his car.
   claim_id: 57110c7c-a91b-4849-a9c3-aa7a545783fb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-57110c7c-a91b-4849-a9c3-aa7a545783fb
@@ -455,6 +542,10 @@ references:
     Lake and Dreamland
   source: In Plain Sight
   location: ch14:10221-10483
+  quote: It was a July 1991 security advisory, listing a series of codenames and command
+    locations in and around the massive Nellis Air Force Base in the Nevada desert,
+    which includes within its boundaries the notorious super-secret Area 51 sites
+    known as Groom Lake and Dreamland.
   claim_id: a7fa4ed4-0064-4a6d-911a-3df81f8c88d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a7fa4ed4-0064-4a6d-911a-3df81f8c88d8

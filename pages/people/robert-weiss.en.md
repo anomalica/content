@@ -65,6 +65,8 @@ references:
     Skunk Works until 2019.
   source: In Plain Sight
   location: ch18:16627-16704
+  quote: '...Rob Weiss, the Lockheed executive vice-president and GM of Skunk Works
+    until 2019.'
   claim_id: 6f56908d-013c-498a-b193-4d2489034a3b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6f56908d-013c-498a-b193-4d2489034a3b
@@ -73,6 +75,11 @@ references:
     DeLonge, two US Air Force generals, and Weiss.
   source: In Plain Sight
   location: ch20:4492-4853
+  quote: 'Amidst them was a smoking gun that lent strong support to DeLonge''s extraordinary
+    claims: a string of exchanges between Podesta and DeLonge, revealing plans for
+    a Google Hangout meeting between DeLonge, two US Air Force generals and Rob Weiss,
+    the Lockheed Martin executive vice-president and general manager of its advanced
+    development programs known as Skunk Works.'
   claim_id: 541e7b0f-e70b-4f52-802b-a63c58b9c921
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-541e7b0f-e70b-4f52-802b-a63c58b9c921
@@ -80,6 +87,9 @@ references:
 - text: Proposed attendee list for the Google Hangout meeting.
   source: In Plain Sight
   location: 29-31
+  quote: The other meeting attendees were listed as DeLonge, Podesta, Skunk Works'
+    boss Rob Weiss, an assistant to the Hillary Clinton campaign Milia Fisher, and
+    retired Major General Michael Carey.
   claim_id: ba26da13-3d8c-4159-b75e-d3d9da7ee769
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba26da13-3d8c-4159-b75e-d3d9da7ee769
@@ -88,6 +98,10 @@ references:
     campaign manager, and two retired Air Force generals, discussing UAP.
   source: In Plain Sight
   location: ch20:10178-10455
+  quote: they revealed beyond any doubt whatsoever that punk rock star Tom DeLonge
+    truly was in contact with one of America's most senior private aerospace chief
+    executives, a campaign manager for Hillary Clinton, and two very senior recently
+    retired air force generals – and UAPs were discussed
   claim_id: af2a5199-eea9-4b16-b522-84f8a0533deb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af2a5199-eea9-4b16-b522-84f8a0533deb
@@ -106,6 +120,9 @@ references:
 - text: Coulthart says it is a fair bet the executive DeLonge met was Weiss.
   source: In Plain Sight
   location: ch18:16530-16704
+  quote: It is also a fair bet that the executive whom DeLonge subsequently met at
+    the families event was Rob Weiss, the Lockheed executive vice-president and GM
+    of Skunk Works until 2019.
   claim_id: b598b750-4b72-4858-ba32-3b0989f6df0c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b598b750-4b72-4858-ba32-3b0989f6df0c
@@ -113,6 +130,9 @@ references:
 - text: Weiss was probably the executive DeLonge called 'BossMan'.
   source: In Plain Sight
   location: ch20:4860-5039
+  quote: Weiss was probably BossMan, the executive with whom DeLonge claims to have
+    had his one-on-one chat discussing the potential disclosure of the US government's
+    purported secret UAP program.
   claim_id: 62ab67fe-a75a-486b-9791-6af6f69bf5e5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-62ab67fe-a75a-486b-9791-6af6f69bf5e5
@@ -121,6 +141,11 @@ references:
     project.'
   source: In Plain Sight
   location: ch18:18088-18422
+  quote: DeLonge admits that when the executive he called 'BossMan' (probably Skunk
+    Work's then General Manager Rob Weiss) walked into the meeting, he was told, 'We
+    cannot be involved in any type of project whatsoever that has this topic associated
+    with it, specifically because there's never been any evidence whatsoever that
+    this stuff even exists.'
   claim_id: 2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2aca8626-cb7c-4a08-8f91-2d6b1b8cabe2
@@ -128,6 +153,12 @@ references:
 - text: DeLonge invoked Edgar Mitchell and asked for time to address credibility issues.
   source: In Plain Sight
   location: ch18:18434-18833
+  quote: The way DeLonge tells it, he told BossMan/Weiss, 'If Edgar Allen Mitchell
+    – the sixth man to walk on the Moon – is out there telling every kid in the world
+    that this topic is real, then we have a problem. But that's okay, we don't need
+    to talk about this subject, or include this information, we just need to address
+    these credibility issues at some point. But give me your time, please, to hear
+    me out.'
   claim_id: 5469aa79-f093-4aea-a702-02c08b60e360
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5469aa79-f093-4aea-a702-02c08b60e360
@@ -135,6 +166,8 @@ references:
 - text: DeLonge asked for a five-minute meeting alone with 'BossMan'.
   source: In Plain Sight
   location: ch18:18841-18982
+  quote: He then asked for a five-minute meeting alone with the BossMan and it was
+    agreed that all the other executives and engineers would leave the room.
   claim_id: 186d086e-269e-41b8-81b1-756accd7391a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-186d086e-269e-41b8-81b1-756accd7391a
@@ -143,6 +176,11 @@ references:
     was not naive to the topic.
   source: In Plain Sight
   location: ch18:19425-19798
+  quote: Deep inside this concrete bunker in the desert, with everyone else out of
+    the room, DeLonge sat two feet from the boss in a suit and explained that he understood
+    the national security implications about UAPs, telling BossMan, 'I am not naïve
+    to the topic. I think if you hear me out you are going to see that there is merit
+    in what I am about to propose.'
   claim_id: 75ee8e19-8c01-4976-ba60-9440b2bb7b17
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-75ee8e19-8c01-4976-ba60-9440b2bb7b17
@@ -151,6 +189,9 @@ references:
     the idea UFOs/UAP might be real.
   source: In Plain Sight
   location: ch18:19808-19973
+  quote: DeLonge told him, 'Over the past thirty years there's been a program to indoctrinate
+    people to the idea that this [UFOs/UAPs] might be real. But the problem is, all
+    the you...
   claim_id: 50fc2dd4-d7dd-45db-8a10-e874e56e8830
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-50fc2dd4-d7dd-45db-8a10-e874e56e8830
@@ -159,6 +200,8 @@ references:
     regarding UAP.
   source: In Plain Sight
   location: ch18:20290-20384
+  quote: DeLonge also claims he told BossMan he knew about ‘some bad things that have
+    happened on this subject’.
   claim_id: 1c0a9def-96f1-4822-bae6-362c7f093c0f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1c0a9def-96f1-4822-bae6-362c7f093c0f
@@ -166,6 +209,8 @@ references:
 - text: Weiss demanded to know what kind of bad things DeLonge meant.
   source: In Plain Sight
   location: ch18:20394-20487
+  quote: He says BossMan demanded to know, ‘What kind of bad things has the government
+    done with this subject?’
   claim_id: 6c577b93-42d1-4808-9484-ffec5e9925c5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6c577b93-42d1-4808-9484-ffec5e9925c5
@@ -173,6 +218,9 @@ references:
 - text: DeLonge said he would need advisers to guide his disclosure work.
   source: In Plain Sight
   location: ch18:20577-20747
+  quote: ‘If you allow me to do this, what I am trying to do then I am going to ask
+    you for some help. I need advisers. I need people to help guide me so I don’t
+    keep disinforming people’.
   claim_id: 3d517f13-3bf3-40ef-a4a6-1bdef8cf643b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3d517f13-3bf3-40ef-a4a6-1bdef8cf643b
@@ -181,6 +229,7 @@ references:
     gatekeepers.
   source: In Plain Sight
   location: ch18:20758-20797
+  quote: DeLonge says that was the breakthrough point.
   claim_id: b6ac7585-c645-4c09-9c60-e7861caf8963
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b6ac7585-c645-4c09-9c60-e7861caf8963
@@ -188,6 +237,10 @@ references:
 - text: DeLonge says things moved quickly for his project in the following months.
   source: In Plain Sight
   location: ch18:18989-19264
+  quote: '''Now, I cannot tell you what I said to this man in that meeting, and I
+    cannot tell you about the hour-long conversation I had with the other two executives
+    right afterward. But I can say that over the next few months things started to
+    go lightspeed for this project,'' DeLonge says.'
   claim_id: 9c91e433-c606-45fe-a914-a76f86b34b64
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9c91e433-c606-45fe-a914-a76f86b34b64
@@ -196,6 +249,9 @@ references:
     officials, NASA officials, and White House officials.
   source: In Plain Sight
   location: ch18:21797-22035
+  quote: DeLonge claims that within two weeks of that meeting he was introduced to
+    senior top brass from across the military, including US Air Force generals, intelligence
+    officials, high-ranking NASA bureaucrats and senior officials in the White House.
   claim_id: 271deefa-c35a-4e99-ab78-659455e671d2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-271deefa-c35a-4e99-ab78-659455e671d2

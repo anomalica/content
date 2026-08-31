@@ -41,6 +41,8 @@ references:
     the Babalon Working
   source: Dark Mission
   location: ch12:169229-169373
+  quote: Fig. 5-19 - L. Ron Hubbard, Parsons “magical” partner in the so-called “Babalon
+    Working,” during his service in naval intelligence in World War II.
   claim_id: ddab5ae8-7296-41f6-86dc-4278233fe0f3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ddab5ae8-7296-41f6-86dc-4278233fe0f3
@@ -48,6 +50,9 @@ references:
 - text: A 1940 memo indicates Parsons' occult activities drew FBI and ONI scrutiny
   source: Dark Mission
   location: ch5:20181-20378
+  quote: According to a hand written memo obtained under the Freedom of Information
+    Act, Parsons' occult activities had come under scrutiny of the FBI and the Office
+    of Naval Intelligence (ONI) as early as 1940.
   claim_id: da5e1265-1c04-4fad-8bc8-f328d3811c89
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-da5e1265-1c04-4fad-8bc8-f328d3811c89
@@ -56,6 +61,8 @@ references:
     Scientists group
   source: Dark Mission
   location: ch5:22398-22509
+  quote: An FBI memo from the period also indicates that the Office of Naval Intelligence
+    had "an informant" inside the group.
   claim_id: a14b5e6d-6cbc-4ddb-824d-8fb17165a5bc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a14b5e6d-6cbc-4ddb-824d-8fb17165a5bc
@@ -64,6 +71,8 @@ references:
     the OTO/FAS
   source: Dark Mission
   location: ch5:22842-22949
+  quote: After seeing the documentation supplied to me by the Church of Scientology,
+    I find the premise a plausible one.
   claim_id: 630b43e8-dd36-4538-8c53-5db1a973caa7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-630b43e8-dd36-4538-8c53-5db1a973caa7
@@ -72,6 +81,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch11:9668-9859
+  quote: Talman and Friend met three days later in the presence of six men from the
+    Central Intelligence Agency and a representative of the office of Naval Intelligence,
+    and they went over the entire case.
   claim_id: ff816bfd-add8-439e-819d-46ed876652b5
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ff816bfd-add8-439e-819d-46ed876652b5
@@ -79,6 +91,9 @@ references:
 - text: Christian Lambright filed a FOIA request with ONI over the Nimitz encounter
   source: In Plain Sight
   location: ch22:19078-19280
+  quote: In October 2019, researcher Christian Lambright made a Freedom of Information
+    Act request to the US Navy’s Office of Naval Intelligence (ONI), seeking records
+    relating to the USS Nimitz Tic Tac UAP encounter.
   claim_id: 9303c476-64f9-4867-8047-a925e45064f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9303c476-64f9-4867-8047-a925e45064f1
@@ -86,6 +101,8 @@ references:
 - text: Chierici's account confirmed ONI investigated the Nimitz encounter
   source: In Plain Sight
   location: ch22:19525-19603
+  quote: This confirmed ONI had conducted its own investigation and he asked for those
+    records.
   claim_id: 2c17b620-697b-4571-84f4-995bee4388f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2c17b620-697b-4571-84f4-995bee4388f7
@@ -93,6 +110,9 @@ references:
 - text: ONI admitted holding Top Secret records and a Secret video on the Nimitz incident
   source: In Plain Sight
   location: ch34:48917-49107
+  quote: Paul Dean, 'Office of Naval Intelligence (ONI) Admits to "Top Secret" Records
+    and "Secret" Video from USS Nimitz "Tic Tac" UFO Incident', UFOs – Documenting
+    The Evidence Blog, 8 January 2020.
   claim_id: 8e2b24e7-dcc8-4172-8622-c937c405a63d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8e2b24e7-dcc8-4172-8622-c937c405a63d
@@ -101,6 +121,10 @@ references:
     in 2019
   source: In Plain Sight
   location: ch22:12208-12460
+  quote: US Senators were also given a classified briefing by the Pentagon (including
+    the Office of Naval Intelligence) about the UAV sightings; there were multiple
+    requests from members of key Congressional oversight committees for more information
+    throughout 2019.
   claim_id: b43bd03e-c10b-46de-98b5-d4b8bc9b54f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b43bd03e-c10b-46de-98b5-d4b8bc9b54f1
@@ -109,6 +133,9 @@ references:
     and Congress
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:5277-5493
+  quote: In 2017, at the time we met, I was an unpaid consultant for the Office of
+    Naval Intelligence, hoping to still contribute in some way after retiring from
+    full-time work on national security issues in the Pentagon and Congress.
   claim_id: 133a35c0-c743-4489-a717-4db5420c0bfd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-133a35c0-c743-4489-a717-4db5420c0bfd
@@ -116,6 +143,9 @@ references:
 - text: Stratton's 32-year military career culminated at ONI
   source: In Plain Sight
   location: ch30:12162-12350
+  quote: Formerly in the US public service's Senior Executive Service, Stratton was
+    highly decorated for his 32 years of service with different arms of the US military
+    culminating in his work with ONI.
   claim_id: b370ad7f-8e35-426b-aef7-a41e8e220176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b370ad7f-8e35-426b-aef7-a41e8e220176

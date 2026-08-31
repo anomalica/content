@@ -132,6 +132,8 @@ references:
     and reverse-engineering nonhuman craft'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:9459-9591
+  quote: I learned the larger program is referred to as the Legacy Program and involves
+    various elements of the US government and US defense contractors.
   claim_id: 7a253487-59d8-499a-acae-8cf6493d00e7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7a253487-59d8-499a-acae-8cf6493d00e7
@@ -139,6 +141,7 @@ references:
 - text: The program and the wider UAP issue date to 1947
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:15800-15859
+  quote: Since the Legacy Program and the UAP issue really began in 1947
   claim_id: 99268e97-612e-42a9-a685-e15f713337df
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-99268e97-612e-42a9-a685-e15f713337df
@@ -146,6 +149,7 @@ references:
 - text: Elizondo calls it the most 'black' program he knows of
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:46645-46683
+  quote: Nothing is more black than the Legacy Program.
   claim_id: 94be4e69-8337-46a2-8e30-804a443f1900
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-94be4e69-8337-46a2-8e30-804a443f1900
@@ -153,6 +157,9 @@ references:
 - text: Eric Davis briefed US military branches on the program's UAP efforts
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:12870-13096
+  quote: Eric attended several senior-level meetings, to which I was invited, with
+    various branches of the US military. During these meetings, Eric detailed the
+    Legacy Program’s long-running efforts involving UAP.
   claim_id: 5d833c62-a94d-4352-bdd0-865d9762b3c4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5d833c62-a94d-4352-bdd0-865d9762b3c4
@@ -283,6 +290,9 @@ references:
 - text: Senior officials told Elizondo aerospace companies were involved
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:4460-4622
+  quote: Senior officials told me continuously and confidentially that big aerospace
+    companies have been part of the Legacy Program to retrieve and reverse-engineer
+    crash materials.
   claim_id: 8f7d95ae-e7eb-464e-84ea-4ad3cd9d92cd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8f7d95ae-e7eb-464e-84ea-4ad3cd9d92cd
@@ -291,6 +301,9 @@ references:
     Systems, Aerospace Corporation'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:4633-4853
+  quote: The big names included Lockheed Martin, TRW, McDonnell Douglas, Northrop
+    Grumman, Boeing, Raytheon, BAE Systems, and the Aerospace Corporation, all of
+    which have long been principal members of the US military-industrial complex.
   claim_id: a7f3a152-7714-45c3-8e1e-ff2cbc757810
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a7f3a152-7714-45c3-8e1e-ff2cbc757810
@@ -298,6 +311,9 @@ references:
 - text: Monsanto, absorbed by Bayer in 2018, possibly involved with biologics
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:4862-5021
+  quote: I was also told that Monsanto, a biotechnology corporation absorbed by Bayer
+    in 2018, may have historically been involved, most likely dealing with biological
+    specimens.
   claim_id: 284b3344-9ff8-4432-bace-3eb223d2c0e3
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-284b3344-9ff8-4432-bace-3eb223d2c0e3
@@ -305,6 +321,9 @@ references:
 - text: A contractor reported to hold nonhuman-origin materials
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:109-297
+  quote: We were told specifically that a defense contractor, associated with the
+    Legacy Program, was in possession of UAP materials of nonhuman origin, made by
+    some civilization from some distant planet.
   claim_id: 047e1054-b371-4755-b426-1fe3856693ef
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-047e1054-b371-4755-b426-1fe3856693ef
@@ -312,6 +331,8 @@ references:
 - text: Stratton contacted the contractor, which acknowledged possession
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:305-409
+  quote: When Jay went to inquire for us, the contractor acknowledged that, yes, they
+    were in possession of this material.
   claim_id: 3e5c4eb3-de69-4a0b-9bf1-329dbaaa205c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3e5c4eb3-de69-4a0b-9bf1-329dbaaa205c
@@ -319,6 +340,7 @@ references:
 - text: 'Elizondo: the US Air Force long a key player'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:1489-1556
+  quote: We now knew the Air Force had long been a key player in the Legacy efforts
   claim_id: 1a956a44-71ba-4f3c-8c42-924b3343aab9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1a956a44-71ba-4f3c-8c42-924b3343aab9
@@ -326,6 +348,8 @@ references:
 - text: The program blocked Congress-appropriated UAPTF funding
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:26232-26383
+  quote: the powers that be, took their pushback to the next level and somehow managed
+    to block the funding that had been appropriated to the UAP Task Force by Congress
   claim_id: cc27e93e-f606-49df-8e50-bb078b808ffc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cc27e93e-f606-49df-8e50-bb078b808ffc
@@ -333,6 +357,9 @@ references:
 - text: The program created bureaucratic hurdles for the task force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:6381-6592
+  quote: From the moment the UAP Task Force became official, the Legacy Program started
+    quietly pushing back on Jay, behind the scenes, creating one bureaucratic hurdle
+    after another for him, the task force, and everyone involved.
   claim_id: c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c3cbf6ce-a797-41fb-aecb-9bd8a0dcb20e
@@ -340,6 +367,9 @@ references:
 - text: Lacatski ran the official program; Legacy Program worked at cross-purposes
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:45975-46127
+  quote: Theoretically, Jim Lacatski and his team ran the US’s official program on
+    UAP, but at the same time the Legacy Program was working at cross-purposes to
+    ours.
   claim_id: eeca7ef6-97ca-42ac-a12f-bedc39718ed6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-eeca7ef6-97ca-42ac-a12f-bedc39718ed6
@@ -347,6 +377,7 @@ references:
 - text: Elizondo wanted a Mattis letter to access materials
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:22036-22099
+  quote: I wanted a letter to secure access to the Legacy Program’s UAP materials.
   claim_id: 87872273-febe-43e4-93c2-b0827b7bb85d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-87872273-febe-43e4-93c2-b0827b7bb85d
@@ -362,6 +393,9 @@ references:
 - text: Program held off-world advanced technology, unknown to officials
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch28:7364-7573
+  quote: All the while, the Legacy Program existed in the shadows, in possession of
+    advanced technology made off-world by nonhuman intelligence, but seemingly no
+    elected officials and no one at the Pentagon knew about it.
   claim_id: a8344326-d848-4f7b-bef1-06ec4874a40a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a8344326-d848-4f7b-bef1-06ec4874a40a
@@ -369,6 +403,8 @@ references:
 - text: Grusch told Congress and an inspector general
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:1074-1162
+  quote: Not only did Dave tell Congress and the inspector general what he knew about
+    the Legacy Program
   claim_id: a62769f4-0642-4490-a508-8801063f88b9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a62769f4-0642-4490-a508-8801063f88b9
@@ -376,6 +412,8 @@ references:
 - text: Grusch gave public interviews about the program
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:1175-1252
+  quote: he also went public and did a series of interviews telling the world what
+    he knew
   claim_id: 2c5dda95-d195-4633-8565-c69641a7548e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2c5dda95-d195-4633-8565-c69641a7548e
@@ -383,6 +421,9 @@ references:
 - text: UAP Disclosure Act shows Congress aware of nonhuman bodies/tech
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:4211-4390
+  quote: This historic legislation proves that Congress is aware of the Legacy Program's
+    possession of nonhuman bodies and advanced technology not made here on earth and
+    not made by human beings
   claim_id: 8cb34a02-ba42-4bab-9a7d-e337f4f7b622
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8cb34a02-ba42-4bab-9a7d-e337f4f7b622
@@ -390,6 +431,11 @@ references:
 - text: Act's language stems from classified whistleblower briefings
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:4967-5333
+  quote: The language in this historic piece of legislation is a direct result of
+    whistleblowers briefing members of Congress and their staff at the classified
+    level and even under oath about the reality of nonhuman intelligence and the Legacy
+    Program's efforts to capture, collect, and reverse-engineer these vehicles of
+    nonhuman origin and, in some cases, collect nonhuman specimens
   claim_id: 5303835b-b843-4604-96e3-61a11063937d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5303835b-b843-4604-96e3-61a11063937d
@@ -397,6 +443,8 @@ references:
 - text: Mike Turner supported by contractors involved in the program
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:6791-6893
+  quote: Congressman Mike Turner, who is very much supported by the defense contractors
+    involved in the Legacy Program
   claim_id: afa4ea21-0ecc-4517-9775-3c48d57ac26a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-afa4ea21-0ecc-4517-9775-3c48d57ac26a
@@ -404,6 +452,8 @@ references:
 - text: Act bars taxpayer money on UAP matters without Congress approval
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:7282-7417
+  quote: it makes it very illegal for the Legacy Program or anyone to use taxpayers'
+    money for UAP-related matters unless it's been approved by Congress
   claim_id: 817b6454-ee77-494f-8ea4-458d3476a430
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-817b6454-ee77-494f-8ea4-458d3476a430
@@ -411,6 +461,9 @@ references:
 - text: Presidents not briefed on all details, per Puthoff and others
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:16010-16178
+  quote: As Hal mentioned once, and according to some involved in Legacy UAP, presidents
+    simply don’t have a need to know everything, and they will only temporarily be
+    in their position.
   claim_id: a630c527-4bc1-4fd5-9ed4-7441340409a4
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a630c527-4bc1-4fd5-9ed4-7441340409a4
@@ -418,6 +471,8 @@ references:
 - text: 'Elizondo: existence implies a deep government conspiracy'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:5438-5564
+  quote: The existence of the Legacy Program would mean there was a deep conspiracy
+    within the US government to keep the truth from US citizens.
   claim_id: 9e491882-ef47-48f7-9b6e-6698c2ea5c3c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9e491882-ef47-48f7-9b6e-6698c2ea5c3c
@@ -425,6 +480,8 @@ references:
 - text: 'Elizondo: such a programme would need huge resources, obscene security costs'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch21:5574-5702
+  quote: Such a program would require huge resources, not only to conduct daily operations.
+    The costs of program security alone would be obscene.
   claim_id: 6c65a745-e1f4-423c-9489-765ef3b7d2fe
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6c65a745-e1f4-423c-9489-765ef3b7d2fe

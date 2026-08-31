@@ -125,6 +125,10 @@ references:
     Laboratory
   source: In Plain Sight
   location: ch13:23810-24116
+  quote: Journalist George Knapp has convincingly rebutted official denials that Lazar
+    ever worked at Los Alamos National Laboratory in New Mexico; not only is there
+    an old news story placing him there, Lazar sneaked Knapp into the secure facility
+    and Lazar was clearly very familiar with the site and knew workers inside.
   claim_id: a2578240-b430-4934-ae53-5e9e9911ac02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a2578240-b430-4934-ae53-5e9e9911ac02

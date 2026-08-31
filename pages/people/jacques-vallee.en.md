@@ -417,6 +417,8 @@ references:
 - text: Described as a researcher, astronomer, and computer scientist
   source: American Cosmic
   location: ch1:55374-55454
+  quote: the theories of Jacques Vallee, the famous researcher, astronomer, and computer
+    scientist
   claim_id: 4782951a-45e6-406d-bad8-642de4c660c2
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-4782951a-45e6-406d-bad8-642de4c660c2
@@ -424,6 +426,8 @@ references:
 - text: Held US government clearances related to UAP investigation
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:14740-14842
+  quote: the French scientist Jacques Vallée, who had US government clearances related
+    to the investigation of UAP.
   claim_id: b5e2391d-6576-4a07-9411-2928bbfede5a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b5e2391d-6576-4a07-9411-2928bbfede5a
@@ -432,6 +436,8 @@ references:
     Blue Book papers
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:15187-15299
+  quote: As a young researcher, Vallée worked with and organized the papers of Dr.
+    Hynek of the Air Force’s Project Blue Book.
   claim_id: 2ae82336-18b3-428b-8487-563fb1148e94
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2ae82336-18b3-428b-8487-563fb1148e94
@@ -450,6 +456,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:13508-13686
+  quote: Many astronomers must have known what I knew from my days at Paris Observatory,
+    namely that we were tracking unidentified objects, and even photographing them.
+    There were films, too.
   claim_id: b16b5a99-43cd-45a9-863c-1e214207b48b
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b16b5a99-43cd-45a9-863c-1e214207b48b
@@ -459,6 +468,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:6990-7132
+  quote: In 1964 I had established that landings tended to occur in desolate places,
+    a fact that was first apparent in the computer analysis of French cases.
   claim_id: df2ccd7f-09d6-421e-af33-cac309ed9c51
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-df2ccd7f-09d6-421e-af33-cac309ed9c51
@@ -467,6 +478,7 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:7139-7192
+  quote: Allen Hynek and I later verified it, using Air Force data.
   claim_id: 59967eae-787b-4862-8539-e609d9091d19
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-59967eae-787b-4862-8539-e609d9091d19
@@ -475,6 +487,7 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:20079-20135
+  quote: Dr. Hynek and I traveled to Boulder to brief the Condon group.
   claim_id: 322aa7fa-448b-4733-bfb3-52a412c4a432
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-322aa7fa-448b-4733-bfb3-52a412c4a432
@@ -484,6 +497,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:21564-21666
+  quote: the bulk of the information was provided by the three thousand punched cards
+    I had turned over to the committee.
   claim_id: 22c2126c-08ef-46c9-9d32-189799496b1c
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-22c2126c-08ef-46c9-9d32-189799496b1c
@@ -492,6 +507,7 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:21843-21885
+  quote: the team split into two violently opposed factions.
   claim_id: c4e3e9c2-059d-4c25-8eb6-495ff2e9a180
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c4e3e9c2-059d-4c25-8eb6-495ff2e9a180
@@ -500,6 +516,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:21895-22063
+  quote: An early internal memorandum was discovered and published by the minority
+    group as evidence that the Condon Committee had never intended to look seriously
+    into the UFO problem.
   claim_id: 7e227643-45b8-418a-bd63-fe08fd1a6979
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7e227643-45b8-418a-bd63-fe08fd1a6979
@@ -509,6 +528,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:22072-22234
+  quote: Publication of this document so outraged Condon that he fired the minority
+    group and ran the project without serious consideration of the possible reality
+    of the phenomenon.
   claim_id: 63438c82-52cb-4015-b5d1-c13587d358af
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-63438c82-52cb-4015-b5d1-c13587d358af
@@ -517,6 +539,10 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:2599-2853
+  quote: I apply the expression "first coverup" to the efforts that are made by men
+    in a position of authority to discourage the reporting of a UFO incident. This
+    can range from the laughter of a local deputy sheriff to intimidation of pilots
+    by their commanding officer.
   claim_id: 58d56d46-c03e-4fe2-93dc-9bf6a1a54f49
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-58d56d46-c03e-4fe2-93dc-9bf6a1a54f49
@@ -525,6 +551,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:28695-28864
+  quote: 'This is what I call the Second Coverup: the release of official "explanations"
+    that do not explain anything but which provide skeptics with an excuse for dismissing
+    the story.'
   claim_id: 9234defa-e7d9-4c53-be7a-eaa78a630ac9
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9234defa-e7d9-4c53-be7a-eaa78a630ac9
@@ -534,6 +563,10 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:5779-6095
+  quote: The very fact that a new study was recommended seems to show that any suppression
+    of information or any leaking of wild rumors was not the result of a secret military
+    policy on the UFO subject or the work of a sinister "Silence Group" but more likely
+    a product of the confusion that was evident at all levels of the bureaucracy.
   claim_id: ae57adbb-5bc6-45b2-9458-466f0bebcb3e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-ae57adbb-5bc6-45b2-9458-466f0bebcb3e
@@ -542,6 +575,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:23873-23976
+  quote: My wife and I investigated this sighting during a research trip through the
+    west of France in December 1973.
   claim_id: 6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
@@ -550,6 +585,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:23982-24136
+  quote: She went to Carteret less than ten days after the occurrence and spoke to
+    one of the witnesses and to the police investigators while I was checking other
+    information.
   claim_id: 4ed35f54-bc2b-4d27-8c3d-97cab9fd6a3e
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4ed35f54-bc2b-4d27-8c3d-97cab9fd6a3e
@@ -558,6 +596,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:26458-26633
+  quote: There is a large radar installation near Cherbourg, at a place called Mauperthuis,
+    located thirty-eight kilometers away from Carteret. The range of the antenna is
+    two hundred kilometers.
   claim_id: c7b26e81-71b9-4c52-9200-23740f1a2bc3
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-c7b26e81-71b9-4c52-9200-23740f1a2bc3
@@ -566,6 +607,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:26645-26852
+  quote: At 6:10 A.M. on that particular morning it picked up an echo in the southwest,
+    moving to the north of Cherbourg. An object flying from the direction of Carteret
+    toward Great Britain would have followed this course.
   claim_id: b9b7c443-f7af-44f3-b1d9-8cf080505043
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-b9b7c443-f7af-44f3-b1d9-8cf080505043
@@ -574,6 +618,8 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:29944-30048
+  quote: the military radar operators in Cherbourg have received orders to deny their
+    statements of the night in question
   claim_id: 9e930cec-85fe-4914-9eba-83f0b3342cef
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9e930cec-85fe-4914-9eba-83f0b3342cef
@@ -582,6 +628,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:27132-27290
+  quote: in view of the frequently observed magnetic perturbations in the vicinity
+    of a UFO, it can be hypothesized that its magnetic navigation system gave erroneous
+    indications.
   claim_id: 54885225-5a40-4e6d-9dc3-a437eb220aa2
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-54885225-5a40-4e6d-9dc3-a437eb220aa2
@@ -590,6 +639,11 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:30594-30987
+  quote: 'In March, 1974, the French Minister of Defense, Mr. Robert Galley, agreed
+    to participate in a series of radio interviews that included reports from witnesses
+    and statements by three French scientists who had studied the UFO phenomenon for
+    many years: Dr. Pierre Guerin, of the Paris Astrophysical Institute; Dr. Claude
+    Poher (head of scientific studies for the French equivalent of NASA); and myself.'
   claim_id: e866529d-cc94-4ac5-b17e-47e463cc29b8
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-e866529d-cc94-4ac5-b17e-47e463cc29b8
@@ -597,6 +651,8 @@ references:
 - text: Saw the Order of Melchizedek poster in the Paris Metro, December 1975
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:971-1087
+  quote: THE LORD IS AN EXTRATERRESTRIAL WHO HAS RETURNED IN A FLYING SAUCER. Order
+    of Melchizedek, rue Jules Valles Paris XI
   claim_id: 0c2ec170-bb92-4503-91d1-925d5e07eb80
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-0c2ec170-bb92-4503-91d1-925d5e07eb80
@@ -604,6 +660,8 @@ references:
 - text: Visited the rue Jules Valles apartment the following day
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:1791-1903
+  quote: '1 apologized for the unusual hour of my visit but she stopped me: "Do not
+    worry, you have come at the appointed time."'
   claim_id: 9da6ce9e-bae7-4983-b4ba-44c3ebf390ec
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9da6ce9e-bae7-4983-b4ba-44c3ebf390ec
@@ -612,6 +670,7 @@ references:
     dollars each
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:7109-7170
+  quote: My wife, Janine, and I went there and paid our three dollars each.
   claim_id: 83dabff6-2742-4fb3-9864-f95bc83c9b2f
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-83dabff6-2742-4fb3-9864-f95bc83c9b2f
@@ -619,6 +678,8 @@ references:
 - text: Compiled a catalogue of recurring contactee themes
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:22550-22639
+  quote: A catalogue of contactee themes, compiled from interviews I have conducted,
+    includes the following.
   claim_id: 24e76aa4-a661-4da0-b739-93160b8ec53b
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-24e76aa4-a661-4da0-b739-93160b8ec53b
@@ -626,6 +687,9 @@ references:
 - text: Observed vacant, blissful expressions similar to other movements' followers
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:8221-8384
+  quote: Sometimes in my observations of these groups I have run into the same people,
+    equally blissful under the influence of Sri Chinmoy, of Reverend Moon, and of
+    Werner Erhard.
   claim_id: 9355f614-e388-403e-b522-a53d5beab55b
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9355f614-e388-403e-b522-a53d5beab55b
@@ -634,6 +698,10 @@ references:
     Gate
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch11:22536-22816
+  quote: The similarities of this old esoteric fraternity to some of the modern UFO
+    contactee groups are quite obvious... The H.I.M. sect, for instance, speaks of
+    regeneration, transformation, and contact with a higher level in the same terms
+    as Hiram Butler
   claim_id: a443d879-4889-4745-8767-f3ac524a885a
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-a443d879-4889-4745-8767-f3ac524a885a
@@ -641,6 +709,8 @@ references:
 - text: Considered contactee groups could capitalise on public fear
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch10:42953-43097
+  quote: It is not difficult to imagine a combination of economic and social circumstances
+    under which contactee groups could capitalize on the public’s fear.
   claim_id: 8b17f265-26e2-4804-9686-1e5b1869259d
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8b17f265-26e2-4804-9686-1e5b1869259d
@@ -659,6 +729,9 @@ references:
 - text: Jim Hurtak, friend of Puharich, was involved in the Uri Geller affair
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch11:28344-28518
+  quote: He was a friend of Andrija Puharich, was deeply involved in the Uri Geller
+    affair, and claimed to be psychic himself. Not only was he psychic, but he had
+    had a number of UFO encounters
   claim_id: 2f32f54f-eec9-45af-baeb-be4d8e7568ec
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-2f32f54f-eec9-45af-baeb-be4d8e7568ec
@@ -667,6 +740,9 @@ references:
   source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
   location: ch10:39020-39190
+  quote: In some cases all three factors are gathered around a single person, and
+    then the complexity of the research becomes truly fantastic. Uri Geller, of course,
+    is a case in point.
   claim_id: 4936614d-4f89-4250-bcbc-a3e6a26718ad
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-4936614d-4f89-4250-bcbc-a3e6a26718ad
@@ -685,6 +761,11 @@ references:
 - text: 'Pasulka on Vallée''s three-part approach: physical, testimonial, social'
   source: American Cosmic
   location: ch1:55341-55734
+  quote: 'We were all well acquainted with the theories of Jacques Vallee, the famous
+    researcher, astronomer, and computer scientist. Vallee''s approach addressed three
+    aspects: the physical aspect, which Tyler represented; the testimonial aspect,
+    represented by experiencers; and the social aspect, how belief in the phenomenon
+    persists regardless of whether there is any verifiable evidence to support it.'
   claim_id: 5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
@@ -693,6 +774,8 @@ references:
 - text: James Master and Vallée counted each other as major influences and mentors
   source: American Cosmic
   location: ch2:35458-35542
+  quote: James, like me, counted Vallee as one of his major influences and mentors...Jacques
+    and James formed an instant bond.
   claim_id: 82d9d9c0-f6f3-49fc-be47-8e8566ad0cd0
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-82d9d9c0-f6f3-49fc-be47-8e8566ad0cd0
@@ -701,6 +784,8 @@ references:
     specific
   source: American Cosmic
   location: ch2:36028-36128
+  quote: “Jacques has achieved his status precisely because he has never concluded
+    the phenomenon is anything specific.”
   claim_id: 46266781-e548-4a0d-9362-4638d87d9d62
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-46266781-e548-4a0d-9362-4638d87d9d62
@@ -708,6 +793,8 @@ references:
 - text: Master on Vallée infuriating ufologists by not committing to one explanation
   source: American Cosmic
   location: ch2:36138-36286
+  quote: In fact, Jacques has infuriated most ufologists because he won’t fall in
+    line. All Jacques has ever claimed is that the phenomenon seems infinitely variable.
   claim_id: 7b24341e-2259-4cfd-990b-9d4de0abd241
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-7b24341e-2259-4cfd-990b-9d4de0abd241
@@ -715,6 +802,8 @@ references:
 - text: 'Pasulka: Vallée suggests the UFO might be a ''window'' into another dimension'
   source: American Cosmic
   location: ch2:36536-36689
+  quote: Jacques, one of the first truly innovative thinkers on the subject, suggests
+    that the UFO might not be an object, but some kind of “window” into another dimension.
   claim_id: 50ce2cee-457c-4499-bf40-160678b218c4
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-50ce2cee-457c-4499-bf40-160678b218c4
@@ -722,6 +811,9 @@ references:
 - text: Apparitions and UFOs as manifestations of a single control mechanism
   source: American Cosmic
   location: ch5:18128-18302
+  quote: Instead, he suggests an analysis based on social effects, identifying both
+    apparitions and UFOs as manifestations of a single control mechanism that works
+    like a schedule of reinforcement.
   claim_id: ab8a8888-5a46-46e2-bca5-ede2e6a58330
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-ab8a8888-5a46-46e2-bca5-ede2e6a58330
@@ -729,6 +821,11 @@ references:
 - text: Vallée's 'Morphology of Miracles' approach to Fatima
   source: American Cosmic
   location: ch5:17553-17892
+  quote: Jacques is not claiming that the apparitions are UFO events or, conversely,
+    that modern UFO events are apparitions. He ceases to define what they are, and
+    instead breaks them down into their constitutive parts, noting their patterns,
+    which he then graphs. He places these data points side by side in a table that
+    he calls a "Morphology of Miracles."
   claim_id: 961a1fb8-9a34-4e51-939a-bbd1eac2a93a
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-961a1fb8-9a34-4e51-939a-bbd1eac2a93a
@@ -736,6 +833,9 @@ references:
 - text: Fatima sightings said to begin two years earlier with UFO sightings
   source: American Cosmic
   location: ch5:20592-20747
+  quote: that the entire sequence of observations of an entity thought to be the Holy
+    Virgin had begun two years previously with a fairly classical sequence of UFO
+    sightings.
   claim_id: 3c7bffa2-1195-44a2-862b-3d62a09ca387
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-3c7bffa2-1195-44a2-862b-3d62a09ca387
@@ -743,6 +843,10 @@ references:
 - text: Vallée refuses to affirm or deny the Hills' Zeta Reticuli claim
   source: American Cosmic
   location: ch5:28101-28351
+  quote: He refuses to believe or disbelieve, for example, that Betty and Barney Hill
+    received messages from extraterrestrials from the star system of Zeta Reticuli,
+    which is what they claimed. He does not, however, dismiss the experiences as not
+    having been real.
   claim_id: 63d5f708-e73f-4572-afae-6a3c865468c9
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-63d5f708-e73f-4572-afae-6a3c865468c9
@@ -750,6 +854,8 @@ references:
 - text: Steeped in information studies, computer science, remote viewing and telepathy
   source: American Cosmic
   location: ch5:37626-37717
+  quote: He was steeped in information studies, computer science, and studies of remote
+    viewing and telepathy.
   claim_id: cee2740d-e53b-4f80-b723-82001116c617
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-cee2740d-e53b-4f80-b723-82001116c617
@@ -757,6 +863,8 @@ references:
 - text: Early ARPANET work took place within 1970s Silicon Valley
   source: American Cosmic
   location: ch5:37491-37619
+  quote: His work on ARPANET, the prototype of the internet, occurred within the rich,
+    mind-bending environment of Silicon Valley in the 1970s.
   claim_id: e3feded6-c447-4402-a565-87864b00e85b
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e3feded6-c447-4402-a565-87864b00e85b
@@ -764,6 +872,8 @@ references:
 - text: Independently verified the Colares Incidents
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:10477-10577
+  quote: The French scientist and accomplished researcher Jacques Vallée had also
+    independently verified the happenings.
   claim_id: 55351b6a-b015-4802-b42c-a00135ac39cd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-55351b6a-b015-4802-b42c-a00135ac39cd
@@ -771,6 +881,10 @@ references:
 - text: Livingston flew to California with Kelleher and Vallée to meet Nolan
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:14594-14842
+  quote: Will flew to California with a small team that included Colm Kelleher, a
+    biochemist who was the deputy administrator for BAASS during AAWSAP, and the French
+    scientist Jacques Vallée, who had US government clearances related to the investigation
+    of UAP.
   claim_id: f775c4c3-96c1-4807-ab6a-bf19bb351011
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f775c4c3-96c1-4807-ab6a-bf19bb351011
@@ -778,6 +892,7 @@ references:
 - text: Obtained material from the 1977 Council Bluffs, Iowa incident
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:5623-5673
+  quote: Vallée had obtained materials recovered from this incident.
   claim_id: f6a43ec0-9da2-4c5c-becc-3aa7e7df3654
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f6a43ec0-9da2-4c5c-becc-3aa7e7df3654
@@ -785,6 +900,8 @@ references:
 - text: Suspected the multicoloured lights came from a wobbling craft in distress
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch22:5683-5779
+  quote: He suspected the multicolored lights seen in the sky by witnesses came from
+    a wobbling craft in distress.
   claim_id: 808bfcc9-7f07-4b21-84bd-ee5532af1cd2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-808bfcc9-7f07-4b21-84bd-ee5532af1cd2
@@ -792,6 +909,8 @@ references:
 - text: Nolan and Vallée analysed a molten metal aggregate's composition
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:14224-14354
+  quote: Nolan and Vallée had explored the composition of the 1977 Iowa molten metal
+    aggregate and had uncovered another mystery for us to solve.
   claim_id: 8147bb32-bcf6-4e03-994b-d9aa809283e2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8147bb32-bcf6-4e03-994b-d9aa809283e2

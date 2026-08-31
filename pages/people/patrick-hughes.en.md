@@ -61,6 +61,10 @@ references:
     General Hughes on UFOs.
   source: In Plain Sight
   location: 2021, ch14:18395-18635
+  quote: It is to Greer's credit, for example, that he was invited back in 1998 to
+    the Defense Intelligence Agency, again with Commander Willard Miller, to brief
+    the then Director, Wilson's immediate superior, Lieutenant General Patrick Hughes,
+    'on UFOs'.
   claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
@@ -68,6 +72,8 @@ references:
 - text: The invitation to return came months after the April 1997 Pentagon meeting.
   source: In Plain Sight
   location: 2021, ch14:23223-23369
+  quote: it begs the question why Wilson’s Defense Intelligence Agency boss General
+    Patrick Hughes invited Greer and Miller back to talk about UAPs months later
   claim_id: 5b4654a8-6c9e-452e-b44b-63ff8fe007e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b4654a8-6c9e-452e-b44b-63ff8fe007e7
@@ -76,6 +82,11 @@ references:
     from his own agency.
   source: In Plain Sight
   location: 2021, ch14:18642-18969
+  quote: Greer claims that General Hughes grabbed an ET doll from the Stephen Spielberg
+    movie, which he just happened to have on his shelf, declaring, '"Well, I have
+    no doubt that what you are sharing is true, but I have made inquiries through
+    channels in my agency and nobody can tell me anything! In fact, all I have gotten
+    is this!"'21
   claim_id: bab55aa5-c543-45fd-97a8-d34f820c01e7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bab55aa5-c543-45fd-97a8-d34f820c01e7
@@ -84,6 +95,10 @@ references:
     from trusting Greer with disclosure.
   source: In Plain Sight
   location: 2021, ch14:19319-19573
+  quote: But, if his account is accurate, his public outing of both Defence Intelligence
+    Agency officials, Admiral Wilson and General Hughes, sent an unhelpful message
+    to any other official contemplating disclosure that they could not expect confidentiality
+    from Greer.
   claim_id: 6d895de9-4223-4e93-88df-575e62b21cec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6d895de9-4223-4e93-88df-575e62b21cec
@@ -92,6 +107,8 @@ references:
     they publicly admitted.
   source: In Plain Sight
   location: 2021, ch14:23376-23497
+  quote: I suspect, in actual fact, the two Defense Intelligence Agency officials
+    were more interested than they care to publicly admit.
   claim_id: 29adc409-eabf-47fb-98a1-8150112c2289
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-29adc409-eabf-47fb-98a1-8150112c2289

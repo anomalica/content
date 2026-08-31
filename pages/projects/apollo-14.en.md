@@ -79,6 +79,8 @@ references:
     with one Hasselblad camera
   source: Dark Mission
   location: ch19:36190-36332
+  quote: since there were only *two* Apollo 14 astronauts who landed on the Moon—Shepard
+    and Mitchell—and just two Hasselblad cameras (one for each of them)
   claim_id: e9bf340f-dc5d-4c26-804b-bac10119d765
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e9bf340f-dc5d-4c26-804b-bac10119d765
@@ -87,6 +89,8 @@ references:
     14
   source: Dark Mission
   location: ch19:34452-34583
+  quote: He had a secret and then-innovative inner ear surgical procedure, which allowed
+    him to ultimately command Apollo 14 to the Moon in 1971.
   claim_id: c45e53aa-b1bf-4fd7-8228-ca0408a0d814
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c45e53aa-b1bf-4fd7-8228-ca0408a0d814
@@ -95,6 +99,8 @@ references:
     on the Moon
   source: In Plain Sight
   location: ch14:8412-8552
+  quote: It was Ed Mitchell who piloted the lunar module on 5 February 1971, becoming
+    the sixth man to walk on the Moon, one of the legends of space exploration.
   claim_id: cca95f70-b9fa-4162-ae14-2adae45045ae
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cca95f70-b9fa-4162-ae14-2adae45045ae
@@ -103,6 +109,9 @@ references:
     activity
   source: Dark Mission
   location: ch19:34590-34807
+  quote: It was during the last EVA of Apollo 14, you might remember, that Alan Shepard
+    surprised NASA and the Nation on live television—and achieved a unique claim to
+    history as well—with his famous "… first golf shot on the Moon."
   claim_id: d7a03f8c-b796-4237-9c59-a16e5f9e7d78
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d7a03f8c-b796-4237-9c59-a16e5f9e7d78
@@ -110,6 +119,7 @@ references:
 - text: Shepard's live radio boast that the ball 'went miles and miles'
   source: Dark Mission
   location: ch19:36976-37014
+  quote: boasted that the ball "went miles and miles."
   claim_id: 61287fc3-812c-4c3d-8045-4a0a4dd70685
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-61287fc3-812c-4c3d-8045-4a0a4dd70685
@@ -118,6 +128,11 @@ references:
     Earth
   source: Dark Mission
   location: ch19:36582-36965
+  quote: The only other camera which could have taken this particular image was the
+    color television camera, erected by Mitchell at their landing site soon after
+    first emerging from the lunar module "Antares" two days earlier. In fact, this
+    camera did send back to Earth a running sequence of television images of this
+    event, in parallel with Shepard's live radio transmission as he took his swing
   claim_id: 2aaa09b3-55dd-4b26-86f9-311caaa19463
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2aaa09b3-55dd-4b26-86f9-311caaa19463
@@ -125,6 +140,9 @@ references:
 - text: AS14-66-9301 shows Mitchell setting up the TV camera, taken by Shepard
   source: Dark Mission
   location: ch19:39378-39574
+  quote: this (see Color Fig. 5) is a *real* Apollo 14 photograph, taken by Alan Shepard
+    of his fellow astronaut, Ed Mitchell—as Mitchell was setting up the TV camera
+    at the beginning of their first lunar EVA.
   claim_id: 83e3e30b-fe6e-4481-8925-19e8273ad710
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-83e3e30b-fe6e-4481-8925-19e8273ad710
@@ -132,6 +150,8 @@ references:
 - text: The Spaceman was a close friend of Edgar Mitchell
   source: In Plain Sight
   location: ch25:2064-2211
+  quote: What Rigney did not know was that The Spaceman, who wishes to remain anonymous,
+    was a very close friend of the legendary Apollo 14 astronaut Edgar Mitchell.
   claim_id: 5b679c65-a7fe-4865-baed-cbdeecabc868
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5b679c65-a7fe-4865-baed-cbdeecabc868
@@ -139,6 +159,8 @@ references:
 - text: Mitchell privately confided he saw anomalous objects he could not explain
   source: In Plain Sight
   location: ch25:6903-7045
+  quote: However, The Spaceman says that privately Edgar Mitchell confided he did
+    see anomalous objects during his Apollo 14 mission that he could not explain.
   claim_id: 3c60b194-cb19-4631-910b-68ce15bc269a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c60b194-cb19-4631-910b-68ce15bc269a
@@ -146,6 +168,8 @@ references:
 - text: Mitchell saw well-defined blue lights with structure behind them
   source: In Plain Sight
   location: ch25:7434-7577
+  quote: During the NASA mission, Mitchell confided to The Spaceman, he saw anomalous
+    well-defined blue lights that appeared to have a structure behind them.
   claim_id: 72407e94-cf18-498f-972b-8494ace077e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72407e94-cf18-498f-972b-8494ace077e6
@@ -153,6 +177,9 @@ references:
 - text: A photograph shows Mitchell with a blue light hovering behind him
   source: In Plain Sight
   location: ch25:7592-7792
+  quote: One was captured in a photograph taken outside the lunar module on the Moon's
+    surface, which shows Mitchell posing in the foreground and a blue light hovering
+    in the distant blackness of space behind him.
   claim_id: 43b17135-ff09-4478-bf70-f4c211ae90a0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-43b17135-ff09-4478-bf70-f4c211ae90a0
@@ -161,6 +188,8 @@ references:
     own eyes
   source: In Plain Sight
   location: ch25:7798-7934
+  quote: '''They''ll say it''s a lens artefact or a flare but it''s not,'' The Spaceman
+    said the astronaut told him. ''He told me he saw it with his own eyes.'''
   claim_id: 9685e0a5-0402-4267-b92a-228d34e216e1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9685e0a5-0402-4267-b92a-228d34e216e1
@@ -168,6 +197,9 @@ references:
 - text: Mitchell ruled out flares, reflections and glitches, confirmed on film
   source: In Plain Sight
   location: ch25:10159-10385
+  quote: But he dismissed the possibility that what he saw were lens flares, reflections
+    from inside the lunar module or camera glitches, because he saw the blue lights
+    with his own eyes and went back later to check they were there on film.
   claim_id: db38f3c5-b403-4b9c-95a2-503f3b18dea9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db38f3c5-b403-4b9c-95a2-503f3b18dea9
@@ -176,6 +208,12 @@ references:
     command module
   source: In Plain Sight
   location: ch25:8070-8503
+  quote: Another even more intriguing cluster of blue lights reported by Mitchell
+    to his friend appears on the high-resolution NASA lunar module film of the return
+    journey from the Moon, as the Apollo 14 lunar module waited for the command module
+    to rotate to allow docking. There to the left of the command module, clearly defined,
+    is a trio of blue lights grouped in what looks like a dark triangular shape against
+    the pitch black of outer space.
   claim_id: abf4ebc2-ad5a-4df2-8ea0-bbca4e2bf399
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-abf4ebc2-ad5a-4df2-8ea0-bbca4e2bf399
@@ -183,6 +221,9 @@ references:
 - text: Mitchell noted the same anomaly on two separate films from two cameras
   source: In Plain Sight
   location: ch25:8762-8965
+  quote: Anticipating claims the blue lights would be dismissed as some kind of lens
+    flare or reflection, Mitchell told The Spaceman that the same supposed glitch
+    appeared on two separate films from two separate cameras.
   claim_id: e430d028-bfdb-4680-a795-a3a1b0c79b4f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e430d028-bfdb-4680-a795-a3a1b0c79b4f
@@ -190,6 +231,8 @@ references:
 - text: The camera that photographed Mitchell on the surface remained on the Moon
   source: In Plain Sight
   location: ch25:8974-9097
+  quote: The camera that took the shot of Mitchell on the lunar surface, with the
+    mysterious blue light behind him, is still on the Moon;
   claim_id: 5bd209b4-54d0-460e-964c-2ed64e2ad452
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5bd209b4-54d0-460e-964c-2ed64e2ad452
@@ -197,6 +240,8 @@ references:
 - text: The camera that filmed the lights near the command module returned with Mitchell
   source: In Plain Sight
   location: ch25:9103-9215
+  quote: the camera that took the shot from the lunar module looking towards the command
+    module, came back to Earth with Mitchell.
   claim_id: aaa33b4f-fac4-48ff-a2bd-be6c79c47eeb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-aaa33b4f-fac4-48ff-a2bd-be6c79c47eeb
@@ -204,6 +249,8 @@ references:
 - text: No blue lights existed inside the lunar module to cause a reflection
   source: In Plain Sight
   location: ch25:9225-9337
+  quote: Moreover, there were no blue lights that could have reflected from inside
+    the lunar module; all the lights were white.
   claim_id: a310ac0c-e354-4a52-a88b-8d7ffc29679f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a310ac0c-e354-4a52-a88b-8d7ffc29679f
@@ -211,6 +258,8 @@ references:
 - text: Mitchell saw an object with a blue light before docking
   source: In Plain Sight
   location: ch37:3772-3914
+  quote: One of the objects (blue light, upper left) seen by Edgar Mitchell from Apollo
+    14's Lunar Module just before docking with the Command Module (centre).
   claim_id: 5872a681-b95e-498e-91eb-bdc06694e0a6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5872a681-b95e-498e-91eb-bdc06694e0a6
@@ -219,6 +268,8 @@ references:
     objects throughout the mission
   source: In Plain Sight
   location: ch37:3923-4041
+  quote: Mitchell always denied he saw a UFO but he told 'The Spaceman' he saw strange
+    objects throughout his lunar mission in 1971.
   claim_id: e26da3fe-db13-421b-bad6-ace2ba1dbaf3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e26da3fe-db13-421b-bad6-ace2ba1dbaf3
@@ -226,6 +277,10 @@ references:
 - text: Johnston organised a private viewing of the Apollo 14 film for Thornton Page
   source: Dark Mission
   location: ch11:78934-79231
+  quote: this was Apollo 14—after we had received the film, right after the astronauts
+    had returned to the Earth, it had been processed in the NASA photo lab. It was
+    my responsibility to put together a private viewing for the chief astronomer—that
+    was Dr. Thornton Page and his associates and contributing scientists.
   claim_id: c2dbbe9a-23d5-4e2b-9182-ccefd688b2c2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c2dbbe9a-23d5-4e2b-9182-ccefd688b2c2
@@ -233,6 +288,9 @@ references:
 - text: Johnston set up the film in a reversible sequence projector
   source: Dark Mission
   location: ch11:79243-79482
+  quote: I took the film over and set it up into what is called a ‘sequence [projector]’;
+    it’s kind of like one of the gun cameras they use in the military [but in reverse—a
+    projector]—where you can stop, freeze frame, go forward, back up and zoom in.
   claim_id: dfbf7bfb-a969-434e-9864-4aa0eb80d0c4
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-dfbf7bfb-a969-434e-9864-4aa0eb80d0c4
@@ -240,6 +298,10 @@ references:
 - text: A cluster of five or six lights was visible inside a shadowed crater
   source: Dark Mission
   location: ch11:79492-79794
+  quote: we were viewing the Apollo 14 footage, coming around the backside of the
+    Moon as we were approaching a large crater. … in the shadows in the craters, covering
+    about half the crater, this particularly large crater showed a cluster of about
+    *five or six lights down inside the rim.*
   claim_id: acb09157-919c-4118-b0d6-bfafcae36685
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-acb09157-919c-4118-b0d6-bfafcae36685
@@ -247,6 +309,11 @@ references:
 - text: The sun angle left about half the crater in shadow
   source: Dark Mission
   location: ch11:79609-79932
+  quote: Now, due to the sun angle on the front side [of the Moon] that you would
+    be looking at (you’d probably be looking at more of a crescent at that point on
+    the backside) in the shadows in the craters, covering about half the crater, this
+    particularly large crater showed a cluster of about *five or six lights down inside
+    the rim.*
   claim_id: 95c2ab93-66a5-41d7-8c38-2341af42e231
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-95c2ab93-66a5-41d7-8c38-2341af42e231
@@ -254,6 +321,8 @@ references:
 - text: Most prints in Johnston's collection were from Apollo 12 and Apollo 14
   source: Dark Mission
   location: ch11:91735-91906
+  quote: Most of the prints in Ken's priceless collection at his home... turned out
+    to be from earlier Missions—Apollo 12 and Apollo 14.
   claim_id: fd72b636-ce0d-41e3-a8d3-7c624aaee29d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fd72b636-ce0d-41e3-a8d3-7c624aaee29d
@@ -262,6 +331,9 @@ references:
     the closest of any two Apollo sites
   source: Dark Mission
   location: ch11:91959-92232
+  quote: The 12 and 14 landing sites were unique in the entire Apollo Program—in that
+    they were closer together than any other landings... Only 122 miles separated
+    the two Apollo touchdowns in Oceanus Procellarum (the 'Sea of Storms').
   claim_id: fc765127-3627-43b5-94eb-5e8f151ad58b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-fc765127-3627-43b5-94eb-5e8f151ad58b
@@ -270,6 +342,9 @@ references:
     to the naked eye
   source: Dark Mission
   location: ch11:103352-103544
+  quote: in scanning Ken's priceless Apollo 14 C-prints, he'd discovered that the
+    computer could "see" what the human eye could not—incredible geometric detail
+    in the pitch black areas, like the lunar sky.
   claim_id: 4a578788-0f16-45b5-b3ac-882c9fc2c3af
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4a578788-0f16-45b5-b3ac-882c9fc2c3af
@@ -278,6 +353,9 @@ references:
     photographs
   source: Dark Mission
   location: ch11:93570-93735
+  quote: Hoagland was then able to discover two untouched panoramas of the Apollo
+    14 landing site—each a mosaic composed of individual Hasselblad images, printed
+    on two 8x10 glossies.
   claim_id: 9420adcb-eaf3-456f-8f55-8562561b5e5f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9420adcb-eaf3-456f-8f55-8562561b5e5f
@@ -286,6 +364,9 @@ references:
     geometry across Apollo 14 and Apollo 12
   source: Dark Mission
   location: ch11:106030-106287
+  quote: Given that two Apollo missions—14 and now 12—had photographed the same crystalline
+    geometry, and apparently in generally the same location ... Hoagland was more
+    convinced than ever that his lunar dome theory was correct.
   claim_id: 9389b618-91af-4eeb-8c80-e5f38f09bba5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9389b618-91af-4eeb-8c80-e5f38f09bba5
@@ -294,6 +375,10 @@ references:
     gold visors
   source: Dark Mission
   location: ch11:150096-150388
+  quote: during the 1996 “Hoagland-Mitchell debate” with Apollo 14 astronaut Edgar
+    Mitchell on *Coast to Coast AM,* Hoagland went out of his way to consider that
+    the distant ruins might have been very faint, and might have even been further
+    filtered by the gold visors that the astronauts wore on the surface
   claim_id: 9ba2ec08-0532-4f87-8a76-5ae1f5bf505b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9ba2ec08-0532-4f87-8a76-5ae1f5bf505b

@@ -416,6 +416,8 @@ references:
     Authorization Act (NDAA).
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:25369-25481
+  quote: Every year, Congress authorizes the US defense budget in what is called the
+    National Defense Authorization Act (NDAA).
   claim_id: 8c972a50-aa73-4903-8c88-9e56bf774189
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8c972a50-aa73-4903-8c88-9e56bf774189
@@ -445,6 +447,8 @@ references:
     report to Congress.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:34980-35102
+  quote: In July 2022, AARO—the All-domain Anomaly Resolution Office—was announced.
+    This new permanent UAP office had to report to Congress.
   claim_id: 01525b0d-be99-4940-8680-5f1a02f37f9f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-01525b0d-be99-4940-8680-5f1a02f37f9f
@@ -475,6 +479,9 @@ references:
     for Mars Observer.
   source: Dark Mission
   location: ch10:14218-14400
+  quote: When Hoagland and Erol Torun began making inroads in the United States Congress
+    to make Cydonia an imaging priority for the upcoming Mars Observer program, the
+    response began to get harried.
   claim_id: 52ca4f64-97a8-4c51-90eb-0fa4cf7376b5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-52ca4f64-97a8-4c51-90eb-0fa4cf7376b5
@@ -483,6 +490,10 @@ references:
     where the Mars Orbiter Camera pointed.
   source: Dark Mission
   location: ch10:25468-25716
+  quote: Hoagland and the other researchers then began to lobby NASA and Congress
+    to target the formations, only to make an extremely unpleasant discovery. Neither
+    NASA nor Congress had anything to say about where Michael Malin had pointed his
+    Mars Orbiter camera.
   claim_id: 57cb3e6f-4d0e-4283-b0c1-e93cf741a561
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-57cb3e6f-4d0e-4283-b0c1-e93cf741a561
@@ -491,6 +502,9 @@ references:
     of the Space Exploration Initiative.
   source: Dark Mission
   location: ch19:12972-13184
+  quote: Only minutes before his public statement, Klineberg had informed Hoagland
+    and several other attendees in a private meeting in the Director's office that
+    NASA was "under intense scrutiny from Congress, because of SEI."
   claim_id: a7326206-8776-4b7b-bc60-ffd8e9860aef
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a7326206-8776-4b7b-bc60-ffd8e9860aef
@@ -498,6 +512,7 @@ references:
 - text: Harry Reid was a former member of Congress's Gang of Eight SAP oversight group.
   source: In Plain Sight
   location: ch17:22355-22416
+  quote: a former member of the Congress’ Gang of Eight SAP oversight group
   claim_id: 0031b14a-f294-4dda-8c4f-188dca549c9b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0031b14a-f294-4dda-8c4f-188dca549c9b
@@ -506,6 +521,8 @@ references:
     for a UAP study.
   source: In Plain Sight
   location: ch17:3083-3167
+  quote: Reid claims that this one incident prompted him to seek Congressional funding
+    for a study.
   claim_id: 83a84d30-8d82-4b2e-a0f5-53299d9e4bd4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-83a84d30-8d82-4b2e-a0f5-53299d9e4bd4
@@ -513,6 +530,7 @@ references:
 - text: Reid's AAWSAP funding from Congress ran out in 2012.
   source: In Plain Sight
   location: ch21:12644-12711
+  quote: While Senator Harry Reid's AAWSAP funding from Congress ran out in 2012
   claim_id: 7af441e4-f317-4f9b-a0d9-4de1baa86d55
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7af441e4-f317-4f9b-a0d9-4de1baa86d55
@@ -540,6 +558,9 @@ references:
     handling was to force Congress to act.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch28:7879-8058
+  quote: Wargaming it with Jay and Chris Mellon, we realized that the only way to
+    change the way the Pentagon was handling this was to get Congress to make them
+    change.
   claim_id: f3c2958f-f0b3-4311-a327-4f9310838396
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f3c2958f-f0b3-4311-a327-4f9310838396
@@ -547,6 +568,8 @@ references:
 - text: Mellon and Elizondo began engaging with people on Capitol Hill.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:7791-7884
+  quote: Chris Mellon and I had begun to engage people on Capitol Hill in an effort
+    to make change in Congress.
   claim_id: 7d9d2a80-2c2b-4696-b9df-4cc47766ec65
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7d9d2a80-2c2b-4696-b9df-4cc47766ec65
@@ -555,6 +578,10 @@ references:
     lobbyists since they asked Congress for nothing.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:7841-8099
+  quote: Before we headed to DC on this first trip, he coached me on the ground rules.
+    We were not *lobbyists*. That word meant one who cultivated political relationships
+    with the expectation of results favorable to one’s industry. In contrast, we would
+    not ask for anything.
   claim_id: b19d5f0f-c5f6-406e-b359-57eb5a56f31e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b19d5f0f-c5f6-406e-b359-57eb5a56f31e
@@ -562,6 +589,9 @@ references:
 - text: Their strategy began by engaging SSCI and SASC staff and members of Congress.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:1700-1896
+  quote: The first step of the strategy would be to engage key professional staff
+    on the Senate Select Committee on Intelligence (SSCI) and the Senate Armed Services
+    Committee (SASC) as well as members of Congress.
   claim_id: 4bd1a106-7164-402c-a625-ab24ffd3c681
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4bd1a106-7164-402c-a625-ab24ffd3c681
@@ -570,6 +600,9 @@ references:
     for kooks and politically risky.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:2463-2618
+  quote: Unfortunately, few in Congress had any real previous understanding of the
+    UAP issue and generally saw it as an odd “nonissue” for kooks and as politically
+    risky.
   claim_id: 53367f2d-7bac-40cb-ada3-626e5b4b0b11
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-53367f2d-7bac-40cb-ada3-626e5b4b0b11
@@ -578,6 +611,9 @@ references:
     FY2023 NDAA.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:41961-42137
+  quote: In July 2022, Congress unanimously voted for inclusion of the most historic
+    UAP legislation written at that point in the National Defense Authorization Act
+    for the fiscal year 2023.
   claim_id: e00769d7-6807-4176-8ae1-c9d1b142091c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e00769d7-6807-4176-8ae1-c9d1b142091c
@@ -586,6 +622,9 @@ references:
     UAP programme.
   source: In Plain Sight
   location: ch30:16719-16950
+  quote: It requires that Congress must be notified within 72 hours after evidence
+    has emerged of a UAP program that, '… has not been explicitly and clearly reported
+    to the congressional defense committees or the congressional intelligence committees.'
   claim_id: db4bbe47-489e-4392-8767-9af224fd0322
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db4bbe47-489e-4392-8767-9af224fd0322
@@ -594,6 +633,12 @@ references:
     special access programme.
   source: In Plain Sight
   location: ch30:17078-17485
+  quote: if those administering this program, '… conclude that the preponderance of
+    information available regarding the disclosure indicates that the observed object
+    and associated events and activities likely relate to a special access program
+    or compartmented access program that, as of the date of the disclosure, has been
+    explicitly and clearly reported …' to the relevant committee, then it does not
+    have to be disclosed.
   claim_id: 5ecf4f0f-bf3b-4cdd-bd5f-565ed739b1a8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5ecf4f0f-bf3b-4cdd-bd5f-565ed739b1a8
@@ -602,6 +647,9 @@ references:
     to Congress in a classified setting.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:36571-36822
+  quote: It also provided protection from reprisals for those who came forward with
+    their stories. This meant that anyone—civilian or military—who ever signed an
+    NDA relating to UAP would be free to speak to Congress in a classified setting.
   claim_id: 5559e17b-a453-4493-a73a-eb82a51261bb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5559e17b-a453-4493-a73a-eb82a51261bb
@@ -610,6 +658,8 @@ references:
     Assessment report.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:21824-21964
+  quote: This official government UAP report had proven so important, and of such
+    great public interest, that Congress then required it on an annual basis.
   claim_id: 4568b1c0-edab-4ce5-a0f8-871f64335663
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4568b1c0-edab-4ce5-a0f8-871f64335663
@@ -618,6 +668,8 @@ references:
     to the UAP Task Force.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:26232-26383
+  quote: the powers that be, took their pushback to the next level and somehow managed
+    to block the funding that had been appropriated to the UAP Task Force by Congress
   claim_id: cc27e93e-f606-49df-8e50-bb078b808ffc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-cc27e93e-f606-49df-8e50-bb078b808ffc
@@ -706,6 +758,8 @@ references:
     USS Nimitz encounter.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:22586-22698
+  quote: what they provided to Congress was a watered-down version of recent incidents,
+    beginning with the 2004 Nimitz case
   claim_id: 9052ad6a-5fd1-42df-a9e6-b1d9d67b9183
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9052ad6a-5fd1-42df-a9e6-b1d9d67b9183
@@ -714,6 +768,8 @@ references:
     of Congress.
   source: In Plain Sight
   location: ch22:12069-12198
+  quote: The Roosevelt’s Lieutenant Ryan Graves and other pilots were eventually summonsed
+    to give confidential briefings to members of Congress.
   claim_id: 9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9b86f8ae-64b4-467f-b27c-03f6fb6a22fb
@@ -769,6 +825,9 @@ references:
     of non-human technology.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:4211-4390
+  quote: This historic legislation proves that Congress is aware of the Legacy Program's
+    possession of nonhuman bodies and advanced technology not made here on earth and
+    not made by human beings
   claim_id: 8cb34a02-ba42-4bab-9a7d-e337f4f7b622
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8cb34a02-ba42-4bab-9a7d-e337f4f7b622

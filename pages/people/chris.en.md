@@ -109,6 +109,8 @@ references:
     Paul someone by that name was present.
   source: Surviving Death
   location: ch26:7254-7337
+  quote: She heard the name Chris, and told her sitter, Paul, that someone by that
+    name was present.
   claim_id: 013b02a6-cd44-4e35-89f5-a2a9382f3758
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-013b02a6-cd44-4e35-89f5-a2a9382f3758
@@ -117,6 +119,9 @@ references:
     Paul's girlfriend rather than Paul.
   source: Surviving Death
   location: ch26:7346-7504
+  quote: She was astonished by how specific and intimate the details were, coming
+    from Chris, mainly about Paul’s girlfriend rather than Paul, which confused her
+    even more.
   claim_id: c1dbac5a-724a-4bcb-a259-d248f0b666b6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c1dbac5a-724a-4bcb-a259-d248f0b666b6
@@ -125,6 +130,8 @@ references:
     former boyfriend.
   source: Surviving Death
   location: ch26:7510-7615
+  quote: Eventually, Paul told her that all the details were accurate, and that Chris
+    was his girlfriend’s former boyfriend.
   claim_id: e3ab2e1a-6425-42b7-b2da-c0e558d41899
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e3ab2e1a-6425-42b7-b2da-c0e558d41899
@@ -133,6 +140,8 @@ references:
     Chris died in the crash.
   source: Surviving Death
   location: ch26:7626-7702
+  quote: Paul’s girlfriend had been in the car with Chris when it crashed, and Chris
+    died.
   claim_id: 1a2960c0-514b-458d-bc45-16d8f2df76d1
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-1a2960c0-514b-458d-bc45-16d8f2df76d1
@@ -141,6 +150,7 @@ references:
     his ex-girlfriend.
   source: Surviving Death
   location: ch26:7708-7776
+  quote: Chris was giving Paul his blessing for the relationship with his ex-girlfriend.
   claim_id: 54108a60-55c9-458c-82d5-98dfffcca4f1
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-54108a60-55c9-458c-82d5-98dfffcca4f1
@@ -149,6 +159,9 @@ references:
     reading's accuracy.
   source: Surviving Death
   location: ch26:8087-8302
+  quote: I felt a chill run through my body. What was Paul telling me? That Chris
+    was coming to me from the beyond? That I was hearing from a dead person as clearly
+    as if he was right in my apartment? At that moment, I felt awe.
   claim_id: f4a6e774-86fe-449b-84f2-32193e4f179d
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f4a6e774-86fe-449b-84f2-32193e4f179d
@@ -157,6 +170,9 @@ references:
     since first waving back at her.
   source: Surviving Death
   location: ch31:20995-21154
+  quote: Chris, on the other hand, told me himself that he had been seeing her almost
+    every day for more than a year and a half, since that first time he waved back
+    at her.
   claim_id: e7c023ae-8ae4-4eaf-9612-f4ae8f1604b2
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-e7c023ae-8ae4-4eaf-9612-f4ae8f1604b2
@@ -165,6 +181,9 @@ references:
     he had learned it from her.
   source: Surviving Death
   location: ch31:21813-21997
+  quote: We finished the tour, which included hearing some history of Lois, her family,
+    and the house, which Chris learned from Lois. For a twelve-year-old, Chris was
+    an articulate purveyor of anecdote.
   claim_id: dd6dfc50-cbb4-46ed-b108-acc7af51fa41
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-dd6dfc50-cbb4-46ed-b108-acc7af51fa41
@@ -173,6 +192,8 @@ references:
     psychometric perception of the house could explain.
   source: Surviving Death
   location: ch31:22432-22566
+  quote: However, Chris (really Lois, through Chris) was including some stories about
+    Lois’s family and activities that took place outside the home.
   claim_id: 99a7177d-03e1-496f-9b5c-eaafa4adc6c2
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-99a7177d-03e1-496f-9b5c-eaafa4adc6c2
@@ -181,6 +202,9 @@ references:
     he said was Lois's favourite, to ask her questions.
   source: Surviving Death
   location: ch31:23114-23302
+  quote: We ended up in the living room and sat down in a semicircle facing Chris,
+    to ask Lois some questions. Chris was seated next to an empty easy chair he identified
+    as Lois’s favorite spot to sit.
   claim_id: 72663252-1415-4f2f-97f7-e1d422aca530
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-72663252-1415-4f2f-97f7-e1d422aca530
@@ -189,6 +213,9 @@ references:
     of trance state.
   source: Surviving Death
   location: ch31:23611-23847
+  quote: In essence, he was functioning as a medium, even though most mental mediumistic
+    interactions with ostensible deceased spirits do not involve extensive, clear,
+    two-way conversations like this one (and Chris was not in any kind of trance state).
   claim_id: f24589ca-6540-46fb-bc2a-70ae3b1ed140
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f24589ca-6540-46fb-bc2a-70ae3b1ed140
@@ -197,6 +224,8 @@ references:
     see how that was possible.
   source: Surviving Death
   location: ch31:22572-22715
+  quote: Pat had considered whether Chris had found and memorized diaries that would
+    have provided such stories, but she could not imagine how that was possible.
   claim_id: d1581fa0-3ace-4a62-b1e6-5953f95997f6
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d1581fa0-3ace-4a62-b1e6-5953f95997f6
@@ -205,6 +234,9 @@ references:
     youth, family, and house that Chris had given.
   source: Surviving Death
   location: ch31:29564-29723
+  quote: I spoke with him, and he verified the information about Lois’s youth and
+    life as true, as well as facts about the family and Lois’s house that Chris said
+    Lois provided.
   claim_id: 3b88733d-d6da-4bb0-b35e-c766072ca734
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3b88733d-d6da-4bb0-b35e-c766072ca734
@@ -213,6 +245,8 @@ references:
     made to verify it.
   source: Surviving Death
   location: ch31:29734-29867
+  quote: We had a tape of the information Chris provided from Lois, recorded when
+    we were present before any attempts were made to verify the information.
   claim_id: 6ea3e573-f570-4e06-9d02-c5ed66ec8120
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-6ea3e573-f570-4e06-9d02-c5ed66ec8120
@@ -221,6 +255,9 @@ references:
     them matching what Chris had said.
   source: Surviving Death
   location: ch31:30296-30468
+  quote: In a number of instances, as I began some of the family-related anecdotes,
+    he finished the stories for me, in a manner that corresponded to the information
+    Chris had given me.
   claim_id: 3dde9ae3-4d71-468b-a157-fbd5ca0408ff
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-3dde9ae3-4d71-468b-a157-fbd5ca0408ff
@@ -229,6 +266,8 @@ references:
     none was found.
   source: Surviving Death
   location: ch31:30472-30613
+  quote: Pat conducted even more thorough checks to see if Chris had somehow found
+    diaries or other papers Lois might have left behind. None was ever found.
   claim_id: a85671e2-fee0-457d-9542-b59a42bcb51a
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-a85671e2-fee0-457d-9542-b59a42bcb51a
@@ -237,6 +276,8 @@ references:
     the job she wanted after quitting.
   source: Surviving Death
   location: ch31:28137-28227
+  quote: “Joanna, have you really thought about the kind of job you want after you
+    quit the one you have?
   claim_id: 5989e1e6-fc87-4abc-9828-47f18aa71b67
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-5989e1e6-fc87-4abc-9828-47f18aa71b67
@@ -244,6 +285,7 @@ references:
 - text: Through Chris, Lois asked Kip Leyser how long he had been a professional dancer.
   source: Surviving Death
   location: ch31:28235-28273
+  quote: “Kip, how long were you a professional dancer?”
   claim_id: 96e034c7-6cb5-4410-8aa9-2e59f37dd328
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-96e034c7-6cb5-4410-8aa9-2e59f37dd328
@@ -252,6 +294,10 @@ references:
     for the group's experience.
   source: Surviving Death
   location: ch31:29086-29334
+  quote: We concluded that either Chris (or Lois) read our minds while we were there
+    or that Lois somehow really was present in the car with us. No matter what, telepathy
+    by either Chris or Lois would have been enough to explain this and seems a reasonable
+    interpretation.
   claim_id: 8f18dad1-6c30-4d00-8e48-1f1be1fbfacd
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-8f18dad1-6c30-4d00-8e48-1f1be1fbfacd
@@ -260,6 +306,9 @@ references:
     into Chris''s mind rather than being seen or heard directly.'
   source: Surviving Death
   location: ch31:25338-25520
+  quote: To me, this explanation made much sense. It meant that Lois was aware that
+    she was literally telling Chris’s mind what to perceive. They were not really,
+    visually, seeing or hearing Lois.
   claim_id: f9931998-42d9-430b-8538-8f733d00435e
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f9931998-42d9-430b-8538-8f733d00435e
@@ -268,6 +317,11 @@ references:
     using clairvoyance or retrocognition.
   source: Surviving Death
   location: ch31:31549-31880
+  quote: But since there were other witnesses to Lois actually manifesting visually,
+    a heavier emphasis can legitimately be placed on the former possibility rather
+    than the latter. Add to that Chris’s utter lack of any other psychic perceptions
+    or experiences, and I think we’re left with a likely apparition as opposed to
+    a one-note super-psychic.
   claim_id: d6e9a6b3-8174-4ff2-9ce6-9e8874feed92
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d6e9a6b3-8174-4ff2-9ce6-9e8874feed92
@@ -276,6 +330,9 @@ references:
     over the recurring visits.
   source: Surviving Death
   location: ch31:31890-32053
+  quote: The family members were well adjusted, got along well with one another, and
+    were seemingly without psychological issues about the unusual recurring visits
+    by this apparition.
   claim_id: d45c9907-32b1-43ba-9dc9-d7daa5237c28
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-d45c9907-32b1-43ba-9dc9-d7daa5237c28
@@ -284,6 +341,8 @@ references:
     discovered real girls.
   source: Surviving Death
   location: ch31:30621-30760
+  quote: Chris continued to see Lois on a daily basis for a while, but then lost interest
+    as he grew up and discovered (and was discovered by) real girls.
   claim_id: c64313e7-ee5e-4fc6-b542-7c3266df8aab
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-c64313e7-ee5e-4fc6-b542-7c3266df8aab
@@ -292,6 +351,8 @@ references:
     sources of information.
   source: Surviving Death
   location: ch31:31230-31362
+  quote: First, the verified information was enough under the circumstances to convince
+    me that normal sources of information could be ruled out.
   claim_id: f3f085e9-7fd0-4f27-a820-bd8c014d6ff1
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-f3f085e9-7fd0-4f27-a820-bd8c014d6ff1

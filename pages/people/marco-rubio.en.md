@@ -111,6 +111,9 @@ references:
     and all three objects remained unidentified
   source: In Plain Sight
   location: ch29:30876-31083
+  quote: Republican Senator Marco Rubio made the point that this was the first time
+    ever in NORAD's history that a decision was made to shoot-down an object over
+    American airspace and all three were still unidentifi ed.
   claim_id: 372c43d6-717d-413f-98a8-373d693cb399
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-372c43d6-717d-413f-98a8-373d693cb399
@@ -119,6 +122,9 @@ references:
     to coordinate reporting and response to unidentified objects
   source: In Plain Sight
   location: ch29:31373-31552
+  quote: and he pointed to his bipartisan eff ort with Democratic Senator Kristen
+    Gillibrand, creating an offi ce to establish a coordinated eff ort to report and
+    respond to unidentifi ed objects.
   claim_id: 4edfb886-4ae6-43e2-b9ab-4aa2363d4834
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4edfb886-4ae6-43e2-b9ab-4aa2363d4834
@@ -127,6 +133,8 @@ references:
     met with a shoot-down response
   source: In Plain Sight
   location: ch29:31561-31686
+  quote: He said that Pentagon UAP office had seen 'hundreds of cases' of airborne
+    items, which were not met with the same shoot-down response.
   claim_id: 2ecc9c6d-0dd6-4477-8f42-b5726edb040b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2ecc9c6d-0dd6-4477-8f42-b5726edb040b
@@ -135,6 +143,10 @@ references:
     information with AARO investigators and scientists
   source: In Plain Sight
   location: ch29:31886-32168
+  quote: Th e Senator also expressed his concern that the Defense Department had not
+    been sharing information on these hundreds of UAPs with the investigators and
+    scientists on the Pentagon's UAP investigations agency, AARO – the All Domain
+    Anomaly Resolution Offi ce.
   claim_id: 073c0612-c167-4edd-9bb7-bcd10f6b825e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-073c0612-c167-4edd-9bb7-bcd10f6b825e
@@ -143,6 +155,9 @@ references:
     National Defense Authorization Act 2023
   source: In Plain Sight
   location: ch30:13954-14150
+  quote: Both the former chairman of the Senate Select Committee for Intelligence,
+    Democrat Senator Mark Warner and his replacement, Republican Senator Marco Rubio,
+    strongly and publicly supported the UAP legislation.
   claim_id: 869a8653-cc65-47c0-ba8e-792f70dba6ec
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-869a8653-cc65-47c0-ba8e-792f70dba6ec
@@ -151,6 +166,8 @@ references:
     pushed for answers on unidentified objects
   source: In Plain Sight
   location: ch34:70884-71033
+  quote: Kerry Breen, 'Sen. Marco Rubio Criticises Response to Chinese Spy Balloon
+    and Pushes for Answers on Unidentified Objects', 15 Feb 2023, CBS News/CBS Mornings.
   claim_id: a05087d2-3a18-46e0-b35a-c1742a84d2a0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a05087d2-3a18-46e0-b35a-c1742a84d2a0
@@ -170,6 +187,10 @@ references:
     transparency
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:11810-12070
+  quote: Thankfully, Senator Marco Rubio, the acting chairman of the Senate Intelligence
+    Committee, was courageous enough to support this important proposal, notwithstanding
+    the inevitable mindless criticism his support would generate from those hostile
+    to the idea of transparency.
   claim_id: 2a8ba34c-485b-44c4-ae3a-33015835d877
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2a8ba34c-485b-44c4-ae3a-33015835d877
@@ -178,6 +199,8 @@ references:
     of the bill requiring a DOD UAP report
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:18300-18410
+  quote: Senator Marco Rubio of Florida, then chair of the Senate Intelligence Committee,
+    was the chief sponsor of the bill.
   claim_id: e28d610f-1ee7-4e84-a67f-232ac3e2a239
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e28d610f-1ee7-4e84-a67f-232ac3e2a239
@@ -186,6 +209,11 @@ references:
     Christopher Mellon and Luis Elizondo, to craft UAP language for the NDAA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:25733-26056
+  quote: Republican senators Roy Blunt of Missouri, Lindsey Graham of South Carolina,
+    and Marco Rubio of Florida; Democratic senators Kirsten Gillibrand of New York
+    and Martin Heinrich of Arizona; and Democratic representative Ruben Gallego of
+    Arizona all worked together to craft aggressive language, with some help from
+    Chris and me.
   claim_id: adea157c-4485-459e-9776-d1a66737c42e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-adea157c-4485-459e-9776-d1a66737c42e
@@ -194,6 +222,9 @@ references:
     Disclosure Act
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:3989-4205
+  quote: In the summer of 2023, Senate Majority Leader Chuck Schumer of New York,
+    Senator Mike Rounds of South Dakota, Senator Rubio, and Senator Gillibrand sponsored
+    the most historic UAP legislation yet, the UAP Disclosure Act
   claim_id: 1dc36bd4-3c1a-4ea3-908e-ce508321b2b9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1dc36bd4-3c1a-4ea3-908e-ce508321b2b9
@@ -224,6 +255,9 @@ references:
     smaller low-altitude objects
   source: In Plain Sight
   location: ch29:32173-32385
+  quote: '''This is about whether an adversary has developed a capability that they
+    know we''re not looking for because our systems are set up to see missiles and
+    airplanes. They''re not set up to see smaller objects at lower altitudes.'''
   claim_id: b4e19822-adfd-4a8b-8097-c5fb4c4857cd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b4e19822-adfd-4a8b-8097-c5fb4c4857cd

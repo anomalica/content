@@ -84,6 +84,9 @@ references:
 - text: Joseph McMoneagle provided intelligence support to the NSC during his career
   source: Remote Viewing Secrets
   location: ch4:1504-1683
+  quote: Joe provided professional intelligence and creative/inovative informational
+    support to the CIA, DIA, NSA, DEA, Secret Service, FBI, US Customs, the NSC, major
+    commands within the DoD
   claim_id: 085145c9-1e6e-4683-a159-d715e28154b9
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-085145c9-1e6e-4683-a159-d715e28154b9
@@ -103,6 +106,8 @@ references:
     NSC and White House
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:16034-16150
+  quote: The program managed national-level special-access programs directly for the
+    National Security Council and the White House.
   claim_id: a145b6b3-779f-4b6a-baf9-c828f48efb58
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a145b6b3-779f-4b6a-baf9-c828f48efb58
@@ -110,6 +115,8 @@ references:
 - text: Elizondo held the clearances needed to work for the White House and NSC
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:3050-3146
+  quote: I had all the necessary clearances needed to work for the White House and
+    the National Security Council.
   claim_id: b7de916b-f30e-45a9-a397-b4a1cc3f6f0c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b7de916b-f30e-45a9-a397-b4a1cc3f6f0c
@@ -118,6 +125,8 @@ references:
     House and NSC
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch37:1681-1777
+  quote: At Guantanamo Bay circa 2014, working another program for the White House
+    and National Security Council.
   claim_id: 130e491f-f171-40b4-8fd9-0b038adb9a02
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-130e491f-f171-40b4-8fd9-0b038adb9a02
@@ -126,6 +135,10 @@ references:
     on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:15556-15791
+  quote: We were making enough noise in the press that Jay was getting requests for
+    briefings from members of the White House National Security Council, who then
+    briefed Trump on some level, but I am not sure how much information they actually
+    shared.
   claim_id: af73f27e-6d01-4702-86f0-925398868a92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af73f27e-6d01-4702-86f0-925398868a92
@@ -134,6 +147,9 @@ references:
     down in February 2023
   source: In Plain Sight
   location: ch29:14878-15076
+  quote: the NSC spokesman John Kirby announced that the president had created an
+    interagency team to investigate unidentified objects in US airspace in the wake
+    of the three unidentified objects being shot down
   claim_id: dabeefe8-a5d2-4be0-952b-c08deca275d0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dabeefe8-a5d2-4be0-952b-c08deca275d0
@@ -142,6 +158,9 @@ references:
     aerial objects
   source: In Plain Sight
   location: ch29:15082-15251
+  quote: The team was tasked to study the 'broader policy implications for detection,
+    analysis and disposition of unidentified aerial objects that pose either safety
+    or security risks'
   claim_id: 3f84d51d-c04b-40a5-8de7-1f2bac3ec945
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3f84d51d-c04b-40a5-8de7-1f2bac3ec945
@@ -150,6 +169,9 @@ references:
     on 2023-02-13
   source: In Plain Sight
   location: ch34:69045-69250
+  quote: Karine Jean-Pierre, Transcript 'Press Briefing by Press Secretary Karine
+    Jean-Pierre and National Security Council Coordinator for Strategic Communications
+    John Kirby', White House Press Briefings, 13 Feb 2023.
   claim_id: 0fdbf18a-fa3c-4022-bd0d-35370d43a519
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0fdbf18a-fa3c-4022-bd0d-35370d43a519
@@ -157,6 +179,9 @@ references:
 - text: Kirby told reporters to ask the Pentagon about gun-camera footage of the shoot-downs
   source: In Plain Sight
   location: ch29:7970-8161
+  quote: When the White House National Security Council spokesman John Kirby was pressed
+    on why the jet fighters' gun camera videos could not be released, he buck-passed,
+    telling the media to ask the Pentagon
   claim_id: 51019ec9-63ef-4d6f-8d24-109a8ee9968a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-51019ec9-63ef-4d6f-8d24-109a8ee9968a

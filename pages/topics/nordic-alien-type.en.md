@@ -61,6 +61,8 @@ references:
     notably Travis Walton, 1975
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:9687-9810
+  quote: Descriptions of tall "Nordic"-type beings have been reported frequently,
+    perhaps most notably in the Travis Walton case of 1975.
   claim_id: 55b9e1c4-d59d-4560-bf18-495175f3e744
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-55b9e1c4-d59d-4560-bf18-495175f3e744
@@ -69,6 +71,8 @@ references:
     Walton (1975)
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch17:33070-33190
+  quote: These “Nordics,” for example, make an appearance in the abduction accounts
+    of Peter Khoury in 1992 and Travis Walton in 1975.
   claim_id: a713c2cb-d131-47ad-bf14-ab8d9e30b110
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-a713c2cb-d131-47ad-bf14-ab8d9e30b110
@@ -77,6 +81,8 @@ references:
     interactions
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch17:33200-33338
+  quote: they are most conspicuous in contactee accounts, in which people claim they
+    have largely benevolent interactions with humanlike, “Nordic” aliens
   claim_id: 34abe91c-b6d9-4566-a258-068adb880e11
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-34abe91c-b6d9-4566-a258-068adb880e11
@@ -85,6 +91,12 @@ references:
     case
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:19051-19503
+  quote: 'In this account we have several features that are identical to the ones
+    heralded as a breakthrough for the understanding of the alien abduction agenda
+    by Budd Hopkins in 1987: the humanoid beings, one of them apparently of the “Nordic
+    type,” involved in a genetic program that utilizes painful ova removal procedures,
+    taking place in a strange room that houses bred babies (an alien incubatorium),
+    and babies that seem weak and respond to bonding with humans.'
   claim_id: 447d0e8d-4573-418b-9986-46625fb4f064
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-447d0e8d-4573-418b-9986-46625fb4f064
@@ -93,6 +105,8 @@ references:
     and implant suggestions
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch17:33776-33913
+  quote: This bizarre case featured a “Nordic” female, complete with the frequently
+    reported hand “ball” artifact and suggestions of controlling “implants.”
   claim_id: 2c5ad927-ad1d-431f-ac85-2eaa7dab9592
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-2c5ad927-ad1d-431f-ac85-2eaa7dab9592
@@ -101,6 +115,10 @@ references:
     Maria Elodia Pretzel'
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch17:33928-34239
+  quote: Another striking example occurred during 1968 at Villa Carlos Paz in Argentina,
+    where a “Nordic” entity with a “ball” manipulating “solid light”... confronted
+    the witness Maria Elodia Pretzel, causing her to slowly fall backwards, then rise
+    again, at least twice
   claim_id: 4fc92029-9d7d-4e23-83e5-e3ed3183b8f9
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-4fc92029-9d7d-4e23-83e5-e3ed3183b8f9
@@ -108,6 +126,10 @@ references:
 - text: Credo Mutwa's description of the Wazungu beings
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch17:31326-31633
+  quote: These alien creatures are tall. Some of them are rather well built, like
+    athletes, and they have slightly slanting blue eyes and high cheekbones. And they
+    have got golden hair... their fingers are beautifully made, long and like those
+    of musicians and artists.
   claim_id: 32992201-e75a-470b-bdc0-4dfe8b34e3e0
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-32992201-e75a-470b-bdc0-4dfe8b34e3e0
@@ -115,6 +137,8 @@ references:
 - text: Bill Chalker on Mutwa's Wazungu account describing Nordic-type beings
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch17:32950-33057
+  quote: Credo Mutwa appears to be describing the Nordic type beings that have been
+    extensively reported in the UFO literature.
   claim_id: 2cf10648-c212-448f-bdb1-bd2121198def
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-2cf10648-c212-448f-bdb1-bd2121198def
@@ -123,6 +147,8 @@ references:
     entities
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch12:20744-20868
+  quote: Thompson draws parallels between the Vedic female Devas (or goddesses) and
+    UFO entities, particularly those of the "Nordic" kind.
   claim_id: 7ebed348-b570-48d3-8340-22522adefc2f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7ebed348-b570-48d3-8340-22522adefc2f
@@ -131,6 +157,9 @@ references:
     and grays
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch20:29109-29344
+  quote: Both feature tall, often long-haired and blue eyed attractive peoples with
+    striking abilities and resources (the “Tuatha” and the “Nordics”) as well as diminutive
+    beings often intent on entrapment and abduction (the “fairies” and the “grays”).
   claim_id: 7e116f5e-7573-435e-93e0-46b0c18a57c1
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-7e116f5e-7573-435e-93e0-46b0c18a57c1
@@ -138,6 +167,11 @@ references:
 - text: Bill Chalker on the Xinjiang Taklimakan mummies and Nordic-type beings
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch20:2134-2478
+  quote: I am not about to suggest that the Taklimakan mummies are in some way related
+    to the Nordic-type beings often reported in alien abduction stories. Such a possibility
+    can only be considered once a complete DNA profile of the mummies is available
+    and the biological evidence from a significant number of abduction cases provides
+    a consistent DNA profile.
   claim_id: 0c063271-9473-481b-a898-42b1ae5b0c3f
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-0c063271-9473-481b-a898-42b1ae5b0c3f
@@ -146,6 +180,10 @@ references:
     one dog-faced
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:18639-18952
+  quote: “These two disparate types claim they are ‘one people.’ The tall blonde one
+    is similar to the Nordic race, but the ‘dogfaced’ one has pointed ears, eyes with
+    large pupils, and no iris (or is it no white —Turner), longish flattened nose,
+    thin mouth, dressed in blue-grey tunic with tight banded collar and oval (?) shoes.
   claim_id: d8bd1127-1abd-428c-9dee-947ed98caa3a
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-d8bd1127-1abd-428c-9dee-947ed98caa3a
@@ -153,6 +191,8 @@ references:
 - text: Alvin Guerra's account of a reward encounter with a Nordic commander
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch15:19597-19719
+  quote: He described being "rewarded" for his cooperation with a sexual encounter
+    with the tall, blue-eyed, blond-haired "Nordic" commander.
   claim_id: 9b24f858-bc98-41d7-907b-9de816a24aaa
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-9b24f858-bc98-41d7-907b-9de816a24aaa

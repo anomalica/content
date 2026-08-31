@@ -175,6 +175,9 @@ references:
 - text: Underwood captured video footage of the Tic Tac using ATFLIR.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:8325-8496
+  quote: Navy fighter pilot Lieutenant Chad Underwood managed to capture some video
+    footage of the UAP, using Advanced Targeting Forward Looking Infrared Radar (ATFLIR
+    or FLIR for short).
   claim_id: 389db6d5-bb12-4649-904c-66c223a446f5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-389db6d5-bb12-4649-904c-66c223a446f5
@@ -274,6 +277,7 @@ references:
 - text: The object defied the crew's attempt to obtain a good radar lock.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:8606-8670
+  quote: First, the UAP defies the pilot’s attempt to get a good lock on it.
   claim_id: b786031d-3806-4731-86fd-2c2564551573
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b786031d-3806-4731-86fd-2c2564551573
@@ -413,6 +417,10 @@ references:
 - text: Underwood's aircraft was fitted with an ATFLIR targeting pod.
   source: In Plain Sight
   location: ch16:16657-16902
+  quote: As Commander Fravor and his wingman returned to the USS Nimitz from their
+    Tic Tac encounter that 14 November afternoon, a third pair of aircraft headed
+    out. One of the pilots, Lieutenant Chad Underwood, had what is called an ATFLIR
+    pod on his jet.
   claim_id: bb93ed9d-0f01-4ca8-b126-b8bd225234c3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bb93ed9d-0f01-4ca8-b126-b8bd225234c3
@@ -421,6 +429,9 @@ references:
     and it was still there.
   source: In Plain Sight
   location: ch16:17174-17369
+  quote: En route, Underwood's weapons systems officer checked the cap point where
+    the previous pilots Dave Fravor and his female pilot wingman last saw the UAP
+    and, sure enough, there it was waiting for them.
   claim_id: 6ef6b9fe-dfd3-462c-9175-cfba15eb6362
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6ef6b9fe-dfd3-462c-9175-cfba15eb6362
@@ -429,6 +440,9 @@ references:
     radar tried to lock on, which could be perceived as an act of war.
   source: In Plain Sight
   location: ch16:17375-17597
+  quote: Disturbingly, as the US Navy jet tried to lock on to the object with its
+    radar, there were clear indications of deliberate jamming, which Commander Fravor
+    says could be perceived as a hostile act, as technically an act of war'.
   claim_id: b5edd9e8-6c5d-47f7-a167-fbc063bf18f5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b5edd9e8-6c5d-47f7-a167-fbc063bf18f5
@@ -437,6 +451,9 @@ references:
     it as white against black.
   source: In Plain Sight
   location: ch16:17606-17800
+  quote: The weapons systems officer sitting behind Underwood was eventually able
+    to lock on to the object using the pod's infra-red mode, meaning it showed up
+    on his screen as a white object in a black background.
   claim_id: 96f1038c-a53c-4628-8546-dbdc57e78dfd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-96f1038c-a53c-4628-8546-dbdc57e78dfd
@@ -445,6 +462,10 @@ references:
     stood out most to him.
   source: In Plain Sight
   location: ch16:18401-18641
+  quote: '''The thing that stood out to me the most was how erratic it was behaving.
+    And what I mean by "erratic" is that its changes in altitude, air speed, and aspect
+    were just unlike things that I''ve ever encountered before flying against other
+    air targets.'''
   claim_id: e528ea22-117f-4d38-b7d4-84339851e512
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e528ea22-117f-4d38-b7d4-84339851e512
@@ -453,6 +474,10 @@ references:
     lift or propulsion.
   source: In Plain Sight
   location: ch16:18650-18924
+  quote: It was just behaving in ways that aren't physically normal. That's what caught
+    my eye. Because, aircraft, whether they're manned or unmanned, still have to obey
+    the laws of physics. They have to have some source of lift, some source of propulsion.
+    The Tic Tac was not doing that.
   claim_id: 21a4df57-ba92-406b-9a41-6cf6fded21c4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-21a4df57-ba92-406b-9a41-6cf6fded21c4
@@ -461,6 +486,8 @@ references:
     30 metres in seconds.
   source: In Plain Sight
   location: ch16:18930-19024
+  quote: It was going from like 50,000 feet to, you know, a hundred feet in like seconds,
+    which is not possible.
   claim_id: bee41ebd-8b26-4e99-bb1e-6fae269c9066
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bee41ebd-8b26-4e99-bb1e-6fae269c9066
@@ -496,6 +523,8 @@ references:
     instant disappearance over the horizon.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:8985-9072
+  quote: Both Underwood and Fravor/Slaight reported the UAP disappearing over the
+    horizon in an instant.
   claim_id: 3f811714-a60f-4724-b9fb-00bc7504d1ce
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3f811714-a60f-4724-b9fb-00bc7504d1ce
@@ -529,6 +558,9 @@ references:
     abounded among crewmen who saw it at sea.
   source: In Plain Sight
   location: ch16:19232-19424
+  quote: The ATFLIR video of the encounter was downloaded when Lieutenant Underwood
+    returned to the USS Nimitz; conspiracy theories abound among crewmen who saw the
+    video while the ship was still at sea.
   claim_id: c4d0935a-8ff0-4a53-b5ef-707008f589b5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4d0935a-8ff0-4a53-b5ef-707008f589b5
@@ -559,6 +591,9 @@ references:
     after landing.
   source: In Plain Sight
   location: ch16:21525-21714
+  quote: The pilot who videoed the encounter, Chad Underwood, says that soon after
+    landing, he answered a few questions in a phone call with someone from NORAD,
+    the North American Aerospace Defence Command
   claim_id: c2bcf71f-bedf-488c-8658-240a74dac981
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c2bcf71f-bedf-488c-8658-240a74dac981
@@ -567,6 +602,8 @@ references:
     investigated.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:14675-14790
+  quote: Beyond a few questions a NORAD investigator put to Underwood, I was told
+    no other internal agency investigated the encounter.
   claim_id: 77396a58-95de-467d-b079-c6bbf56cb7d6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-77396a58-95de-467d-b079-c6bbf56cb7d6
@@ -575,6 +612,8 @@ references:
     in flights of fancy.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch15:14197-14277
+  quote: Underwood, an otherwise serious and focused pilot, never indulged in flights
+    of fancy.
   claim_id: a8ffb2b8-7110-4957-827a-8cdb2560175e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a8ffb2b8-7110-4957-827a-8cdb2560175e
@@ -583,6 +622,9 @@ references:
     had been achieved somewhere.
   source: In Plain Sight
   location: ch16:19035-19219
+  quote: The awesome implication from what Underwood conclusively filmed was that
+    someone, somewhere, had indeed achieved a technological breakthrough that showed
+    such manoeuvres were actually possible.
   claim_id: b9785ae4-de98-425e-b86d-259b1ce2f645
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b9785ae4-de98-425e-b86d-259b1ce2f645

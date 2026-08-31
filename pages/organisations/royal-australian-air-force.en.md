@@ -83,6 +83,10 @@ references:
     soldiers, tourists, a senior American officer, and a local fireman
   source: In Plain Sight
   location: ch5:7746-8037
+  quote: Declassified files held in the Australian government's National Archives
+    reveal that anomalous sightings of unexplained objects at North West Cape have
+    been officially reported to the Australian Air Force for decades by soldiers,
+    tourists, a senior American officer at the base, and a local fireman.
   claim_id: 31403d64-2c5f-42ce-b7cf-d389cc65a573
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-31403d64-2c5f-42ce-b7cf-d389cc65a573
@@ -90,6 +94,10 @@ references:
 - text: George Jones sent to investigate the 1930 Warrnambool mystery aircraft reports
   source: In Plain Sight
   location: ch6:1766-2041
+  quote: What is possibly the earliest official ‘mystery aircraft’ flap recorded in
+    government files came in 1930 when a Royal Australian Air Force Squadron Leader
+    George Jones was sent to Warrnambool in Victoria to investigate reports of mystery
+    aircraft seen flying inland over the coast.
   claim_id: 3af62036-4203-4909-85dc-8d9ff337093e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3af62036-4203-4909-85dc-8d9ff337093e
@@ -98,6 +106,9 @@ references:
     Jones
   source: In Plain Sight
   location: ch6:2203-2360
+  quote: Jones rose to lofty heights, becoming the Royal Australian Air Force’s Chief
+    of Air Staff during the Second World War, and was later Air Marshall Sir George
+    Jones.
   claim_id: ccc79ab6-ff17-4c86-9757-535c9a9f29f9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ccc79ab6-ff17-4c86-9757-535c9a9f29f9
@@ -105,6 +116,7 @@ references:
 - text: Canberra aircraft was the RAAF's first jet-propelled bomber
   source: In Plain Sight
   location: ch9:6352-6383
+  quote: the RAAF’s first jet-propelled bomber
   claim_id: 48501b7a-97b1-498d-9739-9a7ef7e6f852
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-48501b7a-97b1-498d-9739-9a7ef7e6f852
@@ -113,6 +125,9 @@ references:
     ~870 km/h speed'
   source: In Plain Sight
   location: ch9:6230-6466
+  quote: A security officer named Sydney Baker witnessed an object travelling across
+    the path of an approaching Canberra aircraft (the RAAF’s first jet-propelled bomber)
+    at a speed he estimated to be three times the jet’s 870 kilometres an hour velocity.
   claim_id: d9a72019-9586-4128-a641-ae5235b929b7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d9a72019-9586-4128-a641-ae5235b929b7
@@ -120,6 +135,8 @@ references:
 - text: Harry Turner obtained access to the RAAF's UAP sightings reports
   source: In Plain Sight
   location: ch11:3211-3284
+  quote: Harry Turner obtained access to the Australian Air Force's UAP sightings
+    reports.
   claim_id: eb4ca4bc-3221-4b55-b57e-6a40774aa21f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb4ca4bc-3221-4b55-b57e-6a40774aa21f
@@ -127,6 +144,9 @@ references:
 - text: Turner's DAFI report concluded evidence suggested extra-terrestrial-like behaviour
   source: In Plain Sight
   location: ch9:9458-9683
+  quote: Turner’s report to DAFI subsequently concluded that ‘The evidence presented
+    by RAAF tends to support the conclusion . . . that certain strange aircraft have
+    been observed to behave in a manner suggestive of extra-terrestrial origin.’
   claim_id: b3db168e-8883-4891-9e54-1d7f11f66f91
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b3db168e-8883-4891-9e54-1d7f11f66f91
@@ -135,6 +155,9 @@ references:
     conclusion
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch16:718-916
+  quote: “The evidence presented by RAAF [Royal Australian Air Force] tend to support
+    the … conclusion … that certain strange aircraft have been observed to behave
+    in a manner suggestive of extra-terrestrial origin.”
   claim_id: 78509507-01c8-4991-88ea-b725652a5e68
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-78509507-01c8-4991-88ea-b725652a5e68
@@ -142,6 +165,9 @@ references:
 - text: Turner was rebuffed over his 1954 extra-terrestrial findings
   source: In Plain Sight
   location: ch11:816-996
+  quote: Turner had been rebuffed in 1954 when he made his controversial findings
+    about UAPs being extra-terrestrial in his original report to the Royal Australian
+    Air Force's intelligence branch.
   claim_id: 041eaaed-dd44-41af-94cb-bf193a63862b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-041eaaed-dd44-41af-94cb-bf193a63862b
@@ -149,6 +175,8 @@ references:
 - text: RAAF played down Turner's hypothesis to heed its American ally
   source: In Plain Sight
   location: ch9:11055-11166
+  quote: But the Royal Australian Air Force elected to heed its American ally and
+    play down Turner’s ‘flying saucer’ ET hypothesis.
   claim_id: 4a3b19e1-ff22-4bde-b746-a4a99d5e1176
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a3b19e1-ff22-4bde-b746-a4a99d5e1176
@@ -156,6 +184,8 @@ references:
 - text: RAAF withdrew Turner's access to the UAP sightings files
   source: In Plain Sight
   location: ch11:3937-4013
+  quote: Eventually, the Australian Air Force withdrew his access to their sightings
+    files.
   claim_id: 7d8dcfdf-3e75-4f74-853e-16f02d4d8366
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7d8dcfdf-3e75-4f74-853e-16f02d4d8366
@@ -163,6 +193,8 @@ references:
 - text: 1967 film reportedly shot from an RAAF aircraft over Central Australia c.1965
   source: In Plain Sight
   location: ch10:9766-9902
+  quote: The vision was reportedly shot from a Royal Australian Air Force aircraft
+    during a photo-mapping flight over Central Australia in about 1965.
   claim_id: 2586b61b-05d0-4483-9b05-c22b114c48d2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2586b61b-05d0-4483-9b05-c22b114c48d2
@@ -170,6 +202,9 @@ references:
 - text: 1966 Tully sighting involving George Pedley drew RAAF attention
   source: In Plain Sight
   location: ch10:19144-19342
+  quote: One sighting in Queensland that did draw the close attention of the Royal
+    Australian Air Force occurred in January 1966. The Tully sighting by farmer George
+    Pedley baffled investigators and remains unexplained.
   claim_id: 225e6811-64a1-41de-9538-3dfc0ee539dc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-225e6811-64a1-41de-9538-3dfc0ee539dc
@@ -177,6 +212,8 @@ references:
 - text: RAAF attributed the Tully Nests to 'Willy Willies'
   source: In Plain Sight
   location: ch10:20020-20152
+  quote: The subsequent air force investigation weakly speculated the ‘Nests’ were
+    caused by whirling masses of tropical air known as ‘Willy Willies’.
   claim_id: 4a03ab38-46c0-414e-8f9e-fdbc0069fb29
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a03ab38-46c0-414e-8f9e-fdbc0069fb29
@@ -185,6 +222,11 @@ references:
     balloon
   source: In Plain Sight
   location: ch19:10263-10626
+  quote: We decided that I should phone the Nowra base. I spoke to the duty officer.
+    He said he was the only one on duty. He asked me if I saw any orange lights. I
+    said, “Yes.” He then quickly said it was a weather balloon you saw, it was let
+    go at such and such a time from Jambaroo, it didn’t inflate properly and other
+    people reported seeing it as an orange light over Kiama.
   claim_id: 6e21637f-b8a4-49e2-b5ae-b7ec9ea8ae41
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-6e21637f-b8a4-49e2-b5ae-b7ec9ea8ae41
@@ -192,6 +234,10 @@ references:
 - text: Bill Lynn and Moyer/Meyer independently reported an object on 1973-10-25
   source: In Plain Sight
   location: ch11:9525-9765
+  quote: The Royal Australian Air Force sightings reports show both Lynn and a US
+    officer named Lieutenant Commander Moyer or Meyer (the handwriting is unclear)
+    independently reported seeing a revolving or pulsating object hovering in the
+    sky that evening.
   claim_id: 7f0a7b5f-3150-4cce-9725-0804651a848c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7f0a7b5f-3150-4cce-9725-0804651a848c
@@ -199,6 +245,9 @@ references:
 - text: Moyer/Meyer's 'Unusual Aerial Sighting' report describes a large black object
   source: In Plain Sight
   location: ch11:9986-10147
+  quote: In an 'Unusual Aerial Sighting' report he filed with the Royal Australian
+    Air Force, he wrote that his attention was drawn to 'a large black object in the
+    clear sky'.
   claim_id: 842a5a4f-2164-42c3-b5b0-b8296141121c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-842a5a4f-2164-42c3-b5b0-b8296141121c
@@ -206,6 +255,9 @@ references:
 - text: Kate Lynn recalls her father sketching the object on his truck bonnet
   source: In Plain Sight
   location: ch11:11454-11663
+  quote: Kate remembers her father describing how he used the bonnet of his pick-up
+    truck to sketch the object and to make the notes about what he saw, a sketch that
+    appears in his Royal Australian Air Force sighting report.
   claim_id: fadc1655-87bd-4aad-9a6e-1753b1aee715
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fadc1655-87bd-4aad-9a6e-1753b1aee715
@@ -213,6 +265,7 @@ references:
 - text: Lynn's sketch appears in his RAAF sighting report
   source: In Plain Sight
   location: ch11:11598-11663
+  quote: a sketch that appears in his Royal Australian Air Force sighting report.
   claim_id: 230bcfe9-1aa5-4324-8180-24f522226892
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-230bcfe9-1aa5-4324-8180-24f522226892
@@ -220,6 +273,9 @@ references:
 - text: 1973 reports released to researchers by RAAF public relations, 1974-75
   source: In Plain Sight
   location: ch11:11956-12163
+  quote: Paperwork shows they were lawfully provided to researchers by the RAAF public
+    relations section as part of a release of sightings reports in 1974–75, years
+    before freedom of information laws were enacted in Australia.
   claim_id: f382a1b2-c377-4094-94d3-44220f4ce947
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f382a1b2-c377-4094-94d3-44220f4ce947
@@ -227,6 +283,10 @@ references:
 - text: No records of the 1973 sighting in declassified 1973 RAAF records
   source: In Plain Sight
   location: ch11:11672-11946
+  quote: Curiously, there are now no records of this 1973 North West Cape sighting
+    anywhere in declassified Royal Australian Air Force (RAAF) sighting records from
+    1973 held by the Australian National Archives, but the provenance of the original
+    official sightings reports is not in question.
   claim_id: 6bfde33c-6f73-4189-9c51-b6892c471334
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6bfde33c-6f73-4189-9c51-b6892c471334
@@ -234,6 +294,11 @@ references:
 - text: Military surprisingly incurious about the North West Cape incursion
   source: In Plain Sight
   location: ch11:27127-27475
+  quote: It is also extraordinary that both the official records and direct witness
+    reports suggest that both the Australian and US military were surprisingly incurious
+    about an incursion of a strange hovering object reported over one of their most
+    sensitive military facilities by both a senior American officer and an Australian
+    witness.
   claim_id: b13e5500-dfa5-4159-bf01-ce7a1de01691
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b13e5500-dfa5-4159-bf01-ce7a1de01691
@@ -241,6 +306,10 @@ references:
 - text: Two RAAF reports on an incident at the US Naval Communication Station, Exmouth
   source: In Plain Sight
   location: ch11:4377-4668
+  quote: Two of those official Australian Air Force sightings reports detail an incident
+    at the United States Naval Communication Station near Exmouth on Western Australia's
+    North West Cape, the same base where local Annette Farinaccio had her strange
+    encounter with a triangular object in the early 1990s.
   claim_id: 60a4cc1b-70b7-4fba-a713-e5f3b9c82caa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-60a4cc1b-70b7-4fba-a713-e5f3b9c82caa
@@ -249,6 +318,9 @@ references:
     1980s
   source: In Plain Sight
   location: ch9:11178-11381
+  quote: Bill Chalker, an Australian scientist and UAP researcher trained in mathematics
+    and chemistry, was the first civilian researcher to gain access to the Royal Australian
+    Air Force’s UAP files in the early 1980s.
   claim_id: 4b1b1e5e-48b7-4e67-99b8-98eebf14e3c8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4b1b1e5e-48b7-4e67-99b8-98eebf14e3c8
@@ -257,6 +329,9 @@ references:
     of UFOs'
   source: In Plain Sight
   location: ch9:11436-11612
+  quote: says of Turner’s efforts, ‘Political myopia from both the US and Australian
+    military effectively scuttled Australia’s first serious flirtation with scientific
+    investigation of UFOs’.
   claim_id: 8ea173fb-d2bc-4f5c-9e21-0ba491e345d8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8ea173fb-d2bc-4f5c-9e21-0ba491e345d8
@@ -264,6 +339,9 @@ references:
 - text: 1987 SAS warrant officers filed sighting reports over Learmonth
   source: In Plain Sight
   location: ch12:15893-16112
+  quote: two warrant officers from the elite Special Air Service (SAS) Regiment were
+    so alarmed by what they saw over the nearby Learmonth air force base they filed
+    'Unusual Aerial Sightings' reports to the Royal Australian Air Force.
   claim_id: abec6eee-8a5b-4969-95ef-3ea6953497ff
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-abec6eee-8a5b-4969-95ef-3ea6953497ff
@@ -272,6 +350,10 @@ references:
     in six days'
   source: In Plain Sight
   location: ch12:17200-17449
+  quote: A statement by an investigating major, supporting the sighting reports, noted
+    that three radios were used in unsuccessful attempts to raise the RAAF aircraft
+    that was approaching, and this was the only time communications were lost over
+    six days of exercises.
   claim_id: cd6aa6d2-f1ec-4820-9f5d-6d82f6392405
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cd6aa6d2-f1ec-4820-9f5d-6d82f6392405
@@ -279,6 +361,8 @@ references:
 - text: RAAF pilots also saw the object and refused to report it
   source: In Plain Sight
   location: ch12:17575-17669
+  quote: '''It was also observed by the RAAF pilots of the aircraft in support, who
+    refused to report the incident.'''
   claim_id: a2d10b79-eb49-4f5b-8b9e-500c10bbe5f2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a2d10b79-eb49-4f5b-8b9e-500c10bbe5f2
@@ -286,6 +370,10 @@ references:
 - text: RAAF insiders encouraged Coulthart to reconsider his views, early 1990s
   source: In Plain Sight
   location: ch6:8330-8635
+  quote: It was not until the early 1990s, when I was working in Australia as a television
+    investigative journalist for the Australian Broadcasting Corporation’s *Four Corners*,
+    that I was encouraged by Australian Air Force insiders to reconsider my default
+    dismissive attitude towards unidentified objects in our skies.
   claim_id: b84575fa-3812-48dd-bacd-4d207ee24269
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b84575fa-3812-48dd-bacd-4d207ee24269
@@ -293,6 +381,9 @@ references:
 - text: 'Coulthart: two senior RAAF officers described their own sightings'
   source: In Plain Sight
   location: ch6:8642-8879
+  quote: One of my contacts in the air force was a very senior officer and, to my
+    surprise, over a beer, he and another serving senior officer started talking expansively
+    about ‘UFO’ or ‘flying saucer sightings’ they had experienced during their careers.
   claim_id: c2506a02-b2f1-4089-a40b-64cc5d4451e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c2506a02-b2f1-4089-a40b-64cc5d4451e6
@@ -300,6 +391,10 @@ references:
 - text: 'Coulthart: officer says pilots don''t report UFOs because it''s career-ending'
   source: In Plain Sight
   location: ch6:9109-9374
+  quote: 'I still have my shorthand notes of our conversation, where one told me:
+    ‘Pilots don’t report this sort of stuff because it’s career-ending to admit you
+    see these things. But there is something weird happening that can’t be dismissed.
+    Too many of us have seen these objects.’'
   claim_id: f02794f1-fa78-46dc-982f-fbfc2e71d004
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f02794f1-fa78-46dc-982f-fbfc2e71d004

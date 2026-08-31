@@ -119,6 +119,8 @@ references:
 - text: Germany's annexation of the Sudetenland effectively began the war
   source: The Fatima Secret
   location: ch4:1903-2005
+  quote: In March of 1938 Germany annexed the Sudetenland from Czechoslovakia, effectively
+    beginning World War II.
   claim_id: f2c680cd-24da-4887-8693-5bc9cfd24e26
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f2c680cd-24da-4887-8693-5bc9cfd24e26
@@ -126,6 +128,9 @@ references:
 - text: German troops crossed into Austria on 1938-03-12
   source: The Fatima Secret
   location: ch15:4259-4417
+  quote: On March 12, 1938, German troops crossed the border for the first time since
+    the end of World War I, and entered Austria, in order to "bring it back into the
+    Reich."
   claim_id: 44e25b90-9fa4-4b2e-9733-7e06df045e6f
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-44e25b90-9fa4-4b2e-9733-7e06df045e6f
@@ -133,6 +138,8 @@ references:
 - text: Britain and France declared war on Germany on 1939-09-03
   source: The Fatima Secret
   location: ch15:6243-6348
+  quote: When it was ignored, both nations declared war on Germany. With this the
+    Second World War had officially begun.
   claim_id: 12ff0950-e2f8-416d-a5f7-0f5e2e5aef08
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-12ff0950-e2f8-416d-a5f7-0f5e2e5aef08
@@ -140,6 +147,8 @@ references:
 - text: The war cost over fifty-five million lives
   source: The Fatima Secret
   location: ch15:4035-4108
+  quote: the war that cost over fifty-five million people their lives had already
+    begun
   claim_id: da89784a-a305-40be-9895-ce44283b97aa
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-da89784a-a305-40be-9895-ce44283b97aa
@@ -147,6 +156,9 @@ references:
 - text: Stalingrad, begun 1942-12-08, is the war's turning point
   source: The Fatima Secret
   location: ch15:9991-10184
+  quote: On the day when Pope Pius repeated the consecration, December 8, 1942, the
+    battle of Stalingrad began, which ended the German march to the east and is considered
+    the turning point of World War II.
   claim_id: ab6df9bd-c7b5-41ab-ba00-c4fab2031d63
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-ab6df9bd-c7b5-41ab-ba00-c4fab2031d63
@@ -154,6 +166,8 @@ references:
 - text: 'Second Secret of Fatima: WWI would end, worse war under Pius XI'
   source: The Fatima Secret
   location: ch10:6152-6281
+  quote: “The war is going to end. But if people do not stop offending God, another
+    even more terrible war will begin in the reign of Pius XI.
   claim_id: a5c1df52-01f0-4bcd-bdc9-06883e1c3b72
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-a5c1df52-01f0-4bcd-bdc9-06883e1c3b72
@@ -161,6 +175,10 @@ references:
 - text: Second Secret warned of a night illuminated by an unknown light
   source: The Fatima Secret
   location: ch4:989-1255
+  quote: “This war is going to end. But if they do not stop offending God, another
+    and worse war will break out.… When you see a night illuminated by an unknown
+    light, know that God … is going to punish the world for its crimes by means of
+    war, hunger, and persecution of the Church.”
   claim_id: 2f64c82b-8960-4404-9505-0d6d0816d73b
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-2f64c82b-8960-4404-9505-0d6d0816d73b
@@ -168,6 +186,10 @@ references:
 - text: Third Secret catalogue of twentieth-century disasters including WWII
   source: The Fatima Secret
   location: ch10:8768-9065
+  quote: They had also been told about the real hell that would happen on earth during
+    the twentieth century—the hell of Communist revolutions and the Spanish Civil
+    War, of the Nazi terror and the Second World War, with the Cold War following
+    it; of the arms race and the nuclear threat, and the spread of atheism.
   claim_id: e166b584-f125-4968-a39f-6905fb96b1a2
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-e166b584-f125-4968-a39f-6905fb96b1a2
@@ -175,6 +197,10 @@ references:
 - text: Marian apparitions apparently signalled WWII's imminent outbreak
   source: The Fatima Secret
   location: ch4:14069-14352
+  quote: Since Guadalupe, Marian apparitions have become more frequent. The visions
+    have appealed for churches to be built, offered moral advice and warnings, expressed
+    direct concern about Communism, and even promised and apparently sent a sign warning
+    of the imminent outbreak of World War II.
   claim_id: 7491a257-2a93-40fe-8eed-dcc745224208
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7491a257-2a93-40fe-8eed-dcc745224208
@@ -182,6 +208,9 @@ references:
 - text: Argument that the WWI reference was added after the fact
   source: The Fatima Secret
   location: ch4:1302-1481
+  quote: it can be argued that its specific reference to the fact that World War I
+    would end could have been added later, since the secret was not made public until
+    long after the war was over.
   claim_id: fba62ae6-bc65-4a52-bc96-fe385bb36d5a
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-fba62ae6-bc65-4a52-bc96-fe385bb36d5a
@@ -189,6 +218,8 @@ references:
 - text: '1941: Lúcia wrote the first two parts of the secret'
   source: The Fatima Secret
   location: ch16:340-489
+  quote: At that time she wrote down the first two prophecies, which related to the
+    end of World War I, the rise of Russia, and the breaking out of World War II.
   claim_id: 95981954-fbb1-48b9-8b2d-60506b261261
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-95981954-fbb1-48b9-8b2d-60506b261261
@@ -196,6 +227,8 @@ references:
 - text: 'Hesemann: Jacinta''s mother could not have known, but WWII loomed'
   source: The Fatima Secret
   location: ch13:4626-4764
+  quote: Since World War I had just come to an end, her mother couldn’t have known
+    what she was talking about. But the Second World War was on the horizon.
   claim_id: 7695ac36-fe1d-4cd8-9c17-b2eb66208d82
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-7695ac36-fe1d-4cd8-9c17-b2eb66208d82
@@ -203,6 +236,8 @@ references:
 - text: 'Hesemann: Jacinta''s Spain prediction foretold the Spanish Civil War'
   source: The Fatima Secret
   location: ch13:7728-7831
+  quote: With that Jacinta predicted the Spanish Civil War, which started in 1936
+    and preceded the Second World War.
   claim_id: 10d9cd0a-4f65-40b5-9f38-8ff17c0b6038
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-10d9cd0a-4f65-40b5-9f38-8ff17c0b6038
@@ -210,6 +245,8 @@ references:
 - text: 'Hesemann: Jacinta''s 1940 mention referred to WWII'
   source: The Fatima Secret
   location: ch13:7836-7941
+  quote: Once Jacinta mentioned “the terrible events that will happen around 1940,”
+    referring to the Second World War.
   claim_id: febd1d8e-e83c-4c18-9f17-806c37e60179
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-febd1d8e-e83c-4c18-9f17-806c37e60179
@@ -217,6 +254,9 @@ references:
 - text: 'Hesemann: Fatima predicted the Russian Revolution, Communism, WWII'
   source: The Fatima Secret
   location: ch7:9072-9278
+  quote: 'there were the predictions about political and meteorological events that
+    were far beyond the imaginations of three young uneducated children: the Russian
+    Revolution, the spread of Communism, and World War II'
   claim_id: 27127544-08c0-40df-a53f-1f0971505e6d
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-27127544-08c0-40df-a53f-1f0971505e6d
@@ -224,6 +264,8 @@ references:
 - text: 'Hesemann: Madonna predicted WWII, aurora borealis as herald'
   source: The Fatima Secret
   location: ch23:6412-6530
+  quote: Also, the Madonna correctly predicted the beginning of the Second World War,
+    with the bloodred aurora borealis as its herald.
   claim_id: 4aba8528-db64-45af-81d3-d212cbb91399
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-4aba8528-db64-45af-81d3-d212cbb91399
@@ -231,6 +273,9 @@ references:
 - text: 'Hesemann: WWII turning points followed the 1984 consecration'
   source: The Fatima Secret
   location: ch23:6944-7132
+  quote: The decisive turning points of World War II, and Gorbachev’s “perestroika,”
+    followed immediately after the consecration of the world and Russia to the Immaculate
+    Heart, as demanded in the visions.
   claim_id: d6489b1e-3883-4607-9714-393cf9bfe831
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d6489b1e-3883-4607-9714-393cf9bfe831
@@ -238,6 +283,8 @@ references:
 - text: WWII began under Pius XI exactly as prophesied at Fatima
   source: The Fatima Secret
   location: ch15:4515-4599
+  quote: World War II really began then, under the rule of Pius XI, exactly as prophesied
+    at Fatima.
   claim_id: 3ece73e1-dfb4-42d2-9d5a-8a240bbca483
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-3ece73e1-dfb4-42d2-9d5a-8a240bbca483

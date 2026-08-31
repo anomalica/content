@@ -198,6 +198,9 @@ references:
     who most recently worked out of the ODNI
   source: In Plain Sight
   location: ch24:8112-8275
+  quote: Luis Elizondo was a former career counter-intelligence officer with the Defence
+    Department, who worked most recently out of the office of the Director of National
+    Intelligence.
   claim_id: 1a20249e-4ace-493b-aa19-c91da85eb9f7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1a20249e-4ace-493b-aa19-c91da85eb9f7
@@ -206,6 +209,9 @@ references:
     of the Secretary of Defense
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:918-1137
+  quote: I worked within the Department of Defense (DoD), the Office of the National
+    Counterintelligence Executive (ONCIX), the Office of the Director of National
+    Intelligence (ODNI), and the Office of the Secretary of Defense (OSD).
   claim_id: a7daf4e0-5f97-4b61-8c05-7d5b64906773
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a7daf4e0-5f97-4b61-8c05-7d5b64906773
@@ -213,6 +219,8 @@ references:
 - text: Devon Woods was Elizondo's unofficial mentor when Elizondo first came to ODNI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:3873-3983
+  quote: Woods had been my unofficial mentor when I first came to the Office of the
+    Director of National Intelligence (ODNI).
   claim_id: eaf48c01-ebc6-4c2e-bb75-70fbc28118e0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-eaf48c01-ebc6-4c2e-bb75-70fbc28118e0
@@ -220,6 +228,7 @@ references:
 - text: Woods had a CIA career before joining ODNI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:3990-4055
+  quote: He had an illustrious career with the CIA before coming on board ODNI.
   claim_id: 99a11ed3-535b-43e7-b686-1937b696c32f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-99a11ed3-535b-43e7-b686-1937b696c32f
@@ -228,6 +237,8 @@ references:
     director post at the DIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:48858-48974
+  quote: In 2010, a man I’ll call Devon Woods, who previously served as a senior leader
+    at ODNI, became a senior director at DIA.
   claim_id: 60ffab77-82cf-441a-ad9a-cfe09ba7a51b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-60ffab77-82cf-441a-ad9a-cfe09ba7a51b
@@ -236,6 +247,9 @@ references:
     annual 'Uncorrelated Tracks' in the ODNI report
   source: In Plain Sight
   location: ch29:22868-23029
+  quote: It is my understanding that NORAD did not include in the ODNI report any
+    of the thousands of "Uncorrelated Tracks" that its radars identify each year over
+    North America.
   claim_id: 4a16b3e4-90df-403c-8ecf-f16a11424492
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4a16b3e4-90df-403c-8ecf-f16a11424492

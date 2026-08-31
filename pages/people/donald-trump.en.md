@@ -145,6 +145,11 @@ references:
     press conference
   source: In Plain Sight
   location: ch20:1938-2309
+  quote: on 28 July 2016, no one could quite believe what Republican presidential
+    nominee Donald Trump said at a press conference in Florida. The candidate invited
+    Russia to hack his rival Hillary Clinton's email account. 'Russia, if you're listening,
+    I hope you're able to find the 30,000 emails that are missing,' he said. 'I think
+    you will probably be rewarded mightily by our press.'
   claim_id: 945cfa7d-fc7e-48ac-b57c-dd853a6d19e6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-945cfa7d-fc7e-48ac-b57c-dd853a6d19e6
@@ -152,6 +157,8 @@ references:
 - text: Hillary Clinton lost the 2016 election to Trump
   source: In Plain Sight
   location: ch20:23537-23620
+  quote: But . . . to everyone’s shock and surprise, Hillary loses the election in
+    November 2016.
   claim_id: 9dc0c5ba-c756-412c-a48c-274e7387847a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9dc0c5ba-c756-412c-a48c-274e7387847a
@@ -182,6 +189,8 @@ references:
     when asked if he believed people who report seeing them
   source: In Plain Sight
   location: ch20:23765-23847
+  quote: ‘People are saying they’re seeing UFOs. Do I believe it?’ the president said.
+    ‘Not particularly.’
   claim_id: bef03c69-0eb9-432e-8ebd-501c029f8522
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bef03c69-0eb9-432e-8ebd-501c029f8522
@@ -190,6 +199,9 @@ references:
     Don Trump Jr.
   source: In Plain Sight
   location: ch28:25830-25986
+  quote: In June 2020, President Donald Trump made an intriguing comment about the
+    mythical 1947 Roswell, New Mexico, UFO crash in a cosy interview with his son
+    Don junior.
   claim_id: efa1474b-dff9-4bcf-9a0d-393f7ff5e9bf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-efa1474b-dff9-4bcf-9a0d-393f7ff5e9bf
@@ -198,6 +210,8 @@ references:
     is very interesting
   source: In Plain Sight
   location: ch28:26151-26231
+  quote: Trump responded, 'I won't talk to you about what I know about it, but it's
+    very interesting.'
   claim_id: 7583bcb5-6046-4d23-97aa-00c90f672143
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7583bcb5-6046-4d23-97aa-00c90f672143
@@ -205,6 +219,8 @@ references:
 - text: Trump described the released Pentagon UFO footage as 'a hell of a video'
   source: In Plain Sight
   location: ch34:40062-40150
+  quote: Devan Cole, 'Trump Calls Newly released UFO Footage a "Hell of a Video"',
+    CNN, 30 April 2020.
   claim_id: 547dace0-9751-4016-b5ac-a625a86224d7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-547dace0-9751-4016-b5ac-a625a86224d7
@@ -212,6 +228,8 @@ references:
 - text: Trump said he has heard 'interesting' things about the Roswell incident
   source: In Plain Sight
   location: ch34:66515-66620
+  quote: Aamer Madhani/AP, 'Trump Says He's Heard "Interesting" Things about Roswell',
+    MilitaryTimes.com, 19 June 2020.
   claim_id: f94fcc21-af68-4962-b459-57af4c97a0d0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f94fcc21-af68-4962-b459-57af4c97a0d0
@@ -243,6 +261,8 @@ references:
     Trump administration
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:21603-21740
+  quote: I was working in the Pentagon building with Mad Dog himself, who had accepted
+    the position of secretary of defense in the incoming Trump administration.
   claim_id: 946320f6-fe91-4fa3-bb3f-b34b03be8cf1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-946320f6-fe91-4fa3-bb3f-b34b03be8cf1
@@ -251,6 +271,8 @@ references:
     with the Trump administration
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:6249-6400
+  quote: Mattis resigned his post in January 2019 due to differences with the Trump
+    administration and went on to suffer the ignominy of being mocked on social media.
   claim_id: 099ec301-6959-4df3-a9d4-8cc6c52b0300
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-099ec301-6959-4df3-a9d4-8cc6c52b0300
@@ -259,6 +281,10 @@ references:
     regarding UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:15556-15791
+  quote: We were making enough noise in the press that Jay was getting requests for
+    briefings from members of the White House National Security Council, who then
+    briefed Trump on some level, but I am not sure how much information they actually
+    shared.
   claim_id: af73f27e-6d01-4702-86f0-925398868a92
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-af73f27e-6d01-4702-86f0-925398868a92

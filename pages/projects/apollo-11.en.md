@@ -192,6 +192,8 @@ references:
 - text: Kennedy formally announced Project Apollo before a Joint Session of Congress
   source: Dark Mission
   location: ch12:168034-168163
+  quote: Fig. 5-13 - President John F. Kennedy addresses a Joint Session of Congress,
+    May 25, 1961 (inset) -- formally announcing Project Apollo.
   claim_id: a9240ccd-d0df-496a-a595-0fb777e2affb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a9240ccd-d0df-496a-a595-0fb777e2affb
@@ -199,6 +201,7 @@ references:
 - text: Apollo names approved at a NASA conference in July 1960
   source: Dark Mission
   location: ch12:1924-1987
+  quote: The projects' names were approved at a NASA conference in July 1960.
   claim_id: d6621b61-0309-4a6f-94b3-b6fd55a46287
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d6621b61-0309-4a6f-94b3-b6fd55a46287
@@ -206,6 +209,10 @@ references:
 - text: Armstrong took manual control and flew the Lunar Module to a new landing site
   source: Dark Mission
   location: ch11:100975-101229
+  quote: his inability to know precisely "where" Neil Armstrong had actually touched
+    down after he took manual control and flew the LM over "a crater surrounded by
+    rocks" to a landing site about five miles further "downrange" in Tranquility than
+    the intended landing site
   claim_id: 79be4923-0927-4bc8-9764-d754ffb51db7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-79be4923-0927-4bc8-9764-d754ffb51db7
@@ -213,6 +220,9 @@ references:
 - text: Armstrong nearly exhausted the Eagle's fuel supply during the manual landing
   source: Dark Mission
   location: ch12:38984-39173
+  quote: In doing so, he nearly exhausted the LM's supply of fuel, and thus risked
+    the entire lunar landing; just a few seconds more, and Armstrong would have had
+    to abort the landing and return to orbit.
   claim_id: 8728c853-7944-468c-9f62-843911ea430b
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8728c853-7944-468c-9f62-843911ea430b
@@ -220,6 +230,9 @@ references:
 - text: The Lunar Module was named Eagle
   source: Dark Mission
   location: ch12:130920-131080
+  quote: NASA was demonstrably enmeshed in the sorts of strange mythologies that groups
+    like the "Masons" and the "SS" thrived on; the Apollo 11 Lunar Module was named
+    "Eagle,"
   claim_id: 2bfc1e3e-d658-47c4-ae24-63bc2ea950cb
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2bfc1e3e-d658-47c4-ae24-63bc2ea950cb
@@ -227,6 +240,10 @@ references:
 - text: landing site was about 8km further downrange than intended
   source: Dark Mission
   location: ch11:100975-101229
+  quote: his inability to know precisely "where" Neil Armstrong had actually touched
+    down after he took manual control and flew the LM over "a crater surrounded by
+    rocks" to a landing site about five miles further "downrange" in Tranquility than
+    the intended landing site
   claim_id: 79be4923-0927-4bc8-9764-d754ffb51db7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-79be4923-0927-4bc8-9764-d754ffb51db7
@@ -235,6 +252,9 @@ references:
     programme
   source: Dark Mission
   location: ch19:39981-40146
+  quote: July 2006 on the Science Channel in America. In the program, Buzz Aldrin,
+    the second man on the Moon, admits to and describes the Apollo 11 crew's encounter
+    with "a UFO."
   claim_id: 92ff64e4-f482-46ff-99b2-aad1e54bc4e7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-92ff64e4-f482-46ff-99b2-aad1e54bc4e7
@@ -243,6 +263,8 @@ references:
     for hours
   source: Dark Mission
   location: ch19:40153-40279
+  quote: He described the object, which seemed to be pacing the Apollo 11 spacecraft
+    for hours, as a "double ellipse" or "bell-shaped" object.
   claim_id: 610636bb-69c8-43fd-a12a-f2e893af80fa
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-610636bb-69c8-43fd-a12a-f2e893af80fa
@@ -250,6 +272,9 @@ references:
 - text: the crew observed the object with the onboard telescope out of concern
   source: Dark Mission
   location: ch19:40287-40477
+  quote: The crew was so concerned about it that they made extensive observations
+    (and presumably took photographs, although this is not stated in the show) with
+    the onboard telescope in the Command Module.
   claim_id: c9cedf90-d873-4530-a240-81508d372b63
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c9cedf90-d873-4530-a240-81508d372b63
@@ -257,6 +282,8 @@ references:
 - text: the crew asked NASA to relay the S-IVB's location relative to their position
   source: Dark Mission
   location: ch19:40485-40640
+  quote: Failing to identify the object, they cautiously asked NASA to relay the location
+    of the discarded third stage rocket, the S-IVB, relative to their current position.
   claim_id: d49f7da8-7a0f-4b93-b99f-6bcb3ab0cfa7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d49f7da8-7a0f-4b93-b99f-6bcb3ab0cfa7
@@ -265,6 +292,8 @@ references:
     them
   source: Dark Mission
   location: ch19:40650-40793
+  quote: NASA, not understanding why the information was requested, nevertheless told
+    the crew that S-IVB was some 6,000 miles distant and well behind them.
   claim_id: a9fdca43-12d4-4797-ab35-e572ddc71367
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a9fdca43-12d4-4797-ab35-e572ddc71367
@@ -273,6 +302,8 @@ references:
     as the S-IVB
   source: Dark Mission
   location: ch19:40799-40958
+  quote: Aldrin on the show stated that none of the other two crewmen of Apollo 11—Armstrong
+    or Collins—believed that the object in question was anywhere near that far away.
   claim_id: bea8933c-27e1-446f-ba3e-763cb737f469
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-bea8933c-27e1-446f-ba3e-763cb737f469
@@ -280,6 +311,10 @@ references:
 - text: the crew agreed to withhold discussion of the object until debriefing
   source: Dark Mission
   location: ch19:41085-41369
+  quote: Eventually, the crew decided that discussing the object on an open broadcast
+    channel to Houston could disrupt the Mission (Aldrin stated that he "feared we
+    would be ordered home, *before* the landing), so they agreed to say nothing more
+    about it until their debriefing upon return to Earth.
   claim_id: 6f66c312-ef3f-4858-bc84-b1f615ca7877
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-6f66c312-ef3f-4858-bc84-b1f615ca7877
@@ -287,6 +322,7 @@ references:
 - text: Aldrin feared the mission would be recalled if they discussed the object openly
   source: Dark Mission
   location: ch19:41208-41277
+  quote: Aldrin stated that he "feared we would be ordered home, *before* the landing
   claim_id: a02e9ef1-7c61-4b46-a9dc-8f680a3a8f36
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a02e9ef1-7c61-4b46-a9dc-8f680a3a8f36
@@ -294,6 +330,7 @@ references:
 - text: Aldrin did not state whether the debriefing about the object took place
   source: Dark Mission
   location: ch19:41376-41430
+  quote: Aldrin did not state if that debriefing actually took place.
   claim_id: 1a508e90-4af0-4972-ba74-c0204f515513
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1a508e90-4af0-4972-ba74-c0204f515513
@@ -312,6 +349,9 @@ references:
 - text: television images were sent to Goldstone, Honeysuckle Creek and Parkes
   source: Dark Mission
   location: ch20:2843-3040
+  quote: 'The Apollo 11 TV images were sent from an antenna mounted on top of the
+    Lunar Module to three tracking stations on Earth: Goldstone in California and
+    the Honeysuckle Creek and Parkes facilities in Australia.'
   claim_id: b7ac8865-f19b-48c6-96b5-8dc997869e5e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b7ac8865-f19b-48c6-96b5-8dc997869e5e
@@ -319,6 +359,7 @@ references:
 - text: original signals were in Slow Scan Television format
   source: Dark Mission
   location: ch20:3051-3123
+  quote: These original signals were in a format called Slow Scan TeleVision, or SSTV.
   claim_id: cc8aa738-66ae-4f93-8e32-1f3307e38b45
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cc8aa738-66ae-4f93-8e32-1f3307e38b45
@@ -326,6 +367,9 @@ references:
 - text: an RCA-built Slow Scan Converter was needed to produce a broadcastable signal
   source: Dark Mission
   location: ch20:3550-3712
+  quote: Because the SSTV signal could not be directly translated to broadcast TV,
+    RCA had to develop a Slow Scan Converter to provide a TV signal to the viewers
+    in “real time.”
   claim_id: e505e6b5-e3d3-4d77-99bc-0466cd3382ce
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e505e6b5-e3d3-4d77-99bc-0466cd3382ce
@@ -333,6 +377,10 @@ references:
 - text: the converted broadcast signal was only 262.5 vertical lines of resolution
   source: Dark Mission
   location: ch20:3719-3961
+  quote: This converter had serious limitations however, and they led to a broadcast
+    signal that was only 262.5 vertical lines of resolution, about half as sharp as
+    a then standard TV signal and on a par with the old “kinescope” recorders of the
+    1950’s.
   claim_id: 882413cb-d9fa-4d6e-9e89-bee3f119f703
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-882413cb-d9fa-4d6e-9e89-bee3f119f703
@@ -340,6 +388,8 @@ references:
 - text: tapes were shipped to Goddard Space Flight Center after the mission
   source: Dark Mission
   location: ch20:4897-5032
+  quote: Following the Apollo 11 mission, procedures required that the tapes be shipped
+    to the Goddard Space Flight Center (GSFC) in Greenbelt, Maryland.
   claim_id: 9c64f19a-81bc-4da9-8945-6e63f1506b26
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-9c64f19a-81bc-4da9-8945-6e63f1506b26
@@ -347,6 +397,8 @@ references:
 - text: 'tapes were moved to the National Archives in 1970 under Accession #69A4099'
   source: Dark Mission
   location: ch20:5042-5116
+  quote: 'In 1970, the tapes were moved to the U.S. National Archives in Accession
+    #69A4099.'
   claim_id: 84ae08bc-f335-499e-af1e-c139ea4efd99
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-84ae08bc-f335-499e-af1e-c139ea4efd99
@@ -354,6 +406,8 @@ references:
 - text: none of the original SSTV tapes has ever been found
   source: Dark Mission
   location: ch20:5379-5518
+  quote: In fact, *all* of the SSTV tapes sent to Goddard are now missing, and to
+    this date *not one* of the original Apollo 11 SSTV tapes has been found.
   claim_id: c7ccb04d-a9e4-4a3e-80dd-c0d5d960b740
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c7ccb04d-a9e4-4a3e-80dd-c0d5d960b740
@@ -362,6 +416,10 @@ references:
     and found the tapes missing
   source: Dark Mission
   location: ch20:4592-4890
+  quote: Unfortunately, when a group of enthusiasts, including some of the original
+    site engineers from Goldstone and the Australian tracking stations tried to find
+    the original SSTV tapes, they found that they were missing. For several years,
+    they have been searching for them, only to discover a very dry hole.
   claim_id: ef49f53c-80ac-447c-a1f9-b5096ed5607d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ef49f53c-80ac-447c-a1f9-b5096ed5607d
@@ -369,6 +427,8 @@ references:
 - text: a story broke in mid-2006 about the missing high-quality recordings
   source: Dark Mission
   location: ch20:2528-2671
+  quote: In mid 2006, a story broke in the national media concerning the existence
+    of high-quality T V recordings of the Apollo 11 mission having “gone missing.”
   claim_id: 2073155e-ce2f-40c7-93d3-a2e1c38a437d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2073155e-ce2f-40c7-93d3-a2e1c38a437d
@@ -377,6 +437,9 @@ references:
     the landing on a Nevada soundstage
   source: Dark Mission
   location: 55-57
+  quote: The date was July 22, 1969... someone with an obvious "in" to JPL was handing
+    out a mimeographed broadsheet to all the real reporters … claiming that "NASA
+    has just faked the entire Apollo 11 Lunar Landing… on a soundstage in Nevada!"
   claim_id: 2b71c6d6-bb49-47e0-8d5f-b59a8ff13ee5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2b71c6d6-bb49-47e0-8d5f-b59a8ff13ee5
@@ -385,6 +448,9 @@ references:
     location uncertainty after Apollo 11
   source: Dark Mission
   location: ch11:101235-101454
+  quote: Because this official "landing uncertainty" had dragged on for several weeks,
+    well after the crew had returned and been debriefed, NASA was determined to refine
+    the lunar landing procedures for the next Mission, Apollo 12.
   claim_id: f82b146a-cf2b-4299-a5c0-210f62ca3563
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f82b146a-cf2b-4299-a5c0-210f62ca3563
@@ -393,6 +459,9 @@ references:
     itself
   source: Dark Mission
   location: ch11:142793-142977
+  quote: this idea (most recently advanced by a few well-known self-promoters such
+    as David Percy, Bill Kaysing and the late James Collier) had its origins as far
+    back as the Apollo 11 mission itself
   claim_id: ff168d5e-ab1d-4f91-bca5-48c844f9ee3f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ff168d5e-ab1d-4f91-bca5-48c844f9ee3f
@@ -401,6 +470,9 @@ references:
     during the mission
   source: Dark Mission
   location: ch7:22174-22379
+  quote: I, of course, had been deeply immersed in all aspects of our CBS coverage
+    of the upcoming Apollo 11 mission for months as official science advisor to CBS
+    News Special Events and chief correspondent Walter Cronkite.
   claim_id: b49c7e8c-4480-4831-9e69-68fb52910663
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-b49c7e8c-4480-4831-9e69-68fb52910663
@@ -409,6 +481,8 @@ references:
     lunar orbit
   source: Dark Mission
   location: ch7:24810-24945
+  quote: arriving at JPL right after the three Apollo 11 astronauts blasted home toward
+    Earth and "splashdown" in the South Pacific, three days later.
   claim_id: 8b7778bb-219a-408d-955f-0acf3977405f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-8b7778bb-219a-408d-955f-0acf3977405f

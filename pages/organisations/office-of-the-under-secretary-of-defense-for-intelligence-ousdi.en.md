@@ -170,6 +170,10 @@ references:
     on intelligence matters overseeing DIA and NSA
   source: In Plain Sight
   location: ch21:11763-12072
+  quote: recognised Elizondo's skills and, in 2008, had personally hired him into
+    the office that acts as the principal staff for the Department of Defense on sensitive
+    intelligence-related matters, overseeing a cluster of three-letter DoD agencies,
+    including the Defense Intelligence Agency and the National Security Agency
   claim_id: 264fac5f-5e8c-4840-ae89-50f9c152e404
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
@@ -209,6 +213,9 @@ references:
 - text: Elizondo worked on DoD/DHS/local law enforcement information-sharing at OUSD(I)
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:1326-1548
+  quote: While in that assignment, I worked for the Office of the Undersecretary of
+    Defense for Intelligence (OUSD(I)), focused on an information-sharing operation
+    between the DoD, DHS, and state, local, and tribal law enforcement authorities.
   claim_id: 6a85d80d-06cd-475c-91c5-66490a3bd7a0
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-6a85d80d-06cd-475c-91c5-66490a3bd7a0
@@ -217,6 +224,9 @@ references:
     Management Staff, within OSD
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:15874-16028
+  quote: I had recently accepted a new position as Director of National Programs,
+    Special Management Staff, nestled within the Office of the Secretary of Defense
+    (OSD).
   claim_id: bc152a7e-b967-4224-8676-4e9574525224
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bc152a7e-b967-4224-8676-4e9574525224
@@ -442,6 +452,8 @@ references:
 - text: James Clapper served as Elizondo's boss at OUSD(I)
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:49102-49227
+  quote: This all began when General James Clapper, my old boss at the Office of the
+    Undersecretary of Defense for Intelligence (OUSD(I))
   claim_id: b1120fd2-e0b3-4ab9-bb32-c35dddc7ed96
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b1120fd2-e0b3-4ab9-bb32-c35dddc7ed96
@@ -450,6 +462,9 @@ references:
     unrelated to Senator Harry Reid
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:10702-10923
+  quote: His replacement was a man whom I did not trust named Garry Reid (no relation
+    to our congressional benefactor, Senator Harry Reid). He had been brought to the
+    OUSD(I) from the special operations community.
   claim_id: 900dd4a3-9342-437d-9180-a6de8346dbad
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-900dd4a3-9342-437d-9180-a6de8346dbad
@@ -458,6 +473,8 @@ references:
     to a three-star general
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch28:5096-5191
+  quote: He was now among the top three senior officials in the OUSD(I), the equivalent
+    of a three-star general.
   claim_id: 053ffe93-45e1-4e36-9d2a-e634b5ee142c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-053ffe93-45e1-4e36-9d2a-e634b5ee142c
@@ -466,6 +483,9 @@ references:
     classified share drive
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch28:5474-5695
+  quote: I returned to Neill's office, gave him the briefing, and handed over a large
+    folder with hard copies of UAP reports. It was several inches thick. I also gave
+    him access to our share folder on the OUSD(I) classified share drive.
   claim_id: d59a96b7-d0f2-4e24-b5ed-3c964044fe10
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d59a96b7-d0f2-4e24-b5ed-3c964044fe10
@@ -474,6 +494,10 @@ references:
     appointee
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch28:1836-2136
+  quote: Brad was hesitant to brief Mattis until my office, OUSD(I), had a permanent
+    appointment. Since Michael Vickers had left his position, the USD(I) was filled
+    with either "acting" or temporary people. The position required a Senate-confirmed
+    person and so the Pentagon was still searching for the right individual.
   claim_id: 8d38261f-f9bd-4082-8855-60dfb2c1b6a1
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8d38261f-f9bd-4082-8855-60dfb2c1b6a1
@@ -482,6 +506,10 @@ references:
     bypassing OUSD(I)
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:12039-12325
+  quote: To move Interloper along, Jay and I circumvented the usual channels in favor
+    of an ACCM process. That means the operation plan would be submitted to the Joint
+    Chiefs of Staff. We were hoping to get around the OUSD(I) because the entire organization
+    had become infested with compromised individuals.
   claim_id: 37ea0bee-1ab6-4bf8-a1c5-907a1953c52d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-37ea0bee-1ab6-4bf8-a1c5-907a1953c52d
@@ -490,6 +518,8 @@ references:
     at OUSD(I)
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:11288-11371
+  quote: Employees would soon file charges with the DoD inspector general about some
+    of his behavior.
   claim_id: c7a7e9ca-5253-4925-84f0-7e926b8e93c9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c7a7e9ca-5253-4925-84f0-7e926b8e93c9
@@ -497,6 +527,7 @@ references:
 - text: Garry Reid was reassigned from OUSD(I)
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:40978-41023
+  quote: they had reassigned Garry Reid from the OUSD(I)
   claim_id: 3c440f66-1d63-4144-8ea6-79d9d831935b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3c440f66-1d63-4144-8ea6-79d9d831935b
@@ -504,6 +535,9 @@ references:
 - text: Elizondo says colleagues told him Reid planned a criminal inquiry with AFOSI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:6566-6727
+  quote: Several people loyal to me who were still at OUSD(I) told me that Reid planned
+    to launch a criminal inquiry with the Air Force Office of Special Investigations
+    (AFOSI).
   claim_id: 41f64a5e-8363-4963-a189-a8ac6b46cd23
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-41f64a5e-8363-4963-a189-a8ac6b46cd23
@@ -512,6 +546,10 @@ references:
     files per a Pentagon FOIA response
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch29:27894-28163
+  quote: Sometime shortly thereafter, someone in OUSD(I) allegedly authorized the
+    complete deletion of all my electronic files, folders, and emails, under the justification
+    that they had "no historic value." Or so claimed a Freedom of Information Act
+    response from the Pentagon itself.
   claim_id: 10e36531-a250-4832-9d33-d971309aa8db
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10e36531-a250-4832-9d33-d971309aa8db
@@ -520,6 +558,8 @@ references:
     to kill AATIP and the UAP Task Force
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:27632-27763
+  quote: My old office, the OUSD(I), was precisely the same organization that had
+    underplayed and tried to kill AATIP and then the UAP Task Force.
   claim_id: dd5cb2d1-6c31-42f7-8bf5-bb2f45b21b0c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dd5cb2d1-6c31-42f7-8bf5-bb2f45b21b0c

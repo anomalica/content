@@ -118,6 +118,9 @@ references:
 - text: Roswell's population, then and at the time of writing
   source: In Plain Sight
   location: ch7:8392-8572
+  quote: These days Roswell is a growing city with a population of about 50,000 but
+    in the late 1940s it was a much smaller town of about 15,000, servicing local
+    farmers and local military bases.
   claim_id: 374893ac-76a5-4ca2-a365-f2cd2d6f62e1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-374893ac-76a5-4ca2-a365-f2cd2d6f62e1
@@ -126,6 +129,8 @@ references:
     the 1930s
   source: In Plain Sight
   location: ch7:8579-8710
+  quote: Since the 1930s, the empty high plains of southeastern New Mexico have been
+    a test area for the United States’ space and aerospace technology.
   claim_id: 87333893-6e9a-4232-9480-010907b2ae24
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-87333893-6e9a-4232-9480-010907b2ae24
@@ -133,6 +138,9 @@ references:
 - text: White Sands testing ground two hours west of the crash site
   source: In Plain Sight
   location: ch7:9314-9537
+  quote: The New Mexico White Sands testing ground, two hours’ drive west of the crash
+    site, was where the US Army had conducted the world’s first-ever detonation of
+    the ‘Trinity’ nuclear device on 16 July 1945.
   claim_id: cf4bf759-8ebf-4025-afbf-0331ff4eebf4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cf4bf759-8ebf-4025-afbf-0331ff4eebf4
@@ -140,6 +148,8 @@ references:
 - text: Robert Goddard's correspondence with Jack Parsons while working near Roswell
   source: Dark Mission
   location: ch12:76538-76664
+  quote: They also frequently corresponded with Robert Goddard, who by that time was
+    working alone in the deserts outside Roswell, New Mexico.
   claim_id: d2c09148-4a1d-48f5-8867-2199141bbe93
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d2c09148-4a1d-48f5-8867-2199141bbe93
@@ -147,6 +157,7 @@ references:
 - text: Annual four-day UFO festival in Roswell
   source: American Cosmic
   location: ch1:1882-1920
+  quote: the town hosts an annual four-day UFO festival
   claim_id: 6ee54ec1-c071-4131-a791-597983587129
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6ee54ec1-c071-4131-a791-597983587129
@@ -154,6 +165,8 @@ references:
 - text: Newspaper reports of odd lights throughout 1947
   source: Communion
   location: ch14:13566-13642
+  quote: Throughout 1947 there were many reports in the New Mexico newspapers of odd
+    lights.
   claim_id: e7d3e503-c3d8-44ae-b38f-0191ccf2a7ac
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-e7d3e503-c3d8-44ae-b38f-0191ccf2a7ac
@@ -161,6 +174,7 @@ references:
 - text: Disc-shaped object seen zigzagging over New Mexico, 1 July 1947
   source: In Plain Sight
   location: ch7:7151-7222
+  quote: On 1 July, a disc-shaped UAP was seen zigzagging across the sky in New Mexico
   claim_id: ac0754c2-4de7-47b5-9707-fc7c7761e17c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ac0754c2-4de7-47b5-9707-fc7c7761e17c
@@ -168,6 +182,9 @@ references:
 - text: Brightly lit object over Roswell, evening of 2 July 1947
   source: Communion
   location: ch14:13947-14135
+  quote: on the evening of July 2, something was seen by members of the public in
+    the skies over Roswell and reported locally. This object was brightly lit and
+    crossed the skies in a northwesterly direction.
   claim_id: 8981523e-1132-431f-a55d-d8560b578966
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-8981523e-1132-431f-a55d-d8560b578966
@@ -175,6 +192,8 @@ references:
 - text: Mac Brazel's account of finding crash debris, 5 July 1947
   source: In Plain Sight
   location: ch7:8249-8384
+  quote: On 5 July 1947, a ranch foreman named Mac Brazel found crash debris scattered
+    across a cattle ranch 120 kilometres from Roswell in New Mexico.
   claim_id: 25b7f4ef-4a4b-415b-9ea4-f5b560915bd0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-25b7f4ef-4a4b-415b-9ea4-f5b560915bd0
@@ -182,6 +201,7 @@ references:
 - text: Brazel drove into Roswell to report the find
   source: In Plain Sight
   location: ch7:8722-8765
+  quote: So Brazel drove into Roswell to report his find.
   claim_id: 0494cac5-669f-4ace-8a20-3d71aaecc62f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0494cac5-669f-4ace-8a20-3d71aaecc62f
@@ -189,6 +209,10 @@ references:
 - text: July 8, 1947 Roswell Army Air Field press release account
   source: Communion
   location: ch14:14700-14972
+  quote: The flying object landed on a ranch near Roswell sometime last week. Not
+    having phone facilities, the rancher stored the disc until such time as he was
+    able to contact the sheriff's office, who in turn notified Major Jesse A. Marcel
+    of the 509th Bomber Group Intelligence Office.
   claim_id: 3f427259-2777-4b14-8bd5-0e352e991f5e
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-3f427259-2777-4b14-8bd5-0e352e991f5e
@@ -196,6 +220,8 @@ references:
 - text: Later report attributing the debris to a weather balloon
   source: Communion
   location: ch14:15172-15249
+  quote: Later a report was issued to the effect that this disk was a crashed weather
+    balloon.
   claim_id: f278d11d-745c-48ac-93aa-04083021b7d9
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-f278d11d-745c-48ac-93aa-04083021b7d9
@@ -213,6 +239,9 @@ references:
 - text: 'Jacobsen: Signal Corps tracked two anomalous objects, July 1947'
   source: In Plain Sight
   location: ch18:1408-1599
+  quote: Jacobsen wrote that in July 1947, US Signal Corps engineers tracked two anomalous
+    objects flying across the south-western United States, the craft sometimes hovering
+    before continuing to fly on.
   claim_id: 933c7ef0-7d69-4eb6-a6ca-c052edd99b50
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-933c7ef0-7d69-4eb6-a6ca-c052edd99b50
@@ -220,6 +249,10 @@ references:
 - text: 'Jacobsen: Joint Chiefs of Staff recovery of airframe and propulsion equipment'
   source: In Plain Sight
   location: ch18:1603-1850
+  quote: One of the flying objects crashed near Roswell and 'immediately, the office
+    of the Joint Chiefs of Staff . . . took command and control and recovered the
+    airframe and some propulsion equipment, including the crashed craft's power plant,
+    or energy source'.
   claim_id: 52a9876c-b751-49e9-bd11-917b0ca90206
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-52a9876c-b751-49e9-bd11-917b0ca90206
@@ -227,6 +260,9 @@ references:
 - text: Jacobsen's description of the craft's shape
   source: In Plain Sight
   location: ch18:1860-2050
+  quote: The craft was nothing like any conventional aircraft, with no wings or tail,
+    a round fuselage and a dome on the top, with secret army memos declassified in
+    1994 referring to it as a 'flying disc'.
   claim_id: 3439fe37-96d0-47ee-8949-f0e416bb3503
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3439fe37-96d0-47ee-8949-f0e416bb3503
@@ -234,6 +270,8 @@ references:
 - text: 1994-declassified Army memos calling the object a flying disc
   source: In Plain Sight
   location: ch18:1977-2050
+  quote: '...with secret army memos declassified in 1994 referring to it as a ''flying
+    disc''.'
   claim_id: 233f477a-b1cd-40e7-8cc1-bb2bda18153b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-233f477a-b1cd-40e7-8cc1-bb2bda18153b
@@ -241,6 +279,8 @@ references:
 - text: 'Elizondo: crash near a government test facility, two crash sites'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:15179-15284
+  quote: A UAP fell that day in the vicinity of a government test facility in New
+    Mexico and broke into two crash sites.
   claim_id: 2758071a-b28c-44e8-8682-25fcfd22e1d5
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2758071a-b28c-44e8-8682-25fcfd22e1d5
@@ -259,6 +299,8 @@ references:
 - text: Edgar Mitchell's upbringing in Roswell
   source: American Cosmic
   location: ch6:23239-23335
+  quote: and his early years growing up in Roswell, New Mexico, the site of the world
+    famous Roswell UFO crash.
   claim_id: f34c3dae-548f-4b87-926d-08eb26ae2f56
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f34c3dae-548f-4b87-926d-08eb26ae2f56
@@ -266,6 +308,9 @@ references:
 - text: Elizondo on Mitchell's Roswell-area upbringing shaping his UAP advocacy
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:8252-8440
+  quote: He was also a longtime champion of the UAP topic, due to his childhood growing
+    up on a ranch in the Roswell, New Mexico, area and what he had since learned as
+    an astronaut.
   claim_id: dd282559-5186-46bd-86bc-762f62edbcfb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dd282559-5186-46bd-86bc-762f62edbcfb
@@ -273,6 +318,9 @@ references:
 - text: Jesse Marcel's later claim of being ordered into a cover-up
   source: In Plain Sight
   location: ch37:260-422
+  quote: Three decades later, Marcel claimed that he was ordered to collude in a cover-up
+    and that the real debris he recovered from near Roswell was extra-terrestrial
+    in origin.
   claim_id: fc6eab2c-4ac6-4c1a-bb80-1c66d33009d5
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fc6eab2c-4ac6-4c1a-bb80-1c66d33009d5
@@ -280,6 +328,10 @@ references:
 - text: Strieber's letter to Thurmond relaying Exon's 1989 remarks
   source: In Plain Sight
   location: ch25:22926-23176
+  quote: Strieber told the Senator in his letter that US Army Brigadier General Arthur
+    Exon had told him personally in 1989 that there was a 'completely unequivocal
+    cover-up' of a retrieved alien craft at Roswell and 'it went from [President Harry]
+    Truman on down'.
   claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b16cf133-6aca-486b-8091-52bd8e641c06
@@ -297,6 +349,8 @@ references:
 - text: Corso's assertion of an alien craft recovered by the US government
   source: In Plain Sight
   location: ch25:22089-22200
+  quote: Corso asserted that there was indeed an alien spacecraft crash at Roswell
+    in 1947 that was recovered by the US government.
   claim_id: 24c1905b-c08b-4619-8042-ea6d3d5c0b3b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-24c1905b-c08b-4619-8042-ea6d3d5c0b3b
@@ -304,6 +358,8 @@ references:
 - text: Elizondo on FBI warnings delivered to local ranchers
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:8596-8738
+  quote: 'FBI agents visited ranchers in the region, going door-to-door to deliver
+    the threatening message: if you speak about the crashes, you will be killed.'
   claim_id: b109f646-8c09-4d39-b776-4530fd5719c2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b109f646-8c09-4d39-b776-4530fd5719c2
@@ -322,6 +378,9 @@ references:
 - text: Time magazine report on rumoured recoveries, January 1950
   source: In Plain Sight
   location: ch8:3847-4020
+  quote: a 9 January 1950 issue of the news magazine Time reported rumours that crashed
+    'flying saucers' and 'small humanoid looking bodies' had been recovered from crashes
+    in New Mexico
   claim_id: 4bad59c8-349b-4c83-bd70-1d6f88776cee
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4bad59c8-349b-4c83-bd70-1d6f88776cee
@@ -329,6 +388,9 @@ references:
 - text: 1950 Guy Hottel FBI memo to Hoover
   source: In Plain Sight
   location: ch8:4028-4267
+  quote: That was followed by an astounding report to Federal Bureau of Investigation
+    (FBI) boss J. Edgar Hoover in March 1950, telling him that an air force investigator
+    had disclosed 'that three so-called flying saucers had been recovered in New Mexico.'
   claim_id: 0ab17aff-9022-4237-b04b-d928a830360a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0ab17aff-9022-4237-b04b-d928a830360a
@@ -336,6 +398,8 @@ references:
 - text: Behind the Flying Saucers' claims of multiple New Mexico crashes
   source: In Plain Sight
   location: ch8:6906-6995
+  quote: which alleged there had been multiple crashes and retrievals of ET flying
+    saucers in New Mexico
   claim_id: 5628ddab-cce3-4da2-b69e-b66aca767b46
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5628ddab-cce3-4da2-b69e-b66aca767b46
@@ -343,6 +407,7 @@ references:
 - text: Hoagland's alternative date for the crash
   source: Dark Mission
   location: ch12:101084-101155
+  quote: and one possible date given for the infamous UFO crash at Roswell, New Mexico
   claim_id: 0fd1d09f-713e-49d9-a306-7968e8508295
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0fd1d09f-713e-49d9-a306-7968e8508295
@@ -350,6 +415,9 @@ references:
 - text: Memo mailed to Jaime Shandera describing the crash and cover-up
   source: Dark Mission
   location: ch12:70522-70692
+  quote: The memo described the now famous crash of a flying saucer in the New Mexico
+    desert in 1947 near Roswell and the recovery of bodies and a subsequent cover-up
+    of the same events.
   claim_id: 76ad3e6a-d2f9-4bda-bf41-e9442230e69a
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-76ad3e6a-d2f9-4bda-bf41-e9442230e69a
@@ -357,6 +425,9 @@ references:
 - text: 'Jacobsen''s Area 51: claim of a Russian-built craft'
   source: In Plain Sight
   location: ch18:2057-2220
+  quote: Where her book courted most controversy was Jacobsen's extraordinary assertion
+    that what crashed at Roswell was actually Russian, crafted by captured Nazi Germany
+    scientists.
   claim_id: edae0e41-581d-4198-9c8b-46d1b88c93df
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-edae0e41-581d-4198-9c8b-46d1b88c93df
@@ -364,6 +435,9 @@ references:
 - text: 'Jacobsen''s Area 51: description of the recovered bodies'
   source: In Plain Sight
   location: ch18:2232-2421
+  quote: Her even more dramatic claim – that bodies found on the craft were those
+    of 'grotesquely deformed' children with unusually large heads and abnormally-shaped
+    oversize eyes – was savaged by sceptics.
   claim_id: cbac31ff-d273-4148-aede-fbd2671cd9cd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cbac31ff-d273-4148-aede-fbd2671cd9cd
@@ -371,6 +445,8 @@ references:
 - text: 'Jacobsen''s source: children comatose but alive'
   source: In Plain Sight
   location: ch18:2766-2844
+  quote: Jacobsen's source also claimed the deformed children were 'comatose but still
+    alive'.
   claim_id: 1dd588aa-e84b-499d-a8e8-1bf3c724f57c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1dd588aa-e84b-499d-a8e8-1bf3c724f57c
@@ -378,6 +454,8 @@ references:
 - text: 'Jacobsen''s Area 51: Stalin''s alleged intent'
   source: In Plain Sight
   location: ch18:2655-2759
+  quote: Joseph Stalin supposedly intended the craft to land at New Mexico and cause
+    a War of the Worlds-style panic.
   claim_id: 1afaeda5-e619-46d5-a742-917a46fd2196
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1afaeda5-e619-46d5-a742-917a46fd2196
@@ -406,6 +484,9 @@ references:
 - text: Hernandez on the Mitchell family's farm supply stores
   source: American Cosmic
   location: ch6:23448-23611
+  quote: Edgar’s parents owned two farm supply stores in the Roswell area and he knew
+    most of the ranchers and workers in the area because they were always in his parents’
+    stores.
   claim_id: d83dfe53-343d-4cc9-93f6-bf78bec76715
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-d83dfe53-343d-4cc9-93f6-bf78bec76715
@@ -413,6 +494,8 @@ references:
 - text: Hernandez on Mitchell's local connections through the family stores
   source: American Cosmic
   location: ch6:23517-23611
+  quote: he knew most of the ranchers and workers in the area because they were always
+    in his parents’ stores.
   claim_id: feb44c45-9458-4c54-a687-5a9384e4ce76
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-feb44c45-9458-4c54-a687-5a9384e4ce76
@@ -420,6 +503,8 @@ references:
 - text: Hernandez on Mitchell's hero status after his Moon return
   source: American Cosmic
   location: ch6:23619-23727
+  quote: He told me that after he came back from the moon he was not only a national
+    hero but a hero to the folks in Roswell.
   claim_id: f14748cb-c02b-4261-afd6-32ce79118734
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-f14748cb-c02b-4261-afd6-32ce79118734
@@ -427,6 +512,9 @@ references:
 - text: Hernandez on local residents' stories told to Mitchell
   source: American Cosmic
   location: ch6:23736-23894
+  quote: When he returned to Roswell, many of the old timers and their children began
+    to pull him aside and told him very intimate stories of the ship that crashed
+    in Roswell.
   claim_id: e06d2874-9f20-4428-b858-379781b35588
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e06d2874-9f20-4428-b858-379781b35588
@@ -446,6 +534,9 @@ references:
 - text: Tyler D. on Roswell/Area 51 as a cover narrative
   source: American Cosmic
   location: ch2:47788-48016
+  quote: Tyler was always fond of saying that the best place to conceal the truth
+    was in a mess of confusion... the UFO narrative was a good cover story for it,
+    or a way to camouflage it.
   claim_id: 510ce15e-9cbf-4860-b665-72850d4778e0
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-510ce15e-9cbf-4860-b665-72850d4778e0
@@ -453,6 +544,9 @@ references:
 - text: Tyler D. on deliberate confusion around the topic
   source: American Cosmic
   location: ch2:49532-49757
+  quote: “Roswell is difficult because not only do humans not understand what is going
+    on within the topic of nonhuman intelligence, but the topic has been intentionally
+    confused and aggravated by some other forces, human and possibly nonhuman.
   claim_id: a6b472a7-4925-47d6-8a91-92e6e04393c3
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a6b472a7-4925-47d6-8a91-92e6e04393c3
@@ -488,6 +582,9 @@ references:
 - text: 1947 Australian sightings preceding the Roswell event
   source: In Plain Sight
   location: ch7:4853-5026
+  quote: These events also all happened just before a sighting event in New Mexico,
+    USA, that, for many, is the origin myth of the great modern extra-terrestrial
+    conspiracy theory – Roswell.
   claim_id: e9764c4e-d543-418b-ab8e-ff7074caf647
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e9764c4e-d543-418b-ab8e-ff7074caf647

@@ -235,6 +235,9 @@ references:
     option
   source: In Plain Sight
   location: ch17:8347-8563
+  quote: An invitation to tender for the contract was issued by the Defence Intelligence
+    Agency in August 2008 and Bigelow was the sole bidder, securing $10 million funding
+    for the first year, with a five-year option for the contract.
   claim_id: 5c11d497-62fe-4f2a-8972-6b85217c5632
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5c11d497-62fe-4f2a-8972-6b85217c5632
@@ -264,6 +267,10 @@ references:
     and funded through Reid, Ted Stevens, and Daniel Inouye
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:17304-17583
+  quote: 'This time, Jim shared that the program enjoyed the support of the DIA''s
+    then director, Lieutenant General Michael D. Maples, and was funded through the
+    efforts of a bipartisan group of senators: Senator Harry Reid (D-NV), Senator
+    Ted Stevens (R-AK), and Senator Daniel Inouye (D-HI).'
   claim_id: 48783ee1-cc4d-4530-89be-e763adf1c0ee
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-48783ee1-cc4d-4530-89be-e763adf1c0ee
@@ -272,6 +279,8 @@ references:
     to Lacatski
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:9945-10085
+  quote: Nestled deep inside DIA, a member of the US intelligence community (the IC),
+    AAWSAP drew its authority directly from Congress, according to Jim.
   claim_id: 10b54b87-31c4-44f8-875b-1d255a1760e6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10b54b87-31c4-44f8-875b-1d255a1760e6
@@ -351,6 +360,9 @@ references:
     Elizondo's portfolio
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:16305-16509
+  quote: Jay, John Robert, and I decided to move the remnants of the effort away from
+    DIA and house it within my portfolio of national programs, ensuring the prying
+    eyes of our detractors would no longer have any visibility.
   claim_id: 66b40ce5-fa68-4695-a91a-6df339ce165c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-66b40ce5-fa68-4695-a91a-6df339ce165c
@@ -376,6 +388,7 @@ references:
 - text: Thomas R. Wilson later became the 13th Director of DIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch43:260-326
+  quote: Later Wilson became the 13th Director of the Defense Intelligence Agency.
   claim_id: e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e0c2c515-70ac-4680-a68b-fa7c3cc85e4c
@@ -384,6 +397,10 @@ references:
     DIA
   source: In Plain Sight
   location: ch14:7920-8196
+  quote: When Greer went into the Pentagon in April 1997 as part of an unusual group
+    of UFO disclosure activists and former military servicemen and was escorted to
+    the innermost ring of America's military headquarters, the offices of the Deputy
+    Director of the US Defense Intelligence Agency,
   claim_id: 3b4b6352-274c-4bd5-bae5-79f4b49b2c41
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3b4b6352-274c-4bd5-bae5-79f4b49b2c41
@@ -392,6 +409,10 @@ references:
     Hughes on UFOs
   source: In Plain Sight
   location: ch14:18395-18635
+  quote: It is to Greer's credit, for example, that he was invited back in 1998 to
+    the Defense Intelligence Agency, again with Commander Willard Miller, to brief
+    the then Director, Wilson's immediate superior, Lieutenant General Patrick Hughes,
+    'on UFOs'.
   claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7928db23-db2e-4c30-a5d8-7ba3454cd06f
@@ -423,6 +444,9 @@ references:
     him it was a real phenomenon needing investigation
   source: In Plain Sight
   location: ch17:2242-2446
+  quote: Reid did not name the scientist, but he said he visited Bigelow's Skinwalker
+    Ranch, presumably about 2007–08, and what the DIA scientist saw there convinced
+    him it was a real phenomenon that needed to be investigated.
   claim_id: c4f3e639-3868-41f2-be1b-6a10455f03d7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c4f3e639-3868-41f2-be1b-6a10455f03d7
@@ -431,6 +455,12 @@ references:
     in front of him at Skinwalker Ranch
   source: In Plain Sight
   location: ch17:2460-2873
+  quote: Bob Bigelow has also revealed that the DIA scientist told him that what shocked
+    him at the ranch was an incident where a three-dimensional object suddenly materialised
+    in front of him, which looked like the triangular metallic 'bent bell' cover art
+    on the front of the Mike Oldfield album Tubular Bells. 'That's the closest thing
+    I can come to as to what the structure of this looked like,' Bigelow says he was
+    told.
   claim_id: 1ffde043-e53b-4446-884d-6bc289deeee6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-1ffde043-e53b-4446-884d-6bc289deeee6
@@ -438,6 +468,7 @@ references:
 - text: Bobby Inman was a former vice director of DIA
   source: Dark Mission
   location: ch14:22713-22755
+  quote: vice director of the Defense Intelligence Agency
   claim_id: 4fdc4d30-ce22-405f-9984-bdf68944fbda
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4fdc4d30-ce22-405f-9984-bdf68944fbda
@@ -446,6 +477,8 @@ references:
     for Intelligence
   source: In Plain Sight
   location: ch21:11636-11755
+  quote: The then US Deputy Secretary of Defense for Intelligence, James Clapper,
+    a former director of the Defense Intelligence Agency
   claim_id: 8489fd4d-b292-43e9-8c20-c0ca2eca871c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8489fd4d-b292-43e9-8c20-c0ca2eca871c
@@ -454,6 +487,10 @@ references:
     other agencies
   source: In Plain Sight
   location: ch21:11763-12072
+  quote: recognised Elizondo's skills and, in 2008, had personally hired him into
+    the office that acts as the principal staff for the Department of Defense on sensitive
+    intelligence-related matters, overseeing a cluster of three-letter DoD agencies,
+    including the Defense Intelligence Agency and the National Security Agency
   claim_id: 264fac5f-5e8c-4840-ae89-50f9c152e404
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
@@ -462,6 +499,8 @@ references:
     at ODNI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:48858-48974
+  quote: In 2010, a man I’ll call Devon Woods, who previously served as a senior leader
+    at ODNI, became a senior director at DIA.
   claim_id: 60ffab77-82cf-441a-ad9a-cfe09ba7a51b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-60ffab77-82cf-441a-ad9a-cfe09ba7a51b
@@ -469,6 +508,7 @@ references:
 - text: Woods brought in CIA colleagues after moving to DIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:6629-6666
+  quote: Woods brought in colleagues from the CIA.
   claim_id: 5c6dd328-033d-4485-b5a5-76bee2fe256a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-5c6dd328-033d-4485-b5a5-76bee2fe256a
@@ -476,6 +516,8 @@ references:
 - text: Higgins had recently taken over as DIA's Director of Operations
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:18431-18506
+  quote: As it so happened, he had recently taken over as the DIA's new Director of
+    Operations.
   claim_id: 3852f674-2ea8-4d32-b3f0-651513d12b9d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3852f674-2ea8-4d32-b3f0-651513d12b9d
@@ -484,6 +526,10 @@ references:
     within DIA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch16:18562-18794
+  quote: '"Michael, I need you to protect one of our scientists. He is a good man
+    who has done great things for our country, and your agency is trying to persecute
+    him. I need to call in a favor and make sure he is protected from internal DIA
+    forces."'
   claim_id: 427be487-8a34-4076-b078-fbb64dac409a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-427be487-8a34-4076-b078-fbb64dac409a
@@ -492,6 +538,9 @@ references:
     at senior level
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:47700-47912
+  quote: An increasing number of AAWSAP detractors now worked at the senior level
+    within DIA. More and more scrutiny was being placed on AAWSAP every day and new
+    executive leadership at DIA was getting settled into their roles.
   claim_id: 4b031331-4f65-4c05-97cc-13c42161dc1e
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4b031331-4f65-4c05-97cc-13c42161dc1e
@@ -500,6 +549,9 @@ references:
     to kill AAWSAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:47919-48127
+  quote: Within a matter of weeks of the transition, Lacatski began spending most
+    of his time defending his efforts instead of conducting research. The powers that
+    be in the ivory tower now actively tried to kill the program.
   claim_id: 61ba409a-3b22-47a6-9f3a-06d01a57c364
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-61ba409a-3b22-47a6-9f3a-06d01a57c364
@@ -521,6 +573,10 @@ references:
     to use psychic abilities
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:24728-24968
+  quote: Stargate was embedded in the federal government, run for years by the CIA,
+    and later the DIA. Recruits were trained to spy upon enemies, but not in the usual
+    way. Stargate trained "supersoldiers" to spy on hard targets using their psychic
+    gifts.
   claim_id: 0a7c699d-a5ce-40cd-811f-2c609a3892be
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0a7c699d-a5ce-40cd-811f-2c609a3892be

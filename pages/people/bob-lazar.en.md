@@ -208,6 +208,9 @@ references:
     have reverse-engineered alien propulsion at Area 51
   source: In Plain Sight
   location: ch13:19774-19967
+  quote: Lazar is a Nevada businessman who went public in the late 1980s with incredible,
+    and much disputed, claims that he worked as a physicist at Area 51 on reverse-engineering
+    propulsion systems of recovered ali
   claim_id: e4c42ac4-a09a-40be-9498-99d61101dd72
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e4c42ac4-a09a-40be-9498-99d61101dd72
@@ -216,6 +219,10 @@ references:
     work on a recovered flying saucer at S4
   source: In Plain Sight
   location: ch13:20633-20945
+  quote: Years later, in 1989, Lazar went public in an interview with investigative
+    journalist George Knapp on Las Vegas TV station KLAS, asserting (anonymously,
+    at first) his purported employment working on a recovered extra-terrestrial flying
+    saucer at the supposed S-4 facility, adjacent to Papoose Lake south of Area 51
   claim_id: 46f173e7-f7db-489f-92fa-3898e1612ad0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-46f173e7-f7db-489f-92fa-3898e1612ad0
@@ -223,6 +230,8 @@ references:
 - text: Jim Goodall met Lazar before he made the S4 allegation
   source: In Plain Sight
   location: ch13:19995-20095
+  quote: Goodall met Lazar well before he ever made the allegation that he had worked
+    at so-called Site 4 (S-4)
   claim_id: 121dbc7b-e9b6-48f3-9ca5-8fbc588fbdcd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-121dbc7b-e9b6-48f3-9ca5-8fbc588fbdcd
@@ -230,6 +239,9 @@ references:
 - text: At their first meeting Lazar was a UFO sceptic who mocked John Lear
   source: In Plain Sight
   location: ch13:20222-20408
+  quote: Goodall told me that, at their first meeting in the early 1980s, Bob Lazar
+    was actually a UFO sceptic and both of them mocked a mutual pilot friend John
+    Lear for his outspoken belief in UFOs
   claim_id: 5a8938ec-3e4f-4006-b067-acda48e5ce5c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5a8938ec-3e4f-4006-b067-acda48e5ce5c
@@ -238,6 +250,8 @@ references:
     are real
   source: In Plain Sight
   location: ch13:20415-20555
+  quote: ‘Bob Lazar said, “I’m a nuclear physicist and . . . I wouldn’t admit that
+    UFOs are real even if you put a gun to my head,”’ Goodall recalled ironically
   claim_id: 431f0285-f20b-4cd3-8dd3-c70eeedfdf9d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-431f0285-f20b-4cd3-8dd3-c70eeedfdf9d
@@ -246,6 +260,12 @@ references:
     near the alleged S4 site
   source: In Plain Sight
   location: ch13:21211-21839
+  quote: another Area 51 source of his went treasure-hunting near where Lazar said
+    the mythical S-4 site was located, a 30-minute south-westerly drive from the main
+    Area 51 base... 'there were a handful of black clad security guys with weapons
+    wanting to know, "What are you doing here? Let's see some ID,"' Goodall said.
+    He said what struck his source the most was that the security men did not arrive
+    by vehicle, yet there was no evidence of any building or tunnel they came from.
   claim_id: c12eaf28-ca0e-4d40-8c76-c4bacd9ffdbf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c12eaf28-ca0e-4d40-8c76-c4bacd9ffdbf
@@ -254,6 +274,8 @@ references:
     wiping his degree records
   source: In Plain Sight
   location: ch13:23394-23531
+  quote: Lazar has claimed that when he went public, the official cover-up began,
+    and this included the men in black wiping his university degree records.
   claim_id: 706cdca3-7e30-4ba6-9845-e0569c3bdf59
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-706cdca3-7e30-4ba6-9845-e0569c3bdf59
@@ -262,6 +284,10 @@ references:
     and his own tour of the facility
   source: In Plain Sight
   location: ch13:23810-24116
+  quote: Journalist George Knapp has convincingly rebutted official denials that Lazar
+    ever worked at Los Alamos National Laboratory in New Mexico; not only is there
+    an old news story placing him there, Lazar sneaked Knapp into the secure facility
+    and Lazar was clearly very familiar with the site and knew workers inside.
   claim_id: a2578240-b430-4934-ae53-5e9e9911ac02
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a2578240-b430-4934-ae53-5e9e9911ac02
@@ -269,6 +295,8 @@ references:
 - text: Jeremy Corbell located a witness Lazar said had vetted his Area 51 clearance
   source: In Plain Sight
   location: ch13:24124-24222
+  quote: Filmmaker Jeremy Corbell also found a witness whom Lazar said vetted him
+    for his Area 51 security clearance.
   claim_id: 0d3f353e-2e00-45ff-945d-832286061739
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d3f353e-2e00-45ff-945d-832286061739
@@ -286,6 +314,9 @@ references:
     felony pandering
   source: In Plain Sight
   location: ch13:24239-24430
+  quote: it did not help Lazar's credibility that, in 1990, he was arrested for aiding
+    and abetting a prostitution ring, a charge eventually reduced to felony pandering,
+    for which he served community service
   claim_id: bbb9cef6-bf38-4a8c-a209-92550070c0c2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bbb9cef6-bf38-4a8c-a209-92550070c0c2
@@ -360,6 +391,9 @@ references:
 - text: David Fruehauf went public partially backing Lazar and called him very credible
   source: In Plain Sight
   location: ch13:22093-22326
+  quote: Two decades later, a former SR-71 pilot, David Fruehauf (whom I surmise was
+    Jim Goodall's confidential 'Dave' source), went public in a television interview,
+    partially backing Lazar's claims. 'I think he's very credible,' Fruehauf asserted.
   claim_id: 13282920-8ccf-48a6-95f1-8062c0345ff4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-13282920-8ccf-48a6-95f1-8062c0345ff4
@@ -367,6 +401,9 @@ references:
 - text: Fruehauf said Lazar's account was very accurate and sounded totally believable
   source: In Plain Sight
   location: ch13:22991-23149
+  quote: Lazar was never at Area 51 at the same time as Fruehauf, but Fruehauf said
+    Lazar's account was very accurate. 'He sounded totally believable to me,' Fruehauf
+    said.
   claim_id: 72b4ac21-be05-4071-b16e-19dd070530cc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-72b4ac21-be05-4071-b16e-19dd070530cc
@@ -374,6 +411,7 @@ references:
 - text: Fruehauf said he knew witnesses who saw Lazar at Area 51
   source: In Plain Sight
   location: ch13:23155-23221
+  quote: He also claimed he knew witnesses who saw Lazar somewhere at Area 51.
   claim_id: 0d3a2ac4-92fc-43eb-a20d-f93256be5cff
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0d3a2ac4-92fc-43eb-a20d-f93256be5cff

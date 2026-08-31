@@ -51,6 +51,7 @@ references:
 - text: Marine Corps veteran
   source: In Plain Sight
   location: ch8:2935-2963
+  quote: Marine Corps veteran Donald Keyhoe
   claim_id: c5f1048d-e83e-4092-8a3a-5cbf50fff505
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5f1048d-e83e-4092-8a3a-5cbf50fff505
@@ -58,6 +59,8 @@ references:
 - text: Retired Marine aviator and head of NICAP, a civilian research organisation
   source: American Cosmic
   location: ch4:43149-43284
+  quote: Donald Keyhoe, a retired Marine aviator who was head of the National Investigations
+    Committee on Aerial Phenomena, a civilian research organization.
   claim_id: e3d751cf-efbf-439a-9a50-f8a21f6aecf5
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e3d751cf-efbf-439a-9a50-f8a21f6aecf5
@@ -65,6 +68,8 @@ references:
 - text: Co-founder of NICAP
   source: In Plain Sight
   location: ch8:14300-14398
+  quote: The co-founder of the National Investigations Committee on Aerial Phenomena
+    (NICAP), Major Donald Keyhoe
   claim_id: ab0f8e65-e4a8-4f76-8c52-71a859d7b376
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ab0f8e65-e4a8-4f76-8c52-71a859d7b376
@@ -72,6 +77,8 @@ references:
 - text: Published the article 'Flying Saucers Are Real' in True magazine in late 1949
   source: In Plain Sight
   location: ch8:2970-3072
+  quote: published his dramatic article 'Flying Saucers Are Real' in the popular men's
+    magazine True in late 1949
   claim_id: 20762c32-caf6-4ca0-b049-7110c54f9a7e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-20762c32-caf6-4ca0-b049-7110c54f9a7e
@@ -89,6 +96,9 @@ references:
     to avoid panic
   source: In Plain Sight
   location: ch8:3078-3258
+  quote: In his best-selling book of the same name, he claimed the US Air Force knew
+    that the mystery objects were extra-terrestrial but that it was playing down reports
+    to avoid a public panic
   claim_id: 994493a8-70e4-4b3c-a61b-ec95bb4e8332
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-994493a8-70e4-4b3c-a61b-ec95bb4e8332
@@ -106,6 +116,9 @@ references:
 - text: Contended more technologically advanced alien beings existed
   source: American Cosmic
   location: ch4:43333-43502
+  quote: In the book Keyhoe contends that there are alien beings that are more technologically
+    advanced than humans and that the US Department of Defense is keeping the evidence
+    secret.
   claim_id: aec8d1f0-098d-47cc-a71e-0769637bdc62
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-aec8d1f0-098d-47cc-a71e-0769637bdc62
@@ -113,6 +126,7 @@ references:
 - text: Contended the Department of Defense was keeping evidence of alien beings secret
   source: American Cosmic
   location: ch4:43449-43502
+  quote: the US Department of Defense is keeping the evidence secret.
   claim_id: 9dec7b03-6d63-45b9-bc6a-c7bed9fdf8a7
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9dec7b03-6d63-45b9-bc6a-c7bed9fdf8a7
@@ -121,6 +135,8 @@ references:
     km/h
   source: In Plain Sight
   location: ch8:14406-14498
+  quote: wrote how Kimball later told him the discs flew at speeds up to 2000 miles
+    an hour (3200 km/h)
   claim_id: 9842b1a1-4966-49c4-92a1-460bf896a8fd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9842b1a1-4966-49c4-92a1-460bf896a8fd
@@ -129,6 +145,11 @@ references:
     beings'
   source: American Cosmic
   location: ch5:7068-7389
+  quote: They reported empirical evidence to the Air Force, the sighting of the starlike
+    object. But when describing their experience to people they felt would not be
+    inclined to scoff, like Donald Keyhoe and later their therapist (who, ironically,
+    did not believe in UFOs), they divulged the story of the encounter with nonhuman
+    beings.
   claim_id: 0ab8d589-9486-4efc-ab61-f5aaaeeb4074
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-0ab8d589-9486-4efc-ab61-f5aaaeeb4074
@@ -136,6 +157,10 @@ references:
 - text: Australian DAFI dismissed Turner's findings for quoting Keyhoe
   source: In Plain Sight
   location: ch9:9728-10016
+  quote: because Harry Turner quoted US best-selling flying saucer author and National
+    Investigations Committee on Aerial Phenomena director Major Donald Keyhoe in his
+    research, Australia’s Director of Air Force Intelligence dismissed Professor Turner’s
+    findings, after consulting with the US Air Force
   claim_id: dd1d2293-344b-4e05-9d78-cde44a42bd21
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dd1d2293-344b-4e05-9d78-cde44a42bd21
@@ -144,6 +169,9 @@ references:
     Keyhoe
   source: In Plain Sight
   location: ch9:10023-10194
+  quote: He said Professor Turner had ‘erred’ in quoting Keyhoe because the former
+    marine major supposedly gave the misleading impression his books had some official
+    US government sanction.
   claim_id: ddde7cb4-bb1f-423c-846f-8551fc0b53e3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ddde7cb4-bb1f-423c-846f-8551fc0b53e3

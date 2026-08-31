@@ -48,6 +48,10 @@ references:
     the project is compartmented, designated SCI, and given a codename
   source: In Plain Sight
   location: ch14:10905-11193
+  quote: A further cloak of secrecy in addition to the highest top-secret security
+    classification, an SAP designation is not actually a higher security classification
+    than top secret. It simply means the project is compartmented, deemed Sensitive
+    Compartmented Information (SCI), and designated a codename.
   claim_id: de3ff492-ce39-439d-a46e-1951886776b7
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-de3ff492-ce39-439d-a46e-1951886776b7
@@ -56,6 +60,9 @@ references:
     unless formally read into the programme
   source: In Plain Sight
   location: ch14:11203-11384
+  quote: Even the most senior military officials with the highest top-secret security
+    clearance are forbidden from knowing the details behind an SAP/SCI codename unless
+    they are *read* into it.
   claim_id: d52efcdf-a24a-423a-8e1f-7f02b01e8795
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d52efcdf-a24a-423a-8e1f-7f02b01e8795
@@ -63,6 +70,7 @@ references:
 - text: A SCIF blocks sound, radio, and electromagnetic waves
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:457-504
+  quote: They block sound and radio and electromagnetic waves.
   claim_id: ee1f691b-d332-4e00-942e-9156c7be205a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ee1f691b-d332-4e00-942e-9156c7be205a
@@ -71,6 +79,9 @@ references:
     SCI projects inside SAPs
   source: In Plain Sight
   location: ch13:9050-9253
+  quote: His role on the Senate Intelligence Committee staff required him to review
+    top-secret Sensitive Compartmented Information (SCI) projects inside Special Access
+    Programs (SAPs), most of which still remain classified.
   claim_id: 3001af87-f811-4ab3-8454-e641775abf6d
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3001af87-f811-4ab3-8454-e641775abf6d
@@ -78,6 +89,8 @@ references:
 - text: Podesta held top-secret/SCI clearances under Presidents Obama and Clinton
   source: In Plain Sight
   location: ch20:17002-17135
+  quote: He is a senior and well-respected public servant who held top-secret/SCI
+    clearances in his past roles with both Presidents Obama and Clinton.
   claim_id: 3476f827-1a18-46dd-9d45-2c4cb30fc3b1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3476f827-1a18-46dd-9d45-2c4cb30fc3b1
@@ -86,6 +99,11 @@ references:
     with TS-SCI clearance should be surprised at being refused information by a contractor
   source: In Plain Sight
   location: ch14:19672-19916
+  quote: 'Sources with top-secret and
+
+    compartmented security clearances say no senior military official with a Top Secret
+    Sensitive Compartmented Information (TS-SCI) clearance should ever be surprised
+    at such a refusal from a contractor.'
   claim_id: 39039e6e-dc99-46fc-8b81-82f6f6b4266e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-39039e6e-dc99-46fc-8b81-82f6f6b4266e
@@ -93,6 +111,7 @@ references:
 - text: Stratton and Lacatski briefed Elizondo on AAWSAP/AATIP in a SCIF
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:245-295
+  quote: Jay and Jim began briefing me on the program in a SCIF
   claim_id: 8deb1fc1-e9a8-429c-8ce4-36fe34463cf9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8deb1fc1-e9a8-429c-8ce4-36fe34463cf9
@@ -100,6 +119,9 @@ references:
 - text: Puthoff visited the Pentagon and met Elizondo's team in a SCIF
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch24:102-275
+  quote: I’d just returned from an international work trip when I learned that our
+    friend Hal was in town and visiting the Pentagon. He had news to share and was
+    waiting for us in a SCIF.
   claim_id: 0bbb1f27-0179-432e-838b-8deb80f0b49f
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0bbb1f27-0179-432e-838b-8deb80f0b49f
@@ -108,6 +130,9 @@ references:
     hours
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch24:24299-24497
+  quote: We had been in the SCIF now for several hours. Hal had explained how the
+    primary observables were possible, even the sizes and shapes of the various craft
+    seen over the years, based upon propulsion theories.
   claim_id: b2856dd5-7785-4f6c-a521-eda209f3201c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b2856dd5-7785-4f6c-a521-eda209f3201c
@@ -116,6 +141,9 @@ references:
     nuclear sites during the SCIF discussion
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch24:24535-24757
+  quote: 'a list of commonalities of UAP encounters was discussed... we realized what
+    this also suggested: the explanation for why there has been so much UAP activity
+    around our nuclear sites and technologies'
   claim_id: 77602d32-e0e9-4ade-a8f5-5cfa4f5dc8c9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-77602d32-e0e9-4ade-a8f5-5cfa4f5dc8c9
@@ -124,6 +152,8 @@ references:
     efforts with Mellon for three hours in a SCIF
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch26:4997-5137
+  quote: For the next three hours, I proceeded to share with Chris our reports, photographs,
+    pictures, and data, and intel we had gathered on legacy efforts.
   claim_id: 85942a3a-ae62-41a6-a9da-e60e2c6f79e6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-85942a3a-ae62-41a6-a9da-e60e2c6f79e6
@@ -131,6 +161,8 @@ references:
 - text: Mellon visited Elizondo's SCIF unannounced and offered to help AATIP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch26:613-675
+  quote: '"Hi! I’m Chris Mellon," he said. ... Chris expressed interest in helping
+    us.'
   claim_id: f857fd9d-d07b-4a06-9193-cc294b27a769
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-f857fd9d-d07b-4a06-9193-cc294b27a769
@@ -139,6 +171,9 @@ references:
     were held in SCIF spaces at the Pentagon and other agencies
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch23:13729-13930
+  quote: The NSA and CIA offered to provide assets as well, and we launched weekly
+    meetings in the SCIF spaces we had available. Some of these meetings occurred
+    at the Pentagon, while others were held at other agencies.
   claim_id: 9068dff4-55d0-482f-b78b-6cf064438682
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9068dff4-55d0-482f-b78b-6cf064438682
@@ -147,6 +182,10 @@ references:
     than requiring SCIF viewing
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch27:2575-2878
+  quote: Instead of having experts get clearance and be forced to view the footage
+    in a SCIF with us, I envisioned declassifying some videos and making them available
+    on a secure government server. We would share the appropriate password with handpicked
+    colleagues and instruct them to watch the videos at their leisure.
   claim_id: 4487391b-4f0b-4690-bfe0-c361a313fb5a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4487391b-4f0b-4690-bfe0-c361a313fb5a
@@ -155,6 +194,8 @@ references:
     Act in 2023
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch32:6334-6444
+  quote: I quietly made multiple trips from my home to DC, where I logged many hours
+    alone in a SCIF with our nation's leaders
   claim_id: 9585c33d-b12c-4976-851f-b57c3bc2033c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9585c33d-b12c-4976-851f-b57c3bc2033c

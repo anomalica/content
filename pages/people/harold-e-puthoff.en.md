@@ -421,6 +421,8 @@ references:
 - text: Puthoff is a physicist and engineer
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:1816-1942
+  quote: He is a physicist, an engineer, and a man of deep mystery when it comes to
+    some of America’s most sensitive and controversial projects.
   claim_id: 19bba9c6-a8ad-4e58-be5b-0719f3911257
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-19bba9c6-a8ad-4e58-be5b-0719f3911257
@@ -429,6 +431,8 @@ references:
     projects
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:1952-2045
+  quote: For over fifty years, he worked as the chief scientist on highly classified
+    projects for the government.
   claim_id: 10c1dbf7-8d33-4182-a63c-0c207711dd27
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10c1dbf7-8d33-4182-a63c-0c207711dd27
@@ -436,6 +440,7 @@ references:
 - text: Earned his PhD from Stanford University in 1967
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2368-2415
+  quote: Hal earned his PhD from Stanford University in 1967.
   claim_id: a204dd47-287c-48cb-b4a7-99a80528c391
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a204dd47-287c-48cb-b4a7-99a80528c391
@@ -444,6 +449,8 @@ references:
     and SRI International
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2421-2542
+  quote: His professional background spans decades of research at General Electric,
+    Sperry, the NSA, Stanford University, and SRI International
   claim_id: 29055d3f-19b0-4a6e-9149-aa17ec070132
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-29055d3f-19b0-4a6e-9149-aa17ec070132
@@ -452,6 +459,9 @@ references:
     DoD and NSA
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2561-2734
+  quote: he has served almost every government entity (for example, the Department
+    of Defense and agencies within the intelligence community, such as the NSA) as
+    a senior scientific advisor.
   claim_id: b303af53-033c-4220-97ba-a1ddfd6b2cc6
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b303af53-033c-4220-97ba-a1ddfd6b2cc6
@@ -459,6 +469,7 @@ references:
 - text: Published numerous papers on quantum physics, lasers, and space propulsion
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2743-2810
+  quote: He published numerous papers on quantum physics, lasers, and space propulsion
   claim_id: 0972f2ae-6488-4ef5-92ea-d1cb7594f597
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0972f2ae-6488-4ef5-92ea-d1cb7594f597
@@ -466,6 +477,8 @@ references:
 - text: Held patents in the laser, energy, and communications fields
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2826-2910
+  quote: had patents issued in the laser, energy, and communications fields, which
+    I suggest reading.
   claim_id: fec64ee5-a550-49a7-8d36-52f16499377c
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fec64ee5-a550-49a7-8d36-52f16499377c
@@ -473,6 +486,8 @@ references:
 - text: Reported directly to the White House and the CIA director in various capacities
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2057-2163
+  quote: In various past capacities, he had regularly reported directly to the White
+    House and the director of the CIA.
   claim_id: d267f396-9477-4118-9435-449a2ca88ffd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d267f396-9477-4118-9435-449a2ca88ffd
@@ -490,6 +505,8 @@ references:
 - text: Pioneered the remote viewing technique at Stanford in the late 1960s
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:25107-25203
+  quote: The program, pioneered at Stanford University in the late 1960s, was led
+    by none other than Hal Puthoff
   claim_id: c17217b6-187a-479f-abcb-d31254a39eb7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c17217b6-187a-479f-abcb-d31254a39eb7
@@ -497,6 +514,9 @@ references:
 - text: He and Targ approached by CIA and told Russia had a remote viewing programme
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:25266-25447
+  quote: Hal had been a Stanford University researcher and an employee of the NSA
+    when he and his colleague Russell Targ were approached by the CIA and told that
+    Russia had a remote-viewing program.
   claim_id: 625a284f-b4d0-4b1e-a20c-70cf133e40cc
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-625a284f-b4d0-4b1e-a20c-70cf133e40cc
@@ -504,6 +524,8 @@ references:
 - text: Puthoff previously managed the CIA's Stargate program
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:45073-45180
+  quote: The last time Hal had made this much progress on a program was during his
+    time managing the CIA’s Stargate program.
   claim_id: 401b6b38-170a-4e42-9d6e-697b04b42951
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-401b6b38-170a-4e42-9d6e-697b04b42951
@@ -512,6 +534,8 @@ references:
     output, 1972-1986
   source: Remote Viewing Secrets
   location: ch9:7692-7822
+  quote: These accomplishments were and are directly attributable to Dr. Hal Puthoff
+    and Mr. Russell Targ in the early years, 1972 through 1986
   claim_id: f4cb33f4-fcae-4d9c-ac99-b5f27a536892
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f4cb33f4-fcae-4d9c-ac99-b5f27a536892
@@ -520,6 +544,8 @@ references:
     1976, brought notoriety to the field
   source: Remote Viewing Secrets
   location: ch17:4388-4541
+  quote: Historically this is the baseline protocol that brought notoriety to remote
+    viewing following publication in the IEEE by Hal Puthoff and Russell Targ in 1976.
   claim_id: 28ae29f3-6fce-459c-b88b-a56ed32a6fc8
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-28ae29f3-6fce-459c-b88b-a56ed32a6fc8
@@ -528,6 +554,8 @@ references:
     and White House regularly
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch11:25998-26111
+  quote: Stargate became so successful, Hal reported directly to the director of the
+    CIA and the White House on a regular basis.
   claim_id: 2a4f3cc7-d302-42db-9dce-536be33d2b9d
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-2a4f3cc7-d302-42db-9dce-536be33d2b9d
@@ -536,6 +564,10 @@ references:
     procedure
   source: Remote Viewing Secrets
   location: ch16:2166-2423
+  quote: The development at SRI of a successful experimental procedure to elicit this
+    capability has evolved to the point where persons such as visiting government
+    scientists and contract monitors, with no previous exposure to such concepts,
+    have learned to perform well
   claim_id: fadb57c8-ea4e-41aa-ac48-caede7a11946
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-fadb57c8-ea4e-41aa-ac48-caede7a11946
@@ -543,6 +575,8 @@ references:
 - text: Most subjects displayed some remote-viewing talent from the outset
   source: Remote Viewing Secrets
   location: ch16:3847-3958
+  quote: 'most of the people Hal and Russell worked with were the ones who: A: Displayed
+    some degree of talent from the outset.'
   claim_id: f0f06ca1-2502-415c-bab2-b490d93768f7
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-f0f06ca1-2502-415c-bab2-b490d93768f7
@@ -550,6 +584,8 @@ references:
 - text: Subjects typically continued out of personal interest, a form of self-selection
   source: Remote Viewing Secrets
   location: ch16:3967-4096
+  quote: 'B: Voluntarily chose to continue involvement out of a strong personal interest
+    in the subject (which is obviously a form of self-selection).'
   claim_id: 0a65b0eb-f7d0-467d-9cb8-a2daff7291b5
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-0a65b0eb-f7d0-467d-9cb8-a2daff7291b5
@@ -578,6 +614,10 @@ references:
     alleged UFO bases, 1973
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch23:30560-30821
+  quote: In 1973 Pat Price, one of the “stars” of the Stanford Research Institute’s
+    (SRI) genesis RV program, gave an unsolicited package to Hal Puthoff, one of the
+    key scientists running the SRI project. It contained Price’s remote viewing notes
+    of four “UFO bases” on Earth.
   claim_id: 3e907b24-9c5a-4782-90b9-5a0f34231f7d
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-3e907b24-9c5a-4782-90b9-5a0f34231f7d
@@ -585,6 +625,10 @@ references:
 - text: 1997 paper commenting on possible UFO artefact samples from the Ubatuba object
   source: In Plain Sight
   location: ch24:10686-10976
+  quote: In a 1997 paper, Hal Puthoff commented about 'possible UFO artifact' samples
+    recovered from a Brazilian UAP – the so-called Ubatuba object, which reportedly
+    ejected pure magnesium metal fragments as it flew over Ubatuba in San Paulo province
+    in Brazil in two separate incidents in 1954 and 1957.
   claim_id: 49d58839-8747-498b-9c46-21b82c9704fa
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-49d58839-8747-498b-9c46-21b82c9704fa
@@ -593,6 +637,10 @@ references:
     than ordinary magnesium
   source: In Plain Sight
   location: ch24:10983-11281
+  quote: '''Laboratory analysis of the samples found the magnesium to be not only
+    of exceptional purity, and anomalous in its trace composition of other elements,
+    but 6.7% denser than ordinary pure magnesium, a figure well beyond the experimental
+    error of the measurement,'' Puthoff wrote in the same 1997 book review.'
   claim_id: d6a3d1bd-6836-471c-aa8a-c9f038bf7d46
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d6a3d1bd-6836-471c-aa8a-c9f038bf7d46
@@ -600,6 +648,10 @@ references:
 - text: Result considered anomalous, possibly evidence of extraterrestrial manufacture
   source: In Plain Sight
   location: ch24:11479-11741
+  quote: '''Since the only isotope separation on a significant scale in terrestrial
+    manufacture is that of uranium, such a result must be considered at least anomalous,
+    and possibly as evidence for extra-terrestrial manufacture,'' Puthoff wrote in
+    1997.'
   claim_id: 084db541-92b6-4855-a360-9a45aafd9fb6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-084db541-92b6-4855-a360-9a45aafd9fb6
@@ -608,6 +660,9 @@ references:
     material
   source: In Plain Sight
   location: ch24:2948-3154
+  quote: '''Nowhere could we find any evidence that anybody ever made one of these.
+    When we talked to people in the materials field who should know, they said we
+    don''t know why anybody would want to make anything like this.'''
   claim_id: ba8529e8-7980-47d6-9312-1c5dd7138404
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ba8529e8-7980-47d6-9312-1c5dd7138404
@@ -615,6 +670,10 @@ references:
 - text: '2012 letter to Linda Moulton Howe: tests did not produce an anomalous outcome'
   source: In Plain Sight
   location: ch24:3163-3486
+  quote: A letter from Dr Hal Puthoff (formerly with TTSA) to Linda Moulton Howe in
+    2012, revealed by journalist M.J. Banias on Motherboard, admitted that tests he
+    did back then on the Art's Parts samples 'did not yield an interesting/anomalous
+    outcome in the tests involving the application of various fields'.
   claim_id: 21997da8-5d5c-407e-a042-57f3d9d59dbb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-21997da8-5d5c-407e-a042-57f3d9d59dbb
@@ -623,6 +682,9 @@ references:
     frequencies'
   source: In Plain Sight
   location: ch24:3496-3701
+  quote: But then Puthoff later told a Las Vegas conference in 2018 that the bismuth/magnesium
+    samples 'turn out to be an excellent microscopic waveguide for very high frequency
+    electromagnetic radiation terahertz frequencies'.
   claim_id: cde7b204-8177-4d96-8aef-eb13cebb8668
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-cde7b204-8177-4d96-8aef-eb13cebb8668
@@ -631,6 +693,9 @@ references:
     analyse them'
   source: In Plain Sight
   location: ch23:12669-12902
+  quote: There was a disclosure notice by TTSA to the Securities Exchange Commission
+    (SEC) revealing that in 2019 Tom DeLonge sold the same six 'Art's Parts' samples
+    to his company for $35,000 and that Hal Puthoff would be analysing them for TTSA.
   claim_id: 529dd6d7-40b5-4486-a95f-b7d9734f6a56
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-529dd6d7-40b5-4486-a95f-b7d9734f6a56
@@ -639,6 +704,10 @@ references:
     energy propulsion plans'
   source: In Plain Sight
   location: ch23:17382-17615
+  quote: An earlier 2018 disclosure TTSA made to the US Securities and Exchange Commission
+    revealed that TTSA has already retained Hal Puthoff's EarthTech International
+    Inc. to prepare plans on materials analysis and beamed energy propulsion launch
+    systems
   claim_id: fba74d5a-7425-4b66-b07c-ffb54813d1d9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fba74d5a-7425-4b66-b07c-ffb54813d1d9
@@ -646,6 +715,7 @@ references:
 - text: Puthoff worked for the NSA and the CIA
   source: In Plain Sight
   location: ch24:8072-8107
+  quote: Hal Puthoff worked for the NSA and CIA.
   claim_id: acaafa83-9eaa-450f-abcb-95aac0f83f9f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-acaafa83-9eaa-450f-abcb-95aac0f83f9f
@@ -675,6 +745,8 @@ references:
 - text: Puthoff was TTSA's third co-founder
   source: In Plain Sight
   location: ch21:970-1045
+  quote: There was also the third co-founder of TTSA, Dr Hal Puthoff, a theoretical
+    physicist
   claim_id: 9f2ce322-558b-4eda-8977-2b5c73ae88cb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9f2ce322-558b-4eda-8977-2b5c73ae88cb
@@ -682,6 +754,10 @@ references:
 - text: Helped lead TTSA's campaign for government UAP disclosure
   source: In Plain Sight
   location: ch28:6667-6924
+  quote: Is it also just a coincidence that Dr Hal Puthoff, one of those who led the
+    campaign through To The Stars Academy (TTSA) to get the US government to open
+    up on what it knows about UAPs, is the boffin who the US Navy quotes in support
+    of a faster-than-light spacecraft?
   claim_id: db5a3ef1-72f5-48fb-a48d-f2e4448c761e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db5a3ef1-72f5-48fb-a48d-f2e4448c761e
@@ -699,6 +775,7 @@ references:
 - text: DeLonge disclosed Puthoff's resignation as TTSA director, 2021
   source: In Plain Sight
   location: ch21:23850-23908
+  quote: but also, a week later, Dr Hal Puthoff's resignation as a director.
   claim_id: 3858175d-54db-4ce6-bd6c-d49e54573a31
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3858175d-54db-4ce6-bd6c-d49e54573a31
@@ -706,6 +783,8 @@ references:
 - text: Puthoff transitioned to TTSA's scientific advisory board
   source: In Plain Sight
   location: ch21:24145-24301
+  quote: As a result, Dr. Harold E. Puthoff, one of TTSA's board members, has transitioned
+    from his role as a director to serve on the company's scientific advisory board'.
   claim_id: a9786ec9-633f-44e7-aefb-373bbf1661f9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a9786ec9-633f-44e7-aefb-373bbf1661f9
@@ -728,6 +807,7 @@ references:
 - text: Puthoff was the programme's chief scientist
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch10:2329-2356
+  quote: He was the program’s chief scientist.
   claim_id: 013b3bf8-77fd-4458-9e8f-419c082aa02a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-013b3bf8-77fd-4458-9e8f-419c082aa02a
@@ -736,6 +816,9 @@ references:
     brain-machine interfaces, and warp drives
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:44339-44555
+  quote: Even before I’d come aboard, Hal conceived and commissioned fascinating studies
+    for AAWSAP/AATIP, including invisibility cloaking, traversable wormholes and stargates,
+    antigravity, brain/machine interfaces, and warp drives.
   claim_id: 524f204c-f983-4be1-8a6e-61e1f2c65e25
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-524f204c-f983-4be1-8a6e-61e1f2c65e25
@@ -819,6 +902,9 @@ references:
     by the government
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: 78-94
+  quote: “Well… it all goes back to Roswell in 1947.” ... “You mean to tell me that
+    a UAP actually crashed and we covered it up?” “That’s exactly what happened,”
+    he replied.
   claim_id: ece2b801-e4cf-4412-8370-a8315e788ef7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ece2b801-e4cf-4412-8370-a8315e788ef7
@@ -827,6 +913,8 @@ references:
     Roswell crash
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:13773-13911
+  quote: Hal went on to tell me something else that truly blew my mind. Four deceased
+    nonhuman bodies were in fact recovered from the 1947 Roswell crash.
   claim_id: 7d33d7a2-94cd-4fe1-8625-2d07866d6d96
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7d33d7a2-94cd-4fe1-8625-2d07866d6d96
@@ -835,6 +923,7 @@ references:
     crash
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch24:18638-18710
+  quote: Hal had in his possession material allegedly recovered from the Roswell crash.
   claim_id: 8f15faa7-ac27-480a-9c26-69100b49678b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-8f15faa7-ac27-480a-9c26-69100b49678b
@@ -891,6 +980,8 @@ references:
 - text: Puthoff was Davis's boss at the time of the alleged 2002 Wilson meeting
   source: In Plain Sight
   location: ch26:2344-2441
+  quote: probably by the recipient of the memorandum, Dr Hal Puthoff, who was Dr Eric
+    Davis’s boss at the time
   claim_id: 407d7d41-7c3e-4e50-a022-be5969bf68a4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-407d7d41-7c3e-4e50-a022-be5969bf68a4
@@ -919,6 +1010,11 @@ references:
     and declined further comment
   source: In Plain Sight
   location: ch26:10770-11128
+  quote: Asked about the Admiral Wilson memo at an Arlington Institute address in
+    February 2020, he responded, ‘That is a question about the Wilson documents. They
+    probably got leaked on the internet. *And Wilson was one of the joint chiefs of
+    staff interviewed by my senior scientist colleague Eric Davis*. Since it discusses
+    potentially ongoing programs, I have no comment.’
   claim_id: 460ebd7f-4b3e-4b69-a8d1-60d6f66009b2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-460ebd7f-4b3e-4b69-a8d1-60d6f66009b2

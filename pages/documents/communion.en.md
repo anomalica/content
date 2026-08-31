@@ -115,6 +115,9 @@ references:
     aliens, sold millions of copies
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch7:2462-2659
+  quote: Communion, Whitley Strieber's 1987 account of his claimed encounters with
+    aliens, sold millions of copies and solidified in public consciousness the perception
+    of the alien as bald with large dark eyes.
   claim_id: 8b4b4c8b-0726-4a8f-baf6-d59d54d6113c
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-8b4b4c8b-0726-4a8f-baf6-d59d54d6113c
@@ -123,6 +126,8 @@ references:
     bald with large dark eyes, prompting thousands of accounts describing aliens worldwide
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch7:2665-2787
+  quote: Thousands of accounts describing aliens emerged worldwide in response to
+    this extraordinary public profiling of the alien image.
   claim_id: 34170e82-327f-45b5-a52e-64180f009c72
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-34170e82-327f-45b5-a52e-64180f009c72
@@ -131,6 +136,8 @@ references:
     a shattering assault from the unknown
   source: Communion
   location: ch8:87-169
+  quote: This is the story of one man's attempt to deal with a shattering assault
+    from the unknown.
   claim_id: 7ec6e7b1-9021-4e44-8991-04cc39d75000
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-7ec6e7b1-9021-4e44-8991-04cc39d75000
@@ -140,6 +147,7 @@ references:
     it
   source: Communion
   location: ch8:179-233
+  quote: It is a true story, as true as I know how to describe it.
   claim_id: d536e371-1d43-4c34-a015-9407e6af91e0
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-d536e371-1d43-4c34-a015-9407e6af91e0
@@ -149,6 +157,8 @@ references:
     verbatim, so readers can confirm no leading questions were asked
   source: Communion
   location: ch10:3291-3386
+  quote: This can easily be confirmed by the reader, as all the transcripts of my
+    hypnosis sessions are verbatim.
   claim_id: 46b96be8-2853-4512-af42-991ae1a6c3bc
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-46b96be8-2853-4512-af42-991ae1a6c3bc
@@ -157,6 +167,8 @@ references:
     4 and December 26, 1985 abduction experiences
   source: Communion
   location: ch10:7224-7345
+  quote: What follows here are two transcripts of hypnotic regressions, covering my
+    buried memories of October 4 and December 26, 1985.
   claim_id: cb102de0-5337-46be-8442-c0b56f417cb2
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-cb102de0-5337-46be-8442-c0b56f417cb2
@@ -168,6 +180,9 @@ references:
     Gottlieb's account at the time of her own hypnosis
   source: Communion
   location: ch13:34213-34430
+  quote: (On reading this description of "little feet" in our apartment m 1982. I
+    was reminded of Annie Gottlieb's memory of "scampering" in our country house in
+    1985. At the time of her hypnosis my wife was unaware of Annie's testimony.)
   claim_id: 2802ac58-4ee8-47af-ac1c-b575e3440cfc
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-2802ac58-4ee8-47af-ac1c-b575e3440cfc
@@ -176,6 +191,8 @@ references:
     physical fear he felt on December 26, 1985
   source: Communion
   location: ch13:65185-65304
+  quote: I had thought to call this book *Body Terror* because of the extreme physical
+    sensation of fear I had felt on December 26.
   claim_id: a7daebe8-3ca3-4c12-a782-f426de721057
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-a7daebe8-3ca3-4c12-a782-f426de721057
@@ -184,6 +201,8 @@ references:
     profundo voice, said the book must not frighten people and should be called Communion
   source: Communion
   location: ch13:65308-65454
+  quote: 'Suddenly she said in a strange basso profundo voice: "The book must not
+    frighten people. You should call it *Communion*, because that''s what it''s about."'
   claim_id: 184d0cb2-4944-4bf2-b197-5a9a36f4d0b1
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-184d0cb2-4944-4bf2-b197-5a9a36f4d0b1
@@ -192,6 +211,9 @@ references:
     believed what he reported, and states the book contains no fictional content
   source: Communion
   location: ch17:1064-1250
+  quote: The reason I carried out the polygraph was to reassure readers that I honestly
+    think that I perceived the things reported in this book. It is not fiction, and
+    does not contain a word of fiction.
   claim_id: 030b2727-2831-4043-957a-a9c0dacc0bd4
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-030b2727-2831-4043-957a-a9c0dacc0bd4
@@ -201,6 +223,8 @@ references:
     Strieber's actual mental image of it
   source: Communion
   location: ch12:108339-108435
+  quote: although the final result, on the cover of this book, is a bit more human
+    than was actually the case.
   claim_id: b83cbb3f-a903-4a5e-9bf7-0db3eca38193
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-b83cbb3f-a903-4a5e-9bf7-0db3eca38193
@@ -209,6 +233,9 @@ references:
     line with no lips, and its cranium was larger than depicted on the cover
   source: Communion
   location: ch12:108441-108612
+  quote: Specifically, the mouth was nothing more than a line, albeit a complex one.
+    There were no lips at all. And the cranium was a good bit larger than the cover
+    portrait would suggest.
   claim_id: ec908d4f-6762-4386-8985-a96f1ffde021
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-ec908d4f-6762-4386-8985-a96f1ffde021
@@ -217,6 +244,8 @@ references:
     mouth on the being that peered at him, as depicted on the cover
   source: The Fourth Mind
   location: ch11:20739-20872
+  quote: As the cover of Communion reveals, I saw a somewhat more complex mouth on
+    the one that peered at me so intently during the abduction experience
   claim_id: be73d378-db31-471f-b6ab-aaa25e8728b6
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-be73d378-db31-471f-b6ab-aaa25e8728b6
@@ -225,6 +254,9 @@ references:
     people realise a lingering strange dream was in some way real
   source: The Fourth Mind
   location: ch11:15861-16070
+  quote: I have come to understand that the portrait was intended to cause the people
+    they had contacted to realize that what they had thought was a strange dream that
+    lingered in their minds was, in fact, in some way real.
   claim_id: 961993d2-7717-4872-a397-2e1b0ac7905c
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-961993d2-7717-4872-a397-2e1b0ac7905c
@@ -234,6 +266,9 @@ references:
     had been found was not of this world
   source: The Fourth Mind
   location: ch11:795-978
+  quote: General Exon told me after I published Communion in 1987 that “everybody
+    from Truman on down knew that what we had found was not of this world within twenty-four
+    hours of our finding it.”
   claim_id: 8bb2dbe4-117a-437e-82fb-f3efa88fd0fc
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-8bb2dbe4-117a-437e-82fb-f3efa88fd0fc
@@ -334,6 +369,9 @@ references:
     buy Communion
   source: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
   location: ch13:3580-3749
+  quote: Mullis had told no one of his own experience until his daughter called to
+    tell her father about her strange experience and advised him to buy a book, Whitley
+    Strieber's Communion.
   claim_id: 01c1465d-03c0-4436-8ebd-16bd5c7ba789
   record_hash: c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95
   workbench_url: https://workbench.anomalica.is/c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95#claim-01c1465d-03c0-4436-8ebd-16bd5c7ba789

@@ -452,6 +452,9 @@ references:
     Elizondo led inside AAWSAP to study UAP
   source: In Plain Sight
   location: ch21:12280-12444
+  quote: Inside that program, he led the Advance Aerospace Threat Identification Program
+    (AATIP), the secretive Pentagon unit set up at Senator Harry Reid's urging to
+    study UAPs.
   claim_id: 06a3ef6c-fe8d-4cc0-bec2-f59ea0de9dc0
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-06a3ef6c-fe8d-4cc0-bec2-f59ea0de9dc0
@@ -470,6 +473,10 @@ references:
 - text: James Clapper hired Elizondo into OUSDI in 2008
   source: In Plain Sight
   location: ch21:11763-12072
+  quote: recognised Elizondo's skills and, in 2008, had personally hired him into
+    the office that acts as the principal staff for the Department of Defense on sensitive
+    intelligence-related matters, overseeing a cluster of three-letter DoD agencies,
+    including the Defense Intelligence Agency and the National Security Agency
   claim_id: 264fac5f-5e8c-4840-ae89-50f9c152e404
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-264fac5f-5e8c-4840-ae89-50f9c152e404
@@ -477,6 +484,9 @@ references:
 - text: Elizondo was tasked to join AAWSAP
   source: In Plain Sight
   location: ch21:12081-12271
+  quote: Soon after joining OUSDI, Elizondo was tasked to join a special program described
+    by a deliberately dull-sounding military acronym, AAWSAP, the Advanced Aerospace
+    Weapon System Applications Program.
   claim_id: 01549d52-fdb3-4597-9642-0477737e1f05
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-01549d52-fdb3-4597-9642-0477737e1f05
@@ -643,6 +653,9 @@ references:
     Module's docking approach
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: 00:00:13.0-00:00:15.0
+  quote: The GIMBAL maneuvered in a way that reminded me of the old Apollo 11 lunar
+    module... If you compare that maneuver to the way in which the object in the GIMBAL
+    video rotates, you will see an uncanny resemblance.
   claim_id: 68eeea8f-e9fe-4595-a966-6141dc6fac9a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-68eeea8f-e9fe-4595-a966-6141dc6fac9a
@@ -673,6 +686,10 @@ references:
     overwhelming evidence of a possible existential threat
   source: In Plain Sight
   location: ch21:13155-13453
+  quote: '''Despite overwhelming evidence at both the classified and unclassified
+    levels, certain individuals in the [Defence] Department remain staunchly opposed
+    to further research on what could be a tactical threat to our pilots, sailors
+    and soldiers, and perhaps even an existential threat to our national security.'''
   claim_id: 6fc3cd3f-cc82-461e-9be1-2002937dab0b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6fc3cd3f-cc82-461e-9be1-2002937dab0b
@@ -805,6 +822,9 @@ references:
     at a lower salary, requiring relocation to California
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: 111-111
+  quote: he made me an offer to join TTSA as chief of security and special programs...The
+    salary offered was much less than I was earning at the Pentagon...To do this,
+    Tom insisted that I relocate to California.
   claim_id: 89d29036-1cc0-4af3-8919-73a814e6c9eb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-89d29036-1cc0-4af3-8919-73a814e6c9eb
@@ -812,6 +832,8 @@ references:
 - text: Elizondo became TTSA's public face after the NYT AATIP story
   source: In Plain Sight
   location: ch21:13584-13688
+  quote: In the days after the *Times* story on the AATIP program broke, Luis Elizondo
+    became the public face of TTSA
   claim_id: e1284d17-f24a-4cb5-ac54-a16349549048
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e1284d17-f24a-4cb5-ac54-a16349549048

@@ -18,6 +18,7 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:00:00.0-00:00:15.3
+  quote: a conversation with Commander David Fravor, who was a Navy pilot for 18 years
   claim_id: 8e7f1fa7-61ca-4661-a929-a75ebaff2fb1
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: a conversation with Commander David Fravor, who was a Navy pilot for 18 years
@@ -26,6 +27,8 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:00:00.0-00:00:15.3
+  quote: the Black Aces, a squadron of 12 airplanes consisting of several hundred
+    people
   claim_id: abd556da-5208-4f39-a561-286099847f02
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: the Black Aces, a squadron of 12 airplanes consisting of several hundred
@@ -36,6 +39,8 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:00:35.1-00:00:49.3
+  quote: from my perspective as a curious scientist and an open-minded human being
+    is the most credible sighting of a UFO in history, at least that I'm aware of
   claim_id: 61329761-07d9-4eb6-b8bb-6bd15dda67e1
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: from my perspective as a curious scientist and an open-minded human being
@@ -45,6 +50,7 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:00:35.1-00:00:49.3
+  quote: His story corroborated by several other pilots
   claim_id: 54c73719-ff5e-4317-83a9-b49dca6434cd
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: His story corroborated by several other pilots
@@ -53,6 +59,7 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:07:43.1-00:07:48.6
+  quote: I went through in 97, Class 4, 97
   claim_id: 93e3429a-3431-46d2-b120-f1d3f508caff
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: I went through in 97, Class 4, 97
@@ -62,6 +69,7 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:12:15.8-00:12:20.3
+  quote: first I was in, I was enlisted. I was a Marine.
   claim_id: 91cf8549-fe87-4026-8ec7-db4b598e611f
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: first I was in, I was enlisted. I was a Marine.
@@ -71,6 +79,8 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:12:20.3-00:12:33.1
+  quote: the Marines actually sent me, recommended me to go to the Naval Academy.
+    So... I got to go to the Naval Academy and I finished
   claim_id: c2d618aa-9102-4229-9bb4-a2969da1beaf
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: the Marines actually sent me, recommended me to go to the Naval Academy.
@@ -81,6 +91,8 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:12:35.8-00:12:53.2
+  quote: since 1969 when I watched Neil Armstrong walk on the moon. At that point,
+    I asked my mom... I was just prior to being five
   claim_id: e0aaf27f-4968-4385-85fb-41820309f87f
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: since 1969 when I watched Neil Armstrong walk on the moon. At that point,
@@ -90,6 +102,9 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:20:00.0-00:20:28.3
+  quote: i ended up getting a6s on the west coast which is a side-by-side bomber so
+    it's a pilot on the left seat and the bombardier navigators on the right seat
+    it was built in the 60s
   claim_id: 1dd122dd-a733-43d7-8bee-8ee53ab290c1
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: i ended up getting a6s on the west coast which is a side-by-side bomber so
@@ -101,6 +116,10 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:21:51.9-00:22:11.9
+  quote: I started off an A6, was a two-seater. Then I went to single-seat F-18s,
+    and I flew those all the way up until 2000 and... to the end of 2001. And then
+    I shifted over and started flying the Super Hornets, and I've flown both of those,
+    the E's and the S
   claim_id: b8d24122-aecb-4e98-bf26-0d1c637547b7
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: I started off an A6, was a two-seater. Then I went to single-seat F-18s,
@@ -112,6 +131,7 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 00:22:11.9-00:22:17.9
+  quote: when I had command of VFA-41, I had the two-seat. They were F-squadron.
   claim_id: 9e6cf686-5778-4c55-a41a-4800e886573a
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: when I had command of VFA-41, I had the two-seat. They were F-squadron.
@@ -120,6 +140,8 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:03:11.1-01:03:25.6
+  quote: So the Tic Tac's coming up and I'm at about, and I've been doing this for,
+    at the time, 16 years.
   claim_id: 7a4aea5f-7595-4aa7-8c33-49e706853df5
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: So the Tic Tac's coming up and I'm at about, and I've been doing this for,
@@ -130,6 +152,10 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:11:43.4-01:12:26.9
+  quote: So on November 10th, 2004, the USS Princeton... they started noticing on
+    November 10th that there is a few objects flying around at 28,000 feet with speed
+    of what I guess is considered a low speed of 120 miles an hour... but on the coast
+    of California.
   claim_id: 123b6419-3399-4c9c-bd91-2c093a68fcbc
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: So on November 10th, 2004, the USS Princeton... they started noticing on
@@ -142,6 +168,10 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:17:06.6-01:17:23.2
+  quote: They're telling us they have a contact on their radar. They don't know what
+    it is. They just have a blip... I said, sir, we've been tracking these things
+    for about two weeks... He goes, this is the first time we've had planes airborne.
+    We want you to go see what these are.
   claim_id: 19980e03-8917-43bc-ab60-e7f81e992ae0
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: They're telling us they have a contact on their radar. They don't know what
@@ -154,6 +184,8 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:14:54.0-01:15:05.3
+  quote: So yeah, we went out on our mission to go train, and they canceled the mission.
+    And they sent us
   claim_id: 510276fd-b339-4f12-a406-0fa259621eeb
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: So yeah, we went out on our mission to go train, and they canceled the mission.
@@ -164,6 +196,10 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:19:12.6-01:19:28.3
+  quote: If you look at a map and you go San Diego and then inside of Mexico, we're
+    kind of in between that and we're probably about, By the time this all hits, we're
+    priced, I don't know, 80, 100, I don't know, but somewhere out, it's pretty far
+    off the coast.
   claim_id: 184695a7-7ae4-4348-89df-430f435d719e
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: If you look at a map and you go San Diego and then inside of Mexico, we're
@@ -175,6 +211,9 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:18:40.2-01:19:07.3
+  quote: this is a it's a clear day there's no clouds and there's no white caps it's
+    just a calm it's actually a perfect day if you own a sailboat it was that five
+    to ten knots of wind
   claim_id: 633dc2dc-15d9-4782-893d-61afd57308c0
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: this is a it's a clear day there's no clouds and there's no white caps it's
@@ -186,6 +225,11 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:20:55.0-01:21:34.8
+  quote: the white water and i like to shape it you can say it was a cross i say it's
+    about the size of a 737 so it looks like if you took a 737 put it about 15 20
+    feet below the water so the wave is breaking over the top and you're going to
+    get white water where the plane is at you'd see this this kind of shape so it
+    looks like a cross
   claim_id: be335d4b-e191-4c2d-87d7-0bef64c07e0b
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: the white water and i like to shape it you can say it was a cross i say it's
@@ -198,6 +242,8 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:21:56.6-01:22:00.9
+  quote: And then we see this little white tic-tac, because we're about 20,000 feet
+    above it.
   claim_id: 379f0629-37a2-4063-b0d6-9e96f87ffba5
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: And then we see this little white tic-tac, because we're about 20,000 feet
@@ -208,6 +254,8 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 02:00:37.0-02:00:53.0
+  quote: Smooth, white. tic-tac you know we don't you don't see there's no no wings
+    no visible propulsion no windows no probes that we could see
   claim_id: 8384cf1a-f01f-4fef-bbb0-876d4966c66e
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: Smooth, white. tic-tac you know we don't you don't see there's no no wings
@@ -218,6 +266,9 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:22:00.9-01:22:19.2
+  quote: And it's doing, it's going basically north, south, and then east, west, north.
+    And it's abrupt. It's very abrupt. So it's not like a helicopter... This thing's
+    not. It's like left, right, left, right, with no...
   claim_id: 2c46ba7b-ee9f-4cc8-9145-1faf208728ac
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: And it's doing, it's going basically north, south, and then east, west, north.
@@ -229,6 +280,8 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:24:07.7-01:24:19.6
+  quote: I'm doing about 300 knots, which is a really good airspeed for the airplane
+    for maneuvering, because I have everything available to me at that speed.
   claim_id: b5ef156c-dca3-4f75-939b-7bf8bb845ef5
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: I'm doing about 300 knots, which is a really good airspeed for the airplane
@@ -238,6 +291,9 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:25:41.7-01:25:56.2
+  quote: I get to probably, I'm probably about a half mile away, which you think,
+    well, a half mile is pretty far. Half mile in aviation isn't, it's nothing...
+    You can see all kinds of stuff at a half mile. You can see pretty good detail.
   claim_id: 68045c52-bb08-4882-927c-8e02fa847177
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: I get to probably, I'm probably about a half mile away, which you think,
@@ -249,6 +305,9 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:26:05.6-01:26:24.3
+  quote: So as I do this, it goes, it just accelerates and disappears... it just,
+    it accelerates in literally in less than, you know, probably less than a half
+    second. It just goes, and it's gone.
   claim_id: 31110682-a47b-4619-9063-3eb5c90eabc3
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: So as I do this, it goes, it just accelerates and disappears... it just,
@@ -260,6 +319,9 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:24:37.1-01:24:50.6
+  quote: Now you gotta remember this whole thing is like, this is like five minutes.
+    This is not like a, we saw it and it was gone... We watched this thing on a crystal
+    clear day with four trained observers to watch this thing fly around.
   claim_id: be04427f-5b28-43f7-a7aa-40d55cf77b53
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: Now you gotta remember this whole thing is like, this is like five minutes.
@@ -271,6 +333,9 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:26:34.0-01:26:41.2
+  quote: I go, let's see what's down here. And I turn around, we're looking for the
+    whitewater and we can't even, the whitewater's gone. There's nothing. It's literally
+    all blue.
   claim_id: 5fe147e2-c217-4174-bee3-df127be19928
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: I go, let's see what's down here. And I turn around, we're looking for the
@@ -282,6 +347,10 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:28:21.8-01:28:43.0
+  quote: the controller, because we're talking to the kid on the Princeton. They're
+    called OSs. They're operations specialists. They're the ones that run the radars...
+    that thing is at your cap. it showed back up it just popped up you know this is
+    like 60 miles away it just reappears
   claim_id: 2962ad22-4098-466b-b059-b954d342e29a
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: the controller, because we're talking to the kid on the Princeton. They're
@@ -294,6 +363,9 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:15:15.2-01:15:25.2
+  quote: There is no video from our event. It was all four sets of eyeballs staring
+    at this thing. And then when we came back and told it, when Chad and his pilot
+    took off, that's when Chad got the video of it.
   claim_id: a3a1484c-7df0-4d7c-893f-cdcc555e4bfa
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: There is no video from our event. It was all four sets of eyeballs staring
@@ -305,6 +377,10 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:32:00.0-01:32:21.7
+  quote: He locks it up when he goes to lock it up. Now he's putting a bunch of energy
+    on it, but he's telling the radar, stare down that line of sight... build a track
+    file on it, which will tell us how high it is, how fast it is in the direction
+    that it's going... it'll give you indications that I'm being jammed.
   claim_id: 3f930bf9-ac4b-4272-a352-3854ea92b7dd
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: He locks it up when he goes to lock it up. Now he's putting a bunch of energy
@@ -317,6 +393,7 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:44:54.6-01:45:00.3
+  quote: There was no plume, no IR, no visible propulsions, even heat signature.
   claim_id: c7482df2-3d5b-4ae9-a31e-ab4f8e59b08c
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: There was no plume, no IR, no visible propulsions, even heat signature.
@@ -326,6 +403,10 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:44:23.2-01:44:53.6
+  quote: when you see it, because he's coming almost co-altitude with it, you can
+    see the bottom of it. It looks like little, you know, like if you look at a Cessna,
+    there's little antennas hanging out of the bottom... There's two little things
+    out of the bottom. There's nothing on the top.
   claim_id: 16daf6ba-66ff-4feb-a141-545c311b16f0
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: when you see it, because he's coming almost co-altitude with it, you can
@@ -338,6 +419,9 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:42:19.5-01:42:31.9
+  quote: there's a rumor too that, oh, the original FLIR video is 10 minutes long...
+    The original video is about a minute, 30 seconds long. What you see on the release
+    video is the entire video.
   claim_id: 8b2fc535-4514-449e-b216-c77525b5d55a
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: there's a rumor too that, oh, the original FLIR video is 10 minutes long...
@@ -349,6 +433,10 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:40:30.1-01:41:20.7
+  quote: the intel officers came down from what's called civic cvic which is carrier
+    intel center came down and said, hey, we need the tapes. These guys are gonna
+    come, they're gonna come and get them... someone came to me and said, you know,
+    they're messing with you, they're playing a joke.
   claim_id: 772858b4-fc40-4046-bc69-ca1db81c560b
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: the intel officers came down from what's called civic cvic which is carrier
@@ -361,6 +449,8 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:39:15.3-01:39:28.1
+  quote: No one ever came out in suits to talk to us... No, no one came out on a helicopter.
+    No one came out on an airplane.
   claim_id: f34bd788-5765-4bc3-b601-28bd5281b096
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: No one ever came out in suits to talk to us... No, no one came out on a helicopter.
@@ -371,6 +461,10 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:45:14.9-01:45:39.4
+  quote: when they did the unofficial official investigation in about 2000 and let
+    me think about 2009 um i'd gotten a call on my cell phone from a guy who government
+    employee... we're gonna investigate your Tic Tac thing. This is literally five
+    years later.
   claim_id: e041d859-12fa-4caa-bd7f-94e5fd7a8c7d
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: when they did the unofficial official investigation in about 2000 and let
@@ -382,6 +476,9 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:45:54.4-01:46:09.1
+  quote: he does the report. He sent me the report... Please don't distribute this
+    report... The report is now out because Harry Reid got it to George Knapp. And
+    they were good enough to redact it, but there's a few versions of it unredacted.
   claim_id: 89e70a22-aa7e-4a95-8a23-d1a097007def
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: he does the report. He sent me the report... Please don't distribute this
@@ -393,6 +490,9 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:54:33.8-01:54:45.1
+  quote: 'Lou Elizondo, as you mentioned, was a program director. David Fravor: He
+    ran the AATIP program at the Pentagon. Lex Fridman: And AATIP was a program that
+    was tasked with investigating any kind of UFOs, UAPs.'
   claim_id: 75c3d434-2441-4d08-b4f1-f63036131c82
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: 'Lou Elizondo, as you mentioned, was a program director. David Fravor: He
@@ -404,6 +504,9 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:54:53.5-01:55:21.7
+  quote: the original stuff that AATIP did was FOIA exempt. and people go how do you
+    know that i go because i stood there with the memo in my hand... i watched the
+    dod memo that said it and it was signed
   claim_id: ff047252-138b-437c-8a9b-73e2263ae7de
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: the original stuff that AATIP did was FOIA exempt. and people go how do you
@@ -415,6 +518,9 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:13:34.7-01:14:03.8
+  quote: The two other videos, Go Fast and Gimbal, were recorded in 2000 something,
+    14 or 15. on the East Coast of the United States that had different kinds of objects,
+    but they were weird in the same kind of way
   claim_id: 56cb344c-bfa3-445e-a505-294aac430a41
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: The two other videos, Go Fast and Gimbal, were recorded in 2000 something,
@@ -426,6 +532,7 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 02:46:20.5-02:46:29.3
+  quote: there's at least 60 people that have seen these things on radar off the vacates.
   claim_id: 91b65ef9-c775-45ff-9218-00de4e6a200a
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: there's at least 60 people that have seen these things on radar off the vacates.
@@ -435,6 +542,9 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 02:47:14.6-02:47:53.9
+  quote: this thing passed between two airplanes and it was, I think it was like 100
+    feet or something like that of the airplane that almost hit it... This floating
+    beach ball with this cube inside of it.
   claim_id: ec867a07-3ea6-40f5-a446-d5cfbbecbe34
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: this thing passed between two airplanes and it was, I think it was like 100
@@ -446,6 +556,10 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 02:11:31.1-02:12:01.0
+  quote: let's assume that it didn't have a conventional propulsion system in it,
+    because I don't think it did, I would like to think that if we had a technology
+    that would advance mankind leaps and bounds ... then it would start coming out.
+    But to hide something like that for 16 years
   claim_id: b33822a4-56a9-49a8-a5b6-5f9fe23ce258
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: let's assume that it didn't have a conventional propulsion system in it,
@@ -458,6 +572,10 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 02:12:17.2-02:12:33.4
+  quote: these things were coming down when the cruiser tractor from above 80,000
+    feet, which is space. And they would come down and they would come straight down.
+    They'd hang out at like 20,000 feet. And then three or four hours later, they'd
+    go back up.
   claim_id: 9952dd09-6026-4d0f-bd03-73da8b980a33
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: these things were coming down when the cruiser tractor from above 80,000
@@ -470,6 +588,9 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 01:47:03.2-01:47:19.5
+  quote: I think you're about the 23rd person that I've talked to total. And that
+    includes the newspapers and stuff. And I've been selective because there's so
+    much. I mean, I turned down Russian TV.
   claim_id: 3d2af46f-21d2-4f23-a501-8dd2e970c550
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: I think you're about the 23rd person that I've talked to total. And that
@@ -481,6 +602,9 @@ references:
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
   location: 02:23:29.0-02:25:10.9
+  quote: if i take money like bezos money elon money and they let's just say they
+    want to work together they can split it up 50 50 ... now i'm not constrained by
+    who has to do the work
   claim_id: 1a5b61bb-e442-4aae-b498-d097776fa62a
   record_hash: 5f29756539541835a789202802996d5ccb11eed52ab951bdecfdee7f
   quote: if i take money like bezos money elon money and they let's just say they

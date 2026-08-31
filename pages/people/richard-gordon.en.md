@@ -74,6 +74,7 @@ references:
 - text: Gordon was a Doctor of Medicine specialising in internal medicine
   source: Journeys Out of the Body
   location: ch15:647-688
+  quote: He was an M.D., a specialist in internal medicine.
   claim_id: 146c6978-ee59-4068-aa68-931f8e1add76
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-146c6978-ee59-4068-aa68-931f8e1add76
@@ -81,6 +82,7 @@ references:
 - text: Monroe first met Gordon in 1942 in New York City
   source: Journeys Out of the Body
   location: ch15:594-641
+  quote: I first met Dr. Richard Gordon in 1942, in New York.
   claim_id: 2381fc08-e270-4341-b0d4-fe295b7e4826
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-2381fc08-e270-4341-b0d4-fe295b7e4826
@@ -88,6 +90,7 @@ references:
 - text: Gordon became Monroe's family doctor
   source: Journeys Out of the Body
   location: ch15:698-742
+  quote: We became friends, and he became our family doctor.
   claim_id: 76a5f948-9b87-4475-96da-01c0260dc013
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-76a5f948-9b87-4475-96da-01c0260dc013
@@ -95,6 +98,7 @@ references:
 - text: Gordon was in his fifties when he first met Monroe
   source: Journeys Out of the Body
   location: ch15:927-999
+  quote: He was in his fifties when we first met, so I never knew him as a young man.
   claim_id: 43c4daee-0932-4057-b81c-1c62fae2fa42
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-43c4daee-0932-4057-b81c-1c62fae2fa42
@@ -103,6 +107,8 @@ references:
     in a hurry, with a big shock of blond hair
   source: Journeys Out of the Body
   location: ch15:13646-13761
+  quote: She also mentioned that at that age, he was very active and eager, always
+    in a hurry, and had a big shock of blond hair.
   claim_id: 8a5c3658-c219-4107-b1d6-4e66150d740a
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-8a5c3658-c219-4107-b1d6-4e66150d740a
@@ -110,6 +116,8 @@ references:
 - text: Monroe compared Agnew Bahnson's forward-looking temperament to Gordon's
   source: Journeys Out of the Body
   location: ch15:21523-21670
+  quote: That is the way Mr. Bahnson would have been—too interested in new things
+    and new experiences to waste time in the "then" or the past Just like Dr. Gordon.
   claim_id: ca780964-4b30-419d-ad36-16573a294f6a
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-ca780964-4b30-419d-ad36-16573a294f6a
@@ -118,6 +126,9 @@ references:
     episodes
   source: Journeys Out of the Body
   location: ch9:8599-8788
+  quote: With trepidation, I went to our longtime family physician, Dr. Richard Gordon,
+    and explained the symptoms. As an internist and diagnostician, he should have
+    had what answers there may have been.
   claim_id: 6027f06e-b896-4165-904c-04a5db2d51c4
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-6027f06e-b896-4165-904c-04a5db2d51c4
@@ -125,6 +136,10 @@ references:
 - text: Gordon found nothing physically wrong, dismissed brain tumour or epilepsy
   source: Journeys Out of the Body
   location: ch9:8844-9086
+  quote: After a thorough physical, Dr. Gordon suggested that I had been working too
+    hard, that I get more sleep and take off a little weight. In short, he could find
+    nothing wrong with me physically. He laughed at the possibility of a brain tumor
+    or epilepsy.
   claim_id: f2b00eb3-379e-41e8-83dd-3573d25da64e
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-f2b00eb3-379e-41e8-83dd-3573d25da64e
@@ -132,6 +147,9 @@ references:
 - text: Gordon ran blood tests, fluoroscopes, ECGs and a urinalysis for brain lesions
   source: Journeys Out of the Body
   location: ch9:19031-19243
+  quote: He carefully examined me, ran blood tests, fluoroscopes, electrocardiograms,
+    palpated all cavities, ran urinalysis, and about everything else he could think
+    of. He checked very carefully for indications of brain lesions.
   claim_id: df6b6560-e295-429a-91e5-1308cfaaabbe
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-df6b6560-e295-429a-91e5-1308cfaaabbe
@@ -139,6 +157,8 @@ references:
 - text: Gordon arranged an EEG brain-wave analysis, which showed no unusual problem
   source: Journeys Out of the Body
   location: ch9:19335-19415
+  quote: He arranged for an EEG (brain-wave analysis), which evidently showed no unusual
+    problem.
   claim_id: 04dd55df-38c1-4db0-bc13-21b1fe0e92b4
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-04dd55df-38c1-4db0-bc13-21b1fe0e92b4
@@ -146,6 +166,9 @@ references:
 - text: Gordon prescribed tranquilizers and lifestyle advice
   source: Journeys Out of the Body
   location: ch9:19492-19662
+  quote: Dr. Gordon gave me some tranquilizers, and sent me home with orders to take
+    off weight, smoke less, get more rest—and said that if I had a problem, it was
+    not a physical one.
   claim_id: d1ac970e-6f2f-439a-aa49-4ee335d26849
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-d1ac970e-6f2f-439a-aa49-4ee335d26849
@@ -153,6 +176,8 @@ references:
 - text: In spring 1961 Monroe had lunch with Gordon at his office
   source: Journeys Out of the Body
   location: ch15:1897-2029
+  quote: In the spring of 1961 I visited Dr. Gordon at his office and had lunch with
+    him there, cooked over a Bunsen burner by his long-time nurse.
   claim_id: a9184309-8ddb-46ba-9641-feb0bbfdcc67
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-a9184309-8ddb-46ba-9641-feb0bbfdcc67
@@ -160,6 +185,7 @@ references:
 - text: Gordon and his wife sailed to Spain a week later
   source: Journeys Out of the Body
   location: ch15:3149-3202
+  quote: Dr. Gordon and his wife sailed to Spain a week or so later.
   claim_id: 5f42d608-2c57-4668-8e6d-c263c8fea20f
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-5f42d608-2c57-4668-8e6d-c263c8fea20f
@@ -168,6 +194,8 @@ references:
     the trip was cut short
   source: Journeys Out of the Body
   location: ch15:3303-3408
+  quote: Six weeks later, Mrs. Gordon phoned. The doctor had taken sick in Europe
+    and they had to cut short their trip.
   claim_id: a45170a5-7358-40bd-bf33-fbd80fe374b2
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-a45170a5-7358-40bd-bf33-fbd80fe374b2
@@ -176,6 +204,9 @@ references:
     exploratory operation
   source: Journeys Out of the Body
   location: ch15:3414-3586
+  quote: He had refused treatment overseas, and had insisted that they return home
+    instead. He had been in great pain, and had gone immediately into the hospital
+    for an exploratory operation.
   claim_id: aedd9566-3be6-4e38-bb1b-286811c0a629
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-aedd9566-3be6-4e38-bb1b-286811c0a629
@@ -183,6 +214,8 @@ references:
 - text: The operation found an abdominal cancer beyond treatment
   source: Journeys Out of the Body
   location: ch15:3693-3801
+  quote: The exploratory operation was a success. They found what they were looking
+    for, an abdominal cancer, beyond treatment.
   claim_id: 071d8dc6-9492-4eb3-a0c4-1af319bdef12
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-071d8dc6-9492-4eb3-a0c4-1af319bdef12
@@ -191,6 +224,9 @@ references:
     in hospital
   source: Journeys Out of the Body
   location: 60-66
+  quote: “Why don’t you write him a letter,” she suggested... She read it again and
+    again to Dr. Gordon whenever he was conscious. She told me later that these repeated
+    readings were at his request, not at her suggestion.
   claim_id: 453101db-0dce-4547-af1c-75af25729157
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-453101db-0dce-4547-af1c-75af25729157
@@ -198,6 +234,8 @@ references:
 - text: Gordon fell into a coma and died without regaining consciousness
   source: Journeys Out of the Body
   location: ch15:8974-9063
+  quote: Dr. Gordon dropped into a coma several weeks later. He died peacefully without
+    regaining consciousness.
   claim_id: d0c24293-f971-481e-95ad-998c938eccf5
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-d0c24293-f971-481e-95ad-998c938eccf5
@@ -206,6 +244,8 @@ references:
     developed
   source: Journeys Out of the Body
   location: ch15:9165-9248
+  quote: He was the first person close to me who had died since the development of
+    my “wild talent.”
   claim_id: 32c5623d-a11e-481f-a310-c2fec5bba093
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-32c5623d-a11e-481f-a310-c2fec5bba093
@@ -213,6 +253,9 @@ references:
 - text: Months later Monroe attempted an out-of-body journey to find Gordon
   source: Journeys Out of the Body
   location: ch15:9658-9841
+  quote: Then, on a Saturday afternoon, I made the attempt. It took about an hour
+    to get into the vibrational state, and I finally swung up out of the body mentally
+    yelling, I want to see Dr. Gordon!
   claim_id: e4b92fb5-22e6-4d7a-9943-f5545e26898d
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e4b92fb5-22e6-4d7a-9943-f5545e26898d
@@ -220,6 +263,8 @@ references:
 - text: The first attempt lasted two hours and failed to find Gordon
   source: Journeys Out of the Body
   location: ch15:11981-12087
+  quote: I had failed for some reason. I had not been able to find Dr. Gordon. Time
+    away from the physical was two hours.
   claim_id: 1bc449ea-f6bc-4ef0-9eba-1c90bf46e837
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-1bc449ea-f6bc-4ef0-9eba-1c90bf46e837
@@ -227,6 +272,9 @@ references:
 - text: Monroe became unbearably hot waiting for Gordon and left without seeing him
   source: Journeys Out of the Body
   location: ch15:10792-10962
+  quote: The more I waited, the warmer I seemed to feel. Finally, I became so hot
+    that I was extremely uncomfortable... The heat became unbearable, and I decided
+    I had to leave. I couldn’t wait for Dr. Gordon.
   claim_id: 75bafe54-bf92-4198-af1e-c92f59fb547e
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-75bafe54-bf92-4198-af1e-c92f59fb547e
@@ -234,6 +282,9 @@ references:
 - text: On a second attempt a voice asked why Monroe wanted to see Gordon again
   source: Journeys Out of the Body
   location: ch15:12138-12358
+  quote: The following Saturday I tried again. Just at the moment I left the physical
+    body and started to yell for Dr. Gordon, a voice spoke right beside me, almost
+    irritated. “Why do you want to see him again? You saw him last Saturday!”
   claim_id: 19b531b6-59d3-463d-9a17-7bf40354e78a
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-19b531b6-59d3-463d-9a17-7bf40354e78a
@@ -241,6 +292,8 @@ references:
 - text: Monroe concluded a young man seen in his first visit was Gordon at twenty-two
   source: Journeys Out of the Body
   location: ch15:13004-13107
+  quote: What I had noted was a perfect description of what Dr. Gordon would have
+    been at twenty-two instead of seventy.
   claim_id: e84087e6-0c1f-41f3-9ed6-7d555949a348
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-e84087e6-0c1f-41f3-9ed6-7d555949a348
@@ -249,6 +302,9 @@ references:
     seen
   source: Journeys Out of the Body
   location: ch15:13393-13615
+  quote: Later, at a visit to the home of Dr. Gordon’s widow, I managed to see an
+    old photo of Dr. Gordon when he *was* twenty-two... It matched perfectly the man
+    I saw, and who saw me “there.”
   claim_id: 0a0c3f47-e43d-4412-ba51-52e99dc47632
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-0a0c3f47-e43d-4412-ba51-52e99dc47632
@@ -256,6 +312,8 @@ references:
 - text: Monroe was taken by an unseen helper to visit Gordon in Locale II
   source: Journeys Out of the Body
   location: ch17:1759-1883
+  quote: I never saw the helper who took me on the voyage to visit Dr. Gordon in Locale
+    II. I felt his hands and heard his voice, no more.
   claim_id: b87f926c-af48-4965-a800-77ee8777c806
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-b87f926c-af48-4965-a800-77ee8777c806

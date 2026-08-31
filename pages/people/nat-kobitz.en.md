@@ -188,6 +188,8 @@ references:
     Navy
   source: In Plain Sight (2021)
   location: ch27:628-742
+  quote: Nat Kobitz, the former Director of Science and Technology Development for
+    the US Navy, rang me one day out of the blue.
   claim_id: 42b9f2e3-5462-49b9-84c2-db5946d19857
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-42b9f2e3-5462-49b9-84c2-db5946d19857
@@ -196,6 +198,8 @@ references:
     him
   source: In Plain Sight (2021)
   location: ch27:628-760
+  quote: Nat Kobitz, the former Director of Science and Technology Development for
+    the US Navy, rang me one day out of the blue. He liked my letter.
   claim_id: 3c789778-16b5-4476-b6a5-37ffe0d4eacb
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3c789778-16b5-4476-b6a5-37ffe0d4eacb
@@ -203,6 +207,8 @@ references:
 - text: Left the Navy role in 1994 and set up NKA Science
   source: In Plain Sight (2021)
   location: ch27:16888-17005
+  quote: Nat Kobitz left his Navy Director of Science and Technology role in 1994
+    and set up a private consultancy called NKA Science.
   claim_id: c98c12c1-f605-4356-950d-22b74e70ce8b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c98c12c1-f605-4356-950d-22b74e70ce8b
@@ -210,6 +216,8 @@ references:
 - text: Worked on the Gemini launch vehicle airframe (Kobitz's own account)
   source: In Plain Sight (2021)
   location: ch27:11318-11496
+  quote: He worked on the launch vehicle air frame for the Gemini space program, as
+    well as numerous navy surface ship and submarine projects in a near 30-year career.
   claim_id: 94dbffca-9718-4dfd-bc42-4cee0f53f338
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-94dbffca-9718-4dfd-bc42-4cee0f53f338
@@ -218,6 +226,8 @@ references:
     years (Kobitz's own account)
   source: In Plain Sight (2021)
   location: ch27:11390-11496
+  quote: as well as numerous navy surface ship and submarine projects in a near 30-year
+    career.
   claim_id: f2d96753-56c5-4d6a-a678-23dd90595ad6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2d96753-56c5-4d6a-a678-23dd90595ad6
@@ -225,6 +235,8 @@ references:
 - text: Involved in developing the Sea Scout unmanned aerial vehicle project
   source: In Plain Sight (2021)
   location: ch27:11581-11707
+  quote: Kobitz told me one self-effacing story about a navy unmanned aerial vehicle
+    project he was involved in developing, called Sea Scout.
   claim_id: be23951b-f549-4fb1-838c-ec13a1ea6b55
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-be23951b-f549-4fb1-838c-ec13a1ea6b55
@@ -233,6 +245,9 @@ references:
     in Texas and was jammed by security
   source: In Plain Sight (2021)
   location: ch27:11714-11901
+  quote: He confided the hugely expensive prototype was lost when it flew too near
+    the Texas wedding of President Bush's daughter and the president's security protection
+    jammers knocked the drone out.
   claim_id: 9e57fc8a-6903-49d3-be72-7017c2fc1dae
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9e57fc8a-6903-49d3-be72-7017c2fc1dae
@@ -241,6 +256,8 @@ references:
     crash
   source: In Plain Sight (2021)
   location: ch27:11977-12069
+  quote: '''It cost a million bucks to build and we didn''t have any more money. That
+    was the end of the program.'''
   claim_id: a07c07dd-e5e9-4e2e-8eb8-0c0203b77cd3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a07c07dd-e5e9-4e2e-8eb8-0c0203b77cd3
@@ -249,6 +266,9 @@ references:
     describing his own work as unexciting
   source: In Plain Sight (2021)
   location: ch27:12080-12316
+  quote: When I asked him if he ever worked on anti-gravity or field propulsion technology,
+    he volunteered that he did and that the navy was researching it, but he would
+    not tell me anything more, only that what he was working on was relatively unexciting.
   claim_id: 5c817205-d557-4f48-aafd-687ac99993da
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5c817205-d557-4f48-aafd-687ac99993da
@@ -256,6 +276,8 @@ references:
 - text: Described his propulsion research as a low-energy ion propulsion system
   source: In Plain Sight (2021)
   location: ch27:12329-12435
+  quote: '''A propulsion system, very low energy ion propulsion,'' he told me. ''The
+    unit of force was MMF. Micro-micro farts.'''
   claim_id: 28dfd24a-d92a-4577-b03d-4b7aec1012bd
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-28dfd24a-d92a-4577-b03d-4b7aec1012bd
@@ -263,6 +285,9 @@ references:
 - text: Did not believe the US had cracked anti-gravity despite years of secret research
   source: In Plain Sight (2021)
   location: ch27:12443-12616
+  quote: In defiance of the claims in Novel's book, Kobitz confided that he did not
+    think the United States had been able to crack the secret of anti-gravity despite
+    years of secret research.
   claim_id: df642a3a-01de-4baa-8908-1ecc551bf44e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df642a3a-01de-4baa-8908-1ecc551bf44e
@@ -271,6 +296,9 @@ references:
     a year before leaving the Navy
   source: In Plain Sight (2021)
   location: ch27:12734-12904
+  quote: We moved on to Kobitz's alleged Pentagon meeting with Gordon Novel and son
+    in July 1993, one year before he left the navy, and I was very surprised when
+    he confirmed the meeting.
   claim_id: fb0dc3b1-848a-46e5-98ba-e8fd880859d4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fb0dc3b1-848a-46e5-98ba-e8fd880859d4
@@ -278,6 +306,9 @@ references:
 - text: Sur Novel confirmed 'Wally Katz' in his father's book was Nat Kobitz
   source: In Plain Sight (2021)
   location: ch27:7442-7605
+  quote: He confirmed the man they met was not a 'Wally Katz' but an official named
+    Nat Kobitz, which is what I had assumed based on the book's description of his
+    navy R&D role.
   claim_id: 763b16c6-afd4-4d8e-9d93-187a09920ac3
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-763b16c6-afd4-4d8e-9d93-187a09920ac3
@@ -286,6 +317,8 @@ references:
     his Pentagon office
   source: In Plain Sight (2021)
   location: ch27:7626-7733
+  quote: Sur even remembered his father flourishing McCandlish's drawing of the ARV
+    craft at Kobitz in his Pentagon office.
   claim_id: d91d3008-64f4-4b74-b2d6-892b86baddd9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d91d3008-64f4-4b74-b2d6-892b86baddd9
@@ -294,6 +327,9 @@ references:
     it, not alarm
   source: In Plain Sight (2021)
   location: ch27:7743-7963
+  quote: '''The look on [Kobitz''] face was kind of like, what are you doing with
+    this? It wasn''t like, call the FBI and arrest this guy, national security or
+    anything like that. It was just kind of like, you know it. You know,'' Sur said.'
   claim_id: a27a2822-d617-4f37-9a46-41e05813114e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a27a2822-d617-4f37-9a46-41e05813114e
@@ -302,6 +338,9 @@ references:
     lure readers into funding his anti-gravity project
   source: In Plain Sight (2021)
   location: ch27:9019-9178
+  quote: I have a sceptical hunch that Gordon Novel embellished what Kobitz said at
+    this meeting to lure readers of his book into funding his 'anti-gravity propulsion'
+    project.
   claim_id: 233601f6-f420-4744-bcc3-b001daacd399
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-233601f6-f420-4744-bcc3-b001daacd399
@@ -309,6 +348,8 @@ references:
 - text: Said he only recalled 'it rings a bell' regarding the Fluxliner ARV story
   source: In Plain Sight (2021)
   location: ch27:13121-13208
+  quote: he told me that all he can remember about the ARV Fluxliner story was that
+    'it rings a bell'.
   claim_id: 17ae87c5-2b58-4d2b-ae93-41b50c51af26
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-17ae87c5-2b58-4d2b-ae93-41b50c51af26
@@ -317,6 +358,9 @@ references:
     and concluded it was a hoax
   source: In Plain Sight (2021)
   location: ch27:13215-13436
+  quote: Two days later, after I have sent him a detailed graphic of the purported
+    ARV Fluxliner drawn by Mark McCandlish, he told me, 'Okay, I've seen that before.
+    . . . And my conclusion is that it's a hoax. I'm sorry,' he told me.
   claim_id: c5e2bf65-cdc6-46de-8cc3-91967408986b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5e2bf65-cdc6-46de-8cc3-91967408986b
@@ -325,6 +369,10 @@ references:
     read out, but could not speak about it
   source: In Plain Sight (2021)
   location: ch27:13741-14041
+  quote: '''Nat, were you ever read into any programs involving crashed UFOs or UAPs?''
+    I pressed, repeating the question so he knew for sure what I was asking. There
+    was a deep pause and then he said, ''Yes, I was. I was never read out of it. So,
+    I really don''t think it would help but I really can''t speak about it.'''
   claim_id: 7e9a1c89-c977-4578-9ca2-c07cc471f847
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7e9a1c89-c977-4578-9ca2-c07cc471f847
@@ -333,6 +381,11 @@ references:
     was careful not to speculate
   source: In Plain Sight (2021)
   location: ch27:14098-14454
+  quote: I asked, 'Nat, are you aware of any recovered alien spacecraft inside the
+    US government?' He responded cryptically, 'I only have hearsay information. I
+    tried to be very careful not to fall into the category that a fellow did once
+    when I was much younger. He was in his 90s and he said, "Kobitz, let me tell you,
+    some of my greatest adventures never really happened".'
   claim_id: af30c200-7776-45bd-afc0-39fd886b43a2
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af30c200-7776-45bd-afc0-39fd886b43a2
@@ -341,6 +394,9 @@ references:
     debris
   source: In Plain Sight (2021)
   location: ch27:14837-15066
+  quote: I recited the official US Air Force explanation for the 1947 Roswell crash
+    to him – that the recovered Roswell debris was merely a high-altitude nuclear
+    test surveillance balloon from a secret project codenamed Mogul. He laughed dismissively
   claim_id: 54a8fbd7-770d-46f6-bc88-42a499f8a4f9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-54a8fbd7-770d-46f6-bc88-42a499f8a4f9
@@ -349,6 +405,9 @@ references:
     technology
   source: In Plain Sight (2021)
   location: ch27:15756-15925
+  quote: '''Are you able to confirm to me that the US has been trying to develop recovered
+    alien technology?'' Kobitz gave the question careful consideration. ''Yes, I can
+    say that''s so.'''
   claim_id: 04a399a8-34b0-42b7-b4f8-9016e2dbf1d9
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-04a399a8-34b0-42b7-b4f8-9016e2dbf1d9
@@ -357,6 +416,9 @@ references:
     details
   source: In Plain Sight (2021)
   location: ch27:15931-16101
+  quote: In several long conversations over three weeks, Kobitz made it clear he would
+    never breach the terms of his national security oath and reveal the full details
+    of what he knew.
   claim_id: 695ca04c-e13f-4f6e-9dd5-30e0472a861c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-695ca04c-e13f-4f6e-9dd5-30e0472a861c
@@ -365,6 +427,9 @@ references:
     Science to examine strange metal pieces held under high security
   source: In Plain Sight (2021)
   location: ch27:17313-17524
+  quote: Perhaps because of this expertise, Kobitz mentioned that, during his time
+    at NKA, he was invited to visit Wright-Patterson Air Force Base in Dayton, Ohio,
+    to examine some strange pieces of metal held under high security.
   claim_id: effb82f7-a46d-4c5d-bf1d-d6eae3fb9479
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-effb82f7-a46d-4c5d-bf1d-d6eae3fb9479
@@ -373,6 +438,8 @@ references:
     career
   source: In Plain Sight (2021)
   location: ch27:20450-20594
+  quote: he wouldn’t talk any further about the program working with recovered UAP
+    technology, which he admitted he was read into during his time at the navy
   claim_id: 631e80d7-44ce-4f6c-90fd-7f1ff54136fe
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-631e80d7-44ce-4f6c-90fd-7f1ff54136fe
@@ -381,6 +448,9 @@ references:
     Air Force
   source: In Plain Sight (2021)
   location: ch27:20804-20977
+  quote: ‘I saw a piece of piece of material that was reported to me as being a titanium
+    alloy that was not known to the air force. I did not know what it was, I was not
+    told what it was.’
   claim_id: 4064203b-e546-4d7e-9a84-b488efb1b13f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4064203b-e546-4d7e-9a84-b488efb1b13f
@@ -388,6 +458,7 @@ references:
 - text: The fragment was approximately 0.9 by 1.2 metres in size
   source: In Plain Sight (2021)
   location: ch27:20982-21023
+  quote: It was a piece about three by maybe four feet.
   claim_id: 6098f0e9-2745-4866-9def-14f31a44cbd6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6098f0e9-2745-4866-9def-14f31a44cbd6
@@ -396,6 +467,8 @@ references:
     welded
   source: In Plain Sight (2021)
   location: ch27:21029-21109
+  quote: It showed no attachment except something welded to it. But it was not welded
+    to it.
   claim_id: 45e80627-637e-4d9e-8658-9a67a8cc0687
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-45e80627-637e-4d9e-8658-9a67a8cc0687
@@ -404,6 +477,8 @@ references:
     a bulkhead
   source: In Plain Sight (2021)
   location: ch27:21113-21219
+  quote: It just was integral with, if you could think of it as a bulkhead, it was
+    integral with the skin, if that helps.
   claim_id: 6cca885a-f09d-4d4b-837a-9f537b19c701
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6cca885a-f09d-4d4b-837a-9f537b19c701
@@ -412,6 +487,9 @@ references:
     manufacturing staff's initial belief
   source: In Plain Sight (2021)
   location: ch27:21241-21438
+  quote: If you know something about electron beam, you know that it doesn’t leave
+    a little bead. They thought that this bulkhead was attached to the skin by electron
+    beam, but it did not look like that to me.
   claim_id: bcc31a53-984b-40c2-ac78-51e1049a7ede
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bcc31a53-984b-40c2-ac78-51e1049a7ede
@@ -420,6 +498,10 @@ references:
     typical electron beam welds
   source: In Plain Sight (2021)
   location: ch27:21474-21798
+  quote: It looked like the thing was cast. It was completely strange for me. When
+    you see something cast in place, it is integral and shows no interruption. Even
+    with electron beam, you’ll sometimes see a small line. But this showed nothing,
+    and this is what was strange about this to these manufacturing people.
   claim_id: 3ecc2fc4-9de6-4642-8623-0fe905487dc8
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3ecc2fc4-9de6-4642-8623-0fe905487dc8
@@ -428,6 +510,8 @@ references:
     bond
   source: In Plain Sight (2021)
   location: ch27:21808-21955
+  quote: Kobitz’s expert opinion was there was no known industrial process that could
+    replicate the bond he saw on that curious fragment of metal at Wright-Patterson.
   claim_id: 9bd8669e-e655-4ed8-b916-a224fd85b72b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9bd8669e-e655-4ed8-b916-a224fd85b72b
@@ -435,6 +519,9 @@ references:
 - text: Reserved judgement on whether the fragment was from a craft not of this world
   source: In Plain Sight (2021)
   location: ch27:21966-22125
+  quote: He reserved judgement on whether the fragment was from some craft not of
+    this world and he only chuckled when I flatly asked if he thought the metal was
+    extra-terrestrial.
   claim_id: 0258e888-2bf7-4198-bd45-e65456b26dc1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0258e888-2bf7-4198-bd45-e65456b26dc1
@@ -443,6 +530,8 @@ references:
     the Pentagon meeting
   source: In Plain Sight (2021)
   location: ch27:10436-10551
+  quote: a kindly and clearly still sharp, albeit infirm, 92-year-old Nat Kobitz called
+    me out of the blue from his home in Baltimore.
   claim_id: 52808f84-cf68-4a4a-80ec-96339e54f582
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-52808f84-cf68-4a4a-80ec-96339e54f582
@@ -450,6 +539,8 @@ references:
 - text: Was fighting a terminal illness when he spoke with Coulthart
   source: In Plain Sight (2021)
   location: ch27:10773-10914
+  quote: Tragically, Kobitz was fighting a terminal illness and, when his daughter
+    Celia was out of earshot, he whispered that he knew he didn't have long.
   claim_id: 718d5679-1153-4a1d-94b0-54d79ba79110
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-718d5679-1153-4a1d-94b0-54d79ba79110
@@ -457,6 +548,8 @@ references:
 - text: His daughter is named Celia Kobitz
   source: In Plain Sight (2021)
   location: ch27:10829-10914
+  quote: when his daughter Celia was out of earshot, he whispered that he knew he
+    didn't have long.
   claim_id: bc8032ec-7b6a-4925-b874-2545c58031f4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc8032ec-7b6a-4925-b874-2545c58031f4
@@ -465,6 +558,10 @@ references:
     behalf, and none had information on him or working prototypes
   source: In Plain Sight (2021)
   location: ch28:22126-22423
+  quote: I asked former US Navy R&D boss Nat Kobitz if he knew anything about Pais's
+    patents and he made a few discrete inquiries. The answer came back that nobody
+    Kobitz or his colleagues knew in the US Navy had any information on either Dr
+    Pais or whether there were any working prototypes of any of his patents.
   claim_id: 0850e108-9710-4a09-9323-2b500d8873c4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0850e108-9710-4a09-9323-2b500d8873c4
@@ -473,6 +570,8 @@ references:
     about the alleged crash retrieval program
   source: In Plain Sight (2021)
   location: ch28:29512-29594
+  quote: I am in absolutely no doubt that Nat Kobitz told me the truth of what he
+    knew and saw
   claim_id: e01193d2-07d7-4368-9a54-8819cda61089
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e01193d2-07d7-4368-9a54-8819cda61089
@@ -481,6 +580,8 @@ references:
     with claims of retrieved alien technology
   source: In Plain Sight (2021)
   location: ch37:8969-9083
+  quote: Kobitz was one of the most senior US Defense Department insiders ever to
+    go public with claims of retrieved alien technology.
   claim_id: af9b37f6-0a36-40e4-8f9c-b9cb7af54731
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-af9b37f6-0a36-40e4-8f9c-b9cb7af54731

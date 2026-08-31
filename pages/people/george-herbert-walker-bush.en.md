@@ -85,6 +85,8 @@ references:
     inauguration
   source: In Plain Sight
   location: ch11:15562-15636
+  quote: (Bush's term as CIA Director ended just before the inauguration in January
+    1977.)
   claim_id: 8cb06a6c-7d0a-4660-b635-9f09b569f714
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8cb06a6c-7d0a-4660-b635-9f09b569f714
@@ -92,6 +94,11 @@ references:
 - text: 'Sheehan: Carter sought a meeting with CIA Director Bush before his inauguration'
   source: In Plain Sight
   location: ch11:15229-15554
+  quote: According to celebrated civil rights attorney Daniel Sheehan, before Carter's
+    January inauguration he sought a meeting with the then Director of the CIA, George
+    Herbert Walker Bush, later the 41st president, but the CIA Director flatly refused
+    to give the president-elect a briefing on UFOs telling Carter he had no 'need
+    to know'.
   claim_id: bc4e12e5-674d-4ed6-ab78-35db0dd5d819
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc4e12e5-674d-4ed6-ab78-35db0dd5d819
@@ -99,6 +106,8 @@ references:
 - text: 'Sheehan: Bush refused Carter a UFO briefing, citing no ''need to know'''
   source: In Plain Sight
   location: ch11:15437-15554
+  quote: but the CIA Director flatly refused to give the president-elect a briefing
+    on UFOs telling Carter he had no 'need to know'.
   claim_id: 34b671a6-bd89-42f0-afdb-9f75e72a17f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-34b671a6-bd89-42f0-afdb-9f75e72a17f1
@@ -107,6 +116,8 @@ references:
     Service'
   source: In Plain Sight
   location: ch11:15643-15740
+  quote: Bush suggested the incoming president instead seek a briefing through the
+    Congressional Research Service.
   claim_id: f88beec4-39ca-4842-8255-1a52b419f62e
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f88beec4-39ca-4842-8255-1a52b419f62e
@@ -114,6 +125,8 @@ references:
 - text: Bush announced the SEI on the 20th anniversary of the Apollo 11 Moon landing
   source: Dark Mission
   location: ch19:6933-7077
+  quote: George Herbert Walker Bush announced the Space Exploration Initiative on
+    the occasion of the Twentieth Anniversary of the Apollo 11 Manned Moon Landing.
   claim_id: 91115471-7416-4499-92d4-6a07ccaa88f7
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-91115471-7416-4499-92d4-6a07ccaa88f7
@@ -121,6 +134,10 @@ references:
 - text: Announcement made at a Smithsonian ceremony honouring the Apollo 11 crew
   source: Dark Mission
   location: ch19:7482-7720
+  quote: His announcement at a Smithsonian Air and Space Museum ceremony honoring
+    the Apollo 11 crew caught many by surprise, since as late as a few days before
+    the ceremony reporters were convinced that Bush would not be announcing any new
+    space programs.
   claim_id: efb195b6-4088-4f42-9dd9-64877ee4b565
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-efb195b6-4088-4f42-9dd9-64877ee4b565
@@ -128,6 +145,7 @@ references:
 - text: 'Hoagland: SEI was the first major policy initiative of Bush''s presidency'
   source: Dark Mission
   location: ch19:6861-6920
+  quote: In fact, it was the first major policy initiative of his Presidency.
   claim_id: 4c309d43-ba28-435d-b7f2-06aad7d58df0
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-4c309d43-ba28-435d-b7f2-06aad7d58df0
@@ -135,6 +153,10 @@ references:
 - text: SEI met budget resistance and was killed by successor Bill Clinton
   source: Dark Mission
   location: ch19:1259-1547
+  quote: This was a considerably more modest proposal than the so-called "Space Exploration
+    Initiative" proposed by his father, President George H. W. Bush, in 1989. That
+    program had met with resistance over its large budgetary requirements and was
+    subsequently killed by his successor, President Clinton.
   claim_id: 154436ee-e289-4bb7-872c-f8942c6083a5
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-154436ee-e289-4bb7-872c-f8942c6083a5
@@ -142,6 +164,8 @@ references:
 - text: Bush re-created the National Space Council, once led by LBJ as Vice President
   source: Dark Mission
   location: ch19:7888-8005
+  quote: First, he re-created the National Space Council, an agency that had once
+    been led by Lyndon Johnson when he was Vice President.
   claim_id: 79d03200-43fb-4d95-9733-dfafd29831ac
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-79d03200-43fb-4d95-9733-dfafd29831ac
@@ -149,6 +173,8 @@ references:
 - text: Bush appointed Dan Quayle to head the Council on SEI recommendations
   source: Dark Mission
   location: ch19:8016-8159
+  quote: Bush appointed his own Vice President, the much-maligned Dan Quayle, to head
+    the Council and make recommendations on executing the President's vision.
   claim_id: 3899e78a-ad2a-4192-854b-546a09b0716d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-3899e78a-ad2a-4192-854b-546a09b0716d
@@ -156,6 +182,7 @@ references:
 - text: Bush pushed hard for SEI with little success in Congress
   source: Dark Mission
   location: ch5:25773-25835
+  quote: The President was pushing hard for the Initiative with little luck
   claim_id: cafa3c5e-6c3b-4633-bea7-875bd82e3571
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-cafa3c5e-6c3b-4633-bea7-875bd82e3571
@@ -164,6 +191,8 @@ references:
     goal'
   source: Dark Mission
   location: ch19:11627-11745
+  quote: '"Richard Hoagland is [also] the man who managed to convince the President
+    to state that a return to Mars is one of our goals..."'
   claim_id: e8f83580-d53b-4e9d-882d-6e31f0421b36
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e8f83580-d53b-4e9d-882d-6e31f0421b36
@@ -171,6 +200,10 @@ references:
 - text: Crossfire producers specifically wanted Hoagland to present the Mars case
   source: Dark Mission
   location: ch19:9706-9997
+  quote: The producers of the political program Crossfire specifically wanted Hoagland,
+    of all the possible NASA Mars experts they could have called upon, to present
+    "the case for Mars," following the President's surprise announcement on the steps
+    of the National Air and Space Museum earlier that day.
   claim_id: 379a9cbf-3e32-4da6-8d4a-5e219e363fe3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-379a9cbf-3e32-4da6-8d4a-5e219e363fe3
@@ -178,6 +211,9 @@ references:
 - text: Bush reportedly stated Hoagland's work was a primary impetus behind SEI
   source: Dark Mission
   location: ch19:9378-9557
+  quote: the first President Bush overtly stated on at least one occasion his view
+    that the work of Richard C. Hoagland (and the then-"Mars Mission") was a primary
+    impetus behind his SEI program.
   claim_id: 7c812ec1-8d6a-4674-a2bc-afe2a1847c4f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-7c812ec1-8d6a-4674-a2bc-afe2a1847c4f
@@ -185,6 +221,10 @@ references:
 - text: Hoagland cites Crossfire, Kleinberg's statement and the poster as evidence
   source: Dark Mission
   location: ch19:15233-15480
+  quote: It was clear to us that these three separate lines of evidence—the Crossfire
+    invitation, the Klineberg statement quoting the President and the Program poster—all
+    pointed to Bush 41 being not only familiar with Hoagland's work, but inspired
+    by it.
   claim_id: 40b2596a-583a-48f5-b670-63d68f65b0dc
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-40b2596a-583a-48f5-b670-63d68f65b0dc
@@ -192,6 +232,9 @@ references:
 - text: Poster commission came through Bush's office via Boeing Aerospace, c.1985
   source: Dark Mission
   location: ch5:25600-25768
+  quote: The commission for the painting came through the President's [George Herbert
+    Walker Bush] office via Boeing Aerospace, with whom I was working for at the time
+    (1985 or so?)
   claim_id: aecd8401-7413-4d30-8623-6318d3cc8d1c
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-aecd8401-7413-4d30-8623-6318d3cc8d1c
@@ -199,6 +242,8 @@ references:
 - text: Bush thought an image was needed to sell SEI to the public and Congress
   source: Dark Mission
   location: ch5:26056-26157
+  quote: thought that what was needed was an image to help sell the program to the
+    American people as well as Congress
   claim_id: f26048e5-5c9d-486d-be3b-44fb3fbe214e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-f26048e5-5c9d-486d-be3b-44fb3fbe214e
@@ -206,6 +251,9 @@ references:
 - text: Science advisers cautioned against an image implying past Martian life
   source: Dark Mission
   location: ch5:26808-26963
+  quote: his science advisers suggested it would not be prudent to attempt a selling
+    of the program with an image that suggested there was once intelligent life on
+    Mars
   claim_id: 138a8b7f-6450-4586-8c68-5cb9a7aa960e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-138a8b7f-6450-4586-8c68-5cb9a7aa960e
@@ -213,6 +261,9 @@ references:
 - text: Poster includes a Bush quote explaining 'Why Mars?'
   source: Dark Mission
   location: ch19:14585-14746
+  quote: To ensure that there is no doubt that this was connected to the President's
+    "space vision," the poster also includes a quote from President Bush explaining
+    "Why Mars?"
   claim_id: 60ec1598-800b-44e1-bc86-8aece0e224a9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-60ec1598-800b-44e1-bc86-8aece0e224a9
@@ -220,6 +271,11 @@ references:
 - text: Dave Bara spotted the poster in a vacated Boeing office in 1997
   source: Dark Mission
   location: ch19:13738-14121
+  quote: In 1997, the brother of one of the authors, Dave Bara, was walking through
+    an office area of the Boeing Company in Renton, Washington, which had just been
+    vacated by a relocated organization. On the wall of an abandoned cubicle, he spotted
+    a poster that he instantly knew to be highly significant. It was from the 1989
+    White House Mars Exploration Program proposed by then-President Bush.
   claim_id: 2909aefe-359c-4b38-b2c0-4882c3ccfab6
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2909aefe-359c-4b38-b2c0-4882c3ccfab6
@@ -227,6 +283,10 @@ references:
 - text: 'Hudson: poster used to bolster Nazi-heritage and Masonic claims about Bush'
   source: Dark Mission
   location: ch5:27577-27843
+  quote: it has come to my attention that the image is used to bolster claims of the
+    President's Nazi heritage, and that, being both a Mason and a Nazi, the only reason
+    he wanted to send men to Mars was to return the Brotherhood back to the old stomping
+    grounds of the Aryan race
   claim_id: a0cb7975-108d-4fd3-a886-8356d22b57ff
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-a0cb7975-108d-4fd3-a886-8356d22b57ff
@@ -234,6 +294,9 @@ references:
 - text: 'Mike Bara: Hudson anxious to dispel notion of administration backing'
   source: Dark Mission
   location: ch5:28960-29120
+  quote: He seemed anxious to dispel any notion that the Bush administration supported
+    his work, even though he submitted a detailed proposal before starting the actual
+    painting.
   claim_id: 48ab2b11-9178-4edc-bb7f-11f841573dd9
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-48ab2b11-9178-4edc-bb7f-11f841573dd9
@@ -241,6 +304,8 @@ references:
 - text: Ann Richards mocked Bush at the 1988 Democratic National Convention
   source: Dark Mission
   location: ch19:2360-2488
+  quote: Richards had attained national prominence at the 1988 Democratic National
+    Convention by mocking his father, the first President Bush.
   claim_id: 893ac4e2-3881-4d8e-babc-6389fe995291
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-893ac4e2-3881-4d8e-babc-6389fe995291
@@ -248,6 +313,9 @@ references:
 - text: Bush left Saddam Hussein in power at the end of the 1991 Gulf War
   source: Dark Mission
   location: ch19:5895-6089
+  quote: After being left in power by Bush 41 at the conclusion of the first Gulf
+    War, Saddam had sponsored and financed several attacks against the United States,
+    including the first World Trade Center bombing.
   claim_id: ef0b9118-75b2-44cd-bc84-a0ba46d4e0af
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-ef0b9118-75b2-44cd-bc84-a0ba46d4e0af
@@ -255,6 +323,8 @@ references:
 - text: Hussein attempted to assassinate Bush in 1993
   source: Dark Mission
   location: ch19:6191-6286
+  quote: He had attempted to assassinate Bush 41 in 1993, and George W. Bush was determined
+    to take him down.
   claim_id: 45c48113-cf28-4eb2-aa00-23911e59dc9f
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-45c48113-cf28-4eb2-aa00-23911e59dc9f
@@ -295,6 +365,8 @@ references:
 - text: Elizondo lists Bush among presidents he believes were briefed on UAP
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:16189-16330
+  quote: 'As far as I know, the following US presidents were briefed in some way:
+    Truman, Eisenhower, JFK, LBJ, Carter, Reagan, George H. W. Bush, and Trump.'
   claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ebd1ae38-dd77-469e-a408-2d86f274bff8

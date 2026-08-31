@@ -101,6 +101,8 @@ references:
 - text: Soviet pilots were seeing strange things in the sky; reports suppressed
   source: In Plain Sight
   location: ch9:536-617
+  quote: Soviet pilots were also seeing strange things, although their reports were
+    being suppressed.
   claim_id: db33ec70-57f5-4c0b-8ef4-287755e879ad
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-db33ec70-57f5-4c0b-8ef4-287755e879ad
@@ -121,6 +123,9 @@ references:
 - text: 'Sokolov: Project Condign files admit Soviet pilots killed in UAP engagements'
   source: In Plain Sight
   location: ch12:20173-20376
+  quote: Declassified UAP investigation files from the British Ministry of Defence,
+    the so-called Project Condign study, also record Colonel Sokolov admitting that
+    Soviet pilots were killed in engagements with UAPs.
   claim_id: 2e7f72c3-b586-4b6f-9021-87b965483339
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2e7f72c3-b586-4b6f-9021-87b965483339
@@ -129,6 +134,10 @@ references:
     two deaths'
   source: In Plain Sight
   location: ch12:20382-20669
+  quote: He said there were 40 reported cases where, 'Pilots encountered UFOs. Initially
+    they were commanded to chase, then shoot. When our pilots would engage the UFO,
+    it would speed up, our aircraft would give chase loose [sic] control and crash.
+    That happened three times and twice the pilots died.'
   claim_id: d72772c6-42c3-412a-9d2b-57e8b357cfbf
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d72772c6-42c3-412a-9d2b-57e8b357cfbf
@@ -136,6 +145,8 @@ references:
 - text: Project Condign concluded Russians regarded UAP as a clear threat
   source: In Plain Sight
   location: ch12:20676-20765
+  quote: The British concluded the Russians took UAPs extremely seriously and saw
+    them as a clear threat.
   claim_id: d9c81ed7-9db6-470c-862c-0815e5ba196a
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d9c81ed7-9db6-470c-862c-0815e5ba196a
@@ -143,6 +154,9 @@ references:
 - text: Post-collapse revelations of Soviet UAP incursions over military facilities
   source: In Plain Sight
   location: ch12:18160-18383
+  quote: As the Soviet Union collapsed and old Cold War secrets began to leak out,
+    it emerged that the communists frequently saw UAP incursions over sensitive nuclear
+    and other military facilities identical to those observed in the West.
   claim_id: 37e6fabf-2f86-4ea0-97dc-c9c494a6fea6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-37e6fabf-2f86-4ea0-97dc-c9c494a6fea6
@@ -150,6 +164,8 @@ references:
 - text: 13-year dual Soviet civilian/military UAP investigation programmes
   source: In Plain Sight
   location: ch12:19351-19475
+  quote: Dual civilian and military Soviet UAP investigations programs went on for
+    13 years and collected thousands of UAP sightings reports.
   claim_id: 9db7f924-3ab2-40d4-8cce-35f1fa71225c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-9db7f924-3ab2-40d4-8cce-35f1fa71225c
@@ -157,6 +173,8 @@ references:
 - text: September 1977 Scandinavia/USSR sightings coinciding with Petrozavodsk
   source: In Plain Sight
   location: ch12:19200-19343
+  quote: Later analysis revealed that strange objects were seen in the sky that September
+    1977 night across a huge swathe of Scandinavia and the Soviet Union.
   claim_id: 4945d552-0b90-43f3-8a45-205c77d839f1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4945d552-0b90-43f3-8a45-205c77d839f1
@@ -164,6 +182,8 @@ references:
 - text: Kecksburg 1965 crash suggested to be a Russian or US satellite
   source: In Plain Sight
   location: ch10:9159-9287
+  quote: It has been ventured that the object was a Russian or US satellite but exactly
+    what it was that crashed at Kecksburg is an open question.
   claim_id: c571ddf2-6108-4253-8223-d0da1df90a97
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c571ddf2-6108-4253-8223-d0da1df90a97
@@ -171,6 +191,9 @@ references:
 - text: 'Jacobsen''s Area 51 book: Roswell wreckage was a Russian craft'
   source: In Plain Sight
   location: ch18:2057-2220
+  quote: Where her book courted most controversy was Jacobsen's extraordinary assertion
+    that what crashed at Roswell was actually Russian, crafted by captured Nazi Germany
+    scientists.
   claim_id: edae0e41-581d-4198-9c8b-46d1b88c93df
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-edae0e41-581d-4198-9c8b-46d1b88c93df
@@ -179,6 +202,9 @@ references:
     balloon'
   source: In Plain Sight
   location: ch7:14984-15154
+  quote: The air force’s 1994 report claimed the wreckage that was recovered was from
+    a then top-secret balloon project designed to monitor Soviet nuclear tests, known
+    as Project MOGUL.
   claim_id: 6e816170-67af-4d4f-9e7c-3404b917ba25
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6e816170-67af-4d4f-9e7c-3404b917ba25
@@ -186,6 +212,9 @@ references:
 - text: December 1948 air intelligence report suggested strange craft possibly Soviet
   source: In Plain Sight
   location: ch8:2068-2271
+  quote: Another tamer US air intelligence report, released in December 1948, side-stepped
+    the extra-terrestrial hypothesis and suggested the numerous strange craft seen
+    in American skies were possibly of Soviet origin
   claim_id: dde4e28e-1192-4426-9526-ffc6381ab295
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-dde4e28e-1192-4426-9526-ffc6381ab295
@@ -194,6 +223,9 @@ references:
     grounds'
   source: In Plain Sight
   location: ch7:2551-2729
+  quote: Theories they might be Soviet rocket tests were dismissed because the objects
+    had no exhaust, were completely silent, and were seen flying horizontally and
+    often super slowly in formation.
   claim_id: 694036f5-26c2-4375-a0d3-a5dd44614a0f
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-694036f5-26c2-4375-a0d3-a5dd44614a0f
@@ -202,6 +234,10 @@ references:
     sightings'
   source: In Plain Sight
   location: ch11:1605-1911
+  quote: '''By erecting a façade of ridicule, the US hoped to allay public alarm,
+    reduce the possibility of the Soviets taking advantage of UFO mass sightings for
+    either psychological or actual warfare purposes, and act as a cover for the real
+    US programme of developing vehicles that emulate UFO performance,'' Turner declared.'
   claim_id: 8aa4a6a2-2468-42f0-a56b-c1eec9517369
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8aa4a6a2-2468-42f0-a56b-c1eec9517369
@@ -209,6 +245,8 @@ references:
 - text: 'Sheehan: UAP suppression as an extension of Cold War against USSR and China'
   source: In Plain Sight
   location: ch11:23125-23230
+  quote: They’ve viewed this as a direct appendage of the war-making in the Cold War
+    against the Soviet Union and China.
   claim_id: fd89fba0-b4e1-4e04-85bb-65af5e2b1e1b
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-fd89fba0-b4e1-4e04-85bb-65af5e2b1e1b
@@ -217,6 +255,10 @@ references:
     it'
   source: In Plain Sight
   location: ch13:30425-30735
+  quote: For instance, if I told you the exact electromagnetic signature of a high-mach
+    UFO that US sensors search for, but don't attack, and you put it in a book, the
+    Soviets/Chinese would manufacture a bomber with sigint/elint [signals and electronic
+    intelligence] counter measure equipment that generated that exact signature.
   claim_id: 5336ba12-0f0b-4b71-899a-ed710533e639
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5336ba12-0f0b-4b71-899a-ed710533e639
@@ -225,6 +267,10 @@ references:
     treaty with the Soviets'
   source: In Plain Sight
   location: ch13:29725-29966
+  quote: A previously very highly security cleared defence communications intelligence
+    insider, Fish has extensive experience working on classified programs, including
+    President Reagan's 'Trust but Verify' nuclear missile disarmament treaty with
+    the Soviets
   claim_id: 64e46480-d6c2-48a7-8b12-4d7cb07b1de1
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-64e46480-d6c2-48a7-8b12-4d7cb07b1de1
@@ -232,6 +278,8 @@ references:
 - text: Pine Gap originally tracked telemetry of Soviet missile launches
   source: In Plain Sight
   location: ch13:26061-26148
+  quote: Originally a ground station for US satellites tracking the telemetry of Soviet
+    missile launches
   claim_id: ee46a576-58ff-40ca-a734-0e8060d592ac
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ee46a576-58ff-40ca-a734-0e8060d592ac
@@ -240,6 +288,8 @@ references:
     border
   source: In Plain Sight
   location: ch11:5340-5510
+  quote: History records that a panicked White House feared the Soviets were considering
+    deploying Soviet troops on the Syrian Golan Heights border with Israel.
   claim_id: eb737eaf-105f-4831-9540-8bc30a3acabc
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-eb737eaf-105f-4831-9540-8bc30a3acabc
@@ -247,6 +297,8 @@ references:
 - text: Soviet influence in Afghanistan from 1954 via military assistance
   source: In Plain Sight
   location: ch9:4443-4545
+  quote: The Soviet Union exerted heavy influence in Afghanistan from 1954 because
+    of its substantial military assistance
   claim_id: b3221e63-c2cd-485c-8bd0-e90df1dcb848
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b3221e63-c2cd-485c-8bd0-e90df1dcb848
@@ -254,6 +306,9 @@ references:
 - text: 'Mellon: October 2017 marked 60 years since Sputnik''s launch'
   source: In Plain Sight
   location: ch21:2308-2505
+  quote: it was precisely 60 years ago to the month that, in the darkest days of the
+    Cold War, the communist Soviet Union humiliated America by launching Sputnik in
+    October 1957, the first human-made Earth satellite
   claim_id: 757604df-81f7-41b5-8d1b-61c86a4ffd50
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-757604df-81f7-41b5-8d1b-61c86a4ffd50
@@ -262,6 +317,8 @@ references:
     space race'
   source: In Plain Sight
   location: ch21:2574-2725
+  quote: it also prompted a massive government boost in spending on science and engineering
+    to catch up with the Soviets, propelling the country into the space race
   claim_id: c43f1b18-4347-449c-9414-f6b8eb512994
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c43f1b18-4347-449c-9414-f6b8eb512994
@@ -270,6 +327,14 @@ references:
     UAP'
   source: In Plain Sight
   location: ch17:11325-11877
+  quote: '''It''s clear they''re tampering with the weapons. Now is it because they
+    have our best interests at heart?'' Hastings tells me. ''Is that what''s going
+    on? Or do they have a need for this planet and they don''t want us to screw it
+    up with radioactivity. Do they plan to invade, and they don''t want to inherit
+    a radioactive husk of a world? I doubt that anyone in the Pentagon or in the Soviet,
+    or the Russian [Federation] nowadays, government infrastructure even has the answers
+    to that. I''m not optimistic that anyone on the planet really knows what''s going
+    on.'''
   claim_id: 5403e3c2-ede2-4a1e-beb9-78e852299e7c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5403e3c2-ede2-4a1e-beb9-78e852299e7c

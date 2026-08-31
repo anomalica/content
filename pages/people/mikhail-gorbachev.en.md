@@ -48,6 +48,8 @@ references:
 - text: Gorbachev became secretary general of the Russian Communist Party on 1985-03-11
   source: The Fatima Secret
   location: ch19:12878-13022
+  quote: Within one year after the consecration ceremony, on March 11, 1985, Mikhail
+    Gorbachev became the new secretary general of the Russian Communist party.
   claim_id: e86a775e-8db2-4bdf-9ae6-400311b67bf8
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-e86a775e-8db2-4bdf-9ae6-400311b67bf8
@@ -56,6 +58,9 @@ references:
     the West
   source: In Plain Sight
   location: ch12:17965-18150
+  quote: In 1987, Soviet leader Mikhail Gorbachev announced the economic liberalisation
+    reform of perestroika, heralding a warming in relations with the West known in
+    Russia as Glasnost, or openness.
   claim_id: 6979ceb6-416d-4e5a-93a2-5176dfb45438
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6979ceb6-416d-4e5a-93a2-5176dfb45438
@@ -64,6 +69,9 @@ references:
     apparitions
   source: The Fatima Secret
   location: ch19:16997-17195
+  quote: One of the half million pilgrims who went to Hrushiv was the Catholic activist
+    Josip Terelya, who had spent twenty years in Russian prison camps, and shortly
+    before had been released on Gorbachev’s orders.
   claim_id: c7f7a796-ad81-4c65-b225-bf7d30c884f8
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-c7f7a796-ad81-4c65-b225-bf7d30c884f8
@@ -72,6 +80,9 @@ references:
     at the Kremlin on 1988-04-29
   source: The Fatima Secret
   location: ch19:20613-20791
+  quote: On April 29, 1988, a meeting took place at the grandiose Catherine Hall of
+    the Kremlin between Mikhail Gorbachev, the Russian Orthodox patriarch of Moscow,
+    and five metropolitan bishops.
   claim_id: 00581192-6e78-442d-b6f5-08997cfce6de
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-00581192-6e78-442d-b6f5-08997cfce6de
@@ -79,6 +90,7 @@ references:
 - text: Such a meeting would have been unthinkable five years before 1988
   source: The Fatima Secret
   location: ch19:20800-20854
+  quote: Only five years before such a meeting would have been unthinkable.
   claim_id: 8aa8e064-623d-4596-95a4-7a48a6f76412
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-8aa8e064-623d-4596-95a4-7a48a6f76412
@@ -86,6 +98,7 @@ references:
 - text: Gorbachev announced a new law on freedom of religion
   source: The Fatima Secret
   location: ch19:20867-20918
+  quote: Gorbachev announced a new law regarding freedom of religion.
   claim_id: 5ba6e798-2be9-4884-a1a2-92db1f9f4c2a
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-5ba6e798-2be9-4884-a1a2-92db1f9f4c2a
@@ -94,6 +107,8 @@ references:
     convictions with dignity
   source: The Fatima Secret
   location: ch19:20929-21044
+  quote: “Believers are Soviet citizens, workers, patriots,” he said. “They have the
+    right to express their convictions with dignity.”
   claim_id: 560eff5f-2756-4c28-87a2-f634b7d4f5ec
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-560eff5f-2756-4c28-87a2-f634b7d4f5ec
@@ -102,6 +117,8 @@ references:
     to Portugal
   source: The Fatima Secret
   location: ch19:22290-22412
+  quote: Gennadii Gerasimov had been the spokesman for the foreign ministry under
+    Gorbachev, before he was appointed ambassador to Portugal.
   claim_id: f367aaf1-d21c-47bc-901d-26929c3ee190
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f367aaf1-d21c-47bc-901d-26929c3ee190
@@ -109,6 +126,9 @@ references:
 - text: Hardliners staged a coup against Gorbachev on 1991-08-19
   source: The Fatima Secret
   location: ch19:22811-23011
+  quote: During the early hours of August 19, the anniversary, once again, of a Fatima
+    apparition, Communist hardliners staged a coup against President Gorbachev, who
+    was held prisoner at his country villa in Crimea.
   claim_id: dfae37d2-dd40-443a-8b75-fd43f2c99160
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-dfae37d2-dd40-443a-8b75-fd43f2c99160
@@ -116,6 +136,8 @@ references:
 - text: Gorbachev was held prisoner at his Crimea villa during the coup
   source: The Fatima Secret
   location: ch19:22901-23011
+  quote: Communist hardliners staged a coup against President Gorbachev, who was held
+    prisoner at his country villa in Crimea.
   claim_id: fe171eb2-1aa4-4546-bca9-1a9e07919c26
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-fe171eb2-1aa4-4546-bca9-1a9e07919c26
@@ -124,6 +146,8 @@ references:
     early 1992
   source: The Fatima Secret
   location: ch19:23171-23303
+  quote: Gorbachev was driven from his office as president of the Soviet Union, a
+    country which had ceased to exist by the time the new year began.
   claim_id: 0795da99-5f44-40f8-9b15-480022d193ae
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-0795da99-5f44-40f8-9b15-480022d193ae
@@ -131,6 +155,8 @@ references:
 - text: Gorbachev's resignation statement on 1991-12-25
   source: The Fatima Secret
   location: ch19:13094-13228
+  quote: “fate determined that I should find myself at the top of the state, and it
+    was soon clear to me that something was going wrong in this country.
   claim_id: d8b9df92-a719-4ea0-ad32-310bf580f454
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d8b9df92-a719-4ea0-ad32-310bf580f454
@@ -139,6 +165,9 @@ references:
     reforms
   source: The Fatima Secret
   location: ch19:13237-13453
+  quote: We had much, but we still lived in a much poorer condition than the people
+    in the other industrialized countries. All the halfhearted reforms, of which there
+    were so many, had fallen through. The country was getting nowhere.
   claim_id: 396e0156-d11c-4b57-97be-fb608b3cc3ef
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-396e0156-d11c-4b57-97be-fb608b3cc3ef
@@ -147,6 +176,10 @@ references:
     begun in 1985
   source: The Fatima Secret
   location: ch19:13501-13756
+  quote: I was well aware that a reform of this kind in a society like ours would
+    be an extremely difficult and even dangerous undertaking. But today I am convinced
+    that the democratic revolution, which we began in the spring of 1985, was historically
+    the correct step.”
   claim_id: f8dbbcd0-6a8b-4002-90f2-1e317126dbe4
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-f8dbbcd0-6a8b-4002-90f2-1e317126dbe4
@@ -155,6 +188,9 @@ references:
     consecration
   source: The Fatima Secret
   location: ch23:6944-7132
+  quote: The decisive turning points of World War II, and Gorbachev’s “perestroika,”
+    followed immediately after the consecration of the world and Russia to the Immaculate
+    Heart, as demanded in the visions.
   claim_id: d6489b1e-3883-4607-9714-393cf9bfe831
   record_hash: 9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f
   workbench_url: https://workbench.anomalica.is/9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f#claim-d6489b1e-3883-4607-9714-393cf9bfe831
@@ -162,6 +198,8 @@ references:
 - text: Reagan suggested US-Soviet cooperation against an alien invasion
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:17452-17598
+  quote: we know that he once suggested to his USSR counterpart, Mikhail Gorbachev,
+    that the US and the USSR should work together in the event of an alien invasion.
   claim_id: 47f8adf1-bae1-4187-b5ea-765fa8440f63
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-47f8adf1-bae1-4187-b5ea-765fa8440f63
@@ -169,6 +207,9 @@ references:
 - text: Gorbachev wore makeup to obscure a birthmark called the mark of the beast
   source: Communion
   location: ch15:1334-1491
+  quote: Premier Gorbachev has taken to wearing makeup on Soviet television to obscure
+    a birthmark on his forehead because people have called it "the mark of the 294
+    beast."
   claim_id: e6e40a02-b504-4dd5-aaf5-17a14ec1755f
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-e6e40a02-b504-4dd5-aaf5-17a14ec1755f

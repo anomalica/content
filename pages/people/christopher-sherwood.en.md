@@ -51,6 +51,8 @@ references:
     public dissemination
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:5441-5569
+  quote: among other things, Sherwood told reporters that the three UAP videos had
+    been cleared for research purposes only, not public dissemination.
   claim_id: b0f1de96-3623-4d96-a9b7-35d625e22f0b
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b0f1de96-3623-4d96-a9b7-35d625e22f0b
@@ -144,6 +146,9 @@ references:
 - text: Denied Elizondo had any AATIP involvement, quoted as saying he had 'no responsibilities'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:4525-4788
+  quote: The Pentagon's spokesperson at the time, Christopher Sherwood, suddenly denied
+    I had any involvement in AATIP. ... On behalf of the Pentagon, Sherwood told the
+    reporters, "Mr. Elizondo had no responsibilities with regard to the AATIP program."
   claim_id: 33ca9ea9-b847-4fa9-aa48-c24729a18d66
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-33ca9ea9-b847-4fa9-aa48-c24729a18d66
@@ -152,6 +157,8 @@ references:
     to admit it
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:5705-5818
+  quote: He admitted he knew very well about my role at AATIP, but forces within the
+    building instructed him not to admit it.
   claim_id: c21dc27c-f073-4f39-9a71-40461f63dedd
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c21dc27c-f073-4f39-9a71-40461f63dedd
@@ -160,6 +167,10 @@ references:
     AATIP role
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch30:5936-6240
+  quote: Later I learned that even Brad Byers in the SECDEF's office had called Sherwood
+    expressing his concern over the story told by the Pentagon. Byers warned Sherwood
+    that way too many people in senior positions knew of my role in AATIP, that the
+    Pentagon was backing itself into a corner.
   claim_id: 63e93ae5-6a1e-440f-aa69-a5546e92dfbf
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-63e93ae5-6a1e-440f-aa69-a5546e92dfbf

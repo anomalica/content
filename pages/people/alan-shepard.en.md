@@ -77,6 +77,9 @@ references:
 - text: Inner-ear problem grounded Shepard 1964-1969 after the Freedom 7 flight.
   source: Dark Mission
   location: ch19:34227-34446
+  quote: For Shepard, it was a curious inner ear problem, which took him off flight
+    status for six years, from 1964 (following his historic sub-orbital Freedom 7
+    "hop" in 1961)until he was miraculously "cured" and reinstated in 1969.
   claim_id: accc0991-0574-4238-b766-b19efbea1514
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-accc0991-0574-4238-b766-b19efbea1514
@@ -84,6 +87,8 @@ references:
 - text: Secret 1971 inner-ear surgery let Shepard command Apollo 14.
   source: Dark Mission
   location: ch19:34452-34583
+  quote: He had a secret and then-innovative inner ear surgical procedure, which allowed
+    him to ultimately command Apollo 14 to the Moon in 1971.
   claim_id: c45e53aa-b1bf-4fd7-8228-ca0408a0d814
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c45e53aa-b1bf-4fd7-8228-ca0408a0d814
@@ -92,6 +97,9 @@ references:
     1971-02-05.
   source: Dark Mission
   location: ch19:34590-34807
+  quote: It was during the last EVA of Apollo 14, you might remember, that Alan Shepard
+    surprised NASA and the Nation on live television—and achieved a unique claim to
+    history as well—with his famous "… first golf shot on the Moon."
   claim_id: d7a03f8c-b796-4237-9c59-a16e5f9e7d78
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-d7a03f8c-b796-4237-9c59-a16e5f9e7d78
@@ -99,6 +107,7 @@ references:
 - text: Shepard boasted live that the golf ball 'went miles and miles.'
   source: Dark Mission
   location: ch19:36976-37014
+  quote: boasted that the ball "went miles and miles."
   claim_id: 61287fc3-812c-4c3d-8045-4a0a4dd70685
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-61287fc3-812c-4c3d-8045-4a0a4dd70685
@@ -232,6 +241,8 @@ references:
 - text: Only Shepard and Mitchell landed; each carried one Hasselblad.
   source: Dark Mission
   location: ch19:36190-36332
+  quote: since there were only *two* Apollo 14 astronauts who landed on the Moon—Shepard
+    and Mitchell—and just two Hasselblad cameras (one for each of them)
   claim_id: e9bf340f-dc5d-4c26-804b-bac10119d765
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e9bf340f-dc5d-4c26-804b-bac10119d765
@@ -240,6 +251,10 @@ references:
     Under Glass').
   source: Dark Mission
   location: ch11:95067-95367
+  quote: One particularly spectacular frame stood out—what has come to be known as
+    'Mitchell Under Glass' (AS14-66-9301)—a shot of astronaut Edgar Mitchell deploying
+    the TV camera just north of the A-14 landing site, taken by Apollo 14 Commander
+    Alan Shepard early in EVA-1, as part of the preceding panorama sequence.
   claim_id: e2496a0a-8a1e-42e7-b641-d643f1051a6d
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-e2496a0a-8a1e-42e7-b641-d643f1051a6d
@@ -247,6 +262,9 @@ references:
 - text: AS14-66-9301 confirmed as a genuine Apollo 14 photograph.
   source: Dark Mission
   location: ch19:39378-39574
+  quote: this (see Color Fig. 5) is a *real* Apollo 14 photograph, taken by Alan Shepard
+    of his fellow astronaut, Ed Mitchell—as Mitchell was setting up the TV camera
+    at the beginning of their first lunar EVA.
   claim_id: 83e3e30b-fe6e-4481-8925-19e8273ad710
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-83e3e30b-fe6e-4481-8925-19e8273ad710
@@ -254,6 +272,8 @@ references:
 - text: Shepard took the Apollo 14 landing site panorama in the Johnston Collection.
   source: Dark Mission
   location: ch14:46264-46354
+  quote: Color Fig. 4 - Apollo 14 landing site panorama from Ken Johnston collection
+    taken by Alan Shepard.
   claim_id: 62ae6524-70ec-44cf-bc5d-8b1d71c6b43e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-62ae6524-70ec-44cf-bc5d-8b1d71c6b43e
@@ -261,6 +281,10 @@ references:
 - text: AS14-66-9279 shares scattered-light geometry with Johnston's version of AS14-66-9301.
   source: Dark Mission
   location: ch20:14434-14715
+  quote: ALSJ Archive frame AS14-66-9279 [Fig. E-3])—a photograph Alan Shepard took
+    while standing on the east side of the LM—contains major elements of *the same
+    scattered light geometry* as seen on Ken’s version of “9301” (where Shepard was
+    standing to the west when he took that amazing photograph).
   claim_id: 442cdfb3-15d5-4dbd-bca6-98a4175370e3
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-442cdfb3-15d5-4dbd-bca6-98a4175370e3
@@ -269,6 +293,10 @@ references:
     section.
   source: Dark Mission
   location: ch19:35488-35787
+  quote: It's when you begin to examine the *photographic* section of their joint
+    authorship, "Moon Shot," that the real problems begin. There, right in the middle
+    of Shepard's own account of his amazing against-all-odds personal journey to the
+    Moon… … Is a *deliberately* faked record of the trip [Fig. 12-4].
   claim_id: 0160d752-53a1-4121-87d7-f6d5288ec0d1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-0160d752-53a1-4121-87d7-f6d5288ec0d1
@@ -277,6 +305,9 @@ references:
     one Hasselblad.
   source: Dark Mission
   location: ch19:36340-36568
+  quote: who took THIS Hasselblad shot—published as a two-page spread (note the central
+    binding in the reproduction), in Shepard's own "space biography?" ... Both astronauts—Shepard
+    and Mitchell—are seen simultaneously *in the same photograph?*
   claim_id: 16f24297-18aa-4260-8446-766ada69d340
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-16f24297-18aa-4260-8446-766ada69d340
@@ -285,6 +316,11 @@ references:
     transmission.
   source: Dark Mission
   location: ch19:36582-36965
+  quote: The only other camera which could have taken this particular image was the
+    color television camera, erected by Mitchell at their landing site soon after
+    first emerging from the lunar module "Antares" two days earlier. In fact, this
+    camera did send back to Earth a running sequence of television images of this
+    event, in parallel with Shepard's live radio transmission as he took his swing
   claim_id: 2aaa09b3-55dd-4b26-86f9-311caaa19463
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2aaa09b3-55dd-4b26-86f9-311caaa19463
@@ -293,6 +329,8 @@ references:
     event.
   source: Dark Mission
   location: ch19:37241-37363
+  quote: we noted, among other things, that the flag was pointing the opposite direction
+    in the photo, Shepard's body position was different
   claim_id: eeb29cf0-429d-4a93-90b8-f64519fec291
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-eeb29cf0-429d-4a93-90b8-f64519fec291
@@ -300,6 +338,11 @@ references:
 - text: The faked centrefold composites cutouts onto Antares, with the flag reversed.
   source: Dark Mission
   location: ch19:88846-89219
+  quote: Fig. 12-4 - Faked “centerfold image” from Alan Shepard’s book “Moon Shot.”
+    Portions of Apollo 14 Lunar Module Antares (L) is copied and reversed in right
+    hand image. In addition, astronauts, “golf ball,” TV antenna, shadows and flag
+    are added “cutouts” from other Apollo 14 imagery—with flag pointing in opposite
+    direction from actual Hasselblad photograph (L) and live TV downlink.
   claim_id: 1e961c77-172b-43d3-bb47-0b4b8b560577
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-1e961c77-172b-43d3-bb47-0b4b8b560577
@@ -307,6 +350,8 @@ references:
 - text: Persistent, unconfirmed rumours held that Armstrong and Shepard were Freemasons.
   source: Dark Mission
   location: ch12:117569-117681
+  quote: There have been persistent rumors that Neil Armstrong and Alan Shepard were
+    also members, but it has never been confirmed
   claim_id: 2b69683e-9e42-495b-b884-d695e62361d1
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-2b69683e-9e42-495b-b884-d695e62361d1
@@ -315,6 +360,9 @@ references:
     Shepard was.
   source: Dark Mission
   location: ch12:29667-29846
+  quote: or maybe (as he found out with Alan Shepard and America's first manned sub-orbital
+    flight, back in 1961 …) the men themselves—Armstrong and Aldrin—had, for some
+    reason, been pre-selected.
   claim_id: c71114cb-d74c-4805-99a9-43394b33f18e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
   workbench_url: https://workbench.anomalica.is/25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225#claim-c71114cb-d74c-4805-99a9-43394b33f18e

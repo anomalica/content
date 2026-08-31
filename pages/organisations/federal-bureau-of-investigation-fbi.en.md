@@ -114,6 +114,8 @@ references:
     United States.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:1704-1778
+  quote: The FBI is responsible for handling federal crimes within the continental
+    US.
   claim_id: fae26fbd-46df-4160-a4a4-c3c86d7cc42a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fae26fbd-46df-4160-a4a4-c3c86d7cc42a
@@ -122,6 +124,8 @@ references:
     memo.
   source: In Plain Sight
   location: ch8:4509-4585
+  quote: The report, from Guy Hottel, the then head of the FBI's Washington DC field
+    office
   claim_id: bda76c77-8f53-4fae-969b-f4f841e94a4c
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bda76c77-8f53-4fae-969b-f4f841e94a4c
@@ -130,6 +134,7 @@ references:
     archive, according to In Plain Sight.
   source: In Plain Sight
   location: ch8:4593-4665
+  quote: remains the most controversial, and the most popular, file in the FBI's archive
   claim_id: 4d8fef51-4615-46fc-b29e-f7c58f0996a6
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-4d8fef51-4615-46fc-b29e-f7c58f0996a6
@@ -138,6 +143,9 @@ references:
     and does not prove the existence of aliens.
   source: In Plain Sight
   location: ch8:4711-4905
+  quote: the FBI, no doubt jaded by flying saucer conspiracists seizing on the memo,
+    asserts that the Hottel report was never confirmed or investigated, and that the
+    memo does not prove the existence of aliens
   claim_id: ce17cad1-c452-4f60-ac5f-2b56b1cad793
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ce17cad1-c452-4f60-ac5f-2b56b1cad793
@@ -146,6 +154,8 @@ references:
     Mexico.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:22897-23016
+  quote: The Zamora case attracted a plethora of investigators. Local law enforcement,
+    of course. The FBI. The US Army. The Air Force.
   claim_id: 1a16ce6e-b476-4bb6-9b86-c5de8491bb5a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1a16ce6e-b476-4bb6-9b86-c5de8491bb5a
@@ -164,6 +174,9 @@ references:
     with FBI Director Clarence Kelley.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:23258-23441
+  quote: In a news release dated Sept. 18, 1975, the senior Senator from Colorado,
+    Floyd K. Haskell, disclosed that he had discussed the matter with FBI director
+    Clarence Kelley and his chief assistant.
   claim_id: 43b8ca14-9eec-4b9c-82a5-8f2ef229f069
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-43b8ca14-9eec-4b9c-82a5-8f2ef229f069
@@ -172,6 +185,8 @@ references:
     absent evidence of interstate movement.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:23461-23565
+  quote: the FBI concluded it had no jurisdiction to enter the case, because there
+    was no evidence of interstate movement
   claim_id: 4177bf86-f094-4cd3-b337-2b4fecdfd79e
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-4177bf86-f094-4cd3-b337-2b4fecdfd79e
@@ -180,6 +195,9 @@ references:
     the 1975 occult mutilation investigation.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch12:32370-32567
+  quote: dozens of law enforcement agencies in many states, as well as such federal
+    agencies as the FBI and the Bureau of Alcohol, Tobacco, and Firearms of the Treasury
+    Department, had been pulled into the investigation
   claim_id: 87c32ede-8449-4403-a916-6b8abd6d7d89
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-87c32ede-8449-4403-a916-6b8abd6d7d89
@@ -189,6 +207,9 @@ references:
     predation.
   source: In Plain Sight
   location: ch15:6125-6337
+  quote: An FBI investigation had conceded in 1980 that there were mutilation cases
+    that could not be prosaically explained, concluding, without any evidence, that
+    the mutilations were predominantly the result of natural predation.
   claim_id: f9591521-8b12-4e92-842b-8da9721c6b48
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f9591521-8b12-4e92-842b-8da9721c6b48
@@ -197,6 +218,8 @@ references:
     three US State Attorneys-General, failed to solve the mystery.
   source: In Plain Sight
   location: ch15:7652-7790
+  quote: A massive 100 agent FBI investigation into suspected human involvement, demanded
+    by three US State Attorneys-General, failed to solve the mystery.
   claim_id: 7ba807c7-051e-4207-b833-5e8c54f96e55
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7ba807c7-051e-4207-b833-5e8c54f96e55
@@ -217,6 +240,10 @@ references:
     have continued for decades.
   source: In Plain Sight
   location: ch15:3493-3752
+  quote: It is a matter of public record, observed by police, FBI agents and local
+    veterinarians, that there have continued to be thousands of physical evidence
+    reports of what witnesses say are clearly suspicious cattle mutilations across
+    a huge swathe of the US for decades.
   claim_id: ab0d8ddd-9e7d-4c62-b454-d1355da6c018
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ab0d8ddd-9e7d-4c62-b454-d1355da6c018
@@ -225,6 +252,8 @@ references:
     as an elaborate hoax.
   source: In Plain Sight
   location: ch14:15850-15976
+  quote: However, the Federal Bureau of Investigation (FBI) and even some UAP researchers
+    have dismissed the documents as an elaborate hoax.
   claim_id: 3a57dade-5e71-4555-8cdb-83d5530d7df4
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-3a57dade-5e71-4555-8cdb-83d5530d7df4
@@ -245,6 +274,8 @@ references:
     threaten that anyone who spoke about the crash would be killed.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:8596-8738
+  quote: 'FBI agents visited ranchers in the region, going door-to-door to deliver
+    the threatening message: if you speak about the crashes, you will be killed.'
   claim_id: b109f646-8c09-4d39-b776-4530fd5719c2
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b109f646-8c09-4d39-b776-4530fd5719c2
@@ -253,6 +284,8 @@ references:
     threatened by the FBI after the 1947 crash.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:8451-8587
+  quote: He once confided to Hal and Eric that his family was among the Roswell families
+    who were threatened by the FBI after the famous Roswell crashes.
   claim_id: b7c6650d-8920-404a-9cdd-d6e616f813f7
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b7c6650d-8920-404a-9cdd-d6e616f813f7
@@ -261,6 +294,8 @@ references:
     websites for public search and download, Luis Elizondo said.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:20721-20820
+  quote: The CIA and FBI sometimes slapped them up on their websites, for the whole
+    world to search for and download.
   claim_id: d227955c-cd8d-4f91-8eeb-69e89838ebe9
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d227955c-cd8d-4f91-8eeb-69e89838ebe9
@@ -269,6 +304,9 @@ references:
     the FBI, CIA and the Department of Homeland Security.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:719-912
+  quote: I led classified investigations worldwide with partners that included the
+    Federal Bureau of Investigation (FBI), the Central Intelligence Agency (CIA),
+    and the Department of Homeland Security (DHS).
   claim_id: 4d1a24ed-c8be-4d09-a5fa-9dd24272674a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4d1a24ed-c8be-4d09-a5fa-9dd24272674a
@@ -277,6 +315,8 @@ references:
     branches, FBI, CIA and the Department of Energy.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:4434-4548
+  quote: Meanwhile, Jay and I worked our network of friends in the military branches,
+    FBI, CIA, and even the Department of Energy.
   claim_id: 862a7909-f591-481f-ae3d-c99172c44870
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-862a7909-f591-481f-ae3d-c99172c44870
@@ -285,6 +325,9 @@ references:
     the FBI, National Reconnaissance Office, NASA and FAA.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch31:4914-5148
+  quote: So Jay started putting that together, handpicking his members/reps from all
+    the intelligence agencies and civilian-led agencies, from the FBI to the National
+    Reconnaissance Office (NRO) to NASA to the Federal Aviation Administration (FAA).
   claim_id: 1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
@@ -293,6 +336,9 @@ references:
     Kandahar, Afghanistan.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch37:1206-1381
+  quote: With FBI Director Robert Mueller in Kandahar. As part of Task Force Dagger,
+    the FBI was one of many US organizations we worked with to locate terrorist cells
+    operating in the area.
   claim_id: 37a07c59-551e-4275-a93c-e33b725eaeee
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-37a07c59-551e-4275-a93c-e33b725eaeee
@@ -301,6 +347,8 @@ references:
     terrorist cells operating in Afghanistan.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch37:1252-1381
+  quote: As part of Task Force Dagger, the FBI was one of many US organizations we
+    worked with to locate terrorist cells operating in the area.
   claim_id: 97f691b9-cf05-47e6-b77d-93284b49fd93
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-97f691b9-cf05-47e6-b77d-93284b49fd93
@@ -309,6 +357,8 @@ references:
     might have been spared had the CIA and FBI shared information.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:14322-14471
+  quote: On September 11, 2001, America suffered the loss of thousands of lives that
+    might have been spared if the CIA and FBI had only been willing to share information.
   claim_id: 0ba97adc-5bbf-44dc-a31d-8d140da6c376
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0ba97adc-5bbf-44dc-a31d-8d140da6c376
@@ -317,6 +367,10 @@ references:
     important UAP data they were not sharing with each other.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch6:17564-17844
+  quote: Meanwhile, the National Reconnaissance Office (NRO), the Central Intelligence
+    Agency (CIA), the National Geospatial-Intelligence Agency (NGA), the Federal Bureau
+    of Investigation (FBI), and the National Security Agency (NSA) also appeared to
+    have important UAP data they were not sharing.
   claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
@@ -325,6 +379,8 @@ references:
     assigned to the Albuquerque Field Office, Elizondo said.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch20:474-590
+  quote: These witnesses included scientists, security personnel, and an FBI special
+    agent assigned to the Albuquerque Field Office.
   claim_id: c39091df-6c5b-4177-8274-2c40bef3aebb
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c39091df-6c5b-4177-8274-2c40bef3aebb

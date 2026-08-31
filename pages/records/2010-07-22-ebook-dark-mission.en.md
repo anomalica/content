@@ -20,6 +20,8 @@ references:
     Viking images of Cydonia in 1983.
   source: Dark Mission
   location: ch6:195-328
+  quote: ever since the Independent Mars Investigation in 1983, when we began looking
+    at those first enigmatic Viking images of Cydonia and wondered
   claim_id: 44732038-90df-4c77-ab6e-9e3fbae83082
   claim_fingerprint: 5124de9fb93e4078e35f8ffe4e1057ff846a3b3a0437c1460fa35e7d7d56dd52
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
@@ -30,6 +32,7 @@ references:
     Pyramid were collectively called the Cydonia Complex.
   source: Dark Mission
   location: ch8:12599-12657
+  quote: formed what became known as the “Cydonia Complex” [Fig. 1-4].
   claim_id: b14daf0f-bfd6-49f5-87ab-57dae9eac66e
   claim_fingerprint: 93e25f5e4d1442bf07f1c26ba1aee82bdeea22328be27de3a92fe0df5bf7c314
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
@@ -40,6 +43,9 @@ references:
     arcology.
   source: Dark Mission
   location: ch6:15017-15181
+  quote: It appears that MRO has successively "reconned" nothing less than the open
+    and eroding remains of a highly geometric, multi-layered, multi-leveled, ancient
+    Martian arcology.
   claim_id: 85669563-2625-4c44-9be9-46c7ed8f05bb
   claim_fingerprint: e533b2ecdefb434d114883fcb47fca4933caabb7f2b478a236057ae89ed9e5ca
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
@@ -50,6 +56,10 @@ references:
     kilometres above the surface.
   source: Dark Mission
   location: ch11:159398-159655
+  quote: Fig. 4-6 - Close-up of The Shard, an anomalous vertical lunar feature with
+    elaborate internal geometric detail (see inset), extending at least 1.5 miles
+    above the airless lunar surface. Computer-enhancement and enlargement from NASA
+    Lunar Orbiter frame III-84M.
   claim_id: 8a22f0ab-ed58-4db1-b9ac-761a573c63a5
   claim_fingerprint: 220af69b83ae2934f493dc6fc8444f08f3504b1452915d9996669cfce7bae2ad
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
@@ -59,6 +69,10 @@ references:
 - text: The Tower/Cube was presented as a second lunar anomaly beyond the horizon.
   source: Dark Mission
   location: ch11:159679-159977
+  quote: Fig. 4-7 - This wide-angle enhancement from III-84M reveals a second “artificial
+    anomaly” above the Moon, on the same NASA frame—a peculiar “Tower/Cube.” Located
+    just to the left (south) of the “Shard,” somewhere beyond the lunar horizon (~260
+    miles distant), this “faint smudge" is not a comet or a g
   claim_id: 6d596bf3-2975-4321-9fc0-a391144f1dda
   claim_fingerprint: 62e3a823a78098e4db2d82916e1f6787feb5f91151fc8c42369154cebe5fc8b2
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
@@ -69,6 +83,9 @@ references:
     lunar domes.
   source: Dark Mission
   location: ch6:42799-43031
+  quote: this LCROSS IR image had recorded the heat radiation being emitted from the
+    remnants of ancient lunar domes still arching over this part of the Moon’s surface.
+    There is no other plausible scientific explanation for that color-coded image.
   claim_id: 8842b222-84d0-40ac-a7fc-794ea51aa6b7
   claim_fingerprint: ab688d8f105c574a6474916fac5765a50487e07d32bcd238b2739adf359b5070
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
@@ -79,6 +96,9 @@ references:
     both the artificiality hypothesis and the Ritual Alignment Model.
   source: Dark Mission
   location: ch13:45099-45279
+  quote: Admittedly, we ended the first round of new Cydonia imaging with some very
+    substantive evidence to support not only the artificiality hypothesis, but our
+    ritual alignment model as well.
   claim_id: 281d5f09-876a-4daa-84f0-e12837fef6f6
   claim_fingerprint: c2b0578ed3607a11b196ff8faa631b7e0ec2a90ed0aa9dca453513f685788e8e
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
@@ -89,6 +109,8 @@ references:
     physicists.
   source: Dark Mission
   location: ch9:15913-16018
+  quote: most modern physicists (certainly in the West) still reject the notion, and
+    stubbornly don’t want to “go there.”
   claim_id: 7b7877ad-f280-46eb-ae9a-909b6386dfa7
   claim_fingerprint: 6e753d895a7b8a2688bea73f69c202f5790b6382d9ff3334840471f23a068d25
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
@@ -99,6 +121,8 @@ references:
     been confirmed or supported by initial observations.
   source: Dark Mission
   location: ch9:102058-102134
+  quote: five of which have already been confirmed or have been supported by initial
+    observations
   claim_id: af5789c9-1a2f-4142-af5f-6df83fec9a48
   claim_fingerprint: 9407bab032cd20a7999036aa4febed7c2006e73e967cae2b5e609286e7c47887
   record_hash: 25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225
