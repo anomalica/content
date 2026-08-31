@@ -187,9 +187,6 @@ references:
     UFOs. We call them UAPs.
   claim_id: ae131adf-640a-4d03-b509-f0a9e1f04fc8
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
-  quote: The mission of AATIP was quite simple. It was to collect and analyze information
-    involving anomalous aerial vehicles, what I guess in the vernacular you call them
-    UFOs. We call them UAPs.
   copyright_status: publicly_accessible
 - text: AAVs detected multiple times over the horizon, descending approximately 24,000
     metres in less than a second
@@ -200,9 +197,6 @@ references:
     descending 80,000 feet in less than a second.
   claim_id: 65e79861-be56-4d79-ac97-b0f03c3c19ea
   record_hash: f9e6ff157fca7f681cfff9d23b9dddc3e6a9408656732fbd23219cd0
-  quote: For a week, the advanced new radar on a nearby ship, the USS Princeton, had
-    detected what operators called multiple anomalous aerial vehicles over the horizon,
-    descending 80,000 feet in less than a second.
   copyright_status: publicly_accessible
 - text: USS Princeton detected multiple AAVs operating in and around the vicinity
     of the Carrier Strike Group on several occasions
